@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-10 notes. Synced from the reader.
+11 notes. Synced from the reader.
 
 ## Prologue
 
@@ -46,3 +46,7 @@ Make her nicer room
 > who I do not believe slept at all,
 
 Don’t throw these in there. Adds n o value without further commentary. Why don’t I believe she slept. It’s not fully formed. Make a skill modification
+
+> A smith's fire was going somewhere, and the ring of a hammer came steady and unhurried across the cold air. The herb-shop had its shutters open to air the place, and the same green bitterness of the evening before drifted out of it into the street.
+
+Add more variety here. This is just same two shops you know of. More flavor please
