@@ -7,9 +7,11 @@
 
 ## STATUS
 
-- Chapters drafted: **Prologue + Chapter 1** (`manuscript/00-prologue.md`, `manuscript/01-chapter-one.md`).
-- Current manuscript position: Chapter 2 next — the morning walk up the hill.
-- Spelling decision to lock and hold: **Ren** (default) or **Wren** — still open; lock at first appearance.
+- Chapters drafted: **Prologue + Chapters 1–2** (`manuscript/00-prologue.md`,
+  `manuscript/01-chapter-one.md`, `manuscript/02-chapter-two.md`).
+- Current manuscript position: Chapter 3 next — Emlyn now owns the hill (handshake done,
+  Penworth finalizing); the household/chest and the first building work lie ahead.
+- Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2).
 
 ## SESSION-LOCKED AUTHOR DECISIONS (binding; supersede references where they differ)
 
@@ -88,16 +90,61 @@
   Cael: "A man ought to look at a hill before he owns it." Penworth: "a thing that isn't
   written down is only a rumor two men are having."
 
+## ESTABLISHED ON THE PAGE (Ch 2 — "Walking the Bounds")
+
+- **Same day as Ch 1 (morning→night).** Emlyn climbs the crown ALONE at dawn: finds NO hum —
+  "I heard nothing at all" — only an unusual, "held-breath" silence he puts down to fancy;
+  and, the real turn, that he *does not want to leave* (first wanting in three years, which
+  reads to him as alarm). Marks the great old oak standing alone out of the north wood (does
+  not yet know what it is). Comes down to fetch someone who knows the ground.
+- **Midday at Lira's:** she greets him "you've been up it, then" but pointedly does NOT ask
+  what he found (saving the question). Emlyn announces to the room he means to build; the room
+  warns, kindly, that "nothing stands on that hill" ("you and Cael's father both"). Cael asked
+  the question in the open ON PURPOSE (first bit of village-governing Emlyn notices).
+- **Jorin & Ren introduced** (both did NOT laugh at the hill-talk). Jorin: broad, grey,
+  unhurried; squares his cup to the table edge (twice); "best hands in three valleys, fewest
+  words"; Cael names him the man for the job — "he'll not tell you it can't be done... nor
+  that it can." Ren (~16, Jorin's son): dark, built long, frank open curiosity, files Emlyn
+  with a head-tip. Narrator foreshadows both (Jorin will raise every wall; Ren's is "the
+  greatest gift"; the boy "feels the make of things through his hands").
+- **The walk of the bounds with Cael (+ Soren trailing):** Penworth bought MORE than the hill
+  — the hill, the woodland strip (oak/ash/larch along the low road), the meadow off the NE
+  shoulder, and a mill-pond water stake. Features: a cold, clear spring on the hill's SOUTH
+  face, never dry in living/grandmother's memory (Emlyn will build around it); a shelf of
+  deeper, greener grass along the EASTERN slope where Emlyn feels something unnamed and says
+  nothing (Cael watches him not-mention it — do NOT preempt Brenna's later "that's where she'd
+  have built"). Soren went ahead crouching over patches of ground, and on the crown laid his
+  BARE HAND FLAT ON A STONE, then came on saying nothing (narrator flags it, unexplained).
+- **Cael's father's failed shelter (SEED PLANTED):** ~40 yrs ago Cael's father — "a fair
+  mason, not Jorin" — tried a stone bothy on the crown. It would not stand: a wall fell in the
+  night with no wind; timbers cut true went in crooked; mortar that cured everywhere else
+  stayed wet a month. He gave it a summer, gave up, told boy-Cael: *"The ground won't take it,
+  son. Some ground won't. Leave it be."* Cael lays this out plainly, trying to talk Emlyn OUT
+  of buying. (This is the outline's Ch-2 seed → recontextualized by the twist.)
+- **THESIS foreshadowed (not named):** Emlyn's private thought — "there is a great difference
+  between a thing that cannot be built on, and a thing that has never once been *asked*." The
+  surveyor's marginal note itself is NOT yet found (reserved for the first working).
+- **THE PURCHASE (chapter's close):** Emlyn decides on the crown, having heard the warning;
+  he and Cael shake on it the old way — "a price already fair, and nothing written down at
+  all." Cael visibly moved (40 years' weight leaving his shoulders): "Then it's yours, and God
+  help you, and I'm glad." Emlyn writes to **Penworth** that night to finalize everything —
+  purchase, parcels, water rights ("spare no care over the water rights") — keeping the clean
+  promise for himself and handing the machinery to Penworth.
+- **Grief / thaw:** that night Emlyn did NOT take out the carried letter — "the first evening
+  in three years that I had wanted the morning to come." First clear step of the grief thaw.
+
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 
 1. **Lira — RESOLVED:** short but friendly (see session-locked decisions above). Ch 1 revised
    to trim her speeches to few, plain, warm words. Informant thread retained; arc re-aimed.
 2. **Outline Ch-1 beats not used** (two wagons, chest on stage, first night under canvas,
    "sold with unseemly speed"): superseded by the drafted arranged-purchase arrival. The
-   chest and household goods must still ARRIVE in an early chapter (wagons, after purchase).
-3. **Cael's father's failed shelter** (canon, 40 years ago) not yet mentioned — still
-   available as a seed; it does not contradict the grandmother material on the page
-   (grandmother = listener; father = failed builder; both true).
+   chest and household goods must still ARRIVE in an early chapter (wagons, after purchase) —
+   now MORE pressing, since the purchase is done as of Ch 2; the move-in is the next natural
+   window for the chest to arrive and the grief-objects to assemble.
+3. **Cael's father's failed shelter — RESOLVED / PLANTED (Ch 2):** now on the page, told by
+   Cael on the crown. No conflict with the grandmother material (grandmother = listener/hearer;
+   father = failed builder). Payoff at the twist.
 
 ---
 
@@ -196,7 +243,17 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 
 ## PENDING PAYOFFS (seed → target chapter)
 
-- Cael's father's failed shelter (seed Ch 2) → recontextualized by the twist (Ch 28).
+- Cael's father's failed shelter (PLANTED on the page Ch 2) → recontextualized by the twist (Ch 28).
+- The deeper-green eastern shelf (Emlyn feels something, unnamed, Ch 2) → Brenna's "that's
+  where she'd have built" / the storehouse site (~Ch 16). Do not preempt.
+- Soren's bare hand flat on a crown-stone (Ch 2) → his talent surfacing / "the hill's good
+  place" drawing (Part III/IV).
+- The never-dry spring on the hill's south face (Ch 2) → the well and water-works of the
+  building arc (later).
+- Thesis foreshadowed in Emlyn's thought "never once been asked" (Ch 2) → surveyor's marginal
+  note found at the first working → earned at the climax.
+- The chest + household goods must ARRIVE (move-in chapter, next window) → assembles the four
+  grief-objects on the page.
 - Tomas's standing promise (seed Ch 10) → kept (Ch 22).
 - The sticking drawer / callipers (seed Ch 15) → opens when the letter is read (Ch 27).
 - The unsigned correspondent (seed Ch 14) → handwriting-in-his-notation reveal (Ch 26).
@@ -209,7 +266,8 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 
 ## OPEN QUESTIONS / AUTHOR DECISIONS
 
-- Ren vs. Wren spelling — lock at Ch 1.
+- Ren vs. Wren spelling — RESOLVED: **Ren** (locked, used Ch 2).
 - Twist configuration — primary (compass points down + handwriting hook) recommended; alternates
   in the outline if the author prefers Drace's visit or Lira's confession as the closing pressure.
 - Title — working options: *Ask for Passage* / *The Hill's Good Place* / *Foundations*.
+- Interlude/reader-superior first-person adaptation (session-locked #6) — still OPEN.

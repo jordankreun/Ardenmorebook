@@ -7,20 +7,22 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapter 1.
-- Word count so far: ~4,260 / ~70,000 target.
-- Next to write: **Chapter 2 — the morning walk of the hill** (first contact with the hum;
-  the decision; the paperwork with Penworth's man).
+- Drafted: Prologue + Chapters 1–2.
+- Word count so far: ~8,150 / ~70,000 target.
+- Next to write: **Chapter 3** — move-in / the household and chest arrive; first work on the
+  ground (the reshaping ward; the surveyor's "ask for passage" note found). Exact shape open.
 
 ---
 
 ## RECAP LEDGER
 
-[00] Prologue — The ancient narrator (effectively immortal; mechanism unstated) frames the
-book: everyone in the story is gone but him; he was a widowed man in his mid-thirties when it
-began, not a boy; the story is of how he came to a green hill and began, without meaning to,
-to build. CLOSING IMAGE: "Begin, then, where it began: on a road, in the spring, a very long
-time ago." NEW FACTS: first-person retrospective frame; narrator's longevity; no names given.
+[00] Prologue — The ancient narrator frames the book as an honest accounting: he writes not
+because memory fails (his never has — a quiet longevity hint) but because a man reaches the age
+for setting things down, and because the tales told about him have grown so many and so wrong;
+everyone in the story is gone but him; he was "a man at the tired end of a bad few years, with
+rather more skill than sense" — not a boy, not (yet) the legend. CLOSING IMAGE: "on a road, in
+the spring, a very long time ago." NEW FACTS: first-person retrospective frame; longevity only
+implied; age/widowhood/power NOT stated in the prologue (they live in Ch 1 + canon).
 
 [01] Ardenmoor — Emlyn arrives alone on Snow after a four-day ride to view the hill Penworth
 provisionally purchased (with surrounding land); passes Tomas and Brenna on the way in; lodges
@@ -31,6 +33,21 @@ ends at the foot of the hill. CLOSING IMAGE: "Then I started up." NEW FACTS: see
 bible's "Established on the page" section — key ones: hum not yet experienced by Emlyn; only
 grief-object on stage is the carried letter; Lira promised a report on the hill's "hearing"
 (narrator says he kept it, much later); Cael's grandmother = the listener; Soren ~nine.
+
+[02] Walking the Bounds — Same day: Emlyn climbs the crown alone at dawn (no hum — only an
+unusual held silence he dismisses, and the alarming discovery that he does not want to leave),
+comes back to Lira's for midday and meets the builder Jorin and his son Ren (neither laughs
+when the room warns "nothing stands on that hill"), then walks the full bounds with Cael and
+Soren — learning Penworth bought the hill plus the woodland strip, the NE meadow, and a
+mill-pond water stake, and hearing how Cael's father's shelter would not stand forty years ago
+("the ground won't take it, son"). He decides anyway, shakes on it on the crown, and writes to
+Penworth that night to finalize payment, deeds, and parcels. CLOSING IMAGE: the first evening
+in three years he wanted morning to come — the carried letter left unheld in his coat. NEW
+FACTS: spelling LOCKED as **Ren**; purchase agreed by handshake (Penworth to finalize);
+land = hill + woodland strip + NE meadow + mill-pond water; Cael's father's failed shelter
+PLANTED (→ twist); never-dry south-face spring; deeper-green eastern shelf (Emlyn feels
+something, unnamed — do not preempt Brenna); Soren laid his bare hand flat on a crown-stone
+(unexplained); Jorin & Ren introduced; thesis foreshadowed ("never once been asked").
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
