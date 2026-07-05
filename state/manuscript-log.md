@@ -23,10 +23,12 @@ because memory fails (his never has, a quiet longevity hint) but because a man r
 for setting things down, and because the few badly-warped tales that survive deserve one true
 version. He is NOT famous ("not a man they sing about"; only the occasional garbled, half-myth
 story exists). Everyone in the story is gone but him; he was "a man at the tired end of a bad few
-years, with rather more skill than sense," not a boy, not (yet) the legend. CLOSING IMAGE: the
-button on "a younger and a good deal more foolish version of myself… had not the first idea that
-it was coming." NEW FACTS: first-person retrospective frame; longevity only implied; NOT famous;
-punctuation house rule locked (no em dashes).
+years, with rather more skill than sense," not a boy, not (yet) the legend. (Revised per reader
+note: the account now explicitly starts with "only a man" — "There is no wonder in it, and there
+is no boy" — and the old closing "we begin a very long time ago… foolish version of myself"
+paragraph was REMOVED.) CLOSING IMAGE: "I do, and that is the one advantage I have ever held over
+him, and the one I would most gladly give back." NEW FACTS: first-person retrospective frame;
+longevity only implied; NOT famous; punctuation house rule locked (no em dashes).
 
 [01] Ardenmoor — Emlyn arrives alone on Snow after a four-day ride to view the hill Penworth
 provisionally purchased (with surrounding leasable farmland); the village registers only as
