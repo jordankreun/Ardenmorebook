@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-3 notes. Synced from the reader.
+4 notes. Synced from the reader.
 
 ## Prologue
 
@@ -18,3 +18,7 @@ Remove
 > good horse
 
 Better introduce horse
+
+> and in the matter of what I ought to want
+
+Unclear
