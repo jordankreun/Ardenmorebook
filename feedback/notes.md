@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-9 notes. Synced from the reader.
+10 notes. Synced from the reader.
 
 ## Prologue
 
@@ -42,3 +42,7 @@ As there is an inn the road should go away but could be nothing special and it p
 > small room under the eaves with a bed and a stool and a window, and wished me a good night with the flat, practiced ease of a woman who had wished ten thousand of them, and left me to find the stairs on my own
 
 Make her nicer room
+
+> who I do not believe slept at all,
+
+Don’t throw these in there. Adds n o value without further commentary. Why don’t I believe she slept. It’s not fully formed. Make a skill modification
