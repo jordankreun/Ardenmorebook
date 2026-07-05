@@ -128,17 +128,23 @@ if it needs a new one, add it here.
   road/spring opening).
 - **Ch 1 events:** third week of spring; four-day ride alone on Snow (mare); Penworth's
   3-page letter ("a hill of no agricultural worth and considerable quiet") provisionally
-  secured hill + land; road "gives up" into a green lane; first sight of village from the
+  secured hill + land; road modest/indifferently kept and **poorly marked** but real (NOT
+  petering into trackless grass — a village with an inn and mill has a road that serves it);
+  first sight of village from the
   bend by the old oak; hill marked as ordinary ("I had seen a thousand hills") — hum NOT yet
   experienced by Emlyn; entry through village; supper + lodging at the inn; morning walk
   through the waking village; chapter ends at the foot of the hill as he starts up.
 - **Cast on stage (Ch 1) — introduced ORGANICALLY, not lined up.** The village folk are AMBIENCE, not a
   parade: no village person is met, seen close, individuated, or named in Ch 1. They register
-  only as sense-impressions (deferred): the **smithy** (a hammer heard ringing past its hour,
-  evening and morning; the smith himself unseen; = Tomas's forge); the **herbalist's shop** (its
-  green-bitter smell as Emlyn passes, evening and morning; no person, no stare; = Brenna's); the
+  only as sense-impressions (deferred): the **smithy** (a hammer heard ringing past its hour in the
+  evening, and starting up unhurried in the morning; the smith himself unseen; = Tomas's forge);
+  the **herbalist's shop** (its green-bitter smell as Emlyn passes in the EVENING; = Brenna's —
+  NOT repeated in the morning, per the reader note against re-using the same two shops); the
   **mill** (on the morning walk a broad flour-white figure lifts two fingers in a salute;
-  anonymous; = Maret). NAMED (active characters he actually deals with): **Cael** (seller; walking
+  anonymous; = Maret). The **morning walk adds fresh village texture** (per reader note): the
+  **communal domed oven near the inn** (first loaves drawn on a peel; households without their own
+  oven bring dough; Ardenmoor too small for a proper bakery), a **dairymaid under two pails**, a
+  **man rethatching a gable with last year's reed**, the goose-woman. NAMED (active characters he actually deals with): **Cael** (seller; walking
   stick, "private treaty with his knees," sharp eyes; grandmother loved the hill "past all sense"
   and swore you could HEAR it, never said what; "I'd not sell that particular hill to just any
   man"; sets the terms: walk it in the morning, decide by noon, paperwork to Penworth's man);
@@ -168,6 +174,21 @@ if it needs a new one, add it here.
 - **Trimmed for flow (Ch 1):** the "I will not pretend I knew what I was looking at" aside, the "a
   village does not hand you its people all at once" reflection, and the closing parenthetical on the
   hill were cut or smoothed, per the narratorial-aside rule.
+- **Reader-note revisions (Ch 1, 2026-07-05 pass):**
+  - Horse **named Snow** on first mention (a good grey mare).
+  - The vague "in the matter of what I ought to want" fixed to "trusting my own judgment about
+    what was good for me over his."
+  - **The inn is one of the few three-storey buildings** in Ardenmoor (was "broad, low"). ["low"
+    now refers only to the taproom's low beams, not the building.]
+  - **Emlyn has the best room under the eaves** (clean linen, chair, washstand, broad
+    north-facing window); Lira shows him up herself (was a bare "small room... stool... find the
+    stairs on your own"). Window is now "the window," not "the small window."
+  - **Cael's agreement to sell is no longer abrupt:** a real deliberation beat added (he sits
+    silent with his cup, weighs it against everyone no longer there to ask, drinks at last "with
+    the air of a man who has signed something in his own head") BEFORE the practical proposal.
+  - "lay down in a **stranger's house**" → "under a **strange roof**" (he is at an inn, not a house).
+  - The unformed aside "**Lira, who I do not believe slept at all**" was CUT (raised a question it
+    never paid off → see the sharpened aside rule in the style guide).
 - **Grief objects on stage:** ONE letter only — the death-notice letter (came three weeks
   late, "told me a thing I had been too far from home to prevent"), carried folded in his
   coat, held at night but never reopened. Arielle unnamed on the page. The chest, the

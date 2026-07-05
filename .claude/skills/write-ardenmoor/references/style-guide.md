@@ -26,6 +26,16 @@ it away", mid-sentence parentheticals that editorialize) INTERRUPT FLOW. Keep th
 where one clearly earns its place; the default is to stay inside the scene and let the reader feel
 the foreshadow rather than be told it exists. When in doubt, cut the aside and keep the image.
 
+**Asides must be fully formed, or cut.** A worse failure than the aside that winks is the aside
+that is only *half* an observation: a throwaway clause that raises a question and then walks away
+from it without paying it off. "Lira, who I do not believe slept at all, set porridge in front of
+me" is a bug: it invites the reader to wonder *why* the narrator believes that, or what it says
+about her, and then answers nothing, so it adds interest it never spends. Either the observation
+earns a beat of its own (give the reason, the evidence, the meaning it points to) or it does not
+belong in the sentence at all. Do not sprinkle these unformed, faux-knowing fragments in for
+texture. If an aside cannot say the whole of what it means to say, delete it and let the plain
+image stand. Test every aside: *does it finish the thought it starts?* If not, cut it.
+
 **Weather and season.** Every chapter is anchored in season and time of day within its first paragraph: frost, light quality, smell of the air. The seasons are structural, not decorative; autumn light going long and gold is doing narrative work.
 
 **The hum.** The hill's sub-harmonic is never described the same way twice, and never as sound alone: it is felt in the soles of the feet, in the bones, as pressure, as attention, as "a knowing." Keep it below hearing. Its two daily pulses (dusk, predawn) can mark scene time.

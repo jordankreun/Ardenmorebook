@@ -42,6 +42,13 @@ Soren now named via Cael at the door, not Lira); Lira REVISED to measured/reserv
 about the hill (her gran-story and "never had the nerve to go up" confession CUT; no promise);
 hum not yet experienced by Emlyn; only grief-object on stage is the carried letter; Cael's
 grandmother = the listener; Soren ~nine; Emlyn past forty, looks younger; no em dashes.
+(Reader-note pass 2026-07-05: horse NAMED Snow on first mention; the inn is one of the few
+THREE-STOREY buildings, not "low"; Emlyn has the BEST room under the eaves, north window; Cael's
+agreement to sell now has a real DELIBERATION beat before the practical proposal, no longer
+abrupt; "stranger's house" → "strange roof" [he is at an inn]; morning walk adds a COMMUNAL OVEN
+near the inn + dairymaid + thatcher [no full bakery; stops repeating the evening's two shops];
+the road is modest/poorly-marked but real [not petering into grass]; the unformed "who I do not
+believe slept at all" aside CUT.)
 
 [02] Walking the Bounds — Same day: Emlyn climbs the crown alone at dawn (no hum — only an
 unusual held silence he dismisses, and the alarming discovery that he does not want to leave),

@@ -107,7 +107,8 @@ what's fixed is which places exist and who holds them.
 
 | Place | Holder | Notes | Source |
 |---|---|---|---|
-| **The inn** (no name given yet) | **Lira** | Where the street widens toward the beck; Emlyn's lodging; room under the eaves. Lira short but friendly. | [PAGE ch1] |
+| **The inn** (no name given yet) | **Lira** | Where the street widens toward the beck; **a broad building of three storeys, one of the few in Ardenmoor to stand so tall**; Emlyn's lodging. He has **the best room under the eaves** (clean linen, chair, washstand, a **broad window giving on the north side of the village**, toward the hill). Lira **measured/reserved**, not short-but-friendly. | [PAGE ch1] |
+| **The communal oven** | shared | A **great domed oven of clay and fieldstone, open to the lane near the inn**; households without their own oven bring dough to bake. Ardenmoor is **too small for a proper bakery** — this is how the village gets its bread. | [PAGE ch1] |
 | **The smithy** | **Tomas** | At the "top" (entrance/upper end) of the street; hammer heard across the village. | [PAGE ch1] |
 | **The mill** + timber yard + **mill pond** | **Maret** | On the beck at the hill-ward edge (Emlyn passes it heading up to the hill); stacks of drying timber. | [PAGE ch1–2] |
 | **Brenna's cottage** + walled herb garden | **Brenna** | At the lane's end, by the **birches**; low stone house, drying green in the window. | [PAGE ch1] [CANON: "by the birches"] |
@@ -116,8 +117,16 @@ what's fixed is which places exist and who holds them.
 | **The church / churchyard** | — | Cael's grandmother is "forty years in the churchyard." | [PAGE ch1 (mentioned)] |
 
 **On-page village facts:** riding in, Emlyn passed the smithy (top of street) → Brenna's house →
-the inn (down by the beck) [PAGE ch1]. Next morning, walking up to the hill, he passed Tomas,
-Brenna, then **Maret's mill** at the edge before the lane became the hill track [PAGE ch1].
+the inn (down by the beck) [PAGE ch1]. Next morning, walking up to the hill, the ambience is
+**the communal oven (first loaves, waiting households) near the inn → a dairymaid with pails → a
+man rethatching a gable → a woman driving three geese → a smith's hammer starting → Maret's mill**
+at the edge before the lane became the hill track [PAGE ch1]. (The morning deliberately does NOT
+just repeat the evening's smith + herb-shop; it adds fresh village texture.)
+
+**The road in:** the road to Ardenmoor is **modest and indifferently kept, poorly marked** (Emlyn
+took it on faith at unposted forks) — but it is a real road that reaches the village; it does NOT
+peter out into trackless grass (a working village with an inn and mill has a road that serves it).
+[PAGE ch1, revised per reader note]
 
 ---
 
