@@ -7,10 +7,12 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–2.
-- Word count so far: ~8,150 / ~70,000 target.
-- Next to write: **Chapter 3** — move-in / the household and chest arrive; first work on the
-  ground (the reshaping ward; the surveyor's "ask for passage" note found). Exact shape open.
+- Drafted: Prologue + Chapters 1–3.
+- Word count so far: ~11,700 / ~70,000 target.
+- Next to write: **Chapter 4** — the first working: he begins to "listen to the hill in earnest"
+  (Deep Grammar / feeling the ground), and/or the first reshaping ward to ready the crown, where
+  the surveyor's "ask for passage" note is found and Jorin is hired to raise the Study. Exact
+  shape open.
 
 ---
 
@@ -53,6 +55,24 @@ land = hill + woodland strip + NE meadow + mill-pond water; Cael's father's fail
 PLANTED (→ twist); never-dry south-face spring; deeper-green eastern shelf (Emlyn feels
 something, unnamed — do not preempt Brenna); Soren laid his bare hand flat on a crown-stone
 (unexplained); Jorin & Ren introduced; thesis foreshadowed ("never once been asked").
+
+[03] Under Canvas — Over a fortnight the purchase completes (Penworth's agent; Cael's quiet
+handover) while Emlyn lodges at Lira's and the village's welcome stays "the warmth of a signed
+receipt." His life comes up from Vethmark on two wagons (the sheeted empty house behind him):
+books, the instruments of his trade "packed like the effects of the dead," and the locked chest,
+handled with more care than anything and never explained (Soren, helping, is the one soul who
+never asks). He camps on the crown under canvas, makes it "the first household I had kept in
+three years," and resolves NOT to force the ground (Cael's father's mistake) but to learn to ask
+it rightly. Some nights in, lying on the ground, he feels the hum for the first time: no sound,
+felt through the bone, two slow pulses at dusk-fail and the hour before dawn. He half-wonders if
+it waited for him, then tells himself it simply keeps its own hours and he'd never lain still on
+it at night, "and mostly I believed it." CLOSING IMAGE: the grey rainy morning-after; he cannot
+unknow it and sets about learning to listen to the hill in earnest. NEW FACTS: purchase complete;
+the CHEST is now on the hill (in the tent, apart, awaiting the cellar) — the drift-flag move-in
+is resolved; the HUM has surfaced first-hand (dusk + predawn pulses, below sound); the tools of
+his trade are on the hill; Emlyn's craft = "feel for what is already in a place before you ask it
+for anything" (thesis groundwork); he means to raise the Study before autumn and has Jorin in
+mind. Twist NOT revealed (the directed-greeting reading is only a dismissed half-thought).
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):

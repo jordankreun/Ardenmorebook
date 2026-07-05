@@ -7,10 +7,11 @@
 
 ## STATUS
 
-- Chapters drafted: **Prologue + Chapters 1–2** (`manuscript/00-prologue.md`,
-  `manuscript/01-chapter-one.md`, `manuscript/02-chapter-two.md`).
-- Current manuscript position: Chapter 3 next — Emlyn now owns the hill (handshake done,
-  Penworth finalizing); the household/chest and the first building work lie ahead.
+- Chapters drafted: **Prologue + Chapters 1–3** (`manuscript/00-prologue.md`,
+  `manuscript/01-chapter-one.md`, `manuscript/02-chapter-two.md`, `manuscript/03-chapter-three.md`).
+- Current manuscript position: Chapter 4 next — Emlyn owns the hill, has moved onto it under
+  canvas, and has felt the hum for the first time; ahead is learning to "listen in earnest," the
+  first working, and raising the Study (Jorin) before autumn.
 - Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2).
 
 ## SESSION-LOCKED AUTHOR DECISIONS (binding; supersede references where they differ)
@@ -239,11 +240,12 @@ if it needs a new one, add it here.
 
 1. **Lira — RESOLVED:** short but friendly (see session-locked decisions above). Ch 1 revised
    to trim her speeches to few, plain, warm words. Informant thread retained; arc re-aimed.
-2. **Outline Ch-1 beats not used** (two wagons, chest on stage, first night under canvas,
-   "sold with unseemly speed"): superseded by the drafted arranged-purchase arrival. The
-   chest and household goods must still ARRIVE in an early chapter (wagons, after purchase) —
-   now MORE pressing, since the purchase is done as of Ch 2; the move-in is the next natural
-   window for the chest to arrive and the grief-objects to assemble.
+2. **Outline Ch-1 beats — RESOLVED in Ch 3:** the two wagons, the chest arriving and handled with
+   more care than anything, the first night under canvas, and the hum surfacing all happened in
+   Ch 3 ("Under Canvas"), moved from the outline's Ch 1. The chest now sits in the crown tent,
+   apart, awaiting the (unbuilt) cellar. Still pending: the OTHER grief-objects (Arielle's mother's
+   unopened letter, the dimensional callipers in a sticking drawer, the spellbook shelf-gap) need
+   furniture/the Study to land on the page — assemble them once he has a desk and shelves.
 3. **Cael's father's failed shelter — RESOLVED / PLANTED (Ch 2):** now on the page, told by
    Cael on the crown. No conflict with the grandmother material (grandmother = listener/hearer;
    father = failed builder). Payoff at the twist.
@@ -360,8 +362,12 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   building arc (later).
 - Thesis foreshadowed in Emlyn's thought "never once been asked" (Ch 2) → surveyor's marginal
   note found at the first working → earned at the climax.
-- The chest + household goods must ARRIVE (move-in chapter, next window) → assembles the four
-  grief-objects on the page.
+- The chest + household goods ARRIVED (Ch 3, "Under Canvas"). Chest now in the crown tent, apart,
+  unopened; awaits the cellar's NE corner once built. The OTHER three grief-objects (mother's
+  letter, callipers/sticking drawer, shelf-gap) still to land once he has furniture/the Study.
+- The hum SURFACED first-hand (Ch 3): dusk-fail + predawn pulses, below sound, felt through bone.
+  Emlyn dismissed the "did it wait for me?" reading as fancy ("mostly I believed it") → the
+  directed-greeting truth is reserved for Deep Grammar Phase Two (Ch 20) and the twist (Ch 28).
 - Tomas's standing promise (seed Ch 10) → kept (Ch 22).
 - The sticking drawer / callipers (seed Ch 15) → opens when the letter is read (Ch 27).
 - The unsigned correspondent (seed Ch 14) → handwriting-in-his-notation reveal (Ch 26).
