@@ -125,6 +125,9 @@
     <button id="btnCopy" class="primary">Copy for Claude</button>
     <button id="btnDownload">Download .md</button>
   </div>
+  <div class="exportRow" style="border-top:1px solid var(--rule);margin-top:.2rem;padding-top:.8rem">
+    <button id="btnSync">Turn on cross-device sync</button>
+  </div>
   <div id="notesList"></div>
 </aside>
 
@@ -137,7 +140,8 @@
   "use strict";
   var MANIFEST="manuscript/manifest.json", DIR="manuscript/";
   var KEY_PROGRESS="ardenmoor.progress.v1", KEY_BOOKMARK="ardenmoor.bookmark.v1",
-      KEY_FS="ardenmoor.fontsize.v1", KEY_THEME="ardenmoor.theme.v1", KEY_NOTES="ardenmoor.comments.v1";
+      KEY_FS="ardenmoor.fontsize.v1", KEY_THEME="ardenmoor.theme.v1", KEY_NOTES="ardenmoor.comments.v1",
+      KEY_SECRET="ardenmoor.sync.secret.v1";
 
   var book=document.getElementById("book"), tocNav=document.getElementById("tocNav"),
       notesList=document.getElementById("notesList"), toastEl=document.getElementById("toast"),
@@ -166,7 +170,7 @@
 
   /* ---------- notes storage ---------- */
   function getNotes(){ try{ return JSON.parse(localStorage.getItem(KEY_NOTES))||[]; }catch(e){ return []; } }
-  function setNotes(a){ try{ localStorage.setItem(KEY_NOTES, JSON.stringify(a)); }catch(e){} updateCount(); }
+  function setNotes(a){ try{ localStorage.setItem(KEY_NOTES, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushNotes) SYNC.pushNotes(); }
   function findNote(chap,s){ var a=getNotes(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s) return a[i]; } return null; }
   function upsertNote(chap,s,quote,text){
     var a=getNotes(), found=false;
@@ -176,6 +180,45 @@
   }
   function deleteNote(chap,s){ setNotes(getNotes().filter(function(n){ return !(n.chap===chap&&n.snip===s); })); }
   function updateCount(){ var n=getNotes().length; noteCount.textContent=n; noteCount.classList.toggle("show", n>0); }
+
+  /* ---------- cross-device sync (optional; needs the /api/sync backend) ---------- */
+  var SYNC={
+    secret:(function(){ try{ return localStorage.getItem(KEY_SECRET)||""; }catch(e){ return ""; } })(),
+    on:false, _t:null,
+    _h:function(){ return {"Content-Type":"application/json","x-feedback-secret":SYNC.secret}; },
+    setSecret:function(s){ SYNC.secret=s; try{ localStorage.setItem(KEY_SECRET,s); }catch(e){} },
+    pull:function(){
+      if(!SYNC.secret) return Promise.resolve(null);
+      return fetch("api/sync",{headers:SYNC._h(),cache:"no-store"})
+        .then(function(r){ if(!r.ok) throw new Error("sync "+r.status); return r.json(); })
+        .then(function(j){ SYNC.on=!!(j&&j.ok); return j; })
+        .catch(function(){ SYNC.on=false; return null; });
+    },
+    pushNotes:function(){
+      if(!SYNC.secret) return;
+      clearTimeout(SYNC._t);
+      SYNC._t=setTimeout(function(){
+        fetch("api/sync",{method:"POST",headers:SYNC._h(),body:JSON.stringify({notes:getNotes()})})
+          .then(function(r){ SYNC.on=r.ok; }).catch(function(){ SYNC.on=false; });
+      },800);
+    },
+    pushBookmark:function(bm){
+      if(!SYNC.secret) return;
+      fetch("api/sync",{method:"POST",headers:SYNC._h(),body:JSON.stringify({bookmark:bm})}).catch(function(){});
+    },
+    init:function(){
+      return SYNC.pull().then(function(j){
+        if(j&&j.ok){
+          var map={};
+          getNotes().concat(j.notes||[]).forEach(function(n){ var k=(n.chap||"")+"|"+(n.snip||""); if(!map[k]||(n.ts||0)>(map[k].ts||0)) map[k]=n; });
+          setNotes(Object.keys(map).map(function(k){ return map[k]; }));
+          markNotes(); buildNotesList();
+          if(j.bookmark) savePos(KEY_BOOKMARK, j.bookmark);
+        }
+        if(typeof updateSyncUI==="function") updateSyncUI();
+      });
+    }
+  };
 
   var chapters=[]; // {id,title,el}
 
@@ -322,6 +365,17 @@
     var md=exportMarkdown(); if(!md){ toast("No notes yet; select text to add one"); return; }
     download("ardenmoor-notes.md", md);
   });
+  function updateSyncUI(){
+    var b=document.getElementById("btnSync"); if(!b) return;
+    b.textContent = !SYNC.secret ? "Turn on cross-device sync" : (SYNC.on ? "Synced across devices ✓" : "Sync on (reconnecting)");
+  }
+  document.getElementById("btnSync").addEventListener("click", function(){
+    var s=window.prompt("Sync password (the FEEDBACK_SECRET you set in Vercel). Links your notes and bookmark across devices.", SYNC.secret||"");
+    if(s===null) return;
+    SYNC.setSecret(s.trim()); updateSyncUI();
+    SYNC.init().then(function(){ toast(SYNC.on?"Sync connected":"Could not reach sync (check the password and that the site is deployed)"); updateSyncUI(); buildNotesList(); });
+  });
+  updateSyncUI();
 
   /* ---------- notes list ---------- */
   function buildNotesList(){
@@ -393,7 +447,7 @@
   document.getElementById("btnNotes").addEventListener("click", function(){ if(notes.classList.contains("open")) closeDrawers(); else { buildNotesList(); openDrawer(notes); } });
   scrim.addEventListener("click", closeDrawers);
 
-  document.getElementById("btnMark").addEventListener("click", function(){ savePos(KEY_BOOKMARK,currentPos()); buildToc(); toast("Bookmarked this spot"); });
+  document.getElementById("btnMark").addEventListener("click", function(){ var bm=currentPos(); savePos(KEY_BOOKMARK,bm); if(SYNC.pushBookmark) SYNC.pushBookmark(bm); buildToc(); toast("Bookmarked this spot"); });
   document.getElementById("btnGoto").addEventListener("click", function(){ var bm=loadPos(KEY_BOOKMARK); if(bm){ gotoPos(bm); toast("Jumped to your bookmark"); } else toast("No bookmark yet; tap the ribbon to set one"); });
 
   var fs=parseInt(loadPos(KEY_FS)||0,10)||20;
@@ -418,6 +472,7 @@
     if(location.hash&&document.getElementById(location.hash.slice(1))) document.getElementById(location.hash.slice(1)).scrollIntoView();
     else { var p=loadPos(KEY_PROGRESS); if(p) setTimeout(function(){ gotoPos(p); },30); }
     onScroll();
+    SYNC.init();
   }).catch(function(err){
     book.innerHTML="<p id=\"status\">Could not load the manuscript.<br><br><small>"+esc(String(err&&err.message||err))+
       "</small><br><br>This reader loads the Markdown live, so open it from a web host (Vercel, GitHub Pages) or a local server, not a <code>file://</code> path.</p>";
