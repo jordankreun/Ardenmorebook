@@ -27,8 +27,8 @@ it was coming." NEW FACTS: first-person retrospective frame; longevity only impl
 punctuation house rule locked (no em dashes).
 
 [01] Ardenmoor — Emlyn arrives alone on Snow after a four-day ride to view the hill Penworth
-provisionally purchased (with surrounding leasable farmland); passes an unnamed smith and a wary
-woman in an herbalist's doorway (names deferred, per the organic-introduction rule); lodges at
+provisionally purchased (with surrounding leasable farmland); the village registers only as
+ambience (a smith's hammer heard, an herbalist's shop smelled), no folk met or individuated; lodges at
 Lira's inn (room pre-paid by Penworth's agent), where a quiet boy (named only as "young Soren"
 in Lira's line) stables his mare and fetches Cael; Cael sets the terms (walk the hill in the
 morning, decide by noon); a wakeful night holding the unopened death-notice letter; a morning

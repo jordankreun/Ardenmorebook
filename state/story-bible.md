@@ -118,12 +118,13 @@ if it needs a new one, add it here.
   bend by the old oak; hill marked as ordinary ("I had seen a thousand hills") — hum NOT yet
   experienced by Emlyn; entry through village; supper + lodging at the inn; morning walk
   through the waking village; chapter ends at the foot of the hill as he starts up.
-- **Cast on stage (Ch 1) — introduced ORGANICALLY, not lined up.** UNNAMED on the page (names
-  deferred to a later, earned reveal): the **smith** (big man, forearms pale with old burns, a
-  nod "more question than greeting"; = Tomas in canon); the **herbalist-woman** (arms folded in
-  her doorway, a cold stare that follows him; next morning "revising her first opinion downward
-  from enemy to mere nuisance"; = Brenna); the **miller** (among his drying timber, a two-finger
-  salute; = Maret). NAMED (active characters he actually deals with): **Cael** (seller; walking
+- **Cast on stage (Ch 1) — introduced ORGANICALLY, not lined up.** The village folk are AMBIENCE, not a
+  parade: no village person is met, seen close, individuated, or named in Ch 1. They register
+  only as sense-impressions (deferred): the **smithy** (a hammer heard ringing past its hour,
+  evening and morning; the smith himself unseen; = Tomas's forge); the **herbalist's shop** (its
+  green-bitter smell as Emlyn passes, evening and morning; no person, no stare; = Brenna's); the
+  **mill** (on the morning walk a broad flour-white figure lifts two fingers in a salute;
+  anonymous; = Maret). NAMED (active characters he actually deals with): **Cael** (seller; walking
   stick, "private treaty with his knees," sharp eyes; grandmother loved the hill "past all sense"
   and swore you could HEAR it, never said what; "I'd not sell that particular hill to just any
   man"; sets the terms: walk it in the morning, decide by noon, paperwork to Penworth's man);
@@ -132,8 +133,9 @@ if it needs a new one, add it here.
   a fortnight since by Penworth's agent; "You'll be the wizard, then," said like "the man about
   the drains"; "Mind how you go" is "a whole speech" from her). **Soren** (~nine, Cael's
   grandson): present and vivid (stables the mare, "I can fetch him," runs for Cael, sits by the
-  fire, a level look at the door), but named ONLY through Lira's line "young Soren", never a
-  narrator label; the heavy "the one I would not trade" foreshadow was CUT. Unnamed background:
+  fire, a level look at the door), but named ONLY when Cael says "Soren"
+  to him at the door (not a narrator label, not via Lira); the heavy "the one I would not trade"
+  foreshadow was CUT. Unnamed background:
   goose woman, supper-calling mother, dog, rooster.
   ⚠️ Future chapters must reveal the smith's / herbalist's / miller's names organically, by
   Emlyn actually coming to know them.
