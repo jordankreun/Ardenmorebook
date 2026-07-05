@@ -10,4 +10,4 @@ ORIGINAL:
 > "I made it a fine hill with a fine view," I said, "and a great deal too much quiet to leave alone. I mean to build on it."
 
 REVISED:
-> "It is a perfectly fine hill with a fine view," I said, "and a great deal too much quiet to leave alone. I would build on it.
+> "It is a perfectly fine hill with a fine view," I said, "and a great deal too much quiet to leave alone. I would build on it.”
