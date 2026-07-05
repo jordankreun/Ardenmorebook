@@ -159,6 +159,10 @@ touched. Do NOT put the title as an in-prose heading inside the scene.
   relationship-length the chapter stated or newly fixed. This is the check that keeps figures
   from drifting (the flagged trap: Penworth's tenure told as "longer than I can recall" in one
   place and "thirty years" in another). Never state a figure that disagrees with the ledger.
+- If you created a NEW chapter file, append its filename (in reading order) to
+  `manuscript/manifest.json`. The live HTML reader (`reader.html` at the repo root) reads that
+  manifest to load and list the chapters, so a new chapter is invisible to the reader until it
+  is added there.
 
 **Run the post-flight check** from `references/continuity-checklist.md` before declaring the
 chapter done. If any check fails, fix the prose, not the checklist.
