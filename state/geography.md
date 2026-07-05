@@ -87,14 +87,26 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
 ## EMLYN'S HOLDINGS (what Penworth bought — more than the hill)
 
 Penworth provisionally purchased, and is finalizing: [PAGE ch2] [CANON per session-locked #4]
-- **The hill** and its slopes.
-- **The woodland strip** along the low road — mixed timber (oak, ash, and a planted **larch
-  stand** a former owner never lived to cut). The future cart-road to the main road runs through
-  it. [PAGE ch2]
-- **The NE meadow** (~12 acres), off the hill's northeast shoulder. [PAGE ch2]
-- **The plough-land in the bottoms** — good arable in the low ground below the hill; the hill
-  itself is worthless to a farmer, but this field-land is leasable, and Emlyn will "eventually"
-  set it to tenant families for rents. [PAGE ch2] (Exact location/extent of the bottoms [OPEN].)
+**The holding was ASSEMBLED FROM MULTIPLE SOURCES, not bought whole from Cael** (Penworth's agent
+sat at Cael's table three evenings with a map and pencil; "every evening the map got bigger and
+the pencil got sharper"). Cael sold the hill (his) and part of the woodland; the rest came from
+other owners and from unclaimed common/parish ground: [PAGE ch2, revised per reader note]
+- **The hill** and its slopes. **Cael's to sell** (inherited from his grandmother). [PAGE ch2]
+- **The woodland** along the low road — mixed timber (oak, ash, and a planted **larch stand** a
+  former owner never lived to cut). **Half was Cael's, half was old Harrow's** (Harrow 6 yrs dead;
+  his people down the coast had let it rot; Penworth's agent found them and bought it). The future
+  cart-road to the main road runs through it. [PAGE ch2] (No longer called "the woodland strip"
+  in prose, per reader tracked change.)
+- **The NE meadow** (~12 acres), off the hill's northeast shoulder. **Belonged to the Tolls**, who
+  never grazed it and were glad of the coin. [PAGE ch2]
+- **The plough-land in the bottoms** — good arable in the low ground below the hill; **four men's
+  idle acres Penworth stitched into one holding.** The hill itself is worthless to a farmer, but
+  this field-land is leasable, and Emlyn will "eventually" set it to tenant families for rents.
+  [PAGE ch2] (Exact location/extent of the bottoms [OPEN].)
+- **Common/unclaimed ground worked in among the parcels** — common strips and forgotten corners
+  the village had let lie "since before Cael's grandfather's time," owned by no one; rather than
+  leave a snarl, Penworth "sat down with the parish" and regularized them into the holding.
+  [PAGE ch2] (New minor offstage names introduced: **Harrow** [dead], **the Tolls**.)
 - **A partial stake in the mill-pond water rights.** [PAGE ch2]
 
 ---

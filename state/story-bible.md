@@ -211,11 +211,12 @@ if it needs a new one, add it here.
 
 ## ESTABLISHED ON THE PAGE (Ch 2 — "Walking the Bounds")
 
-- **Same day as Ch 1 (morning→night).** Emlyn climbs the crown ALONE at dawn: finds NO hum —
-  "I heard nothing at all" — only an unusual, "held-breath" silence he puts down to fancy;
-  and, the real turn, that he *does not want to leave* (first wanting in three years, which
-  reads to him as alarm). Marks the great old oak standing alone out of the north wood (does
-  not yet know what it is). Comes down to fetch someone who knows the ground.
+- **Spans two days now (see timeline change below).** DAY 2 (continues Ch 1's morning): Emlyn
+  climbs the crown ALONE mid-morning: **no epiphany** (reframed — see revision note; NOT "I heard
+  nothing at all"), only a view and a great sweeping quiet, with a faint deeper-than-height quiet
+  he sets aside; and, the real turn, that he *does not want to leave* (first wanting in three
+  years, which reads to him as alarm). Marks the great old oak standing alone out of the north
+  wood (does not yet know what it is). Comes down to fetch someone who knows the ground.
 - **Midday at Lira's:** she greets him "you've been up it, then" but pointedly does NOT ask
   what he found (saving the question). Emlyn announces to the room he means to build; the room
   warns, kindly, that "nothing stands on that hill" ("you and Cael's father both"). Cael asked
@@ -230,8 +231,9 @@ if it needs a new one, add it here.
   mine") was CUT, per the organic-introduction rule. Jorin is also named in Cael's father-story
   ("a fair mason... Not Jorin. But fair").
   ⚠️ Ren must be MET and named organically in a later chapter.
-- **The walk of the bounds with Cael (+ Soren trailing):** Penworth bought MORE than the hill
-  — the hill (no agricultural worth), the woodland strip (oak/ash/larch along the low road),
+- **The walk of the bounds with Cael (+ Soren trailing) — DAY 3 afternoon:** Penworth bought MORE
+  than the hill (and from more owners than Cael — see revision note + geography): the hill (no
+  agricultural worth), the woodland (oak/ash/larch along the low road),
   the meadow off the NE shoulder, the **leasable plough-land in the bottoms** (to bring rents
   once the right tenant families are found), and a mill-pond water stake. Features: a cold, clear spring on the hill's SOUTH
   face, never dry in living/grandmother's memory (Emlyn will build around it); a shelf of
@@ -256,6 +258,34 @@ if it needs a new one, add it here.
   promise for himself and handing the machinery to Penworth.
 - **Grief / thaw:** that night Emlyn did NOT take out the carried letter — "the first evening
   in three years that I had wanted the morning to come." First clear step of the grief thaw.
+- **Reader-note revisions (Ch 2, 2026-07-05 pass):**
+  - **The climb up is ~a half-hour walk from the last houses, not "long"** (was "not steep, only
+    long"); and the early-spring morning cold is now grounded on the page (cold, bright, dew not
+    yet burned off, an edge on the air), so the later "cold" references (midday room, high-ground
+    wind) read as season/altitude, not confusion.
+  - **The crown moment is reframed:** NOT "I will not tell you that I heard anything / I heard
+    nothing at all" (that leaned on the hum). Now: no epiphany, no revelation; he "had not rightly
+    known what he expected, and so was neither let down nor carried away"; what the crown gave him
+    was "a view and a great sweeping quiet," both worth the walk. A faint "quiet a little deeper
+    than the height accounts for" is kept but set aside. Oak foreshadow retained.
+  - **Emlyn's stance on the "nothing stands on that hill" warning:** he takes it as a CHALLENGE,
+    not a caution — reads it as "superstition and poor masonry in about equal measure," an old
+    failed wall or two grown into a law of nature. (Coheres with his private thesis: not
+    un-buildable, just never *asked*.) The parenthetical aside "(I had heard the grandmother's
+    hearing of it, not this)" was CUT.
+  - **⏱ TIMELINE CHANGE: the walk of the bounds is now the NEXT DAY, not the same afternoon.**
+    Day 1 = arrival evening (Ch 1). Day 2 = morning climb + midday dinner at Lira's, where Cael
+    invites him but says come tomorrow ("I'm no use to you today"). Day 3 = the bounds walk in the
+    afternoon ("past noon"), handshake at golden light, letter to Penworth that night. Emlyn sleeps
+    a **second night** at the inn between. (Ch 3's fortnight follows from Day 3.)
+  - **The holding is ASSEMBLED FROM MANY OWNERS, not all Cael's** (see geography): hill + half the
+    woodland were Cael's; the other half was dead **Harrow's**; the NE meadow was the **Tolls'**;
+    the bottoms were four men's idle acres; plus **common/parish ground no one owned**, which
+    Penworth regularized with the parish. Makes Penworth's assembling more impressive + the estate
+    more expansive.
+  - **Tracked changes applied:** Emlyn's line is now "It is a perfectly fine hill... I would build
+    on it" (was "I made it a fine hill... I mean to build on it"); "the woodland strip" → "the
+    woodland" in the walk description.
 
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 

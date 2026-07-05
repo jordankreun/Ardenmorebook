@@ -50,20 +50,28 @@ near the inn + dairymaid + thatcher [no full bakery; stops repeating the evening
 the road is modest/poorly-marked but real [not petering into grass]; the unformed "who I do not
 believe slept at all" aside CUT.)
 
-[02] Walking the Bounds — Same day: Emlyn climbs the crown alone at dawn (no hum — only an
-unusual held silence he dismisses, and the alarming discovery that he does not want to leave),
+[02] Walking the Bounds — Emlyn climbs the crown alone mid-morning (NO epiphany, reframed: not a
+grand moment, "neither let down nor carried away," just a view and a great sweeping quiet, one
+faint deeper-than-height quiet set aside; the alarming discovery that he does not want to leave),
 comes back to Lira's for midday and marks the builder (whom Cael names as Jorin) and his still-
-unnamed son (neither laughs when the room warns "nothing stands on that hill"), then walks the full bounds with Cael and
-Soren — learning Penworth bought the hill plus the woodland strip, the NE meadow, and a
-mill-pond water stake, and hearing how Cael's father's shelter would not stand forty years ago
-("the ground won't take it, son"). He decides anyway, shakes on it on the crown, and writes to
-Penworth that night to finalize payment, deeds, and parcels. CLOSING IMAGE: the first evening
-in three years he wanted morning to come — the carried letter left unheld in his coat. NEW
+unnamed son (neither laughs when the room warns "nothing stands on that hill"). Emlyn takes that
+warning as village SUPERSTITION + poor masonry, and as a challenge, not a caution. Cael invites
+him to walk the bounds but says come tomorrow. THE NEXT DAY (past noon) he walks the full bounds
+with Cael and Soren, learning Penworth assembled the holding from many owners (hill + half the
+woodland were Cael's; the rest from dead Harrow, the Tolls, four men's idle bottoms-acres, and
+common/parish ground no one owned), and hearing how Cael's father's shelter would not stand forty
+years ago ("the ground won't take it, son"). He decides anyway, shakes on it on the crown, and
+writes to Penworth that night to finalize payment, deeds, and parcels. CLOSING IMAGE: the first
+evening in three years he wanted morning to come, the carried letter left unheld in his coat. NEW
 FACTS: spelling LOCKED as **Ren**; purchase agreed by handshake (Penworth to finalize);
-land = hill + woodland strip + NE meadow + mill-pond water; Cael's father's failed shelter
+land = hill + woodland + NE meadow + bottoms + common ground + mill-pond water, ASSEMBLED from
+several owners (new offstage names Harrow [dead], the Tolls); Cael's father's failed shelter
 PLANTED (→ twist); never-dry south-face spring; deeper-green eastern shelf (Emlyn feels
-something, unnamed — do not preempt Brenna); Soren laid his bare hand flat on a crown-stone
+something, unnamed, do not preempt Brenna); Soren laid his bare hand flat on a crown-stone
 (unexplained); Jorin & Ren introduced; thesis foreshadowed ("never once been asked").
+(Reader-note pass 2026-07-05: climb ~30-min not "long"; early-spring cold grounded; crown moment
+de-epiphanied; warning = superstition/challenge; bounds walk moved to NEXT DAY; land multi-owner;
+tracked changes "It is a perfectly fine hill... I would build on it" + "woodland" not "strip".)
 
 [03] Under Canvas — Over a fortnight the purchase completes (Penworth's agent; Cael's quiet
 handover) while Emlyn lodges at Lira's and the village's welcome stays "the warmth of a signed
