@@ -147,15 +147,19 @@ Brenna, then **Maret's mill** at the edge before the lane became the hill track 
 
 ## BEYOND THE VALLEY (offstage; reached only by letter/visitor/road — pure first person)
 
-- **Vethmark** — Penworth's base; the seat of banking/credit (Kellard's arrangement runs there).
-  The "city" of the outside-world subplot. [CANON]
+- **Vethmark** — the city ~**4 days' ride** from the valley; Penworth's base and the seat of
+  banking/credit (Kellard's arrangement runs there); **also Emlyn's own home before Ardenmoor**,
+  where he kept three rooms and had become a near-recluse. The "city" of the outside-world
+  subplot. [CANON + PAGE ch1]
 - **The city rooms** — Arielle's rooms, holding the third spellbook (the shelf gap), unentered
-  since her death; the destination Book Two aims at. Whether these are in Vethmark or a further
-  capital is **[OPEN]**. [CANON: they exist]
+  since her death; the destination Book Two aims at. Whether these are in Vethmark (now the
+  strong option, since Emlyn lived there and could not bring himself to her rooms) or a further
+  capital is still **[OPEN]**. [CANON: they exist]
 - **Edran's quarry** — supplies building stone; a **day's round trip** by cart; quarry road leads
   out of the village (direction [OPEN]). [CANON / style guide]
-- **Emlyn's origin** — where he rode from: a four-day road; a town "three weeks and many miles"
-  behind where Penworth's letter reached him. Unnamed and [OPEN].
+- **Emlyn's home before Ardenmoor** — **Vethmark**: three rooms and a stair he "went down less
+  and less"; a near-recluse whom Penworth drew out with the hill. He rode ~**4 days** from
+  Vethmark to the valley. [PAGE ch1]
 
 ---
 
@@ -164,7 +168,7 @@ Brenna, then **Maret's mill** at the edge before the lane became the hill track 
 - Village ↔ hill crown: a walk of a good while up a long (not steep) track. [PAGE ch2]
 - Emlyn's ride in: **four days** on the road. [PAGE ch1]
 - Quarry round trip: **one day**. [CANON / style guide]
-- To Vethmark / the city: multiple days (a journey, not an errand); exact [OPEN].
+- To Vethmark / the city: ~**4 days'** ride (Emlyn's road in, from his Vethmark rooms). [PAGE ch1]
 - Time moves honestly (style guide): errands take hours; construction takes weeks (montage by
   day-labels, never "time passed").
 
