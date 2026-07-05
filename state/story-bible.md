@@ -33,11 +33,15 @@
 - **Chapter length:** ~3,500–5,000 words, ~3,500 a hard floor (no short chapters). Ch 1
   (~3,900) is the baseline. Supersedes the references' 2,000–3,200. Widen short drafts with
   lived scene; never close a chapter early. Chapter count / total length flex to suit.
-- **Lira — RESOLVED (drift flag #1):** she is **short but friendly** — few words, no wasted
-  motion, warmth carried by service and by the plainness of the words when they come. NOT
-  the reference arc's coldest-holdout. Her Conclave-informant thread still stands and reads
-  as quietly compatible with (even sharpened by) the warmth; her arc is now "brisk kindness
-  that deepens," not "ice that thaws." Adapt the Ch-12 reader-superior device accordingly.
+- **Lira — REVISED (author note, supersedes the earlier "short but friendly"):** **measured,
+  practiced, reserved.** Few words, no wasted motion; she "gives a stranger nothing he has not
+  paid for, neither warmth nor its opposite." NOT warm/friendly initially, and NOT frosty/hostile
+  either: the reserve is economy, not coldness, and real warmth is earned and comes LATER (a slow,
+  genuine thaw across the book). She does NOT volunteer information, and shows NO personal
+  curiosity or nervousness about the hill (the Ch-1 "never had the nerve to go up and find out"
+  confession and the gran-knew-gran story are CUT). Any warmth reaches the page only through spare
+  service. Her Conclave-informant thread still stands (the reserve suits it). Adapt the Ch-12
+  reader-superior device accordingly.
 - **POV/frame:** first-person retrospective (Kingkiller-style teller), past tense. The narrator
   is ancient — life-force compression has made him effectively immortal (mechanism offstage
   until late). In-scene at the opening he is **in his 40s (past forty) but looks a good deal
@@ -123,8 +127,10 @@ if it needs a new one, add it here.
   stick, "private treaty with his knees," sharp eyes; grandmother loved the hill "past all sense"
   and swore you could HEAR it, never said what; "I'd not sell that particular hill to just any
   man"; sets the terms: walk it in the morning, decide by noon, paperwork to Penworth's man);
-  **Lira** (innkeeper, short but friendly; room held/paid a fortnight since by Penworth's agent;
-  "You'll be the wizard, then," said like "the man about the drains"). **Soren** (~nine, Cael's
+  **Lira** (innkeeper, MEASURED/reserved: "neither warmth nor its opposite," gives nothing
+  unpaid-for, mostly decides a thing is not worth saying, incurious about the hill; room held/paid
+  a fortnight since by Penworth's agent; "You'll be the wizard, then," said like "the man about
+  the drains"; "Mind how you go" is "a whole speech" from her). **Soren** (~nine, Cael's
   grandson): present and vivid (stables the mare, "I can fetch him," runs for Cael, sits by the
   fire, a level look at the door), but named ONLY through Lira's line "young Soren", never a
   narrator label; the heavy "the one I would not trade" foreshadow was CUT. Unnamed background:
@@ -139,13 +145,12 @@ if it needs a new one, add it here.
 - **Emlyn characterization:** three years arranging his life so no one feeds him expecting
   nothing back; "feelings that came on suddenly were generally grief wearing another coat";
   dry humor; lets the horse be right about the road.
-- **Promises made (Ch 1):** Emlyn promised Lira he'd come back down and tell her whether the
-  hill's "hearing" is true — narrator says he KEPT it, "though not for a good while, and not
-  in any way either of us could have guessed." (Pending payoff — target: the Tomas-confession
-  / Deep-Grammar stretch, or Lira's thaw.)
-- **Small voice facts:** Lira's gran knew Cael's gran (girls together; same hill story).
-  Cael: "A man ought to look at a hill before he owns it." Penworth: "a thing that isn't
-  written down is only a rumor two men are having."
+- **Promises made (Ch 1):** none standing. (The earlier Lira "come back and tell me if the
+  hill's hearing is true" promise was CUT along with her revision; she is now incurious about
+  the hill, so there is no such thread to pay off.)
+- **Small voice facts:** Cael: "A man ought to look at a hill before he owns it." Penworth:
+  "a thing that isn't written down is only a rumor two men are having." (The Lira's-gran-knew-
+  Cael's-gran detail is CUT.)
 
 ## ESTABLISHED ON THE PAGE (Ch 2 — "Walking the Bounds")
 

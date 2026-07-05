@@ -34,9 +34,10 @@ in Lira's line) stables his mare and fetches Cael; Cael sets the terms (walk the
 morning, decide by noon); a wakeful night holding the unopened death-notice letter; a morning
 walk back through the waking village; ends at the foot of the hill. CLOSING IMAGE: "Then I
 started up." NEW FACTS: characters now introduced ORGANICALLY (smith/herbalist/miller unnamed;
-Soren named via dialogue only; heavy foreshadow cut); hum not yet experienced by Emlyn; only
-grief-object on stage is the carried letter; Lira promised a report on the hill's "hearing";
-Cael's grandmother = the listener; Soren ~nine; Emlyn past forty, looks younger; no em dashes.
+Soren now named via Cael at the door, not Lira); Lira REVISED to measured/reserved and incurious
+about the hill (her gran-story and "never had the nerve to go up" confession CUT; no promise);
+hum not yet experienced by Emlyn; only grief-object on stage is the carried letter; Cael's
+grandmother = the listener; Soren ~nine; Emlyn past forty, looks younger; no em dashes.
 
 [02] Walking the Bounds — Same day: Emlyn climbs the crown alone at dawn (no hum — only an
 unusual held silence he dismisses, and the alarming discovery that he does not want to leave),
