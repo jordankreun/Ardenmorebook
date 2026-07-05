@@ -74,6 +74,28 @@ predate some of them; where a reference says otherwise, THIS list wins.
    encounter, deeper attention) rather than compressing. Chapter count and total wordcount
    flex to accommodate this — fewer/longer chapters and/or a longer book are both fine.
 
+## AUTHOR FEEDBACK IS DURABLE (how this skill keeps learning)
+
+The author's notes are not one-off requests; they are standing law for the whole book. Whenever
+the author gives feedback, a preference, or a correction:
+
+1. **Apply it** to the current chapter or passage right away.
+2. **Record it** as a durable convention so every future chapter honors it without being asked
+   again, and **retro-apply** it to already-drafted chapters when practical. File it where it
+   will be re-read at startup:
+   - Voice / prose / punctuation → `references/style-guide.md` (plus a `continuity-checklist.md` item).
+   - A character's voice, manner, or arc → the story bible's cast + **SESSION-LOCKED DECISIONS**.
+   - Canon, ages, timeline, geography → the story bible (+ its **Numbers Ledger** / `state/geography.md`).
+   - Structure / process (chapter length, POV, how to introduce characters, pacing) → **SESSION-LOCKED DECISIONS**.
+3. If a new preference conflicts with an older recorded one, **the newer wins**: update the old
+   entry in place (don't leave both), and note that it supersedes the earlier one.
+4. When you apply a note, say briefly (in chat) where you recorded it, so the author knows it will stick.
+
+The SESSION-LOCKED DECISIONS list, the style guide, the continuity checklist, and the story bible
+together ARE the accumulated record of the author's feedback, and they are read at startup every
+session on purpose. Treat "the author said X once" as "the book does X now." A note ignored on the
+next chapter is a bug.
+
 ## THE ONE RULE ABOVE ALL
 
 **Never contradict the established facts of the book.** Those live in two places: the **canon

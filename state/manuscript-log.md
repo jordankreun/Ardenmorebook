@@ -41,8 +41,8 @@ grandmother = the listener; Soren ~nine; Emlyn past forty, looks younger; no em 
 
 [02] Walking the Bounds — Same day: Emlyn climbs the crown alone at dawn (no hum — only an
 unusual held silence he dismisses, and the alarming discovery that he does not want to leave),
-comes back to Lira's for midday and meets the builder Jorin and his son Ren (neither laughs
-when the room warns "nothing stands on that hill"), then walks the full bounds with Cael and
+comes back to Lira's for midday and marks the builder (whom Cael names as Jorin) and his still-
+unnamed son (neither laughs when the room warns "nothing stands on that hill"), then walks the full bounds with Cael and
 Soren — learning Penworth bought the hill plus the woodland strip, the NE meadow, and a
 mill-pond water stake, and hearing how Cael's father's shelter would not stand forty years ago
 ("the ground won't take it, son"). He decides anyway, shakes on it on the crown, and writes to

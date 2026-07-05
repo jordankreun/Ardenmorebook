@@ -165,12 +165,16 @@ if it needs a new one, add it here.
   what he found (saving the question). Emlyn announces to the room he means to build; the room
   warns, kindly, that "nothing stands on that hill" ("you and Cael's father both"). Cael asked
   the question in the open ON PURPOSE (first bit of village-governing Emlyn notices).
-- **Jorin & Ren introduced** (both did NOT laugh at the hill-talk). Jorin: broad, grey,
-  unhurried; squares his cup to the table edge (twice); "best hands in three valleys, fewest
-  words"; Cael names him the man for the job — "he'll not tell you it can't be done... nor
-  that it can." Ren (~16, Jorin's son): dark, built long, frank open curiosity, files Emlyn
-  with a head-tip. Narrator foreshadows both (Jorin will raise every wall; Ren's is "the
-  greatest gift"; the boy "feels the make of things through his hands").
+- **Jorin introduced organically; Ren deferred.** Both did NOT laugh at the hill-talk. The elder
+  (broad, grey, squares his cup to the table edge, twice) is unnamed on sight; **Cael names him**:
+  "That's Jorin. Best hands in three valleys, fewest words... he'll not tell you it can't be done,
+  nor that it can." The son (dark, built long, frank curiosity, files Emlyn with a head-tip) is
+  present but UNNAMED (Ren's name deferred to a later chapter when Emlyn actually engages him).
+  The heavy foreshadow (Jorin "would raise every wall I own"/"the greatest gift was his son's";
+  the son "feels the make of things through his hands"/"would one day be as much his work as
+  mine") was CUT, per the organic-introduction rule. Jorin is also named in Cael's father-story
+  ("a fair mason... Not Jorin. But fair").
+  ⚠️ Ren must be MET and named organically in a later chapter.
 - **The walk of the bounds with Cael (+ Soren trailing):** Penworth bought MORE than the hill
   — the hill (no agricultural worth), the woodland strip (oak/ash/larch along the low road),
   the meadow off the NE shoulder, the **leasable plough-land in the bottoms** (to bring rents
