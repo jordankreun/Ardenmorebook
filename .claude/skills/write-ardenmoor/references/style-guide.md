@@ -17,7 +17,9 @@ This book is written in the key of Ursula K. Le Guin's Earthsea: quiet, sensory,
 
 **Restraint.** The book's power lives in what is withheld. Never name an emotion the reader can infer from behavior. Never explain a silence. When something enormous happens (the compass points down), the prose gets *quieter*, not louder. No exclamation points outside dialogue, and almost none inside it.
 
-**Weather and season.** Every chapter is anchored in season and time of day within its first paragraph — frost, light quality, smell of the air. The seasons are structural, not decorative; autumn light going long and gold is doing narrative work.
+**Punctuation (HARD HOUSE RULE — no exceptions).** Never use the em dash (—). It has become a machine's tic, and this book is a human voice; the em dash is the fastest way to make prose read as generated. Where an aside, a turn, or a pause wants marking, reach instead for a comma, a period (split the sentence), a semicolon, a colon, or parentheses, chosen for the flow of that particular sentence and *varied* so no one mark becomes its own tic. Favor the period: real people speaking a story aloud break into new sentences far more than they nest clauses in dashes. For a trailing-off or cut-off in dialogue, use an ellipsis (…), not a dash. En dashes and any dash built from hyphens are out too; ordinary hyphens inside compound words are fine. Chapter titles take a colon, not a dash. Read every finished paragraph aloud in your head: if it sounds like a person by a fire, keep it; if it sounds like a keyboard's default, re-punctuate.
+
+**Weather and season.** Every chapter is anchored in season and time of day within its first paragraph: frost, light quality, smell of the air. The seasons are structural, not decorative; autumn light going long and gold is doing narrative work.
 
 **The hum.** The hill's sub-harmonic is never described the same way twice, and never as sound alone: it is felt in the soles of the feet, in the bones, as pressure, as attention, as "a knowing." Keep it below hearing. Its two daily pulses (dusk, predawn) can mark scene time.
 

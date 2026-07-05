@@ -17,12 +17,14 @@
 ## RECAP LEDGER
 
 [00] Prologue — The ancient narrator frames the book as an honest accounting: he writes not
-because memory fails (his never has — a quiet longevity hint) but because a man reaches the age
-for setting things down, and because the tales told about him have grown so many and so wrong;
-everyone in the story is gone but him; he was "a man at the tired end of a bad few years, with
-rather more skill than sense" — not a boy, not (yet) the legend. CLOSING IMAGE: "on a road, in
-the spring, a very long time ago." NEW FACTS: first-person retrospective frame; longevity only
-implied; age/widowhood/power NOT stated in the prologue (they live in Ch 1 + canon).
+because memory fails (his never has, a quiet longevity hint) but because a man reaches the age
+for setting things down, and because the few badly-warped tales that survive deserve one true
+version. He is NOT famous ("not a man they sing about"; only the occasional garbled, half-myth
+story exists). Everyone in the story is gone but him; he was "a man at the tired end of a bad few
+years, with rather more skill than sense," not a boy, not (yet) the legend. CLOSING IMAGE: the
+button on "a younger and a good deal more foolish version of myself… had not the first idea that
+it was coming." NEW FACTS: first-person retrospective frame; longevity only implied; NOT famous;
+punctuation house rule locked (no em dashes).
 
 [01] Ardenmoor — Emlyn arrives alone on Snow after a four-day ride to view the hill Penworth
 provisionally purchased (with surrounding land); passes Tomas and Brenna on the way in; lodges

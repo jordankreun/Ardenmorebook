@@ -18,6 +18,10 @@
 - **Natural interaction over outline (standing rule):** always prioritize the living
   back-and-forth of a scene over hitting an outline beat. The outline is a pantry, not a
   schedule; follow the scene, keep only canon and continuity as fences.
+- **Punctuation (HARD house rule):** **never use em dashes (—)** anywhere in the prose, dialogue,
+  or chapter titles. They read as machine-generated. Use commas, periods (favor these), semicolons,
+  colons, or parentheses instead, varied for natural flow; ellipsis (…) for a trailing/cut-off
+  line of dialogue; colon in chapter titles. Full rule in the style guide.
 - **Chapter length:** ~3,500–5,000 words, ~3,500 a hard floor (no short chapters). Ch 1
   (~3,900) is the baseline. Supersedes the references' 2,000–3,200. Widen short drafts with
   lived scene; never close a chapter early. Chapter count / total length flex to suit.
@@ -85,16 +89,17 @@ if it needs a new one, add it here.
 
 ## ESTABLISHED ON THE PAGE (Prologue + Ch 1)
 
-- **Prologue (deliberately vague, cryptic-but-friendly — a "good wizard disclaimer"):**
-  MOTIVE for writing = (1) he has reached the age where a man sets things down, "simply what
-  one does," and (2) the tales told about him are now so many and so wrong that an honest
-  accounting is warranted. His memory is explicitly NOT failing — "mine has never gone, and I
-  have had a great deal longer than most men to put it to the test" (this both denies memory
-  loss AND hints at his uncanny longevity). Light concession that fondness has softened a few
-  edges, "but the shape of it is true." Does NOT state his age, widowhood, or the extent of
-  his power outright — only "a man at the tired end of a bad few years, with rather more skill
-  than sense." Those specifics live in canon + Ch 1, not the prologue. Ends: "on a road, in
-  the spring, a very long time ago."
+- **Prologue ("good wizard disclaimer": vague, cryptic, friendly, em-dash-free):** MOTIVE for
+  writing = (1) he has reached the age where a man sets things down, "simply what one does," and
+  (2) the few, badly-warped tales that got loose deserve one true accounting. He is **NOT famous**
+  — "not a man they sing about" and "took a good deal of quiet care… that it should stay so";
+  only the occasional garbled story survives, "half myth and half plain nonsense" (updated per
+  author note — he is minor-key, not a legend). Memory explicitly NOT failing ("mine has never
+  gone… a great deal longer than most men to put it to the test": denies memory loss AND hints
+  longevity). Does NOT state age/widowhood/power outright, only "a man at the tired end of a bad
+  few years, with rather more skill than sense." Button: "a younger and a good deal more foolish
+  version of myself… had not the first idea that it was coming" (chosen to de-duplicate vs Ch 1's
+  road/spring opening).
 - **Ch 1 events:** third week of spring; four-day ride alone on Snow (mare); Penworth's
   3-page letter ("a hill of no agricultural worth and considerable quiet") provisionally
   secured hill + land; road "gives up" into a green lane; first sight of village from the

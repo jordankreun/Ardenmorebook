@@ -37,7 +37,11 @@
 - [ ] Season/day/light are consistent with the previous chapter's timeline.
 
 **Voice**
-- [ ] Third-limited on Opus, past tense (unless this is an interlude).
+- [ ] First-person retrospective on Emlyn, past tense (session-locked POV; supersedes the
+      references' "third limited"). Interludes are the hill's wordless POV.
+- [ ] **NO EM DASHES (—) anywhere** — prose, dialogue, or chapter titles (hard house rule).
+      Asides/pauses use commas, periods (favored), semicolons, colons, or parentheses, varied for
+      natural flow; ellipsis for a trailing/cut-off line. Grep the file to be sure.
 - [ ] Every character's dialogue obeys their fixed speech rule.
 - [ ] No modern idiom, no techspeak, no fake-archaic incantation.
 - [ ] At least one earned lyric sentence; no purple paragraphs; the biggest beat is the quietest.
