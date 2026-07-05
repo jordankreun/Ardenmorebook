@@ -9,17 +9,17 @@
     color-scheme: light dark;
     --bg:#f6f2ea; --fg:#2c2820; --muted:#8a7f6c; --rule:#e3dccb;
     --accent:#9a6a3a; --bar:#efe9dc; --panel:#fbf8f1; --shadow:rgba(60,45,20,.14);
-    --danger:#b4462f;
+    --danger:#b4462f; --edit:#2f7d52; --editbg:rgba(47,125,82,.12);
   }
   @media (prefers-color-scheme: dark){
     :root{
       --bg:#15120d; --fg:#e9e3d5; --muted:#9c9182; --rule:#2c261c;
       --accent:#d0a06a; --bar:#1d1912; --panel:#1b1710; --shadow:rgba(0,0,0,.5);
-      --danger:#e0785e;
+      --danger:#e0785e; --edit:#6bbd8a; --editbg:rgba(107,189,138,.16);
     }
   }
-  :root[data-theme="light"]{ color-scheme:light; --bg:#f6f2ea; --fg:#2c2820; --muted:#8a7f6c; --rule:#e3dccb; --accent:#9a6a3a; --bar:#efe9dc; --panel:#fbf8f1; --shadow:rgba(60,45,20,.14); --danger:#b4462f; }
-  :root[data-theme="dark"]{ color-scheme:dark; --bg:#15120d; --fg:#e9e3d5; --muted:#9c9182; --rule:#2c261c; --accent:#d0a06a; --bar:#1d1912; --panel:#1b1710; --shadow:rgba(0,0,0,.5); --danger:#e0785e; }
+  :root[data-theme="light"]{ color-scheme:light; --bg:#f6f2ea; --fg:#2c2820; --muted:#8a7f6c; --rule:#e3dccb; --accent:#9a6a3a; --bar:#efe9dc; --panel:#fbf8f1; --shadow:rgba(60,45,20,.14); --danger:#b4462f; --edit:#2f7d52; --editbg:rgba(47,125,82,.12); }
+  :root[data-theme="dark"]{ color-scheme:dark; --bg:#15120d; --fg:#e9e3d5; --muted:#9c9182; --rule:#2c261c; --accent:#d0a06a; --bar:#1d1912; --panel:#1b1710; --shadow:rgba(0,0,0,.5); --danger:#e0785e; --edit:#6bbd8a; --editbg:rgba(107,189,138,.16); }
   *{box-sizing:border-box}
   html{-webkit-text-size-adjust:100%}
   body{
@@ -57,10 +57,20 @@
   p.hasNote::before{content:"";position:absolute;left:-.75rem;top:.12em;bottom:.12em;width:3px;border-radius:2px;background:var(--accent);opacity:.75}
   .noteDot{display:inline-block;cursor:pointer;margin-left:.35em;font-size:.7em;vertical-align:.15em;color:var(--accent);opacity:.85;text-indent:0}
   .noteDot:hover{opacity:1}
-  /* selection add button */
-  #addNote{position:absolute;z-index:55;transform:translate(-50%,-115%);background:var(--fg);color:var(--bg);border:0;border-radius:999px;
-    padding:.34rem .7rem;font:inherit;font-size:.8rem;cursor:pointer;box-shadow:0 4px 16px var(--shadow);display:none;white-space:nowrap}
-  #addNote.show{display:block}
+  /* revised paragraphs (track changes) */
+  p.hasEdit::after{content:"";position:absolute;left:-.75rem;top:.12em;bottom:.12em;width:3px;border-radius:2px;background:var(--edit);opacity:.85}
+  p.hasNote.hasEdit::after{left:-1.15rem}
+  .editDot{display:inline-block;cursor:pointer;margin-left:.35em;font-size:.7em;vertical-align:.15em;color:var(--edit);opacity:.85;text-indent:0}
+  .editDot:hover{opacity:1}
+  .diff-del{color:var(--danger);text-decoration:line-through;text-decoration-thickness:1px;opacity:.85}
+  .diff-ins{color:var(--edit);background:var(--editbg);border-radius:3px;padding:0 .06em}
+  p.isDeleted{opacity:.7}
+  /* selection add buttons */
+  #selTools{position:absolute;z-index:55;transform:translate(-50%,-115%);display:none;gap:.3rem;white-space:nowrap}
+  #selTools.show{display:flex}
+  #selTools button{font:inherit;font-size:.8rem;cursor:pointer;border:0;border-radius:999px;padding:.34rem .7rem;
+    background:var(--fg);color:var(--bg);box-shadow:0 4px 16px var(--shadow)}
+  #selTools button.edit{background:var(--edit);color:#fff}
   /* composer */
   .composer{margin:.35rem 0 1.1rem;background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:.6rem;text-indent:0}
   .composer .quote{font-size:.82em;color:var(--muted);font-style:italic;margin:0 0 .45rem;border-left:2px solid var(--rule);padding-left:.55rem}
@@ -69,6 +79,21 @@
   .composer button{font:inherit;font-size:.82rem;cursor:pointer;border-radius:8px;padding:.35rem .75rem;border:1px solid var(--rule);background:var(--bg);color:var(--fg)}
   .composer button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
   .composer button.del{margin-left:auto;color:var(--danger);border-color:transparent;background:transparent}
+  .composer.edit textarea{min-height:7rem;line-height:1.55}
+  .composer.edit button.primary{background:var(--edit);border-color:var(--edit)}
+  .composer .hint{font-size:.74rem;color:var(--muted);margin:.4rem 0 0;text-indent:0}
+  /* feedback drawer tabs */
+  .tabs{display:flex;gap:.3rem;margin:0 1.2rem 1rem}
+  .tabs button{flex:1;font:inherit;font-size:.8rem;cursor:pointer;border-radius:8px;padding:.4rem;border:1px solid var(--rule);background:var(--bg);color:var(--muted)}
+  .tabs button.active{background:var(--panel);color:var(--fg);border-color:var(--accent);font-weight:600}
+  .revItem{padding:.7rem 1.2rem;border-top:1px solid var(--rule)}
+  .revItem .ch{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:.35rem}
+  .revItem .diff{font-size:.86em;line-height:1.5}
+  .revItem .tag{display:inline-block;font-size:.64rem;letter-spacing:.1em;text-transform:uppercase;color:var(--edit);border:1px solid var(--edit);border-radius:5px;padding:.02rem .3rem;margin-bottom:.3rem}
+  .revItem .tag.cut{color:var(--danger);border-color:var(--danger)}
+  .revItem .acts{display:flex;gap:.9rem;margin-top:.45rem}
+  .revItem .acts a{font-size:.78rem;color:var(--accent);cursor:pointer;text-decoration:none}
+  .revItem .acts a.del{color:var(--danger)}
 
   #scrim{position:fixed;inset:0;background:rgba(0,0,0,.35);opacity:0;pointer-events:none;transition:opacity .2s;z-index:70}
   #scrim.open{opacity:1;pointer-events:auto}
@@ -120,7 +145,11 @@
 <div id="scrim"></div>
 <aside id="toc" class="drawer"><div class="dh"><h3>Contents</h3></div><nav id="tocNav"></nav></aside>
 <aside id="notes" class="drawer">
-  <div class="dh"><h3>Notes &amp; feedback</h3></div>
+  <div class="dh"><h3>Feedback</h3></div>
+  <div class="tabs">
+    <button id="tabNotes" class="active" data-pane="notes">Notes</button>
+    <button id="tabEdits" data-pane="edits">Track changes</button>
+  </div>
   <div class="exportRow">
     <button id="btnCopy" class="primary">Copy for Claude</button>
     <button id="btnDownload">Download .md</button>
@@ -129,9 +158,10 @@
     <button id="btnSync">Turn on cross-device sync</button>
   </div>
   <div id="notesList"></div>
+  <div id="editsList" style="display:none"></div>
 </aside>
 
-<button id="addNote">💬 Add note</button>
+<div id="selTools"><button id="btnAddNote">💬 Note</button><button id="btnAddEdit" class="edit">✏️ Edit</button></div>
 <main id="book"><p id="status">Gathering the pages…</p></main>
 <div id="toast"></div>
 
@@ -141,11 +171,12 @@
   var MANIFEST="manuscript/manifest.json", DIR="manuscript/";
   var KEY_PROGRESS="ardenmoor.progress.v1", KEY_BOOKMARK="ardenmoor.bookmark.v1",
       KEY_FS="ardenmoor.fontsize.v1", KEY_THEME="ardenmoor.theme.v1", KEY_NOTES="ardenmoor.comments.v1",
-      KEY_SECRET="ardenmoor.sync.secret.v1";
+      KEY_REVS="ardenmoor.revisions.v1", KEY_SECRET="ardenmoor.sync.secret.v1";
 
   var book=document.getElementById("book"), tocNav=document.getElementById("tocNav"),
-      notesList=document.getElementById("notesList"), toastEl=document.getElementById("toast"),
-      progressEl=document.getElementById("progress"), addBtn=document.getElementById("addNote"),
+      notesList=document.getElementById("notesList"), editsList=document.getElementById("editsList"),
+      toastEl=document.getElementById("toast"),
+      progressEl=document.getElementById("progress"), selTools=document.getElementById("selTools"),
       noteCount=document.getElementById("noteCount");
 
   function esc(s){ return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
@@ -179,7 +210,47 @@
     setNotes(a);
   }
   function deleteNote(chap,s){ setNotes(getNotes().filter(function(n){ return !(n.chap===chap&&n.snip===s); })); }
-  function updateCount(){ var n=getNotes().length; noteCount.textContent=n; noteCount.classList.toggle("show", n>0); }
+  function updateCount(){ var n=getNotes().length+getRevs().length; noteCount.textContent=n; noteCount.classList.toggle("show", n>0); }
+
+  /* ---------- revisions (track changes) storage ---------- */
+  function getRevs(){ try{ return JSON.parse(localStorage.getItem(KEY_REVS))||[]; }catch(e){ return []; } }
+  function setRevs(a){ try{ localStorage.setItem(KEY_REVS, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushRevs) SYNC.pushRevs(); }
+  function findRev(chap,s){ var a=getRevs(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s) return a[i]; } return null; }
+  function upsertRev(chap,s,orig,revised){
+    var a=getRevs(), found=false;
+    for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s){ a[i].original=orig; a[i].revised=revised; a[i].ts=Date.now(); found=true; break; } }
+    if(!found) a.push({chap:chap,snip:s,original:orig,revised:revised,ts:Date.now()});
+    setRevs(a);
+  }
+  function deleteRev(chap,s){ setRevs(getRevs().filter(function(r){ return !(r.chap===chap&&r.snip===s); })); }
+
+  /* ---------- word-level diff ---------- */
+  function tok(s){ return s.replace(/\s+/g," ").trim().split(" ").filter(function(x){ return x!==""; }); }
+  function diffWords(a,b){
+    var A=tok(a), B=tok(b), n=A.length, m=B.length, i, j;
+    var dp=[]; for(i=0;i<=n;i++){ var row=[]; for(j=0;j<=m;j++) row.push(0); dp.push(row); }
+    for(i=n-1;i>=0;i--) for(j=m-1;j>=0;j--) dp[i][j]= A[i]===B[j] ? dp[i+1][j+1]+1 : Math.max(dp[i+1][j],dp[i][j+1]);
+    var out=[]; i=0; j=0;
+    while(i<n&&j<m){
+      if(A[i]===B[j]){ out.push({t:"eq",s:A[i]}); i++; j++; }
+      else if(dp[i+1][j]>=dp[i][j+1]){ out.push({t:"del",s:A[i]}); i++; }
+      else { out.push({t:"ins",s:B[j]}); j++; }
+    }
+    while(i<n){ out.push({t:"del",s:A[i]}); i++; }
+    while(j<m){ out.push({t:"ins",s:B[j]}); j++; }
+    return out;
+  }
+  function diffHTML(orig,revised){
+    if(!revised||!revised.trim()) return "<span class=\"diff-del\">"+esc(orig.replace(/\s+/g," ").trim())+"</span>";
+    var parts=diffWords(orig,revised), html="";
+    for(var k=0;k<parts.length;k++){
+      var pre=k>0?" ":"", p=parts[k];
+      if(p.t==="eq") html+=pre+esc(p.s);
+      else if(p.t==="del") html+=pre+"<span class=\"diff-del\">"+esc(p.s)+"</span>";
+      else html+=pre+"<span class=\"diff-ins\">"+esc(p.s)+"</span>";
+    }
+    return html;
+  }
 
   /* ---------- cross-device sync (optional; needs the /api/sync backend) ---------- */
   var SYNC={
@@ -202,6 +273,14 @@
           .then(function(r){ SYNC.on=r.ok; }).catch(function(){ SYNC.on=false; });
       },800);
     },
+    pushRevs:function(){
+      if(!SYNC.secret) return;
+      clearTimeout(SYNC._tr);
+      SYNC._tr=setTimeout(function(){
+        fetch("api/sync",{method:"POST",headers:SYNC._h(),body:JSON.stringify({revisions:getRevs()})})
+          .then(function(r){ SYNC.on=r.ok; }).catch(function(){ SYNC.on=false; });
+      },800);
+    },
     pushBookmark:function(bm){
       if(!SYNC.secret) return;
       fetch("api/sync",{method:"POST",headers:SYNC._h(),body:JSON.stringify({bookmark:bm})}).catch(function(){});
@@ -212,7 +291,10 @@
           var map={};
           getNotes().concat(j.notes||[]).forEach(function(n){ var k=(n.chap||"")+"|"+(n.snip||""); if(!map[k]||(n.ts||0)>(map[k].ts||0)) map[k]=n; });
           setNotes(Object.keys(map).map(function(k){ return map[k]; }));
-          markNotes(); buildNotesList();
+          var rmap={};
+          getRevs().concat(j.revisions||[]).forEach(function(r){ var k=(r.chap||"")+"|"+(r.snip||""); if(!rmap[k]||(r.ts||0)>(rmap[k].ts||0)) rmap[k]=r; });
+          setRevs(Object.keys(rmap).map(function(k){ return rmap[k]; }));
+          decorate(); buildNotesList(); buildEditsList();
           if(j.bookmark) savePos(KEY_BOOKMARK, j.bookmark);
         }
         if(typeof updateSyncUI==="function") updateSyncUI();
@@ -245,29 +327,41 @@
         } else {
           var p=document.createElement("p"); if(flush){ p.className="flush"; flush=false; }
           p.innerHTML=inline(bl.text);
-          p.dataset.chap=title; p.dataset.snip=snip(bl.text);
+          p.dataset.chap=title; p.dataset.snip=snip(bl.text); p.dataset.text=bl.text;
           sec.appendChild(p);
         }
       }
       book.appendChild(sec);
       chapters.push({id:sec.id,title:title||("Part "+(i+1)),el:sec});
     }
-    markNotes(); buildToc(); updateCount();
+    decorate(); buildToc(); updateCount();
   }
 
-  function chapTitleOf(p){ return p.dataset.chap||""; }
-
-  function markNotes(){
+  /* ---------- decorate paragraphs: revision diff + note/edit markers ---------- */
+  function decorate(){
     var ps=book.querySelectorAll("p[data-snip]");
     ps.forEach(function(p){
-      var existing=p.querySelector(".noteDot"); if(existing) existing.remove();
-      var n=findNote(p.dataset.chap,p.dataset.snip);
-      if(n){
-        p.classList.add("hasNote");
-        var dot=document.createElement("span"); dot.className="noteDot"; dot.textContent="💬"; dot.title="View / edit note";
-        dot.addEventListener("click", function(){ openComposer(p, n.quote); });
-        p.appendChild(dot);
-      } else { p.classList.remove("hasNote"); }
+      var chap=p.dataset.chap, s=p.dataset.snip, orig=p.dataset.text||"";
+      var rev=findRev(chap,s), note=findNote(chap,s);
+      if(rev){
+        p.classList.add("hasEdit");
+        p.classList.toggle("isDeleted", !(rev.revised&&rev.revised.trim()));
+        p.innerHTML=diffHTML(orig, rev.revised);
+      } else {
+        p.classList.remove("hasEdit","isDeleted");
+        p.innerHTML=inline(orig);
+      }
+      p.classList.toggle("hasNote", !!note);
+      if(note){
+        var nd=document.createElement("span"); nd.className="noteDot"; nd.textContent="💬"; nd.title="View / edit note";
+        nd.addEventListener("click", function(){ openComposer(p, note.quote); });
+        p.appendChild(nd);
+      }
+      if(rev){
+        var ed=document.createElement("span"); ed.className="editDot"; ed.textContent="✏️"; ed.title="Edit / revert this revision";
+        ed.addEventListener("click", function(){ openEditor(p); });
+        p.appendChild(ed);
+      }
     });
   }
 
@@ -286,11 +380,35 @@
     var ta=box.querySelector("textarea"); ta.value=existing?existing.text:""; ta.focus();
     box.querySelector(".save").addEventListener("click", function(){
       var v=ta.value.trim(); if(!v){ toast("Nothing to save"); return; }
-      upsertNote(chap,s,q,v); markNotes(); buildNotesList(); box.remove(); toast("Note saved");
+      upsertNote(chap,s,q,v); decorate(); buildNotesList(); box.remove(); toast("Note saved");
     });
     box.querySelector(".cancel").addEventListener("click", function(){ box.remove(); });
     var del=box.querySelector(".del");
-    if(del) del.addEventListener("click", function(){ deleteNote(chap,s); markNotes(); buildNotesList(); box.remove(); toast("Note deleted"); });
+    if(del) del.addEventListener("click", function(){ deleteNote(chap,s); decorate(); buildNotesList(); box.remove(); toast("Note deleted"); });
+    box.scrollIntoView({block:"nearest"});
+  }
+
+  /* ---------- track-changes editor ---------- */
+  function openEditor(p){
+    closeComposers();
+    var chap=p.dataset.chap, s=p.dataset.snip, orig=p.dataset.text||"", existing=findRev(chap,s);
+    var box=document.createElement("div"); box.className="composer edit";
+    box.innerHTML="<p class=\"quote\">Rewrite this paragraph as you want it to read. To cut the passage entirely, clear the box and save.</p>"+
+      "<textarea spellcheck=\"true\"></textarea>"+
+      "<p class=\"hint\">Saved as a tracked change; the original stays until you or I apply it.</p>"+
+      "<div class=\"row\"><button class=\"primary save\">Save revision</button><button class=\"cancel\">Cancel</button>"+
+      (existing?"<button class=\"del\">Revert</button>":"")+"</div>";
+    p.insertAdjacentElement("afterend", box);
+    var ta=box.querySelector("textarea"); ta.value=existing?existing.revised:orig; ta.focus();
+    box.querySelector(".save").addEventListener("click", function(){
+      var v=ta.value.replace(/\s+$/,"");
+      if(v.trim()===orig.trim()){ if(existing){ deleteRev(chap,s); decorate(); buildEditsList(); } box.remove(); toast("No change from the original"); return; }
+      upsertRev(chap,s,orig,v); decorate(); buildEditsList(); box.remove();
+      toast(v.trim()?"Revision saved":"Marked for deletion");
+    });
+    box.querySelector(".cancel").addEventListener("click", function(){ box.remove(); });
+    var del=box.querySelector(".del");
+    if(del) del.addEventListener("click", function(){ deleteRev(chap,s); decorate(); buildEditsList(); box.remove(); toast("Reverted to original"); });
     box.scrollIntoView({block:"nearest"});
   }
 
@@ -306,42 +424,62 @@
   function onSelect(){
     var p=paragraphOfSelection();
     var sel=window.getSelection();
-    if(!p){ addBtn.classList.remove("show"); pendingSel=null; return; }
+    if(!p){ selTools.classList.remove("show"); pendingSel=null; return; }
     var rect=sel.getRangeAt(0).getBoundingClientRect();
     pendingSel={ p:p, quote:sel.toString().replace(/\s+/g," ").trim() };
-    addBtn.style.left=(window.scrollX+rect.left+rect.width/2)+"px";
-    addBtn.style.top=(window.scrollY+rect.top)+"px";
-    addBtn.classList.add("show");
+    selTools.style.left=(window.scrollX+rect.left+rect.width/2)+"px";
+    selTools.style.top=(window.scrollY+rect.top)+"px";
+    selTools.classList.add("show");
   }
   document.addEventListener("mouseup", function(){ setTimeout(onSelect,10); });
   document.addEventListener("touchend", function(){ setTimeout(onSelect,10); });
-  addBtn.addEventListener("mousedown", function(e){ e.preventDefault(); });
-  addBtn.addEventListener("click", function(){
-    if(!pendingSel) return;
-    var p=pendingSel.p, q=pendingSel.quote;
-    addBtn.classList.remove("show");
-    if(window.getSelection) window.getSelection().removeAllRanges();
-    openComposer(p, q);
-  });
+  selTools.addEventListener("mousedown", function(e){ e.preventDefault(); });
+  function consumeSel(){ var p=pendingSel?pendingSel.p:null, q=pendingSel?pendingSel.quote:""; selTools.classList.remove("show"); if(window.getSelection) window.getSelection().removeAllRanges(); return {p:p,q:q}; }
+  document.getElementById("btnAddNote").addEventListener("click", function(){ var c=consumeSel(); if(c.p) openComposer(c.p, c.q); });
+  document.getElementById("btnAddEdit").addEventListener("click", function(){ var c=consumeSel(); if(c.p) openEditor(c.p); });
 
   /* ---------- export ---------- */
+  function chapIndex(){ var order={}; chapters.forEach(function(c,i){ order[c.title]=i; }); return order; }
+  function bySortedChap(items){
+    var order=chapIndex();
+    return items.slice().sort(function(a,b){ var d=(order[a.chap]==null?99:order[a.chap])-(order[b.chap]==null?99:order[b.chap]); return d!==0?d:(a.ts||0)-(b.ts||0); });
+  }
   function exportMarkdown(){
-    var notes=getNotes();
-    if(!notes.length) return "";
-    var byChap={}, order=[];
-    chapters.forEach(function(c){ byChap[c.title]=[]; order.push(c.title); });
-    notes.forEach(function(n){ if(!byChap[n.chap]){ byChap[n.chap]=[]; order.push(n.chap); } byChap[n.chap].push(n); });
-    var out="# Reader notes: The Tower of Ardenmoor\n\n";
-    out+="Exported "+new Date().toISOString().slice(0,10)+". "+notes.length+" note"+(notes.length>1?"s":"")+".\n";
-    order.forEach(function(t){
-      var arr=byChap[t]; if(!arr||!arr.length) return;
-      out+="\n## "+t+"\n\n";
-      arr.forEach(function(n){
-        if(n.quote) out+="> "+n.quote+"\n\n";
-        else out+="> (near: \""+n.snip+"…\")\n\n";
-        out+=n.text+"\n\n";
+    var notes=getNotes(), revs=getRevs();
+    if(!notes.length&&!revs.length) return "";
+    var out="# Reader feedback: The Tower of Ardenmoor\n\n";
+    out+="Exported "+new Date().toISOString().slice(0,10)+". "+
+      notes.length+" note"+(notes.length===1?"":"s")+", "+
+      revs.length+" tracked change"+(revs.length===1?"":"s")+".\n";
+
+    if(notes.length){
+      out+="\n# Notes\n";
+      var byChap={}, order=[];
+      bySortedChap(notes).forEach(function(n){ if(!byChap[n.chap]){ byChap[n.chap]=[]; order.push(n.chap); } byChap[n.chap].push(n); });
+      order.forEach(function(t){
+        out+="\n## "+t+"\n\n";
+        byChap[t].forEach(function(n){
+          if(n.quote) out+="> "+n.quote+"\n\n";
+          else out+="> (near: \""+n.snip+"…\")\n\n";
+          out+=n.text+"\n\n";
+        });
       });
-    });
+    }
+
+    if(revs.length){
+      out+="\n# Tracked changes\n";
+      out+="\nApply these edits to the manuscript. \"Delete this paragraph\" means remove it entirely.\n";
+      var rByChap={}, rOrder=[];
+      bySortedChap(revs).forEach(function(r){ if(!rByChap[r.chap]){ rByChap[r.chap]=[]; rOrder.push(r.chap); } rByChap[r.chap].push(r); });
+      rOrder.forEach(function(t){
+        out+="\n## "+t+"\n\n";
+        rByChap[t].forEach(function(r){
+          out+="ORIGINAL:\n> "+r.original.replace(/\s+/g," ").trim()+"\n\n";
+          if(r.revised&&r.revised.trim()) out+="REVISED:\n> "+r.revised.replace(/\s+/g," ").trim()+"\n\n";
+          else out+="REVISED: (delete this paragraph)\n\n";
+        });
+      });
+    }
     return out.trim()+"\n";
   }
   function download(name, text){
@@ -350,7 +488,7 @@
     setTimeout(function(){ document.body.removeChild(a); URL.revokeObjectURL(url); },0);
   }
   document.getElementById("btnCopy").addEventListener("click", function(){
-    var md=exportMarkdown(); if(!md){ toast("No notes yet; select text to add one"); return; }
+    var md=exportMarkdown(); if(!md){ toast("No feedback yet; select text to add some"); return; }
     if(navigator.clipboard&&navigator.clipboard.writeText){
       navigator.clipboard.writeText(md).then(function(){ toast("Copied. Paste it to Claude"); }, function(){ fallbackCopy(md); });
     } else fallbackCopy(md);
@@ -362,8 +500,8 @@
     document.body.removeChild(ta);
   }
   document.getElementById("btnDownload").addEventListener("click", function(){
-    var md=exportMarkdown(); if(!md){ toast("No notes yet; select text to add one"); return; }
-    download("ardenmoor-notes.md", md);
+    var md=exportMarkdown(); if(!md){ toast("No feedback yet; select text to add some"); return; }
+    download("ardenmoor-feedback.md", md);
   });
   function updateSyncUI(){
     var b=document.getElementById("btnSync"); if(!b) return;
@@ -393,8 +531,25 @@
       div.querySelector(".go").addEventListener("click", function(){
         var p=findParagraph(n.chap,n.snip); closeDrawers(); if(p){ p.scrollIntoView({block:"center"}); }
       });
-      div.querySelector(".del").addEventListener("click", function(){ deleteNote(n.chap,n.snip); markNotes(); buildNotesList(); });
+      div.querySelector(".del").addEventListener("click", function(){ deleteNote(n.chap,n.snip); decorate(); buildNotesList(); });
       notesList.appendChild(div);
+    });
+  }
+  function buildEditsList(){
+    var revs=getRevs();
+    if(!revs.length){ editsList.innerHTML="<div class=\"empty\">No tracked changes yet.<br><br>Select any passage, tap <b>✏️ Edit</b>, and rewrite it (or clear it to cut the passage). Your edits show inline as track changes and gather here for me to apply.</div>"; return; }
+    editsList.innerHTML="";
+    bySortedChap(revs).forEach(function(r){
+      var cut=!(r.revised&&r.revised.trim());
+      var div=document.createElement("div"); div.className="revItem";
+      div.innerHTML="<div class=\"ch\">"+esc(r.chap||"")+"</div>"+
+        "<div class=\"tag"+(cut?" cut":"")+"\">"+(cut?"Deletion":"Revision")+"</div>"+
+        "<div class=\"diff\">"+diffHTML(r.original, r.revised)+"</div>"+
+        "<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"edit\">Edit</a><a class=\"del\">Revert</a></div>";
+      div.querySelector(".go").addEventListener("click", function(){ var p=findParagraph(r.chap,r.snip); closeDrawers(); if(p){ p.scrollIntoView({block:"center"}); } });
+      div.querySelector(".edit").addEventListener("click", function(){ var p=findParagraph(r.chap,r.snip); closeDrawers(); if(p){ p.scrollIntoView({block:"center"}); setTimeout(function(){ openEditor(p); },260); } });
+      div.querySelector(".del").addEventListener("click", function(){ deleteRev(r.chap,r.snip); decorate(); buildEditsList(); });
+      editsList.appendChild(div);
     });
   }
   function findParagraph(chap,s){
@@ -444,8 +599,18 @@
   function openDrawer(d){ closeDrawers(); d.classList.add("open"); scrim.classList.add("open"); }
   function closeDrawers(){ toc.classList.remove("open"); notes.classList.remove("open"); scrim.classList.remove("open"); }
   document.getElementById("btnToc").addEventListener("click", function(){ toc.classList.contains("open")?closeDrawers():openDrawer(toc); });
-  document.getElementById("btnNotes").addEventListener("click", function(){ if(notes.classList.contains("open")) closeDrawers(); else { buildNotesList(); openDrawer(notes); } });
+  document.getElementById("btnNotes").addEventListener("click", function(){ if(notes.classList.contains("open")) closeDrawers(); else { buildNotesList(); buildEditsList(); openDrawer(notes); } });
   scrim.addEventListener("click", closeDrawers);
+
+  /* feedback tabs */
+  var tabNotes=document.getElementById("tabNotes"), tabEdits=document.getElementById("tabEdits");
+  function showPane(which){
+    var isNotes=which==="notes";
+    tabNotes.classList.toggle("active", isNotes); tabEdits.classList.toggle("active", !isNotes);
+    notesList.style.display=isNotes?"":"none"; editsList.style.display=isNotes?"none":"";
+  }
+  tabNotes.addEventListener("click", function(){ showPane("notes"); });
+  tabEdits.addEventListener("click", function(){ showPane("edits"); });
 
   document.getElementById("btnMark").addEventListener("click", function(){ var bm=currentPos(); savePos(KEY_BOOKMARK,bm); if(SYNC.pushBookmark) SYNC.pushBookmark(bm); buildToc(); toast("Bookmarked this spot"); });
   document.getElementById("btnGoto").addEventListener("click", function(){ var bm=loadPos(KEY_BOOKMARK); if(bm){ gotoPos(bm); toast("Jumped to your bookmark"); } else toast("No bookmark yet; tap the ribbon to set one"); });

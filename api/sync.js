@@ -55,6 +55,29 @@ async function ghWriteFile(repo, branch, token, path, content, message) {
   return true;
 }
 
+function renderRevisionsMarkdown(revs) {
+  let out = "# Tracked changes: The Tower of Ardenmoor\n\n";
+  out += `${revs.length} tracked change${revs.length === 1 ? "" : "s"}. Synced from the reader.\n\n`;
+  out += `Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely.\n`;
+  const byChap = {};
+  const order = [];
+  revs.forEach((r) => {
+    const c = r.chap || "(unplaced)";
+    if (!byChap[c]) { byChap[c] = []; order.push(c); }
+    byChap[c].push(r);
+  });
+  const clean = (s) => (s || "").replace(/\s+/g, " ").trim();
+  order.forEach((c) => {
+    out += `\n## ${c}\n\n`;
+    byChap[c].forEach((r) => {
+      out += `ORIGINAL:\n> ${clean(r.original)}\n\n`;
+      if (r.revised && r.revised.trim()) out += `REVISED:\n> ${clean(r.revised)}\n\n`;
+      else out += `REVISED: (delete this paragraph)\n\n`;
+    });
+  });
+  return out.trim() + "\n";
+}
+
 function renderNotesMarkdown(notes) {
   let out = "# Reader notes: The Tower of Ardenmoor\n\n";
   out += `${notes.length} note${notes.length === 1 ? "" : "s"}. Synced from the reader.\n`;
@@ -97,8 +120,9 @@ module.exports = async (req, res) => {
   try {
     if (req.method === "GET") {
       const notes = await ghReadJson(repo, branch, token, "feedback/notes.json", []);
+      const revisions = await ghReadJson(repo, branch, token, "feedback/revisions.json", []);
       const state = await ghReadJson(repo, branch, token, "feedback/reader-state.json", {});
-      res.status(200).json({ ok: true, notes, bookmark: state.bookmark || null });
+      res.status(200).json({ ok: true, notes, revisions, bookmark: state.bookmark || null });
       return;
     }
 
@@ -110,6 +134,10 @@ module.exports = async (req, res) => {
       if (Array.isArray(body.notes)) {
         await ghWriteFile(repo, branch, token, "feedback/notes.json", JSON.stringify(body.notes, null, 2), "reader: sync notes");
         await ghWriteFile(repo, branch, token, "feedback/notes.md", renderNotesMarkdown(body.notes), "reader: render notes");
+      }
+      if (Array.isArray(body.revisions)) {
+        await ghWriteFile(repo, branch, token, "feedback/revisions.json", JSON.stringify(body.revisions, null, 2), "reader: sync tracked changes");
+        await ghWriteFile(repo, branch, token, "feedback/revisions.md", renderRevisionsMarkdown(body.revisions), "reader: render tracked changes");
       }
       if (Object.prototype.hasOwnProperty.call(body, "bookmark")) {
         const state = await ghReadJson(repo, branch, token, "feedback/reader-state.json", {});

@@ -130,9 +130,16 @@ Do these in order, every session, before drafting a word:
    the story bible hold.
 7. **Read the previous chapter's file** in `manuscript/` in full (for voice continuity, the
    last image, and the emotional temperature you're inheriting).
-8. **Check `feedback/` for any reader notes** (`feedback/*.md`, exported from `reader.html`).
-   Treat each as durable author feedback per the section below: apply it, record the resulting
-   convention, tell the author where it was filed, then it is done.
+8. **Check `feedback/` for reader feedback** (synced from `reader.html`). Two kinds:
+   - `feedback/notes.md` — notes about passages. Treat each as durable author feedback per the
+     section below: apply it, record the resulting convention, tell the author where it was
+     filed, then it is done.
+   - `feedback/revisions.md` — tracked changes: literal edits the author made in the reader.
+     Each has an ORIGINAL paragraph and a REVISED version (or `(delete this paragraph)`). Apply
+     them as written — swap the wording, or cut the paragraph. A revision is a decision already
+     made, not a suggestion to weigh; only pause if it would break canon, and then say so. If a
+     revision reveals a preference that should generalize (a word the author dislikes, a rhythm
+     they keep smoothing), record that convention too, the same as a note.
 
 Only then begin drafting.
 
