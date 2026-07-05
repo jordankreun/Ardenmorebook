@@ -149,7 +149,8 @@ Brenna, then **Maret's mill** at the edge before the lane became the hill track 
 
 - **Vethmark** — the city ~**4 days' ride** from the valley; Penworth's base and the seat of
   banking/credit (Kellard's arrangement runs there); **also Emlyn's own home before Ardenmoor**,
-  where he kept three rooms and had become a near-recluse. The "city" of the outside-world
+  where he kept a large, mostly-empty townhouse (many rooms dark and under dust-sheets) and had
+  become a near-recluse. The "city" of the outside-world
   subplot. [CANON + PAGE ch1]
 - **The city rooms** — Arielle's rooms, holding the third spellbook (the shelf gap), unentered
   since her death; the destination Book Two aims at. Whether these are in Vethmark (now the
@@ -157,9 +158,10 @@ Brenna, then **Maret's mill** at the edge before the lane became the hill track 
   capital is still **[OPEN]**. [CANON: they exist]
 - **Edran's quarry** — supplies building stone; a **day's round trip** by cart; quarry road leads
   out of the village (direction [OPEN]). [CANON / style guide]
-- **Emlyn's home before Ardenmoor** — **Vethmark**: three rooms and a stair he "went down less
-  and less"; a near-recluse whom Penworth drew out with the hill. He rode ~**4 days** from
-  Vethmark to the valley. [PAGE ch1]
+- **Emlyn's home before Ardenmoor** — **Vethmark**: a **large but mostly-empty townhouse**, "far
+  more rooms than one man had any use for, most of them dark and under dust-sheets"; a near-recluse
+  who "passed the whole of the winter shut up" there. Penworth drew him out with the hill. He rode
+  ~**4 days** from Vethmark to the valley. [PAGE ch1]
 
 ---
 

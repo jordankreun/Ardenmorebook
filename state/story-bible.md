@@ -103,7 +103,8 @@ if it needs a new one, add it here.
 - **Ren:** ~**16**.
 - **The narrator "now":** ancient — "longer than most kingdoms manage to stand"; deliberately no
   number (prologue).
-- **Emlyn's home before Ardenmoor:** **Vethmark** (three rooms; near-recluse). Vethmark ↔
+- **Emlyn's home before Ardenmoor:** **Vethmark** — a large but mostly-empty townhouse (many
+  rooms dark and under dust-sheets); near-recluse. Vethmark ↔
   Ardenmoor ≈ **4 days'** ride (his road in). Penworth is based in the same city.
 - **Reconciliation flag (Arielle's rooms):** her untouched city rooms (Book Two) are now most
   likely in **Vethmark** too — Emlyn lived in that city yet could not go to her rooms, which
@@ -173,12 +174,12 @@ if it needs a new one, add it here.
   household goods presumably arrive with wagons after purchase — pending).
 - **Emlyn characterization:** three years arranging his life so no one feeds him expecting
   nothing back; "feelings that came on suddenly were generally grief wearing another coat";
-  dry humor; lets the horse be right about the road. **Before Ardenmoor he was a near-recluse
-  in three rooms in Vethmark**, a stair he "went down less and less"; unused to being outdoors
-  ("a long while indoors… the plain reach of the open country kept catching me unawares"); sat
-  on Penworth's letter "the better part of a season." Penworth (same city) had "plainly decided
-  between one quarterly visit and the next" that this would not do, and used the hill to draw him
-  out. All handled SUBTLY, shown not stated.
+  dry humor; lets the horse be right about the road. **Before Ardenmoor he was a near-recluse in a
+  large but mostly-empty townhouse in Vethmark** ("far more rooms than one man had any use for,
+  most of them dark and under dust-sheets"); "passed the whole of the winter shut up" there and
+  "scarcely marked the season going by"; sat on Penworth's letter (it "came at the turn of the
+  year," carried a season). Penworth (same city) used the hill to draw him out. All handled
+  SUBTLY, shown not stated. (The big empty house is a grief image: rooms he closed off, not filled.)
 - **Promises made (Ch 1):** none standing. (The earlier Lira "come back and tell me if the
   hill's hearing is true" promise was CUT along with her revision; she is now incurious about
   the hill, so there is no such thread to pay off.)
