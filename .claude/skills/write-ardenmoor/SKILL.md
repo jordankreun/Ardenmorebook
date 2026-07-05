@@ -27,6 +27,8 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 - `.claude/skills/write-ardenmoor/references/voice-rothfuss-mancour.md` — the specific author-voice fusion for THIS book
 - `.claude/skills/write-ardenmoor/references/continuity-checklist.md` — the pre-flight and post-flight checks per chapter
 - `state/story-bible.md` — the LIVING continuity record; you read and update it every chapter
+- `state/geography.md` — the LIVING map & gazetteer (valley, hill, village, roads, water);
+  read before drafting, update after any chapter that places, names, or moves geography
 - `state/manuscript-log.md` — one-line-per-chapter status and recap ledger
 - `manuscript/` — the manuscript itself, one file per chapter (`NN-slug.md`, zero-padded: `00-prologue.md`, `01-chapter-one.md`, ...)
 
@@ -96,12 +98,14 @@ Do these in order, every session, before drafting a word:
 1. **Read `references/style-guide.md`** in full. Internalize the register.
 2. **Read `references/voice-rothfuss-mancour.md`** in full. This is the specific voice.
 3. **Read `state/story-bible.md`** in full. This is what is currently TRUE in the book.
-4. **Read `state/manuscript-log.md`** to see what's drafted and the recap ledger.
-5. **Read the outline** around the target chapter in `references/outline.md` — the entry and its
+4. **Read `state/geography.md`** in full. Any place, direction, distance, or landmark you use
+   must agree with it; anything marked [OPEN] is yours to invent (then log it).
+5. **Read `state/manuscript-log.md`** to see what's drafted and the recap ledger.
+6. **Read the outline** around the target chapter in `references/outline.md` — the entry and its
    neighbors — as inspiration and direction, not a script. Note which load-bearing beats and
    canon facts it touches. You may follow it, widen it, or depart from it, so long as canon and
    the story bible hold.
-6. **Read the previous chapter's file** in `chapters/` in full (for voice continuity, the
+7. **Read the previous chapter's file** in `manuscript/` in full (for voice continuity, the
    last image, and the emotional temperature you're inheriting).
 
 Only then begin drafting.
@@ -147,6 +151,9 @@ touched. Do NOT put the title as an in-prose heading inside the scene.
   learning a secret, an object moving, a relationship shifting, a building completed, a
   seed planted for later payoff. Move any "planted" seed to a "pending payoff" list with its
   target chapter.
+- Update `state/geography.md` if the chapter placed, named, or moved any place, direction,
+  distance, or landmark: promote the relevant [OPEN] items to [PAGE ch N], add a change-log
+  line, and adjust the map if the layout changed.
 
 **Run the post-flight check** from `references/continuity-checklist.md` before declaring the
 chapter done. If any check fails, fix the prose, not the checklist.

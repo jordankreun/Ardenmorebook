@@ -208,7 +208,11 @@ letters only — engaged to trace the three.
 
 ---
 
-## GEOGRAPHY (fixed)
+## GEOGRAPHY (fixed — summary only; the FULL living map & gazetteer is `state/geography.md`)
+
+> Detailed layout, the schematic map, compass anchors, the two-oaks distinction, distances,
+> and the [CANON]/[PAGE]/[OPEN] tiers all live in **`state/geography.md`** — read and update
+> that file. The summary below is the canonical skeleton.
 
 Tower on the hill's crown; cellar beneath (recording blank in floor, chest in NE corner);
 stable; greenhouse (enchanted wrought-steel frame + glass) on the SE slope; storehouse cut into
