@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-4 notes. Synced from the reader.
+5 notes. Synced from the reader.
 
 ## Prologue
 
@@ -22,3 +22,7 @@ Better introduce horse
 > and in the matter of what I ought to want
 
 Unclear
+
+> low
+
+Not low. One of few three story buildings
