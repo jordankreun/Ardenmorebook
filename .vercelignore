@@ -1,0 +1,5 @@
+# Keep the book's ENDING and continuity notes off any public deploy.
+# Only reader.html + manuscript/ should ever be served.
+.claude/
+state/
+.github/
