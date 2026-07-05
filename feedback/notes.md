@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-7 notes. Synced from the reader.
+8 notes. Synced from the reader.
 
 ## Prologue
 
@@ -34,3 +34,7 @@ This it abrupt for agreement to sell
 > stranger's house, in a valley I had never meant to stay in, with t
 
 He is in an inn
+
+> The last of the road did not so much end as give up on itself. Good packed dirt softened to a green lane a cart might trouble twice in a month, until near the end I was riding through grass with only the ghost of a track beneath it.
+
+As there is an inn the road should go away but could be nothing special and it perhaps not the best marked
