@@ -13,6 +13,14 @@
 
 ## SESSION-LOCKED AUTHOR DECISIONS (binding; supersede references where they differ)
 
+- **Natural interaction over outline (standing rule):** always prioritize the living
+  back-and-forth of a scene over hitting an outline beat. The outline is a pantry, not a
+  schedule; follow the scene, keep only canon and continuity as fences.
+- **Lira — RESOLVED (drift flag #1):** she is **short but friendly** — few words, no wasted
+  motion, warmth carried by service and by the plainness of the words when they come. NOT
+  the reference arc's coldest-holdout. Her Conclave-informant thread still stands and reads
+  as quietly compatible with (even sharpened by) the warmth; her arc is now "brisk kindness
+  that deepens," not "ice that thaws." Adapt the Ch-12 reader-superior device accordingly.
 - **POV/frame:** first-person retrospective (Kingkiller-style teller), past tense. The narrator
   is ancient — life-force compression has made him effectively immortal (mechanism offstage
   until late). In-scene at the opening he is mid-thirties, widowed ~3 years.
@@ -30,9 +38,14 @@
 
 ## ESTABLISHED ON THE PAGE (Prologue + Ch 1)
 
-- **Prologue:** ancient narrator frame; everyone in the story is now dead but him; he was
-  mid-30s, widowed, "already better at my art than was strictly good for me" when it began;
-  "build" seeded as the book's project. No mechanism of his longevity given.
+- **Prologue (deliberately vague, cryptic-but-friendly — a "good wizard disclaimer"):**
+  ancient narrator who cheerfully admits he polishes memory and may be lying, and "minds
+  the difference a good deal less than once I did"; everyone in the story is gone but him;
+  longevity only IMPLIED ("more leisure than any man was ever meant to be given"). Does NOT
+  state his age, widowhood, or the extent of his power outright — only that he was "a man...
+  at the tired end of a bad few years, with rather more skill than sense." Those specifics
+  (mid-30s, widowed, formidable) live in canon + Ch 1, not the prologue. Ends: "on a road,
+  in the spring, a very long time ago."
 - **Ch 1 events:** third week of spring; four-day ride alone on Snow (mare); Penworth's
   3-page letter ("a hill of no agricultural worth and considerable quiet") provisionally
   secured hill + land; road "gives up" into a green lane; first sight of village from the
@@ -42,8 +55,9 @@
 - **Cast on stage (Ch 1):** Tomas (nod, more question than greeting; hammer heard next
   morning; narrator flags "more to him than a smith"); Brenna (cold stare from her doorway →
   next morning thawed "from enemy to nuisance"; narrator foreshadows true friendship and her
-  later laughing confession that she disliked him on sight); the inn is **Lira's** (room held
-  and paid a fortnight since by Penworth's agent; "You'll be the wizard, then" — his trade is
+  later laughing confession that she disliked him on sight); the inn is **Lira's** (short but
+  friendly — few words, no wasted motion, warmth through service; room held and paid a
+  fortnight since by Penworth's agent; "You'll be the wizard, then" — his trade is
   village-known, said like "the man about the drains"); **Soren** (~nine, dark-haired,
   still/watchful, takes Snow in the inn-yard, "I can fetch him" — stables the mare, then runs
   for Cael; sits near the fire during the meeting; level look at the door; narrator heavily
@@ -71,12 +85,8 @@
 
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 
-1. **Lira runs WARM in Ch 1** (soup, watching him eat, the gran story, "mind how you go,"
-   asks him to report back) vs. the reference arc's Lira: coldest holdout, "warmth of a
-   signed receipt," Conclave informant, slowest thaw cracked by the road (Ch 17). OPTIONS:
-   (a) cool her in a Ch-1 revision; (b) keep her warm-but-watchful and re-aim the arc — the
-   informant thread still works (warmth and reporting are compatible, and may read as MORE
-   quietly chilling). DECIDE BEFORE the Ch-12 device.
+1. **Lira — RESOLVED:** short but friendly (see session-locked decisions above). Ch 1 revised
+   to trim her speeches to few, plain, warm words. Informant thread retained; arc re-aimed.
 2. **Outline Ch-1 beats not used** (two wagons, chest on stage, first night under canvas,
    "sold with unseemly speed"): superseded by the drafted arranged-purchase arrival. The
    chest and household goods must still ARRIVE in an early chapter (wagons, after purchase).

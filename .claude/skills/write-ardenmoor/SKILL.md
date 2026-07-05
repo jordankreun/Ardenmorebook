@@ -35,6 +35,12 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 These were decided with the author during drafting and are binding. The reference docs
 predate some of them; where a reference says otherwise, THIS list wins.
 
+0. **Natural interaction over outline (the standing rule above all others here):** always
+   prioritize the living back-and-forth of a scene — the dialogue, the characters, the
+   moment's own logic — over hitting an outline beat. The outline is a pantry, never a
+   schedule. When a scene's natural interaction pulls away from the outline, follow the
+   scene; continuity and canon are the only fences. (This is why the drafted Ch 1 departs
+   from the outline's Ch-1 sketch, and it is the correct default going forward.)
 1. **POV & frame:** FIRST-PERSON retrospective, past tense — a Kingkiller-style teller.
    The narrator is ancient (life-force compression has made him effectively immortal; the
    mechanism stays offstage until late in the book), looking back across centuries at

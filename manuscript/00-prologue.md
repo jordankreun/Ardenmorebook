@@ -4,14 +4,12 @@
 
 ### Prologue
 
-I have been a great many things in my time, and outlived nearly all of them, and I have come at last to the age — though *age* is a clumsy word for what I have instead of one — where a man grows to mistrust his own memory and begins to want the important things set down before they blur past saving.
+Every story worth the telling opens with a small dishonesty, and here is mine: I am about to assure you that I remember all of this exactly as it happened, and you are going to allow me to, and we shall both be the better and the happier for the arrangement.
 
-So here I am, setting them down.
+The truth is that it was a long time ago. Longer than you will care to believe, so I will spare you the number — numbers, past a certain distance, stop meaning anything more than *a great while*, and *a great while* will serve us both. Everyone who walks through this story is gone now, save me, and I have had the leisure — more of it than any man was ever meant to be given — to turn each of them over in my hands until they shine. If here and there I have polished one past the plain grain of the truth, take it for the fondness of an old man for people he loved, and not for a lie. Or take it for a lie, if you would rather. I find, at the age I have reached, that I mind the difference a good deal less than once I did.
 
-What follows happened a long while ago. I would like to be honest about how long, and find that I cannot, because the number would only get underfoot; let it be enough to say that everyone in this story is gone now but me, and has been gone longer than most kingdoms manage to stand, and that I had to teach myself to tell it without stopping every few lines to grieve — which took me the better part of a very long time, and is the nearest thing to a great work I have left in me.
+I will tell you only this much plainly, because the tales that carry my name these days have a way of beginning with a wonder, or with a boy, and it was neither, not then. I was a man. Only that: a man at the tired end of a bad few years, with rather more skill than sense and nowhere in the world he particularly needed to be. That is who this story is about. Be gentle with him. He did not yet know how any of it came out — which is the single advantage I hold over him, and very nearly the only thing I own that I would give back, if the giving-back of such things were ever allowed.
 
-I was not young when it began. I want that understood at the outset, because the tales people tell of me now have a way of starting with a boy, and there was no boy — not by then. I was a man in the middle of his thirties: widowed, tired in a manner I had stopped expecting ever to recover from, and already a good deal better at my art than was strictly good for me. What I was *not* yet was the thing the stories mean when they say my name. That came later. It came slowly, and mostly by accident, on a green hill above a small village, in the company of people I had not the wit, at first, to know I was fortunate to have found at all.
+The rest you may trust exactly as far as you would trust any man who has had this long, and this quiet, to get the telling right.
 
-This is the story of how I came to that place, and stayed, and began — without ever meaning to, which is the only honest way anything worth doing has ever begun — to build.
-
-Begin, then, where it began: on a road, in the spring, a very long time ago.
+So. We begin where it began: on a road, in the spring, a very long time ago.
