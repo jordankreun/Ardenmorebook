@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-11 notes. Synced from the reader.
+12 notes. Synced from the reader.
 
 ## Prologue
 
@@ -50,3 +50,10 @@ Don’t throw these in there. Adds n o value without further commentary. Why don
 > A smith's fire was going somewhere, and the ring of a hammer came steady and unhurried across the cold air. The herb-shop had its shutters open to air the place, and the same green bitterness of the evening before drifted out of it into the street.
 
 Add more variety here. This is just same two shops you know of. More flavor please. Add a period correct integration of a baker. Maybe town isn’t quite big enough for a bakery but there could be an oven that someone uses near the inn.
+
+
+## Chapter Two: Walking the Bounds
+
+> long
+
+Not too long rewrite. It should be maybe like a 30 minute walk outside the town
