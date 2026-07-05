@@ -1,13 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-15 notes. Synced from the reader.
-
-## Prologue
-
-> So. Enough of an old man clearing his throat. We begin a very long time ago, with a younger and a good deal more foolish version of myself, a man who had the whole of this in front of him and had not the first idea that it was coming.
-
-Remove
-
+14 notes. Synced from the reader.
 
 ## Chapter One: Ardenmoor
 
