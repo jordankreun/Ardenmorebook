@@ -39,13 +39,15 @@
 ## ESTABLISHED ON THE PAGE (Prologue + Ch 1)
 
 - **Prologue (deliberately vague, cryptic-but-friendly — a "good wizard disclaimer"):**
-  ancient narrator who cheerfully admits he polishes memory and may be lying, and "minds
-  the difference a good deal less than once I did"; everyone in the story is gone but him;
-  longevity only IMPLIED ("more leisure than any man was ever meant to be given"). Does NOT
-  state his age, widowhood, or the extent of his power outright — only that he was "a man...
-  at the tired end of a bad few years, with rather more skill than sense." Those specifics
-  (mid-30s, widowed, formidable) live in canon + Ch 1, not the prologue. Ends: "on a road,
-  in the spring, a very long time ago."
+  MOTIVE for writing = (1) he has reached the age where a man sets things down, "simply what
+  one does," and (2) the tales told about him are now so many and so wrong that an honest
+  accounting is warranted. His memory is explicitly NOT failing — "mine has never gone, and I
+  have had a great deal longer than most men to put it to the test" (this both denies memory
+  loss AND hints at his uncanny longevity). Light concession that fondness has softened a few
+  edges, "but the shape of it is true." Does NOT state his age, widowhood, or the extent of
+  his power outright — only "a man at the tired end of a bad few years, with rather more skill
+  than sense." Those specifics live in canon + Ch 1, not the prologue. Ends: "on a road, in
+  the spring, a very long time ago."
 - **Ch 1 events:** third week of spring; four-day ride alone on Snow (mare); Penworth's
   3-page letter ("a hill of no agricultural worth and considerable quiet") provisionally
   secured hill + land; road "gives up" into a green lane; first sight of village from the
