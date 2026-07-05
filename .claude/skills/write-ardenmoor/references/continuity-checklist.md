@@ -5,12 +5,17 @@
 
 ## PRE-FLIGHT (before writing)
 
-- [ ] I have read the style guide, the voice note, the story bible, and the manuscript log.
+- [ ] I have read the style guide, the voice note, the story bible, the **geography map**, and
+      the manuscript log.
 - [ ] I have read the previous chapter in full and know its closing image and emotional temperature.
 - [ ] I have read the outline around this chapter as **inspiration, not a script**, and noted which
       load-bearing beats and canon facts it touches.
 - [ ] I know which of the four threads are alive in this chapter (follow the live ones; no quota).
 - [ ] I have listed every canon fact this chapter will touch and confirmed each against the bible.
+- [ ] I have checked every age, date, duration, and relationship-length I intend to state against
+      the story bible's **NUMBERS, AGES & DURATIONS LEDGER** (and will add any new figure to it).
+- [ ] Any place, direction, distance, or landmark I use agrees with `state/geography.md`
+      (anything marked [OPEN] I may invent, then log).
 - [ ] I know the season, day, place, and task that will anchor the opening paragraph.
 - [ ] I know this chapter's turn (if it has one) and its closing image.
 - [ ] For every character appearing, I have recalled their fixed speech rule.
@@ -22,6 +27,11 @@
 - [ ] Load-bearing destinations are still reachable (nothing here forecloses the letter-then-chest
       resolution, the Part IV convergence, or the Ch-28 compass-points-down twist).
 - [ ] Timeline is honest: travel took time, construction took the weeks it takes.
+- [ ] Every stated number, age, duration, and relationship-length agrees with the story bible's
+      Numbers Ledger; no vague phrasing ("longer than I can recall") that contradicts a fixed
+      figure (e.g., Penworth ≈ a decade with Emlyn and ≈ Emlyn's age — never "thirty years"/"old").
+- [ ] Places, directions, distances, and landmarks match `state/geography.md`; the two oaks are
+      kept distinct (roadside approach oak ≠ the Old Oak / Listener in the north wood).
 - [ ] Anyone who "knows" a secret was actually shown learning it (or already knew per the bible).
 - [ ] Objects are where the bible says they are; anything moved is logged.
 - [ ] Season/day/light are consistent with the previous chapter's timeline.

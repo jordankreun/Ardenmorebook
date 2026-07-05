@@ -49,7 +49,7 @@ General law: nobody in this book explains themselves at length. Subtext over tex
 
 **Ren** (16) — careful, honest to the grain; differentiates what he knows from what merely sounds right ("That felt like someone explaining something they'd read about, not something they'd felt"). Physical metaphors from building ("like pouring from two pitchers into one cup — the water would crash").
 
-**Penworth** — dry, formal, thirty years of loyalty expressed as impeccable logistics. Letters in his voice are miniature essays of understatement.
+**Penworth** — dry, formal, loyalty expressed as impeccable logistics. Letters in his voice are miniature essays of understatement. (Novel canon, per the story bible: he is ~Emlyn's own age and has run Emlyn's affairs ~a decade — never "old," never "thirty years with him.")
 
 **Cael** — elder's obliqueness; approaches subjects sideways and lets the listener close the distance.
 

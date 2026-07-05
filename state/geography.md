@@ -92,6 +92,9 @@ Penworth provisionally purchased, and is finalizing: [PAGE ch2] [CANON per sessi
   stand** a former owner never lived to cut). The future cart-road to the main road runs through
   it. [PAGE ch2]
 - **The NE meadow** (~12 acres), off the hill's northeast shoulder. [PAGE ch2]
+- **The plough-land in the bottoms** — good arable in the low ground below the hill; the hill
+  itself is worthless to a farmer, but this field-land is leasable, and Emlyn will "eventually"
+  set it to tenant families for rents. [PAGE ch2] (Exact location/extent of the bottoms [OPEN].)
 - **A partial stake in the mill-pond water rights.** [PAGE ch2]
 
 ---
@@ -185,6 +188,6 @@ Brenna, then **Maret's mill** at the edge before the lane became the hill track 
   street), Brenna's cottage; the approach oak at the view-bend; hill is N & a little E of the
   village; Maret's mill at the hill-ward edge. Hill still "only a hill."
 - **ch2** — Established: the crown; the south-face spring; the east green shelf; the NE meadow;
-  the woodland strip + larch stand; the mill pond stake; the North Wood + the Old Oak (Listener)
-  seen at distance; Cael's father's failed shelter (the ground that won't hold). Purchase agreed;
-  Penworth finalizing.
+  the leasable plough-land in the bottoms (tenant farmland for rents); the woodland strip + larch
+  stand; the mill pond stake; the North Wood + the Old Oak (Listener) seen at distance; Cael's
+  father's failed shelter (the ground that won't hold). Purchase agreed; Penworth finalizing.

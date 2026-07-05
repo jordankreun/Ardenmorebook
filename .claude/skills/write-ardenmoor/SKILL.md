@@ -46,7 +46,8 @@ predate some of them; where a reference says otherwise, THIS list wins.
 1. **POV & frame:** FIRST-PERSON retrospective, past tense — a Kingkiller-style teller.
    The narrator is ancient (life-force compression has made him effectively immortal; the
    mechanism stays offstage until late in the book), looking back across centuries at
-   events from when he was a man in his mid-thirties. This supersedes every "third
+   events from when he was a man **past forty (in his 40s) who looked a good deal younger**
+   (see the story bible's session-locked decisions and Numbers Ledger). This supersedes every "third
    limited" instruction in the references. The Le Guin restraint floor still governs.
 2. **Protagonist's name:** **Emlyn Ambrose**. "Opus" in the reference docs is the campaign
    name — read every "Opus" as Emlyn. On the page only "Emlyn" has been given; the surname
@@ -154,6 +155,10 @@ touched. Do NOT put the title as an in-prose heading inside the scene.
 - Update `state/geography.md` if the chapter placed, named, or moved any place, direction,
   distance, or landmark: promote the relevant [OPEN] items to [PAGE ch N], add a change-log
   line, and adjust the map if the layout changed.
+- Update the story bible's **NUMBERS, AGES & DURATIONS LEDGER** with any age, date, duration, or
+  relationship-length the chapter stated or newly fixed. This is the check that keeps figures
+  from drifting (the flagged trap: Penworth's tenure told as "longer than I can recall" in one
+  place and "thirty years" in another). Never state a figure that disagrees with the ledger.
 
 **Run the post-flight check** from `references/continuity-checklist.md` before declaring the
 chapter done. If any check fails, fix the prose, not the checklist.

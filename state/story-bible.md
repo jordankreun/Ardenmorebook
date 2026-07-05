@@ -28,7 +28,20 @@
   that deepens," not "ice that thaws." Adapt the Ch-12 reader-superior device accordingly.
 - **POV/frame:** first-person retrospective (Kingkiller-style teller), past tense. The narrator
   is ancient — life-force compression has made him effectively immortal (mechanism offstage
-  until late). In-scene at the opening he is mid-thirties, widowed ~3 years.
+  until late). In-scene at the opening he is **in his 40s (past forty) but looks a good deal
+  younger than his years** — an early, indirect hint of his nature, never explained on the page
+  yet (Ch 1: "past forty… have never worn it where a man can see, for reasons that belong
+  further along"). Widowed ~3 years.
+- **Penworth (revised — reconcile older drafts):** roughly **Emlyn's OWN age** (NOT a
+  generation older — never write him "old"); took over the running of Emlyn's affairs **about a
+  decade ago**; a career man of affairs (long general career, ~10 yrs of it with Emlyn). He is
+  also a **minor magical talent** and thus slightly long-lived / slow-aging — but this is NOT
+  to be stated directly or dwelt on yet; faintest indirection at most. (Overrides the campaign's
+  "thirty years of service to Opus.")
+- **Soft rule — talent slows aging:** magical ability correlates with slowed aging (greater
+  talent → younger-worn years): Emlyn markedly, Penworth slightly. Emlyn's later life-force
+  compression → effective immortality is the extreme further step. Keep ALL of this indirect
+  and unstated in prose for now — it is a continuity rule, not exposition.
 - **Name:** the protagonist is **Emlyn Ambrose** in the novel ("Opus" = campaign name in the
   reference docs; read as Emlyn). Only "Emlyn" given on the page so far; **Ambrose withheld**
   until the author chooses to reveal it.
@@ -36,8 +49,37 @@
   INTERLUDES and the Lira reader-superior device (Ch 12) need first-person adaptation — the
   recommended treatment is the ancient narrator telling the reader what he only later learned
   ("I did not know then that..."). OPEN DECISION.
-- **Arrival:** Penworth found and provisionally purchased the hill + surrounding land; Emlyn
-  came to view before completing. No fate-pull; the narrator explicitly disclaims it.
+- **Arrival:** Penworth found and provisionally purchased the hill + surrounding land — the
+  hill is of NO agricultural worth, but the holdings deliberately include **leasable farmland
+  (plough-land in the bottoms)** Emlyn will eventually set to tenant families for rents, plus
+  the woodland strip, the NE meadow, and a mill-pond water stake. Emlyn came to view before
+  completing. No fate-pull; the narrator explicitly disclaims it.
+
+## NUMBERS, AGES & DURATIONS LEDGER (check every stated figure against this)
+
+Keep these consistent across chapters — the exact trap the author flagged (e.g. Penworth
+"longer than I can recall" vs "thirty years"). If a chapter states a number, it must agree here;
+if it needs a new one, add it here.
+
+- **Emlyn's age at arrival:** past forty (40s); looks markedly younger (talent slows aging).
+- **Emlyn's widowhood:** Arielle died ~**3 years** before arrival; the death-notice letter came
+  "three weeks late." "A bad few years" (prologue) = these ~3 years.
+- **Penworth ↔ Emlyn:** ~**a decade** (Penworth took over "something over a decade" ago).
+  Penworth is **~Emlyn's own age**. Do NOT reintroduce "thirty years [with Emlyn]" or "old."
+- **Story present:** Year 1, **third week of spring**; Ch 1–2 span ~a day and a half (arrival
+  evening → next day's night).
+- **Cael:** elderly, ~mid-60s (a grandfather; "private treaty with his knees"). Internal
+  timeline (coheres — keep it): his father's failed shelter was "forty years back **and
+  further**" (Cael a boy, ~9) → ~50–55 yrs ago; his grandmother died ~**40 years** ago ("forty
+  years in the churchyard") and **left him the hill**, which he has "kept forty years" since
+  (he was ~24 then). Daughter Mira (~mid-30s) → grandson Soren (9).
+  ⚠️ **Novel canon:** Cael **inherited** the hill from his grandmother (she owned it; his father
+  failed to build on it; she left it to Cael, not the father). This overrides the campaign's
+  "Cael bought it himself." He now sells it to Emlyn.
+- **Soren:** ~**9** at arrival (turns 10 in autumn, per canon).
+- **Ren:** ~**16**.
+- **The narrator "now":** ancient — "longer than most kingdoms manage to stand"; deliberately no
+  number (prologue).
 
 ---
 
@@ -108,8 +150,9 @@
   with a head-tip. Narrator foreshadows both (Jorin will raise every wall; Ren's is "the
   greatest gift"; the boy "feels the make of things through his hands").
 - **The walk of the bounds with Cael (+ Soren trailing):** Penworth bought MORE than the hill
-  — the hill, the woodland strip (oak/ash/larch along the low road), the meadow off the NE
-  shoulder, and a mill-pond water stake. Features: a cold, clear spring on the hill's SOUTH
+  — the hill (no agricultural worth), the woodland strip (oak/ash/larch along the low road),
+  the meadow off the NE shoulder, the **leasable plough-land in the bottoms** (to bring rents
+  once the right tenant families are found), and a mill-pond water stake. Features: a cold, clear spring on the hill's SOUTH
   face, never dry in living/grandmother's memory (Emlyn will build around it); a shelf of
   deeper, greener grass along the EASTERN slope where Emlyn feels something unnamed and says
   nothing (Cael watches him not-mention it — do NOT preempt Brenna's later "that's where she'd
@@ -202,8 +245,10 @@ letters only — engaged to trace the three.
 - **Lira** — tavern keeper; neutral ledger-facts, warmth only through service (refilled jug,
   lamp in window); slowest thaw in the book; writes to a Conclave contact.
 - **Cael** — elder; oblique; sold Opus the hill his father failed on.
-- **Penworth** — man of affairs; dry, formal, 30 years' loyalty as impeccable logistics; letters
-  are miniature essays of understatement; daughter **Mira** seeded for Book Two.
+- **Penworth** — man of affairs; dry, formal, impeccable logistics; letters are miniature essays
+  of understatement; **~Emlyn's age**, has run Emlyn's affairs **~a decade** (NOT "old," NOT
+  "thirty years with him"); a minor magical talent / slightly long-lived (kept indirect);
+  daughter **Mira** seeded for Book Two.
 - **Edran** (quarry), **Maret** (mill), **Kellard** (supply yard), **Essa** (furniture).
 
 ---
