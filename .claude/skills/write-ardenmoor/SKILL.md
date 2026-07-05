@@ -130,6 +130,9 @@ Do these in order, every session, before drafting a word:
    the story bible hold.
 7. **Read the previous chapter's file** in `manuscript/` in full (for voice continuity, the
    last image, and the emotional temperature you're inheriting).
+8. **Check `feedback/` for any reader notes** (`feedback/*.md`, exported from `reader.html`).
+   Treat each as durable author feedback per the section below: apply it, record the resulting
+   convention, tell the author where it was filed, then it is done.
 
 Only then begin drafting.
 
