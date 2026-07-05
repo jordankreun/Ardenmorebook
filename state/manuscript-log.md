@@ -27,14 +27,16 @@ it was coming." NEW FACTS: first-person retrospective frame; longevity only impl
 punctuation house rule locked (no em dashes).
 
 [01] Ardenmoor — Emlyn arrives alone on Snow after a four-day ride to view the hill Penworth
-provisionally purchased (with surrounding land); passes Tomas and Brenna on the way in; lodges
-at Lira's inn (room pre-paid by Penworth's agent), where the boy Soren stables his mare and
-fetches Cael; Cael sets the terms — walk the hill in the morning, decide by noon; a wakeful
-night holding the unopened death-notice letter; a morning walk through the waking village;
-ends at the foot of the hill. CLOSING IMAGE: "Then I started up." NEW FACTS: see the story
-bible's "Established on the page" section — key ones: hum not yet experienced by Emlyn; only
-grief-object on stage is the carried letter; Lira promised a report on the hill's "hearing"
-(narrator says he kept it, much later); Cael's grandmother = the listener; Soren ~nine.
+provisionally purchased (with surrounding leasable farmland); passes an unnamed smith and a wary
+woman in an herbalist's doorway (names deferred, per the organic-introduction rule); lodges at
+Lira's inn (room pre-paid by Penworth's agent), where a quiet boy (named only as "young Soren"
+in Lira's line) stables his mare and fetches Cael; Cael sets the terms (walk the hill in the
+morning, decide by noon); a wakeful night holding the unopened death-notice letter; a morning
+walk back through the waking village; ends at the foot of the hill. CLOSING IMAGE: "Then I
+started up." NEW FACTS: characters now introduced ORGANICALLY (smith/herbalist/miller unnamed;
+Soren named via dialogue only; heavy foreshadow cut); hum not yet experienced by Emlyn; only
+grief-object on stage is the carried letter; Lira promised a report on the hill's "hearing";
+Cael's grandmother = the listener; Soren ~nine; Emlyn past forty, looks younger; no em dashes.
 
 [02] Walking the Bounds — Same day: Emlyn climbs the crown alone at dawn (no hum — only an
 unusual held silence he dismisses, and the alarming discovery that he does not want to leave),

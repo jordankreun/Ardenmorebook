@@ -22,6 +22,14 @@
   or chapter titles. They read as machine-generated. Use commas, periods (favor these), semicolons,
   colons, or parentheses instead, varied for natural flow; ellipsis (…) for a trailing/cut-off
   line of dialogue; colon in chapter titles. Full rule in the style guide.
+- **Organic character introductions (author preference):** do NOT line the cast up and name/tag
+  each with their future significance on first sight ("his name was X, and there was more to him
+  than…", "she would become one of the truest friends I ever made"). Let people be SEEN first and
+  named/known LATER, as real interaction earns it; a name may arrive through dialogue rather than
+  a narrator label. Use forward-looking "I would come to…" asides very sparingly. Ch 1 was revised
+  to this: the smith, the herbalist-woman, and the miller appear UNNAMED (names deferred); Soren's
+  name comes only from Lira's line; the heavy "the one I would not trade" foreshadow is cut.
+  ⚠️ Ch 2's Jorin/Ren introductions still carry heavier foreshadow tags; soften them if revisited.
 - **Chapter length:** ~3,500–5,000 words, ~3,500 a hard floor (no short chapters). Ch 1
   (~3,900) is the baseline. Supersedes the references' 2,000–3,200. Widen short drafts with
   lived scene; never close a chapter early. Chapter count / total length flex to suit.
@@ -106,21 +114,23 @@ if it needs a new one, add it here.
   bend by the old oak; hill marked as ordinary ("I had seen a thousand hills") — hum NOT yet
   experienced by Emlyn; entry through village; supper + lodging at the inn; morning walk
   through the waking village; chapter ends at the foot of the hill as he starts up.
-- **Cast on stage (Ch 1):** Tomas (nod, more question than greeting; hammer heard next
-  morning; narrator flags "more to him than a smith"); Brenna (cold stare from her doorway →
-  next morning thawed "from enemy to nuisance"; narrator foreshadows true friendship and her
-  later laughing confession that she disliked him on sight); the inn is **Lira's** (short but
-  friendly — few words, no wasted motion, warmth through service; room held and paid a
-  fortnight since by Penworth's agent; "You'll be the wizard, then" — his trade is
-  village-known, said like "the man about the drains"); **Soren** (~nine, dark-haired,
-  still/watchful, takes Snow in the inn-yard, "I can fetch him" — stables the mare, then runs
-  for Cael; sits near the fire during the meeting; level look at the door; narrator heavily
-  foreshadows: "the one I would not trade"); **Cael** (walking stick, "private treaty with
-  his knees"; grandmother loved the hill "past all sense," swore you could HEAR it, never
-  said what; "I'd not sell that particular hill to just any man"; wants it minded properly;
-  sets terms — walk it in the morning, decide by noon, then paperwork with Penworth's man);
-  **Maret** (miller: broad, floury, taciturn, ~four words, two-finger salute; narrator
-  foreshadows future trust); unnamed: goose woman, supper-calling mother, dog, rooster.
+- **Cast on stage (Ch 1) — introduced ORGANICALLY, not lined up.** UNNAMED on the page (names
+  deferred to a later, earned reveal): the **smith** (big man, forearms pale with old burns, a
+  nod "more question than greeting"; = Tomas in canon); the **herbalist-woman** (arms folded in
+  her doorway, a cold stare that follows him; next morning "revising her first opinion downward
+  from enemy to mere nuisance"; = Brenna); the **miller** (among his drying timber, a two-finger
+  salute; = Maret). NAMED (active characters he actually deals with): **Cael** (seller; walking
+  stick, "private treaty with his knees," sharp eyes; grandmother loved the hill "past all sense"
+  and swore you could HEAR it, never said what; "I'd not sell that particular hill to just any
+  man"; sets the terms: walk it in the morning, decide by noon, paperwork to Penworth's man);
+  **Lira** (innkeeper, short but friendly; room held/paid a fortnight since by Penworth's agent;
+  "You'll be the wizard, then," said like "the man about the drains"). **Soren** (~nine, Cael's
+  grandson): present and vivid (stables the mare, "I can fetch him," runs for Cael, sits by the
+  fire, a level look at the door), but named ONLY through Lira's line "young Soren", never a
+  narrator label; the heavy "the one I would not trade" foreshadow was CUT. Unnamed background:
+  goose woman, supper-calling mother, dog, rooster.
+  ⚠️ Future chapters must reveal the smith's / herbalist's / miller's names organically, by
+  Emlyn actually coming to know them.
 - **Grief objects on stage:** ONE letter only — the death-notice letter (came three weeks
   late, "told me a thing I had been too far from home to prevent"), carried folded in his
   coat, held at night but never reopened. Arielle unnamed on the page. The chest, the
