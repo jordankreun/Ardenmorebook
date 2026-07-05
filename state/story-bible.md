@@ -29,6 +29,13 @@
   a narrator label. Use forward-looking "I would come to…" asides very sparingly. Ch 1 was revised
   to this: the smith, the herbalist-woman, and the miller appear UNNAMED (names deferred); Soren's
   name comes only from Lira's line; the heavy "the one I would not trade" foreshadow is cut.
+- **Narratorial asides INTERRUPT FLOW — use them sparingly (author note):** sentences that step
+  out of the scene to wink at the reader ("I will not pretend I knew what I was looking at", "I did
+  not know then that…", "the trouble with knowing the ending", mid-sentence parentheticals that
+  editorialize) break the read. Keep them RARE and only when one clearly earns its place; default
+  to staying in the scene. Ch 1 was trimmed of several (the "I will not pretend I knew" line, the
+  "a village does not hand you its people all at once" reflection, and the parenthetical on the
+  hill at the close). Full rule now in the style guide too.
   ⚠️ Ch 2's Jorin/Ren introductions still carry heavier foreshadow tags; soften them if revisited.
 - **Chapter length:** ~3,500–5,000 words, ~3,500 a hard floor (no short chapters). Ch 1
   (~3,900) is the baseline. Supersedes the references' 2,000–3,200. Widen short drafts with
@@ -144,6 +151,21 @@ if it needs a new one, add it here.
   goose woman, supper-calling mother, dog, rooster.
   ⚠️ Future chapters must reveal the smith's / herbalist's / miller's names organically, by
   Emlyn actually coming to know them.
+- **Cael's condition of sale (Ch 1):** he has refused real money for the hill more than once — a
+  coast man wanted the north face opened for **slate**, another was sure there was **tin** under it
+  and meant to mine it; Cael "sent them both back down the road." His principle: "A hill is not a
+  purse you turn out and pocket. It is a thing a man stands on, and does something with, and answers
+  for." He sells to Emlyn because Emlyn means to MAKE something of it, not "carry it off in carts."
+  (Thematic: the hill is to be MINDED, not mined — reinforces the ask-the-ground thesis and the
+  father's-failed-shelter, and sets an expectation Emlyn will live on and build the hill.) Cael is
+  now "only just shy of old."
+- **Recluse / Penworth's letter timing (Ch 1, updated):** the letter reached Emlyn "at the turn of
+  the year"; he carried it a season, having "passed the whole of the winter shut up in my rooms in
+  Vethmark and scarcely marked it going by." Penworth (same city) used the hill to draw him out.
+  (The old "three weeks and many miles behind" is gone — Penworth is local.)
+- **Trimmed for flow (Ch 1):** the "I will not pretend I knew what I was looking at" aside, the "a
+  village does not hand you its people all at once" reflection, and the closing parenthetical on the
+  hill were cut or smoothed, per the narratorial-aside rule.
 - **Grief objects on stage:** ONE letter only — the death-notice letter (came three weeks
   late, "told me a thing I had been too far from home to prevent"), carried folded in his
   coat, held at night but never reopened. Arielle unnamed on the page. The chest, the
