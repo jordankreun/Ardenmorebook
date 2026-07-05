@@ -1,12 +1,8 @@
 # Reader notes: The Tower of Ardenmoor
 
-14 notes. Synced from the reader.
+13 notes. Synced from the reader.
 
 ## Chapter One: Ardenmoor
-
-> good horse
-
-Better introduce horse
 
 > low
 
