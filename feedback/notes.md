@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-14 notes. Synced from the reader.
+15 notes. Synced from the reader.
 
 ## Prologue
 
@@ -65,3 +65,7 @@ Make it less tied into the hearing anything. Make it more about how I didn’t h
 > cold
 
 Spring not cold, or is it cold cause it’s night. If so make it clear in earlier passage
+
+> I said that I had heard as much, which was not quite true (I had heard the grandmother's hearing of it, not this), and that I would take it under advisement, which was true, and the moment passed, and the room let it pass, and went back with relief to the horse and the weather.
+
+Have it heard as more of a challenge. Something not taken too seriously as more than just village superstition and bad architecture or building
