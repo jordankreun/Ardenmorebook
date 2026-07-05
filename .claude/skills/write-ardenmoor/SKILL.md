@@ -63,6 +63,13 @@ predate some of them; where a reference says otherwise, THIS list wins.
    foot of the hill with the hum entirely unmet by Emlyn; it exists only secondhand
    (Cael's grandmother's "hearing," passed on as fond family foolishness).
 6. **Soren's age at arrival:** about nine — his tenth birthday lands in autumn, per canon.
+7. **Chapter length:** target **~3,500–5,000 words**, with **~3,500 as a hard floor** — the
+   author does not want short chapters. This supersedes the "2,000–3,200" figure in the
+   references and the continuity checklist. Ch 1 (~3,900) is the intended baseline, not the
+   ceiling; let a fuller chapter run to 5,000. Do not pad, but do not close a chapter early:
+   if a draft is coming in under ~3,500, widen it with lived scene (more of the day, another
+   encounter, deeper attention) rather than compressing. Chapter count and total wordcount
+   flex to accommodate this — fewer/longer chapters and/or a longer book are both fine.
 
 ## THE ONE RULE ABOVE ALL
 
@@ -119,9 +126,10 @@ When asked to write chapter N:
 - Any NPC voices in play, with their one-line rule recalled from the style guide.
 - The last image of the previous chapter, so you open in continuity with it.
 
-**Then draft the prose.** Usually 2,000–3,200 words, but let the material set the length — a
-quiet single-scene chapter can run short, a fuller day can run long. Don't pad to a number or
-cut a living scene to hit one. The common shape (anchor → encounter or work → turn → settle) is
+**Then draft the prose.** Target **~3,500–5,000 words** (session-locked decision #7; ~3,500 is
+a hard floor — the author does not want short chapters). Let the material set the length within
+that band; a fuller day can run to 5,000. Don't pad to a number, but if a chapter is coming in
+short, widen it with lived scene rather than closing early or cutting a living beat. The common shape (anchor → encounter or work → turn → settle) is
 a tendency, not a mold; a chapter may be a walk, a conversation, or a long noticing, and the
 narrator's attention can override the shape when it has reason to. End on an image or a single
 line of dialogue — never a question to the reader, never a cliffhanger (except Ch 28, which ends

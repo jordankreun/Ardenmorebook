@@ -16,6 +16,9 @@
 - **Natural interaction over outline (standing rule):** always prioritize the living
   back-and-forth of a scene over hitting an outline beat. The outline is a pantry, not a
   schedule; follow the scene, keep only canon and continuity as fences.
+- **Chapter length:** ~3,500–5,000 words, ~3,500 a hard floor (no short chapters). Ch 1
+  (~3,900) is the baseline. Supersedes the references' 2,000–3,200. Widen short drafts with
+  lived scene; never close a chapter early. Chapter count / total length flex to suit.
 - **Lira — RESOLVED (drift flag #1):** she is **short but friendly** — few words, no wasted
   motion, warmth carried by service and by the plainness of the words when they come. NOT
   the reference arc's coldest-holdout. Her Conclave-informant thread still stands and reads
