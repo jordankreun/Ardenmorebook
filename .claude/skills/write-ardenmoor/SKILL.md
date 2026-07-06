@@ -26,6 +26,7 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 - `.claude/skills/write-ardenmoor/references/style-guide.md` — prose mechanics, voice, motif system, lexicon
 - `.claude/skills/write-ardenmoor/references/voice-rothfuss-mancour.md` — the specific author-voice fusion for THIS book
 - `.claude/skills/write-ardenmoor/references/continuity-checklist.md` — the pre-flight and post-flight checks per chapter
+- `.claude/skills/write-ardenmoor/references/feedback-engine.md` — the pre-delivery revision pass; the distilled, living rubric of every author preference, run on each draft before the author sees it
 - `state/story-bible.md` — the LIVING continuity record; you read and update it every chapter
 - `state/geography.md` — the LIVING map & gazetteer (valley, hill, village, roads, water);
   read before drafting, update after any chapter that places, names, or moves geography
@@ -90,6 +91,10 @@ the author gives feedback, a preference, or a correction:
 3. If a new preference conflicts with an older recorded one, **the newer wins**: update the old
    entry in place (don't leave both), and note that it supersedes the earlier one.
 4. When you apply a note, say briefly (in chat) where you recorded it, so the author knows it will stick.
+5. **Feed the feedback engine.** Distill the note to its *general rule* (the class of problem, not
+   the one line) and add or merge it into `references/feedback-engine.md` so future drafts self-catch
+   it. If the author had to give the same *kind* of note twice, the engine missed a rule — fix that
+   by adding the rule, not just the line. This is what makes the pre-delivery pass keep improving.
 
 The SESSION-LOCKED DECISIONS list, the style guide, the continuity checklist, and the story bible
 together ARE the accumulated record of the author's feedback, and they are read at startup every
@@ -120,6 +125,9 @@ Do these in order, every session, before drafting a word:
 
 1. **Read `references/style-guide.md`** in full. Internalize the register.
 2. **Read `references/voice-rothfuss-mancour.md`** in full. This is the specific voice.
+2b. **Read `references/feedback-engine.md`** in full. This is the distilled rubric of every
+   preference the author has expressed; write *toward* it from the first line, then run it as a
+   pass before delivery.
 3. **Read `state/story-bible.md`** in full. This is what is currently TRUE in the book.
 4. **Read `state/geography.md`** in full. Any place, direction, distance, or landmark you use
    must agree with it; anything marked [OPEN] is yours to invent (then log it).
@@ -199,6 +207,16 @@ touched. Do NOT put the title as an in-prose heading inside the scene.
 **Run the post-flight check** from `references/continuity-checklist.md` before declaring the
 chapter done. If any check fails, fix the prose, not the checklist.
 
+**Run the FEEDBACK ENGINE pass (mandatory, and the last thing before delivery).** Open
+`references/feedback-engine.md` and run its rubric over the finished chapter, cold, as if you were
+the author holding their own accumulated preferences. This is the "additional pass before I see a
+draft" the author asked for: it catches the recurring *classes* of note (em dashes, unearned
+transitions, forced epiphany, roll-call introductions, half-formed asides, inflated scale,
+incoherent world logic, repeated sensory details, vague referents) and fixes them in the prose
+before the draft reaches the author. Then give the author a short (2–4 line) **engine report**:
+what the pass flagged, what it changed, and anything you deliberately kept and why. Do not present
+a chapter as ready until this pass has run.
+
 ---
 
 ## VOICE IN ONE BREATH
@@ -270,6 +288,9 @@ The user will ask for these in ordinary language; treat them as requests, not co
 - **Show the story so far** — show the current story-bible state.
 - **Voice check chapter N** — read the chapter against the voice note; flag any line that drifts
   modern, over-explains, admires itself, or breaks a character's speech rule.
+- **Run the feedback engine on chapter N** — run `references/feedback-engine.md` over an existing
+  chapter as a standalone pass; report what it flags and apply the fixes. (This same pass runs
+  automatically on every fresh draft before delivery.)
 
 ## FAILURE MODES TO AVOID
 
@@ -288,3 +309,6 @@ The user will ask for these in ordinary language; treat them as requests, not co
 - Writing an Arielle flashback (she exists in objects only).
 - Ending a chapter on a question or cliffhanger (except Ch 28).
 - Revealing the twist's mechanism early — the compass points down only in Ch 28.
+- Presenting a draft as ready without running the FEEDBACK ENGINE pass
+  (`references/feedback-engine.md`) — the pre-delivery self-review that catches the recurring
+  classes of author note before the author has to.

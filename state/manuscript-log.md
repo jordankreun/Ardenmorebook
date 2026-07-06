@@ -90,6 +90,11 @@ is resolved; the HUM has surfaced first-hand (dusk + predawn pulses, below sound
 his trade are on the hill; Emlyn's craft = "feel for what is already in a place before you ask it
 for anything" (thesis groundwork); he means to raise the Study before autumn and has Jorin in
 mind. Twist NOT revealed (the directed-greeting reading is only a dismissed half-thought).
+(Feedback-engine pass 2026-07-06: "the woodland strip" → "the edge of the woodland" [matches the
+Ch2 rename]; the closing image was in third person via "the younger and more foolish version of
+myself" [the exact framing the author cut from the prologue] and is now first person with that
+phrase gone. The hum's "I did not hear anything" opener was reviewed and KEPT: here it does
+necessary work distinguishing felt-through-bone from heard, unlike the Ch2 crown anticlimax.)
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
