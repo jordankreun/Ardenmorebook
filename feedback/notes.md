@@ -1,12 +1,8 @@
 # Reader notes: The Tower of Ardenmoor
 
-9 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
+8 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Chapter One: Ardenmoor
-
-> small room under the eaves with a bed and a stool and a window, and wished me a good night with the flat, practiced ease of a woman who had wished ten thousand of them, and left me to find the stairs on my own
-
-Make her nicer room
 
 > who I do not believe slept at all,
 
