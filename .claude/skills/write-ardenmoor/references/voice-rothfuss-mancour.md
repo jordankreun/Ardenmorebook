@@ -36,8 +36,21 @@ voice like this:
   is now the exception, not the reflex.
 
 Net effect: **Le Guin floor + Mancour teller, with Rothfuss as an occasional grace note.** If a
-sentence sounds like it is admiring its own beauty, it is now wrong; plain it down and let the
-practical, wry intelligence be the pleasure.
+sentence is admiring its own beauty for its own sake, plain it down and let the practical, wry
+intelligence be the pleasure.
+
+**CALIBRATION REFERENCE (this is the exact target — "split the difference," not flattened).** The
+re-voiced **Chapters 1–3 (2026-07-06)** are the reference for how far to lean. Match their balance:
+- Everyday narration, description, and reflection are **plain, wry, and concrete.** Incidental
+  ornament is trimmed (e.g. "a sky the pale scrubbed blue of something just laundered" → "a pale,
+  scrubbed-blue sky"; "grief wearing another coat" → "grief, come at me from a new direction";
+  "reasons that belong further on in this account than here" → "reasons I will come to").
+- **Earned lyricism survives, and is not to be stripped.** At a genuine threshold or grief, the
+  prose may still lengthen and sing. The **Chapter 3 hum scene is the model**: keep that register
+  where the moment earns it. Dry wit that is already plain (a rooster "with strong feelings and no
+  sense of pitch"; being "outlived by your own tools") also stays.
+- The dial is roughly **two-thirds Mancour-plain, one-third reserved for earned lyric moments** —
+  do not measure it, feel it against those three chapters. Neither ornate throughout nor flat.
 
 ---
 

@@ -137,11 +137,15 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   implied, never stated. No modern idiom, no techspeak, no fake-archaic incantation. *Source: "very
   kingkiller"; the voice note.*
 - **[CRAFT] Register leans MANCOUR, not Rothfuss-lyric (2026-07-06 re-weight).** The teller is wry,
-  plainspoken, competent-professional, direct, glad of the practical craft and commerce. Rothfuss
-  lyricism is a *spare grace note* now: a sentence that opens into music should happen rarely, at a
-  real threshold or grief, not once or twice a chapter. Flag and plain down ornate similes, precious
-  metaphors, and any sentence that admires its own beauty; let dry wit and concrete competence carry
-  it. *Source: "shift the voice more towards Terry Mancour"; session-lock #8.*
+  plainspoken, competent-professional, direct, glad of the practical craft and commerce. Everyday
+  narration/description/reflection is plain and concrete; **lyricism is reserved for earned
+  thresholds** (a real grief or wonder). Flag and plain down incidental ornate similes and precious
+  metaphors ("a sky the pale scrubbed blue of something just laundered" → "a pale, scrubbed-blue
+  sky") and any sentence admiring its own beauty for its own sake, but **do NOT strip the earned
+  lyric moments** (the Ch3 hum scene is the model of what stays). Calibrate against the re-voiced
+  Chapters 1–3: roughly two-thirds Mancour-plain, one-third earned lyric. *Source: "shift the voice
+  more towards Terry Mancour" + "split the difference and make the skill match the result";
+  session-lock #8.*
 - **[CRAFT] Emotional registers are precise, not generic.** Characters are their exact temperature:
   Lira measured and reserved, giving nothing unpaid-for — not warm, not frosty. Never name an
   emotion the reader can infer from behavior; never explain a silence. *Source: "make Lira less

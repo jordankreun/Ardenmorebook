@@ -77,12 +77,15 @@ predate some of them; where a reference says otherwise, THIS list wins.
    flex to accommodate this — fewer/longer chapters and/or a longer book are both fine.
 8. **Voice re-weighted toward Terry Mancour (2026-07-06):** the teller's register now leans
    **Mancour** — wry, plainspoken, competent-professional, direct, glad of the practical craft and
-   commerce — with **Rothfuss lyricism demoted to a spare grace note** (a sentence that opens into
-   music happens rarely, at a real threshold or grief, not once or twice a chapter). The Le Guin
-   restraint floor is unchanged. See the **VOICE RE-WEIGHT** block at the top of
-   `references/voice-rothfuss-mancour.md`, which supersedes that document's original Rothfuss-forward
-   balance, and the re-weighted register paragraph in `references/style-guide.md`. When a sentence
-   admires its own beauty, plain it down.
+   commerce — for everyday narration, description, and reflection, with **Rothfuss lyricism reserved
+   for earned thresholds** (a real grief or moment of wonder), not the house style. The Le Guin
+   restraint floor is unchanged. This is a **"split the difference" setting, not a flattening**: the
+   **re-voiced Chapters 1–3 are the calibration reference**, and the **Ch3 hum scene is the model**
+   for where lyricism still lives. Roughly two-thirds Mancour-plain, one-third reserved for earned
+   lyric moments; feel it against those chapters rather than measuring it. See the **VOICE RE-WEIGHT**
+   and **CALIBRATION REFERENCE** blocks at the top of `references/voice-rothfuss-mancour.md` (they
+   supersede that document's original Rothfuss-forward balance) and the register paragraph in
+   `references/style-guide.md`. When a sentence admires its own beauty for its own sake, plain it down.
 9. **Sentence-length / run-on discipline (2026-07-06):** the wry-plain register runs on shorter,
    cleaner sentences. Do NOT chain four or five independent clauses with "and, and, and"; break
    them. No comma splices. A deliberate long cumulative sentence is allowed occasionally, for

@@ -119,6 +119,19 @@ discipline), voice-rothfuss-mancour.md (VOICE RE-WEIGHT block), style-guide.md (
 "Run-ons" rule), feedback-engine.md (run-on rule + Mancour-register check), and the skill
 description. Counts after: Ch1 3995, Ch2 4282, Ch3 3550 (all above floor); no em dashes.
 
+MANCOUR RE-VOICE — "SPLIT THE DIFFERENCE" (2026-07-06): a moderate re-voicing pass (between the
+prior light nudge and a full flatten). Plained the incidental ornament, concentrated in Ch1 (most
+lyric) and Ch2, while KEEPING the earned lyric moments (the Ch3 hum scene, key thresholds). Sample
+swaps: "a sky the pale scrubbed blue of something just laundered" → "a pale, scrubbed-blue sky";
+"grief wearing another coat" → "grief, come at me from a new direction"; "She kept her regard the
+way she kept her good glasses" → "She was sparing with her regard"; "reasons that belong further
+on in this account than here" → "reasons I will come to"; dropped "like ribbons on a tree" and
+"like a thing only lately made and not yet finished". Ch3 kept lighter (already the most
+practical/Mancour chapter; its hum lyricism is earned). Counts after: Ch1 3975, Ch2 4272, Ch3
+3550. The SKILL was then CALIBRATED TO MATCH this result: a CALIBRATION REFERENCE block naming
+the re-voiced Ch1–3 and the hum scene as the model (~two-thirds Mancour-plain, one-third earned
+lyric) added to voice-rothfuss-mancour.md, SESSION-LOCKED #8, and the feedback-engine Mancour rule.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
