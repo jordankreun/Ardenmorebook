@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-13 notes. Synced from the reader.
+13 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Chapter One: Ardenmoor
 
