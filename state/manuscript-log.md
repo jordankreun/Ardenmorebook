@@ -7,12 +7,13 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–3.
-- Word count so far: ~11,700 / ~70,000 target.
-- Next to write: **Chapter 4** — the first working: he begins to "listen to the hill in earnest"
-  (Deep Grammar / feeling the ground), and/or the first reshaping ward to ready the crown, where
-  the surveyor's "ask for passage" note is found and Jorin is hired to raise the Study. Exact
-  shape open.
+- Drafted: Prologue + Chapters 1–5.
+- Word count so far: ~19,300 / ~70,000 target.
+- Next to write: **Chapter 6** — the Study is finished (done in Ch5); the outline's "First Light"
+  beat: bind the LUMEN (the lamp that drinks the hill's song and gives amber light), and Brenna
+  arrives uninvited with cuttings and the question she has carried for years (her grandmother's
+  forty years of listening; the notebooks). Introduce Brenna organically; keep the keeper-plant
+  detail for her notebooks chapter. Exact shape open.
 
 ---
 
@@ -151,6 +152,51 @@ will come to"; hum specifics [below sound, through the bone, its own two hours];
 timeline; multi-owner land [Harrow, Tolls]; chest; "the edge of the woodland"). No em dashes.
 Counts: Prologue 459, Ch1 3941, Ch2 4258, Ch3 3550 (all above floor). The rewrite consolidated the
 several prior re-voicing passes into one consistent draft rather than transforming the content.
+
+[04] Ask for Passage — Weeks into that first summer, Emlyn learns the hill by listening (he maps
+its two pulses and finds the dusk pulse comes stronger and sooner before weather, so the village
+decides "the wizard can smell rain three fields off"; he also learns the hill goes ABSENT when he
+comes up wanting to take rather than attend). Needing to build, he drafts the ordinary working, a
+REShaping ward to force the deep layer to hold, then balks: it would work for a year or five and
+then the hill would shrug it off like every wall in two lifetimes. Searching his books, in the
+margin of a dead surveyor's compendium he finds, in a faded third hand, the thesis line (CANON,
+exact): *"Do not ask for level. Ask for passage. The ground knows the difference."* He rebuilds
+the working as almost entirely question: four anchors laid on (not driven in), a shape offered not
+forced, at the compass points with the last at the NORTHEAST. He casts it at the dusk hour ("manners
+to knock when someone is home"), asks with palms flat on the ground, and the hill ANSWERS, settling
+the deep grain into a true load-bearing footing offset toward the NE (it "knew where it wanted to
+carry a weight"). Cost paid (wrung out); grief-crack opens. Soren appears, lays his hand flat,
+says "It said yes." CLOSING IMAGE: the readied ground; next morning he walks down to hire the one
+builder who might believe him. NEW FACTS: THESIS discovered & earned (ask, don't command); the
+first working SUCCEEDS by asking; crown now readied/sound; NE-corner motif seeded (anchor + footing
+offset NE); storm-sensitivity of the pulse established (canon groundwork); "attention vs appetite"
+lesson; Soren hears the working ("It said yes"). No LUMEN/Brenna yet.
+
+[05] Good — Emlyn hires Jorin (against village advice) at his tidy yard; Jorin will build on no
+man's word and comes up to TEST the ground himself (drives a bar, digs a shoulder-deep hole, smells
+the soil, levels the footing true, presses his palm to the base). He asks "Whose corner's that" of
+the NE offset; told "the hill's," he says "Build there, then" (as near belief as he comes). Stone
+comes from Edran's quarry up the low road and by hand up the last track (Emlyn labors on it, "the
+nearest thing to prayer a man can do with his body and no words"); timber from Maret's mill (Emlyn
+WARDS the framing timber against rot for money, the first of his trade the village sees him sell,
+and Maret drops his price); ironwork from Tomas at the smithy — and when Emlyn says it is for the
+hill, TOMAS'S HAMMER PAUSES half a beat (SEED; Emlyn files it, "has the key now, did not then").
+Cael comes up mid-build, looks at the stone rising on his grandmother's hill, says only "Well" (40
+years in one word), goes down. **Ren MET & NAMED organically (~17, Jorin's son, built long):** on
+the NE corner he sets a corner stone TRUE without measuring (feels the faces the way Jorin smells
+soil); Jorin sees it, both say nothing (⚠️ this is the uncanny-stone beat the outline had at the
+stable/Ch11; escalate there, don't repeat). The tall north wall is left UNPROPPED overnight in the
+rain, the test that killed Cael's father; it stands. Jorin comes up at dawn, palms the stone,
+finds no tremor, says "Good." Study roofed (Maret oak, Edran slate, Tomas's silent hinges) and
+finished at summer's end; Emlyn moves out of the tent into "the first true room of my life's second
+half," sets the CHEST against the NORTHEAST corner (soundest wall; "did not think more of the
+choosing than that"), hand flat on it a moment, does not open it. Soren: "The hill likes the room,"
+glancing once at the chest's corner. CLOSING IMAGE: Emlyn in the door of his first room, glad to be
+alive, wanting to see what the morning brings. NEW FACTS: **Ren named & his true-stone gift shown
+(Ch5, moved earlier than outline)**; **Study RAISED** (first room of the tower, on the crown, NE
+footing); Tomas met + hammer-pause seed; Maret warded-timber commerce (trade alive early); Jorin's
+"Good"; the CHEST now sits in the Study's NE corner (moved from the tent; still unopened; NE motif
+deepened as twist groundwork — do NOT explain); Cael's "Well".
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):

@@ -64,11 +64,18 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
 
 ## THE HILL (Emlyn's, as of ch2 — bought on a handshake, Penworth finalizing)
 
-- **The crown** — broad, flat-topped, "wide as a market square," bare, grassed, crowned "with
-  nothing but weather." The future tower site. [PAGE ch1–2]
+- **The crown** — broad, flat-topped, "wide as a market square," bare, grassed. The tower site.
+  **The STUDY is now built on it** (Ch 5): the tower's first true room, stone, on the hill-given
+  footing, its footing set a little wide to the **NORTHEAST** (the hill offset it when it answered
+  the first working). Hearth; a south window for the light; a board floor; a door on Tomas's silent
+  hinges. [PAGE ch1–2 crown; PAGE ch4–5 Study]
+- **The reshaped footing** — before building, Emlyn cast the first working and the hill settled the
+  deep grain into a true load-bearing footing under the crown, offset toward the **NE** (Ch4). This
+  is why the ground "nothing stands on" now holds. [PAGE ch4]
 - **The reputation** — the ground "nothing stands on": it threw off Cael's father's stone
   bothy ~40 yrs ago (wall fell with no wind; true timbers went in crooked; mortar stayed wet a
-  month). Village lore ever since. [PAGE ch2] [CANON: defeated every prior build attempt]
+  month). Village lore ever since. **Broken in Ch5**: the Study's north wall stood the night test
+  in the rain; Jorin said "Good." [PAGE ch2 lore; PAGE ch5 broken] [CANON: had defeated every prior attempt]
 - **The path up** — a faint foot-worn track from the village's hill-ward edge; not steep, long.
   [PAGE ch1–2]
 - **Slopes:**
@@ -77,10 +84,14 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
     planned here (larch-rail fence). [CANON — not yet built/placed on page]
   - *Southeast slope* — future greenhouse (enchanted steel + glass). [CANON — not yet built]
   - *Northeast shoulder* — gives onto the NE meadow. [PAGE ch2]
+- **The chest** — as of Ch5 sits in the **Study's NORTHEAST corner** (moved from the tent when
+  Emlyn moved in; soundest wall; still unopened). This is its INTERIM home; canon puts its final
+  resting place in the **cellar's NE corner** once the cellar is cut (below). The NE placement is
+  consistent across both (twist groundwork — do not explain). [PAGE ch5 Study-NE; CANON cellar-NE]
 - **Below ground (all [CANON], none built yet):** cellar beneath the crown (recording blank set
   in the floor; chest in NE corner); storehouse cut into the east shelf, rear wall on bearing.
-- **To be built (the building arc):** Study → living quarters → stable → greenhouse → storehouse
-  → the road (+ village branch) → the enchantment lab. [CANON sequence; order/timing OPEN]
+- **To be built (the building arc):** ~~Study~~ (DONE, Ch5) → living quarters → stable → greenhouse
+  → storehouse → the road (+ village branch) → the enchantment lab. [CANON sequence; order/timing OPEN]
 
 ---
 

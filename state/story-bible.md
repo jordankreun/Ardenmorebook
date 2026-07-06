@@ -90,8 +90,11 @@ if it needs a new one, add it here.
   "three weeks late." "A bad few years" (prologue) = these ~3 years.
 - **Penworth ↔ Emlyn:** ~**a decade** (Penworth took over "something over a decade" ago).
   Penworth is **~Emlyn's own age**. Do NOT reintroduce "thirty years [with Emlyn]" or "old."
-- **Story present:** Year 1, **third week of spring**; Ch 1–2 span ~a day and a half (arrival
-  evening → next day's night).
+- **Story present:** Year 1, **third week of spring** at arrival; Ch 1–2 span ~a day and a half
+  (arrival evening → next day's night); Ch 3 = ~a fortnight (purchase completes) + the move onto
+  the crown; **Ch 4 = weeks into summer** (the first working); **Ch 5 = the back half of summer**,
+  the Study raised and finished at **summer's end** of Year 1.
+- **Ren:** ~**16** (confirmed on the page, Ch 5: "perhaps sixteen that summer").
 - **Cael:** elderly, ~mid-60s (a grandfather; "private treaty with his knees"). Internal
   timeline (coheres — keep it): his father's failed shelter was "forty years back **and
   further**" (Cael a boy, ~9) → ~50–55 yrs ago; his grandmother died ~**40 years** ago ("forty
@@ -101,7 +104,6 @@ if it needs a new one, add it here.
   failed to build on it; she left it to Cael, not the father). This overrides the campaign's
   "Cael bought it himself." He now sells it to Emlyn.
 - **Soren:** ~**9** at arrival (turns 10 in autumn, per canon).
-- **Ren:** ~**16**.
 - **The narrator "now":** ancient — "longer than most kingdoms manage to stand"; deliberately no
   number (prologue).
 - **Emlyn's home before Ardenmoor:** **Vethmark** — a large but mostly-empty townhouse (many
@@ -291,6 +293,62 @@ if it needs a new one, add it here.
   - **Tracked changes applied:** Emlyn's line is now "It is a perfectly fine hill... I would build
     on it" (was "I made it a fine hill... I mean to build on it"); "the woodland strip" → "the
     woodland" in the walk description.
+
+## ESTABLISHED ON THE PAGE (Ch 4 — "Ask for Passage")
+
+- **The thesis is discovered and earned early** (per outline design). Emlyn, needing a sound
+  footing to build on, first drafts the ordinary **reshaping ward** (drive anchors into the deep
+  layer and FORCE it to hold), then balks, knowing it would fail as every wall has (the hill is
+  "awake ground," throws off what is forced). In the margin of a dead surveyor's compendium he
+  finds, in a faded third hand, the CANON line **exactly**: *"Do not ask for level. Ask for
+  passage. The ground knows the difference."* He rebuilds the working as almost pure question
+  (anchors laid ON not driven IN; a shape offered, room for the ground to answer) and casts it at
+  the dusk pulse-hour. **The hill answers**: settles the deep grain into a true load-bearing
+  footing, **offset toward the NORTHEAST** ("it knew where it wanted to carry a weight"). Cost is
+  real and paid (wrung out); a grief-release comes with it. **Magic rendered through use, no
+  system lecture** (anchors, deep layer/grain, asking, cost, the ground's response = wonder).
+- **The hill's storm-sensitivity is established (canon groundwork for the Deep Grammar reading):**
+  the dusk pulse comes **stronger and sooner before weather**; the village jokes the wizard "can
+  smell rain three fields off."
+- **"Attention vs appetite":** if Emlyn comes up wanting to TAKE, the hill goes ABSENT (the flat
+  nothing of a just-left room); it answers only patience/asking. Reinforces the thesis.
+- **Soren hears the working:** appears at the crown's edge after, lays his hand flat, says **"It
+  said yes."** (Not a question. His talent, unnamed.)
+- ⚠️ Do NOT re-explain the thesis at the climax as a discovery; it is discovered here. The climax
+  REPEATS it.
+
+## ESTABLISHED ON THE PAGE (Ch 5 — "Good")
+
+- **Jorin hired** (against village advice). He builds on no man's word: comes up and **tests the
+  ground himself** (bar, shoulder-deep test hole, smells the soil, levels the footing true, palms
+  the base). Notes the NE-offset footing ("Whose corner's that"); told "the hill's," says **"Build
+  there, then."** Speaks in few freighted words throughout.
+- **The Study is RAISED** — the tower's first true room, stone, on the crown, on the hill-given
+  footing. Materials/commerce (trade alive early): **stone from Edran's quarry** (low road + by
+  hand up the last track), **timber from Maret's mill** (Emlyn **wards the framing timber against
+  rot for money** — first paid trade the village sees; Maret drops his next price), **ironwork
+  (hinges/brackets/floor-cramps) from Tomas** the smith. Roofed with Maret oak + Edran slate +
+  Tomas's silent hinges; finished at summer's end. Emlyn labors on the build himself.
+- **TOMAS SEED:** told the ironwork is for the hill, **Tomas's hammer pauses half a beat**, then
+  resumes; Emlyn files it ("I have the key now. I did not then"). → his confession arc (he has
+  heard the hum alone; outline Ch10).
+- **Cael beat:** comes up mid-build, looks at stone rising on his grandmother's hill, says only
+  **"Well"** (forty years in one word), goes down.
+- **REN MET & NAMED organically** (Emlyn first uses his name here). ~16, Jorin's son, built long.
+  On the NE corner he sets a corner stone **TRUE without measuring** (feels the faces the way
+  Jorin smells soil); Jorin sees it, both say nothing; Emlyn marks it, does not yet name the gift.
+  ⚠️ This is the uncanny-true-stone beat the outline placed at the STABLE build (Ch 11) — it is now
+  used HERE (Ch 5). The later stable chapter must **escalate/deepen** Ren's gift, not repeat this.
+- **The night test:** the tall north wall is left **unpropped overnight in the rain** (the test
+  that felled Cael's father — walls came down in the night). **It stands.** Jorin returns at dawn,
+  palms the stone, finds no tremor, says his one word: **"Good."**
+- **The CHEST is now in the Study's NORTHEAST corner** (moved from the tent when he moves in;
+  soundest wall; "did not think more of the choosing than that"). Still **unopened**; hand laid
+  flat on it a moment. **NE-corner motif now triple-seeded** (working anchor + hill's footing
+  offset + chest placement) as **groundwork for the twist** (the hill's directional greeting toward
+  NE/the chest/HIM, outline Ch 20). DO NOT EXPLAIN. Soren, in the doorway, glances once at the
+  chest's corner and says **"The hill likes the room."**
+- Emlyn moves out of the tent into the Study — "the first true room of my life's second half."
 
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 
