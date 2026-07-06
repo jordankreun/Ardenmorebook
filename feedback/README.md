@@ -34,3 +34,18 @@ automatically via `api/sync.js`.
 
 Both kinds quote/carry the exact passage so they can be applied precisely. Nothing here is
 published to the public reader deploy (the `.vercelignore` and the Pages workflow both exclude it).
+
+## Resolving feedback (so it doesn't linger)
+
+Every note and tracked change has a **Resolve** action in the feedback panel, and each list has a
+collapsed **Resolved** section (with **Reopen**). Resolved items stay in `notes.json` /
+`revisions.json` as history but are **omitted from `notes.md` / `revisions.md`**, so the files
+Claude reads at session start only ever show *open* feedback. The toolbar badge counts open items
+only.
+
+**Tracked changes verify themselves.** Because the reader loads the manuscript live from GitHub,
+on every load it checks each open tracked change against the current text: if the change's
+original paragraph is no longer present (i.e. the edit was applied), the change is **auto-resolved**
+and tagged **✓ applied**. So once Claude pushes an edit to `main`, the next time the reader loads
+that change drops out of the open list on its own. Notes can't be auto-verified (they're freeform),
+so they use the manual **Resolve** button.

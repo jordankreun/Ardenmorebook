@@ -55,10 +55,12 @@ async function ghWriteFile(repo, branch, token, path, content, message) {
   return true;
 }
 
-function renderRevisionsMarkdown(revs) {
+function renderRevisionsMarkdown(allRevs) {
+  const revs = allRevs.filter((r) => !r.resolved);
   let out = "# Tracked changes: The Tower of Ardenmoor\n\n";
-  out += `${revs.length} tracked change${revs.length === 1 ? "" : "s"}. Synced from the reader.\n\n`;
-  out += `Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely.\n`;
+  out += `${revs.length} open tracked change${revs.length === 1 ? "" : "s"}. Synced from the reader.\n\n`;
+  out += `Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. `;
+  out += `(Resolved/applied changes are omitted here; full history is in revisions.json.)\n`;
   const byChap = {};
   const order = [];
   revs.forEach((r) => {
@@ -78,9 +80,11 @@ function renderRevisionsMarkdown(revs) {
   return out.trim() + "\n";
 }
 
-function renderNotesMarkdown(notes) {
+function renderNotesMarkdown(allNotes) {
+  const notes = allNotes.filter((n) => !n.resolved);
   let out = "# Reader notes: The Tower of Ardenmoor\n\n";
-  out += `${notes.length} note${notes.length === 1 ? "" : "s"}. Synced from the reader.\n`;
+  out += `${notes.length} open note${notes.length === 1 ? "" : "s"}. Synced from the reader. `;
+  out += `(Resolved notes are omitted here; full history is in notes.json.)\n`;
   const byChap = {};
   const order = [];
   notes.forEach((n) => {

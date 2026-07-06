@@ -94,6 +94,12 @@
   .revItem .acts{display:flex;gap:.9rem;margin-top:.45rem}
   .revItem .acts a{font-size:.78rem;color:var(--accent);cursor:pointer;text-decoration:none}
   .revItem .acts a.del{color:var(--danger)}
+  /* resolved feedback */
+  .resHead{margin:1.1rem 1.2rem .1rem;font-size:.64rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);border-top:1px solid var(--rule);padding-top:.85rem}
+  .noteItem.resolved,.revItem.resolved{opacity:.6}
+  .doneTag{display:inline-block;font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;color:var(--edit);border:1px solid var(--edit);border-radius:5px;padding:.02rem .32rem;vertical-align:.12em;margin-left:.3rem}
+  .noteItem .acts a.res,.revItem .acts a.res{color:var(--edit)}
+  .noteItem .acts a.reopen,.revItem .acts a.reopen{color:var(--muted)}
 
   #scrim{position:fixed;inset:0;background:rgba(0,0,0,.35);opacity:0;pointer-events:none;transition:opacity .2s;z-index:70}
   #scrim.open{opacity:1;pointer-events:auto}
@@ -202,27 +208,55 @@
   /* ---------- notes storage ---------- */
   function getNotes(){ try{ return JSON.parse(localStorage.getItem(KEY_NOTES))||[]; }catch(e){ return []; } }
   function setNotes(a){ try{ localStorage.setItem(KEY_NOTES, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushNotes) SYNC.pushNotes(); }
-  function findNote(chap,s){ var a=getNotes(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s) return a[i]; } return null; }
+  function findNote(chap,s){ var a=getNotes(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s&&!a[i].resolved) return a[i]; } return null; }
   function upsertNote(chap,s,quote,text){
     var a=getNotes(), found=false;
-    for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s){ a[i].text=text; a[i].quote=quote||a[i].quote; a[i].ts=Date.now(); found=true; break; } }
-    if(!found) a.push({chap:chap,snip:s,quote:quote||"",text:text,ts:Date.now()});
+    for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s){ a[i].text=text; a[i].quote=quote||a[i].quote; a[i].ts=Date.now(); a[i].resolved=false; a[i].resolvedTs=0; found=true; break; } }
+    if(!found) a.push({chap:chap,snip:s,quote:quote||"",text:text,ts:Date.now(),resolved:false});
     setNotes(a);
   }
   function deleteNote(chap,s){ setNotes(getNotes().filter(function(n){ return !(n.chap===chap&&n.snip===s); })); }
-  function updateCount(){ var n=getNotes().length+getRevs().length; noteCount.textContent=n; noteCount.classList.toggle("show", n>0); }
+  function setNoteResolved(chap,s,val){ var a=getNotes(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s){ a[i].resolved=!!val; a[i].resolvedTs=val?Date.now():0; a[i].ts=Date.now(); } } setNotes(a); }
+  function activeCount(arr){ var c=0; for(var i=0;i<arr.length;i++) if(!arr[i].resolved) c++; return c; }
+  function updateCount(){ var n=activeCount(getNotes())+activeCount(getRevs()); noteCount.textContent=n; noteCount.classList.toggle("show", n>0); }
 
   /* ---------- revisions (track changes) storage ---------- */
   function getRevs(){ try{ return JSON.parse(localStorage.getItem(KEY_REVS))||[]; }catch(e){ return []; } }
   function setRevs(a){ try{ localStorage.setItem(KEY_REVS, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushRevs) SYNC.pushRevs(); }
-  function findRev(chap,s){ var a=getRevs(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s) return a[i]; } return null; }
+  function findRev(chap,s){ var a=getRevs(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s&&!a[i].resolved) return a[i]; } return null; }
   function upsertRev(chap,s,orig,revised){
     var a=getRevs(), found=false;
-    for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s){ a[i].original=orig; a[i].revised=revised; a[i].ts=Date.now(); found=true; break; } }
-    if(!found) a.push({chap:chap,snip:s,original:orig,revised:revised,ts:Date.now()});
+    for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s){ a[i].original=orig; a[i].revised=revised; a[i].ts=Date.now(); a[i].resolved=false; a[i].resolvedTs=0; a[i].resolvedVia=""; found=true; break; } }
+    if(!found) a.push({chap:chap,snip:s,original:orig,revised:revised,ts:Date.now(),resolved:false});
     setRevs(a);
   }
   function deleteRev(chap,s){ setRevs(getRevs().filter(function(r){ return !(r.chap===chap&&r.snip===s); })); }
+  function setRevResolved(chap,s,val,via){ var a=getRevs(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s){ a[i].resolved=!!val; a[i].resolvedTs=val?Date.now():0; a[i].resolvedVia=val?(via||"manual"):""; a[i].ts=Date.now(); } } setRevs(a); }
+
+  /* ---------- verify tracked changes against the LIVE manuscript ---------- */
+  function normText(s){ return (s||"").replace(/\s+/g," ").trim(); }
+  function chapterLoaded(title){ for(var i=0;i<chapters.length;i++) if(chapters[i].title===title) return true; return false; }
+  function origStillPresent(chap,orig){
+    var target=normText(orig), ps=book.querySelectorAll("p[data-snip]");
+    for(var i=0;i<ps.length;i++){ if(ps[i].dataset.chap===chap && normText(ps[i].dataset.text)===target) return true; }
+    return false;
+  }
+  // A tracked change counts as APPLIED once its original paragraph no longer appears in the
+  // manuscript the reader just loaded from GitHub. Applied changes auto-resolve so they don't linger.
+  function autoVerifyRevs(){
+    if(!chapters.length) return false;
+    var a=getRevs(), changed=false;
+    for(var i=0;i<a.length;i++){
+      var r=a[i];
+      if(r.resolved) continue;
+      if(!chapterLoaded(r.chap)) continue;                 // can't verify a chapter we didn't load
+      if(!origStillPresent(r.chap, r.original)){            // original gone => the edit landed
+        r.resolved=true; r.resolvedTs=Date.now(); r.resolvedVia="applied"; r.ts=Date.now(); changed=true;
+      }
+    }
+    if(changed) setRevs(a);
+    return changed;
+  }
 
   /* ---------- word-level diff ---------- */
   function tok(s){ return s.replace(/\s+/g," ").trim().split(" ").filter(function(x){ return x!==""; }); }
@@ -294,6 +328,7 @@
           var rmap={};
           getRevs().concat(j.revisions||[]).forEach(function(r){ var k=(r.chap||"")+"|"+(r.snip||""); if(!rmap[k]||(r.ts||0)>(rmap[k].ts||0)) rmap[k]=r; });
           setRevs(Object.keys(rmap).map(function(k){ return rmap[k]; }));
+          autoVerifyRevs();
           decorate(); buildNotesList(); buildEditsList();
           if(j.bookmark) savePos(KEY_BOOKMARK, j.bookmark);
         }
@@ -335,6 +370,7 @@
       chapters.push({id:sec.id,title:title||("Part "+(i+1)),el:sec});
     }
     decorate(); buildToc(); updateCount();
+    if(autoVerifyRevs()) decorate();
   }
 
   /* ---------- decorate paragraphs: revision diff + note/edit markers ---------- */
@@ -445,7 +481,8 @@
     return items.slice().sort(function(a,b){ var d=(order[a.chap]==null?99:order[a.chap])-(order[b.chap]==null?99:order[b.chap]); return d!==0?d:(a.ts||0)-(b.ts||0); });
   }
   function exportMarkdown(){
-    var notes=getNotes(), revs=getRevs();
+    var notes=getNotes().filter(function(n){ return !n.resolved; }),
+        revs=getRevs().filter(function(r){ return !r.resolved; });
     if(!notes.length&&!revs.length) return "";
     var out="# Reader feedback: The Tower of Ardenmoor\n\n";
     out+="Exported "+new Date().toISOString().slice(0,10)+". "+
@@ -488,7 +525,7 @@
     setTimeout(function(){ document.body.removeChild(a); URL.revokeObjectURL(url); },0);
   }
   document.getElementById("btnCopy").addEventListener("click", function(){
-    var md=exportMarkdown(); if(!md){ toast("No feedback yet; select text to add some"); return; }
+    var md=exportMarkdown(); if(!md){ toast("No open feedback to copy"); return; }
     if(navigator.clipboard&&navigator.clipboard.writeText){
       navigator.clipboard.writeText(md).then(function(){ toast("Copied. Paste it to Claude"); }, function(){ fallbackCopy(md); });
     } else fallbackCopy(md);
@@ -500,7 +537,7 @@
     document.body.removeChild(ta);
   }
   document.getElementById("btnDownload").addEventListener("click", function(){
-    var md=exportMarkdown(); if(!md){ toast("No feedback yet; select text to add some"); return; }
+    var md=exportMarkdown(); if(!md){ toast("No open feedback to copy"); return; }
     download("ardenmoor-feedback.md", md);
   });
   function updateSyncUI(){
@@ -516,41 +553,71 @@
   updateSyncUI();
 
   /* ---------- notes list ---------- */
+  function goToItem(chap,s){
+    closeDrawers();
+    var p=findParagraph(chap,s); if(p){ p.scrollIntoView({block:"center"}); return; }
+    for(var i=0;i<chapters.length;i++){ if(chapters[i].title===chap){ chapters[i].el.scrollIntoView({block:"start"}); return; } }
+  }
+  function noteBody(n,qlen){ return "<div class=\"ch\">"+esc(n.chap||"")+(n.resolved?" <span class=\"doneTag\">✓ done</span>":"")+"</div>"+
+      (n.quote?"<p class=\"q\">"+esc(n.quote.length>qlen?n.quote.slice(0,qlen)+"…":n.quote)+"</p>":"")+
+      "<div class=\"t\">"+esc(n.text)+"</div>"; }
   function buildNotesList(){
-    var notes=getNotes();
-    if(!notes.length){ notesList.innerHTML="<div class=\"empty\">No notes yet.<br><br>Select any passage while reading and tap <b>💬 Add note</b> to leave feedback here. Then use <b>Copy for Claude</b> and paste it into your chat.</div>"; return; }
-    var order={}; chapters.forEach(function(c,i){ order[c.title]=i; });
-    notes.sort(function(a,b){ var d=(order[a.chap]==null?99:order[a.chap])-(order[b.chap]==null?99:order[b.chap]); return d!==0?d:a.ts-b.ts; });
+    var all=getNotes(), active=[], resolved=[];
+    all.forEach(function(n){ (n.resolved?resolved:active).push(n); });
     notesList.innerHTML="";
-    notes.forEach(function(n){
+    if(!active.length&&!resolved.length){ notesList.innerHTML="<div class=\"empty\">No notes yet.<br><br>Select any passage while reading and tap <b>💬 Note</b> to leave feedback here. Then use <b>Copy for Claude</b>, or turn on sync.</div>"; return; }
+    bySortedChap(active).forEach(function(n){
       var div=document.createElement("div"); div.className="noteItem";
-      div.innerHTML="<div class=\"ch\">"+esc(n.chap||"")+"</div>"+
-        (n.quote?"<p class=\"q\">"+esc(n.quote.length>160?n.quote.slice(0,160)+"…":n.quote)+"</p>":"")+
-        "<div class=\"t\">"+esc(n.text)+"</div>"+
-        "<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"del\">Delete</a></div>";
-      div.querySelector(".go").addEventListener("click", function(){
-        var p=findParagraph(n.chap,n.snip); closeDrawers(); if(p){ p.scrollIntoView({block:"center"}); }
-      });
+      div.innerHTML=noteBody(n,160)+"<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"res\">Resolve</a><a class=\"del\">Delete</a></div>";
+      div.querySelector(".go").addEventListener("click", function(){ goToItem(n.chap,n.snip); });
+      div.querySelector(".res").addEventListener("click", function(){ setNoteResolved(n.chap,n.snip,true); decorate(); buildNotesList(); toast("Note resolved"); });
       div.querySelector(".del").addEventListener("click", function(){ deleteNote(n.chap,n.snip); decorate(); buildNotesList(); });
       notesList.appendChild(div);
     });
+    if(resolved.length){
+      var h=document.createElement("div"); h.className="resHead"; h.textContent="Resolved ("+resolved.length+")"; notesList.appendChild(h);
+      bySortedChap(resolved).forEach(function(n){
+        var div=document.createElement("div"); div.className="noteItem resolved";
+        div.innerHTML=noteBody(n,120)+"<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"reopen\">Reopen</a><a class=\"del\">Delete</a></div>";
+        div.querySelector(".go").addEventListener("click", function(){ goToItem(n.chap,n.snip); });
+        div.querySelector(".reopen").addEventListener("click", function(){ setNoteResolved(n.chap,n.snip,false); decorate(); buildNotesList(); toast("Note reopened"); });
+        div.querySelector(".del").addEventListener("click", function(){ deleteNote(n.chap,n.snip); decorate(); buildNotesList(); });
+        notesList.appendChild(div);
+      });
+    }
   }
   function buildEditsList(){
-    var revs=getRevs();
-    if(!revs.length){ editsList.innerHTML="<div class=\"empty\">No tracked changes yet.<br><br>Select any passage, tap <b>✏️ Edit</b>, and rewrite it (or clear it to cut the passage). Your edits show inline as track changes and gather here for me to apply.</div>"; return; }
+    var all=getRevs(), active=[], resolved=[];
+    all.forEach(function(r){ (r.resolved?resolved:active).push(r); });
     editsList.innerHTML="";
-    bySortedChap(revs).forEach(function(r){
+    if(!active.length&&!resolved.length){ editsList.innerHTML="<div class=\"empty\">No tracked changes yet.<br><br>Select any passage, tap <b>✏️ Edit</b>, and rewrite it (or clear it to cut the passage). Applied edits are detected against the live manuscript and move to <b>Resolved</b> on their own.</div>"; return; }
+    bySortedChap(active).forEach(function(r){
       var cut=!(r.revised&&r.revised.trim());
       var div=document.createElement("div"); div.className="revItem";
       div.innerHTML="<div class=\"ch\">"+esc(r.chap||"")+"</div>"+
         "<div class=\"tag"+(cut?" cut":"")+"\">"+(cut?"Deletion":"Revision")+"</div>"+
         "<div class=\"diff\">"+diffHTML(r.original, r.revised)+"</div>"+
-        "<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"edit\">Edit</a><a class=\"del\">Revert</a></div>";
-      div.querySelector(".go").addEventListener("click", function(){ var p=findParagraph(r.chap,r.snip); closeDrawers(); if(p){ p.scrollIntoView({block:"center"}); } });
+        "<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"edit\">Edit</a><a class=\"res\">Resolve</a><a class=\"del\">Revert</a></div>";
+      div.querySelector(".go").addEventListener("click", function(){ goToItem(r.chap,r.snip); });
       div.querySelector(".edit").addEventListener("click", function(){ var p=findParagraph(r.chap,r.snip); closeDrawers(); if(p){ p.scrollIntoView({block:"center"}); setTimeout(function(){ openEditor(p); },260); } });
+      div.querySelector(".res").addEventListener("click", function(){ setRevResolved(r.chap,r.snip,true,"manual"); decorate(); buildEditsList(); toast("Change resolved"); });
       div.querySelector(".del").addEventListener("click", function(){ deleteRev(r.chap,r.snip); decorate(); buildEditsList(); });
       editsList.appendChild(div);
     });
+    if(resolved.length){
+      var h=document.createElement("div"); h.className="resHead"; h.textContent="Resolved ("+resolved.length+")"; editsList.appendChild(h);
+      bySortedChap(resolved).forEach(function(r){
+        var applied=r.resolvedVia==="applied";
+        var div=document.createElement("div"); div.className="revItem resolved";
+        div.innerHTML="<div class=\"ch\">"+esc(r.chap||"")+" <span class=\"doneTag\">"+(applied?"✓ applied":"✓ resolved")+"</span></div>"+
+          "<div class=\"diff\">"+diffHTML(r.original, r.revised)+"</div>"+
+          "<div class=\"acts\"><a class=\"go\">Go to</a>"+(applied?"":"<a class=\"reopen\">Reopen</a>")+"<a class=\"del\">Delete</a></div>";
+        div.querySelector(".go").addEventListener("click", function(){ goToItem(r.chap,r.snip); });
+        var ro=div.querySelector(".reopen"); if(ro) ro.addEventListener("click", function(){ setRevResolved(r.chap,r.snip,false); decorate(); buildEditsList(); toast("Change reopened"); });
+        div.querySelector(".del").addEventListener("click", function(){ deleteRev(r.chap,r.snip); decorate(); buildEditsList(); });
+        editsList.appendChild(div);
+      });
+    }
   }
   function findParagraph(chap,s){
     var ps=book.querySelectorAll("p[data-snip]");
