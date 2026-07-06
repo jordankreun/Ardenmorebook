@@ -54,6 +54,11 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 - **[HARD] Every sentence parses.** No sentence whose meaning you cannot state plainly. Read any
   long/inverted sentence aloud; if it doesn't land cleanly, rewrite it. *Source: prologue "last
   sentence doesn't make sense"; Ch1 "and in the matter of what I ought to want — unclear."*
+- **[CRAFT] No run-ons or comma splices.** Scan for any sentence chaining **four or more
+  independent clauses with "and, and, and"** and split it; scan for **comma splices** (two
+  independent clauses joined by a bare comma) and repunctuate. One deliberate long cumulative
+  sentence per scene at most, and only when it reads as a controlled build. Favor the period.
+  *Source: the run-on pass; session-lock #9.*
 
 ## P1 — BELIEVABILITY & GROUNDEDNESS (the author's most frequent objection)
 
@@ -128,10 +133,15 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 
 ## P5 — VOICE & EMOTIONAL REGISTER
 
-- **[CHECK] The fixed voice holds:** Le Guin's restraint floor, Rothfuss's intimate retrospective
-  teller, Mancour's built working world; first person, past tense; longevity implied, never stated.
-  No modern idiom, no techspeak, no fake-archaic incantation. *Source: "very kingkiller"; the voice
-  note.*
+- **[CHECK] The fixed voice holds:** Le Guin's restraint floor; first person, past tense; longevity
+  implied, never stated. No modern idiom, no techspeak, no fake-archaic incantation. *Source: "very
+  kingkiller"; the voice note.*
+- **[CRAFT] Register leans MANCOUR, not Rothfuss-lyric (2026-07-06 re-weight).** The teller is wry,
+  plainspoken, competent-professional, direct, glad of the practical craft and commerce. Rothfuss
+  lyricism is a *spare grace note* now: a sentence that opens into music should happen rarely, at a
+  real threshold or grief, not once or twice a chapter. Flag and plain down ornate similes, precious
+  metaphors, and any sentence that admires its own beauty; let dry wit and concrete competence carry
+  it. *Source: "shift the voice more towards Terry Mancour"; session-lock #8.*
 - **[CRAFT] Emotional registers are precise, not generic.** Characters are their exact temperature:
   Lira measured and reserved, giving nothing unpaid-for — not warm, not frosty. Never name an
   emotion the reader can infer from behavior; never explain a silence. *Source: "make Lira less

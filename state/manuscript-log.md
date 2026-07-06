@@ -107,6 +107,18 @@ CONTINUITY FIX: Ch2's "I would keep my promise and tell her" (Lira) was cut — 
 removed from Ch1 in an earlier revision, so it was a dangling reference. New durable rule recorded
 in the feedback engine (P5 "Concision: cut verbosity, keep the voice").
 
+RUN-ON PASS + VOICE RE-WEIGHT (2026-07-06) across Ch 1–3: (a) split ~13 genuine run-ons (4+
+"and"-chained independent clauses; one comma-splice/semicolon) into cleaner sentences, preserving
+the deliberate cumulative lines. (b) TONE SHIFT toward **Terry Mancour**: the teller's register is
+now wry/plainspoken/practical with Rothfuss lyricism demoted to a spare grace note (Le Guin floor
+unchanged). Made a first light re-voicing on the existing chapters (plainer wry phrasings, e.g.
+"how small my life had got", "the way you let out a coat you mean to keep", "the first step toward
+the rest"); the heavier re-voicing of already-written chapters is left for author steering. Both
+changes recorded durably: SESSION-LOCKED DECISIONS #8 (Mancour re-weight) and #9 (run-on
+discipline), voice-rothfuss-mancour.md (VOICE RE-WEIGHT block), style-guide.md (register para +
+"Run-ons" rule), feedback-engine.md (run-on rule + Mancour-register check), and the skill
+description. Counts after: Ch1 3995, Ch2 4282, Ch3 3550 (all above floor); no em dashes.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 

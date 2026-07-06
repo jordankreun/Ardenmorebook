@@ -1,9 +1,43 @@
 # VOICE: THE NARRATOR OF ARDENMOOR
 ### The governing voice for The Tower of Ardenmoor, Book One.
 ### The floor is Le Guin (see the style guide): quiet, patient, sensory, restrained.
-### On that floor stands Rothfuss — the intimate teller — with Mancour present only as
-### the grain of a real working world. Where this note and the style guide differ, the
-### spirit is the same and the style guide's restraint always wins. Read fully before drafting.
+### On that floor stands the teller, with Mancour and Rothfuss both in the telling.
+### Where this note and the style guide differ, the style guide's restraint always wins.
+### Read fully before drafting, THEN apply the re-weight below (it supersedes the balance
+### this document originally struck).
+
+---
+
+## ⚖️ VOICE RE-WEIGHT — LEAN MANCOUR (session-locked, 2026-07-06; supersedes the Rothfuss-forward balance below)
+
+The author has dialed the **teller's register toward Terry Mancour** and away from Rothfuss-lyric.
+Read everything below for the *world* and the *attention*, but weight the actual sentence-level
+voice like this:
+
+- **The teller is a wry, plainspoken, competent professional** recounting how it actually went:
+  direct, dry-humored, a little self-deprecating, comfortable in the genre. He tells you what a
+  thing cost, how it was done, and what he thought of it, in plain words. That is the default
+  register now, not the exception.
+- **Rothfuss-lyric is now a spare grace note, not the house style.** The "sentence that opens into
+  music" happens *rarely* — a real threshold or grief, once every few chapters, not once or twice
+  a chapter. Ornate similes, precious metaphors ("grief wearing another coat," "lets out the waist
+  of a coat she means to keep"), and self-admiring beauty are trimmed toward plain, wry, concrete
+  statement. When in doubt, say it straight, and let the dry wit carry it.
+- **Mancour's practical pleasure moves up front:** the nuts and bolts of the trade, the logistics,
+  the money, the building, the competence — rendered with relish and humor, not veiled in lyricism.
+  A paragraph about how something was done is welcome and does not need a poetic finish.
+- **Keep, unchanged:** the Le Guin restraint floor (name no emotion, explain no silence, go quieter
+  at the biggest moments), first-person retrospective past tense (per SESSION-LOCKED DECISIONS —
+  the "third-limited" language below is stale, read it as first person; "Opus" = Emlyn), canon, and
+  the no-em-dash rule.
+- **Sentence length (run-on discipline):** the wry-plain register runs on *shorter, cleaner*
+  sentences. Do not chain four or five independent clauses with "and, and, and"; break them. No
+  comma splices. A long cumulative sentence is allowed occasionally, on purpose, for rhythm, but it
+  is now the exception, not the reflex.
+
+Net effect: **Le Guin floor + Mancour teller, with Rothfuss as an occasional grace note.** If a
+sentence sounds like it is admiring its own beauty, it is now wrong; plain it down and let the
+practical, wry intelligence be the pleasure.
 
 ---
 

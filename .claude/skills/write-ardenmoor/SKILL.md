@@ -1,9 +1,10 @@
 ---
 name: write-ardenmoor
 description: >
-  Draft "The Tower of Ardenmoor" Book One — a cozy, slice-of-life fantasy novel
-  in an intimate, lyric voice — a Rothfuss-style teller on a Le Guin floor — set in a
-  Mancour-style world where a wizard builds up a real magical practice and the tower around it.
+  Draft "The Tower of Ardenmoor" Book One, a cozy, slice-of-life fantasy novel with a
+  wry, plainspoken Terry Mancour-style teller on a Le Guin restraint floor (Rothfuss lyricism
+  only as an occasional grace note), set in a Mancour-style world where a wizard builds up a
+  real magical practice and the tower around it.
   Use when the user wants to
   write, draft, revise, or continue chapters of the novel. Trigger on "write chapter N",
   "draft the next chapter", "revise chapter N", "continue the book", or any reference to
@@ -74,6 +75,19 @@ predate some of them; where a reference says otherwise, THIS list wins.
    if a draft is coming in under ~3,500, widen it with lived scene (more of the day, another
    encounter, deeper attention) rather than compressing. Chapter count and total wordcount
    flex to accommodate this — fewer/longer chapters and/or a longer book are both fine.
+8. **Voice re-weighted toward Terry Mancour (2026-07-06):** the teller's register now leans
+   **Mancour** — wry, plainspoken, competent-professional, direct, glad of the practical craft and
+   commerce — with **Rothfuss lyricism demoted to a spare grace note** (a sentence that opens into
+   music happens rarely, at a real threshold or grief, not once or twice a chapter). The Le Guin
+   restraint floor is unchanged. See the **VOICE RE-WEIGHT** block at the top of
+   `references/voice-rothfuss-mancour.md`, which supersedes that document's original Rothfuss-forward
+   balance, and the re-weighted register paragraph in `references/style-guide.md`. When a sentence
+   admires its own beauty, plain it down.
+9. **Sentence-length / run-on discipline (2026-07-06):** the wry-plain register runs on shorter,
+   cleaner sentences. Do NOT chain four or five independent clauses with "and, and, and"; break
+   them. No comma splices. A deliberate long cumulative sentence is allowed occasionally, for
+   rhythm, but it is the exception now, not the reflex. (Codified in the style guide's "Run-ons"
+   rule and the feedback engine.)
 
 ## AUTHOR FEEDBACK IS DURABLE (how this skill keeps learning)
 
