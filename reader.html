@@ -117,6 +117,22 @@
   .composer.edit button.primary{background:var(--edit);border-color:var(--edit)}
   .composer .hint{font-size:.74rem;color:var(--muted);margin:.4rem 0 0;text-indent:0}
 
+  /* ---------- bottom-sheet editor overlay ---------- */
+  #sheetWrap{position:fixed;inset:0;z-index:85;pointer-events:none}
+  #sheetWrap.open{pointer-events:auto}
+  #sheetScrim{position:absolute;inset:0;background:rgba(0,0,0,.42);opacity:0;transition:opacity .25s}
+  #sheetWrap.open #sheetScrim{opacity:1}
+  #sheet{position:absolute;left:0;right:0;bottom:0;margin:0 auto;width:100%;max-width:40rem;
+    background:var(--panel);border-top:1px solid var(--rule);border-radius:16px 16px 0 0;
+    box-shadow:0 -10px 34px var(--shadow);padding:.8rem 1rem calc(1rem + env(safe-area-inset-bottom));
+    transform:translateY(112%);transition:transform .26s cubic-bezier(.22,.61,.36,1);max-height:82vh;overflow:auto}
+  #sheetWrap.open #sheet{transform:none}
+  #sheet:before{content:"";display:block;width:2.4rem;height:.28rem;border-radius:999px;background:var(--rule);margin:.1rem auto .7rem}
+  #sheet .ctx{font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 .55rem}
+  #sheet .composer{margin:0;border:0;background:transparent;padding:0;text-indent:0}
+  #sheet .composer textarea{min-height:5.5rem}
+  #sheet .composer.edit textarea{min-height:8.5rem}
+
   /* ---------- scrim + drawer + settings popover ---------- */
   #scrim{position:fixed;inset:0;background:rgba(0,0,0,.35);opacity:0;pointer-events:none;transition:opacity .2s;z-index:70}
   #scrim.open{opacity:1;pointer-events:auto}
@@ -244,6 +260,8 @@
     </div>
   </div>
 </div>
+
+<div id="sheetWrap"><div id="sheetScrim"></div><div id="sheet" role="dialog" aria-modal="true" aria-label="Editor"></div></div>
 
 <div id="selTools">
   <button id="btnAddNote" aria-label="Add a note on the selection"></button>
@@ -515,8 +533,33 @@
     });
   }
 
-  /* ---------- composer (unchanged logic) ---------- */
-  function closeComposers(){ var c=document.querySelectorAll(".composer"); c.forEach(function(x){x.remove();}); }
+  /* ---------- bottom-sheet overlay host for the composer/editor ---------- */
+  var sheetWrap=document.getElementById("sheetWrap"), sheetEl=document.getElementById("sheet"),
+      sheetScrim=document.getElementById("sheetScrim"), vv=window.visualViewport;
+  function positionSheet(){
+    if(!vv||!sheetWrap.classList.contains("open")) return;
+    var kb=Math.max(0, Math.round(window.innerHeight - vv.height - vv.offsetTop)); // keyboard height
+    sheetEl.style.bottom=kb+"px";
+    sheetEl.style.maxHeight=Math.round(vv.height-20)+"px";
+  }
+  if(vv){ vv.addEventListener("resize", positionSheet); vv.addEventListener("scroll", positionSheet); }
+  function openSheet(ctxLabel, inner){
+    sheetEl.innerHTML="";
+    if(ctxLabel){ var c=document.createElement("div"); c.className="ctx"; c.textContent=ctxLabel; sheetEl.appendChild(c); }
+    sheetEl.appendChild(inner);
+    sheetWrap.classList.add("open");
+    requestAnimationFrame(positionSheet);
+  }
+  function closeSheet(){
+    sheetWrap.classList.remove("open");
+    sheetEl.style.bottom=""; sheetEl.style.maxHeight="";
+    setTimeout(function(){ if(!sheetWrap.classList.contains("open")) sheetEl.innerHTML=""; },300);
+  }
+  function closeComposers(){ closeSheet(); } // kept as a name; content now lives in the sheet
+  sheetScrim.addEventListener("click", closeSheet);
+
+  /* ---------- composer (same data logic; presented in the bottom sheet) ---------- */
+  function ctxOf(p){ var t=(p.dataset.text||"").replace(/\s+/g," ").trim(); return (p.dataset.chap||"")+" · “"+t.slice(0,42)+(t.length>42?"…":"")+"”"; }
   function openComposer(p, quote){
     closeComposers();
     var chap=p.dataset.chap, s=p.dataset.snip, existing=findNote(chap,s);
@@ -526,16 +569,15 @@
       "<textarea placeholder=\"Your note or feedback about this passage…\"></textarea>"+
       "<div class=\"row\"><button class=\"primary save\">Save note</button><button class=\"cancel\">Cancel</button>"+
       (existing?"<button class=\"del\">Delete</button>":"")+"</div>";
-    p.insertAdjacentElement("afterend", box);
+    openSheet(ctxOf(p), box);
     var ta=box.querySelector("textarea"); ta.value=existing?existing.text:""; ta.focus();
     box.querySelector(".save").addEventListener("click", function(){
       var v=ta.value.trim(); if(!v){ toast("Nothing to save"); return; }
-      upsertNote(chap,s,q,v); decorate(); buildNotesList(); box.remove(); toast("Note saved");
+      upsertNote(chap,s,q,v); decorate(); buildNotesList(); closeSheet(); toast("Note saved");
     });
-    box.querySelector(".cancel").addEventListener("click", function(){ box.remove(); });
+    box.querySelector(".cancel").addEventListener("click", closeSheet);
     var del=box.querySelector(".del");
-    if(del) del.addEventListener("click", function(){ deleteNote(chap,s); decorate(); buildNotesList(); box.remove(); toast("Note deleted"); });
-    box.scrollIntoView({block:"nearest"});
+    if(del) del.addEventListener("click", function(){ deleteNote(chap,s); decorate(); buildNotesList(); closeSheet(); toast("Note deleted"); });
   }
 
   /* ---------- track-changes editor (unchanged logic) ---------- */
@@ -548,18 +590,17 @@
       "<p class=\"hint\">Saved as a tracked change; the original stays until you or I apply it.</p>"+
       "<div class=\"row\"><button class=\"primary save\">Save revision</button><button class=\"cancel\">Cancel</button>"+
       (existing?"<button class=\"del\">Revert</button>":"")+"</div>";
-    p.insertAdjacentElement("afterend", box);
+    openSheet(ctxOf(p), box);
     var ta=box.querySelector("textarea"); ta.value=existing?existing.revised:orig; ta.focus();
     box.querySelector(".save").addEventListener("click", function(){
       var v=ta.value.replace(/\s+$/,"");
-      if(v.trim()===orig.trim()){ if(existing){ deleteRev(chap,s); decorate(); buildEditsList(); } box.remove(); toast("No change from the original"); return; }
-      upsertRev(chap,s,orig,v); decorate(); buildEditsList(); box.remove();
+      if(v.trim()===orig.trim()){ if(existing){ deleteRev(chap,s); decorate(); buildEditsList(); } closeSheet(); toast("No change from the original"); return; }
+      upsertRev(chap,s,orig,v); decorate(); buildEditsList(); closeSheet();
       toast(v.trim()?"Revision saved":"Marked for deletion");
     });
-    box.querySelector(".cancel").addEventListener("click", function(){ box.remove(); });
+    box.querySelector(".cancel").addEventListener("click", closeSheet);
     var del=box.querySelector(".del");
-    if(del) del.addEventListener("click", function(){ deleteRev(chap,s); decorate(); buildEditsList(); box.remove(); toast("Reverted to original"); });
-    box.scrollIntoView({block:"nearest"});
+    if(del) del.addEventListener("click", function(){ deleteRev(chap,s); decorate(); buildEditsList(); closeSheet(); toast("Reverted to original"); });
   }
 
   /* ---------- selection -> floating toolbar (review mode only) ---------- */
@@ -872,6 +913,7 @@
   function gotoChapter(i){ if(i<0||i>=chapters.length) return; closeAll(); chapters[i].el.scrollIntoView({block:"start"}); }
   document.addEventListener("keydown", function(e){
     var t=e.target;
+    if(e.key==="Escape" && sheetWrap.classList.contains("open")){ if(t&&t.blur) t.blur(); closeSheet(); return; }
     if(t&&(t.tagName==="TEXTAREA"||t.tagName==="INPUT"||t.isContentEditable)){ if(e.key==="Escape") t.blur(); return; }
     if(e.key==="Escape"){ closeAll(); return; }
     if(e.key==="ArrowRight"){ gotoChapter(currentChapterIndex()+1); }
