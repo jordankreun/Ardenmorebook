@@ -100,6 +100,13 @@ myself" [the exact framing the author cut from the prologue] and is now first pe
 phrase gone. The hum's "I did not hear anything" opener was reviewed and KEPT: here it does
 necessary work distinguishing felt-through-bone from heard, unlike the Ch2 crown anticlimax.)
 
+READABILITY / CONCISION PASS (2026-07-06) across Ch 1–3: trimmed genuine verbosity (doubled
+clauses, over-qualification, tautological asides, theme-explaining tails) while holding the voice,
+canon, no-em-dash rule, and the 3,500 floor. Counts after: Ch1 4002, Ch2 4285, Ch3 3562. Notable
+CONTINUITY FIX: Ch2's "I would keep my promise and tell her" (Lira) was cut — that promise was
+removed from Ch1 in an earlier revision, so it was a dangling reference. New durable rule recorded
+in the feedback engine (P5 "Concision: cut verbosity, keep the voice").
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 

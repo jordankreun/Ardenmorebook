@@ -141,6 +141,15 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   famous… stories so warped it's barely fantasy, not many of them."*
 - **[CRAFT] No sentence that admires itself; no digression that forgets to return.** Lyricism is a
   spice. If a line is performing, plain it down. *Source: the failure-modes list.*
+- **[CRAFT] Concision: cut verbosity, keep the voice.** The lyric register earns long sentences, but
+  it does not license padding. Hunt and cut: **doubled clauses** that restate the same beat ("and
+  they were not wrong, and I never troubled to mend it" → drop the first); **over-qualification**
+  ("I do not think I could have borne" → "I could not have borne"); **tautological asides** ("because
+  I promised you the truth of it and this is the truth of it"); and **theme-explaining tails** that
+  spell out what the scene already showed. The test: if a clause can go without losing image,
+  meaning, or music, it goes. Tighten toward the strongest version of the same sentence, not toward a
+  shorter, flatter one, and never pad back to a word count. *Source: the "some sections seem overly
+  verbose" readability pass on Ch 1–3.*
 
 ## P6 — CLARITY (fast final sweep)
 

@@ -40,7 +40,7 @@ I should have been thinking about the work. I had bought the hill to build on it
 
 It was some nights into that new life, and not the first, that the hill spoke to me.
 
-The fire had gone out, and I had lain down, and it began. I did not hear anything. I want to be exact, because it matters, and because I was a man who had spent a lifetime learning the difference between hearing a thing and the thing people mean when they say they heard. There was no sound. Had you stood beside me on the crown that night with your own two ears you would have sworn the hill dead silent, and as far as ears go you would have been right.
+The fire had gone out, and I had lain down, and it began. I did not hear anything. I want to be exact, because it matters, and because I had spent a lifetime learning the difference between hearing a thing and what people mean when they say they heard. There was no sound. Had you stood beside me on the crown that night with your own two ears you would have sworn the hill dead silent, and as far as ears go you would have been right.
 
 But I was lying full length on the ground with nothing between me and it but a groundsheet and a blanket, and it came up into me through the bone. It was below sound the way the lowest note of a great bell is below sound, the part you feel in the chest and the back teeth a moment before the ringing reaches you, except that the ringing never came. It was steady. It was slow. It had the patience of something very large and very old turning over in its sleep, and I lay in the dark and felt the hill I had bought move once, low, against the whole length of my body, and go still, and I told myself it was the blood in my own ears, and did not believe it, and lay very still and waited to feel it again.
 

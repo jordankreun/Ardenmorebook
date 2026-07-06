@@ -218,9 +218,14 @@ if it needs a new one, add it here.
   years, which reads to him as alarm). Marks the great old oak standing alone out of the north
   wood (does not yet know what it is). Comes down to fetch someone who knows the ground.
 - **Midday at Lira's:** she greets him "you've been up it, then" but pointedly does NOT ask
-  what he found (saving the question). Emlyn announces to the room he means to build; the room
-  warns, kindly, that "nothing stands on that hill" ("you and Cael's father both"). Cael asked
-  the question in the open ON PURPOSE (first bit of village-governing Emlyn notices).
+  what he found (saving the question; she "wanted to know too badly to risk the answer in a
+  crowded room" — a seed of her hidden stake, surface stays measured). Emlyn announces to the
+  room he means to build; the room warns, kindly, that "nothing stands on that hill" ("you and
+  Cael's father both"). Cael asked the question in the open ON PURPOSE (first bit of
+  village-governing Emlyn notices). ⚠️ CONTINUITY FIX (readability pass 2026-07-06): the line
+  "I would keep my promise and tell her, in the end" was CUT here — no such promise was ever made
+  (the Lira "come back and tell me" promise was cut from Ch 1). If a tell-her payoff is wanted
+  later, establish the promise properly when it happens; "Promises made: none standing" still holds.
 - **Jorin introduced organically; Ren deferred.** Both did NOT laugh at the hill-talk. The elder
   (broad, grey, squares his cup to the table edge, twice) is unnamed on sight; **Cael names him**:
   "That's Jorin. Best hands in three valleys, fewest words... he'll not tell you it can't be done,
