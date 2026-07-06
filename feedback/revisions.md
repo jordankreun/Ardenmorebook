@@ -1,13 +1,5 @@
 # Tracked changes: The Tower of Ardenmoor
 
-1 open tracked change. Synced from the reader.
+0 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
-
-## Prologue
-
-ORIGINAL:
-> And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear a story told that I half recognize, the way you might recognize your own coat on a stranger three sizes too large for it. There are not many of them. I am not, whatever you may have been led to expect, a man they sing about; I took a good deal of quiet care, over the years, that it should stay so. But a few tales got loose all the same, and time and retelling have warped them so far out of true that the man in them is half myth and half plain nonsense, and I would not know him to nod to in the road, and, if I am honest, do not much care for him. I hold the tellers no grudge; a good story is a kind of coin, and it is meant to be spent. It only seems a poor thing to leave nothing behind but those few, and so, if only so that the truth of it should exist somewhere, in one place, I mean to set down what actually happened. Or near enough. I will not pretend the years have warmed no words nor softened any faces; fondness does that, and I was fond of very nearly all of them, and they are gone now, every one of them, but me. Still, the shape of it is true, and the shape is the thing that matters.
-
-REVISED:
-> And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear a story told that I half recognize, the way you might recognize your own coat on a stranger three sizes too large for it. There are not many of them. I am not, whatever you may have been led to expect, a man they sing about; I took a good deal of quiet care, over the years, that it should stay so. But a few tales got loose all the same, and time and retelling have warped them so far out of true that the man in them is half myth and half plain nonsense, and, if I am honest, do not much care for him. I hold the tellers no grudge; a good story is a kind of coin, and it is meant to be spent. It only seems a poor thing to leave nothing behind but those few, and so, if only to ensure the truth of it should exist somewhere, I mean to set down what actually happened. Or near enough. I will not pretend the years have warmed no words nor softened any faces; fondness does that, and I was fond of very nearly all of them, and they are gone now, every one of them, but me. Still, the shape of it is true, and the shape is the thing that matters.
