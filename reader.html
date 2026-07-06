@@ -1,8 +1,8 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-mode="review">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The Tower of Ardenmoor</title>
 <style>
   :root{
@@ -10,41 +10,67 @@
     --bg:#f6f2ea; --fg:#2c2820; --muted:#8a7f6c; --rule:#e3dccb;
     --accent:#9a6a3a; --bar:#efe9dc; --panel:#fbf8f1; --shadow:rgba(60,45,20,.14);
     --danger:#b4462f; --edit:#2f7d52; --editbg:rgba(47,125,82,.12);
+    --ring:#9a6a3a;
   }
   @media (prefers-color-scheme: dark){
     :root{
       --bg:#15120d; --fg:#e9e3d5; --muted:#9c9182; --rule:#2c261c;
       --accent:#d0a06a; --bar:#1d1912; --panel:#1b1710; --shadow:rgba(0,0,0,.5);
-      --danger:#e0785e; --edit:#6bbd8a; --editbg:rgba(107,189,138,.16);
+      --danger:#e0785e; --edit:#6bbd8a; --editbg:rgba(107,189,138,.16); --ring:#d0a06a;
     }
   }
-  :root[data-theme="light"]{ color-scheme:light; --bg:#f6f2ea; --fg:#2c2820; --muted:#8a7f6c; --rule:#e3dccb; --accent:#9a6a3a; --bar:#efe9dc; --panel:#fbf8f1; --shadow:rgba(60,45,20,.14); --danger:#b4462f; --edit:#2f7d52; --editbg:rgba(47,125,82,.12); }
-  :root[data-theme="dark"]{ color-scheme:dark; --bg:#15120d; --fg:#e9e3d5; --muted:#9c9182; --rule:#2c261c; --accent:#d0a06a; --bar:#1d1912; --panel:#1b1710; --shadow:rgba(0,0,0,.5); --danger:#e0785e; --edit:#6bbd8a; --editbg:rgba(107,189,138,.16); }
+  :root[data-theme="light"]{ color-scheme:light; --bg:#f6f2ea; --fg:#2c2820; --muted:#8a7f6c; --rule:#e3dccb; --accent:#9a6a3a; --bar:#efe9dc; --panel:#fbf8f1; --shadow:rgba(60,45,20,.14); --danger:#b4462f; --edit:#2f7d52; --editbg:rgba(47,125,82,.12); --ring:#9a6a3a; }
+  :root[data-theme="dark"]{ color-scheme:dark; --bg:#15120d; --fg:#e9e3d5; --muted:#9c9182; --rule:#2c261c; --accent:#d0a06a; --bar:#1d1912; --panel:#1b1710; --shadow:rgba(0,0,0,.5); --danger:#e0785e; --edit:#6bbd8a; --editbg:rgba(107,189,138,.16); --ring:#d0a06a; }
   *{box-sizing:border-box}
   html{-webkit-text-size-adjust:100%}
   body{
     margin:0; background:var(--bg); color:var(--fg);
-    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
-    font-size:var(--fs,20px); line-height:1.72; -webkit-font-smoothing:antialiased;
+    font-family:Charter,"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    font-size:var(--fs,20px); line-height:1.65; -webkit-font-smoothing:antialiased;
   }
+  /* focus ring for keyboard users */
+  :focus{outline:none}
+  :focus-visible{outline:2px solid var(--ring);outline-offset:2px;border-radius:8px}
+
+  /* ---------- top progress + per-chapter ticks ---------- */
+  #ticks{position:fixed;top:0;left:0;height:3px;width:100%;z-index:59;pointer-events:none}
+  #ticks i{position:absolute;top:0;width:1px;height:3px;background:var(--muted);opacity:.5}
   #progress{position:fixed;top:0;left:0;height:3px;width:0;background:var(--accent);z-index:60;transition:width .1s linear}
+
+  /* ---------- icons ---------- */
+  .ic{width:1.2rem;height:1.2rem;display:block;flex:0 0 auto}
+  .ic.sm{width:1.02rem;height:1.02rem}
+
+  /* ---------- top bar (Menu · Mode · Settings) ---------- */
   header#bar{
-    position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:.35rem;
-    padding:.5rem .7rem;background:var(--bar);border-bottom:1px solid var(--rule);
+    position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:.4rem;
+    padding:.45rem .6rem;padding-top:max(.45rem,env(safe-area-inset-top));
+    background:var(--bar);border-bottom:1px solid var(--rule);
     backdrop-filter:saturate(1.2) blur(6px);
   }
-  header#bar .title{font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-right:auto;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  header#bar button{position:relative;font:inherit;font-size:.95rem;line-height:1;cursor:pointer;color:var(--fg);background:transparent;border:1px solid transparent;border-radius:8px;padding:.35rem .5rem}
-  header#bar button:hover{background:var(--panel);border-color:var(--rule)}
-  header#bar .sep{width:1px;height:1.3rem;background:var(--rule);margin:0 .1rem}
-  #noteCount{position:absolute;top:-.2rem;right:-.2rem;min-width:1.05rem;height:1.05rem;padding:0 .2rem;background:var(--accent);color:#fff;border-radius:999px;font-size:.62rem;line-height:1.05rem;text-align:center;display:none}
+  header#bar .spacer{flex:1}
+  .iconbtn{position:relative;display:inline-flex;align-items:center;justify-content:center;
+    width:2.3rem;height:2.3rem;color:var(--fg);background:transparent;border:1px solid transparent;
+    border-radius:10px;cursor:pointer;padding:0}
+  .iconbtn:hover{background:var(--panel);border-color:var(--rule)}
+  .pill{display:inline-flex;align-items:center;gap:.4rem;font:inherit;font-size:.82rem;
+    padding:.34rem .8rem;border-radius:999px;border:1px solid var(--rule);background:var(--panel);
+    color:var(--fg);cursor:pointer;line-height:1}
+  .pill .ic{width:1.05rem;height:1.05rem}
+  .pill:hover{border-color:var(--accent)}
+  #noteCount{position:absolute;top:-.15rem;right:-.15rem;min-width:1.05rem;height:1.05rem;padding:0 .2rem;
+    background:var(--accent);color:#fff;border-radius:999px;font-size:.62rem;line-height:1.05rem;text-align:center;display:none}
   #noteCount.show{display:block}
+  /* review-only affordances hidden while reading */
+  :root[data-mode="read"] #selTools,
+  :root[data-mode="read"] #feedbackPanel{display:none !important}
 
-  main{max-width:38rem;margin:0 auto;padding:2.5rem 1.4rem 7rem}
+  /* ---------- reading column ---------- */
+  main{max-width:65ch;margin:0 auto;padding:2.5rem 1.4rem 7rem;padding-left:max(1.4rem,env(safe-area-inset-left));padding-right:max(1.4rem,env(safe-area-inset-right))}
   .titlepage{text-align:center;margin:2rem 0 5rem}
   .titlepage h1{font-size:2.5rem;font-weight:600;line-height:1.12;margin:0 0 .7rem;letter-spacing:.01em}
   .titlepage .book{font-variant:small-caps;letter-spacing:.28em;color:var(--muted);margin:0}
-  section.chapter{margin-top:4.5rem}
+  section.chapter{margin-top:4.5rem;scroll-margin-top:3.4rem}
   section.chapter:first-of-type{margin-top:0}
   h2.chap{text-align:center;font-weight:600;font-size:1.35rem;line-height:1.3;margin:0 0 2.4rem}
   h2.chap .kicker{display:block;font-variant:small-caps;letter-spacing:.2em;font-size:.72rem;color:var(--muted);margin-bottom:.55rem}
@@ -52,26 +78,34 @@
   p.flush{text-indent:0}
   .scene{margin:1.9rem 0;text-align:center;color:var(--muted);letter-spacing:.6em}
   .scene span{opacity:.6}
-  /* commented paragraphs */
-  p.hasNote{}
+
+  /* commented paragraphs (review mode only) */
   p.hasNote::before{content:"";position:absolute;left:-.75rem;top:.12em;bottom:.12em;width:3px;border-radius:2px;background:var(--accent);opacity:.75}
-  .noteDot{display:inline-block;cursor:pointer;margin-left:.35em;font-size:.7em;vertical-align:.15em;color:var(--accent);opacity:.85;text-indent:0}
+  .noteDot{display:inline-block;cursor:pointer;margin-left:.35em;vertical-align:.05em;color:var(--accent);opacity:.85;text-indent:0}
   .noteDot:hover{opacity:1}
+  .noteDot .ic{display:inline-block;width:.82em;height:.82em}
   /* revised paragraphs (track changes) */
   p.hasEdit::after{content:"";position:absolute;left:-.75rem;top:.12em;bottom:.12em;width:3px;border-radius:2px;background:var(--edit);opacity:.85}
   p.hasNote.hasEdit::after{left:-1.15rem}
-  .editDot{display:inline-block;cursor:pointer;margin-left:.35em;font-size:.7em;vertical-align:.15em;color:var(--edit);opacity:.85;text-indent:0}
+  .editDot{display:inline-block;cursor:pointer;margin-left:.35em;vertical-align:.05em;color:var(--edit);opacity:.85;text-indent:0}
   .editDot:hover{opacity:1}
+  .editDot .ic{display:inline-block;width:.82em;height:.82em}
   .diff-del{color:var(--danger);text-decoration:line-through;text-decoration-thickness:1px;opacity:.85}
   .diff-ins{color:var(--edit);background:var(--editbg);border-radius:3px;padding:0 .06em}
   p.isDeleted{opacity:.7}
-  /* selection add buttons */
-  #selTools{position:absolute;z-index:55;transform:translate(-50%,-115%);display:none;gap:.3rem;white-space:nowrap}
+
+  /* ---------- selection toolbar (Note · Edit · Bookmark) ---------- */
+  #selTools{position:absolute;z-index:55;transform:translate(-50%,-118%);display:none;gap:.25rem;white-space:nowrap;
+    background:var(--fg);border-radius:12px;padding:.22rem;box-shadow:0 6px 22px var(--shadow)}
   #selTools.show{display:flex}
-  #selTools button{font:inherit;font-size:.8rem;cursor:pointer;border:0;border-radius:999px;padding:.34rem .7rem;
-    background:var(--fg);color:var(--bg);box-shadow:0 4px 16px var(--shadow)}
-  #selTools button.edit{background:var(--edit);color:#fff}
-  /* composer */
+  #selTools button{display:inline-flex;align-items:center;gap:.28rem;font:inherit;font-size:.78rem;cursor:pointer;
+    border:0;border-radius:9px;padding:.34rem .55rem;background:transparent;color:var(--bg)}
+  #selTools button:hover{background:rgba(255,255,255,.14)}
+  #selTools .ic{width:.95rem;height:.95rem}
+  #selTools:after{content:"";position:absolute;left:50%;bottom:-6px;transform:translateX(-50%);
+    border:6px solid transparent;border-top-color:var(--fg);border-bottom:0}
+
+  /* ---------- composer / editor ---------- */
   .composer{margin:.35rem 0 1.1rem;background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:.6rem;text-indent:0}
   .composer .quote{font-size:.82em;color:var(--muted);font-style:italic;margin:0 0 .45rem;border-left:2px solid var(--rule);padding-left:.55rem}
   .composer textarea{display:block;width:100%;min-height:4.2rem;font:inherit;font-size:.9em;color:var(--fg);background:var(--bg);border:1px solid var(--rule);border-radius:8px;padding:.5rem;resize:vertical}
@@ -82,50 +116,70 @@
   .composer.edit textarea{min-height:7rem;line-height:1.55}
   .composer.edit button.primary{background:var(--edit);border-color:var(--edit)}
   .composer .hint{font-size:.74rem;color:var(--muted);margin:.4rem 0 0;text-indent:0}
-  /* feedback drawer tabs */
-  .tabs{display:flex;gap:.3rem;margin:0 1.2rem 1rem}
+
+  /* ---------- scrim + drawer + settings popover ---------- */
+  #scrim{position:fixed;inset:0;background:rgba(0,0,0,.35);opacity:0;pointer-events:none;transition:opacity .2s;z-index:70}
+  #scrim.open{opacity:1;pointer-events:auto}
+  aside#drawer{position:fixed;top:0;left:0;height:100%;width:min(23rem,88vw);z-index:71;background:var(--panel);
+    border-right:1px solid var(--rule);box-shadow:0 0 40px var(--shadow);transition:transform .22s ease;
+    overflow-y:auto;padding:0 0 2rem;transform:translateX(-102%)}
+  aside#drawer.open{transform:none}
+  .dhead{position:sticky;top:0;background:var(--panel);padding:1rem 1.2rem .7rem;border-bottom:1px solid var(--rule);z-index:1}
+  .dhead .bktitle{font-size:1rem;font-weight:600;margin:0 0 .3rem}
+  .dhead .pct{font-size:.72rem;color:var(--muted);letter-spacing:.04em}
+  .dhead .mini{height:3px;border-radius:2px;background:var(--rule);margin-top:.5rem;overflow:hidden}
+  .dhead .mini i{display:block;height:100%;width:0;background:var(--accent)}
+  .sect{padding:.4rem 0 .2rem}
+  .sectLbl{font-size:.66rem;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin:.9rem 1.2rem .3rem}
+  nav#tocNav a{display:block;padding:.5rem 1.2rem;color:var(--fg);text-decoration:none;font-size:.98rem;border-left:3px solid transparent}
+  nav#tocNav a:hover{background:var(--bar)}
+  nav#tocNav a.active{border-left-color:var(--accent);color:var(--accent);font-weight:600}
+  .bmrow{display:flex;flex-direction:column;gap:.15rem;margin:.2rem 0}
+  .bmrow button{display:flex;align-items:center;gap:.5rem;width:100%;text-align:left;font:inherit;font-size:.92rem;
+    color:var(--fg);background:transparent;border:0;cursor:pointer;padding:.5rem 1.2rem}
+  .bmrow button:hover{background:var(--bar)}
+  .bmrow button .ic{color:var(--accent)}
+  .bmrow button[disabled]{color:var(--muted);cursor:default}
+  .bmrow button[disabled] .ic{color:var(--muted)}
+
+  #feedbackPanel{border-top:1px solid var(--rule);margin-top:.6rem;padding-top:.4rem}
+  .tabs{display:flex;gap:.3rem;margin:.6rem 1.2rem 1rem}
   .tabs button{flex:1;font:inherit;font-size:.8rem;cursor:pointer;border-radius:8px;padding:.4rem;border:1px solid var(--rule);background:var(--bg);color:var(--muted)}
   .tabs button.active{background:var(--panel);color:var(--fg);border-color:var(--accent);font-weight:600}
+  .exportRow{display:flex;gap:.4rem;margin:0 1.2rem 1rem}
+  .exportRow button{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:.35rem;font:inherit;font-size:.8rem;cursor:pointer;border-radius:8px;padding:.5rem;border:1px solid var(--rule);background:var(--bg);color:var(--fg)}
+  .exportRow button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .exportRow .ic{width:1rem;height:1rem}
+  .noteItem{padding:.7rem 1.2rem;border-top:1px solid var(--rule)}
+  .noteItem .ch{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:.25rem}
+  .noteItem .q{font-size:.82em;font-style:italic;color:var(--muted);margin:0 0 .3rem}
+  .noteItem .t{font-size:.92em;white-space:pre-wrap}
+  .noteItem .acts,.revItem .acts{display:flex;gap:.9rem;margin-top:.4rem}
+  .noteItem .acts a,.revItem .acts a{font-size:.78rem;color:var(--accent);cursor:pointer;text-decoration:none}
+  .noteItem .acts a.del,.revItem .acts a.del{color:var(--danger)}
   .revItem{padding:.7rem 1.2rem;border-top:1px solid var(--rule)}
   .revItem .ch{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:.35rem}
   .revItem .diff{font-size:.86em;line-height:1.5}
   .revItem .tag{display:inline-block;font-size:.64rem;letter-spacing:.1em;text-transform:uppercase;color:var(--edit);border:1px solid var(--edit);border-radius:5px;padding:.02rem .3rem;margin-bottom:.3rem}
   .revItem .tag.cut{color:var(--danger);border-color:var(--danger)}
-  .revItem .acts{display:flex;gap:.9rem;margin-top:.45rem}
-  .revItem .acts a{font-size:.78rem;color:var(--accent);cursor:pointer;text-decoration:none}
-  .revItem .acts a.del{color:var(--danger)}
-  /* resolved feedback */
   .resHead{margin:1.1rem 1.2rem .1rem;font-size:.64rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);border-top:1px solid var(--rule);padding-top:.85rem}
   .noteItem.resolved,.revItem.resolved{opacity:.6}
   .doneTag{display:inline-block;font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;color:var(--edit);border:1px solid var(--edit);border-radius:5px;padding:.02rem .32rem;vertical-align:.12em;margin-left:.3rem}
   .noteItem .acts a.res,.revItem .acts a.res{color:var(--edit)}
   .noteItem .acts a.reopen,.revItem .acts a.reopen{color:var(--muted)}
-
-  #scrim{position:fixed;inset:0;background:rgba(0,0,0,.35);opacity:0;pointer-events:none;transition:opacity .2s;z-index:70}
-  #scrim.open{opacity:1;pointer-events:auto}
-  aside.drawer{position:fixed;top:0;height:100%;width:min(22rem,86vw);z-index:71;background:var(--panel);box-shadow:0 0 40px var(--shadow);transition:transform .22s ease;overflow-y:auto;padding:1.1rem 0 2rem}
-  aside#toc{left:0;border-right:1px solid var(--rule);transform:translateX(-102%)}
-  aside#toc.open{transform:none}
-  aside#notes{right:0;border-left:1px solid var(--rule);transform:translateX(102%)}
-  aside#notes.open{transform:none}
-  aside .dh{display:flex;align-items:center;gap:.5rem;margin:.3rem 1.2rem 1rem}
-  aside .dh h3{margin:0;font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
-  aside#toc a{display:block;padding:.55rem 1.2rem;color:var(--fg);text-decoration:none;font-size:.98rem;border-left:3px solid transparent}
-  aside#toc a:hover{background:var(--bar)}
-  aside#toc a.active{border-left-color:var(--accent);color:var(--accent);font-weight:600}
-  aside#toc .bm{margin:.6rem 1.2rem 0;padding-top:.9rem;border-top:1px solid var(--rule)}
-  aside#toc .bm a{padding-left:0;border:0;color:var(--accent)}
-  .exportRow{display:flex;gap:.4rem;margin:0 1.2rem 1rem}
-  .exportRow button{flex:1;font:inherit;font-size:.8rem;cursor:pointer;border-radius:8px;padding:.45rem;border:1px solid var(--rule);background:var(--bg);color:var(--fg)}
-  .exportRow button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
-  .noteItem{padding:.7rem 1.2rem;border-top:1px solid var(--rule)}
-  .noteItem .ch{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:.25rem}
-  .noteItem .q{font-size:.82em;font-style:italic;color:var(--muted);margin:0 0 .3rem}
-  .noteItem .t{font-size:.92em;white-space:pre-wrap}
-  .noteItem .acts{display:flex;gap:.9rem;margin-top:.4rem}
-  .noteItem .acts a{font-size:.78rem;color:var(--accent);cursor:pointer;text-decoration:none}
-  .noteItem .acts a.del{color:var(--danger)}
   .empty{color:var(--muted);padding:1rem 1.2rem;font-size:.9rem}
+
+  /* settings popover */
+  #settings{position:fixed;top:3.2rem;right:.6rem;z-index:72;width:min(17rem,92vw);background:var(--panel);
+    border:1px solid var(--rule);border-radius:12px;box-shadow:0 10px 34px var(--shadow);padding:.7rem;
+    opacity:0;transform:translateY(-6px);pointer-events:none;transition:opacity .16s,transform .16s}
+  #settings.open{opacity:1;transform:none;pointer-events:auto}
+  .setRow{display:flex;align-items:center;gap:.5rem;padding:.35rem .2rem}
+  .setRow .lbl{flex:1;font-size:.84rem;color:var(--muted)}
+  .segbtn{display:inline-flex;align-items:center;justify-content:center;min-width:2.1rem;height:2.1rem;font:inherit;font-size:.86rem;
+    cursor:pointer;border:1px solid var(--rule);background:var(--bg);color:var(--fg);border-radius:8px;padding:0 .5rem}
+  .segbtn.active{border-color:var(--accent);color:var(--accent);font-weight:600}
+  .seg{display:inline-flex;gap:.3rem}
 
   #toast{position:fixed;left:50%;bottom:1.6rem;transform:translateX(-50%) translateY(1.5rem);background:var(--fg);color:var(--bg);padding:.55rem 1rem;border-radius:999px;font-size:.9rem;opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:80;box-shadow:0 6px 24px var(--shadow)}
   #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
@@ -134,40 +188,69 @@
 </style>
 </head>
 <body>
+<div id="ticks"></div>
 <div id="progress"></div>
 
 <header id="bar">
-  <button id="btnToc" title="Contents" aria-label="Contents">☰</button>
-  <span class="title">The Tower of Ardenmoor</span>
-  <button id="btnNotes" title="Notes &amp; feedback">💬<span id="noteCount">0</span></button>
-  <button id="btnMark" title="Bookmark this spot">🔖</button>
-  <button id="btnGoto" title="Go to bookmark">↦</button>
-  <span class="sep"></span>
-  <button id="btnSmaller" title="Smaller text">A−</button>
-  <button id="btnBigger" title="Larger text">A+</button>
-  <button id="btnTheme" title="Light / dark">◐</button>
+  <button id="btnMenu" class="iconbtn" aria-label="Open menu and contents"></button>
+  <span class="spacer"></span>
+  <button id="btnMode" class="pill" aria-label="Toggle read or review mode"></button>
+  <span class="spacer"></span>
+  <button id="btnSettings" class="iconbtn" aria-label="Settings"></button>
 </header>
 
 <div id="scrim"></div>
-<aside id="toc" class="drawer"><div class="dh"><h3>Contents</h3></div><nav id="tocNav"></nav></aside>
-<aside id="notes" class="drawer">
-  <div class="dh"><h3>Feedback</h3></div>
-  <div class="tabs">
-    <button id="tabNotes" class="active" data-pane="notes">Notes</button>
-    <button id="tabEdits" data-pane="edits">Track changes</button>
+
+<aside id="drawer" aria-label="Contents and feedback">
+  <div class="dhead">
+    <p class="bktitle">The Tower of Ardenmoor</p>
+    <div class="pct"><span id="bookPct">0</span>% through the book</div>
+    <div class="mini"><i id="miniFill"></i></div>
   </div>
-  <div class="exportRow">
-    <button id="btnCopy" class="primary">Copy for Claude</button>
-    <button id="btnDownload">Download .md</button>
+  <div class="sectLbl">Contents</div>
+  <nav id="tocNav"></nav>
+  <div class="sectLbl">Bookmark</div>
+  <div class="bmrow">
+    <button id="bmSet" aria-label="Bookmark the current spot"></button>
+    <button id="bmGo" aria-label="Go to your bookmark"></button>
   </div>
-  <div class="exportRow" style="border-top:1px solid var(--rule);margin-top:.2rem;padding-top:.8rem">
-    <button id="btnSync">Turn on cross-device sync</button>
-  </div>
-  <div id="notesList"></div>
-  <div id="editsList" style="display:none"></div>
+  <section id="feedbackPanel" aria-label="Feedback and export">
+    <div class="sectLbl">Feedback</div>
+    <div class="tabs">
+      <button id="tabNotes" class="active" data-pane="notes">Notes</button>
+      <button id="tabEdits" data-pane="edits">Track changes</button>
+    </div>
+    <div class="exportRow">
+      <button id="btnCopy" class="primary">Copy for Claude</button>
+      <button id="btnDownload">Download .md</button>
+    </div>
+    <div class="exportRow" style="border-top:1px solid var(--rule);margin-top:.2rem;padding-top:.8rem">
+      <button id="btnSync">Turn on cross-device sync</button>
+    </div>
+    <div id="notesList"></div>
+    <div id="editsList" style="display:none"></div>
+  </section>
 </aside>
 
-<div id="selTools"><button id="btnAddNote">💬 Note</button><button id="btnAddEdit" class="edit">✏️ Edit</button></div>
+<div id="settings" role="dialog" aria-label="Settings">
+  <div class="setRow"><span class="lbl">Text size</span>
+    <div class="seg"><button id="btnSmaller" class="segbtn" aria-label="Smaller text"></button><button id="btnBigger" class="segbtn" aria-label="Larger text"></button></div>
+  </div>
+  <div class="setRow"><span class="lbl">Theme</span>
+    <div class="seg">
+      <button class="segbtn" data-theme-set="auto" aria-label="Automatic theme">Auto</button>
+      <button class="segbtn" data-theme-set="light" aria-label="Light theme"></button>
+      <button class="segbtn" data-theme-set="dark" aria-label="Dark theme"></button>
+    </div>
+  </div>
+</div>
+
+<div id="selTools">
+  <button id="btnAddNote" aria-label="Add a note on the selection"></button>
+  <button id="btnAddEdit" aria-label="Rewrite the selected paragraph"></button>
+  <button id="btnAddBookmark" aria-label="Bookmark the selected passage"></button>
+</div>
+
 <main id="book"><p id="status">Gathering the pages…</p></main>
 <div id="toast"></div>
 
@@ -177,16 +260,48 @@
   var MANIFEST="manuscript/manifest.json", DIR="manuscript/";
   var KEY_PROGRESS="ardenmoor.progress.v1", KEY_BOOKMARK="ardenmoor.bookmark.v1",
       KEY_FS="ardenmoor.fontsize.v1", KEY_THEME="ardenmoor.theme.v1", KEY_NOTES="ardenmoor.comments.v1",
-      KEY_REVS="ardenmoor.revisions.v1", KEY_SECRET="ardenmoor.sync.secret.v1";
+      KEY_REVS="ardenmoor.revisions.v1", KEY_SECRET="ardenmoor.sync.secret.v1",
+      KEY_MODE="ardenmoor.mode.v1";
+
+  /* ---------- inline lucide icons (same paths lucide-react ships, 2px stroke) ---------- */
+  var ICON={
+    menu:'<line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="18" y2="18"/>',
+    settings:'<path d="M20 7h-9"/><path d="M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/>',
+    book:'<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>',
+    pen:'<path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4Z"/>',
+    bookmark:'<path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>',
+    arrowRight:'<path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>',
+    note:'<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>',
+    sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>',
+    moon:'<path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>',
+    aDown:'<path d="M3.5 13h6"/><path d="m2 16 4.5-9 4.5 9"/><path d="M18 7v9"/><path d="m14 12 4 4 4-4"/>',
+    aUp:'<path d="M3.5 13h6"/><path d="m2 16 4.5-9 4.5 9"/><path d="M18 16V7"/><path d="m14 11 4-4 4 4"/>',
+    copy:'<rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/>',
+    download:'<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/>'
+  };
+  function svg(name, cls){ return '<svg class="ic'+(cls?" "+cls:"")+'" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+(ICON[name]||"")+'</svg>'; }
 
   var book=document.getElementById("book"), tocNav=document.getElementById("tocNav"),
       notesList=document.getElementById("notesList"), editsList=document.getElementById("editsList"),
       toastEl=document.getElementById("toast"),
-      progressEl=document.getElementById("progress"), selTools=document.getElementById("selTools"),
-      noteCount=document.getElementById("noteCount");
+      progressEl=document.getElementById("progress"), ticksEl=document.getElementById("ticks"),
+      selTools=document.getElementById("selTools"), noteCount=document.createElement("span");
+  noteCount.id="noteCount";
+
+  var mode = (function(){ try{ return localStorage.getItem(KEY_MODE)||"review"; }catch(e){ return "review"; } })();
 
   function esc(s){ return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
-  function inline(s){ return esc(s).replace(/\*([^*]+)\*/g,"<em>$1</em>"); }
+  /* display-only book typography: curly quotes + en/em dashes. Never touches dataset/export. */
+  function typo(s){
+    return s
+      .replace(/---/g,"—").replace(/--/g,"–")
+      .replace(/\.\.\./g,"…")
+      .replace(/(^|[\s([{—–"])'/g,"$1‘")
+      .replace(/'/g,"’")
+      .replace(/(^|[\s([{—–])"/g,"$1“")
+      .replace(/"/g,"”");
+  }
+  function inline(s){ return typo(esc(s).replace(/\*([^*]+)\*/g,"<em>$1</em>")); }
   function snip(t){ return t.replace(/\s+/g," ").trim().slice(0,100); }
   function toast(m){ toastEl.textContent=m; toastEl.classList.add("show"); clearTimeout(toast._t); toast._t=setTimeout(function(){toastEl.classList.remove("show");},1700); }
   function bust(u){ return u+(u.indexOf("?")<0?"?":"&")+"v="+Date.now(); }
@@ -205,7 +320,7 @@
     return out;
   }
 
-  /* ---------- notes storage ---------- */
+  /* ---------- notes storage (unchanged data layer) ---------- */
   function getNotes(){ try{ return JSON.parse(localStorage.getItem(KEY_NOTES))||[]; }catch(e){ return []; } }
   function setNotes(a){ try{ localStorage.setItem(KEY_NOTES, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushNotes) SYNC.pushNotes(); }
   function findNote(chap,s){ var a=getNotes(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s&&!a[i].resolved) return a[i]; } return null; }
@@ -220,7 +335,7 @@
   function activeCount(arr){ var c=0; for(var i=0;i<arr.length;i++) if(!arr[i].resolved) c++; return c; }
   function updateCount(){ var n=activeCount(getNotes())+activeCount(getRevs()); noteCount.textContent=n; noteCount.classList.toggle("show", n>0); }
 
-  /* ---------- revisions (track changes) storage ---------- */
+  /* ---------- revisions (track changes) storage (unchanged data layer) ---------- */
   function getRevs(){ try{ return JSON.parse(localStorage.getItem(KEY_REVS))||[]; }catch(e){ return []; } }
   function setRevs(a){ try{ localStorage.setItem(KEY_REVS, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushRevs) SYNC.pushRevs(); }
   function findRev(chap,s){ var a=getRevs(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s&&!a[i].resolved) return a[i]; } return null; }
@@ -241,24 +356,20 @@
     for(var i=0;i<ps.length;i++){ if(ps[i].dataset.chap===chap && normText(ps[i].dataset.text)===target) return true; }
     return false;
   }
-  // A tracked change counts as APPLIED once its original paragraph no longer appears in the
-  // manuscript the reader just loaded from GitHub. Applied changes auto-resolve so they don't linger.
   function autoVerifyRevs(){
     if(!chapters.length) return false;
     var a=getRevs(), changed=false;
     for(var i=0;i<a.length;i++){
       var r=a[i];
       if(r.resolved) continue;
-      if(!chapterLoaded(r.chap)) continue;                 // can't verify a chapter we didn't load
-      if(!origStillPresent(r.chap, r.original)){            // original gone => the edit landed
-        r.resolved=true; r.resolvedTs=Date.now(); r.resolvedVia="applied"; r.ts=Date.now(); changed=true;
-      }
+      if(!chapterLoaded(r.chap)) continue;
+      if(!origStillPresent(r.chap, r.original)){ r.resolved=true; r.resolvedTs=Date.now(); r.resolvedVia="applied"; r.ts=Date.now(); changed=true; }
     }
     if(changed) setRevs(a);
     return changed;
   }
 
-  /* ---------- word-level diff ---------- */
+  /* ---------- word-level diff (unchanged) ---------- */
   function tok(s){ return s.replace(/\s+/g," ").trim().split(" ").filter(function(x){ return x!==""; }); }
   function diffWords(a,b){
     var A=tok(a), B=tok(b), n=A.length, m=B.length, i, j;
@@ -286,10 +397,10 @@
     return html;
   }
 
-  /* ---------- cross-device sync (optional; needs the /api/sync backend) ---------- */
+  /* ---------- cross-device sync (unchanged) ---------- */
   var SYNC={
     secret:(function(){ try{ return localStorage.getItem(KEY_SECRET)||""; }catch(e){ return ""; } })(),
-    on:false, _t:null,
+    on:false, _t:null, _tr:null,
     _h:function(){ return {"Content-Type":"application/json","x-feedback-secret":SYNC.secret}; },
     setSecret:function(s){ SYNC.secret=s; try{ localStorage.setItem(KEY_SECRET,s); }catch(e){} },
     pull:function(){
@@ -331,6 +442,7 @@
           autoVerifyRevs();
           decorate(); buildNotesList(); buildEditsList();
           if(j.bookmark) savePos(KEY_BOOKMARK, j.bookmark);
+          buildBookmarkRow();
         }
         if(typeof updateSyncUI==="function") updateSyncUI();
       });
@@ -369,15 +481,17 @@
       book.appendChild(sec);
       chapters.push({id:sec.id,title:title||("Part "+(i+1)),el:sec});
     }
-    decorate(); buildToc(); updateCount();
+    decorate(); buildToc(); updateCount(); layoutTicks();
     if(autoVerifyRevs()) decorate();
   }
 
-  /* ---------- decorate paragraphs: revision diff + note/edit markers ---------- */
+  /* ---------- decorate: clean text in read mode; diff + markers in review mode ---------- */
   function decorate(){
+    var readMode=(mode==="read");
     var ps=book.querySelectorAll("p[data-snip]");
     ps.forEach(function(p){
       var chap=p.dataset.chap, s=p.dataset.snip, orig=p.dataset.text||"";
+      if(readMode){ p.classList.remove("hasNote","hasEdit","isDeleted"); p.innerHTML=inline(orig); return; }
       var rev=findRev(chap,s), note=findNote(chap,s);
       if(rev){
         p.classList.add("hasEdit");
@@ -389,19 +503,19 @@
       }
       p.classList.toggle("hasNote", !!note);
       if(note){
-        var nd=document.createElement("span"); nd.className="noteDot"; nd.textContent="💬"; nd.title="View / edit note";
+        var nd=document.createElement("span"); nd.className="noteDot"; nd.innerHTML=svg("note"); nd.title="View / edit note";
         nd.addEventListener("click", function(){ openComposer(p, note.quote); });
         p.appendChild(nd);
       }
       if(rev){
-        var ed=document.createElement("span"); ed.className="editDot"; ed.textContent="✏️"; ed.title="Edit / revert this revision";
+        var ed=document.createElement("span"); ed.className="editDot"; ed.innerHTML=svg("pen"); ed.title="Edit / revert this revision";
         ed.addEventListener("click", function(){ openEditor(p); });
         p.appendChild(ed);
       }
     });
   }
 
-  /* ---------- composer ---------- */
+  /* ---------- composer (unchanged logic) ---------- */
   function closeComposers(){ var c=document.querySelectorAll(".composer"); c.forEach(function(x){x.remove();}); }
   function openComposer(p, quote){
     closeComposers();
@@ -424,7 +538,7 @@
     box.scrollIntoView({block:"nearest"});
   }
 
-  /* ---------- track-changes editor ---------- */
+  /* ---------- track-changes editor (unchanged logic) ---------- */
   function openEditor(p){
     closeComposers();
     var chap=p.dataset.chap, s=p.dataset.snip, orig=p.dataset.text||"", existing=findRev(chap,s);
@@ -448,7 +562,7 @@
     box.scrollIntoView({block:"nearest"});
   }
 
-  /* ---------- selection -> add note ---------- */
+  /* ---------- selection -> floating toolbar (review mode only) ---------- */
   function paragraphOfSelection(){
     var sel=window.getSelection(); if(!sel||sel.rangeCount===0||sel.isCollapsed) return null;
     var node=sel.getRangeAt(0).commonAncestorContainer;
@@ -458,12 +572,15 @@
   }
   var pendingSel=null;
   function onSelect(){
+    if(mode!=="review"){ selTools.classList.remove("show"); pendingSel=null; return; }
     var p=paragraphOfSelection();
     var sel=window.getSelection();
     if(!p){ selTools.classList.remove("show"); pendingSel=null; return; }
     var rect=sel.getRangeAt(0).getBoundingClientRect();
     pendingSel={ p:p, quote:sel.toString().replace(/\s+/g," ").trim() };
-    selTools.style.left=(window.scrollX+rect.left+rect.width/2)+"px";
+    var x=window.scrollX+rect.left+rect.width/2;
+    x=Math.max(window.scrollX+70, Math.min(x, window.scrollX+window.innerWidth-70));
+    selTools.style.left=x+"px";
     selTools.style.top=(window.scrollY+rect.top)+"px";
     selTools.classList.add("show");
   }
@@ -471,10 +588,14 @@
   document.addEventListener("touchend", function(){ setTimeout(onSelect,10); });
   selTools.addEventListener("mousedown", function(e){ e.preventDefault(); });
   function consumeSel(){ var p=pendingSel?pendingSel.p:null, q=pendingSel?pendingSel.quote:""; selTools.classList.remove("show"); if(window.getSelection) window.getSelection().removeAllRanges(); return {p:p,q:q}; }
+  document.getElementById("btnAddNote").innerHTML=svg("note")+"<span>Note</span>";
+  document.getElementById("btnAddEdit").innerHTML=svg("pen")+"<span>Edit</span>";
+  document.getElementById("btnAddBookmark").innerHTML=svg("bookmark")+"<span>Mark</span>";
   document.getElementById("btnAddNote").addEventListener("click", function(){ var c=consumeSel(); if(c.p) openComposer(c.p, c.q); });
   document.getElementById("btnAddEdit").addEventListener("click", function(){ var c=consumeSel(); if(c.p) openEditor(c.p); });
+  document.getElementById("btnAddBookmark").addEventListener("click", function(){ var c=consumeSel(); if(c.p){ var pos=posOfParagraph(c.p); savePos(KEY_BOOKMARK,pos); if(SYNC.pushBookmark) SYNC.pushBookmark(pos); buildBookmarkRow(); toast("Bookmarked this passage"); } });
 
-  /* ---------- export ---------- */
+  /* ---------- export (byte-for-byte identical output) ---------- */
   function chapIndex(){ var order={}; chapters.forEach(function(c,i){ order[c.title]=i; }); return order; }
   function bySortedChap(items){
     var order=chapIndex();
@@ -524,6 +645,8 @@
     var a=document.createElement("a"); a.href=url; a.download=name; document.body.appendChild(a); a.click();
     setTimeout(function(){ document.body.removeChild(a); URL.revokeObjectURL(url); },0);
   }
+  document.getElementById("btnCopy").innerHTML=svg("copy")+"Copy for Claude";
+  document.getElementById("btnDownload").innerHTML=svg("download")+"Download .md";
   document.getElementById("btnCopy").addEventListener("click", function(){
     var md=exportMarkdown(); if(!md){ toast("No open feedback to copy"); return; }
     if(navigator.clipboard&&navigator.clipboard.writeText){
@@ -552,9 +675,9 @@
   });
   updateSyncUI();
 
-  /* ---------- notes list ---------- */
+  /* ---------- feedback lists (unchanged logic) ---------- */
   function goToItem(chap,s){
-    closeDrawers();
+    closeAll();
     var p=findParagraph(chap,s); if(p){ p.scrollIntoView({block:"center"}); return; }
     for(var i=0;i<chapters.length;i++){ if(chapters[i].title===chap){ chapters[i].el.scrollIntoView({block:"start"}); return; } }
   }
@@ -565,7 +688,7 @@
     var all=getNotes(), active=[], resolved=[];
     all.forEach(function(n){ (n.resolved?resolved:active).push(n); });
     notesList.innerHTML="";
-    if(!active.length&&!resolved.length){ notesList.innerHTML="<div class=\"empty\">No notes yet.<br><br>Select any passage while reading and tap <b>💬 Note</b> to leave feedback here. Then use <b>Copy for Claude</b>, or turn on sync.</div>"; return; }
+    if(!active.length&&!resolved.length){ notesList.innerHTML="<div class=\"empty\">No notes yet.<br><br>Select any passage while reading in Review mode and tap <b>Note</b> to leave feedback here. Then use <b>Copy for Claude</b>, or turn on sync.</div>"; return; }
     bySortedChap(active).forEach(function(n){
       var div=document.createElement("div"); div.className="noteItem";
       div.innerHTML=noteBody(n,160)+"<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"res\">Resolve</a><a class=\"del\">Delete</a></div>";
@@ -590,7 +713,7 @@
     var all=getRevs(), active=[], resolved=[];
     all.forEach(function(r){ (r.resolved?resolved:active).push(r); });
     editsList.innerHTML="";
-    if(!active.length&&!resolved.length){ editsList.innerHTML="<div class=\"empty\">No tracked changes yet.<br><br>Select any passage, tap <b>✏️ Edit</b>, and rewrite it (or clear it to cut the passage). Applied edits are detected against the live manuscript and move to <b>Resolved</b> on their own.</div>"; return; }
+    if(!active.length&&!resolved.length){ editsList.innerHTML="<div class=\"empty\">No tracked changes yet.<br><br>In Review mode, select any passage, tap <b>Edit</b>, and rewrite it (or clear it to cut the passage). Applied edits are detected against the live manuscript and move to <b>Resolved</b> on their own.</div>"; return; }
     bySortedChap(active).forEach(function(r){
       var cut=!(r.revised&&r.revised.trim());
       var div=document.createElement("div"); div.className="revItem";
@@ -599,7 +722,7 @@
         "<div class=\"diff\">"+diffHTML(r.original, r.revised)+"</div>"+
         "<div class=\"acts\"><a class=\"go\">Go to</a><a class=\"edit\">Edit</a><a class=\"res\">Resolve</a><a class=\"del\">Revert</a></div>";
       div.querySelector(".go").addEventListener("click", function(){ goToItem(r.chap,r.snip); });
-      div.querySelector(".edit").addEventListener("click", function(){ var p=findParagraph(r.chap,r.snip); closeDrawers(); if(p){ p.scrollIntoView({block:"center"}); setTimeout(function(){ openEditor(p); },260); } });
+      div.querySelector(".edit").addEventListener("click", function(){ var p=findParagraph(r.chap,r.snip); closeAll(); if(p){ p.scrollIntoView({block:"center"}); setTimeout(function(){ openEditor(p); },260); } });
       div.querySelector(".res").addEventListener("click", function(){ setRevResolved(r.chap,r.snip,true,"manual"); decorate(); buildEditsList(); toast("Change resolved"); });
       div.querySelector(".del").addEventListener("click", function(){ deleteRev(r.chap,r.snip); decorate(); buildEditsList(); });
       editsList.appendChild(div);
@@ -625,18 +748,29 @@
     return null;
   }
 
-  /* ---------- TOC + bookmark + progress ---------- */
+  /* ---------- contents + bookmark + progress ---------- */
   function buildToc(){
     tocNav.innerHTML="";
     chapters.forEach(function(c){
       var a=document.createElement("a"); a.href="#"+c.id; a.dataset.id=c.id;
       var t=c.title.replace(/^Chapter\s+[^:]*:\s*/i,"");
       var label=c.title.match(/^Prologue/i)?c.title:(c.title.match(/^Chapter\s+([^:]*)/i)?("Ch "+RegExp.$1.trim()+(t?": "+t:"")):c.title);
-      a.textContent=label; a.addEventListener("click", closeDrawers); tocNav.appendChild(a);
+      a.textContent=label; a.addEventListener("click", closeAll); tocNav.appendChild(a);
     });
+    buildBookmarkRow();
+  }
+  function buildBookmarkRow(){
+    var setBtn=document.getElementById("bmSet"), goBtn=document.getElementById("bmGo");
+    if(!setBtn||!goBtn) return;
+    setBtn.innerHTML=svg("bookmark")+"<span>Bookmark this spot</span>";
     var bm=loadPos(KEY_BOOKMARK);
-    if(bm){ var w=document.createElement("div"); w.className="bm"; var a=document.createElement("a"); a.href="#"; a.textContent="🔖 Go to your bookmark";
-      a.addEventListener("click", function(e){ e.preventDefault(); gotoPos(bm); closeDrawers(); }); w.appendChild(a); tocNav.appendChild(w); }
+    goBtn.innerHTML=svg("arrowRight")+"<span>"+(bm?"Go to your bookmark":"No bookmark yet")+"</span>";
+    goBtn.disabled=!bm;
+  }
+  function posOfParagraph(p){
+    var el=p; while(el&&!(el.classList&&el.classList.contains("chapter"))) el=el.parentElement;
+    if(!el) return currentPos();
+    return { id: el.id, offset: Math.round(p.offsetTop - el.offsetTop) };
   }
   function currentPos(){
     var y=window.scrollY+4, chosen=chapters.length?chapters[0]:null;
@@ -648,12 +782,24 @@
   function savePos(k,p){ try{ localStorage.setItem(k,JSON.stringify(p)); }catch(e){} }
   function loadPos(k){ try{ var v=localStorage.getItem(k); return v?JSON.parse(v):null; }catch(e){ return null; } }
 
-  var ticking=false;
+  function layoutTicks(){
+    ticksEl.innerHTML="";
+    var full=document.documentElement.scrollHeight; if(full<=0) return;
+    chapters.forEach(function(c){
+      var frac=Math.min(1,Math.max(0,c.el.offsetTop/full));
+      var t=document.createElement("i"); t.style.left=(frac*100)+"%"; ticksEl.appendChild(t);
+    });
+  }
+
+  var ticking=false, miniFill=document.getElementById("miniFill"), bookPct=document.getElementById("bookPct");
   function onScroll(){
     if(ticking) return; ticking=true;
     requestAnimationFrame(function(){
       var h=document.documentElement.scrollHeight-window.innerHeight;
-      progressEl.style.width=(h>0?(window.scrollY/h*100):0)+"%";
+      var pct=h>0?(window.scrollY/h*100):0;
+      progressEl.style.width=pct+"%";
+      if(miniFill) miniFill.style.width=pct+"%";
+      if(bookPct) bookPct.textContent=Math.round(pct);
       var pos=currentPos();
       tocNav.querySelectorAll("a[data-id]").forEach(function(l){ l.classList.toggle("active", l.dataset.id===pos.id); });
       clearTimeout(onScroll._t); onScroll._t=setTimeout(function(){ savePos(KEY_PROGRESS,pos); },400);
@@ -661,13 +807,34 @@
     });
   }
 
-  /* ---------- drawers ---------- */
-  var toc=document.getElementById("toc"), notes=document.getElementById("notes"), scrim=document.getElementById("scrim");
-  function openDrawer(d){ closeDrawers(); d.classList.add("open"); scrim.classList.add("open"); }
-  function closeDrawers(){ toc.classList.remove("open"); notes.classList.remove("open"); scrim.classList.remove("open"); }
-  document.getElementById("btnToc").addEventListener("click", function(){ toc.classList.contains("open")?closeDrawers():openDrawer(toc); });
-  document.getElementById("btnNotes").addEventListener("click", function(){ if(notes.classList.contains("open")) closeDrawers(); else { buildNotesList(); buildEditsList(); openDrawer(notes); } });
-  scrim.addEventListener("click", closeDrawers);
+  /* ---------- shell: drawer, settings, mode, keyboard ---------- */
+  var drawer=document.getElementById("drawer"), settings=document.getElementById("settings"), scrim=document.getElementById("scrim");
+  function openDrawer(){ closeAll(); if(mode==="review"){ buildNotesList(); buildEditsList(); } drawer.classList.add("open"); scrim.classList.add("open"); }
+  function openSettings(){ closeAll(); settings.classList.add("open"); scrim.classList.add("open"); }
+  function closeAll(){ drawer.classList.remove("open"); settings.classList.remove("open"); scrim.classList.remove("open"); closeComposers(); selTools.classList.remove("show"); }
+  document.getElementById("btnMenu").innerHTML=svg("menu");
+  document.getElementById("btnMenu").appendChild(noteCount);
+  updateCount();
+  document.getElementById("btnSettings").innerHTML=svg("settings");
+  document.getElementById("btnMenu").addEventListener("click", function(){ drawer.classList.contains("open")?closeAll():openDrawer(); });
+  document.getElementById("btnSettings").addEventListener("click", function(){ settings.classList.contains("open")?closeAll():openSettings(); });
+  scrim.addEventListener("click", closeAll);
+
+  document.getElementById("bmSet").addEventListener("click", function(){ var bm=currentPos(); savePos(KEY_BOOKMARK,bm); if(SYNC.pushBookmark) SYNC.pushBookmark(bm); buildBookmarkRow(); toast("Bookmarked this spot"); });
+  document.getElementById("bmGo").addEventListener("click", function(){ var bm=loadPos(KEY_BOOKMARK); if(bm){ closeAll(); gotoPos(bm); toast("Jumped to your bookmark"); } });
+
+  var btnMode=document.getElementById("btnMode");
+  function applyMode(m){
+    mode=(m==="read")?"read":"review";
+    document.documentElement.setAttribute("data-mode", mode);
+    try{ localStorage.setItem(KEY_MODE, mode); }catch(e){}
+    if(mode==="read"){ btnMode.innerHTML=svg("book")+"<span>Read</span>"; btnMode.setAttribute("aria-label","Reading mode. Switch to review mode."); }
+    else { btnMode.innerHTML=svg("pen")+"<span>Review</span>"; btnMode.setAttribute("aria-label","Review mode. Switch to reading mode."); }
+    if(mode==="read"){ closeComposers(); selTools.classList.remove("show"); }
+    if(chapters.length) decorate();
+  }
+  btnMode.addEventListener("click", function(){ applyMode(mode==="read"?"review":"read"); toast(mode==="read"?"Reading mode":"Review mode"); });
+  applyMode(mode);
 
   /* feedback tabs */
   var tabNotes=document.getElementById("tabNotes"), tabEdits=document.getElementById("tabEdits");
@@ -679,22 +846,40 @@
   tabNotes.addEventListener("click", function(){ showPane("notes"); });
   tabEdits.addEventListener("click", function(){ showPane("edits"); });
 
-  document.getElementById("btnMark").addEventListener("click", function(){ var bm=currentPos(); savePos(KEY_BOOKMARK,bm); if(SYNC.pushBookmark) SYNC.pushBookmark(bm); buildToc(); toast("Bookmarked this spot"); });
-  document.getElementById("btnGoto").addEventListener("click", function(){ var bm=loadPos(KEY_BOOKMARK); if(bm){ gotoPos(bm); toast("Jumped to your bookmark"); } else toast("No bookmark yet; tap the ribbon to set one"); });
-
+  /* settings: font size + theme */
   var fs=parseInt(loadPos(KEY_FS)||0,10)||20;
   function applyFs(){ document.body.style.setProperty("--fs",fs+"px"); }
   applyFs();
-  document.getElementById("btnBigger").addEventListener("click", function(){ fs=Math.min(28,fs+1); applyFs(); savePos(KEY_FS,fs); });
-  document.getElementById("btnSmaller").addEventListener("click", function(){ fs=Math.max(15,fs-1); applyFs(); savePos(KEY_FS,fs); });
+  document.getElementById("btnSmaller").innerHTML=svg("aDown");
+  document.getElementById("btnBigger").innerHTML=svg("aUp");
+  document.getElementById("btnBigger").addEventListener("click", function(){ fs=Math.min(28,fs+1); applyFs(); savePos(KEY_FS,fs); layoutTicks(); });
+  document.getElementById("btnSmaller").addEventListener("click", function(){ fs=Math.max(15,fs-1); applyFs(); savePos(KEY_FS,fs); layoutTicks(); });
 
   var theme=localStorage.getItem(KEY_THEME)||"auto";
-  function applyTheme(){ if(theme==="auto") document.documentElement.removeAttribute("data-theme"); else document.documentElement.setAttribute("data-theme",theme); }
+  function applyTheme(){
+    if(theme==="auto") document.documentElement.removeAttribute("data-theme"); else document.documentElement.setAttribute("data-theme",theme);
+    Array.prototype.forEach.call(document.querySelectorAll("[data-theme-set]"), function(b){ b.classList.toggle("active", b.getAttribute("data-theme-set")===theme); });
+  }
+  document.querySelector('[data-theme-set="light"]').innerHTML=svg("sun","sm");
+  document.querySelector('[data-theme-set="dark"]').innerHTML=svg("moon","sm");
+  Array.prototype.forEach.call(document.querySelectorAll("[data-theme-set]"), function(b){
+    b.addEventListener("click", function(){ theme=b.getAttribute("data-theme-set"); localStorage.setItem(KEY_THEME,theme); applyTheme(); });
+  });
   applyTheme();
-  document.getElementById("btnTheme").addEventListener("click", function(){ theme=theme==="auto"?"light":theme==="light"?"dark":"auto"; localStorage.setItem(KEY_THEME,theme); applyTheme(); toast("Theme: "+theme); });
+
+  /* keyboard: left/right = chapters, Escape = close */
+  function currentChapterIndex(){ var pos=currentPos(); for(var i=0;i<chapters.length;i++){ if(chapters[i].id===pos.id) return i; } return 0; }
+  function gotoChapter(i){ if(i<0||i>=chapters.length) return; closeAll(); chapters[i].el.scrollIntoView({block:"start"}); }
+  document.addEventListener("keydown", function(e){
+    var t=e.target;
+    if(t&&(t.tagName==="TEXTAREA"||t.tagName==="INPUT"||t.isContentEditable)){ if(e.key==="Escape") t.blur(); return; }
+    if(e.key==="Escape"){ closeAll(); return; }
+    if(e.key==="ArrowRight"){ gotoChapter(currentChapterIndex()+1); }
+    else if(e.key==="ArrowLeft"){ gotoChapter(currentChapterIndex()-1); }
+  });
 
   window.addEventListener("scroll", onScroll, {passive:true});
-  window.addEventListener("resize", onScroll);
+  window.addEventListener("resize", function(){ onScroll(); layoutTicks(); });
 
   fetchText(MANIFEST).then(function(txt){
     var files=JSON.parse(txt);
@@ -702,7 +887,7 @@
   }).then(function(texts){
     render(texts);
     if(location.hash&&document.getElementById(location.hash.slice(1))) document.getElementById(location.hash.slice(1)).scrollIntoView();
-    else { var p=loadPos(KEY_PROGRESS); if(p) setTimeout(function(){ gotoPos(p); },30); }
+    else { var p=loadPos(KEY_PROGRESS); if(p) setTimeout(function(){ gotoPos(p); layoutTicks(); },30); }
     onScroll();
     SYNC.init();
   }).catch(function(err){
