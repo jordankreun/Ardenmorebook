@@ -72,6 +72,10 @@ something, unnamed, do not preempt Brenna); Soren laid his bare hand flat on a c
 (Reader-note pass 2026-07-05: climb ~30-min not "long"; early-spring cold grounded; crown moment
 de-epiphanied; warning = superstition/challenge; bounds walk moved to NEXT DAY; land multi-owner;
 tracked changes "It is a perfectly fine hill... I would build on it" + "woodland" not "strip".)
+(Feedback-engine whole-book pass 2026-07-06: cut the mid-sentence editorializing parenthetical
+"(and I set this down plainly, because it is the heart of the whole matter)" on the crown's
+"I did not want to leave" beat, per the aside rule against telling the reader how to feel; the
+surrounding lines already carry the weight.)
 
 [03] Under Canvas — Over a fortnight the purchase completes (Penworth's agent; Cael's quiet
 handover) while Emlyn lodges at Lira's and the village's welcome stays "the warmth of a signed
