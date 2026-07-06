@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-6 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
+5 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Chapter Two: Walking the Bounds
 
@@ -23,7 +23,3 @@ Have it heard as more of a challenge. Something not taken too seriously as more 
 > Come and see what your man's money has actually gone and bought you. It's more than you think."
 
 Make this be the next day meeting
-
-> And the woodland strip along the low road, and the meadow off the northeast shoulder, and the good plough-land down in the bottoms that'll bring you a rent once you've found the right families to put on it, and a stake in the mill-pond water besides. That agent of his s
-
-Make more expansive and not solely owned by cael. Some owned by others and not used and some possibly owned by town and unclaimed
