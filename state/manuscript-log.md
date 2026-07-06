@@ -132,6 +132,17 @@ practical/Mancour chapter; its hum lyricism is earned). Counts after: Ch1 3975, 
 the re-voiced Ch1–3 and the hum scene as the model (~two-thirds Mancour-plain, one-third earned
 lyric) added to voice-rothfuss-mancour.md, SESSION-LOCKED #8, and the feedback-engine Mancour rule.
 
+VOICE CLARIFICATION — ONE BLENDED VOICE (2026-07-06, supersedes the "split the difference /
+two-thirds-one-third" framing above): the author clarified it should be **one voice throughout, a
+blend — Terry Mancour on the surface with a constant Rothfuss undertone in every paragraph**, NOT
+plain-Mancour that switches to lyric at thresholds. Fixed the FRAMING (this was the real error):
+SESSION-LOCKED #8, the VOICE RE-WEIGHT + CALIBRATION REFERENCE blocks, the style-guide register
+paragraph, the feedback-engine check, and the skill description all rewritten to "Mancour surface +
+Rothfuss undertone, fused, everyday narration never flat, threshold = same voice deepened not
+switched." Restored two lines I had over-flattened last pass so the everyday narration carries the
+undertone: the sky ("a pale sky the scrubbed blue of fresh-washed linen") and Lira's regard ("she
+kept her regard the way she kept her good glasses"). Ch1 count ~3985.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 

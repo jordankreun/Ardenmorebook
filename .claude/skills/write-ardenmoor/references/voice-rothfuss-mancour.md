@@ -18,11 +18,15 @@ voice like this:
   direct, dry-humored, a little self-deprecating, comfortable in the genre. He tells you what a
   thing cost, how it was done, and what he thought of it, in plain words. That is the default
   register now, not the exception.
-- **Rothfuss-lyric is now a spare grace note, not the house style.** The "sentence that opens into
-  music" happens *rarely* — a real threshold or grief, once every few chapters, not once or twice
-  a chapter. Ornate similes, precious metaphors ("grief wearing another coat," "lets out the waist
-  of a coat she means to keep"), and self-admiring beauty are trimmed toward plain, wry, concrete
-  statement. When in doubt, say it straight, and let the dry wit carry it.
+- **Rothfuss is the UNDERTONE, present in every paragraph — not a grace note saved for big
+  moments.** This is ONE blended voice, not two registers taken in turns. Mancour is the surface
+  everywhere (wry, plain, practical); Rothfuss is the warmth underneath everywhere (the intimate
+  teller, the one well-made concrete image, a quiet music beneath the plainness). Fuse them; never
+  alternate. Everyday narration is therefore never flat mechanism: it carries the undertone. What
+  gets cut is only *self-admiring* ornament and precious over-writing, never the quiet warmth or the
+  concrete image. Trim "a sky the pale scrubbed blue of something just laundered" to a cleaner line,
+  but keep an image ("a pale sky the scrubbed blue of fresh-washed linen"); do not strip it to a
+  bare adjective.
 - **Mancour's practical pleasure moves up front:** the nuts and bolts of the trade, the logistics,
   the money, the building, the competence — rendered with relish and humor, not veiled in lyricism.
   A paragraph about how something was done is welcome and does not need a poetic finish.
@@ -35,22 +39,20 @@ voice like this:
   comma splices. A long cumulative sentence is allowed occasionally, on purpose, for rhythm, but it
   is now the exception, not the reflex.
 
-Net effect: **Le Guin floor + Mancour teller, with Rothfuss as an occasional grace note.** If a
-sentence is admiring its own beauty for its own sake, plain it down and let the practical, wry
-intelligence be the pleasure.
+Net effect: **ONE voice throughout — Le Guin restraint floor, Mancour surface, Rothfuss undertone,
+blended in every paragraph.** Not an alternation, not a ratio to measure: the two are fused. If a
+sentence is admiring its own beauty for its own sake, plain it down; but keep the quiet warmth and
+the one good concrete image that mark the teller. A flat, undertone-less paragraph is as wrong as a
+purple one.
 
-**CALIBRATION REFERENCE (this is the exact target — "split the difference," not flattened).** The
-re-voiced **Chapters 1–3 (2026-07-06)** are the reference for how far to lean. Match their balance:
-- Everyday narration, description, and reflection are **plain, wry, and concrete.** Incidental
-  ornament is trimmed (e.g. "a sky the pale scrubbed blue of something just laundered" → "a pale,
-  scrubbed-blue sky"; "grief wearing another coat" → "grief, come at me from a new direction";
-  "reasons that belong further on in this account than here" → "reasons I will come to").
-- **Earned lyricism survives, and is not to be stripped.** At a genuine threshold or grief, the
-  prose may still lengthen and sing. The **Chapter 3 hum scene is the model**: keep that register
-  where the moment earns it. Dry wit that is already plain (a rooster "with strong feelings and no
-  sense of pitch"; being "outlived by your own tools") also stays.
-- The dial is roughly **two-thirds Mancour-plain, one-third reserved for earned lyric moments** —
-  do not measure it, feel it against those three chapters. Neither ornate throughout nor flat.
+**CALIBRATION REFERENCE.** The re-voiced **Chapters 1–3** are the reference. Read them as a *single
+continuous voice*: plain, wry, and practical on the surface, warm and closely observed underneath,
+the same in the kettle-and-paperwork paragraphs as in the hum scene. Everyday lines carry the
+undertone ("a pale sky the scrubbed blue of fresh-washed linen"; "she kept her regard the way she
+kept her good glasses"; a rooster "with strong feelings and no sense of pitch"). At a real threshold
+the **Ch3 hum scene is the model**: the *same* voice simply **deepens**, the undertone rising nearer
+the surface, never switching to a different register. Do not compartmentalize plain-here /
+lyric-there. Carry the blend evenly, start to finish.
 
 ---
 

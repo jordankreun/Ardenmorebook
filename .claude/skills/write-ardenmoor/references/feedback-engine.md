@@ -136,16 +136,15 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 - **[CHECK] The fixed voice holds:** Le Guin's restraint floor; first person, past tense; longevity
   implied, never stated. No modern idiom, no techspeak, no fake-archaic incantation. *Source: "very
   kingkiller"; the voice note.*
-- **[CRAFT] Register leans MANCOUR, not Rothfuss-lyric (2026-07-06 re-weight).** The teller is wry,
-  plainspoken, competent-professional, direct, glad of the practical craft and commerce. Everyday
-  narration/description/reflection is plain and concrete; **lyricism is reserved for earned
-  thresholds** (a real grief or wonder). Flag and plain down incidental ornate similes and precious
-  metaphors ("a sky the pale scrubbed blue of something just laundered" → "a pale, scrubbed-blue
-  sky") and any sentence admiring its own beauty for its own sake, but **do NOT strip the earned
-  lyric moments** (the Ch3 hum scene is the model of what stays). Calibrate against the re-voiced
-  Chapters 1–3: roughly two-thirds Mancour-plain, one-third earned lyric. *Source: "shift the voice
-  more towards Terry Mancour" + "split the difference and make the skill match the result";
-  session-lock #8.*
+- **[CRAFT] ONE blended voice — Mancour surface, Rothfuss undertone throughout (not
+  compartmentalized).** The teller is wry, plainspoken, competent-professional, and direct on the
+  surface of EVERY paragraph, with a constant Rothfuss undertone under EVERY paragraph (warmth, the
+  one well-made concrete image, a quiet music). Flag two opposite failures: (a) a paragraph gone
+  **purple / self-admiring** — plain the ornament down; and (b) a paragraph gone **flat mechanism**,
+  stripped of warmth or image — put the undertone back. A threshold (the Ch3 hum scene) is the same
+  voice *deepened*, never a switch. Do not compartmentalize plain-here / lyric-there; calibrate
+  against the re-voiced Chapters 1–3 read as one continuous voice. *Source: "one voice throughout, a
+  blend of the two, Terry Mancour with an undertone of Rothfuss throughout"; session-lock #8.*
 - **[CRAFT] Emotional registers are precise, not generic.** Characters are their exact temperature:
   Lira measured and reserved, giving nothing unpaid-for — not warm, not frosty. Never name an
   emotion the reader can infer from behavior; never explain a silence. *Source: "make Lira less
