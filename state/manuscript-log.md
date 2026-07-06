@@ -143,6 +143,15 @@ switched." Restored two lines I had over-flattened last pass so the everyday nar
 undertone: the sky ("a pale sky the scrubbed blue of fresh-washed linen") and Lira's regard ("she
 kept her regard the way she kept her good glasses"). Ch1 count ~3985.
 
+FULL REWRITE IN THE BLENDED VOICE (2026-07-06): at the author's request ("do a whole rewrite in
+that tone"), rewrote Prologue + Ch1–3 top to bottom in the single settled voice (Mancour surface,
+Rothfuss undertone throughout, Le Guin floor). All beats, canon, character dialogue, and locked
+wordings preserved (verified: "It is a perfectly fine hill... I would build on it"; "for reasons I
+will come to"; hum specifics [below sound, through the bone, its own two hours]; two-day Ch2
+timeline; multi-owner land [Harrow, Tolls]; chest; "the edge of the woodland"). No em dashes.
+Counts: Prologue 459, Ch1 3941, Ch2 4258, Ch3 3550 (all above floor). The rewrite consolidated the
+several prior re-voicing passes into one consistent draft rather than transforming the content.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
