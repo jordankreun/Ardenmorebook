@@ -90,7 +90,7 @@ her tavern scenes from mere frostiness into gentle suspense without ever raising
 - **Brenna** — herbalist; inheritor of her grandmother's forty years of listening to the hill and the old oak. Arc: from professional courtesy to true partnership (the greenhouse). Custodian of the **keeper plant**, which grew three new leaves the week Opus arrived.
 - **Lira** — tavern keeper; the village's last holdout, and (reader knows early, Opus late) an informal Conclave informant. Arc: the slowest thaw in the book, cracked open by a road.
 - **Cael** — village elder who sold Opus the hill his own father failed to build on forty years ago.
-- **Penworth** — Opus's dry, immaculate man of affairs; appears via visits and correspondence; engine of the outside-world subplot. His daughter **Mira** is seeded for Book Two.
+- **Penworth** — Opus's dry, immaculate man of affairs; appears via visits and correspondence; engine of the outside-world subplot. His daughter **Nerys** is seeded for Book Two (renamed from "Mira" to avoid the clash with Soren's mother Mira).
 - Supporting: **Edran** (quarry foreman), **Maret** (miller), **Kellard** (supply yard), **Essa** (furniture maker), **Cecily** (independent investigator, offstage, letters only), **Drace** (Conclave official, offstage shadow).
 
 ---
@@ -243,7 +243,7 @@ The ending braids three payoffs so no single one carries the whole weight:
 
 ## BOOK TWO SETUP (seeded, not opened)
 
-Spring: the journey to the city to finally clear and complete the sale of the never-lived-in wedding-gift **river house** (Arielle's rooms, the third spellbook, the unsigned hand) — the grief-and-money thread from Book One closing together; Penworth returns bringing Mira, a full practitioner with her late mother's perceptive gift; Drace's anticipated visit; and beneath the tower, the question the whole series now orbits — what do you do with a door the ground itself has been asking you to open? The village threads continue: the road changes commerce; Lira's letters change tenor; Soren nears the age where informal must become formal; Ren's craft deepens.
+Spring: the journey to the city to finally clear and complete the sale of the never-lived-in wedding-gift **river house** (Arielle's rooms, the third spellbook, the unsigned hand) — the grief-and-money thread from Book One closing together; Penworth returns bringing Nerys, a full practitioner with her late mother's perceptive gift; Drace's anticipated visit; and beneath the tower, the question the whole series now orbits — what do you do with a door the ground itself has been asking you to open? The village threads continue: the road changes commerce; Lira's letters change tenor; Soren nears the age where informal must become formal; Ren's craft deepens.
 
 ---
 

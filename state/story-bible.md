@@ -18,10 +18,9 @@
   II. The Study is built (Ch 5); the LUMEN is bound (Ch 6); the domestic rhythm and Soren's lifelong
   hearing established (Ch 7); the Series lamp / commerce and the shelf-gap grief object (Ch 8).
 - Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2, Ch 5).
-- ⚠️ **NAMING COLLISION (resolve before Book Two / Ch 8):** **Mira** is now on the page as **Cael's
-  daughter / Soren's mother** (Ch 7, per the ages ledger). The bible ALSO seeds *Penworth's*
-  daughter as "Mira" (Cast + pending payoffs). Two Miras will confuse. **Rename Penworth's daughter**
-  (she has not appeared yet) — Soren's-mother Mira is now locked to the page.
+- ✅ **NAMING COLLISION RESOLVED (2026-07-11):** **Mira** is the page name for **Cael's daughter /
+  Soren's mother** (Ch 7, locked). **Penworth's daughter was renamed Mira → NERYS** (she has not
+  appeared yet; Book Two seed). No two Miras.
 
 ## SESSION-LOCKED AUTHOR DECISIONS (binding; supersede references where they differ)
 
@@ -680,7 +679,8 @@ letters only — engaged to trace the three.
 - **Penworth** — man of affairs; dry, formal, impeccable logistics; letters are miniature essays
   of understatement; **~Emlyn's age**, has run Emlyn's affairs **~a decade** (NOT "old," NOT
   "thirty years with him"); a minor magical talent / slightly long-lived (kept indirect);
-  daughter **Mira** seeded for Book Two.
+  daughter **Nerys** seeded for Book Two (a full practitioner with her late mother's perceptive
+  gift; renamed from "Mira" to avoid the clash with Soren's mother Mira).
 - **Edran** (quarry), **Maret** (mill), **Kellard** (supply yard), **Essa** (furniture).
 
 ---
@@ -785,7 +785,7 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 - Lira's letters (seed/reader Ch 12) → tenor changes after the road (Ch 24, optional confession).
 - The keeper plant's three leaves (seed Ch 9) → turns toward the hill in the greenhouse (Ch 24).
 - The predawn pulse becoming "almost a word" (seed Ch 14/20) → nearly resolves at the chest (Ch 28).
-- Mira (seed via Penworth, Ch 8) → arrives Book Two.
+- Nerys (Penworth's daughter; seeded for Book Two; renamed from "Mira") → arrives Book Two.
 
 ---
 
