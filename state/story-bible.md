@@ -455,6 +455,54 @@ if it needs a new one, add it here.
   that I was not the one teaching in that house, and had not been from the start."
   → **Soren's hearing is now the deepest/oldest on the page** (older than Emlyn's; native, lifelong).
 
+## ESTABLISHED ON THE PAGE (Ch 8 — "The Lamp Business")
+
+- **THE LUMEN SERIES IS INVENTED (commerce becomes a going concern).** Problem: the original lumen
+  drinks the **hill's song** (only under Emlyn's acre) → useless off the crown. Insight (rendered,
+  not lectured): the hill's song is ALIVE and must be *asked*; ordinary daylight is NOT alive, it
+  "spills in and goes to waste all day," free for the taking. The **Series lamp** catches and
+  **holds** ordinary daylight through a north window and gives it back after dark — burnable
+  anywhere a window gets a few hours of day. Matches [CANON]: "LUMEN Series drinks ambient light."
+  Details on the page: solved the "holding" by the same never-grasping manners the hill taught him;
+  **color = plain beeswax gold** (vs the hill-lumen's deep honey amber); eats nothing, can't catch
+  fire or gutter, outlasts its buyer; a **mark set on the brass collar** to tell a true one from a
+  copy; **Kellard handles credit + carriage**; sold fairly, made steadily by one man.
+- **PENWORTH on the page (correspondence):** dry essayist "saying a great deal while appearing to
+  say the minimum"; ~**a decade** together (consistent). Squares the whole business. AND opens the
+  undercurrent: his **published papers cover only "the safe third"** of what he knows; the
+  unpublished rest is protected by nothing but his own head and **the one full written account,
+  which is NOT in his keeping — it is in the city, in "her rooms," among the books he never sent
+  for.** Penworth "names the largest closed door of his life by pretending to talk about lamps," and
+  hopes that "some spring" Emlyn will let him help retrieve the things left behind. (This is the
+  outline's Ch 8 beat: patents cover the safe ~30%; the rest lives in memory + the third book in her
+  city rooms.)
+- **⚠️ FIRST QUIET MENTION OF THE LOST PARTNER — STILL UNNAMED.** "her rooms," "her" — the widower
+  context is now tied to a specific place (a set of rooms in the city he cannot enter). Arielle is
+  still NOT named on the page. Keep it quiet; grief RESOLUTION (letter read → chest opened) stays
+  reserved for the finale (outline Ch 27–28).
+- **GRIEF OBJECT LANDED: THE SHELF-GAP.** On his self-built oak shelves, the one gap (between "a fat
+  green compendium of grounds" and "a slim black book of anchorings") is where **the third
+  book / full account** should stand — the book left in her city rooms on purpose. He hides the gap
+  with "a middling atlas I did not much want" so he won't see its shape crossing the room ("a poor
+  trick… the only kind of courage I had that winter"). (This is canon grief-object #4, the spellbook
+  shelf-gap; the missing book = the unpublished full account. Consistent with [CANON].)
+- **BRENNA partnership warmed:** he **gives her the first Series lamp** (return of her cuttings-
+  courtesy, explicitly "not a debt" because she weighs debts). Her reply carries her grandmother
+  again: *"the hill gives most to the ones who ask it for least… She'd have liked that you made a
+  lamp that only asks the morning for what it was going to throw away anyhow."* A steady gold light
+  now burns late at the birches-end of the lane; he takes it "for company" (rhymes with the Ch 6
+  close, now "with no doubt in it at all").
+- **ESSA introduced organically:** a **joiner / furniture-maker** with a shop off the square, past
+  fifty, joiner's forearms, **failing eyes** losing her the fine inlay work she lives by. Her
+  oblique ask ("I burned a light a body could see by… not to be had by an ordinary joiner… I only
+  wondered") is the rendered ask that drives the invention; he must tell her no (pre-Series). Named
+  only when he later **sells** her the second Series lamp (a bill, not a gift — a gift "would have
+  sat worse with her"); she finds the join she couldn't see to fix: *"Well. There's the winter's
+  excuse gone."* (Earns her later Ch 15 bedframe delivery; consistent with Cast "Essa (furniture).")
+- **DO NOT PREEMPT:** the three probing correspondents / the unsigned "interior architecture is
+  beautiful" hand (outline Ch 14/26) are NOT mentioned yet — Ch 8 opens only the *existence and
+  location* of the unpublished work, not anyone hunting it.
+
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 
 1. **Lira — RESOLVED:** short but friendly (see session-locked decisions above). Ch 1 revised
@@ -582,9 +630,18 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   building arc (later).
 - Thesis foreshadowed in Emlyn's thought "never once been asked" (Ch 2) → surveyor's marginal
   note found at the first working → earned at the climax.
-- The chest + household goods ARRIVED (Ch 3, "Under Canvas"). Chest now in the crown tent, apart,
-  unopened; awaits the cellar's NE corner once built. The OTHER three grief-objects (mother's
-  letter, callipers/sticking drawer, shelf-gap) still to land once he has furniture/the Study.
+- The chest + household goods ARRIVED (Ch 3, "Under Canvas"). Chest now in the Study's NE corner
+  (Ch 5), unopened; awaits the cellar's NE corner once built. Grief-objects landed so far: the chest
+  (Ch 3/5) and **the spellbook shelf-gap (Ch 8)**. STILL to land: **Arielle's mother's unopened
+  letter** and **the dimensional callipers in the sticking desk drawer** (both want the desk/Study
+  furniture; the callipers seed → opens when the letter is read, outline Ch 27).
+- **The unpublished-papers / third-book-in-her-rooms thread (OPENED Ch 8):** the full account of
+  Emlyn's demiplane work exists in exactly one book, left in her city rooms; the published work is
+  only "the safe third." → the city journey / the untouched rooms (Book Two setup) and the Cecily /
+  unsigned-correspondent hunt (outline Ch 26). Partner still unnamed; do not resolve the grief early.
+- **The Series lamp business (Ch 8):** Kellard carriage/credit, the collar mark, first small run →
+  becomes what Ardenmoor is known for in the wider world; Lira's window lamp is RESERVED for the
+  thaw (outline Ch 24) — do NOT give Lira a Series lamp before then.
 - The hum SURFACED first-hand (Ch 3): dusk-fail + predawn pulses, below sound, felt through bone.
   Emlyn dismissed the "did it wait for me?" reading as fancy ("mostly I believed it") → the
   directed-greeting truth is reserved for Deep Grammar Phase Two (Ch 20) and the twist (Ch 28).

@@ -7,14 +7,21 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–7.
-- Word count so far: ~26,300 / ~70,000 target.
-- **PART I ENDS AFTER CH 7.** Next up is **Interlude I** — the hill feels a weight settle on its
-  crown (see PART BOUNDARIES). Consider writing it before Ch8, or note it as the next beat.
-- Next chapter after the interlude: **Chapter 8** — the outline's "The Lamp Business": word of the
-  lumen spreads and the practice becomes a going commercial concern (Kellard's cold-spot and the
-  candle-kindness are already seeded in Ch7; the "can such a light be had off the hill" question is
-  live from Ch6). Keep Tomas's secret and the two-grandmothers question OPEN.
+- Drafted: Prologue + Chapters 1–8.
+- Word count so far: ~30,300 / ~70,000 target.
+- **PART I ENDS AFTER CH 7 → INTERLUDE I IS STILL PENDING (author decision OPEN).** The hill's-POV
+  interludes are load-bearing frame (outline), but the first-person adaptation is session-lock #6,
+  flagged OPEN. Ch 8 was written to keep momentum with the interlude deferred; a marker sits at the
+  Part I boundary. **Decide the interlude treatment (framed / omitted) before it drifts further.**
+- **⏱ CALENDAR NOTE:** the manuscript has compressed the outline's four seasons. We are now at the
+  **very edge of winter** (Ch 8: "dead of the year," first hard frosts). The outline's Part II
+  (summer) beats are being pulled forward into late autumn / early winter. Book One still ends in
+  the first winter, as the premise requires; the season is just moving faster than the 28-ch plan.
+- Next to write: **Chapter 9** — the outline's "The Listener and the Singer" (Brenna's grandmother's
+  notebooks read: the Singer/hill sings not TO the Listener/oak but to "something not yet arrived";
+  the keeper plant introduced). Emlyn said in Ch 6 he wasn't ready to read the notebooks, so Ch 9
+  needs a reason he opens them now (winter gives him the time; or Brenna brings one up). Keep the
+  two-grandmothers question and Tomas's promise OPEN.
 
 ---
 
@@ -262,6 +269,47 @@ as feeling ("this one's sad") and sorts by an imperceptible quality; **Mira** na
 wash-house Wednesdays); **Soren's 10th birthday** + the folding knife; the practice is a going
 concern (Kellard credit, the cold-spot, the surveyor's set, a warded barn); the village has decided
 Emlyn is a neighbor; grandfather gave Soren the slate (offstage). No em dashes; 3,506 words.
+
+[08] The Lamp Business — Word of the lumen has spread and the practice becomes a real commercial
+concern. The problem: the lumen drinks the **hill's song** (which runs only under Emlyn's acre), so
+it "would sit dark and sullen anywhere but the crown" and cannot be sold for an ordinary house.
+Rendered ask that drives him: **Essa the joiner** (furniture-maker, past fifty, failing eyes) asks
+obliquely at her bench whether the hill-light could be had; he has to tell her no. The **insight**
+(felt, not lectured): the hill's song is ALIVE (must be asked); ordinary daylight is NOT (it spills
+in and wastes all day, free for the taking). So he builds the **LUMEN Series** lamp: catches and
+HOLDS ordinary daylight through a north window and gives it back after dark, burnable anywhere.
+Failures rendered (flares it all at dusk; sours it to a blue "corpse-light") → solved by the same
+"never grasping" manners the hill taught him ("the same manners work on daylight as on grief"). The
+Series' color = plain beeswax gold (vs the hill-lumen's deep honey amber); it eats nothing, can't
+burn a barn, outlasts its buyer. **Penworth correspondence** (dry essayist, ~decade of service):
+approves + squares the whole business (registrations, a **mark on the collar**, Kellard credit &
+carriage, a first small run to trusted hands) — AND drops the undercurrent: his published papers
+cover only "the safe third" of what he knows; the unpublished rest is protected by nothing but his
+own head and **the one full account written down, which is not in his keeping — it is in the city,
+in "her rooms," among the books he has not sent for.** FIRST QUIET MENTION OF THE LOST PARTNER
+(unnamed) + the outside-world thread. **GRIEF OBJECT LANDED: the shelf-gap** — the one book missing
+from his working shelves (between a compendium of grounds and a book of anchorings) is that full
+account, left in her city rooms on purpose; he hides the gap with a "middling atlas" he doesn't
+want ("the only kind of courage I had that winter"). Public/warm counterweight: the **first Series
+lamp he GIVES to Brenna** (return of her cuttings-courtesy, not a debt); her reply: "My grandmother
+wrote that the hill gives most to the ones who ask it for least… She'd have liked that you made a
+lamp that only asks the morning for what it was going to throw away anyhow." A gold star of steady
+light at the birches-end of the lane after the tallow houses go dark; "I took it… for company."
+The **second lamp SOLD to Essa** (a bill, not a gift, because a gift would sit worse with her); she
+finds the join she couldn't see to fix: "Well. There's the winter's excuse gone." CLOSING IMAGE:
+the business will outgrow even the tower's fame (lamps burning forty years in strangers' rooms with
+his mark on the collar); but "that winter it was one lamp on Brenna's sill" and a dry man's letter
+folded in his desk reminding him "a made thing outlives the making, and there were things I had
+made, and left, and not yet found the courage to go back for." NEW FACTS: **LUMEN Series invented**
+(drinks ambient daylight, sellable off the hill; beeswax-gold; collar mark; Kellard carriage) —
+matches canon; **Essa introduced organically** (joiner off the square, failing eyes; named when he
+sells to her; earns her later bedframe delivery); **the unpublished-papers / third-book-in-her-
+rooms thread opened** (still unnamed partner); **shelf-gap grief object landed**; Brenna partnership
+warmed (first Series lamp). No em dashes; 4,047 words. Two feedback-engine judgment calls kept: the
+"daylight as grief" thematic aside (earned voice, not a plot-throughline tell) and the deliberate
+out-of-strict-chronology placement of the Brenna gift (flagged in-voice as the teller arranging his
+account). Do NOT preempt: the three probing correspondents (Ch 14/26) are NOT yet mentioned — only
+the existence/location of the unpublished work.
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):

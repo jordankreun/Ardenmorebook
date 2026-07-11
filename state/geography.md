@@ -141,6 +141,8 @@ what's fixed is which places exist and who holds them.
 | **Brenna's cottage** + walled herb garden | **Brenna** | At the lane's end, by the **birches**; low stone house, drying green in the window. | [PAGE ch1] [CANON: "by the birches"] |
 | **Kellard's yard** (dry-goods store) | **Kellard** | The store that is also "the bank and the post and the parliament of the village"; has a **back storeroom** (flour, salt, good candles) where a wrongness-**cold-spot** had settled over a buried grief until Emlyn talked it out (Ch7). Kellard extends Emlyn **credit against the spring**. | [PAGE ch7] |
 | **The square** | — | Village common; market mornings; the well/pump (village well, distinct from the hill spring). | [OPEN placement] |
+| **Essa's joiner shop** | **Essa** | A furniture-maker's shop **off the square**; fine inlay / true-fitted drawers / small boxes. Essa is past fifty with failing eyes; buys one of the first Series lamps. | [PAGE ch8] |
+| **The wash-house** | shared | Down by the **beck**; Mira works there on Wednesdays (noon to dark). | [PAGE ch7] |
 | **The church / churchyard** | — | Cael's grandmother is "forty years in the churchyard." | [PAGE ch1 (mentioned)] |
 
 **On-page village facts:** riding in, Emlyn passed the smithy (top of street) → Brenna's house →
@@ -252,3 +254,9 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   with a back storeroom where Emlyn talks out a cold-spot; Kellard gives credit against the spring.
   The **wash-house down by the beck** established (Mira's Wednesday work). A **warded barn** and a
   **surveyor's trued instruments** are offstage trade. No new hill geography.
+- **ch8** — **Essa's joiner shop off the square** established (furniture-maker; failing eyes); the
+  **wash-house** row added to the table. The **Series lamp** (drinks ambient daylight, sellable off
+  the hill) enters; **Kellard** now runs the lamp credit + carriage. First Series lamps burn on
+  **Brenna's** sill (gift) and **Essa's** bench (sale). Season = the edge of winter. Confirms the
+  city (unnamed here) as the site of "her rooms" where the unpublished book is left (consistent with
+  Vethmark being the strong-but-OPEN option for Arielle's rooms).
