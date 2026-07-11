@@ -348,6 +348,29 @@ KEPT (they don't invoke Emlyn's personal legend). All 8 chapters still clear the
 dashes. Skill files updated: SESSION-LOCKED #1 & #3, style-guide POV section + interludes, voice guide
 (POV/frame blocks), feedback-engine P5 (new POV check), outline POV & Structure, and this log.
 
+FINANCE & ORIGIN CONSTRAINT (2026-07-11): at the author's request, added a load-bearing economic
+constraint so Emlyn is NOT infinitely rich and cannot just buy everything. New canon (see the
+FINANCES & ORIGINS session-lock in the story bible): **only child; father an architect (owned a
+small firm); Emlyn trained as a draftsman before his talent** (funded his schooling; roots his eye
+for structure). **Two Vethmark homes:** the inherited **family townhouse** (kept; = the "dust-
+sheeted" house of Ch 1) and the grander **marital "river house"** (the untouched "her rooms"),
+which **Penworth forces him to sell** as the primary capital. Purchase is **finite & leveraged**:
+river-house sale (down payment) + a **loan on old licensed patents** + appreciated investments; he
+comes out "with little behind me and a note to answer twice a year," so the **farmland tenancies
+and the practice must make the place pay** (the real engine behind building one room at a time).
+**Married (widower)** locked (resolves the author's "married or engaged"). Talent-slowed aging now
+explains **parents-gone-but-he-looks-young** (offstage). The river-house sale COMPLETES in **spring**
+(grief deferred → finale/Book Two: clear her rooms, retrieve the third spellbook). SEEDED into the
+manuscript: **Ch 1** gained a paragraph (father "drew houses," Emlyn "learned the drawing at his
+elbow," the inherited family house vs the untouched river house, Penworth pressing the sale, the
+money aimed at "a hill"); **Ch 3** gained a paragraph (the purchase finite & leveraged: cheap land,
+sale + patent-loan + grown holdings, "a note to answer twice a year," and the grief-thaw button "for
+the first time in three years, interested"). No existing beat broken (the handshake, the untouched
+"her rooms" in Ch 8, the widower canon all still hold). Both seeded chapters clear the floor (Ch 1
+4171, Ch 3 3813); 0 em dashes. State updated: story-bible (session-lock, ledger, cast, locked-canon,
+pending payoffs), geography (two Vethmark homes + river; finite-purchase note), outline (canon
+appendix + Book Two setup).
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 

@@ -190,20 +190,19 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 ## BEYOND THE VALLEY (offstage; reached only by letter/visitor/road — pure first person)
 
 - **Vethmark** — the city ~**4 days' ride** from the valley; Penworth's base and the seat of
-  banking/credit (Kellard's arrangement runs there); **also Emlyn's own home before Ardenmoor**,
-  where he kept a large, mostly-empty townhouse (many rooms dark and under dust-sheets) and had
-  become a near-recluse. The "city" of the outside-world
-  subplot. [CANON + PAGE ch1]
-- **The city rooms** — Arielle's rooms, holding the third spellbook (the shelf gap), unentered
-  since her death; the destination Book Two aims at. Whether these are in Vethmark (now the
-  strong option, since Emlyn lived there and could not bring himself to her rooms) or a further
-  capital is still **[OPEN]**. [CANON: they exist]
+  banking/credit (Kellard's arrangement runs there). Emlyn's origin and the "city" of the outside-
+  world subplot. Has a **river** (the marital "river house" stands across it). [CANON + PAGE ch1]
+- **Emlyn's TWO Vethmark homes (established Ch 1 seed, 2026-07-11):**
+  - **The family townhouse** — his late father's (an architect); INHERITED; "far more rooms than one
+    man had any use for, most of them dark and under dust-sheets"; he grew up there and wintered
+    there alone as a near-recluse before Ardenmoor. He **KEEPS** it. [PAGE ch1]
+  - **The "river house"** — the grander MARITAL home he bought "in the good years," "tall and bright
+    and a good deal too dear," **across the river**; "not crossed in three years"; = **Arielle's
+    rooms**, holding the third spellbook (the shelf-gap). **Penworth forces its SALE** to fund the
+    hill (Ch 1 + Ch 3 seeds); Emlyn agrees but cannot clear her things → the sale completes / her
+    rooms are cleared in **spring** (finale / Book Two destination). [PAGE ch1, ch3]
 - **Edran's quarry** — supplies building stone; a **day's round trip** by cart; quarry road leads
   out of the village (direction [OPEN]). [CANON / style guide]
-- **Emlyn's home before Ardenmoor** — **Vethmark**: a **large but mostly-empty townhouse**, "far
-  more rooms than one man had any use for, most of them dark and under dust-sheets"; a near-recluse
-  who "passed the whole of the winter shut up" there. Penworth drew him out with the hill. He rode
-  ~**4 days** from Vethmark to the valley. [PAGE ch1]
 
 ---
 
@@ -222,11 +221,11 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 - The inn's name; the village's exact street plan and the placement of square/well/church/
   Kellard's yard relative to each other.
-- The direction and distance to the quarry; the name of the main road and the city that holds
-  Arielle's rooms.
+- The direction and distance to the quarry; the name of the main road. (Arielle's rooms are now
+  RESOLVED: the marital "river house" in **Vethmark**, which is also Emlyn's origin.)
 - The precise line of the future cart-road and its village branch (through the woodland strip).
 - Neighboring farms/holdings; where the goose-woman, the quarrymen, and other villagers live.
-- Emlyn's named point of origin.
+- Vethmark's own layout (the river, the two homes' districts) beyond what Ch 1/3 fixed.
 
 ---
 
@@ -234,7 +233,9 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 - **ch1** — Established: village of Ardenmoor on the beck; the inn (Lira), smithy (Tomas, top of
   street), Brenna's cottage; the approach oak at the view-bend; hill is N & a little E of the
-  village; Maret's mill at the hill-ward edge. Hill still "only a hill."
+  village; Maret's mill at the hill-ward edge. Hill still "only a hill". **(2026-07-11 finance/origin
+  seed):** Vethmark now carries a **river**; Emlyn's **family townhouse** (inherited, father's,
+  kept) and the **marital "river house"** (sold to fund the hill, across the river) established.
 - **ch2** — Established: the crown; the south-face spring; the east green shelf; the NE meadow;
   the leasable plough-land in the bottoms (tenant farmland for rents); the woodland strip + larch
   stand; the mill pond stake; the North Wood + the Old Oak (Listener) seen at distance; Cael's
@@ -246,6 +247,9 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   The **locked chest** now sits inside the crown tent, apart, unopened (awaits the future cellar's
   NE corner). His books + trade instruments are under oilcloth on the crown. The **hum** is felt
   for the first time (dusk + predawn pulses). No new place-names; interior geography unchanged.
+  **(2026-07-11 finance seed):** the purchase is now shown as **finite & leveraged** (the land cheap
+  because worthless-to-others; funded by the river-house sale + a loan on old licensed patents +
+  appreciated investments; "little behind me and a note to answer twice a year").
 - **ch6** — The **LUMEN** is bound and lights the Study; **Brenna's cuttings** on the Study's north
   sill. The **Old Oak is VISITED** for the first time (route: crown → NE meadow → north wood along
   the woodland edge); the hill answers the visit with an hour-early dusk pulse. Brenna's cottage

@@ -94,6 +94,49 @@
   (plough-land in the bottoms)** Emlyn will eventually set to tenant families for rents, plus
   the woodland strip, the NE meadow, and a mill-pond water stake. Emlyn came to view before
   completing. No fate-pull; the narrator explicitly disclaims it.
+- **FINANCES & ORIGINS — THE MONEY IS FINITE (session-locked, 2026-07-11; the purchase is a
+  bounded, leveraged transaction, NOT a rich man buying at will).** This constraint is load-bearing
+  and must stay felt: Emlyn is comfortable, professional-class, and LEVERAGED, not limitless. He
+  buys the (undeveloped, undervalued) land in one large finite purchase and must then BUILD and
+  GROW it into something that pays, or the debt sinks him. He cannot simply buy the next thing.
+  - **Only child; both parents deceased.** No siblings, no inheritance tangle.
+  - **Father owned a small architecture firm** in Vethmark and "drew houses for other men" his whole
+    working life. Emlyn **trained as a draftsman at his father's elbow** in his youth and **paid his
+    way through his schooling** at a drawing-board before his magical talent developed. It is the
+    quiet root of his eye for a true line, structure, and ground, and of his rapport with Jorin/Ren.
+    Keep it NOT on-the-nose: it surfaces as competence, never as "I was an architect."
+  - **Two city homes; he consolidates.** (1) the **family townhouse** he **INHERITED** from his
+    parents — comfortable, well-kept, good part of town, **not extravagant**; the "large, mostly-
+    empty, dust-sheeted townhouse" he wintered in alone (Ch 1). He KEEPS this. (2) the grander **"river
+    house" he bought himself when he MARRIED** — the marital home he shared with Arielle, "tall and
+    bright and far too dear, across the river," which he **has not entered since her death** (= the
+    canon "her rooms," holding the shelf-gap spellbook and her things). **Penworth forces the sale of
+    the river house**; that sale is the **primary capital / down payment** for the hill.
+  - **Financing (Penworth-arranged, finite):** river-house sale (down payment) + a **loan secured
+    against old, already-LICENSED patents** from his earlier practice (steady quarterly royalty
+    income) + **appreciated investments** (built up over the years; the compounding is quietly
+    helped by his long life — KEEP THAT OFFSTAGE, never explained on the page). Distinct from the NEW
+    in-story **LUMEN Series** patent (Ch 8), which is the seed of his fresh country income.
+  - **The economic engine of the book:** post-purchase he is **capital-constrained and carrying a
+    note** (answerable twice a year). The **bottoms farmland must be tenanted** and the **practice
+    must earn** (lumen sales, trade work) to service the debt and carry the place; only then does it
+    "turn a tidy sum." This is WHY the tower rises one careful room at a time — a real balance sheet,
+    not thrift for its own sake.
+  - **Grief ↔ money entangled (deferred completion):** Emlyn AGREES to sell the river house but
+    cannot yet face clearing her things; the **sale is arranged/closing across Book One, the
+    emotional clearing deferred to spring.** So her rooms/effects stay untouched THROUGH Book One
+    even as the sale is set in motion. The **spring completion** = the finale/Book-Two hook (Arielle's
+    mother's letter: "come in spring and bring whatever of her still lives in your keeping"; the
+    journey to the city, the third spellbook). Letting go of the river house = beginning to let go of
+    her.
+  - **Marriage — LOCKED as MARRIED (widower), ~3 years** (resolves the author's open "married or
+    engaged"; matches existing "widowed" + her-mother's-letter). On the page it stays discreet
+    ("someone else," "a life we had meant to have"); Arielle still unnamed.
+  - **Aging ↔ family:** the talent-slowed aging (soft rule) now does concrete work — it is **why his
+    parents have passed while he still looks relatively young.** Mechanism stays offstage; the bare
+    FACT (young-looking man, parents gone) may sit on the page as a quiet oddity.
+  - **Rendering note:** the marital home is "the river house" / "her rooms" (a fashionable townhouse
+    across the river), NOT modern "condos/apartments" — keep the register period-appropriate.
 
 ## NUMBERS, AGES & DURATIONS LEDGER (check every stated figure against this)
 
@@ -120,14 +163,21 @@ if it needs a new one, add it here.
   failed to build on it; she left it to Cael, not the father). This overrides the campaign's
   "Cael bought it himself." He now sells it to Emlyn.
 - **Soren:** ~**9** at arrival (turns 10 in autumn, per canon).
-- **The narrator "now":** ancient — "longer than most kingdoms manage to stand"; deliberately no
-  number (prologue).
-- **Emlyn's home before Ardenmoor:** **Vethmark** — a large but mostly-empty townhouse (many
-  rooms dark and under dust-sheets); near-recluse. Vethmark ↔
-  Ardenmoor ≈ **4 days'** ride (his road in). Penworth is based in the same city.
-- **Reconciliation flag (Arielle's rooms):** her untouched city rooms (Book Two) are now most
-  likely in **Vethmark** too — Emlyn lived in that city yet could not go to her rooms, which
-  deepens the grief. Not locked; keep consistent if the city is named later.
+- **The narrator's distance (updated 2026-07-11, Spellmonger hybrid):** Emlyn tells it CLOSE to the
+  events, not from an ancient chronicler's vantage; his long life is a faint offstage hint, never the
+  narrating stance (drop "longer than kingdoms"). No number.
+- **Only child; parents both deceased** (father: owned a small architecture firm, Vethmark; Emlyn
+  trained as a draftsman there). The talent-slowed aging is why they are gone while he looks young.
+- **Emlyn's homes (Vethmark), TWO, now distinguished:**
+  - **Family townhouse** — INHERITED from his parents; the "large, mostly-empty, dust-sheeted"
+    house he wintered in alone (Ch 1). Comfortable, not extravagant. He **KEEPS** it.
+  - **The "river house"** — the grander MARITAL home he bought when he married Arielle; **unentered
+    since her death** (= the canon "her rooms," the shelf-gap spellbook). **Penworth forces its SALE**
+    (primary capital for the hill); the sale closes / her rooms are cleared in the **spring** (finale /
+    Book Two). See the FINANCES & ORIGINS session-lock.
+  - Vethmark ↔ Ardenmoor ≈ **4 days'** ride. Penworth is based in the same city.
+- **Arielle's rooms = the river house** (RESOLVED, no longer a flag): in **Vethmark**, the marital
+  home, untouched through Book One, cleared in spring (Book Two).
 
 ---
 
@@ -217,10 +267,17 @@ if it needs a new one, add it here.
   nothing back; "feelings that came on suddenly were generally grief wearing another coat";
   dry humor; lets the horse be right about the road. **Before Ardenmoor he was a near-recluse in a
   large but mostly-empty townhouse in Vethmark** ("far more rooms than one man had any use for,
-  most of them dark and under dust-sheets"); "passed the whole of the winter shut up" there and
-  "scarcely marked the season going by"; sat on Penworth's letter (it "came at the turn of the
-  year," carried a season). Penworth (same city) used the hill to draw him out. All handled
-  SUBTLY, shown not stated. (The big empty house is a grief image: rooms he closed off, not filled.)
+  most of them dark and under dust-sheets") — now established (Ch 1 seed, 2026-07-11) as **his late
+  father's family home**, inherited, which he grew up in and returned to "the way you come back to a
+  thing when you have run clean out of other places to be"; his father "drew houses for other men"
+  (architect) and Emlyn "learned the drawing at his elbow" and paid his schooling at a board of his
+  own before any stranger trade. He "passed the whole of the winter shut up" there and "scarcely
+  marked the season going by"; sat on Penworth's letter (it "came at the turn of the year," carried a
+  season). Penworth (same city) used the hill to draw him out. Also seeded (Ch 1): **the "river
+  house"** he bought in "the good years," "tall and bright and far too dear, chosen with someone else
+  for a life we had meant to have," **not crossed in three years**; Penworth spent the winter pressing
+  him to sell it and put the money "somewhere it might do some good" — which turned out to be the
+  hill. All handled SUBTLY, shown not stated. (Both houses are grief images.)
 - **Promises made (Ch 1):** none standing. (The earlier Lira "come back and tell me if the
   hill's hearing is true" promise was CUT along with her revision; she is now incurious about
   the hill, so there is no such thread to pay off.)
@@ -534,11 +591,13 @@ if it needs a new one, add it here.
 
 ## LOCKED CANON (never contradict; see outline canon appendix for full detail)
 
-**Protagonist.** Opus — planewright wizard. Precise, patient, dry humor, grief-slowed.
-Partner **Arielle** died before the story opens; she appears ONLY through objects, never in
-flashback. Four grief-objects: the locked chest (cellar NE corner), her mother's unopened
+**Protagonist.** Opus / Emlyn — planewright wizard. Precise, patient, dry humor, grief-slowed.
+Only child of a Vethmark architect; trained as a draftsman before his talent developed. **Wife
+Arielle** (married; widower ~3 yrs) died before the story opens; she appears ONLY through objects,
+never in flashback. Four grief-objects: the locked chest (cellar NE corner), her mother's unopened
 letter (Study desk), dimensional callipers in a sticking desk drawer, the gap on the spellbook
-shelf where a third book should be (that book is in her city rooms).
+shelf where a third book should be (that book is in her **city rooms = the marital "river house,"**
+which he sells to fund the hill but cannot clear until spring — see FINANCES & ORIGINS).
 
 **The hill.** Hums sub-harmonically; pulses at dusk and predawn; responds to storms; cooperates
 with workings that ask rather than command; defeated every prior building attempt (Cael's
@@ -569,8 +628,11 @@ letters only — engaged to trace the three.
 
 ## CAST — FIXED TRAITS & SPEECH RULES
 
-- **Opus** — dry, courteous, self-deprecating; teaches by question and demonstration; observes
-  his own grief like a flaw he isn't ready to repair.
+- **Opus / Emlyn** — dry, courteous, self-deprecating; teaches by question and demonstration;
+  observes his own grief like a flaw he isn't ready to repair. **Only child of a Vethmark architect;
+  trained as a draftsman before his talent developed** (funded his schooling); widower (~3 yrs);
+  comfortable but LEVERAGED, not rich (see FINANCES & ORIGINS session-lock). Keeps his inherited
+  family townhouse; sells the marital "river house" to fund the hill.
 - **Soren**, 10 — village elder's grandson; HEARS the hum; solemn, structural, whole-attention;
   asks questions like "Is that why the Study doesn't fall?"; child logic with dignity, never cute.
 - **Ren**, 16 — builder's son; FEELS magic through his hands; honest to the grain, distinguishes
@@ -673,6 +735,16 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   valley (Part III/IV); pairs with the Ch 2 bare-hand-on-stone and Ch 4 "it said yes."
 - **Kellard's cold-spot = a buried grief in the ground answered by attention (Ch 7)** → the
   ask/attend thesis extended to grief-in-place; possible rhyme with Emlyn's own grief / the chest.
+- **The river house (marital home) sale (seeds Ch 1, Ch 3; Penworth pressing/coordinating)** →
+  provides the purchase capital (down payment); Emlyn agrees but cannot clear her things → the sale
+  completes and her rooms are cleared in the **spring** (finale Ch 27 grief release / Book Two city
+  journey; the third spellbook comes home then). Keep the river house UNENTERED through Book One.
+- **The purchase note / debt (seed Ch 3)** → the economic pressure that makes the practice and the
+  farmland tenancies matter; "turns a tidy sum" only after the land is made to pay. The bottoms
+  tenants (still to be placed) and the lumen income service the note.
+- **Emlyn's draftsman/architect origin (seed Ch 1: father "drew houses," Emlyn "learned the drawing
+  at his elbow")** → surfaces as his eye for a true line and his rapport with Jorin & Ren; can pay
+  off quietly in a building/apprentice scene. Keep it not-on-the-nose.
 - The sticking drawer / callipers (seed Ch 15) → opens when the letter is read (Ch 27).
 - The unsigned correspondent (seed Ch 14) → handwriting-in-his-notation reveal (Ch 26).
 - Lira's letters (seed/reader Ch 12) → tenor changes after the road (Ch 24, optional confession).
