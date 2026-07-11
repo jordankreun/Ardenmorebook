@@ -378,9 +378,26 @@ principal. PROSE UPDATED: Ch 1's river-house lines rewritten to fiancée / weddi
 / dead-capital (discreet, no name); Ch 3's financing rewritten to the grace-period/tenants clock
 (replaced "a note twice a year" with "a debt I would begin to answer for in a year's time… I would
 need this hill to be earning… tenants… the trade would have to come"). The PAGE never said
-wife/married (stayed discreet), so the reversal cost no other prose. No existing beat broken. Ch 1
-4180, Ch 3 3861; 0 em dashes. State re-updated: story-bible (session-lock, ledger, cast, locked-canon)
-+ outline + geography all now say fiancée / wedding-gift / grace period.
+wife/married (stayed discreet), so the reversal cost no other prose. No existing beat broken; 0 em
+dashes. State re-updated: story-bible (session-lock, ledger, cast, locked-canon) + outline + geography
+all now say fiancée / wedding-gift / grace period.
+
+REFINEMENT 2 (2026-07-11, same day — the firm & the two houses' rhyme): (a) **Emlyn RETAINS his late
+father's share of the architecture firm** the father founded, which still operates — a modest steady
+income he doesn't run (borrowable against; Penworth-managed). Does NOT sell it. (b) **The river house
+was designed by that same firm**, which Emlyn commissioned as a **grander, costlier echo of the
+family townhouse his father had designed for his MOTHER** ("the same lines… swollen to twice the
+scale and three times the cost, ornament laid on ornament") — this is WHY it's so ornate/overstated,
+and it makes the two houses RHYME (the modest real one his father made for his mother, now Emlyn's
+lived-in refuge; the grand never-lived-in one Emlyn made for his fiancée). (c) **The river house is a
+money pit** — "a small fortune a year in the bare keeping of a grand thing that nobody used," the
+drain especially galling because unoccupied; **Penworth pushes the sale for BOTH reasons** (the purse
+AND, mainly, the emotional weight of a never-used monument). PROSE: Ch 1's seed split into TWO
+paragraphs and enriched (father's firm still standing + Emlyn's share; the family home the father made
+for the mother; the river house a grander echo commissioned from the firm; the upkeep drain; Penworth
+pushing "for the sake of my purse and… the rest of me"). Ch 3's income list gained "my father's firm
+that went on quietly paying its small partner's share into an account I never opened." State: story-
+bible (finances session-lock, ledger, pending payoffs) updated.
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):

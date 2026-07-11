@@ -101,22 +101,29 @@
   buys the (undeveloped, undervalued) land in one large finite purchase and must then BUILD and
   GROW it into something that pays, or the debt sinks him. He cannot simply buy the next thing.
   - **Only child; both parents deceased.** No siblings, no inheritance tangle.
-  - **Father owned a small architecture firm** in Vethmark and "drew houses for other men" his whole
-    working life. Emlyn **trained as a draftsman at his father's elbow** in his youth and **paid his
-    way through his schooling** at a drawing-board before his magical talent developed. It is the
-    quiet root of his eye for a true line, structure, and ground, and of his rapport with Jorin/Ren.
-    Keep it NOT on-the-nose: it surfaces as competence, never as "I was an architect."
-  - **Two city homes.** (1) the **family townhouse** he **INHERITED** from his parents — comfortable,
-    well-kept, good part of town, **not extravagant**; the "large, mostly-empty, dust-sheeted
-    townhouse" he wintered in alone (Ch 1). He KEEPS this and LIVES here. (2) the grander **"river
-    house"** — the home he and Arielle **chose together ahead of their wedding**, which he **bought as
-    his WEDDING GIFT to her** and meant as the home of their married life (this is WHY it is so
-    elaborate, "tall and bright and far too dear," far too big and overstated for one man). **She died
-    before the wedding** (see below), so he **never lived there**; he retreated to the family home and
-    has **not crossed the river house's threshold since.** Her things and his library (including the
-    shelf-gap spellbook) sit in the **half-made home they were setting up** — this is the canon "her
-    rooms." Too personal to keep, rent, or sell; he is simply STUCK with it, bleeding money on a grand
-    empty house, until **Penworth forces the sale** (a friend trying to pull him out of the slump).
+  - **Father was an architect who founded a small Vethmark firm** ("drew houses for other men").
+    Emlyn **trained as a draftsman at his father's elbow** as a boy and **paid his way through his
+    schooling** at a drawing-board before his magical talent developed — the quiet root of his eye
+    for a true line, structure, and ground, and of his rapport with Jorin/Ren (keep NOT on-the-nose;
+    it surfaces as competence, never "I was an architect"). **The firm OUTLIVED the father and still
+    operates; Emlyn HOLDS his father's share in it** (a retained, absentee ownership stake paying a
+    "small partner's share" — a modest steady income he does NOT run and rarely thinks about; part of
+    what Penworth manages and can lean the loan on). He does NOT sell the firm share.
+  - **Two city homes.** (1) the **family townhouse** he **INHERITED** from his parents — the "large,
+    mostly-empty, dust-sheeted townhouse" he wintered in alone (Ch 1); **his father designed and made
+    it for his mother** ("the finest small thing he ever drew"), comfortable, not extravagant. He
+    KEEPS this and LIVES here. (2) the grander **"river house"** — **Emlyn commissioned his father's
+    own firm to design it**, as a **grander echo of the family home** (the same lines his father gave
+    his mother, "but swollen to twice the scale and three times the cost, ornament laid on ornament")
+    — WHY it is so elaborate/overstated. It was his **WEDDING GIFT** to Arielle and the home of their
+    intended married life. **She died before the wedding** (see below), so he **never lived there**;
+    he retreated to the family home and has **not crossed its threshold since.** Her things and his
+    library (incl. the shelf-gap spellbook) sit in the **half-made home they were setting up** = the
+    canon "her rooms." **A money pit:** a grand ornate house **eats a small fortune a year in upkeep
+    even standing empty** — the drain especially galling because it is **unoccupied and never used.**
+    Too personal to keep, rent, or sell; he is STUCK with it until **Penworth forces the sale** —
+    pushing it for **both** reasons (the upkeep/purse AND, mainly, the emotional weight of a never-used
+    monument), a friend trying to pull him out of the slump.
   - **⚠️ ENGAGED, NOT MARRIED — RELATIONSHIP RE-LOCKED (2026-07-11, supersedes the earlier "married/
     widower"):** Arielle was his **FIANCÉE**; they were to be married; **she died ~3 years ago, before
     the wedding.** So he is **not literally a widower** — he lost his fiancée before their marriage
@@ -182,8 +189,11 @@ if it needs a new one, add it here.
 - **The narrator's distance (updated 2026-07-11, Spellmonger hybrid):** Emlyn tells it CLOSE to the
   events, not from an ancient chronicler's vantage; his long life is a faint offstage hint, never the
   narrating stance (drop "longer than kingdoms"). No number.
-- **Only child; parents both deceased** (father: owned a small architecture firm, Vethmark; Emlyn
-  trained as a draftsman there). The talent-slowed aging is why they are gone while he looks young.
+- **Only child; parents both deceased** (father: founded a small Vethmark architecture firm, still
+  operating, and **Emlyn holds his father's retained share** = modest steady income; Emlyn trained as
+  a draftsman there). Father **designed the family townhouse for Emlyn's mother**; Emlyn later **had
+  that same firm design the grander "river house"** as an echo of it. Talent-slowed aging is why the
+  parents are gone while he looks young.
 - **Emlyn's homes (Vethmark), TWO, now distinguished:**
   - **Family townhouse** — INHERITED from his parents; the "large, mostly-empty, dust-sheeted"
     house he wintered in alone (Ch 1). Comfortable, not extravagant. He **KEEPS** it.
@@ -763,9 +773,13 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   done — a natural mid-book beat) and getting the **practice earning** before the note comes due is a
   live ticking to-do. The spring river-house sale pays down principal. "Turns a tidy sum" only after
   the land is made to pay. Do not let Emlyn buy freely; the money is tight until the land earns.
-- **Emlyn's draftsman/architect origin (seed Ch 1: father "drew houses," Emlyn "learned the drawing
-  at his elbow")** → surfaces as his eye for a true line and his rapport with Jorin & Ren; can pay
-  off quietly in a building/apprentice scene. Keep it not-on-the-nose.
+- **Emlyn's draftsman/architect origin (seed Ch 1: father an architect who "drew houses"; Emlyn
+  "learned the drawing at his elbow"; he still holds his father's firm share; the family firm
+  designed both the family home [for his mother] and the grander river house [his echo of it])** →
+  surfaces as his eye for a true line and his rapport with Jorin & Ren; can pay off quietly in a
+  building/apprentice scene. The retained **firm share** is also a modest standing income (borrowable
+  against; Penworth-managed). The two houses RHYME (modest real one, lived-in; grand never-lived-in
+  echo) — a thematic pairing available for later. Keep it not-on-the-nose.
 - The sticking drawer / callipers (seed Ch 15) → opens when the letter is read (Ch 27).
 - The unsigned correspondent (seed Ch 14) → handwriting-in-his-notation reveal (Ch 26).
 - Lira's letters (seed/reader Ch 12) → tenor changes after the road (Ch 24, optional confession).
