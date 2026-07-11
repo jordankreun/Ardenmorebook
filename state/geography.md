@@ -187,11 +187,30 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 ---
 
-## BEYOND THE VALLEY (offstage; reached only by letter/visitor/road — pure first person)
+## BEYOND THE VALLEY (offstage; reached by letter, licence, or a rare visitor — mostly Emlyn's POV)
 
-- **Vethmark** — the city ~**4 days' ride** from the valley; Penworth's base and the seat of
-  banking/credit (Kellard's arrangement runs there). Emlyn's origin and the "city" of the outside-
-  world subplot. Has a **river** (the wedding-gift "river house" stands across it). [CANON + PAGE ch1]
+- **THE POLITY — the COMMONWEALTH (ruling council; NOT a monarchy).** The realm is a **Commonwealth
+  governed by a ruling council**, kept light and offstage (cozy register). Land in its remote parts is
+  held under **old commons / parish / allodial "old land"** — the precedent for the cheaply-assembled
+  Ardenmoor holding (Ch 2). Working name "the Commonwealth"; distinctive proper name **[OPEN]**. The
+  **political capital** (council's seat) is **elsewhere, offstage**; name **[OPEN]**. See the SETTING
+  & POLITY block in the story bible.
+- **Vethmark** — a dense, very **urban** city ~**4 days' ride** from the valley; **the Commonwealth's
+  magical-academic center (NOT the political capital)**, built around the **magical University/Academy**
+  where Emlyn trained and published, and **seat of the CONCLAVE** (the governing body of magic; Drace,
+  the "interested office," Lira's letters all run here). Also Penworth's base, the **banking/credit**
+  seat (Kellard's arrangement runs there), and Emlyn's origin. Has a **river** (the wedding-gift "river
+  house" stands across it). Academy/university proper name **[OPEN]**. [CANON + PAGE ch1]
+- **Ardenmoor's place in the world:** a **deep, remote, undeveloped forest/agricultural frontier of the
+  Commonwealth** — thinly settled, loosely incorporated, its land cheap because remote + marginal + un-
+  wanted; the region is nearly untapped (Ardenmoor one of few small villages in a large wild area).
+  [CANON, reinforced Ch 3 seed]
+- **DISTANCE & TRAVEL:** Vethmark ↔ Ardenmoor = **4 days' ride** (PAGE: Ch 3 "four days' ride away,"
+  Ch 8 "a city four days off" — KEPT), but 4 days into worsening-road frontier (a week+ for ordinary
+  carters, so effectively cut off). **Magical travel-acceleration exists** (costly art of practitioners
+  / the well-connected — Penworth, the Conclave, Emlyn; how the outside world reaches the frontier fast
+  and how Emlyn makes the spring journey). Emlyn's arrival ride was the slow mundane way by choice.
+  Do NOT lengthen the 4-day figure on the page without also touching Ch 1/3/8.
 - **Emlyn's TWO Vethmark homes (established Ch 1 seed, 2026-07-11):**
   - **The family townhouse** — his late father's (an architect); INHERITED; "far more rooms than one
     man had any use for, most of them dark and under dust-sheets"; he grew up there and wintered
@@ -212,7 +231,13 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 - Village ↔ hill crown: a walk of a good while up a long (not steep) track. [PAGE ch2]
 - Emlyn's ride in: **four days** on the road. [PAGE ch1]
 - Quarry round trip: **one day**. [CANON / style guide]
-- To Vethmark / the city: ~**4 days'** ride (Emlyn's road in, from his Vethmark rooms). [PAGE ch1]
+- To Vethmark / the city: **4 days' ride** (Emlyn's road in; "four days' ride away" Ch 3, "a city four
+  days off" Ch 8), but 4 days into worsening-road frontier — a week+ for ordinary carts. **KEPT; do not
+  lengthen on the page without editing Ch 1/3/8.**
+- **Magical travel-acceleration** exists (a costly art of practitioners / the well-connected) — the
+  fast way across the distance the roads make slow; how the outside world reaches the frontier and how
+  Emlyn will make the spring journey. His arrival ride was the slow mundane way by choice. Introduce on
+  the page only when earned (the spring journey), NOT retro-fit into the Ch 1 arrival. [CANON 2026-07-11]
 - Time moves honestly (style guide): errands take hours; construction takes weeks (montage by
   day-labels, never "time passed").
 
@@ -227,6 +252,9 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 - The precise line of the future cart-road and its village branch (through the woodland strip).
 - Neighboring farms/holdings; where the goose-woman, the quarrymen, and other villagers live.
 - Vethmark's own layout (the river, the two homes' districts) beyond what Ch 1/3 fixed.
+- **PROPER NAMES [OPEN] for author to pick:** the Commonwealth's distinctive name (working: "the
+  Commonwealth"); the political capital (council's seat, offstage); the Vethmark magical
+  academy/university. (Polity TYPE is locked: Commonwealth + ruling council.)
 
 ---
 
@@ -251,7 +279,11 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   for the first time (dusk + predawn pulses). No new place-names; interior geography unchanged.
   **(2026-07-11 finance seed):** the purchase is now shown as **finite & leveraged** (the land cheap
   because worthless-to-others; funded by the river-house sale + a loan on old licensed patents +
-  appreciated investments; "little behind me and a note to answer twice a year").
+  appreciated investments; the loan carries a ~1-year grace period → the tenants/practice clock).
+  **(2026-07-11 setting seed):** Ch 3 now names **"the Commonwealth"** and frames Ardenmoor as its far
+  frontier ("days of hard riding from Vethmark, and the better part of a fortnight for a loaded wagon"
+  — consistent with the fortnight wagon-wait), the land "half of it not rightly owned by any living
+  soul… held under the old loose title of the far country, by the parish and the habit of years."
 - **ch6** — The **LUMEN** is bound and lights the Study; **Brenna's cuttings** on the Study's north
   sill. The **Old Oak is VISITED** for the first time (route: crown → NE meadow → north wood along
   the woodland edge); the hill answers the visit with an hour-early dusk pulse. Brenna's cottage

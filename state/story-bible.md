@@ -615,6 +615,53 @@ if it needs a new one, add it here.
 
 ---
 
+## SETTING & POLITY (world frame — session-locked, 2026-07-11)
+
+Establishes the geopolitics so the cheap land and the urban/rural split make sense. All of it stays
+**backdrop**: the book remains village-sized and cozy; the council, the capital, the academy, and the
+Conclave reach the story only by letter, licence, or a rare visitor, never as epic politics.
+
+- **The polity: a COMMONWEALTH governed by a RULING COUNCIL** — NOT a monarchy (no king/crown/feudal
+  lords; the page has none, confirmed). Politics is light and mostly offstage. Working proper name
+  "the Commonwealth"; a more distinctive name is **[OPEN]** (author to pick). The **political capital**
+  (seat of the ruling council) is **elsewhere and largely offstage**; name **[OPEN]**.
+- **Land tenure = old commons + allodial "old land."** In the Commonwealth's remote parts, land is
+  held under old, loose title: parish/common ground no one quite owns, allodial old-family holdings,
+  forgotten corners. This is the PRECEDENT for how Penworth assembled the Ardenmoor holding cheaply
+  from many small/old owners + unclaimed parish ground (Ch 2, "sat down with the parish"). Keep this
+  as the mechanism for cheap, assemblable frontier land.
+- **VETHMARK = the urban magical-academic center (NOT the capital).** A dense, very urban city built
+  around the **magical University/Academy** where Emlyn **trained and published** (his "school of
+  notation"; cf. Ch 8 "the years when I still went out into the world and let it read me"). The
+  **CONCLAVE** — the governing/licensing/oversight body of magic (existing LOCKED CANON: inquiry
+  closed, "the office remains interested," **Drace** its official, **Lira** its informal informant) —
+  is **seated in Vethmark**, the establishment authority over the academy's scholarship. Vethmark is
+  ALSO the banking seat and Emlyn's origin (his two homes, his father's architecture firm). It is the
+  magical/scholarly heart of the Commonwealth, not its political capital. This roots the whole
+  outside-world subplot (the Conclave, the three correspondents probing his incomplete papers, the
+  unsigned hand "trained in his school of notation") concretely in Vethmark. The academy/university's
+  proper name is **[OPEN]**.
+- **ARDENMOOR = deep, remote, undeveloped frontier of the Commonwealth.** Forested and marginally
+  agricultural, thinly settled, "yet to be developed," loosely incorporated (still part of the
+  Commonwealth, but its far edge). This is WHY the land is CHEAP (remote + undeveloped + agriculturally
+  marginal + no demand) and the region nearly untapped (Ardenmoor is one of few small villages in a
+  large wild area). The cozy frontier a grieving man escapes to and builds up.
+- **DISTANCE & TRAVEL (reconciled with the page — do not contradict):** Vethmark ↔ Ardenmoor ≈
+  **4 days' ride** (ON THE PAGE: Ch 3 "four days' ride away," Ch 8 "a city four days off" — KEPT).
+  Framed as 4 days into wild, worsening-road frontier: for ordinary carters/walkers it is a week or
+  more, so the valley is effectively cut off, rarely visited, its land unwanted. **MAGICAL
+  TRAVEL-ACCELERATION EXISTS** (a known, costly/effortful art of practitioners and the well-connected
+  — Penworth, the Conclave, Emlyn), the means by which the outside world reaches the frontier faster
+  than the roads allow, and by which Emlyn will make the **spring journey** to the city. Emlyn's
+  ARRIVAL ride (Ch 1) was the slow, mundane way **BY CHOICE** (grief, time, "I let Snow set the pace,
+  which was slow"). ⚠️ The 4-day figure is PRESERVED (not lengthened to weeks) to protect Ch 1's
+  mundane arrival and the Ch 3/Ch 8 lines; remoteness is carried by framing + roads + acceleration-
+  for-the-hurried. If the author wants the literal distance longer, that is a follow-up needing light
+  Ch 1/3/8 tweaks. (Introduce travel-acceleration on the page only when it's earned — likely the
+  spring journey; do NOT retro-fit it into the Ch 1 arrival.)
+
+---
+
 ## LOCKED CANON (never contradict; see outline canon appendix for full detail)
 
 **Protagonist.** Opus / Emlyn — planewright wizard. Precise, patient, dry humor, grief-slowed.
@@ -640,16 +687,19 @@ blanks in three layers (photonic architecture, sensitivity lattice, binding) hou
 fittings; the original LUMEN drinks hill-song, the Series drinks ambient light. Sensitivity
 manifests as hearing / feeling / seeing (don't always correlate). Sensitized paper records an
 arcane signature (imprint). A resonance fork tuned to the hill's baseline calls an answer.
-Planewright work = architecture of planes; Opus's published papers omit ~70% of his demiplane
+Planewright work = architecture of planes; Opus **trained and published at the Vethmark magical
+academy/university** (his "school of notation"); his published papers omit ~70% of his demiplane
 working because extending it incomplete causes lethal interior collapse. The Planewright's
 Compass (his own making, unknown to the Conclave) finds existing potential planes.
 
 **The secrets (undercurrent).** (1) The compass in the chest. (2) Three correspondents probing
 his incomplete demiplane papers — two named scholars (containable), one UNSIGNED who wrote "the
-interior architecture is beautiful" and whose hand later shows training in his own notation.
-(3) The Conclave, whose inquiry is closed "but the office remains interested"; **Drace** its
-interested official; **Lira** an informal informant. **Cecily** — investigator, offstage,
-letters only — engaged to trace the three.
+interior architecture is beautiful" and whose hand later shows training in his own notation (i.e.
+schooled at the same Vethmark academy). (3) The **Conclave** — the governing/oversight body of
+magic, **seated in Vethmark** (the academy's establishment authority; see SETTING & POLITY) —
+whose inquiry is closed "but the office remains interested"; **Drace** its interested official;
+**Lira** an informal informant. **Cecily** — investigator, offstage, letters only — engaged to
+trace the three.
 
 ---
 

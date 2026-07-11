@@ -399,6 +399,25 @@ pushing "for the sake of my purse and… the rest of me"). Ch 3's income list ga
 that went on quietly paying its small partner's share into an account I never opened." State: story-
 bible (finances session-lock, ledger, pending payoffs) updated.
 
+SETTING & POLITY (2026-07-11): established the world frame (see the SETTING & POLITY block in the
+story bible). **The realm is a COMMONWEALTH governed by a ruling council** (not a monarchy — the page
+has no king/crown/lord; confirmed), politics kept light/offstage (cozy). Remote land held under **old
+commons / parish / allodial "old land"** (the precedent for the cheaply-assembled Ardenmoor holding).
+**VETHMARK = the dense urban magical-academic center** (the University/Academy where Emlyn trained &
+published; **seat of the Conclave**; banking seat; his origin) — **NOT the political capital** (which
+is elsewhere, offstage). **ARDENMOOR = a deep, remote, undeveloped forest/agricultural frontier of the
+Commonwealth** — the reason the land is cheap and the region untapped. DISTANCE: kept the page's
+**4 days' ride** (Ch 3/Ch 8), framed as far frontier (a fortnight for wagons/foot — consistent with the
+established fortnight wagon-wait); **magical travel-acceleration exists** as canon (costly art of the
+well-connected; the fast way; how Emlyn makes the spring journey) but is NOT retro-fit into the mundane
+Ch 1 arrival ("I let Snow set the pace, which was slow" — the slow way by choice). PROSE: Ch 3's cheap-
+land sentence expanded to seed the remoteness + old-commons tenure + names **"the Commonwealth"** once
+on the page. Proper names for the Commonwealth, its capital, and the academy are **[OPEN]** for the
+author. State updated: story-bible (new SETTING & POLITY section + Conclave/academy cross-ref),
+geography (Beyond the Valley rewritten + distances + OPEN names + change log), outline (canon appendix).
+⚠️ Flagged to author: preserved the 4-day figure to protect the Ch 1 arrival; can lengthen the literal
+distance with light Ch 1/3/8 edits if wanted.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
