@@ -191,16 +191,17 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 - **Vethmark** — the city ~**4 days' ride** from the valley; Penworth's base and the seat of
   banking/credit (Kellard's arrangement runs there). Emlyn's origin and the "city" of the outside-
-  world subplot. Has a **river** (the marital "river house" stands across it). [CANON + PAGE ch1]
+  world subplot. Has a **river** (the wedding-gift "river house" stands across it). [CANON + PAGE ch1]
 - **Emlyn's TWO Vethmark homes (established Ch 1 seed, 2026-07-11):**
   - **The family townhouse** — his late father's (an architect); INHERITED; "far more rooms than one
     man had any use for, most of them dark and under dust-sheets"; he grew up there and wintered
     there alone as a near-recluse before Ardenmoor. He **KEEPS** it. [PAGE ch1]
-  - **The "river house"** — the grander MARITAL home he bought "in the good years," "tall and bright
-    and a good deal too dear," **across the river**; "not crossed in three years"; = **Arielle's
-    rooms**, holding the third spellbook (the shelf-gap). **Penworth forces its SALE** to fund the
-    hill (Ch 1 + Ch 3 seeds); Emlyn agrees but cannot clear her things → the sale completes / her
-    rooms are cleared in **spring** (finale / Book Two destination). [PAGE ch1, ch3]
+  - **The "river house"** — the grander home he and his **fiancée** Arielle chose together, his
+    **wedding gift** to her, **across the river**; she **died before the wedding**, so he **never
+    lived there** and has "not crossed its threshold in three years" (a house full of "a life that had
+    not happened," eating money he can't stop spending) = **Arielle's rooms**, holding the third
+    spellbook (the shelf-gap). **Penworth forces its SALE** to fund the hill (Ch 1 + Ch 3 seeds); the
+    sale completes / it is cleared in **spring** (finale / Book Two destination). [PAGE ch1, ch3]
 - **Edran's quarry** — supplies building stone; a **day's round trip** by cart; quarry road leads
   out of the village (direction [OPEN]). [CANON / style guide]
 
@@ -222,7 +223,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 - The inn's name; the village's exact street plan and the placement of square/well/church/
   Kellard's yard relative to each other.
 - The direction and distance to the quarry; the name of the main road. (Arielle's rooms are now
-  RESOLVED: the marital "river house" in **Vethmark**, which is also Emlyn's origin.)
+  RESOLVED: the never-lived-in wedding-gift "river house" in **Vethmark**, which is also Emlyn's origin.)
 - The precise line of the future cart-road and its village branch (through the woodland strip).
 - Neighboring farms/holdings; where the goose-woman, the quarrymen, and other villagers live.
 - Vethmark's own layout (the river, the two homes' districts) beyond what Ch 1/3 fixed.
@@ -235,7 +236,8 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   street), Brenna's cottage; the approach oak at the view-bend; hill is N & a little E of the
   village; Maret's mill at the hill-ward edge. Hill still "only a hill". **(2026-07-11 finance/origin
   seed):** Vethmark now carries a **river**; Emlyn's **family townhouse** (inherited, father's,
-  kept) and the **marital "river house"** (sold to fund the hill, across the river) established.
+  kept) and the **never-lived-in wedding-gift "river house"** (his fiancée's; sold to fund the hill,
+  across the river) established.
 - **ch2** — Established: the crown; the south-face spring; the east green shelf; the NE meadow;
   the leasable plough-land in the bottoms (tenant farmland for rents); the woodland strip + larch
   stand; the mill pond stake; the North Wood + the Old Oak (Listener) seen at distance; Cael's

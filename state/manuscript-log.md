@@ -353,23 +353,34 @@ constraint so Emlyn is NOT infinitely rich and cannot just buy everything. New c
 FINANCES & ORIGINS session-lock in the story bible): **only child; father an architect (owned a
 small firm); Emlyn trained as a draftsman before his talent** (funded his schooling; roots his eye
 for structure). **Two Vethmark homes:** the inherited **family townhouse** (kept; = the "dust-
-sheeted" house of Ch 1) and the grander **marital "river house"** (the untouched "her rooms"),
-which **Penworth forces him to sell** as the primary capital. Purchase is **finite & leveraged**:
+sheeted" house of Ch 1) and the grander **wedding-gift "river house"** (his fiancée's; the untouched
+"her rooms"), which **Penworth forces him to sell** as the primary capital. Purchase is **finite & leveraged**:
 river-house sale (down payment) + a **loan on old licensed patents** + appreciated investments; he
 comes out "with little behind me and a note to answer twice a year," so the **farmland tenancies
 and the practice must make the place pay** (the real engine behind building one room at a time).
-**Married (widower)** locked (resolves the author's "married or engaged"). Talent-slowed aging now
-explains **parents-gone-but-he-looks-young** (offstage). The river-house sale COMPLETES in **spring**
-(grief deferred → finale/Book Two: clear her rooms, retrieve the third spellbook). SEEDED into the
-manuscript: **Ch 1** gained a paragraph (father "drew houses," Emlyn "learned the drawing at his
-elbow," the inherited family house vs the untouched river house, Penworth pressing the sale, the
-money aimed at "a hill"); **Ch 3** gained a paragraph (the purchase finite & leveraged: cheap land,
-sale + patent-loan + grown holdings, "a note to answer twice a year," and the grief-thaw button "for
-the first time in three years, interested"). No existing beat broken (the handshake, the untouched
-"her rooms" in Ch 8, the widower canon all still hold). Both seeded chapters clear the floor (Ch 1
-4171, Ch 3 3813); 0 em dashes. State updated: story-bible (session-lock, ledger, cast, locked-canon,
-pending payoffs), geography (two Vethmark homes + river; finite-purchase note), outline (canon
-appendix + Book Two setup).
+Talent-slowed aging now explains **parents-gone-but-he-looks-young** (offstage). The river-house sale
+COMPLETES in **spring** (grief deferred → finale/Book Two: clear her rooms, retrieve the third
+spellbook). SEEDED into the manuscript: **Ch 1** gained a paragraph (father "drew houses," Emlyn
+"learned the drawing at his elbow," the inherited family house vs the untouched river house, Penworth
+pressing the sale, the money aimed at "a hill"); **Ch 3** gained a paragraph (the purchase finite &
+leveraged: cheap land, sale + patent-loan + grown holdings, and the grief-thaw button "for the first
+time in three years, interested").
+
+REFINEMENT (2026-07-11, same day): **RELATIONSHIP RE-LOCKED to ENGAGED, not married** (author reversed
+the earlier "married/widower"). Arielle was his **FIANCÉE**; the **river house was his WEDDING GIFT**,
+chosen together ahead of the wedding; **she died before the wedding**, so he **never lived there** —
+a grand, half-made, never-inhabited house he can neither enter nor sell, dead capital and pure grief,
+until Penworth (a friend) forces the sale to pull him out of the slump. Also added a **LOAN GRACE
+PERIOD**: nothing falls due for ~the first year (a full turn of seasons), which is the book's
+**economic clock** — he must get **tenants into the bottoms** and the **practice earning** before the
+note comes due (placing tenants is now a live mid-book to-do); the spring river-house sale pays down
+principal. PROSE UPDATED: Ch 1's river-house lines rewritten to fiancée / wedding-gift / never-lived-in
+/ dead-capital (discreet, no name); Ch 3's financing rewritten to the grace-period/tenants clock
+(replaced "a note twice a year" with "a debt I would begin to answer for in a year's time… I would
+need this hill to be earning… tenants… the trade would have to come"). The PAGE never said
+wife/married (stayed discreet), so the reversal cost no other prose. No existing beat broken. Ch 1
+4180, Ch 3 3861; 0 em dashes. State re-updated: story-bible (session-lock, ledger, cast, locked-canon)
++ outline + geography all now say fiancée / wedding-gift / grace period.
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
