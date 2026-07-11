@@ -68,7 +68,11 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
   **The STUDY is now built on it** (Ch 5): the tower's first true room, stone, on the hill-given
   footing, its footing set a little wide to the **NORTHEAST** (the hill offset it when it answered
   the first working). Hearth; a south window for the light; a board floor; a door on Tomas's silent
-  hinges. [PAGE ch1–2 crown; PAGE ch4–5 Study]
+  hinges. **A north sill** now holds Brenna's three cuttings (rosemary, grey sage, soldier's-heart)
+  where the lumen's amber reaches (Ch6). [PAGE ch1–2 crown; PAGE ch4–5 Study; PAGE ch6 sill]
+- **The LUMEN** — the first "lamp that does not burn" sits in the Study (bound Ch6): blown-glass
+  vessel, brass collar/foot (Tomas's second commission), drinks the hill's hum → deep amber, brighter
+  at the two pulse-hours, dim at midday. It is the room's light now. [PAGE ch6]
 - **The reshaped footing** — before building, Emlyn cast the first working and the hill settled the
   deep grain into a true load-bearing footing under the crown, offset toward the **NE** (Ch4). This
   is why the ground "nothing stands on" now holds. [PAGE ch4]
@@ -135,7 +139,7 @@ what's fixed is which places exist and who holds them.
 | **The smithy** | **Tomas** | At the "top" (entrance/upper end) of the street; hammer heard across the village. | [PAGE ch1] |
 | **The mill** + timber yard + **mill pond** | **Maret** | On the beck at the hill-ward edge (Emlyn passes it heading up to the hill); stacks of drying timber. | [PAGE ch1–2] |
 | **Brenna's cottage** + walled herb garden | **Brenna** | At the lane's end, by the **birches**; low stone house, drying green in the window. | [PAGE ch1] [CANON: "by the birches"] |
-| **Kellard's yard** (supply/timber & goods) | **Kellard** | Supply yard; "Vethmark banking arrangement" later. | [CANON — not yet on page] |
+| **Kellard's yard** (dry-goods store) | **Kellard** | The store that is also "the bank and the post and the parliament of the village"; has a **back storeroom** (flour, salt, good candles) where a wrongness-**cold-spot** had settled over a buried grief until Emlyn talked it out (Ch7). Kellard extends Emlyn **credit against the spring**. | [PAGE ch7] |
 | **The square** | — | Village common; market mornings; the well/pump (village well, distinct from the hill spring). | [OPEN placement] |
 | **The church / churchyard** | — | Cael's grandmother is "forty years in the churchyard." | [PAGE ch1 (mentioned)] |
 
@@ -167,8 +171,12 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 - **The Old Oak (the "Listener")** — a single great oak standing alone out of the **north wood**,
   north of the hill, past the wood's north bend. In wordless "conversation" with the hill longer
-  than living memory; Brenna's grandmother's offering tree. Emlyn has *seen* it at a distance from
-  the crown but does not yet know what it is. [PAGE ch2] [CANON]
+  than living memory; Brenna's grandmother's offering tree. **VISITED Ch6**: Emlyn walks out to it
+  (across the NE meadow, down into the north wood along his own woodland edge), lays his hand flat on
+  the trunk, feels a quiet, further attention "turned away," listening to "something in another
+  room." That same evening the hill's dusk pulse comes **an hour early and stronger than ever**, as
+  if remarking on the visit. Brenna (Ch6) calls the hill + oak "the talking pair." [PAGE ch2 seen;
+  PAGE ch6 visited] [CANON]
 - **The approach oak** — a *different* oak, on the road into the valley, at the **bend where the
   village first comes into view** from the south/southwest. A roadside landmark only. [PAGE ch1]
   ⚠️ Do not conflate with the Old Oak.
@@ -236,3 +244,11 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   The **locked chest** now sits inside the crown tent, apart, unopened (awaits the future cellar's
   NE corner). His books + trade instruments are under oilcloth on the crown. The **hum** is felt
   for the first time (dusk + predawn pulses). No new place-names; interior geography unchanged.
+- **ch6** — The **LUMEN** is bound and lights the Study; **Brenna's cuttings** on the Study's north
+  sill. The **Old Oak is VISITED** for the first time (route: crown → NE meadow → north wood along
+  the woodland edge); the hill answers the visit with an hour-early dusk pulse. Brenna's cottage
+  "by the birches" reconfirmed. No new exterior place-names; the oak's status promoted seen→visited.
+- **ch7** — **Kellard's yard** promoted to [PAGE]: a dry-goods store (also bank/post/"parliament")
+  with a back storeroom where Emlyn talks out a cold-spot; Kellard gives credit against the spring.
+  The **wash-house down by the beck** established (Mira's Wednesday work). A **warded barn** and a
+  **surveyor's trued instruments** are offstage trade. No new hill geography.

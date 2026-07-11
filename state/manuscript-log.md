@@ -7,13 +7,14 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–5.
-- Word count so far: ~19,300 / ~70,000 target.
-- Next to write: **Chapter 6** — the Study is finished (done in Ch5); the outline's "First Light"
-  beat: bind the LUMEN (the lamp that drinks the hill's song and gives amber light), and Brenna
-  arrives uninvited with cuttings and the question she has carried for years (her grandmother's
-  forty years of listening; the notebooks). Introduce Brenna organically; keep the keeper-plant
-  detail for her notebooks chapter. Exact shape open.
+- Drafted: Prologue + Chapters 1–7.
+- Word count so far: ~26,300 / ~70,000 target.
+- **PART I ENDS AFTER CH 7.** Next up is **Interlude I** — the hill feels a weight settle on its
+  crown (see PART BOUNDARIES). Consider writing it before Ch8, or note it as the next beat.
+- Next chapter after the interlude: **Chapter 8** — the outline's "The Lamp Business": word of the
+  lumen spreads and the practice becomes a going commercial concern (Kellard's cold-spot and the
+  candle-kindness are already seeded in Ch7; the "can such a light be had off the hill" question is
+  live from Ch6). Keep Tomas's secret and the two-grandmothers question OPEN.
 
 ---
 
@@ -197,6 +198,70 @@ alive, wanting to see what the morning brings. NEW FACTS: **Ren named & his true
 footing); Tomas met + hammer-pause seed; Maret warded-timber commerce (trade alive early); Jorin's
 "Good"; the CHEST now sits in the Study's NE corner (moved from the tent; still unopened; NE motif
 deepened as twist groundwork — do NOT explain); Cael's "Well".
+
+[06] First Light — Emlyn makes the first **LUMEN**: a lamp that does not burn but opens a small
+door and lets the hill's hum come into blown glass and warm to a deep amber light, brightening at
+the hill's two speaking hours (dusk-fail + pre-dawn) and dimming in the flat middle of the day, so
+it keeps the hill's calendar untold. Brass collar is his **second commission from Tomas**, watched
+start to finish: Tomas keeps the quietest forge Emlyn ever stood in, asks the one real question
+("What's it to hold?"), makes it to the thing the drawing reached for, and at the end starts to say
+something ("That hill,") then stops and says only "Comes on to winter early, up there. Mind it does"
+(SEED deepened — the standing promise is NOT given yet; reserved). A **failed first working** (built
+to draw/take → the hill declines, glass stays dark) teaches the lesson again: a lamp that asks is
+given; one that demands gets a dark room. **Brenna** introduced organically (herbalist by the
+birches, whose shop he smelled in Ch1): comes up the hill UNASKED with cuttings (rosemary, grey
+sage, and "soldier's-heart") and the question she has carried a month — her **grandmother spent
+forty years listening to this hill AND the old oak in the north wood** (called them "the talking
+pair"), was thought a fond fool, and left **forty years of notebooks** kept thirty years in a dry
+chest. Emlyn says he wants to see them but is not ready ("learn the hill's hand before I read
+hers"); she says it's the first sensible thing anyone's said about her gran in thirty years.
+**Two-grandmothers question EXPLICITLY FLAGGED OPEN** (Brenna's gran vs Cael's gran — same woman?
+sisters? strangers? — "the answer, when it came, was not the one I expected"). Emlyn then walks out
+to the **old oak** for the first time, lays his hand on it (feels it "turned away," listening to
+something in another room), and that evening the hill's dusk pulse comes a **full hour early and
+stronger than ever** — as if remarking that he visited the oak. CLOSING IMAGE: the edge of a third
+nameless thing (not wonder, not fear — standing at the foot of something whose top he can't see);
+he puts it aside "but not as far as I told myself," and it waits, "patient as the hill, until I was
+ready, which was not yet." NEW FACTS: **LUMEN bound** (drinks the hum → amber; brightens at the two
+hours; the practice's future commercial engine, but this one made only for himself); Tomas's quiet
+forge + deepened secret-seed (NOT the promise); Brenna named & her grandmother's forty years +
+notebooks + "talking pair" (hill & oak); **oak visited** (turned-away attention); hill answers an
+hour early the day he visits the oak; two-grandmothers question OPEN (do NOT resolve yet); soldier's-
+heart cutting on the north sill. No em dashes; 3,533 words.
+
+[07] Wednesdays — A quiet interior chapter on the shape of the life that assembled itself that
+autumn "while my back was turned" (the narrator flags it as the good part, before "the account gets
+loud again"). The day's fixed points: **Soren brings the bread up each morning** (the dense dark
+communal-oven loaf that keeps, chosen unasked because "a man alone on a hill wants bread that will
+wait"); then the kettle; then the work. **The cold-spot at Kellard's** rendered in full scene: a
+wrongness-cold three paces across spoiling his stores, grown around a small old buried grief under
+the third floorboard; Emlyn does not fight the cold but gives the thing "the thing it wanted, which
+was to be noticed," and closes the ground over it — the cold goes out between two breaths. Kellard
+pays in credit against the spring (wary formality) and three days later sends candles up with the
+lie that they came in damaged (a kindness; the account has "turned over some invisible line" — the
+village has decided to keep him). **Wednesday is the boy's day** (his mother **Mira**'s wash-house
+day down by the beck): Soren spends the afternoon on the floor by the hearth with his slate. Emlyn
+**teaches him letters** (they never fully take — "words were not where the boy lived") and figures
+(a comfortable country to him), and teaches him **to look at ground** (the first door of the trade,
+open to anyone). The boy's gift shown in scene: Emlyn shamefully **knocks his own trusted level a
+hair out of true on purpose** to test him; the boy sorts the instruments by a quality Emlyn can't
+perceive, sets the sabotaged level apart, and says **"This one's sad"** (not "wrong" — he reads the
+violence as a hurt); Emlyn confesses, trues it, is forgiven completely, and never tests him again.
+The boy's **solemnity**: on his **tenth birthday** Emlyn gives him a folding knife; he opens and
+closes it and says **"This is a serious thing to give a person."** Mira: a good woman, hard life,
+"loved him without understanding him." CLOSING (canon-heavy): at the end of one Wednesday, as the
+lumen comes up amber at the dusk pulse, the boy says, without weight, **"The hill sounds different
+when you're working"** — "warmer, like it's paying attention" — and Emlyn realizes the boy has
+**heard the hum his whole life** and never once thought it strange (grew up in the sound of it,
+assumed everyone heard). Emlyn warns him gently "best not make a great deal of it; not everyone
+hears the way you do." CLOSING IMAGE: the boy goes down the track sure-footed in the blue evening
+and Emlyn stands in his amber-lit room "understanding for the first time that I was not the one
+teaching in that house, and had not been from the start." NEW FACTS: **Soren hears the hum
+natively/lifelong** (major — his gift is deeper than Emlyn's, and older); the boy reads made things
+as feeling ("this one's sad") and sorts by an imperceptible quality; **Mira** named (Soren's mother,
+wash-house Wednesdays); **Soren's 10th birthday** + the folding knife; the practice is a going
+concern (Kellard credit, the cold-spot, the surveyor's set, a warded barn); the village has decided
+Emlyn is a neighbor; grandfather gave Soren the slate (offstage). No em dashes; 3,506 words.
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):

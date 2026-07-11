@@ -7,12 +7,16 @@
 
 ## STATUS
 
-- Chapters drafted: **Prologue + Chapters 1–3** (`manuscript/00-prologue.md`,
-  `manuscript/01-chapter-one.md`, `manuscript/02-chapter-two.md`, `manuscript/03-chapter-three.md`).
-- Current manuscript position: Chapter 4 next — Emlyn owns the hill, has moved onto it under
-  canvas, and has felt the hum for the first time; ahead is learning to "listen in earnest," the
-  first working, and raising the Study (Jorin) before autumn.
-- Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2).
+- Chapters drafted: **Prologue + Chapters 1–7** (`00-prologue.md` … `07-wednesdays.md`).
+- Current manuscript position: **Part I ends after Ch 7.** Next is **Interlude I** (the hill feels
+  a weight settle on its crown), then Ch 8 ("The Lamp Business" — the lumen becomes a commercial
+  concern). The Study is built (Ch 5); the LUMEN is bound (Ch 6); the domestic rhythm and Soren's
+  lifelong hearing are established (Ch 7).
+- Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2, Ch 5).
+- ⚠️ **NAMING COLLISION (resolve before Book Two / Ch 8):** **Mira** is now on the page as **Cael's
+  daughter / Soren's mother** (Ch 7, per the ages ledger). The bible ALSO seeds *Penworth's*
+  daughter as "Mira" (Cast + pending payoffs). Two Miras will confuse. **Rename Penworth's daughter**
+  (she has not appeared yet) — Soren's-mother Mira is now locked to the page.
 
 ## SESSION-LOCKED AUTHOR DECISIONS (binding; supersede references where they differ)
 
@@ -350,6 +354,107 @@ if it needs a new one, add it here.
   chest's corner and says **"The hill likes the room."**
 - Emlyn moves out of the tent into the Study — "the first true room of my life's second half."
 
+## ESTABLISHED ON THE PAGE (Ch 6 — "First Light")
+
+- **THE LUMEN IS BOUND (first light on the crown).** Definition on the page: "a lamp that does not
+  burn." It opens a small door and lets the hill's hum come into blown glass and warm to a **deep
+  amber** light (the color of late honey to a window), giving it back to the room. It keeps the
+  hill's calendar untold: **brightens at the two speaking hours (dusk-fail + pre-dawn), dims in the
+  flat middle of the day, burns brightest in the dark before dawn.** It is not much light (enough to
+  read a page held close). Called "lumen" only because the old word for such a made light was near
+  enough. **This first one was made for himself, NOT to sell** (the commerce comes "later, and
+  fast").
+  ⚠️ Consistency note vs LOCKED CANON: canon describes the production LUMEN as crystalline blanks in
+  three layers drinking *ambient light* (the Series) and the original drinking *hill-song*. Ch 6
+  renders only the original (hill-song → amber) as an asked-for working in blown glass; the layered
+  crystal Series is future/commercial and not yet on the page. No contradiction, but keep the
+  Series' mechanism for when it's introduced.
+- **A FAILED FIRST WORKING (instructive):** the first version was built to **draw/take** a bright
+  light; the hill declined it exactly as it declines Emlyn when he comes up to take (glass stayed
+  dark). Rebuilt smaller, asking less → it woke. Restates the thesis: "a lamp that asks a little is
+  given it; a lamp that demands gets a dark room and a lesson."
+- **TOMAS, deepened (second commission, watched start to finish):** he keeps "the quietest forge I
+  ever stood in" (does not perform); asks the one real question, **"What's it to hold?"**; makes the
+  brass collar not to the drawing but to "the thing the drawing was reaching for" (a gift met ~3
+  times in a long life). At the end he starts to say something — **"That hill,"** — then stops "at
+  the head of a stair he decided not to go down" and says only **"Comes on to winter early, up
+  there. Mind it does."** SEED deepened; the **standing promise is deliberately NOT given yet**
+  (reserved, outline Ch 10/payoff Ch 22). Emlyn files it with the Ch 5 hammer-pause.
+- **BRENNA introduced organically** (the herbalist whose shop he smelled in Ch 1; cottage at the
+  lane's end by the birches). She comes up the hill **UNASKED** (no one but the boy does) with a
+  basket of **cuttings** — rosemary, grey sage, and **"soldier's-heart"** (her grandmother's name;
+  "will flower in the dark of the year if you're kind to it and ignore it"). Set on the north sill
+  where the lumen's amber reaches. She weighs a stranger "the way she weighs her herbs."
+- **BRENNA'S GRANDMOTHER (major canon on the page):** spent **forty years** listening to **this
+  hill AND the old oak in the north wood** — called them **"the talking pair,"** said they'd been
+  talking "since before the village had a name." Thought a fond fool. Left **forty years of
+  notebooks**, kept thirty years in a dry chest, never shown because "there was no one alive who
+  wouldn't have humored me." She offers them: **"Would you want to see them."** Emlyn says yes but
+  **is not ready** ("learn the hill's hand before I read hers"; less than a year on it vs her forty).
+  Brenna: "the first sensible thing anyone has said to me about her in thirty years."
+- **⚠️ TWO-GRANDMOTHERS QUESTION EXPLICITLY OPEN (do NOT resolve):** Emlyn does not know whether
+  **Brenna's grandmother** and **Cael's grandmother** (the hill's listener, Ch 1) were the same
+  woman, sisters, or strangers who shared a hill and a habit. The narrator flags it directly: "the
+  answer, when it came, was not the one I expected. But that is well ahead of us." (Pending payoff —
+  keep both grandmothers distinct-but-unreconciled until the author chooses.)
+- **THE OLD OAK VISITED (first time):** Emlyn walks out to it (NE meadow → into the north wood along
+  his own woodland edge). Lays his hand flat on the trunk (as the boy does to stones); feels not the
+  hum but a quieter, further attention "turned away," "listening hard to something in another room."
+- **THE HILL ANSWERS THE OAK-VISIT:** that same evening the dusk-fail pulse comes **a full hour
+  early and stronger than ever felt**, as if remarking that he visited the oak. (Canon groundwork:
+  the hill/oak conversation is real; the hill notices what he does.)
+- **CLOSING:** the edge of a third nameless thing (not wonder, not fear — "standing at the foot of
+  something whose top I could not see"); put aside "but not as far as I told myself." Contentment
+  ("a word I had thought I was done with"). Below, one window at the birches-end of the lane
+  (Brenna's) stays lit late; he takes it "for company."
+
+## ESTABLISHED ON THE PAGE (Ch 7 — "Wednesdays")
+
+- **Interior/domestic chapter** on the life that assembled itself "while my back was turned" (the
+  narrator's flagged-good part, before "the account gets loud again"). Fixed points of a day:
+  **Soren brings the bread up each morning** (the dense dark communal-oven loaf that keeps a week,
+  chosen unasked because "a man alone on a hill wants bread that will wait"); then kettle; then work.
+- **THE PRACTICE IS A GOING CONCERN** (village-warming, trade alive): a warded barn against damp; a
+  surveyor's drawing-instruments trued; the **cold-spot at Kellard's storeroom** talked out (see
+  below); **Kellard extends credit against the spring.** "I have done work that shook kingdoms. I am
+  prouder of the cold-spot in Kellard's storeroom."
+- **THE COLD-SPOT AT KELLARD'S (rendered scene, method-on-the-page):** a wrongness-cold three paces
+  across (January-midnight cold in any season) spoiling his stores, **grown around a small old
+  buried grief under the third floorboard** (something buried long before the store, "asking about
+  it ever since in the only voice it had, which was cold"). Emlyn does **not fight the cold** (a
+  fool's errand that makes it dig in) but **gives it the attention it wanted and closes the ground
+  over it "like a blanket."** Cold gone between two breaths. (Reinforces the ask/attend thesis in a
+  new register: grief in the ground, not just load-bearing.) **Kellard pays in credit** (wary
+  formality — "burned by cleverer men than me") and **three days later sends candles up with the
+  lie that they came in damaged** (a kindness; "the account had turned over some invisible line" —
+  the village has decided to keep him).
+- **WEDNESDAY = THE BOY'S DAY.** His mother **Mira** (Cael's daughter; see ages ledger) has the
+  **wash-house day down by the beck** (noon to dark); Soren spends the afternoon on the Study floor
+  by the hearth with a slate his grandfather gave him.
+- **TEACHING:** Emlyn teaches him **letters** (no one had; they never fully take — "words were not
+  where the boy lived") and **figures** (a comfortable country to him), and **to look at ground**
+  (the first door of the trade, "open to anyone"). Explicitly does NOT teach him the trade proper
+  ("too young, and not, in some part I could not yet have defended, entirely mine to give").
+- **THE BOY'S GIFT SHOWN IN SCENE:** Emlyn shamefully **knocks his own trusted 20-year level a hair
+  out of true on purpose** to test him. The boy sorts the instruments by a quality Emlyn can't
+  perceive, sets the sabotaged level **apart**, and says **"This one's sad"** (not "wrong"/"out of
+  true" — reads the small violence as a *hurt*). Emlyn confesses, trues it, is forgiven completely,
+  **never tests him again.** (Soren's gift = reads made things as feeling/history, deeper than a
+  craftsman's eye.)
+- **THE BOY'S SOLEMNITY:** the gravest child Emlyn has known; takes everything at full weight. On
+  his **10th birthday** (deep autumn) Emlyn gives him a **folding knife**; he opens/closes it and
+  says **"This is a serious thing to give a person."** Mira "loved him without understanding him,
+  which is the harder kind of loving and the truer." (Corrects the tales that make the boy "a merry
+  imp.")
+- **CLOSING (major canon):** at the end of one Wednesday, as the lumen comes up amber at the dusk
+  pulse, the boy says without weight, **"The hill sounds different when you're working"** —
+  **"warmer, like it's paying attention."** Emlyn realizes the boy has **HEARD THE HUM HIS WHOLE
+  LIFE** and never once thought it strange (grew up in the sound of it; assumed everyone heard, as
+  he heard). Emlyn warns him gently: **"Best not make a great deal of it. Not everyone hears the way
+  you do."** CLOSING IMAGE: Emlyn stands in his amber-lit room "understanding for the first time
+  that I was not the one teaching in that house, and had not been from the start."
+  → **Soren's hearing is now the deepest/oldest on the page** (older than Emlyn's; native, lifelong).
+
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 
 1. **Lira — RESOLVED:** short but friendly (see session-locked decisions above). Ch 1 revised
@@ -456,7 +561,8 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 | Secret | Known by (at seed) |
 |---|---|
 | Opus is grieving Arielle | Opus; Penworth (implied); reader learns through objects |
-| The hill hums / is aware | Opus; Tomas (alone, pre-story); Soren (hears it); Brenna's grandmother (dead); Cael (suspects) |
+| The hill hums / is aware | Opus; Tomas (alone, pre-story); **Soren (has heard it his WHOLE LIFE, natively — revealed Ch 7; never thought it strange)**; Brenna's grandmother (dead); **Brenna (via her gran's notebooks, believes it now, Ch 6)**; Cael (suspects) |
+| The hill AND the old oak are "the talking pair" | Brenna's grandmother (dead); Brenna (Ch 6); Opus (told Ch 6, half-believes) |
 | Soren's talent | Opus; Cael; Soren himself (partially) |
 | Ren's talent | Opus; Jorin (sensed it); Ren (after his assessment) |
 | The compass exists | Opus only |
@@ -482,7 +588,21 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 - The hum SURFACED first-hand (Ch 3): dusk-fail + predawn pulses, below sound, felt through bone.
   Emlyn dismissed the "did it wait for me?" reading as fancy ("mostly I believed it") → the
   directed-greeting truth is reserved for Deep Grammar Phase Two (Ch 20) and the twist (Ch 28).
-- Tomas's standing promise (seed Ch 10) → kept (Ch 22).
+- **Tomas's secret, deepened (Ch 6: "That hill," → stops → "comes on to winter early… mind it
+  does"; plus the Ch 5 hammer-pause).** The STANDING PROMISE is still NOT given (reserved, outline
+  Ch 10) → kept (Ch 22). Do not let the earlier seeds read as the promise.
+- **The two-grandmothers question (OPEN, flagged on the page Ch 6):** Brenna's gran vs Cael's gran —
+  same woman / sisters / strangers? "The answer was not the one I expected." → resolve when the
+  author chooses; likely tied to the notebooks arc and the twist.
+- **Brenna's grandmother's 40 years of notebooks (offered Ch 6, Emlyn not ready to read them)** →
+  Emlyn opens them once he "knows the hill's hand"; the "talking pair" (hill + oak) reading feeds
+  the Deep Grammar arc and the Ch 28 twist.
+- **The old oak visited + the hill's hour-early answer (Ch 6)** → the hill/oak conversation arc;
+  the hill demonstrably *notices what Emlyn does* → Deep Grammar Phase Two / twist.
+- **Soren has heard the hum his whole life (Ch 7)** → his talent surfacing as the deepest in the
+  valley (Part III/IV); pairs with the Ch 2 bare-hand-on-stone and Ch 4 "it said yes."
+- **Kellard's cold-spot = a buried grief in the ground answered by attention (Ch 7)** → the
+  ask/attend thesis extended to grief-in-place; possible rhyme with Emlyn's own grief / the chest.
 - The sticking drawer / callipers (seed Ch 15) → opens when the letter is read (Ch 27).
 - The unsigned correspondent (seed Ch 14) → handwriting-in-his-notation reveal (Ch 26).
 - Lira's letters (seed/reader Ch 12) → tenor changes after the road (Ch 24, optional confession).
