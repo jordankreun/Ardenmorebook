@@ -4,7 +4,9 @@ description: >
   Draft "The Tower of Ardenmoor" Book One, a cozy, slice-of-life fantasy novel in one blended
   voice: a wry, plainspoken Terry Mancour-style teller with a constant Rothfuss undertone
   throughout, on a Le Guin restraint floor, set in a Mancour-style world where a wizard builds
-  up a real magical practice and the tower around it.
+  up a real magical practice and the tower around it. Structured Spellmonger-style: the wizard's
+  chapters are first person; other characters' chapters and the between-part interludes are
+  third-person limited.
   Use when the user wants to
   write, draft, revise, or continue chapters of the novel. Trigger on "write chapter N",
   "draft the next chapter", "revise chapter N", "continue the book", or any reference to
@@ -45,20 +47,35 @@ predate some of them; where a reference says otherwise, THIS list wins.
    schedule. When a scene's natural interaction pulls away from the outline, follow the
    scene; continuity and canon are the only fences. (This is why the drafted Ch 1 departs
    from the outline's Ch-1 sketch, and it is the correct default going forward.)
-1. **POV & frame:** FIRST-PERSON retrospective, past tense — a Kingkiller-style teller.
-   The narrator is ancient (life-force compression has made him effectively immortal; the
-   mechanism stays offstage until late in the book), looking back across centuries at
-   events from when he was a man **past forty (in his 40s) who looked a good deal younger**
-   (see the story bible's session-locked decisions and Numbers Ledger). This supersedes every "third
-   limited" instruction in the references. The Le Guin restraint floor still governs.
+1. **POV & frame — SPELLMONGER HYBRID (2026-07-11, supersedes the earlier "pure first-person
+   ancient-chronicler" frame):** the book follows Emlyn but is **not wholly in his voice.** Two modes:
+   - **Emlyn's chapters: FIRST PERSON, past tense**, in his wry-warm voice (the default; most
+     chapters). He tells his own story at a **near remove** — a man recounting his life reasonably
+     close to the living of it, with ordinary hindsight ("I didn't know it yet," "I'd learn soon
+     enough"), the way Mancour's Minalan narrates. **NOT** an ancient chronicler writing centuries
+     later. **Drop the deep-time framing:** no "longer than kingdoms," no "everyone I knew is gone,"
+     no self-conscious "this account / I set it down," and no correcting-the-legends meta ("the
+     tales, when they mention the boy…"). His longevity/younger-than-his-years is a faint offstage
+     hint at most, never the narrating stance.
+   - **Other characters' chapters + ALL interludes: THIRD-PERSON LIMITED**, past tense, on that one
+     character (or the hill, for interludes), in the **same blended voice.** The book shifts to
+     another POV for a chapter (or an interlude) when the reader needs a scene that happens away from
+     Emlyn — Lira and her letters, Tomas alone at the forge, the hill between the parts. Mostly
+     Emlyn; step out deliberately, not idly. One POV per chapter (no mid-chapter head-hopping).
+   This supersedes every "third limited on Opus / pure first person" instruction in the references.
+   The Le Guin restraint floor still governs both modes.
 2. **Protagonist's name:** **Emlyn Ambrose**. "Opus" in the reference docs is the campaign
    name — read every "Opus" as Emlyn. On the page only "Emlyn" has been given; the surname
    Ambrose is deliberately withheld from the reader until the author chooses to reveal it.
-3. **Pure first person:** no third-person scenes for away-threads (Cecily, the city, the
-   Conclave) — news reaches Emlyn by letter, visitor, or rumor. The hill's four seasonal
-   INTERLUDES and the Lira reader-superior device must be adapted to the teller's frame
-   (the ancient narrator may tell the reader what he only later learned); the exact
-   treatment is an open author decision logged in the story bible.
+3. **Away-threads and other-POV (updated 2026-07-11, supersedes "pure first person"):** the book
+   MAY now leave Emlyn for a third-person-limited chapter or interlude when a scene the reader needs
+   happens where Emlyn is not. Use it for the hill's four seasonal **INTERLUDES** (third person, the
+   hill's wordless perception) and for the **Lira reader-superior device** (a third-person Lira
+   chapter where the reader sees her write and seal a letter). Keep it disciplined: most chapters
+   stay Emlyn/first-person; a distant thread still usually reaches him by letter, visitor, or rumor;
+   only cut away when the away-scene is worth its own chapter. Do NOT enter a POV that would spend a
+   mystery early (no inside-Tomas's-head chapter before his confession; no hill-interior that states
+   the twist).
 4. **The arrival (as drafted):** grounded and transactional — Penworth found the parcel
    and provisionally purchased the hill AND the surrounding land; Emlyn came to view it
    before completing the purchase; Cael expected him via the winter's correspondence. No
@@ -198,9 +215,11 @@ line of dialogue — never a question to the reader, never a cliffhanger (except
 on the needle).
 
 **Write to a file.** Save as `manuscript/NN-slug.md` (zero-padded, e.g. `07-wednesdays.md`;
-the prologue is `00-prologue.md`) with a small front-matter header: chapter number, title, POV
-(Emlyn, first-person retrospective, past tense), season/day, word count, and the threads
-touched. Do NOT put the title as an in-prose heading inside the scene.
+the prologue is `00-prologue.md`; interludes between parts as `NNb-interlude-*.md` so they sort
+into place, e.g. `07b-interlude-one.md`). Give each a small front-matter header: chapter number,
+title, **POV** (either "Emlyn, first person, past tense" or "third-person limited on <name>, past
+tense" for an other-POV chapter/interlude), season/day, word count, and the threads touched. Do NOT
+put the title as an in-prose heading inside the scene.
 
 **Update state (this is mandatory — continuity falls apart without it):**
 - Append a recap line to `state/manuscript-log.md`: chapter number, title, one-sentence
@@ -250,7 +269,11 @@ into a spreadsheet. Lyric attention trained on a built, working world, on a floo
 The full articulation is in `references/voice-rothfuss-mancour.md` and governs everything.
 
 Hard voice rules (from the style guide, non-negotiable):
-- Third limited on Opus, past tense. Interludes (4, between parts) are the hill's wordless POV.
+- **POV (Spellmonger hybrid, session-lock #1):** Emlyn's chapters are FIRST PERSON, past tense, in
+  his immediate wry-warm voice (no ancient-chronicler framing). Other characters' chapters and the
+  four between-part interludes are THIRD-PERSON LIMITED on one character (the hill, for interludes),
+  same blended voice. Mostly Emlyn; step out only when the reader needs an away-scene. One POV per
+  chapter.
 - Concrete anchor for every abstraction. Name no emotion the reader can infer from behavior.
 - The prose gets QUIETER at the biggest moments, not louder.
 - No modern idiom, no techspeak, no fake-archaic incantations. Magic is silent craft.

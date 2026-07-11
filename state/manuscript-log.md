@@ -7,12 +7,13 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–8.
-- Word count so far: ~30,300 / ~70,000 target.
-- **PART I ENDS AFTER CH 7 → INTERLUDE I IS STILL PENDING (author decision OPEN).** The hill's-POV
-  interludes are load-bearing frame (outline), but the first-person adaptation is session-lock #6,
-  flagged OPEN. Ch 8 was written to keep momentum with the interlude deferred; a marker sits at the
-  Part I boundary. **Decide the interlude treatment (framed / omitted) before it drifts further.**
+- Drafted: Prologue + Chapters 1–8 + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
+- Word count so far: ~30,800 / ~70,000 target.
+- **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8 opens Part II.
+- **✅ POV RESOLVED → SPELLMONGER HYBRID (2026-07-11):** Emlyn's chapters stay first person but told
+  **close to the events** (deep-time / ancient-chronicler / famous-legend / memoir framing removed);
+  other characters' chapters and the four interludes are **third-person limited**. Interlude I is
+  written in that mode. See the POV-REWRITE note in the ledger below and session-lock #1.
 - **⏱ CALENDAR NOTE:** the manuscript has compressed the outline's four seasons. We are now at the
   **very edge of winter** (Ch 8: "dead of the year," first hard frosts). The outline's Part II
   (summer) beats are being pulled forward into late autumn / early winter. Book One still ends in
@@ -310,6 +311,42 @@ warmed (first Series lamp). No em dashes; 4,047 words. Two feedback-engine judgm
 out-of-strict-chronology placement of the Brenna gift (flagged in-voice as the teller arranging his
 account). Do NOT preempt: the three probing correspondents (Ch 14/26) are NOT yet mentioned — only
 the existence/location of the unpublished work.
+
+[I1] Interlude I (between Ch 7 and Ch 8) — FIRST interlude, **third person, the hill's wordless
+POV** (504 words). The hill "does not keep years"; it keeps the slow grain and its two risings
+(dusk + predawn). Weights have crossed its crown before: rain, beasts, and once "a weight that
+pushed" (Cael's father's stone) which it loosened with frost and gave back "over a season" ("neither
+triumph nor sorrow, only the grain having its way"). THIS weight (Emlyn) is different: it did not
+push, it **asked**, and the hill "had not been asked in longer than the old one in the wood has
+stood," and it "turned toward it, the way roots turn toward water." It knows the weight's edges now:
+a smaller grave weight that lays a bare hand on the stone (Soren) and "goes very still"; a light that
+"drinks the fall-of-light rising and gives it back gentled" (the lumen). The old oak, far off, "feels
+the hill go quiet in a new way, and holds still, and waits, as it has always waited." CLOSING: the
+hill settles the weight deeper and holds it; "the grain has changed its lie… and it will not change
+back." NO twist stated; no named emotions; fragments allowed (interlude license). Reader-superior:
+we see the hill notice/turn-toward, which Emlyn only suspects. Do NOT let later interludes state the
+door/compass twist (reserved for the Ch-28 payoff + Interlude IV coda "at last").
+
+POV REWRITE — SPELLMONGER HYBRID (2026-07-11): at the author's request ("more in line with Terry
+Mancour's Spellmonger… follows the main character but isn't wholly in his voice… changes perspective
+per chapter… we can do interludes"), converted the book's POV doctrine. **Emlyn 1st person / others
++ interludes 3rd person**, chosen by the author; rewrite-all chosen. Applied a **framing pass to the
+Prologue + Ch 1–8**: kept first person, the blended voice, every beat/canon/line of dialogue, and the
+no-em-dash rule; REMOVED the ancient-chronicler / immortal-deep-time / famous-legend / self-conscious-
+memoir framing (softened "in a long life"→"in my time / over the years"; cut "the tellers have hung
+on that morning," "I have promised you an honest accounting," "work that shook kingdoms"→"work that
+clever men still argue over," "before the account gets loud"→"before things get loud," "in this
+account"→"that happened to me on that hill," "the furniture of the tales"→"the furniture a story
+would give it"). KEPT Mancour's ordinary near-hindsight ("I did not know then," "for reasons I will
+come to") and the faint younger-than-his-years hint (Ch 1). The **Prologue was rewritten** lean and
+immediate (459→213 words): drops the "I've reached the age to write things down / everyone is gone /
+not a man they sing about / half-myth tales" memoir apparatus; keeps "no wonder, no boy, only a man
+at the tired end of a bad few years," adds a warm forward close ("how a hill nothing would stand on
+came to hold a tower, and how the man who built it there got, without ever quite meaning to, a life
+back"). General "magic is less flashy than the stories" asides ("whatever the tales tell you") were
+KEPT (they don't invoke Emlyn's personal legend). All 8 chapters still clear the 3,500 floor; 0 em
+dashes. Skill files updated: SESSION-LOCKED #1 & #3, style-guide POV section + interludes, voice guide
+(POV/frame blocks), feedback-engine P5 (new POV check), outline POV & Structure, and this log.
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):

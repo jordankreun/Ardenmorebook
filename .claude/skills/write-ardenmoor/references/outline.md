@@ -61,9 +61,22 @@ Supporting themes: teaching as healing; being known (the hill learning Opus's sh
 
 ## POINT OF VIEW & STRUCTURE
 
-Single third-person limited POV on Opus, past tense. Four seasonal parts (Spring / Summer / Autumn / Early Winter), 28 short chapters (~2,200–2,800 words each; ~70,000 words total). Between parts, four brief italic **Interludes** (half a page each) written from the hill's perception — wordless, geologic, patient. These are the only departures from Opus's POV and they carry the mystery's pulse. The reader always knows slightly more than Opus about how much the hill notices.
+**POV — SPELLMONGER HYBRID (updated 2026-07-11; supersedes the earlier "single third-limited on
+Opus"):** the book follows Emlyn but is not wholly in his voice. **Emlyn's chapters are first
+person, past tense** (the default, most of the book), told close to the events with ordinary
+hindsight, not from an ancient-chronicler remove. **Other characters' chapters and the interludes
+are third-person limited** on one head, same blended voice, used when the reader needs a scene away
+from Emlyn. Chapter length runs longer than first planned (session-lock #7: ~3,500–5,000 words,
+~3,500 a hard floor), so the book is fewer/longer chapters than the 28 sketched here and the season
+frame compresses toward the first winter. Between parts, four short **Interludes** from the hill's
+perception — third person, wordless, geologic, patient — carry the mystery's pulse; the reader
+always knows slightly more than Emlyn about how much the hill notices.
 
-**Reader-superior tension device:** the reader is shown (Ch 12) that Lira writes letters to a Conclave contact before Opus confirms it. This converts her tavern scenes from mere frostiness into gentle suspense without ever raising the stakes above "village."
+**Reader-superior tension device:** the reader is shown (around Ch 12) that Lira writes letters to a
+Conclave contact before Emlyn confirms it. With the hybrid POV this is now best done as its own
+**third-person Lira chapter** — we sit in her head as she writes and seals the letter — converting
+her tavern scenes from mere frostiness into gentle suspense without ever raising the stakes above
+"village."
 
 ---
 

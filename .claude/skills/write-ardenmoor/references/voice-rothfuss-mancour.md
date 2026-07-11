@@ -31,9 +31,15 @@ voice like this:
   the money, the building, the competence — rendered with relish and humor, not veiled in lyricism.
   A paragraph about how something was done is welcome and does not need a poetic finish.
 - **Keep, unchanged:** the Le Guin restraint floor (name no emotion, explain no silence, go quieter
-  at the biggest moments), first-person retrospective past tense (per SESSION-LOCKED DECISIONS —
-  the "third-limited" language below is stale, read it as first person; "Opus" = Emlyn), canon, and
-  the no-em-dash rule.
+  at the biggest moments), canon, and the no-em-dash rule.
+- **POV (Spellmonger hybrid — session-lock #1, 2026-07-11; supersedes both the "third-limited" and
+  the "pure-first-person ancient-teller" language elsewhere in this doc):** Emlyn's chapters are
+  **first person, past tense**, told at a near remove (close to the events, ordinary hindsight),
+  **not** as an ancient chronicler recording legends decades on. Other characters' chapters and the
+  four interludes are **third-person limited** on one character (the hill, for interludes), same
+  blended voice. Read every "third-limited on Opus" and every "ancient narrator / longer than
+  kingdoms / this account" line below as stale: keep the intimacy and the wry hindsight, drop the
+  deep-time chronicler frame. "Opus" = Emlyn throughout.
 - **Sentence length (run-on discipline):** the wry-plain register runs on *shorter, cleaner*
   sentences. Do not chain four or five independent clauses with "and, and, and"; break them. No
   comma splices. A long cumulative sentence is allowed occasionally, on purpose, for rhythm, but it
@@ -71,12 +77,16 @@ the book's pleasure and most of its plot at the domestic level. Tell it; don't t
 
 ## WHAT CARRIES THE BOOK (Rothfuss, foregrounded)
 
-**A teller, not just a camera.** We stay in third-limited past tense, but the narration should
-feel nearly as intimate as first person — we live behind Opus's eyes and inside his particular
-intelligence. He notices precisely, remembers sideways, and reflects with a dry, earned wisdom.
-The reader should feel *told* the story by someone who knows how it goes and is choosing, kindly,
-what to dwell on. That choosing — where the narrator lingers, what he passes over in a line — is
-the book's pulse. Let it breathe. A chapter is allowed to slow down and simply attend.
+**A teller, not just a camera.** In Emlyn's chapters we are in first person, living behind his eyes
+and inside his particular intelligence; in an other-character chapter we sit just as close in
+third-person limited on that person. Either way the narration is intimate: someone who was there,
+noticing precisely, remembering sideways, reflecting with a dry, earned wisdom. The reader should
+feel *told* the story by someone who knows how it goes and is choosing, kindly, what to dwell on.
+That choosing — where the narrator lingers, what he passes over in a line — is the book's pulse.
+Let it breathe. A chapter is allowed to slow down and simply attend. **One caution on the teller's
+distance:** Emlyn narrates close to the living of his life, with the everyday hindsight of a man who
+has since thought about it, not from an ancient chronicler's centuries-away vantage. Keep the
+hindsight ("I didn't know it yet"); drop the deep-time frame.
 
 **Sensory precision as a moral act.** The exact quality of a sound, a light, a silence is worth
 getting right: the specific amber of the LUMEN, the half-beat pause in Tomas's hammer, the way
@@ -165,9 +175,11 @@ when something enormous happens the prose goes *quieter*.
 The balance shifts with the scene, and you feel it rather than measure it. Working scenes carry
 more concrete craft, with the wonder let in a sentence at a time. Domestic and relationship
 scenes are warm and closely observed, the noticing doing the work the speech won't. Grief and
-threshold scenes are where the music lives — and where it must be quietest, most withheld. The
-interludes belong to no one but the hill: geologic patience, fragments, no interiority, no craft.
-That is the one place the teller falls silent.
+threshold scenes are where the music lives — and where it must be quietest, most withheld. An
+other-character chapter (third-person limited on Lira, say) carries the same blended voice, now
+tuned to that person's intelligence rather than Emlyn's: what Lira notices, weighs, and will not
+say. The interludes belong to no one but the hill: geologic patience, fragments, no interiority, no
+craft. That is the one place the teller falls silent.
 
 If you ever find yourself deciding a percentage, stop and just listen to the paragraph.
 

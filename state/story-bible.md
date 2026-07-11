@@ -7,11 +7,16 @@
 
 ## STATUS
 
-- Chapters drafted: **Prologue + Chapters 1–7** (`00-prologue.md` … `07-wednesdays.md`).
-- Current manuscript position: **Part I ends after Ch 7.** Next is **Interlude I** (the hill feels
-  a weight settle on its crown), then Ch 8 ("The Lamp Business" — the lumen becomes a commercial
-  concern). The Study is built (Ch 5); the LUMEN is bound (Ch 6); the domestic rhythm and Soren's
-  lifelong hearing are established (Ch 7).
+- Chapters drafted: **Prologue + Chapters 1–8 + Interlude I** (`00-prologue.md` … `08-the-lamp-
+  business.md`; Interlude I is `07b-interlude-one.md`, between Ch 7 and Ch 8).
+- **POV = SPELLMONGER HYBRID (2026-07-11):** Emlyn's chapters first person (told close to events, no
+  ancient-chronicler frame); other characters' chapters + the four interludes third-person limited.
+  The Prologue + Ch 1–8 were given a framing pass to strip the old deep-time/legend/memoir framing;
+  Interlude I is the first third-person hill's-POV passage. See session-lock #1 and the POV-REWRITE
+  note in the manuscript log.
+- Current manuscript position: **Part I complete** (Prologue, Ch 1–7, Interlude I); Ch 8 opens Part
+  II. The Study is built (Ch 5); the LUMEN is bound (Ch 6); the domestic rhythm and Soren's lifelong
+  hearing established (Ch 7); the Series lamp / commerce and the shelf-gap grief object (Ch 8).
 - Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2, Ch 5).
 - ⚠️ **NAMING COLLISION (resolve before Book Two / Ch 8):** **Mira** is now on the page as **Cael's
   daughter / Soren's mother** (Ch 7, per the ages ledger). The bible ALSO seeds *Penworth's*
@@ -54,12 +59,16 @@
   confession and the gran-knew-gran story are CUT). Any warmth reaches the page only through spare
   service. Her Conclave-informant thread still stands (the reserve suits it). Adapt the Ch-12
   reader-superior device accordingly.
-- **POV/frame:** first-person retrospective (Kingkiller-style teller), past tense. The narrator
-  is ancient — life-force compression has made him effectively immortal (mechanism offstage
-  until late). In-scene at the opening he is **in his 40s (past forty) but looks a good deal
-  younger than his years** — an early, indirect hint of his nature, never explained on the page
-  yet (Ch 1: "past forty… have never worn it where a man can see, for reasons that belong
-  further along"). Widowed ~3 years.
+- **POV/frame — SPELLMONGER HYBRID (2026-07-11, supersedes the earlier "ancient-chronicler
+  first-person" frame):** the book follows Emlyn but is not wholly in his voice. **Emlyn's chapters:
+  first person, past tense**, told **close to the events** with ordinary hindsight (Mancour's
+  Minalan), NOT from an ancient chronicler's centuries-away vantage. Drop the deep-time framing (no
+  "longer than kingdoms," no "everyone I knew is gone," no "this account / I set it down," no
+  correcting-the-legends meta). His immortality/younger-than-his-years is a **faint offstage hint at
+  most**, never the narrating stance. In-scene at the opening he is **in his 40s (past forty) but
+  looks a good deal younger** — kept as a light hint. Widowed ~3 years. **Other characters' chapters
+  and the four interludes: third-person limited** on one head, same blended voice, used only when the
+  reader needs a scene away from Emlyn; never a POV that spends a mystery early.
 - **Penworth (revised — reconcile older drafts):** roughly **Emlyn's OWN age** (NOT a
   generation older — never write him "old"); took over the running of Emlyn's affairs **about a
   decade ago**; a career man of affairs (long general career, ~10 yrs of it with Emlyn). He is
@@ -73,10 +82,13 @@
 - **Name:** the protagonist is **Emlyn Ambrose** in the novel ("Opus" = campaign name in the
   reference docs; read as Emlyn). Only "Emlyn" given on the page so far; **Ambrose withheld**
   until the author chooses to reveal it.
-- **Pure first person:** away-threads reach Emlyn only by letter/visitor/rumor. The four hill
-  INTERLUDES and the Lira reader-superior device (Ch 12) need first-person adaptation — the
-  recommended treatment is the ancient narrator telling the reader what he only later learned
-  ("I did not know then that..."). OPEN DECISION.
+- **Away-threads & other-POV — RESOLVED (2026-07-11, Spellmonger hybrid):** the book MAY leave
+  Emlyn for a third-person-limited chapter or interlude when the reader needs a scene where he is
+  not. The four hill **INTERLUDES** are third person (the hill's wordless perception); the **Lira
+  reader-superior device** is now a third-person Lira chapter (the reader watches her seal a Conclave
+  letter, ~Ch 12). Otherwise most chapters stay Emlyn/first-person and distant threads still usually
+  reach him by letter/visitor/rumor. Do not choose a POV that spends a mystery early (no inside-Tomas
+  chapter before his confession; no hill-interior stating the twist).
 - **Arrival:** Penworth found and provisionally purchased the hill + surrounding land — the
   hill is of NO agricultural worth, but the holdings deliberately include **leasable farmland
   (plough-land in the bottoms)** Emlyn will eventually set to tenant families for rents, plus
@@ -121,17 +133,18 @@ if it needs a new one, add it here.
 
 ## ESTABLISHED ON THE PAGE (Prologue + Ch 1)
 
-- **Prologue ("good wizard disclaimer": vague, cryptic, friendly, em-dash-free):** MOTIVE for
-  writing = (1) he has reached the age where a man sets things down, "simply what one does," and
-  (2) the few, badly-warped tales that got loose deserve one true accounting. He is **NOT famous**
-  — "not a man they sing about" and "took a good deal of quiet care… that it should stay so";
-  only the occasional garbled story survives, "half myth and half plain nonsense" (updated per
-  author note — he is minor-key, not a legend). Memory explicitly NOT failing ("mine has never
-  gone… a great deal longer than most men to put it to the test": denies memory loss AND hints
-  longevity). Does NOT state age/widowhood/power outright, only "a man at the tired end of a bad
-  few years, with rather more skill than sense." Button: "a younger and a good deal more foolish
-  version of myself… had not the first idea that it was coming" (chosen to de-duplicate vs Ch 1's
-  road/spring opening).
+- **Prologue (REWRITTEN 2026-07-11 for the Spellmonger-hybrid POV — lean & immediate, 213 words,
+  em-dash-free):** the old ancient-chronicler / memoir-apologia version is GONE (dropped: "reached
+  the age to write things down," "memory has never gone / longer than most men," "everyone is gone,"
+  the deep-time frame). The new prologue is a short, immediate first-person doorway. KEPT: he is
+  **NOT famous** (light touch only: "I never wanted to be a man anyone sang about, and I was not
+  one"); the "true version, or near enough" framing (one line, not the whole conceit); **"no wonder,
+  no boy, only a man at the tired end of a bad few years, with a good deal more skill than sense"**;
+  "go easy with him… he did not yet know how any of it would turn out"; a light retrospective
+  fondness ("I was fond of very nearly all of them"). NEW warm forward close (sets the cozy premise):
+  *"how a hill that nothing would stand on came at last to hold a tower, and how the man who built it
+  there got, without ever quite meaning to, a life back."* Does NOT state age/widowhood/power/
+  immortality. No deep-time, no legend apparatus.
 - **Ch 1 events:** third week of spring; four-day ride alone on Snow (mare); Penworth's
   3-page letter ("a hill of no agricultural worth and considerable quiet") provisionally
   secured hill + land; road modest/indifferently kept and **poorly marked** but real (NOT
@@ -675,4 +688,6 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 - Twist configuration — primary (compass points down + handwriting hook) recommended; alternates
   in the outline if the author prefers Drace's visit or Lira's confession as the closing pressure.
 - Title — working options: *Ask for Passage* / *The Hill's Good Place* / *Foundations*.
-- Interlude/reader-superior first-person adaptation (session-locked #6) — still OPEN.
+- Interlude / reader-superior POV — RESOLVED (2026-07-11): **Spellmonger hybrid** — interludes and
+  other-character scenes are third-person limited; Emlyn's chapters stay first person (told close to
+  events, no ancient-chronicler frame). Interlude I is written (`07b-interlude-one.md`).

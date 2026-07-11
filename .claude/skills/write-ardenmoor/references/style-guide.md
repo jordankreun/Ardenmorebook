@@ -42,13 +42,30 @@ image stand. Test every aside: *does it finish the thought it starts?* If not, c
 
 **The hum.** The hill's sub-harmonic is never described the same way twice, and never as sound alone: it is felt in the soles of the feet, in the bones, as pressure, as attention, as "a knowing." Keep it below hearing. Its two daily pulses (dusk, predawn) can mark scene time.
 
-**Interludes.** Four half-page italic passages from the hill's perception between parts. No dialogue, no named emotions, geologic patience. The hill has no words; it has weight, warmth, direction, and waiting. Sentence fragments allowed here and only here.
+**Interludes.** Four short passages from the hill's perception between parts, third person, present or timeless in feel. No dialogue, no named emotions, geologic patience. The hill has no words; it has weight, warmth, direction, and waiting. Sentence fragments allowed here and only here. Keep them short (roughly half a page to a page) and set apart from the numbered chapters (`NNb-interlude-*.md`). They carry the mystery's pulse and always know a little more than Emlyn does about how much the hill notices; they never state the twist outright.
 
 ---
 
-## POINT OF VIEW DISCIPLINE
+## POINT OF VIEW DISCIPLINE (Spellmonger hybrid — updated 2026-07-11)
 
-Third limited on Opus, past tense, throughout (interludes excepted). We may see others notice things Opus misses only via what is physically observable — Lira folding a letter, Jorin's hammer pausing a half-beat. Never enter another head. Opus's interiority is dry, precise, and self-aware; he observes his own grief the way he'd observe a ward with a flaw he isn't ready to repair.
+The book follows Emlyn but is **not wholly in his voice.** Two modes, one per chapter, never mixed
+within a chapter:
+
+- **Emlyn's chapters (the default, most of the book): FIRST PERSON, past tense.** His voice: dry,
+  precise, self-aware, warm underneath; he observes his own grief the way he'd observe a ward with a
+  flaw he isn't ready to repair. He tells it at a **near remove** — close to the living of it, with
+  ordinary hindsight ("I didn't know it yet") — **not** as an ancient chronicler decades later. No
+  deep-time framing, no "this account," no correcting the legends about himself. Inside an Emlyn
+  chapter we still never enter another head: we see others only through what is physically observable
+  (Lira folding a letter, Jorin's hammer pausing a half-beat).
+- **Other-character chapters + interludes: THIRD-PERSON LIMITED**, past tense, on one character (or
+  the hill, for interludes), in the same blended voice. Used when the reader needs a scene away from
+  Emlyn (Lira sealing a Conclave letter; Tomas alone with the hum before his confession — but only
+  *after* the mystery can bear it; the hill between parts). Stay in that one head for the whole
+  chapter; no head-hopping. Reserve it — most chapters are Emlyn's.
+
+Never spend a mystery early by choosing a POV that knows too much: no inside-Tomas chapter before
+his confession beat, no hill-interior that states the twist.
 
 ---
 

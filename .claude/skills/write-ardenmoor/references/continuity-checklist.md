@@ -37,8 +37,12 @@
 - [ ] Season/day/light are consistent with the previous chapter's timeline.
 
 **Voice**
-- [ ] First-person retrospective on Emlyn, past tense (session-locked POV; supersedes the
-      references' "third limited"). Interludes are the hill's wordless POV.
+- [ ] POV correct for the chapter (Spellmonger hybrid, session-lock #1): an **Emlyn chapter** is
+      **first person, past tense**, told close to the events, with NO ancient-chronicler / deep-time /
+      famous-legend / "this account" memoir framing (Mancour near-hindsight like "I didn't know it
+      yet" is fine). An **other-character chapter or interlude** is **third-person limited** on one
+      head (the hill, for interludes), same blended voice, no first-person slips, no head-hopping, no
+      POV that spends a mystery early.
 - [ ] **NO EM DASHES (—) anywhere** — prose, dialogue, or chapter titles (hard house rule).
       Asides/pauses use commas, periods (favored), semicolons, colons, or parentheses, varied for
       natural flow; ellipsis for a trailing/cut-off line. Grep the file to be sure.

@@ -133,9 +133,18 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 
 ## P5 — VOICE & EMOTIONAL REGISTER
 
-- **[CHECK] The fixed voice holds:** Le Guin's restraint floor; first person, past tense; longevity
-  implied, never stated. No modern idiom, no techspeak, no fake-archaic incantation. *Source: "very
-  kingkiller"; the voice note.*
+- **[CHECK] The fixed voice holds:** Le Guin's restraint floor; the blended voice; longevity
+  implied, never stated. No modern idiom, no techspeak, no fake-archaic incantation.
+- **[CHECK] POV is right for the chapter (Spellmonger hybrid).** An **Emlyn chapter** is FIRST
+  person, past tense, told close to the events with ordinary hindsight. Flag and cut any **ancient-
+  chronicler / deep-time framing** that crept in: "longer than kingdoms," "everyone I knew is gone,"
+  "this account," "I set it down," "the tales, when they mention…," or a narrator writing from
+  centuries later. Keep Mancour's near-hindsight ("I didn't know it yet"); drop the memoir frame. An
+  **other-character chapter or interlude** is THIRD-person limited on ONE head, past tense, same
+  blended voice; flag any slip into "I/we" or into a second head (no head-hopping), and any POV that
+  spends a mystery early (inside Tomas before his confession; a hill-interior that states the twist).
+  *Source: "more in line with Spellmonger… follows the main character but isn't wholly in his voice…
+  changes perspective per chapter… we can do interludes"; session-lock #1.*
 - **[CRAFT] ONE blended voice — Mancour surface, Rothfuss undertone throughout (not
   compartmentalized).** The teller is wry, plainspoken, competent-professional, and direct on the
   surface of EVERY paragraph, with a constant Rothfuss undertone under EVERY paragraph (warmth, the
