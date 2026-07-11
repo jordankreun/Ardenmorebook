@@ -4,6 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The Tower of Ardenmoor</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#efe9dc" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15120d" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Ardenmoor">
 <style>
   :root{
     color-scheme: light dark;
@@ -197,6 +205,24 @@
   .segbtn.active{border-color:var(--accent);color:var(--accent);font-weight:600}
   .seg{display:inline-flex;gap:.3rem}
 
+  #settings select{font:inherit;font-size:.82rem;color:var(--fg);background:var(--bg);border:1px solid var(--rule);border-radius:8px;padding:.3rem .35rem;max-width:9.6rem}
+  .setLbl{font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:.7rem .2rem .2rem;border-top:1px solid var(--rule);padding-top:.6rem}
+
+  /* ---------- read-aloud (text-to-speech) player ---------- */
+  #tts{position:fixed;left:max(.7rem,env(safe-area-inset-left));bottom:calc(1.1rem + env(safe-area-inset-bottom));z-index:78;
+    display:flex;align-items:center;gap:.1rem;background:var(--panel);border:1px solid var(--rule);
+    border-radius:999px;box-shadow:0 6px 22px var(--shadow);padding:.22rem}
+  #tts.hide{display:none}
+  #tts button{display:inline-flex;align-items:center;justify-content:center;width:2.35rem;height:2.35rem;
+    border:0;border-radius:999px;background:transparent;color:var(--fg);cursor:pointer;padding:0}
+  #tts button:hover{background:var(--bg)}
+  #tts button.main{background:var(--accent);color:#fff}
+  #tts .rate{min-width:2.6rem;width:auto;font:inherit;font-size:.78rem;color:var(--muted)}
+  #tts .rate:hover{color:var(--fg)}
+  #tts .ic{width:1.15rem;height:1.15rem}
+  #tts.collapsed .stop,#tts.collapsed .rate{display:none}
+  .tts-on{background:rgba(154,106,58,.20);background:color-mix(in srgb, var(--accent) 24%, transparent);border-radius:4px;padding:0 .04em}
+
   #toast{position:fixed;left:50%;bottom:1.6rem;transform:translateX(-50%) translateY(1.5rem);background:var(--fg);color:var(--bg);padding:.55rem 1rem;border-radius:999px;font-size:.9rem;opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:80;box-shadow:0 6px 24px var(--shadow)}
   #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
   #status{max-width:38rem;margin:3rem auto;padding:0 1.4rem;color:var(--muted);text-align:center}
@@ -259,6 +285,19 @@
       <button class="segbtn" data-theme-set="dark" aria-label="Dark theme"></button>
     </div>
   </div>
+  <div id="ttsSettings">
+    <div class="setLbl">Read aloud</div>
+    <div class="setRow"><span class="lbl">Speed</span>
+      <div class="seg">
+        <button class="segbtn" data-rate="0.8" aria-label="Slow">0.8×</button>
+        <button class="segbtn" data-rate="1" aria-label="Normal speed">1×</button>
+        <button class="segbtn" data-rate="1.25" aria-label="Fast">1.25×</button>
+      </div>
+    </div>
+    <div class="setRow"><span class="lbl">Voice</span>
+      <select id="voiceSelect" aria-label="Reading voice"></select>
+    </div>
+  </div>
 </div>
 
 <div id="sheetWrap"><div id="sheetScrim"></div><div id="sheet" role="dialog" aria-modal="true" aria-label="Editor"></div></div>
@@ -270,6 +309,13 @@
 </div>
 
 <main id="book"><p id="status">Gathering the pages…</p></main>
+
+<div id="tts" class="collapsed hide" aria-label="Read aloud">
+  <button class="main" id="ttsPlay" aria-label="Read aloud from here"></button>
+  <button class="stop" id="ttsStop" aria-label="Stop reading"></button>
+  <button class="rate" id="ttsRate" aria-label="Reading speed">1×</button>
+</div>
+
 <div id="toast"></div>
 
 <script>
@@ -279,7 +325,7 @@
   var KEY_PROGRESS="ardenmoor.progress.v1", KEY_BOOKMARK="ardenmoor.bookmark.v1",
       KEY_FS="ardenmoor.fontsize.v1", KEY_THEME="ardenmoor.theme.v1", KEY_NOTES="ardenmoor.comments.v1",
       KEY_REVS="ardenmoor.revisions.v1", KEY_SECRET="ardenmoor.sync.secret.v1",
-      KEY_MODE="ardenmoor.mode.v1";
+      KEY_MODE="ardenmoor.mode.v1", KEY_RATE="ardenmoor.tts.rate.v1", KEY_VOICE="ardenmoor.tts.voice.v1";
 
   /* ---------- inline lucide icons (same paths lucide-react ships, 2px stroke) ---------- */
   var ICON={
@@ -295,7 +341,11 @@
     aDown:'<path d="M3.5 13h6"/><path d="m2 16 4.5-9 4.5 9"/><path d="M18 7v9"/><path d="m14 12 4 4 4-4"/>',
     aUp:'<path d="M3.5 13h6"/><path d="m2 16 4.5-9 4.5 9"/><path d="M18 16V7"/><path d="m14 11 4-4 4 4"/>',
     copy:'<rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/>',
-    download:'<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/>'
+    download:'<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/>',
+    headphones:'<path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M16 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2z"/><path d="M21 16v-3a9 9 0 0 0-18 0v3"/>',
+    play:'<polygon points="6 3 20 12 6 21 6 3"/>',
+    pause:'<rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/>',
+    square:'<rect x="5" y="5" width="14" height="14" rx="2"/>'
   };
   function svg(name, cls){ return '<svg class="ic'+(cls?" "+cls:"")+'" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+(ICON[name]||"")+'</svg>'; }
 
@@ -919,6 +969,96 @@
     if(e.key==="ArrowRight"){ gotoChapter(currentChapterIndex()+1); }
     else if(e.key==="ArrowLeft"){ gotoChapter(currentChapterIndex()-1); }
   });
+
+  /* ---------- read-aloud (Web Speech; on-device, works offline) ---------- */
+  var TTS=(function(){
+    var supported=("speechSynthesis" in window)&&("SpeechSynthesisUtterance" in window);
+    var el=document.getElementById("tts"), btnPlay=document.getElementById("ttsPlay"),
+        btnStop=document.getElementById("ttsStop"), btnRate=document.getElementById("ttsRate"),
+        voiceSel=document.getElementById("voiceSelect");
+    var RATES=[0.8,0.9,1,1.1,1.25,1.5];
+    var rate=parseFloat(localStorage.getItem(KEY_RATE))||1;
+    var voiceURI=localStorage.getItem(KEY_VOICE)||"";
+    var voices=[], voice=null, queue=[], qi=0, playing=false, paused=false, curP=null, keep=null;
+    if(!supported){ if(el) el.classList.add("hide"); var ts=document.getElementById("ttsSettings"); if(ts) ts.style.display="none"; return {supported:false}; }
+    el.classList.remove("hide");
+
+    function loadVoices(){
+      var all=window.speechSynthesis.getVoices()||[];
+      voices=all.filter(function(v){ return /^en(-|_|$)/i.test(v.lang); }); if(!voices.length) voices=all;
+      voice=voices.filter(function(v){ return v.voiceURI===voiceURI; })[0]
+          || voices.filter(function(v){ return v.localService&&/^en/i.test(v.lang); })[0]
+          || voices.filter(function(v){ return /^en/i.test(v.lang); })[0] || voices[0] || null;
+      if(voiceSel){
+        voiceSel.innerHTML="";
+        voices.forEach(function(v){ var o=document.createElement("option"); o.value=v.voiceURI; o.textContent=v.name.replace(/\s*\(.*\)$/,"")+(v.localService?"":" (online)"); if(voice&&v.voiceURI===voice.voiceURI) o.selected=true; voiceSel.appendChild(o); });
+      }
+    }
+    loadVoices();
+    try{ window.speechSynthesis.onvoiceschanged=loadVoices; }catch(e){}
+    if(voiceSel) voiceSel.addEventListener("change", function(){ voiceURI=voiceSel.value; try{localStorage.setItem(KEY_VOICE,voiceURI);}catch(e){} voice=voices.filter(function(v){return v.voiceURI===voiceURI;})[0]||voice; });
+
+    function splitSentences(text){ var m=text.match(/[^.!?…]+[.!?…]+["'”’)\]]*\s*|[^.!?…]+\s*$/g); return (m&&m.length)?m:[text]; }
+    function build(){
+      queue=[]; curP=null;
+      var ps=Array.prototype.slice.call(book.querySelectorAll("p[data-snip]")), start=0;
+      for(var i=0;i<ps.length;i++){ if(ps[i].getBoundingClientRect().bottom>62){ start=i; break; } if(i===ps.length-1) start=i; }
+      for(var k=start;k<ps.length;k++){ var p=ps[k], sents=splitSentences(p.dataset.text||""); for(var s=0;s<sents.length;s++){ if(sents[s].trim()) queue.push({p:p,sents:sents,si:s}); } }
+    }
+    function paint(item){
+      if(curP&&curP!==item.p) curP.innerHTML=inline(curP.dataset.text||"");
+      curP=item.p; var html="";
+      for(var i=0;i<item.sents.length;i++){ html += (i===item.si)?('<span class="tts-on">'+inline(item.sents[i])+'</span>'):inline(item.sents[i]); }
+      item.p.innerHTML=html;
+      var r=item.p.getBoundingClientRect(); if(r.top<62||r.bottom>window.innerHeight-24) item.p.scrollIntoView({block:"center"});
+    }
+    function clearPaint(){ if(curP){ curP.innerHTML=inline(curP.dataset.text||""); curP=null; } }
+    function speakNext(){
+      if(!playing) return;
+      if(qi>=queue.length){ stop(); return; }
+      var item=queue[qi]; paint(item);
+      var u=new SpeechSynthesisUtterance(item.sents[item.si].replace(/\s+/g," ").trim());
+      if(voice) u.voice=voice; u.rate=rate; u.pitch=1;
+      u.onend=function(){ if(playing&&!paused){ qi++; speakNext(); } };
+      u.onerror=function(){ if(playing&&!paused){ qi++; speakNext(); } };
+      window.speechSynthesis.speak(u);
+    }
+    function ui(){
+      el.classList.toggle("collapsed", !playing);
+      btnPlay.innerHTML=(playing&&!paused)?svg("pause"):(playing?svg("play"):svg("headphones"));
+      btnStop.innerHTML=svg("square"); btnRate.textContent=rate+"×";
+    }
+    function keepAlive(){ stopKeep(); keep=setInterval(function(){ if(playing&&!paused&&window.speechSynthesis.speaking) window.speechSynthesis.resume(); },9000); }
+    function stopKeep(){ if(keep){ clearInterval(keep); keep=null; } }
+    function media(){
+      if(!("mediaSession" in navigator)) return;
+      try{ navigator.mediaSession.metadata=new MediaMetadata({title:"The Tower of Ardenmoor",artist:"Read aloud",album:"Book One"});
+        navigator.mediaSession.setActionHandler("play", function(){ paused?resume():start(); });
+        navigator.mediaSession.setActionHandler("pause", pause);
+        navigator.mediaSession.setActionHandler("stop", stop);
+      }catch(e){}
+    }
+    function pbState(s){ if("mediaSession" in navigator) try{ navigator.mediaSession.playbackState=s; }catch(e){} }
+    function start(){ window.speechSynthesis.cancel(); build(); if(!queue.length){ toast("Nothing to read here"); return; } playing=true; paused=false; qi=0; ui(); keepAlive(); media(); pbState("playing"); speakNext(); }
+    function pause(){ if(!playing) return; paused=true; window.speechSynthesis.pause(); ui(); pbState("paused"); }
+    function resume(){ if(!playing) return; paused=false; window.speechSynthesis.resume(); ui(); pbState("playing"); }
+    function toggle(){ if(!playing) start(); else if(paused) resume(); else pause(); }
+    function stop(){ playing=false; paused=false; window.speechSynthesis.cancel(); stopKeep(); clearPaint(); ui(); if(typeof decorate==="function") decorate(); pbState("none"); }
+
+    btnPlay.addEventListener("click", toggle);
+    btnStop.addEventListener("click", stop);
+    function syncRateBtns(){ Array.prototype.forEach.call(document.querySelectorAll("[data-rate]"), function(b){ b.classList.toggle("active", parseFloat(b.getAttribute("data-rate"))===rate); }); }
+    btnRate.addEventListener("click", function(){ var i=RATES.indexOf(rate); if(i<0)i=2; rate=RATES[(i+1)%RATES.length]; try{localStorage.setItem(KEY_RATE,rate);}catch(e){} syncRateBtns(); ui(); });
+    Array.prototype.forEach.call(document.querySelectorAll("[data-rate]"), function(b){ b.addEventListener("click", function(){ rate=parseFloat(b.getAttribute("data-rate")); try{localStorage.setItem(KEY_RATE,rate);}catch(e){} syncRateBtns(); ui(); }); });
+    syncRateBtns(); ui();
+    window.addEventListener("beforeunload", function(){ try{ window.speechSynthesis.cancel(); }catch(e){} });
+    return {supported:true, stop:stop};
+  })();
+
+  /* ---------- offline PWA: register the service worker ---------- */
+  if("serviceWorker" in navigator && location.protocol.indexOf("http")===0){
+    window.addEventListener("load", function(){ navigator.serviceWorker.register("sw.js").catch(function(){}); });
+  }
 
   window.addEventListener("scroll", onScroll, {passive:true});
   window.addEventListener("resize", function(){ onScroll(); layoutTicks(); });
