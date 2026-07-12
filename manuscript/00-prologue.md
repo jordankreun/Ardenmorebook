@@ -4,8 +4,18 @@
 
 ### Prologue
 
-The stories about that hill, on the rare occasions anyone tells them, like to begin on a wonder, or on a boy. They get it wrong from the first word. I never wanted to be a man anyone sang about, and I was not one. There was no wonder in it at the start. There was no boy yet either.
+*From one of the later journals*
 
-There was only a man at the tired end of a bad few years, with a good deal more skill than sense and no particular reason to be anywhere at all. That is who this is about, and I will ask you to go easy with him. He did not yet know how any of it would turn out.
+I heard the story of myself again last night, told across a crowded taproom by a man who had no notion he was telling it to the one it belonged to, and I have been turning it over ever since, the way you turn a stone you picked up without meaning to and now cannot quite bring yourself to set down.
 
-I will not pretend the years have warmed no words or softened no faces in the telling, for I was fond of very nearly all of them. But the shape of it is true, and the shape is the thing that lasts. So here it is, the true version, or near enough: how a hill that nothing would stand on came at last to hold a tower, and how the man who built it there got, without ever quite meaning to, a life back.
+I did not know him, the man in the story. That is the plain truth of it, and plain truth is very near all I have left that is worth the giving. They have made me into someone in those tales: a figure, a wonder, a man who walked through the whole of his life already knowing the shape of it. And the man they have made is, if I may say so of my own legend, a bit of an ass. Sure of himself. Untouched by anything. Always the right word ready on his lips and never a wrong night lying behind him. I would not cross a room to shake his hand, and I have yet to hear the tale told in a way that made me wish I would.
+
+Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was in those days was wiser or gentler or one whit less of a fool than the figure in the story. God knows I had a great deal more to learn than I yet had the sense to know I was missing, and I learned the most of it the slow way, and late, and at a cost to better people than myself. But he was a man, at least, and not a monument. And if I am to leave one true thing behind me when I go, I would sooner it were him than the bright bronze figure the years have cast up in his place.
+
+So here it is, the truth of it, or near enough. I will not pretend the years have warmed no words nor softened any faces, for they have, and I was fond of very nearly all of them, and they are gone now, and fondness is a kind of light that flatters whatever it happens to fall upon. Still, the shape of the thing is true, and the shape is what matters in the end.
+
+And the shape is this. My story is not the story of a boy. There is no boy in it, whatever the tellers would prefer, and there is no wonder either, not at the beginning of it. It begins as the story of a man at the tired end of a bad few years, with a good deal more skill than he had sense, and nowhere in all the wide world that he needed to be, riding a slow road toward a hill he had bought and never seen.
+
+Go easy with him. He did not yet know how any of it would turn out.
+
+I do, and that is the one advantage I have ever held over him, and the one I would most gladly give back.

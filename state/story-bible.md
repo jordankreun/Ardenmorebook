@@ -69,6 +69,13 @@
   wedding; engaged, not married). **Other characters' chapters
   and the four interludes: third-person limited** on one head, same blended voice, used only when the
   reader needs a scene away from Emlyn; never a POV that spends a mystery early.
+  - **⚠️ PROLOGUE EXCEPTION (2026-07-11):** the **Prologue is a distinct FRAME — "a note from one of
+    the later journals," reflective and more POETIC**, written years after the events (the author
+    wanted it closer to the earlier fuller version, not the lean trim). It is the ONE place the
+    looking-back/retrospective voice lives; it does NOT govern the chapters (which stay immediate). Do
+    NOT "refresh"/trim the prologue back toward the immediate-chapter voice — keep it lyrical and
+    journal-framed. Longevity stays a light touch even here ("in my old age," "when I go"), not heavy
+    deep-time.
 - **Penworth (revised — reconcile older drafts):** roughly **Emlyn's OWN age** (NOT a
   generation older — never write him "old"); took over the running of Emlyn's affairs **about a
   decade ago**; a career man of affairs (long general career, ~10 yrs of it with Emlyn). He is
@@ -213,18 +220,28 @@ if it needs a new one, add it here.
 
 ## ESTABLISHED ON THE PAGE (Prologue + Ch 1)
 
-- **Prologue (REWRITTEN 2026-07-11 for the Spellmonger-hybrid POV — lean & immediate, 213 words,
-  em-dash-free):** the old ancient-chronicler / memoir-apologia version is GONE (dropped: "reached
-  the age to write things down," "memory has never gone / longer than most men," "everyone is gone,"
-  the deep-time frame). The new prologue is a short, immediate first-person doorway. KEPT: he is
-  **NOT famous** (light touch only: "I never wanted to be a man anyone sang about, and I was not
-  one"); the "true version, or near enough" framing (one line, not the whole conceit); **"no wonder,
-  no boy, only a man at the tired end of a bad few years, with a good deal more skill than sense"**;
-  "go easy with him… he did not yet know how any of it would turn out"; a light retrospective
-  fondness ("I was fond of very nearly all of them"). NEW warm forward close (sets the cozy premise):
-  *"how a hill that nothing would stand on came at last to hold a tower, and how the man who built it
-  there got, without ever quite meaning to, a life back."* Does NOT state age/widowhood/power/
-  immortality. No deep-time, no legend apparatus.
+- **Prologue (RE-REWRITTEN 2026-07-11 — a POETIC JOURNAL-NOTE frame; 542 words; em-dash-free).** At
+  the author's request, the lean/immediate trim was reverted CLOSER to the earlier fuller, more poetic
+  version, and reframed explicitly as **"a note from one of the later journals"** (italic frame line
+  under the heading). It is a **reflective, looking-back journal entry** written years after the
+  events — the ONE deliberately retrospective/poetic piece in the book (see POV note: the CHAPTERS
+  stay immediate; the prologue is a distinct frame). Beats (per the author): he **heard a tale of
+  himself told in a taproom** by a man who didn't know him; **"I did not know him, the man in the
+  story"**; the legend they made is **"a bit of an ass"** (sure of himself, untouched, "always the
+  right word… never a wrong night"; "I would not cross a room to shake his hand"); wry self-
+  deprecation that **the real younger man was no prize either** ("more to learn than I yet had the
+  sense to know I was missing… learned the most of it the slow way, and late, and at a cost to better
+  people than myself") — but **"a man, at least, and not a monument."** Keeps the earlier version's
+  poetry: "the years have warmed no words nor softened any faces… I was fond of very nearly all of
+  them, and they are gone now… the shape of the thing is true, and the shape is what matters." The
+  **"no boy, no wonder, only a man"** turn (kept/strengthened): "a man at the tired end of a bad few
+  years, with a good deal more skill than he had sense, and nowhere in all the wide world that he
+  needed to be, **riding a slow road toward a hill he had bought and never seen.**" Closes on the
+  earlier version's button: **"Go easy with him. He did not yet know how any of it would turn out. I
+  do, and that is the one advantage I have ever held over him, and the one I would most gladly give
+  back."** Longevity is a **light** touch only ("in my old age," "when I go," "the later journals,"
+  "they are gone now") — no heavy deep-time / "longer than kingdoms." Does not name Arielle, the
+  surname, or power.
 - **Ch 1 events:** third week of spring. **THE JOURNEY IS NOW RECOUNTED (expanded 2026-07-11):**
   **3 days by rail** out of Vethmark in a crude early train ("rattled the teeth… let the cold in at
   every seam"; the engine "an early, soot-breathing thing… next to nothing of the arcane in it")

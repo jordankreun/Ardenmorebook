@@ -535,6 +535,24 @@ not "next spring"); dropped "Old Harrow's place" (Harrow owned WOODLAND not bott
 farmhouse); softened Jorin so he doesn't name the grief outright (narrator infers); trimmed an unplanned
 "someone I loved" future-romance whisper to apprentice/guest (matches author's spec).
 
+PROLOGUE RE-REWRITTEN AS A POETIC JOURNAL NOTE (2026-07-11): at the author's request ("make the
+prologue a note from a later journal… keep it closer to earlier versions… it can be more poetic"),
+reverted the lean 213-word trim CLOSER to the earlier fuller version and reframed it as **"a note from
+one of the later journals"** (italic frame line) — a reflective, looking-back journal entry, now 542
+words, em-dash-free, more lyrical. New/kept beats: he **hears a tale of himself in a taproom** and
+**"did not know him, the man in the story"**; the legend is **"a bit of an ass"** (sure of himself,
+untouched, "never a wrong night"; "I would not cross a room to shake his hand"); wry humility that the
+**real younger man was no prize either** ("more to learn than I yet had the sense to know I was
+missing… the slow way, and late"), "but a man, at least, and not a monument"; the earlier version's
+poetry (fondness / "they are gone now" / "the shape is what matters"); the **"no boy, no wonder, only a
+man… riding a slow road toward a hill he had bought and never seen"** turn; and the earlier button
+("Go easy with him… I do, and that is the one advantage… I would most gladly give back"). **POV
+reconciliation:** the prologue is now a **distinct FRAME** (the one reflective/poetic piece); the
+CHAPTERS stay immediate (Spellmonger). Recorded a **PROLOGUE EXCEPTION** in SESSION-LOCK #1 (SKILL +
+bible) so it is NOT trimmed back toward the immediate-chapter voice in a future refresh. Longevity kept
+a light touch even here ("in my old age," "when I go"). State updated: story-bible (POV lock + prologue
+ESTABLISHED description), SKILL #1.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 

@@ -62,6 +62,10 @@ predate some of them; where a reference says otherwise, THIS list wins.
      another POV for a chapter (or an interlude) when the reader needs a scene that happens away from
      Emlyn — Lira and her letters, Tomas alone at the forge, the hill between the parts. Mostly
      Emlyn; step out deliberately, not idly. One POV per chapter (no mid-chapter head-hopping).
+   - **PROLOGUE EXCEPTION (2026-07-11):** the **Prologue is a distinct frame — "a note from one of
+     the later journals," reflective and more poetic**, written years after the events. It is the ONE
+     retrospective/looking-back piece; it does NOT govern the chapters. Keep it lyrical and journal-
+     framed; do NOT trim it back toward the immediate-chapter voice. (Longevity light even here.)
    This supersedes every "third limited on Opus / pure first person" instruction in the references.
    The Le Guin restraint floor still governs both modes.
 2. **Protagonist's name:** **Emlyn Ambrose**. "Opus" in the reference docs is the campaign
