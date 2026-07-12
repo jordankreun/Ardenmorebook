@@ -225,10 +225,19 @@ if it needs a new one, add it here.
   *"how a hill that nothing would stand on came at last to hold a tower, and how the man who built it
   there got, without ever quite meaning to, a life back."* Does NOT state age/widowhood/power/
   immortality. No deep-time, no legend apparatus.
-- **Ch 1 events:** third week of spring; four-day ride alone on Snow (mare); Penworth's
-  3-page letter ("a hill of no agricultural worth and considerable quiet") provisionally
-  secured hill + land; road modest/indifferently kept and **poorly marked** but real (NOT
-  petering into trackless grass — a village with an inn and mill has a road that serves it);
+- **Ch 1 events:** third week of spring. **THE JOURNEY IS NOW RECOUNTED (expanded 2026-07-11):**
+  **3 days by rail** out of Vethmark in a crude early train ("rattled the teeth… let the cold in at
+  every seam"; the engine "an early, soot-breathing thing… next to nothing of the arcane in it")
+  → **Wainford** (the railhead: "a raw and cheerful town… to pour the country's grain and cattle into
+  railway cars"; the rails stop, the frontier begins) → **Snow down out of the horse-box** → **4 more
+  days on horseback** into "the green silence" → the village. **TECH/MAGIC seeded on the page:** "magic
+  does not come by the ton, it comes by the thimble, and dearly," so the railways are near-magicless
+  crude steam; and **Emlyn's engineer-wizard device-making gift** ("how much smaller and quieter and
+  cleverer the whole of it could have been built, if the world had only had the magic to spare";
+  "a man who cannot let a made thing alone"). Penworth's 3-page letter ("a hill of no agricultural
+  worth and considerable quiet") provisionally secured hill + land; road modest/indifferently kept and
+  **poorly marked** but real (NOT petering into trackless grass — a village with an inn and mill has a
+  road that serves it);
   first sight of village from the
   bend by the old oak; hill marked as ordinary ("I had seen a thousand hills") — hum NOT yet
   experienced by Emlyn; entry through village; supper + lodging at the inn; morning walk
@@ -664,16 +673,28 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   Commonwealth, but its far edge). This is WHY the land is CHEAP (remote + undeveloped + agriculturally
   marginal + no demand) and the region nearly untapped (Ardenmoor is one of few small villages in a
   large wild area). The cozy frontier a grieving man escapes to and builds up.
-- **TECH LEVEL & RAILWAYS (2026-07-11).** The world runs on **STEAM technology with a SMALL amount of
-  ARTIFICE** (rare magical devices). The **developed Commonwealth is industrializing and has RAILWAYS**
-  (steam); Vethmark (city of industry/commerce) is on the network. **Artifice is scarce** (magic is
-  rare — the two facts agree): enchanted devices are prized luxuries, not common infrastructure, and
-  Emlyn's LUMENS are part of that small-artifice niche (wonders in a world otherwise lit by flame/gas).
-  The rail reaches only the **settled, paying country**; **Ardenmoor lies BEYOND the end of the line**
-  — the deepest reason it is remote, undeveloped, and cheap ("Land the rails have reached is land
-  somebody wants. This was the other kind."). **The village stays PRE-INDUSTRIAL and cozy** (horses,
-  wagons, forge, tallow, quarry) — steam and rail belong to the metropole Emlyn left; keep the frontier
-  texture pre-steam. Tech split: **industrializing steam metropole ↔ pre-industrial frontier.**
+- **TECH LEVEL & RAILWAYS (2026-07-11, refined).** The world runs on **EARLY, PRIMITIVE STEAM + a
+  SMALL amount of ARTIFICE.** Steam tech is **new and crude** (soot-breathing iron engines, bulky
+  machinery). Crucially, **magic is too rare to power infrastructure:** "magic does not come by the
+  ton, it comes by the thimble, and dearly" — a working big enough to matter costs more to feed/tend/
+  renew than the coal it saves, so **the railways are "barely arcane" — brute iron, fire, and water,
+  almost no magic at all** (Ch 1). **Artifice is confined to small, precious, hand-made devices**
+  (lumens, fine instruments), never mass infrastructure. The **developed Commonwealth is
+  industrializing and has RAILWAYS** (crude steam); Vethmark is on the network. The rail reaches only
+  the **settled, paying country**; **Ardenmoor lies BEYOND the end of the line** — the deepest reason it
+  is remote, undeveloped, and cheap ("Land the rails have reached is land somebody wants. This was the
+  other kind."). **The village stays PRE-INDUSTRIAL and cozy** (horses, wagons, forge, tallow, quarry)
+  — steam/rail belong to the metropole Emlyn left; keep the frontier texture pre-steam. Tech split:
+  **crude steam metropole ↔ pre-industrial frontier.**
+- **EMLYN'S DEVICE-MAKING GIFT (session-locked 2026-07-11) — a distinguishing capability.** Emlyn can
+  **invent and make far BETTER, SMALLER, more refined steam-and-artifice devices** than the crude
+  world-norm — a major magical talent fused with his **draftsman/architect/engineer training** (he
+  "cannot let a made thing alone"). Where the world's tech is bulky, loud, and dear, his is elegant,
+  small, and efficient; the **LUMEN is the exemplar** (refined small artifice), and this seeds future
+  inventions (better devices for the tower/practice; possibly the later rail/barge improvements). The
+  one limit is the world's scarcity of magic, not his skill ("how much smaller and quieter and cleverer
+  the whole of it could have been built, if the world had only had the magic to spare," Ch 1). Render
+  it as competence and an engineer's itch, NOT boastfully; it makes his goods notable and prized.
 - **WAINFORD — the railhead (named 2026-07-11; full entry in `state/geography.md`).** The terminus
   town where the rail ends at the edge of settled country, **4 days' ride from Ardenmoor**; a **rail
   port for agriculture** (steam + a little artifice), on a river. This is the Ch 1 "last station."
@@ -753,7 +774,10 @@ trace the three.
   trained as a draftsman before his talent developed** (funded his schooling); lost his **fiancée
   Arielle ~3 yrs ago, before their wedding** (engaged, not married); comfortable but LEVERAGED, not
   rich (see FINANCES & ORIGINS session-lock). Lives in his inherited family townhouse; is forced to
-  sell the never-lived-in wedding-gift "river house" to fund the hill.
+  sell the never-lived-in wedding-gift "river house" to fund the hill. **A rare MAJOR magical talent**
+  (magic is rare; see Magic rules), and an **engineer-wizard who makes far better/smaller/refined
+  steam-and-artifice devices than the crude world-norm** ("cannot let a made thing alone"; the lumen
+  is the exemplar) — limited only by the world's scarcity of magic.
 - **Soren**, 10 — village elder's grandson; HEARS the hum; solemn, structural, whole-attention;
   asks questions like "Is that why the Study doesn't fall?"; child logic with dignity, never cute.
 - **Ren**, 16 — builder's son; FEELS magic through his hands; honest to the grain, distinguishes

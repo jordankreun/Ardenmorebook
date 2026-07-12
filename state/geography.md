@@ -212,10 +212,11 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   timber) is hauled in by wagon and drover and loaded onto trains for Vethmark and the metropole, and
   city goods arrive by rail to fan out by wagon. A busy, workmanlike transshipment/market town — goods
   yard, sidings, grain stores, stockyards, warehouses, factors, carters, drovers. On a **river** (the
-  crossing the name marks — supports the possible future barge service). This is the unnamed **"last
-  station"** Emlyn detrained at (Ch 1) before the 4-day ride. **TECH:** steam (the railway, steam
-  hoists/mills at the goods yard) with a **small amount of artifice** (a few enchanted devices; where
-  minor artifice can be had or serviced; a market for Emlyn's lumens). Proper name **Wainford** (locked
+  crossing the name marks — supports the possible future barge service). This is the **"last
+  station"** Emlyn detrained at (Ch 1) before the 4-day ride. **TECH:** **early, crude steam** (the
+  railway is "barely arcane" — brute iron/fire/water, almost no magic, since magic is too rare to feed
+  a machine that big; steam hoists/mills at the goods yard) with a **small amount of artifice** (a few
+  enchanted devices; where minor artifice can be had or serviced; a market for Emlyn's lumens). Proper name **Wainford** (locked
   unless the author renames; alternates offered: Draymere, Marchford). [PAGE ch1 (as "the last
   station"); named in canon]
   - **Emlyn's use (present + seeded future):** detrained here on arrival; **the natural place he meets

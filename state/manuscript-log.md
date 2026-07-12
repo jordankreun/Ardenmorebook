@@ -473,6 +473,23 @@ Rename-able (alternates Draymere / Marchford). State updated: story-bible (TECH+
 Wainford bullet, distance/arrival naming, pending payoffs), geography (full Wainford entry, map exit
 arrow, OPEN names), outline (canon appendix). Ch 1 ~4490, Ch 3 ~4190; 0 em dashes.
 
+CH 1 JOURNEY RECOUNT + TECH REFINEMENT (2026-07-11): **Expanded Ch 1 to recount the whole journey**
+(the user's ask): **3 days by rail** out of Vethmark in a **crude, early, "barely arcane" steam train**
+("rattled the teeth… let the cold in at every seam"; "next to nothing of the arcane in it") → detrain
+at **Wainford** (the grain-and-cattle railhead) → **Snow out of the horse-box** → **4 more days on
+horseback** "into the green silence" → the village. Ch 1 now 4835 words (in band); 0 em dashes. **TECH
+REFINED on the page + in canon:** magic is **too rare to power infrastructure** — "magic does not come
+by the ton, it comes by the thimble, and dearly," so railways run on brute iron/coal with almost no
+magic; **artifice stays confined to small, precious, hand-made devices** (lumens). **Emlyn's
+device-making GIFT established:** an engineer-wizard (major talent + draftsman training) who makes far
+**better/smaller/refined** steam-and-artifice devices than the crude world-norm ("a man who cannot let
+a made thing alone"; "how much smaller and quieter and cleverer the whole of it could have been built,
+if the world had only had the magic to spare") — the lumen is the exemplar; limited only by the world's
+scarce magic. CONSISTENCY: the village/frontier chapters (Ch 2–7) are pre-industrial and already
+consistent — no rewrite needed (rare magic + no metropole tech on the page). State updated: story-bible
+(TECH bullet refined + new DEVICE-MAKING GIFT session-lock + cast + Ch 1 established record), geography
+(Wainford tech = crude/barely-arcane), outline (canon appendix).
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
