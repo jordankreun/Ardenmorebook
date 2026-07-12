@@ -204,7 +204,8 @@ if it needs a new one, add it here.
     and has not entered it since (= the canon "her rooms," the shelf-gap spellbook, their half-made
     home). **Penworth forces its SALE** (primary capital for the hill); it closes / is cleared in the
     **spring** (finale / Book Two). See the FINANCES & ORIGINS session-lock.
-  - Vethmark ↔ Ardenmoor ≈ **4 days'** ride. Penworth is based in the same city.
+  - Vethmark ↔ Ardenmoor ≈ **a week's travel** (3 days' train to the railhead + 4 days' ride; see the
+    revised DISTANCE & TRAVEL bullet). Penworth is based in Vethmark.
 - **Arielle's rooms = the river house** (RESOLVED): in **Vethmark**, the never-lived-in wedding-gift
   home, untouched through Book One, cleared in spring (Book Two).
 
@@ -663,22 +664,30 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   Commonwealth, but its far edge). This is WHY the land is CHEAP (remote + undeveloped + agriculturally
   marginal + no demand) and the region nearly untapped (Ardenmoor is one of few small villages in a
   large wild area). The cozy frontier a grieving man escapes to and builds up.
-- **DISTANCE & TRAVEL (reconciled with the page + re-evaluated 2026-07-11 — do not contradict):**
-  Vethmark ↔ Ardenmoor ≈ **4 days' ride** (ON THE PAGE: Ch 3 "four days' ride away," Ch 8 "a city four
-  days off" — KEPT). Re-evaluation conclusion: with Vethmark now a **major commercial city** (not a
-  magic-academy town), 4 days reads even more naturally as **"a great city and its far frontier
-  backwater"** — big cities have wide hinterlands and days-distant edges; no change needed. Framed as
-  4 days into wild, worsening-road frontier: for ordinary carters/walkers a week or more (the fortnight
-  wagon-wait), so the valley is effectively cut off, rarely visited, its land unwanted. **MAGICAL
-  TRAVEL-ACCELERATION EXISTS** (a known, costly/effortful art of practitioners and the well-connected
-  — Penworth, the Conclave, Emlyn), the means by which the outside world reaches the frontier faster
-  than the roads allow, and by which Emlyn will make the **spring journey** to the city. Emlyn's
-  ARRIVAL ride (Ch 1) was the slow, mundane way **BY CHOICE** (grief, time, "I let Snow set the pace,
-  which was slow"). ⚠️ The 4-day figure is PRESERVED (not lengthened to weeks) to protect Ch 1's
-  mundane arrival and the Ch 3/Ch 8 lines; remoteness is carried by framing + roads + acceleration-
-  for-the-hurried. If the author wants the literal distance longer, that is a follow-up needing light
-  Ch 1/3/8 tweaks. (Introduce travel-acceleration on the page only when it's earned — likely the
-  spring journey; do NOT retro-fit it into the Ch 1 arrival.)
+- **RAILWAYS & INDUSTRIALIZATION (2026-07-11).** The **developed Commonwealth is industrializing and
+  has RAILWAYS.** Vethmark (city of industry/commerce) is on the rail network. But the rail reaches
+  only the **settled, paying country**; **Ardenmoor lies BEYOND the end of the line** — which is now
+  the deepest reason it is remote, undeveloped, and cheap ("Land the rails have reached is land
+  somebody wants. This was the other kind."). **The village stays PRE-INDUSTRIAL and cozy** (horses,
+  wagons, forge, tallow, quarry) — trains belong to the metropole Emlyn left; keep the frontier
+  texture pre-rail. Tech split: **industrializing metropole ↔ pre-industrial frontier.** (Lumens read
+  as rare magical wonders in a world otherwise lit by flame/gas — fine.)
+- **DISTANCE & TRAVEL — REVISED 2026-07-11 (Vethmark ↔ Ardenmoor ≈ A WEEK'S TRAVEL; supersedes the
+  earlier "4 days' ride"):** **3 days by TRAIN** (Vethmark → the **railhead**, the last station where
+  the line gives out at the edge of settled country) + **4 days on HORSEBACK** through roadless
+  frontier past the railhead = **~1 week** total. ON THE PAGE now: Ch 1 "the railway had set me down
+  four days back, at the last station on a line that gave out… exactly where the paying traffic did";
+  Ch 3 "a week of road and rail away" and "three days on the railway to the end of the line… then four
+  days more on horseback"; Ch 8 "a city a week's road and rail away." A **loaded wagon** needs ~a
+  **fortnight** for the frontier leg (rail + transload + slow haul over the giving-up road) — matches
+  the established fortnight wait for Emlyn's goods. **Emlyn's ARRIVAL:** rail to the railhead, then the
+  4-day horse leg (the "long road," ridden slowly by choice — grief, no hurry: "I let Snow set the
+  pace, which was slow"). The **railhead town** is [OPEN] (unnamed on the page: "the last station").
+- **MAGICAL TRAVEL-ACCELERATION — RETIRED (2026-07-11).** The earlier "costly art of accelerated
+  travel" is DROPPED: with magic now RARE and railways in the world, the **train is the fast way**
+  across distance, not exotic magic. Do not use magical travel-acceleration as a routine means. (If
+  ever needed, it would be exotic/rare; default to the railway + horse.) Emlyn's **spring journey** to
+  the city = rail + horse, the ordinary way.
 
 ---
 

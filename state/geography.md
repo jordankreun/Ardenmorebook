@@ -195,26 +195,34 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   Ardenmoor holding (Ch 2). Working name "the Commonwealth"; distinctive proper name **[OPEN]**. The
   **political capital** (council's seat) is **elsewhere, offstage**; name **[OPEN]**. See the SETTING
   & POLITY block in the story bible.
-- **Vethmark** — a dense, very **urban** city ~**4 days' ride** from the valley; a **major city of
-  commerce and industry and a regional seat of power** (a principal city of the Commonwealth, a
-  regional/provincial or city-state seat, and the **banking/credit** seat). Its size comes from
-  **commerce, NOT magic.** It ALSO hosts the continent's single **small Academy of magic** (where
-  Emlyn trained and published) and the **seat of the CONCLAVE** (the small governing body of magic;
-  Drace, the "interested office," Lira's letters run here) — the academy located here **because
-  Vethmark is a major hub**, not the other way round. NOT the Commonwealth's political capital. Emlyn's
-  origin (his two homes, his father's firm). Has a **river** (the wedding-gift "river house" across it).
-  Academy proper name **[OPEN]**. [CANON + PAGE ch1] — *see MAGIC IS RARE + SETTING & POLITY in the
-  story bible.*
+- **Vethmark** — a dense, very **urban** city **~a week's travel** from the valley (3 days by rail +
+  4 days' ride; see travel below); a **major city of commerce and industry and a regional seat of
+  power** (a principal city of the Commonwealth, a regional/provincial or city-state seat, the
+  **banking/credit** seat, **on the RAILWAY network**). Its size comes from **commerce/industry, NOT
+  magic.** It ALSO hosts the continent's single **small Academy of magic** (where Emlyn trained and
+  published) and the **seat of the CONCLAVE** (the small governing body of magic; Drace, the
+  "interested office," Lira's letters run here) — the academy located here **because Vethmark is a
+  major hub.** NOT the Commonwealth's political capital. Emlyn's origin (his two homes, his father's
+  firm). Has a **river** (the wedding-gift "river house" across it). Academy proper name **[OPEN]**.
+  [CANON + PAGE ch1] — *see MAGIC IS RARE + SETTING & POLITY in the story bible.*
+- **The railhead / "the last station"** — the town where the **railway gives out**, at the edge of the
+  settled/paying country; **4 days' ride** from Ardenmoor. Emlyn detrained here and rode the last leg.
+  Unnamed on the page ("the last station on a line that gave out… exactly where the paying traffic
+  did," Ch 1); proper name **[OPEN]**. [PAGE ch1, ch3]
 - **Ardenmoor's place in the world:** a **deep, remote, undeveloped forest/agricultural frontier of the
-  Commonwealth** — thinly settled, loosely incorporated, its land cheap because remote + marginal + un-
-  wanted; the region is nearly untapped (Ardenmoor one of few small villages in a large wild area).
-  [CANON, reinforced Ch 3 seed]
-- **DISTANCE & TRAVEL:** Vethmark ↔ Ardenmoor = **4 days' ride** (PAGE: Ch 3 "four days' ride away,"
-  Ch 8 "a city four days off" — KEPT), but 4 days into worsening-road frontier (a week+ for ordinary
-  carters, so effectively cut off). **Magical travel-acceleration exists** (costly art of practitioners
-  / the well-connected — Penworth, the Conclave, Emlyn; how the outside world reaches the frontier fast
-  and how Emlyn makes the spring journey). Emlyn's arrival ride was the slow mundane way by choice.
-  Do NOT lengthen the 4-day figure on the page without also touching Ch 1/3/8.
+  Commonwealth, BEYOND THE END OF THE RAILWAY** — thinly settled, loosely incorporated, its land cheap
+  precisely because the rails never reached it ("Land the rails have reached is land somebody wants.
+  This was the other kind.", Ch 3). The region is nearly untapped (Ardenmoor one of few small villages
+  in a large wild area). **Stays PRE-INDUSTRIAL/cozy** (the trains belong to the metropole). [CANON +
+  PAGE ch3]
+- **DISTANCE & TRAVEL (REVISED 2026-07-11 — ~a week):** Vethmark ↔ Ardenmoor = **3 days by TRAIN**
+  (to the railhead, "the last station") **+ 4 days' RIDE** into roadless frontier past it ≈ **a week**.
+  ON THE PAGE: Ch 1 "the railway had set me down four days back, at the last station"; Ch 3 "a week of
+  road and rail away" / "three days on the railway… then four days more on horseback"; Ch 8 "a city a
+  week's road and rail away." Ardenmoor is **beyond the end of the rails** (why it's cheap/undeveloped).
+  Loaded wagons ≈ a fortnight (the goods-wait). **Magical travel-acceleration = RETIRED** (magic rare;
+  the train is the fast way). See the DISTANCES & TRAVEL section below and the story bible's SETTING &
+  POLITY block.
 - **Emlyn's TWO Vethmark homes (established Ch 1 seed, 2026-07-11):**
   - **The family townhouse** — his late father's (an architect); INHERITED; "far more rooms than one
     man had any use for, most of them dark and under dust-sheets"; he grew up there and wintered
@@ -233,15 +241,16 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 ## DISTANCES & TRAVEL (qualitative — the prose has not fixed numbers)
 
 - Village ↔ hill crown: a walk of a good while up a long (not steep) track. [PAGE ch2]
-- Emlyn's ride in: **four days** on the road. [PAGE ch1]
 - Quarry round trip: **one day**. [CANON / style guide]
-- To Vethmark / the city: **4 days' ride** (Emlyn's road in; "four days' ride away" Ch 3, "a city four
-  days off" Ch 8), but 4 days into worsening-road frontier — a week+ for ordinary carts. **KEPT; do not
-  lengthen on the page without editing Ch 1/3/8.**
-- **Magical travel-acceleration** exists (a costly art of practitioners / the well-connected) — the
-  fast way across the distance the roads make slow; how the outside world reaches the frontier and how
-  Emlyn will make the spring journey. His arrival ride was the slow mundane way by choice. Introduce on
-  the page only when earned (the spring journey), NOT retro-fit into the Ch 1 arrival. [CANON 2026-07-11]
+- **To Vethmark / the city: ~A WEEK'S TRAVEL (REVISED 2026-07-11):** **3 days by TRAIN** (Vethmark →
+  the railhead, "the last station" where the line gives out) **+ 4 days' RIDE** on horseback through
+  the roadless frontier past the railhead. ON THE PAGE: Ch 1 "the railway had set me down four days
+  back, at the last station"; Ch 3 "a week of road and rail away" / "three days on the railway… then
+  four days more on horseback"; Ch 8 "a city a week's road and rail away." A **loaded wagon** ≈ a
+  **fortnight** for the frontier leg (matches Emlyn's fortnight goods-wait). **Supersedes the old
+  "4 days' ride to Vethmark."** (The "four days" now on the page = the horse leg from the railhead.)
+- Emlyn's **arrival**: rail to the railhead, then the 4-day horse leg (ridden slowly by choice).
+- **Magical travel-acceleration = RETIRED** (magic is rare; the railway is the fast way). Do not use.
 - Time moves honestly (style guide): errands take hours; construction takes weeks (montage by
   day-labels, never "time passed").
 
@@ -258,7 +267,8 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 - Vethmark's own layout (the river, the two homes' districts) beyond what Ch 1/3 fixed.
 - **PROPER NAMES [OPEN] for author to pick:** the Commonwealth's distinctive name (working: "the
   Commonwealth"); the political capital (council's seat, offstage); the Vethmark magical
-  academy/university. (Polity TYPE is locked: Commonwealth + ruling council.)
+  academy/university; **the railhead town** ("the last station," 4 days' ride out). (Polity TYPE is
+  locked: Commonwealth + ruling council; the world has RAILWAYS.)
 
 ---
 
@@ -269,7 +279,9 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   village; Maret's mill at the hill-ward edge. Hill still "only a hill". **(2026-07-11 finance/origin
   seed):** Vethmark now carries a **river**; Emlyn's **family townhouse** (inherited, father's,
   kept) and the **never-lived-in wedding-gift "river house"** (his fiancée's; sold to fund the hill,
-  across the river) established.
+  across the river) established. **(2026-07-11 railway seed):** the world has **RAILWAYS**; Emlyn came
+  by **rail to "the last station"** (the railhead) and rode the last **4 days** into country "the rails
+  had never troubled to reach."
 - **ch2** — Established: the crown; the south-face spring; the east green shelf; the NE meadow;
   the leasable plough-land in the bottoms (tenant farmland for rents); the woodland strip + larch
   stand; the mill pond stake; the North Wood + the Old Oak (Listener) seen at distance; Cael's
@@ -284,10 +296,12 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   **(2026-07-11 finance seed):** the purchase is now shown as **finite & leveraged** (the land cheap
   because worthless-to-others; funded by the river-house sale + a loan on old licensed patents +
   appreciated investments; the loan carries a ~1-year grace period → the tenants/practice clock).
-  **(2026-07-11 setting seed):** Ch 3 now names **"the Commonwealth"** and frames Ardenmoor as its far
-  frontier ("days of hard riding from Vethmark, and the better part of a fortnight for a loaded wagon"
-  — consistent with the fortnight wagon-wait), the land "half of it not rightly owned by any living
-  soul… held under the old loose title of the far country, by the parish and the habit of years."
+  **(2026-07-11 setting + railway seed):** Ch 3 now names **"the Commonwealth"** and frames Ardenmoor
+  as its far frontier **beyond the end of the railway** ("a week's travelling from Vethmark… three days
+  on the railway to the end of the line… then four days more on horseback"; "Land the rails have reached
+  is land somebody wants. This was the other kind."), the land "half of it not rightly owned by any
+  living soul… held under the old loose title of the far country, by the parish and the habit of years."
+  Distance to Vethmark = **~a week (3 days' train + 4 days' ride)**; the fortnight goods-wait holds.
 - **ch6** — The **LUMEN** is bound and lights the Study; **Brenna's cuttings** on the Study's north
   sill. The **Old Oak is VISITED** for the first time (route: crown → NE meadow → north wood along
   the woodland edge); the hill answers the visit with an hour-early dusk pulse. Brenna's cottage

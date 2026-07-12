@@ -435,6 +435,28 @@ rare magic and is reinforced). State updated: story-bible (MAGIC IS RARE bullet 
 rewritten + Magic-rules + Penworth cast + distance note), geography (Vethmark entry), outline (canon
 appendix), voice guide ("rare & prized" qualifier on the commercial-practice note).
 
+RAILWAYS + DISTANCE REVISION (2026-07-11, supersedes the "4 days' ride to Vethmark"): the world now
+has **RAILWAYS** (the developed Commonwealth is industrializing; Vethmark is on the network). **Vethmark
+↔ Ardenmoor is now ~A WEEK'S TRAVEL: 3 days by TRAIN to the railhead ("the last station," where the
+line gives out) + 4 days' RIDE on horseback through roadless frontier past it.** Ardenmoor lies
+**BEYOND THE END OF THE RAILWAY** — now the deepest reason the land is cheap/undeveloped ("Land the
+rails have reached is land somebody wants. This was the other kind."). The **village stays
+pre-industrial/cozy** (trains belong to the metropole Emlyn left); tech split = industrializing
+metropole ↔ pre-industrial frontier. **Magical travel-acceleration (added earlier same day) is
+RETIRED** — with magic rare + railways, the train is the fast way. PROSE REVISED on the page: **Ch 1**
+gained "The railway had set me down four days back, at the last station on a line that gave out… exactly
+where the paying traffic did, and from there I had gone on by horse into a country the rails had never
+troubled to reach" (arrival = rail + 4-day horse leg, placed a few paras in so the pastoral opening
+holds); **Ch 3** "four days' ride away" → "a week of road and rail away," and the cheap-land seed
+rebuilt on the beyond-the-rails model ("three days on the railway to the end of the line… then four days
+more on horseback"); **Ch 8** "a city four days off" → "a city a week's road and rail away." The
+"four days" now on the page = the horse leg from the railhead (not the Vethmark distance). Goods still
+come by wagon up the frontier road (rail → railhead → wagons; the fortnight goods-wait holds). Counts:
+Ch 1 4455, Ch 3 4190, Ch 8 4050; 0 em dashes. State updated: story-bible (RAILWAYS bullet + revised
+DISTANCE bullet + retired acceleration + ledger), geography (Vethmark rail + new railhead entry +
+DISTANCES + Beyond-the-Valley bullet + OPEN names + change log), outline (canon appendix). The
+**railhead town** is [OPEN] (unnamed on the page: "the last station").
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
