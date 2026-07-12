@@ -618,6 +618,17 @@ Cael's unreadable expression flagged as a seed.
 
 ---
 
+REVISION (2026-07-12 — Ch 1 river-house consolidation): the river-house material (which had grown
+to a glancing stopgap digression + a later "practical burden" return = told twice) is now **one
+consolidated passage**. It lands the plot beat sharply: **Penworth had already found a real buyer**
+"in the thaw" (closing set for spring) and **withheld it from his letter**, offering Emlyn the **hill
+instead** — the hill-errand being Penworth's **forcing lever** to get the unsellable, grief-laden
+house sold "out from under" Emlyn while he's away. Emlyn gave **"a yes to the looking and no better
+than half a yes to the rest,"** half-sees the maneuver, and doesn't mind being "pried loose." Kept the
+draftsman line ("I had drawn a good part of it myself…"). Story-bible updated (new BUYER & FORCING
+LEVER canon note + consolidated rendering note); buyer exists from Ch 1, closing lands next spring
+(economic/grief clock), only the *emotional clearing* is deferred. prose-lint: 0 FAILs.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.

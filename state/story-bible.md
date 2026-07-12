@@ -130,9 +130,11 @@
     KEEPS this and LIVES here. **He never meant to stay in it long (Ch 1):** returning to the family
     home was only ever a **temporary stopgap** while the river house went up — a place to "keep himself
     and his boots" until his own grander house was ready. The wedding never happened, so the stopgap
-    quietly became permanent (he "crept home to his father's house and simply stopped"). In Ch 1 he
-    raises this glancingly and **digresses away** ("I will spare us both"), then ¶17 returns only to the
-    river house's practical burden — do NOT re-reveal the wedding a second time in that later paragraph.
+    quietly became permanent. **RENDERING NOTE (Ch 1, consolidated 2026-07-12):** the stopgap + the
+    river house are told in **ONE consolidated passage**, not two — do NOT split it into a glancing
+    mention and a later return. The single passage runs: stopgap → the elaborate wedding-gift house →
+    no wedding, so no need of it → money pit he can't sell or enter → Penworth pushing all winter →
+    and lands on the plot beat below (the buyer + the forcing lever).
     (2) the grander **"river house"** — **Emlyn commissioned his father's
     own firm to design it**, as a **grander echo of the family home** (the same lines his father gave
     his mother, "but swollen to twice the scale and three times the cost, ornament laid on ornament")
@@ -145,6 +147,18 @@
     Too personal to keep, rent, or sell; he is STUCK with it until **Penworth forces the sale** —
     pushing it for **both** reasons (the upkeep/purse AND, mainly, the emotional weight of a never-used
     monument), a friend trying to pull him out of the slump.
+  - **⚠️ THE BUYER & THE FORCING LEVER — SET AT Ch 1 (2026-07-12):** by the opening, Penworth has
+    **already found a real buyer** for the river house ("in the thaw," closing set for **the spring**) —
+    and said **not a word of it in his letter.** Instead he offered Emlyn the **hill**, asking only that
+    he come look before finishing that purchase. So the **hill-errand is Penworth's LEVER**: give Emlyn
+    a fresh thing to say yes to and somewhere sensible for the money to go, and the house he can't make
+    himself sell can be sold "out from under" his grief while he's away. Emlyn gave a **"yes to the
+    looking and no better than half a yes to the rest"** — half a yes being all Penworth ever needed.
+    Emlyn half-sees the maneuver and doesn't much mind being "pried loose." KEEP CONSISTENT: the buyer
+    exists from Ch 1; the **closing lands the following spring** (the book's economic/grief clock, aligned
+    with the loan grace-period and Arielle's mother's spring letter = the finale/Book-Two hook). Do NOT
+    write the sale as still needing a buyer later in Book One — it's the *emotional clearing* (her rooms/
+    effects) that's deferred to spring, not the finding of a buyer.
   - **⚠️ ENGAGED, NOT MARRIED — RELATIONSHIP RE-LOCKED (2026-07-11, supersedes the earlier "married/
     widower"):** Arielle was his **FIANCÉE**; they were to be married; **she died ~3 years ago, before
     the wedding.** So he is **not literally a widower** — he lost his fiancée before their marriage
