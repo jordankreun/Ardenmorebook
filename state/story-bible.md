@@ -237,11 +237,22 @@ if it needs a new one, add it here.
   **"no boy, no wonder, only a man"** turn (kept/strengthened): "a man at the tired end of a bad few
   years, with a good deal more skill than he had sense, and nowhere in all the wide world that he
   needed to be, **riding a slow road toward a hill he had bought and never seen.**" Closes on the
-  earlier version's button: **"Go easy with him. He did not yet know how any of it would turn out. I
-  do, and that is the one advantage I have ever held over him, and the one I would most gladly give
-  back."** Longevity is a **light** touch only ("in my old age," "when I go," "the later journals,"
-  "they are gone now") — no heavy deep-time / "longer than kingdoms." Does not name Arielle, the
+  earlier version's button: **"I do, and that is the one advantage I have ever held over him, and the
+  one I would most gladly give back."** Longevity is a **light** touch only ("in my old age," "when I
+  go," "the later journals") — no heavy deep-time / "longer than kingdoms." Does not name Arielle, the
   surname, or power.
+  - **READER-FEEDBACK PASS (2026-07-12, 542→480 words):** applied the author's reader note + tracked
+    change (both anchored to the older lean prologue; intent mapped onto the poetic version). (a)
+    **Conditional reframe** (note): the "who it's about / go easy" beat is now tentative, not
+    declarative — *"If I were to tell it true, it would be the story of a man… That is who it would be
+    about, and I would ask you to go easy on him."* (b) **Cut the essayistic closing** (tracked
+    change): removed the "So here it is, the truth of it… I will not pretend the years have warmed no
+    words… the shape is what matters" paragraph (the "how a hill came to hold a tower / a life back"
+    book-summary was already gone in the poetic rewrite). Net: a humble journal MUSING (the legend
+    isn't me; *if* I told it true, here's who it'd be), not "here is the definitive account." DURABLE:
+    keep the prologue **tentative/conditional, not declarative**; avoid essayistic "here is the truth /
+    the shape is the thing" summary beats. (One poetic line dropped — "fondness is a kind of light
+    that flatters whatever it falls upon" — restorable on request.)
 - **Ch 1 events:** third week of spring. **THE JOURNEY IS NOW RECOUNTED (expanded 2026-07-11):**
   **3 days by rail** out of Vethmark in a crude early train ("rattled the teeth… let the cold in at
   every seam"; the engine "an early, soot-breathing thing… next to nothing of the arcane in it")

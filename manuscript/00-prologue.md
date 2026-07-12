@@ -12,10 +12,6 @@ I did not know him, the man in the story. That is the plain truth of it, and pla
 
 Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was in those days was wiser or gentler or one whit less of a fool than the figure in the story. God knows I had a great deal more to learn than I yet had the sense to know I was missing, and I learned the most of it the slow way, and late, and at a cost to better people than myself. But he was a man, at least, and not a monument. And if I am to leave one true thing behind me when I go, I would sooner it were him than the bright bronze figure the years have cast up in his place.
 
-So here it is, the truth of it, or near enough. I will not pretend the years have warmed no words nor softened any faces, for they have, and I was fond of very nearly all of them, and they are gone now, and fondness is a kind of light that flatters whatever it happens to fall upon. Still, the shape of the thing is true, and the shape is what matters in the end.
-
-And the shape is this. My story is not the story of a boy. There is no boy in it, whatever the tellers would prefer, and there is no wonder either, not at the beginning of it. It begins as the story of a man at the tired end of a bad few years, with a good deal more skill than he had sense, and nowhere in all the wide world that he needed to be, riding a slow road toward a hill he had bought and never seen.
-
-Go easy with him. He did not yet know how any of it would turn out.
+My story is not the story of a boy. There is no boy in it, whatever the tellers would prefer, and there is no wonder either, not at the beginning of it. If I were to tell it true, it would be the story of a man at the tired end of a bad few years, with far more skill than he had sense and nowhere in all the wide world that he needed to be, riding a slow road toward a hill he had bought and never seen. That is who it would be about, and I would ask you to go easy on him. He did not yet know how any of it would turn out.
 
 I do, and that is the one advantage I have ever held over him, and the one I would most gladly give back.
