@@ -1,0 +1,38 @@
+# phrase-registry.txt — distinctive one-use phrases and their home chapter.
+# Format: home-file|phrase   (case-insensitive, fixed-string match)
+# prose-lint.sh FAILS any file (other than the home) that reuses a phrase.
+# AFTER DRAFTING A CHAPTER: append its 3-5 most distinctive coinages here.
+# Do NOT register deliberate cross-chapter rhymes (e.g. the "for company"
+# closers in Ch 6/8, which is an intentional callback).
+00-prologue.md|the tired end of a bad few years
+00-prologue.md|a man, at least, and not a monument
+01-chapter-one.md|by the thimble
+01-chapter-one.md|the green silence
+01-chapter-one.md|a purse you turn out and pocket
+01-chapter-one.md|let a good animal be right about the road
+# NOTE: "never once been asked" (Ch2) deliberately recurs in Ch4 as the thesis
+# payoff — an intentional callback, NOT registered. Same for the "for company"
+# closers (Ch6/Ch8).
+01-chapter-one.md|signed something in his own head
+02-chapter-two.md|the ground nothing stands on
+02-chapter-two.md|nothing written down at all
+03-chapter-three.md|grew stone instead of grain
+03-chapter-three.md|a note to answer
+03-chapter-three.md|the particular nothing that looks
+04-ask-for-passage.md|Do not ask for level
+04-ask-for-passage.md|attention and appetite
+05-good.md|the nearest thing I know to prayer
+05-good.md|deserves what he gets
+06-first-light.md|a dark room and a lesson
+06-first-light.md|patient as the hill
+06-first-light.md|the lamp that drinks the hill
+07-wednesdays.md|while my back was turned
+07-wednesdays.md|the only voice it had
+07-wednesdays.md|becomes furniture
+07-wednesdays.md|a full cup on a stair
+07-wednesdays.md|the whole apparatus of a life
+07b-interlude-one.md|the way roots turn toward water
+08-the-lamp-business.md|the same manners work on daylight as on grief
+08-the-lamp-business.md|the winter's excuse gone
+09-breaking-ground.md|the right size for a man
+09-breaking-ground.md|if the little was the right little

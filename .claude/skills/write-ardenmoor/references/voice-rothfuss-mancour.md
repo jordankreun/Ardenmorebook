@@ -62,6 +62,22 @@ lyric-there. Carry the blend evenly, start to finish.
 
 ---
 
+## ✍️ WRITE-TIME TIC BUDGET (2026-07-12 — aim at this while drafting, don't just fix it after)
+
+The teller's signature constructions are voice at low frequency and mannerism at high. While
+drafting, treat each as a budget to SPEND on the best moments, roughly per chapter: **", which
+is/was …" tails ~5** (each must land a judgment or a joke — "which was Jorin knighting him");
+**"a good/great deal / a great many" ~3** (elsewhere: *much, far, many, most*, or no measure at
+all); **"the way you/a …" similes ~5** (only the vivid); **"I will not pretend / I will not tell
+you" ≤1** (usually say the thing directly: "The first ones did not work."); **"in the end" ≤2;
+"which is to say" ≤2; "which by then" ≤1.** Never reuse another chapter's distinctive coinage
+(check `tools/phrase-registry.txt`; deliberate callbacks are a plotted exception, not a habit).
+Prefer the period, the colon, and the plain declarative to the appositive reflex. After drafting,
+`tools/prose-lint.sh` verifies all of this mechanically — but the point is to write inside the
+budget, not to lean on the lint.
+
+---
+
 ## THE VOICE IN ONE SENTENCE
 
 A narrator who was there and has thought about it since, telling you the story of a grieving

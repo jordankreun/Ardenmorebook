@@ -43,6 +43,10 @@
       yet" is fine). An **other-character chapter or interlude** is **third-person limited** on one
       head (the hill, for interludes), same blended voice, no first-person slips, no head-hopping, no
       POV that spends a mystery early.
+- [ ] **`tools/prose-lint.sh manuscript/NN-slug.md` has RUN** — zero FAILs (em dashes,
+      memoir-frame phrases, registry-phrase reuse); every WARN reviewed instance-by-instance and
+      any kept overage justified in the engine report. The chapter's 3–5 most distinctive
+      coinages have been APPENDED to `tools/phrase-registry.txt`.
 - [ ] **NO EM DASHES (—) anywhere** — prose, dialogue, or chapter titles (hard house rule).
       Asides/pauses use commas, periods (favored), semicolons, colons, or parentheses, varied for
       natural flow; ellipsis for a trailing/cut-off line. Grep the file to be sure.

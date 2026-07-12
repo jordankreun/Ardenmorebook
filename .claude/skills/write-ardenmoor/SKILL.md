@@ -30,6 +30,8 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 - `.claude/skills/write-ardenmoor/references/voice-rothfuss-mancour.md` — the specific author-voice fusion for THIS book
 - `.claude/skills/write-ardenmoor/references/continuity-checklist.md` — the pre-flight and post-flight checks per chapter
 - `.claude/skills/write-ardenmoor/references/feedback-engine.md` — the pre-delivery revision pass; the distilled, living rubric of every author preference, run on each draft before the author sees it
+- `.claude/skills/write-ardenmoor/tools/prose-lint.sh` — the MECHANICAL voice guard: run it on every chapter before delivery (hard rules FAIL, tic budgets WARN); see the post-flight step
+- `.claude/skills/write-ardenmoor/tools/phrase-registry.txt` — distinctive one-use phrases and their home chapters; the lint fails any reuse; append each new chapter's best coinages
 - `state/story-bible.md` — the LIVING continuity record; you read and update it every chapter
 - `state/geography.md` — the LIVING map & gazetteer (valley, hill, village, roads, water);
   read before drafting, update after any chapter that places, names, or moves geography
@@ -248,6 +250,20 @@ put the title as an in-prose heading inside the scene.
 **Run the post-flight check** from `references/continuity-checklist.md` before declaring the
 chapter done. If any check fails, fix the prose, not the checklist.
 
+**Run the PROSE LINT (mandatory, mechanical):**
+```
+.claude/skills/write-ardenmoor/tools/prose-lint.sh manuscript/NN-slug.md
+```
+- A **FAIL** (em dashes, memoir-frame phrases, a registry phrase reused outside its home chapter)
+  must be fixed in the prose, no exceptions.
+- A **WARN** means a signature tic is over its per-chapter budget: review every instance; dialogue
+  and individually vetted keepers may stay, but say so in the engine report. Do not ship a WARN you
+  haven't reviewed.
+- Then **append the new chapter's 3–5 most distinctive coinages** to
+  `tools/phrase-registry.txt` (format `NN-slug.md|phrase`) so future chapters can't dilute them by
+  accidental reuse. Do NOT register deliberate cross-chapter callbacks (note them in the registry's
+  comments instead).
+
 **Run the FEEDBACK ENGINE pass (mandatory, and the last thing before delivery).** Open
 `references/feedback-engine.md` and run its rubric over the finished chapter, cold, as if you were
 the author holding their own accumulated preferences. This is the "additional pass before I see a
@@ -357,3 +373,7 @@ The user will ask for these in ordinary language; treat them as requests, not co
 - Presenting a draft as ready without running the FEEDBACK ENGINE pass
   (`references/feedback-engine.md`) — the pre-delivery self-review that catches the recurring
   classes of author note before the author has to.
+- Presenting a draft as ready without running `tools/prose-lint.sh` on it, shipping an unreviewed
+  WARN, or forgetting to add the chapter's distinctive coinages to `tools/phrase-registry.txt`.
+  The lint is the mechanical arm of the voice: it exists because signature constructions drift
+  into mannerism by frequency, and drift is invisible from inside a draft.

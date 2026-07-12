@@ -177,9 +177,12 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   will not tell you" ≤ 1** (elsewhere state the thing directly: "The first ones did not work.");
   **"in the end" ≤ 2**; **"which is to say" ≤ 1–2.** Also scan for a phrase repeated across ADJACENT
   chapters ("while my back was turned") and vary the later use. The fix is always to keep the BEST
-  instance and recast the weak ones, never to purge the construction. *Source: the 2026-07-12
-  professional-polish pass ("make sure the tone is at a professional author level — Terry
-  Mancour-esque"); measured counts ran 8–16 per chapter before the pass.*
+  instance and recast the weak ones, never to purge the construction. **MECHANICAL ARM:** run
+  `tools/prose-lint.sh` on the chapter — it enforces the hard rules (em dashes, memoir-frame
+  phrases, `tools/phrase-registry.txt` reuse) as FAILs and these rations as WARNs; every WARN gets
+  an instance-by-instance review, and the chapter's new coinages get appended to the registry.
+  *Source: the 2026-07-12 professional-polish pass ("make sure the tone is at a professional author
+  level — Terry Mancour-esque"); measured counts ran 8–16 per chapter before the pass.*
 - **[CRAFT] Concision: cut verbosity, keep the voice.** The lyric register earns long sentences, but
   it does not license padding. Hunt and cut: **doubled clauses** that restate the same beat ("and
   they were not wrong, and I never troubled to mend it" → drop the first); **over-qualification**

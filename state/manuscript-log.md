@@ -572,6 +572,25 @@ pretend ≤1 per chapter with distinct function. NEW DURABLE RULE added to the f
 **"Ration the signature tics"** with per-chapter ceilings, so future drafts self-catch. 0 em dashes;
 all counts in band.
 
+PROSE GUARDS BUILT INTO THE SKILL (2026-07-12): converted the polish pass into standing controls so
+it never needs repeating. **(1) `tools/prose-lint.sh`** — a mechanical guard run on every chapter
+before delivery (now a MANDATORY post-flight step in SKILL.md + checklist): **FAILs** (exit 1) on em/en
+dashes, memoir-frame phrases in chapters ("this account," "the tellers," "in a long life," etc. —
+prologue exempt), and reuse of any registry phrase outside its home chapter; **WARNs** when a signature
+tic exceeds its per-chapter budget (which-tails >7, deal/many >6, the-way >8, pretend >1, in-the-end
+>2, which-is-to-say >2, which-by-then >1, of-course >2, particular >6, plain >8) — every WARN requires
+instance-by-instance review with keeps justified in the engine report. **(2)
+`tools/phrase-registry.txt`** — distinctive one-use coinages mapped to their home chapters (~30
+seeded); the lint fails accidental reuse, and the post-flight now APPENDS each new chapter's 3–5 best
+coinages, so the guard grows with the book. Deliberate callbacks (Ch2→Ch4 "never once been asked"
+thesis payoff; Ch6/Ch8 "for company" closers) are documented as exempt in the registry comments. **(3)
+Write-time budget** — a "✍️ WRITE-TIME TIC BUDGET" block added to the voice doc so drafts aim inside
+the ration from the first line (prevention, not just detection). Wired into: SKILL.md (file map, post-
+flight step, failure modes), continuity-checklist (first Voice item), feedback-engine (mechanical-arm
+note). PROVEN ON FIRST RUN: the registry caught a real echo I'd missed ("grew stone instead of grain"
+in both Ch3 and Ch9 — Ch9's varied to "had never grown a saleable thing in its life"). Full-manuscript
+lint now exits 0 with no FAILs.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
