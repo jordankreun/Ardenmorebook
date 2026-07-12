@@ -124,9 +124,16 @@
     operates; Emlyn HOLDS his father's share in it** (a retained, absentee ownership stake paying a
     "small partner's share" — a modest steady income he does NOT run and rarely thinks about; part of
     what Penworth manages and can lean the loan on). He does NOT sell the firm share.
-  - **Two city homes.** (1) the **family townhouse** he **INHERITED** from his parents — the "large,
-    mostly-empty, dust-sheeted townhouse" he wintered in alone (Ch 1); **his father designed and made
-    it for his mother** ("the finest small thing he ever drew"), comfortable, not extravagant. He
+  - **Two city homes.** (1) the **family townhouse** he **INHERITED** from his parents — the
+    dust-sheeted townhouse he wintered in alone (Ch 1); **his father designed and made it for his
+    mother** ("the finest small thing he ever drew"), comfortable, not extravagant. **An EARLY work
+    (Ch 1, 2026-07-12):** his father drew it years before, when **the firm was still more hope than
+    trade** (built "as much for the love of the thing as for the money"), and it sat in what was then
+    a **quiet, unfashionable quarter** a young man of modest means could afford. **The quarter
+    gentrified around it:** the town grew "dear and grand," tall bright houses rising to either side,
+    so the modest little house is now **worth many times what it cost to raise** ("an honest word in an
+    ornate sentence"). NOTE the finance nuance: it's a small/modest house but on now-valuable ground —
+    do NOT render it as itself large or lavish (it is NOT the "large" house; that word is dropped). He
     KEEPS this and LIVES here. **He never meant to stay in it long (Ch 1):** returning to the family
     home was only ever a **temporary stopgap** while the river house went up — a place to "keep himself
     and his boots" until his own grander house was ready. The wedding never happened, so the stopgap

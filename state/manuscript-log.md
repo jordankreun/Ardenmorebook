@@ -629,6 +629,13 @@ draftsman line ("I had drawn a good part of it myself…"). Story-bible updated 
 LEVER canon note + consolidated rendering note); buyer exists from Ch 1, closing lands next spring
 (economic/grief clock), only the *emotional clearing* is deferred. prose-lint: 0 FAILs.
 
+REVISION (2026-07-12 — Ch 1 father's house): the family townhouse Emlyn stays in is now framed as an
+**early work** — his father drew it before the firm took off ("more hope than trade"), a modest little
+house in a then-**unfashionable quarter** that has since **gentrified around it** ("gone dear and
+grand," fine houses rising to either side), so it's now "worth many times what it cost to raise" — "an
+honest word in an ornate sentence." It's small/modest but on now-valuable ground; the word "large" is
+dropped from its description. Story-bible townhouse note updated. prose-lint: 0 FAILs.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.
