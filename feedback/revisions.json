@@ -34,15 +34,19 @@
     "snip": "I will not pretend the years have warmed no words or softened no faces in the telling, for I was fon",
     "original": "I will not pretend the years have warmed no words or softened no faces in the telling, for I was fond of very nearly all of them. But the shape of it is true, and the shape is the thing that lasts. So here it is, the true version, or near enough: how a hill that nothing would stand on came at last to hold a tower, and how the man who built it there got, without ever quite meaning to, a life back.",
     "revised": "",
-    "ts": 1783833452101,
-    "resolved": false
+    "ts": 1783833823941,
+    "resolved": true,
+    "resolvedTs": 1783833823941,
+    "resolvedVia": "applied"
   },
   {
     "chap": "Prologue",
     "snip": "The stories about that hill, on the rare occasions anyone tells them, like to begin on a wonder, or ",
     "original": "The stories about that hill, on the rare occasions anyone tells them, like to begin on a wonder, or on a boy. They get it wrong from the first word. I never wanted to be a man anyone sang about, and I was not one. There was no wonder in it at the start. There was no boy yet either.",
     "revised": "The stories they tell about me, on the rare occasions anyone tells them, like to begin on a wonder, or on a boy. They get it wrong from the first word. I never wanted to be a man anyone sang about, and I was not one. There was no wonder in it at the start. There was no boy either.",
-    "ts": 1783833536358,
-    "resolved": false
+    "ts": 1783833823941,
+    "resolved": true,
+    "resolvedTs": 1783833823941,
+    "resolvedVia": "applied"
   }
 ]
