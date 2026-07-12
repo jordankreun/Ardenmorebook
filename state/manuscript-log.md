@@ -553,6 +553,25 @@ bible) so it is NOT trimmed back toward the immediate-chapter voice in a future 
 a light touch even here ("in my old age," "when I go"). State updated: story-bible (POV lock + prologue
 ESTABLISHED description), SKILL #1.
 
+PROFESSIONAL-POLISH PASS (2026-07-12): a line-edit pass over the whole manuscript at the author's
+request ("make sure the tone is at a professional author level — Terry Mancour-esque, following the
+guides"). Diagnosis: the voice's signature constructions had drifted from voice into MANNERISM by
+sheer frequency (measured: ", which is/was…" appositive tails 8–16 per chapter; "a good/great deal /
+great many" up to 12; "the way you…" similes up to 10; the "I will not pretend/tell you" opener 10×
+book-wide; "in the end" 4× in Ch 3; "which by then" 3× in Ch 6; "while my back was turned" repeated
+across adjacent chapters). Fix: kept the BEST instance of each construction and recast the weak ones
+(colon, period, "and that was…", direct statement — e.g. "I will not pretend the first ones worked" →
+"The first ones did not work"), never purging the construction itself. ~35 surgical edits across
+Prologue–Ch 9; all canon lines, dialogue voices, beats untouched; strongest tails expressly kept
+("which was Cael for I have said what I mean to say," "which was Jorin knighting him," "which was not
+yet," "in the only voice it had, which was cold"). Also fixed: a leftover memoir-frame phrase in Ch 6
+("and this is an honest account" — cut), a verb-agreement slip introduced in the Ch 7 recast, the
+Ch7/Ch9 "back was turned" echo, and Cael's line-59 triple-measure speech lightened. Post-pass counts:
+which-tails ≤9/chapter (all vetted), deal/many ≤6 narration (Ch 2's 9 includes dialogue rhythm),
+pretend ≤1 per chapter with distinct function. NEW DURABLE RULE added to the feedback engine (P5):
+**"Ration the signature tics"** with per-chapter ceilings, so future drafts self-catch. 0 em dashes;
+all counts in band.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 

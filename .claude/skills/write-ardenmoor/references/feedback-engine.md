@@ -168,6 +168,18 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   famous… stories so warped it's barely fantasy, not many of them."*
 - **[CRAFT] No sentence that admires itself; no digression that forgets to return.** Lyricism is a
   spice. If a line is performing, plain it down. *Source: the failure-modes list.*
+- **[CRAFT] RATION THE SIGNATURE TICS (professional-polish rule, 2026-07-12).** The teller's
+  signature constructions are voice in small doses and mannerism in large ones. Per chapter, hold
+  them to roughly: **", which is/was …" appositive tails ≤ ~5–6** (keep only the ones that land a
+  judgment or a joke; recast the rest with a colon, a period, or "and that was…"); **"a good/great
+  deal / a great many" ≤ ~3–4** (elsewhere use *much, far, many, most,* or cut the measure entirely);
+  **"the way you/a …" similes ≤ ~5** (keep the vivid, cut the reflexive); **"I will not pretend / I
+  will not tell you" ≤ 1** (elsewhere state the thing directly: "The first ones did not work.");
+  **"in the end" ≤ 2**; **"which is to say" ≤ 1–2.** Also scan for a phrase repeated across ADJACENT
+  chapters ("while my back was turned") and vary the later use. The fix is always to keep the BEST
+  instance and recast the weak ones, never to purge the construction. *Source: the 2026-07-12
+  professional-polish pass ("make sure the tone is at a professional author level — Terry
+  Mancour-esque"); measured counts ran 8–16 per chapter before the pass.*
 - **[CRAFT] Concision: cut verbosity, keep the voice.** The lyric register earns long sentences, but
   it does not license padding. Hunt and cut: **doubled clauses** that restate the same beat ("and
   they were not wrong, and I never troubled to mend it" → drop the first); **over-qualification**
