@@ -300,6 +300,7 @@
       <select id="voiceSelect" aria-label="Reading voice"></select>
     </div>
     <p id="voiceHint" class="setHint hide"></p>
+    <p id="neuralStatus" class="setHint hide"></p>
   </div>
 </div>
 
@@ -979,13 +980,30 @@
     var el=document.getElementById("tts"), btnPlay=document.getElementById("ttsPlay"),
         btnStop=document.getElementById("ttsStop"), btnRate=document.getElementById("ttsRate"),
         voiceSel=document.getElementById("voiceSelect"),
-        voiceHint=document.getElementById("voiceHint");
+        voiceHint=document.getElementById("voiceHint"),
+        neuralStatus=document.getElementById("neuralStatus");
     var RATES=[0.8,0.9,1,1.1,1.25,1.5];
     var rate=parseFloat(localStorage.getItem(KEY_RATE))||1;
     var voiceURI=localStorage.getItem(KEY_VOICE)||"";
     var voices=[], voice=null, queue=[], qi=0, playing=false, paused=false, curP=null, keep=null;
     if(!supported){ if(el) el.classList.add("hide"); var ts=document.getElementById("ttsSettings"); if(ts) ts.style.display="none"; return {supported:false}; }
     el.classList.remove("hide");
+
+    // In-browser neural voice (Kokoro-82M, ONNX). Runs fully on-device: the
+    // model downloads once (~90 MB) then plays offline. These options are
+    // prepended to the voice picker; ids are namespaced "kokoro:" so the rest
+    // of the engine can tell a neural pick from a Web Speech one.
+    var KOKORO_MODEL="onnx-community/Kokoro-82M-v1.0-ONNX";
+    var KOKORO_CDN="https://esm.sh/kokoro-js@1.2.1";
+    var KOKORO_VOICES=[
+      {id:"kokoro:af_heart", label:"★ Neural — Heart (US) · offline"},
+      {id:"kokoro:af_bella", label:"★ Neural — Bella (US) · offline"},
+      {id:"kokoro:am_michael", label:"★ Neural — Michael (US) · offline"},
+      {id:"kokoro:bf_emma", label:"★ Neural — Emma (UK) · offline"},
+      {id:"kokoro:bm_george", label:"★ Neural — George (UK) · offline"}
+    ];
+    function isNeural(uri){ return /^kokoro:/.test(uri||""); }
+    function neuralVoiceId(uri){ return (uri||"").replace(/^kokoro:/,"")||"af_heart"; }
 
     // Rank voices by real-world quality. The old code preferred localService
     // voices, which are the robotic ones (Windows SAPI David/Zira, basic Apple);
@@ -1017,22 +1035,59 @@
           || voices[0] || null;                                            // else the highest-ranked
       if(voiceSel){
         voiceSel.innerHTML="";
-        voices.forEach(function(v){ var o=document.createElement("option"); o.value=v.voiceURI; o.textContent=voiceLabel(v); if(voice&&v.voiceURI===voice.voiceURI) o.selected=true; voiceSel.appendChild(o); });
+        KOKORO_VOICES.forEach(function(kv){ var o=document.createElement("option"); o.value=kv.id; o.textContent=kv.label; if(voiceURI===kv.id) o.selected=true; voiceSel.appendChild(o); });
+        voices.forEach(function(v){ var o=document.createElement("option"); o.value=v.voiceURI; o.textContent=voiceLabel(v); if(voice&&v.voiceURI===voice.voiceURI&&!isNeural(voiceURI)) o.selected=true; voiceSel.appendChild(o); });
       }
       if(voiceHint){
         var best=voices.length?voiceScore(voices[0]):-99, ua=navigator.userAgent||"";
-        if(best>=60){ voiceHint.classList.add("hide"); }
+        if(isNeural(voiceURI)){ voiceHint.classList.remove("hide"); voiceHint.textContent="Neural voice: a genuinely natural read-aloud that runs on your device. The first use downloads it once (about 90 MB), then it plays offline."; }
+        else if(best>=60){ voiceHint.classList.add("hide"); }
         else {
           voiceHint.classList.remove("hide");
           voiceHint.textContent = /Edg\//.test(ua)
-            ? "Tip: your best voices are the ones marked “Natural.” Pick one above."
-            : "These are your device's built-in voices. For much better free voices, open this book in Microsoft Edge (Windows) or install an Enhanced voice in your system Speech settings (Mac/iPhone).";
+            ? "Tip: your best voices are the ones marked “Natural,” or try the Neural voice above (a one-time download)."
+            : "For much better voices, pick a “Neural” voice above (a one-time download that then works offline), open this book in Microsoft Edge, or install an Enhanced voice in your system Speech settings.";
         }
       }
     }
     loadVoices();
     try{ window.speechSynthesis.onvoiceschanged=loadVoices; }catch(e){}
-    if(voiceSel) voiceSel.addEventListener("change", function(){ voiceURI=voiceSel.value; try{localStorage.setItem(KEY_VOICE,voiceURI);}catch(e){} voice=voices.filter(function(v){return v.voiceURI===voiceURI;})[0]||voice; });
+    if(voiceSel) voiceSel.addEventListener("change", function(){ voiceURI=voiceSel.value; try{localStorage.setItem(KEY_VOICE,voiceURI);}catch(e){} voice=voices.filter(function(v){return v.voiceURI===voiceURI;})[0]||voice; loadVoices(); if(isNeural(voiceURI)) neuralLoad().catch(function(){}); });
+
+    /* ----- Neural voice (Kokoro-82M, runs locally via WASM/WebGPU) ----- */
+    var NEURAL={ tts:null, loading:null, ctx:null, src:null, token:0 };
+    function nStatus(msg, show){ if(!neuralStatus) return; neuralStatus.textContent=msg||""; neuralStatus.classList.toggle("hide", !show); }
+    function neuralCtx(){ if(!NEURAL.ctx){ try{ NEURAL.ctx=new (window.AudioContext||window.webkitAudioContext)(); }catch(e){} } if(NEURAL.ctx&&NEURAL.ctx.state==="suspended"){ try{ NEURAL.ctx.resume(); }catch(e){} } return NEURAL.ctx; }
+    function neuralLoad(){
+      if(NEURAL.tts) return Promise.resolve(NEURAL.tts);
+      if(NEURAL.loading) return NEURAL.loading;
+      nStatus("Preparing the neural voice… the first use downloads it once (about 90 MB).", true);
+      NEURAL.loading=(async function(){
+        var mod=await import(KOKORO_CDN);
+        var hasGPU=("gpu" in navigator);
+        var prog=function(p){ if(!p||p.status!=="progress") return; var pct=(p.progress!=null)?Math.round(p.progress):(p.total?Math.round(100*(p.loaded||0)/p.total):null); if(pct!=null) nStatus("Downloading neural voice… "+pct+"% (one time)", true); };
+        var tts;
+        try{ tts=await mod.KokoroTTS.from_pretrained(KOKORO_MODEL,{dtype:"q8",device:hasGPU?"webgpu":"wasm",progress_callback:prog}); }
+        catch(e){ tts=await mod.KokoroTTS.from_pretrained(KOKORO_MODEL,{dtype:"q8",device:"wasm",progress_callback:prog}); }
+        NEURAL.tts=tts; nStatus("Neural voice ready.", true); setTimeout(function(){ nStatus("",false); },2200);
+        return tts;
+      })();
+      NEURAL.loading.catch(function(){ NEURAL.loading=null; nStatus("Could not load the neural voice; a built-in voice will be used instead.", true); });
+      return NEURAL.loading;
+    }
+    function neuralSpeak(text, onend){
+      var tok=NEURAL.token;
+      NEURAL.tts.generate(text,{voice:neuralVoiceId(voiceURI),speed:rate}).then(function(audio){
+        if(tok!==NEURAL.token||!playing){ return; }
+        var ctx=NEURAL.ctx||neuralCtx(); if(!ctx){ onend(); return; }
+        var data=audio&&(audio.audio||audio.waveform)||audio, sr=(audio&&(audio.sampling_rate||audio.sampleRate))||24000;
+        var buf=ctx.createBuffer(1,data.length,sr); buf.getChannelData(0).set(data);
+        var src=ctx.createBufferSource(); src.buffer=buf; src.connect(ctx.destination);
+        src.onended=function(){ if(tok===NEURAL.token) onend(); };
+        NEURAL.src=src; src.start();
+      }).catch(function(){ if(tok===NEURAL.token) onend(); });
+    }
+    function neuralStop(){ NEURAL.token++; try{ if(NEURAL.src){ NEURAL.src.onended=null; NEURAL.src.stop(); } }catch(e){} NEURAL.src=null; try{ if(NEURAL.ctx&&NEURAL.ctx.state==="running") NEURAL.ctx.suspend(); }catch(e){} }
 
     function splitSentences(text){ var m=text.match(/[^.!?…]+[.!?…]+["'”’)\]]*\s*|[^.!?…]+\s*$/g); return (m&&m.length)?m:[text]; }
     function build(){
@@ -1053,7 +1108,12 @@
       if(!playing) return;
       if(qi>=queue.length){ stop(); return; }
       var item=queue[qi]; paint(item);
-      var u=new SpeechSynthesisUtterance(item.sents[item.si].replace(/\s+/g," ").trim());
+      var text=item.sents[item.si].replace(/\s+/g," ").trim();
+      if(isNeural(voiceURI)){
+        neuralSpeak(text, function(){ if(playing&&!paused){ qi++; speakNext(); } });
+        return;
+      }
+      var u=new SpeechSynthesisUtterance(text);
       if(voice) u.voice=voice; u.rate=rate; u.pitch=1;
       u.onend=function(){ if(playing&&!paused){ qi++; speakNext(); } };
       u.onerror=function(){ if(playing&&!paused){ qi++; speakNext(); } };
@@ -1075,11 +1135,25 @@
       }catch(e){}
     }
     function pbState(s){ if("mediaSession" in navigator) try{ navigator.mediaSession.playbackState=s; }catch(e){} }
-    function start(){ window.speechSynthesis.cancel(); build(); if(!queue.length){ toast("Nothing to read here"); return; } playing=true; paused=false; qi=0; ui(); keepAlive(); media(); pbState("playing"); speakNext(); }
-    function pause(){ if(!playing) return; paused=true; window.speechSynthesis.pause(); ui(); pbState("paused"); }
-    function resume(){ if(!playing) return; paused=false; window.speechSynthesis.resume(); ui(); pbState("playing"); }
+    function start(){
+      window.speechSynthesis.cancel(); build();
+      if(!queue.length){ toast("Nothing to read here"); return; }
+      if(isNeural(voiceURI)){
+        neuralCtx();                                  // create/resume within the click gesture
+        playing=true; paused=false; qi=0; ui(); media(); pbState("playing");
+        neuralLoad().then(function(){
+          if(!playing) return; NEURAL.token++; neuralCtx(); speakNext();
+        }).catch(function(){
+          stop(); toast("Neural voice unavailable; using a device voice."); voiceURI=""; try{localStorage.removeItem(KEY_VOICE);}catch(e){} loadVoices(); start();
+        });
+        return;
+      }
+      playing=true; paused=false; qi=0; ui(); keepAlive(); media(); pbState("playing"); speakNext();
+    }
+    function pause(){ if(!playing) return; paused=true; if(isNeural(voiceURI)){ try{ if(NEURAL.ctx) NEURAL.ctx.suspend(); }catch(e){} } else window.speechSynthesis.pause(); ui(); pbState("paused"); }
+    function resume(){ if(!playing) return; paused=false; if(isNeural(voiceURI)){ try{ if(NEURAL.ctx) NEURAL.ctx.resume(); }catch(e){} } else window.speechSynthesis.resume(); ui(); pbState("playing"); }
     function toggle(){ if(!playing) start(); else if(paused) resume(); else pause(); }
-    function stop(){ playing=false; paused=false; window.speechSynthesis.cancel(); stopKeep(); clearPaint(); ui(); if(typeof decorate==="function") decorate(); pbState("none"); }
+    function stop(){ playing=false; paused=false; window.speechSynthesis.cancel(); neuralStop(); stopKeep(); clearPaint(); ui(); if(typeof decorate==="function") decorate(); pbState("none"); }
 
     btnPlay.addEventListener("click", toggle);
     btnStop.addEventListener("click", stop);
