@@ -1004,6 +1004,14 @@
     ];
     function isNeural(uri){ return /^kokoro:/.test(uri||""); }
     function neuralVoiceId(uri){ return (uri||"").replace(/^kokoro:/,"")||"af_heart"; }
+    // Where the on-device neural voice can actually run. Every iOS browser
+    // (Chrome, Edge, Firefox included) is forced onto Safari's WebKit, which
+    // has no WebGPU and memory limits a ~90 MB model can't fit — so neural is
+    // dead there and we don't offer it. iPadOS masquerades as a Mac, so also
+    // treat a touch-capable "Mac" as iOS. Elsewhere (desktop Chrome/Edge,
+    // Android Chrome) it works, so keep it.
+    var IS_IOS = (function(){ var ua=navigator.userAgent||""; return /iP(hone|od|ad)/.test(ua) || (/Macintosh/.test(ua) && (navigator.maxTouchPoints||0) > 1); })();
+    function neuralViable(){ return !IS_IOS; }
 
     // Rank voices by real-world quality. The old code preferred localService
     // voices, which are the robotic ones (Windows SAPI David/Zira, basic Apple);
@@ -1029,18 +1037,27 @@
     }
     function loadVoices(){
       var all=window.speechSynthesis.getVoices()||[];
+      // If neural can't run here (iOS) but a neural voice was saved (e.g. picked
+      // on desktop, synced over), drop back to the best device voice instead.
+      if(isNeural(voiceURI) && !neuralViable()){ voiceURI=""; try{localStorage.removeItem(KEY_VOICE);}catch(e){} }
       voices=all.filter(function(v){ return /^en(-|_|$)/i.test(v.lang); }); if(!voices.length) voices=all;
       voices.sort(function(a,b){ return voiceScore(b)-voiceScore(a); });   // best first
       voice=voices.filter(function(v){ return v.voiceURI===voiceURI; })[0] // user's saved pick wins
           || voices[0] || null;                                            // else the highest-ranked
       if(voiceSel){
         voiceSel.innerHTML="";
-        KOKORO_VOICES.forEach(function(kv){ var o=document.createElement("option"); o.value=kv.id; o.textContent=kv.label; if(voiceURI===kv.id) o.selected=true; voiceSel.appendChild(o); });
+        if(neuralViable()){ KOKORO_VOICES.forEach(function(kv){ var o=document.createElement("option"); o.value=kv.id; o.textContent=kv.label; if(voiceURI===kv.id) o.selected=true; voiceSel.appendChild(o); }); }
         voices.forEach(function(v){ var o=document.createElement("option"); o.value=v.voiceURI; o.textContent=voiceLabel(v); if(voice&&v.voiceURI===voice.voiceURI&&!isNeural(voiceURI)) o.selected=true; voiceSel.appendChild(o); });
       }
       if(voiceHint){
         var best=voices.length?voiceScore(voices[0]):-99, ua=navigator.userAgent||"";
         if(isNeural(voiceURI)){ voiceHint.classList.remove("hide"); voiceHint.textContent="Neural voice: a genuinely natural read-aloud that runs on your device. The first use downloads it once (about 90 MB), then it plays offline."; }
+        else if(IS_IOS && best<60){
+          // iPhone/iPad: no neural, but iOS ships excellent free "Enhanced"/Siri
+          // voices you download once. Point straight at the setting.
+          voiceHint.classList.remove("hide");
+          voiceHint.textContent = "For a far better iPhone voice, download one once in Settings › Accessibility › Spoken Content › Voices › English (pick a name marked “Enhanced” or a Siri voice), then choose it above.";
+        }
         else if(best>=60){ voiceHint.classList.add("hide"); }
         else {
           voiceHint.classList.remove("hide");
