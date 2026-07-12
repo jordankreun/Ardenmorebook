@@ -127,7 +127,13 @@
   - **Two city homes.** (1) the **family townhouse** he **INHERITED** from his parents — the "large,
     mostly-empty, dust-sheeted townhouse" he wintered in alone (Ch 1); **his father designed and made
     it for his mother** ("the finest small thing he ever drew"), comfortable, not extravagant. He
-    KEEPS this and LIVES here. (2) the grander **"river house"** — **Emlyn commissioned his father's
+    KEEPS this and LIVES here. **He never meant to stay in it long (Ch 1):** returning to the family
+    home was only ever a **temporary stopgap** while the river house went up — a place to "keep himself
+    and his boots" until his own grander house was ready. The wedding never happened, so the stopgap
+    quietly became permanent (he "crept home to his father's house and simply stopped"). In Ch 1 he
+    raises this glancingly and **digresses away** ("I will spare us both"), then ¶17 returns only to the
+    river house's practical burden — do NOT re-reveal the wedding a second time in that later paragraph.
+    (2) the grander **"river house"** — **Emlyn commissioned his father's
     own firm to design it**, as a **grander echo of the family home** (the same lines his father gave
     his mother, "but swollen to twice the scale and three times the cost, ornament laid on ornament")
     — WHY it is so elaborate/overstated. It was his **WEDDING GIFT** to Arielle and the home of their
