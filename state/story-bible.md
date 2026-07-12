@@ -261,6 +261,15 @@ if it needs a new one, add it here.
     keep the prologue **tentative/conditional, not declarative**; avoid essayistic "here is the truth /
     the shape is the thing" summary beats. (One poetic line dropped — "fondness is a kind of light
     that flatters whatever it falls upon" — restorable on request.)
+  - **REFLECTIVE-REFRAME (2026-07-12, per author: "don't have the narrator directly say here is the
+    story or kick it off; more his thoughts on how he might eventually tell it"):** the closing no
+    longer sets the scene or launches. It is now the narrator **deliberating on the telling**:
+    "Perhaps I will set the true thing down one day… when I turn my mind to how it would have to go, I
+    find I know at least where it would not begin. Not on a wonder, and not on a boy… I think I would
+    begin with the man himself… and I think, before I let him take a single step, I would ask you to go
+    easy on him." Removed the direct scene-launch ("riding a slow road toward a hill" — that's Ch 1's
+    job). Kept the "go easy on him" and the "I do… give back" button. DURABLE: the prologue REFLECTS
+    on how the story might be told; it never actually begins the story or says "here it is." 524 words.
 - **Ch 1 events:** third week of spring. **THE JOURNEY IS NOW RECOUNTED (expanded 2026-07-11):**
   **3 days by rail** out of Vethmark in a crude early train ("rattled the teeth… let the cold in at
   every seam"; the engine "an early, soot-breathing thing… next to nothing of the arcane in it")
