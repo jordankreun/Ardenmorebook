@@ -1,13 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-4 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
-
-## Prologue
-
-> and they are gone now, every one but me.
-
-Not all would be gone as some would also have extended lifespans
-
+3 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Chapter One: Ardenmoor
 
