@@ -7,22 +7,25 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–8 + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
-- Word count so far: ~30,800 / ~70,000 target.
-- **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8 opens Part II.
+- Drafted: Prologue + Chapters 1–9 + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
+- Word count so far: ~33,700 / ~70,000 target.
+- **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8–9 are Part II (winter → spring, Year 2).
+- **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
+  like real novels; short chapters ~1,500–2,500 fine, some longer). Ch 9 is a deliberately shorter
+  chapter (2,944). See session-lock #7 / feedback-engine.
 - **✅ POV RESOLVED → SPELLMONGER HYBRID (2026-07-11):** Emlyn's chapters stay first person but told
   **close to the events** (deep-time / ancient-chronicler / famous-legend / memoir framing removed);
   other characters' chapters and the four interludes are **third-person limited**. Interlude I is
   written in that mode. See the POV-REWRITE note in the ledger below and session-lock #1.
-- **⏱ CALENDAR NOTE:** the manuscript has compressed the outline's four seasons. We are now at the
-  **very edge of winter** (Ch 8: "dead of the year," first hard frosts). The outline's Part II
-  (summer) beats are being pulled forward into late autumn / early winter. Book One still ends in
-  the first winter, as the premise requires; the season is just moving faster than the 28-ch plan.
-- Next to write: **Chapter 9** — the outline's "The Listener and the Singer" (Brenna's grandmother's
-  notebooks read: the Singer/hill sings not TO the Listener/oak but to "something not yet arrived";
-  the keeper plant introduced). Emlyn said in Ch 6 he wasn't ready to read the notebooks, so Ch 9
-  needs a reason he opens them now (winter gives him the time; or Brenna brings one up). Keep the
-  two-grandmothers question and Tomas's promise OPEN.
+- **⏱ CALENDAR NOTE:** the manuscript compressed the seasons: arrival spring Yr1 → Study summer's end
+  → lumen/Wednesdays autumn → lamp business edge of winter → **Ch 9 = the first winter passes, THAW into
+  spring Yr2.** The **loan grace year is nearly up** (note comes due this year), which drives Ch 9's
+  tenants. Book One still ends in the first winter arc / spring; season moves faster than the 28-ch plan.
+- Next to write: **Chapter 10 area is open.** The **outline's "The Listener and the Singer"** (Brenna's
+  grandmother's notebooks: the Singer/hill sings not TO the Listener/oak but to "something not yet
+  arrived"; the **keeper plant** introduced) is still unwritten and a strong next beat — Emlyn wasn't
+  ready in Ch 6; spring/settledness gives him the room now. Also live: **Tomas's confession + the
+  standing promise** (outline Ch 10). Keep the two-grandmothers question OPEN. (Length now flexible.)
 
 ---
 
@@ -489,6 +492,48 @@ scarce magic. CONSISTENCY: the village/frontier chapters (Ch 2–7) are pre-indu
 consistent — no rewrite needed (rare magic + no metropole tech on the page). State updated: story-bible
 (TECH bullet refined + new DEVICE-MAKING GIFT session-lock + cast + Ch 1 established record), geography
 (Wainford tech = crude/barely-arcane), outline (canon appendix).
+
+[09] Breaking Ground — **The first winter passes** (a brief bridge: the long white quiet, the lumen
+against the nights, Emlyn realizing his loneliness has quietly changed from hiding-from-a-life to the
+plain solitude of a man with work waiting) → **the THAW into spring Yr2**, and with it the money worry
+(the **loan grace year nearly up**; the bottoms must be made to pay). Two braided beats: **(1) THE
+FIRST TENANTS.** Emlyn goes to **Cael** (grounded, not fated) for a family to work the idle bottom-land;
+Cael names **the WRAYS** — young **Hal Wray** (big, quiet, careful, "built for exactly this") and his
+wife **Bess** (quicker mind than she lets on), "more children than land," sharecropping hard for a
+grasping man on Maret's sister's place. Emlyn offers **fair terms** (year 1 free — the ground's rough;
+year 2 a tenth of yield; year 3+ a fifth) plus the **old empty farmhouse that came with the bottoms**
+(2 rooms wanting a roof; sound stone, good well) to mend and live in while they work the land. **They
+shake on it** (the SECOND bargain Emlyn strikes in the valley, after the hill). The Wrays come across on
+one borrowed cart; Emlyn watches a dead field come back under their hands and is humbled ("they had been
+living [the thesis] since before they could walk"). Room remains in the bottoms for more tenants (seed).
+**(2) THE CABIN — Emlyn draws and builds his own small stone house.** He can't keep living in the Study
+(it "wants to be a study"); he wants, for the first time in years, "a place that was only for living in."
+He builds it **OFF the crown** (the crown is reserved for the future tower) on a sheltered **south-and-
+west shoulder** near the **never-dry spring** (30 steps off; feeds the bath). **GRIEF/DRAFTSMAN PAYOFF:**
+the architect's son who once had his father's firm draw the grand river house now **draws a house himself
+for the first time since the loss** — "the smallest true house I knew how to make." **Two rooms** (per
+author spec): a **main room** holding the whole of a life (hearth, kettle, table, chair, a shelf of the
+few books read twice) + a **bedchamber** with a window for the morning and a **small walled bath alcove**
+(cold from the spring, warm from a copper on the main-room fire). Built in ~3 weeks on the hill's readied
+ground: **Edran's** pale grey stone (kin to the Study), **Jorin** + **Ren** (Ren lays all four corners
+true without a measure — now ACKNOWLEDGED between them, escalating the Ch 5 beat), **Tomas** the door on
+silent hinges + finely turned window-catches. Jorin's oblique blessing: *"Good, that it's small. The
+right size for a man"* (narrator reads it as "he was glad I was mending"). Emlyn moves his bed/chest-of-
+clothes/kettle down, leaving the **Study to be a workroom** (the **locked chest stays in its NE corner**).
+CLOSING: he lights a fire in a hearth he drew himself, bathes, and is **content, without the old suspicion
+of it**; lies in the small bedchamber hearing the hill's two breaths, sees Hal Wray's late window burning
+in the bottoms, and thinks "a man could make a life out of very little, if the little was the right
+little." NEW FACTS: **the Wrays** (Hal + Bess + children; first tenants; the bottoms coming into use;
+year-1-free → 1/10 → 1/5 terms; the old bottoms farmhouse now theirs); **the CABIN built** (2-room stone
+house off the crown on the SW shoulder by the spring; main room + bedchamber w/ bath alcove; Emlyn's new
+residence; future guest/apprentice cabin per the narrator whisper "has housed an apprentice and more than
+one honored guest"); **Emlyn now lives in the cabin, Study = workroom** (chest stays Study NE corner);
+**Emlyn's draftsman gift returns** (grief-healing; the small true house vs the grand dead one); Ren's
+true-corner gift now openly acknowledged. No em dashes; **2,944 words (a deliberately SHORTER chapter —
+the relaxed length rule)**. Feedback-engine fixes applied: timeline (grace year nearly up, note imminent,
+not "next spring"); dropped "Old Harrow's place" (Harrow owned WOODLAND not bottoms → generic old
+farmhouse); softened Jorin so he doesn't name the grief outright (narrator infers); trimmed an unplanned
+"someone I loved" future-romance whisper to apprentice/guest (matches author's spec).
 
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):

@@ -85,13 +85,14 @@ predate some of them; where a reference says otherwise, THIS list wins.
    foot of the hill with the hum entirely unmet by Emlyn; it exists only secondhand
    (Cael's grandmother's "hearing," passed on as fond family foolishness).
 6. **Soren's age at arrival:** about nine — his tenth birthday lands in autumn, per canon.
-7. **Chapter length:** target **~3,500–5,000 words**, with **~3,500 as a hard floor** — the
-   author does not want short chapters. This supersedes the "2,000–3,200" figure in the
-   references and the continuity checklist. Ch 1 (~3,900) is the intended baseline, not the
-   ceiling; let a fuller chapter run to 5,000. Do not pad, but do not close a chapter early:
-   if a draft is coming in under ~3,500, widen it with lived scene (more of the day, another
-   encounter, deeper attention) rather than compressing. Chapter count and total wordcount
-   flex to accommodate this — fewer/longer chapters and/or a longer book are both fine.
+7. **Chapter length — RELAXED to flexible guidance (2026-07-11; supersedes the old "~3,500 hard
+   floor / no short chapters"):** length is **general guidance, not a strict rule.** Vary it the way
+   real novels do: most chapters land substantial (**~3,000–5,000 words**), but **short chapters are
+   welcome** when the material is a single tight scene, turn, or beat (a chapter may run **~1,500–2,500**
+   when that is its natural size), and some chapters run **longer** when the material earns it. **Do NOT
+   pad to a floor, and do NOT bloat** — let the material set the length. Still true: don't close a
+   chapter before its material is done, and don't stretch a naturally short one. Chapter count and
+   total wordcount flex freely. (This also supersedes the references' older "2,000–3,200" figure.)
 8. **ONE blended voice — Mancour surface, Rothfuss undertone throughout (2026-07-06):** the book has
    a **single voice, not two registers taken in turns.** **Terry Mancour is the surface of every
    paragraph** — wry, plainspoken, competent-professional, direct, glad of the practical craft and

@@ -55,8 +55,9 @@
 - [ ] No abstraction without a physical anchor; no named emotion the reader could infer.
 
 **Structure**
-- [ ] Length serves the material (roughly 2,000–3,200; a quiet chapter may run shorter, a fuller
-      day longer). Not padded to a number, not cut to hit one.
+- [ ] Length serves the material (RELAXED guidance, no hard floor: most chapters ~3,000–5,000, short
+      chapters ~1,500–2,500 fine for a single tight beat, some longer; vary like real novels). Not
+      padded to a number, not stretched or cut to hit one.
 - [ ] Follows the anchor → work/encounter → turn → settle rhythm, or departs from it for a reason.
 - [ ] Opens in continuity with the previous chapter's last image.
 - [ ] Ends on an image or single line of dialogue (not a question/cliffhanger; Ch 28 excepted).

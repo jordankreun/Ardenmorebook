@@ -74,6 +74,17 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
 - **The LUMEN** — the first "lamp that does not burn" sits in the Study (bound Ch6): blown-glass
   vessel, brass collar/foot (Tomas's second commission), drinks the hill's hum → deep amber, brighter
   at the two pulse-hours, dim at midday. It is the room's light now. [PAGE ch6]
+- **THE CABIN (built Ch 9)** — Emlyn's small **2-room stone house**, his residence from spring Yr2.
+  Built **OFF the crown** (crown reserved for the future tower) on a **sheltered south-and-west shoulder
+  below the crown**, near the **never-dry south-face spring** (~30 steps; feeds the bath). Same pale
+  grey Edran stone as the Study (looks kin from below). **Rooms:** a **main room** (hearth, kettle,
+  table, chair, a shelf of oft-read books — the whole of a life in one warm room) + a **bedchamber**
+  (morning window) with a **small walled bath alcove** (cold from the spring, warm from a copper on the
+  main-room fire). Jorin + Ren built it (~3 wks; Ren laid all 4 corners true, openly acknowledged);
+  Tomas's silent-hinge door + fine window-catches. **Emlyn drew it himself** (draftsman gift returned).
+  → later the **guest / apprentice cabin** (narrator whisper). [PAGE ch9]
+- **The STUDY is now Emlyn's WORKROOM** (Ch 9): he moved his living to the cabin; the Study keeps his
+  instruments/books and **the locked chest still in its NE corner**. [PAGE ch9]
 - **The reshaped footing** — before building, Emlyn cast the first working and the hill settled the
   deep grain into a true load-bearing footing under the crown, offset toward the **NE** (Ch4). This
   is why the ground "nothing stands on" now holds. [PAGE ch4]
@@ -115,10 +126,12 @@ other owners and from unclaimed common/parish ground: [PAGE ch2, revised per rea
   in prose, per reader tracked change.)
 - **The NE meadow** (~12 acres), off the hill's northeast shoulder. **Belonged to the Tolls**, who
   never grazed it and were glad of the coin. [PAGE ch2]
-- **The plough-land in the bottoms** — good arable in the low ground below the hill; **four men's
-  idle acres Penworth stitched into one holding.** The hill itself is worthless to a farmer, but
-  this field-land is leasable, and Emlyn will "eventually" set it to tenant families for rents.
-  [PAGE ch2] (Exact location/extent of the bottoms [OPEN].)
+- **The plough-land in the bottoms** — good arable in the low ground below the hill (along the beck);
+  **four men's idle acres Penworth stitched into one holding.** The hill itself is worthless to a
+  farmer, but this field-land is leasable. **NOW COMING INTO USE (Ch 9):** the **Wray family** (Hal &
+  Bess) took the main bottom-field on fair terms (yr1 free → 1/10 → 1/5) and are mending **the old
+  empty stone farmhouse that came with the bottoms** (2 rooms, sound walls, good well) to live in.
+  **Room remains for more tenants** (the rest of the bottoms). [PAGE ch2, ch9] (Exact extent [OPEN].)
 - **Common/unclaimed ground worked in among the parcels** — common strips and forgotten corners
   the village had let lie "since before Cael's grandfather's time," owned by no one; rather than
   leave a snarl, Penworth "sat down with the parish" and regularized them into the holding.
@@ -335,3 +348,10 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   **Brenna's** sill (gift) and **Essa's** bench (sale). Season = the edge of winter. Confirms the
   city (unnamed here) as the site of "her rooms" where the unpublished book is left (consistent with
   Vethmark being the strong-but-OPEN option for Arielle's rooms).
+- **ch9** — First winter passes → **thaw into spring Yr2.** **The bottoms come into use:** the **Wray
+  family** takes the main bottom-field + mends **the old empty farmhouse that came with the bottoms**
+  (2 rooms; sound stone; good well). **THE CABIN** built on the hill: Emlyn's 2-room stone house on a
+  **sheltered south-and-west shoulder below the crown**, near the **south-face spring** (feeds a bath
+  alcove); off the crown (tower site reserved). Emlyn moves into the cabin; the **Study becomes his
+  workroom** (chest stays Study NE corner). New offstage: **Maret's sister's place** (where the Wrays
+  sharecropped before). No new village-interior geometry.

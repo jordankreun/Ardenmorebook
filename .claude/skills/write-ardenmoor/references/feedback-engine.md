@@ -46,8 +46,13 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 - **[HARD] No em dashes. None.** Search the chapter for `—`. Replace every one with a comma,
   semicolon, colon, full stop, or parentheses as the sentence wants. *Source: "never use em dash,
   make writing feel human."*
-- **[HARD] Word floor.** At least ~3,500 words; target 3,500–5,000. If short, **widen with lived
-  scene** (more of the day, another encounter, deeper attention), never pad. *Source: session-lock #7.*
+- **[CRAFT] Length fits the material (RELAXED — no hard floor).** Vary chapter length like real
+  novels: most chapters substantial (~3,000–5,000), **short chapters (~1,500–2,500) are fine** for a
+  single tight scene/turn/beat, and some run longer when earned. **Never pad to a number and never
+  bloat** — let the material decide. Don't close a chapter before its material is done; don't stretch a
+  naturally short one. *Source: session-lock #7, relaxed 2026-07-11 ("relax the chapter legs… short
+  chapters and slightly longer chapters… look at how other authors vary").* (The old ~3,500 hard floor
+  is retired.)
 - **[HARD] No contradiction of locked canon** or of anything already true in `state/`. Cross-check
   every name, age, date, place, direction, distance, relationship-length, and who-knows-what
   against the story bible, geography, and NUMBERS LEDGER. *Source: the one rule above all.*

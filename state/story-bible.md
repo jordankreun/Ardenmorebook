@@ -612,6 +612,41 @@ if it needs a new one, add it here.
   beautiful" hand (outline Ch 14/26) are NOT mentioned yet — Ch 8 opens only the *existence and
   location* of the unpublished work, not anyone hunting it.
 
+## ESTABLISHED ON THE PAGE (Ch 9 — "Breaking Ground")
+
+- **Season/time:** the **first winter passes** (brief bridge) → **thaw into spring, Year 2.** The
+  **loan grace year is nearly up** (note due this year) — the pressure driving the tenants.
+- **THE FIRST TENANTS — the WRAY family (introduced organically via Cael).** Emlyn asks **Cael** (not
+  fate) for a family to work the idle bottoms; Cael names **Hal Wray** (young, big, quiet, careful,
+  "built for exactly this") and **Bess Wray** (a quicker mind than she shows), "more children than
+  land," currently sharecropping hard for a grasping man on **Maret's sister's place.** Emlyn lets them
+  the bottoms on **fair terms: year 1 FREE** (the ground's rough, needs breaking in), **year 2 = a
+  tenth** of yield, **year 3+ = a fifth** (fair; less than they paid before). Plus **the old empty
+  farmhouse that came with the bottom-land** (2 rooms wanting a roof; sound stone, good well) to mend
+  and live in while they work it. **Shook on it** (Emlyn's SECOND valley bargain, after the hill). They
+  come across on one cart; a dead field comes back under their hands (Emlyn humbled: they live the
+  ask-the-ground thesis without ever hearing it). **The bottoms are now coming into use** (the land
+  starting toward paying the note); **room remains for more tenants** (seed). ⚠️ NOTE: the old farmhouse
+  is NOT Harrow's (Harrow owned WOODLAND, 6 yrs dead) — it's a generic old place from the bottoms'
+  prior idle owners.
+- **THE CABIN — Emlyn's own small stone house (the building-arc's "living quarters" beat).** He can no
+  longer live in the **Study** ("it wants to be a study") and wants "a place that was only for living
+  in." Built **OFF the crown** (crown reserved for the future tower), on a **sheltered south-and-west
+  shoulder below the crown**, near the **never-dry south-face spring** (~30 steps; feeds the bath).
+  **GRIEF/DRAFTSMAN PAYOFF:** the architect's son **draws a house himself for the first time since
+  Arielle's death** — "the smallest true house I knew how to make" (deliberate opposite of the grand
+  river house he had the firm draw). **TWO ROOMS (author spec):** a **main room** holding the whole of
+  a life (hearth, kettle, table, chair, a shelf of oft-read books) + a **bedchamber** (morning window)
+  with a **small walled bath ALCOVE** (cold from the spring, warm from a copper on the main-room fire).
+  Built in ~3 weeks: **Edran's** pale grey stone (kin to the Study), **Jorin + Ren** (Ren lays all four
+  corners true without a measure — **now openly acknowledged between them**, escalating Ch 5), **Tomas**
+  the silent-hinge door + fine window-catches. Jorin's blessing: *"Good, that it's small. The right
+  size for a man"* (= he's glad Emlyn is mending). **Emlyn now LIVES in the cabin; the Study becomes his
+  WORKROOM** (the **locked chest stays in the Study's NE corner** — NE motif intact). CLOSING: content
+  "without the old suspicion of it"; a life made "out of very little, if the little was the right
+  little." **Future role (narrator whisper):** the cabin later houses "an apprentice and more than one
+  honored guest" (= the guest/apprentice cabin the author intends; do NOT hard-tag a specific person).
+
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 
 1. **Lira — RESOLVED:** short but friendly (see session-locked decisions above). Ch 1 revised
@@ -799,6 +834,10 @@ trace the three.
   daughter **Nerys** seeded for Book Two (a full practitioner with her late mother's perceptive
   gift; renamed from "Mira" to avoid the clash with Soren's mother Mira).
 - **Edran** (quarry), **Maret** (mill), **Kellard** (supply yard), **Essa** (furniture).
+- **Hal & Bess Wray** (Ch 9) — the first TENANTS, working the bottoms. **Hal:** young, big, quiet,
+  careful, "built for exactly this," speaks only when sure. **Bess:** quieter manner, a quicker mind
+  than she shows. "More children than land." Fair-terms tenancy (yr1 free → 1/10 → 1/5); mend & live in
+  the old bottoms farmhouse. New neighbors / the land coming alive; not tagged as load-bearing.
 
 ---
 
@@ -885,11 +924,12 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   provides the purchase capital (down payment); Emlyn agrees but cannot clear her things → the sale
   completes and her rooms are cleared in the **spring** (finale Ch 27 grief release / Book Two city
   journey; the third spellbook comes home then). Keep the river house UNENTERED through Book One.
-- **The purchase note / debt + GRACE-PERIOD CLOCK (seed Ch 3)** → the loan falls due after ~the
-  first year (a full turn of seasons' grace); so **placing tenants in the bottoms** (still to be
-  done — a natural mid-book beat) and getting the **practice earning** before the note comes due is a
-  live ticking to-do. The spring river-house sale pays down principal. "Turns a tidy sum" only after
-  the land is made to pay. Do not let Emlyn buy freely; the money is tight until the land earns.
+- **The purchase note / debt + GRACE-PERIOD CLOCK (seed Ch 3; advanced Ch 9)** → the loan falls due
+  after ~a year's grace (now **nearly up** — note due ~spring/summer Yr2). **FIRST TENANTS PLACED (Ch 9,
+  the Wrays)** so the bottoms are coming into use — BUT year 1 is rent-free, so the tenants don't cover
+  the *first* payment; that leans on the **practice income (lumens) + the spring river-house sale**.
+  Still live: more tenants for the rest of the bottoms; the land only "turns a tidy sum" once fully
+  worked. Keep money tight; do not let Emlyn buy freely until the land earns.
 - **Emlyn's draftsman/architect origin (seed Ch 1: father an architect who "drew houses"; Emlyn
   "learned the drawing at his elbow"; he still holds his father's firm share; the family firm
   designed both the family home [for his mother] and the grander river house [his echo of it])** →
