@@ -206,6 +206,8 @@
   .seg{display:inline-flex;gap:.3rem}
 
   #settings select{font:inherit;font-size:.82rem;color:var(--fg);background:var(--bg);border:1px solid var(--rule);border-radius:8px;padding:.3rem .35rem;max-width:9.6rem}
+  .setHint{font-size:.72rem;line-height:1.4;color:var(--muted);margin:.1rem .2rem .3rem}
+  .setHint.hide{display:none}
   .setLbl{font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:.7rem .2rem .2rem;border-top:1px solid var(--rule);padding-top:.6rem}
 
   /* ---------- read-aloud (text-to-speech) player ---------- */
@@ -297,6 +299,7 @@
     <div class="setRow"><span class="lbl">Voice</span>
       <select id="voiceSelect" aria-label="Reading voice"></select>
     </div>
+    <p id="voiceHint" class="setHint hide"></p>
   </div>
 </div>
 
@@ -975,7 +978,8 @@
     var supported=("speechSynthesis" in window)&&("SpeechSynthesisUtterance" in window);
     var el=document.getElementById("tts"), btnPlay=document.getElementById("ttsPlay"),
         btnStop=document.getElementById("ttsStop"), btnRate=document.getElementById("ttsRate"),
-        voiceSel=document.getElementById("voiceSelect");
+        voiceSel=document.getElementById("voiceSelect"),
+        voiceHint=document.getElementById("voiceHint");
     var RATES=[0.8,0.9,1,1.1,1.25,1.5];
     var rate=parseFloat(localStorage.getItem(KEY_RATE))||1;
     var voiceURI=localStorage.getItem(KEY_VOICE)||"";
@@ -983,15 +987,47 @@
     if(!supported){ if(el) el.classList.add("hide"); var ts=document.getElementById("ttsSettings"); if(ts) ts.style.display="none"; return {supported:false}; }
     el.classList.remove("hide");
 
+    // Rank voices by real-world quality. The old code preferred localService
+    // voices, which are the robotic ones (Windows SAPI David/Zira, basic Apple);
+    // the good free voices are Edge's neural "Natural" set, Chrome's Google
+    // voices, and Apple's enhanced/premium voices. Score accordingly.
+    function voiceScore(v){
+      var n=(v.name||""), lang=(v.lang||""), s=0;
+      if(/natural|neural/i.test(n)) s+=100;                 // Edge "Online (Natural)" — best free
+      if(/\((enhanced|premium)\)/i.test(n)) s+=92;          // Apple downloaded premium
+      if(/^google\s/i.test(n)) s+=64;                       // Chrome Google voices
+      if(/\b(siri|samantha|alex|daniel|karen|moira|serena|tessa|fiona|allison|ava|susan|zoe|nathan|aaron|arthur)\b/i.test(n)) s+=48; // Apple named voices
+      if(!v.localService) s+=28;                            // network voices usually beat local SAPI
+      if(/microsoft\s+(david|zira|mark|hazel|george|sean|heera|ravi)\b/i.test(n)&&v.localService) s-=28; // SAPI, robotic
+      if(/espeak|festival|pico|compact|ttsd/i.test(n)) s-=45;
+      if(/en[-_]?us/i.test(lang)) s+=4; else if(/en[-_]?gb/i.test(lang)) s+=3; else if(/en[-_]?au/i.test(lang)) s+=2;
+      return s;
+    }
+    function voiceLabel(v){
+      var n=(v.name||"").replace(/^Microsoft\s+/,'').replace(/\s+Online\b/i,'')
+        .replace(/\s*-\s*[A-Za-z].*$/,'').replace(/\s{2,}/g,' ').trim() || v.name || "Voice";
+      var acc=/en[-_]?gb/i.test(v.lang)?" · UK":/en[-_]?au/i.test(v.lang)?" · AU":/en[-_]?us/i.test(v.lang)?"":"";
+      return (voiceScore(v)>=60?"★ ":"")+n+acc+(v.localService?"":" · online");
+    }
     function loadVoices(){
       var all=window.speechSynthesis.getVoices()||[];
       voices=all.filter(function(v){ return /^en(-|_|$)/i.test(v.lang); }); if(!voices.length) voices=all;
-      voice=voices.filter(function(v){ return v.voiceURI===voiceURI; })[0]
-          || voices.filter(function(v){ return v.localService&&/^en/i.test(v.lang); })[0]
-          || voices.filter(function(v){ return /^en/i.test(v.lang); })[0] || voices[0] || null;
+      voices.sort(function(a,b){ return voiceScore(b)-voiceScore(a); });   // best first
+      voice=voices.filter(function(v){ return v.voiceURI===voiceURI; })[0] // user's saved pick wins
+          || voices[0] || null;                                            // else the highest-ranked
       if(voiceSel){
         voiceSel.innerHTML="";
-        voices.forEach(function(v){ var o=document.createElement("option"); o.value=v.voiceURI; o.textContent=v.name.replace(/\s*\(.*\)$/,"")+(v.localService?"":" (online)"); if(voice&&v.voiceURI===voice.voiceURI) o.selected=true; voiceSel.appendChild(o); });
+        voices.forEach(function(v){ var o=document.createElement("option"); o.value=v.voiceURI; o.textContent=voiceLabel(v); if(voice&&v.voiceURI===voice.voiceURI) o.selected=true; voiceSel.appendChild(o); });
+      }
+      if(voiceHint){
+        var best=voices.length?voiceScore(voices[0]):-99, ua=navigator.userAgent||"";
+        if(best>=60){ voiceHint.classList.add("hide"); }
+        else {
+          voiceHint.classList.remove("hide");
+          voiceHint.textContent = /Edg\//.test(ua)
+            ? "Tip: your best voices are the ones marked “Natural.” Pick one above."
+            : "These are your device's built-in voices. For much better free voices, open this book in Microsoft Edge (Windows) or install an Enhanced voice in your system Speech settings (Mac/iPhone).";
+        }
       }
     }
     loadVoices();
