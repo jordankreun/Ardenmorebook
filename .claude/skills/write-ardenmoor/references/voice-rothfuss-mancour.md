@@ -121,11 +121,16 @@ neighbors to the work, dealing in magic as a real trade with real customers and 
 Render it with relish — the building is much of the book's warmth and most of its plot at the
 domestic scale.
 
-**Magic as a real, commercial practice.** Opus is a planewright running a growing concern: the
-LUMEN made and sold as a line, housings commissioned from Tomas, a labor crew, deliveries from
-the quarry, credit extended and earned, apprentices taken on. Show the trade. The pleasure of
-watching a competent professional diagnose, price, make, and deliver is real, and it belongs in
-this book.
+**Magic as a real, commercial practice — but a RARE and prized one.** Opus is a planewright running
+a growing concern: the LUMEN made and sold as a line, housings commissioned from Tomas, a labor crew,
+deliveries from the quarry, credit extended and earned, apprentices taken on. Show the trade. The
+pleasure of watching a competent professional diagnose, price, make, and deliver is real, and it
+belongs in this book. **But magic is RARE in this world** (session-lock 2026-07-11): practitioners
+are uncommon and getting rarer, major talents like Emlyn very rare, minor ones like Penworth still
+uncommon. So the trade is real but PRECIOUS, not commonplace — a country wizard is a marvel, his
+lumens are wonders, his services notable. Render the practice with relish, but never let the world
+read as one where anyone can buy magic on any corner; Emlyn is one of very few, which is much of why
+a remote village both wants and warily watches him.
 
 **The tower rises, and a life rises with it.** Each structure raised, each deal struck even,
 each new hand hired (Ren) is a beat of a place and its people prospering through good work and

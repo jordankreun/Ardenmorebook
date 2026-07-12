@@ -195,12 +195,16 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   Ardenmoor holding (Ch 2). Working name "the Commonwealth"; distinctive proper name **[OPEN]**. The
   **political capital** (council's seat) is **elsewhere, offstage**; name **[OPEN]**. See the SETTING
   & POLITY block in the story bible.
-- **Vethmark** — a dense, very **urban** city ~**4 days' ride** from the valley; **the Commonwealth's
-  magical-academic center (NOT the political capital)**, built around the **magical University/Academy**
-  where Emlyn trained and published, and **seat of the CONCLAVE** (the governing body of magic; Drace,
-  the "interested office," Lira's letters all run here). Also Penworth's base, the **banking/credit**
-  seat (Kellard's arrangement runs there), and Emlyn's origin. Has a **river** (the wedding-gift "river
-  house" stands across it). Academy/university proper name **[OPEN]**. [CANON + PAGE ch1]
+- **Vethmark** — a dense, very **urban** city ~**4 days' ride** from the valley; a **major city of
+  commerce and industry and a regional seat of power** (a principal city of the Commonwealth, a
+  regional/provincial or city-state seat, and the **banking/credit** seat). Its size comes from
+  **commerce, NOT magic.** It ALSO hosts the continent's single **small Academy of magic** (where
+  Emlyn trained and published) and the **seat of the CONCLAVE** (the small governing body of magic;
+  Drace, the "interested office," Lira's letters run here) — the academy located here **because
+  Vethmark is a major hub**, not the other way round. NOT the Commonwealth's political capital. Emlyn's
+  origin (his two homes, his father's firm). Has a **river** (the wedding-gift "river house" across it).
+  Academy proper name **[OPEN]**. [CANON + PAGE ch1] — *see MAGIC IS RARE + SETTING & POLITY in the
+  story bible.*
 - **Ardenmoor's place in the world:** a **deep, remote, undeveloped forest/agricultural frontier of the
   Commonwealth** — thinly settled, loosely incorporated, its land cheap because remote + marginal + un-
   wanted; the region is nearly untapped (Ardenmoor one of few small villages in a large wild area).

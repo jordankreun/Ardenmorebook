@@ -74,7 +74,10 @@
   decade ago**; a career man of affairs (long general career, ~10 yrs of it with Emlyn). He is
   also a **minor magical talent** and thus slightly long-lived / slow-aging — but this is NOT
   to be stated directly or dwelt on yet; faintest indirection at most. (Overrides the campaign's
-  "thirty years of service to Opus.")
+  "thirty years of service to Opus.") **Rarity note (2026-07-11):** in a world where magic is rare,
+  even Penworth's minor gift is a genuine EDGE — part of why he is so formidable and effective an
+  agent (and slightly long-lived). Emlyn, a MAJOR talent, is very rare indeed. (See SETTING & POLITY /
+  Magic rules.)
 - **Soft rule — talent slows aging:** magical ability correlates with slowed aging (greater
   talent → younger-worn years): Emlyn markedly, Penworth slightly. Emlyn's later life-force
   compression → effective immortality is the extreme further step. Keep ALL of this indirect
@@ -630,26 +633,43 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   forgotten corners. This is the PRECEDENT for how Penworth assembled the Ardenmoor holding cheaply
   from many small/old owners + unclaimed parish ground (Ch 2, "sat down with the parish"). Keep this
   as the mechanism for cheap, assemblable frontier land.
-- **VETHMARK = the urban magical-academic center (NOT the capital).** A dense, very urban city built
-  around the **magical University/Academy** where Emlyn **trained and published** (his "school of
-  notation"; cf. Ch 8 "the years when I still went out into the world and let it read me"). The
-  **CONCLAVE** — the governing/licensing/oversight body of magic (existing LOCKED CANON: inquiry
-  closed, "the office remains interested," **Drace** its official, **Lira** its informal informant) —
-  is **seated in Vethmark**, the establishment authority over the academy's scholarship. Vethmark is
-  ALSO the banking seat and Emlyn's origin (his two homes, his father's architecture firm). It is the
-  magical/scholarly heart of the Commonwealth, not its political capital. This roots the whole
-  outside-world subplot (the Conclave, the three correspondents probing his incomplete papers, the
-  unsigned hand "trained in his school of notation") concretely in Vethmark. The academy/university's
-  proper name is **[OPEN]**.
+- **MAGIC IS RARE (session-locked, 2026-07-11) — load-bearing.** Wizards/practitioners are UNCOMMON
+  in this world, and getting rarer. **Major talents (like Emlyn) are VERY rare** — a genuine marvel;
+  a country village may never have met one (fits the wary "You'll be the wizard, then" and "is it true
+  you're a wizard, what can you do" beats). **Minor talents (like Penworth) are uncommon and
+  increasingly rare** — rare enough that even a slight gift is a real professional EDGE (why Penworth,
+  a minor talent, is so formidable a man of affairs, and slightly long-lived). Consequences to hold:
+  (a) magic is a **rare, prized craft practiced by very few** — Emlyn's practice is real and
+  commercial (the Mancour/Spellmonger build stays) but PRECIOUS, not commonplace; his lumens are
+  wonders, his services notable, his person unusual. (b) The magical **governing body/academy is
+  therefore SMALL** — nowhere near big enough to build a city around (this REVISES the earlier
+  "Vethmark built around the academy"). (c) There is essentially **ONE center of magical study for the
+  whole CONTINENT** (magic is that scarce); it is the Vethmark academy.
+- **VETHMARK = a major economic/regional city that HOSTS the small continental academy (NOT the
+  capital; REVISED 2026-07-11).** Vethmark is a **big city of industry and commerce and a regional
+  seat of power** — a principal city of the Commonwealth, a regional/provincial (or city-state) seat,
+  the **banking/credit** seat, and Emlyn's origin (his two homes, his father's architecture firm). Its
+  size and importance come from **commerce/industry, NOT magic.** The continent's single, small
+  **Academy of magic** (where Emlyn trained and published — his "school of notation"; cf. Ch 8) is
+  **located in Vethmark BECAUSE Vethmark is a major hub** (well-connected, resourced, central) — "why
+  they chose this one spot" for the continent's magical study. The **CONCLAVE** — the small
+  governing/oversight body of magic (LOCKED CANON: inquiry closed, "the office remains interested,"
+  **Drace** its official, **Lira** its informal informant) — is **seated at that academy in Vethmark.**
+  So Vethmark is the magical center by virtue of being a commercial center, not the other way round;
+  it is NOT the Commonwealth's political capital. This still roots the outside-world subplot (Conclave,
+  the correspondents, the unsigned "school-trained hand") in Vethmark. Academy proper name **[OPEN]**.
 - **ARDENMOOR = deep, remote, undeveloped frontier of the Commonwealth.** Forested and marginally
   agricultural, thinly settled, "yet to be developed," loosely incorporated (still part of the
   Commonwealth, but its far edge). This is WHY the land is CHEAP (remote + undeveloped + agriculturally
   marginal + no demand) and the region nearly untapped (Ardenmoor is one of few small villages in a
   large wild area). The cozy frontier a grieving man escapes to and builds up.
-- **DISTANCE & TRAVEL (reconciled with the page — do not contradict):** Vethmark ↔ Ardenmoor ≈
-  **4 days' ride** (ON THE PAGE: Ch 3 "four days' ride away," Ch 8 "a city four days off" — KEPT).
-  Framed as 4 days into wild, worsening-road frontier: for ordinary carters/walkers it is a week or
-  more, so the valley is effectively cut off, rarely visited, its land unwanted. **MAGICAL
+- **DISTANCE & TRAVEL (reconciled with the page + re-evaluated 2026-07-11 — do not contradict):**
+  Vethmark ↔ Ardenmoor ≈ **4 days' ride** (ON THE PAGE: Ch 3 "four days' ride away," Ch 8 "a city four
+  days off" — KEPT). Re-evaluation conclusion: with Vethmark now a **major commercial city** (not a
+  magic-academy town), 4 days reads even more naturally as **"a great city and its far frontier
+  backwater"** — big cities have wide hinterlands and days-distant edges; no change needed. Framed as
+  4 days into wild, worsening-road frontier: for ordinary carters/walkers a week or more (the fortnight
+  wagon-wait), so the valley is effectively cut off, rarely visited, its land unwanted. **MAGICAL
   TRAVEL-ACCELERATION EXISTS** (a known, costly/effortful art of practitioners and the well-connected
   — Penworth, the Conclave, Emlyn), the means by which the outside world reaches the frontier faster
   than the roads allow, and by which Emlyn will make the **spring journey** to the city. Emlyn's
@@ -681,15 +701,19 @@ structure; transmits a *greeting* toward the cellar's NE corner. TWIST (Ch 28 on
 Planewright's Compass, when finally used, points straight DOWN — the hill is adjacent to an
 existing potential plane and has been waiting for someone to notice the door.
 
-**Magic rules.** Workings cost energy and require rest. Wards ask, not command. Reshaping wards
-excavate/level. Enchantment binds function into prepared objects. LUMEN lamps = crystalline
-blanks in three layers (photonic architecture, sensitivity lattice, binding) housed in metal
-fittings; the original LUMEN drinks hill-song, the Series drinks ambient light. Sensitivity
-manifests as hearing / feeling / seeing (don't always correlate). Sensitized paper records an
-arcane signature (imprint). A resonance fork tuned to the hill's baseline calls an answer.
-Planewright work = architecture of planes; Opus **trained and published at the Vethmark magical
-academy/university** (his "school of notation"); his published papers omit ~70% of his demiplane
-working because extending it incomplete causes lethal interior collapse. The Planewright's
+**Magic rules.** **Magic is RARE (2026-07-11): practitioners are uncommon and getting rarer — major
+talents (Emlyn) very rare, minor talents (Penworth) uncommon; even a slight gift is a real advantage.
+So magic is a rare, PRIZED craft practiced by very few, the academy/Conclave is small, and there is
+essentially one center of magical study for the whole continent (see SETTING & POLITY).** Workings
+cost energy and require rest. Wards ask, not command. Reshaping wards excavate/level. Enchantment
+binds function into prepared objects. LUMEN lamps = crystalline blanks in three layers (photonic
+architecture, sensitivity lattice, binding) housed in metal fittings; the original LUMEN drinks
+hill-song, the Series drinks ambient light. Sensitivity manifests as hearing / feeling / seeing
+(don't always correlate). Sensitized paper records an arcane signature (imprint). A resonance fork
+tuned to the hill's baseline calls an answer. Planewright work = architecture of planes; Opus
+**trained and published at the small Vethmark academy** (the continent's one center of magical study;
+his "school of notation"); his published papers omit ~70% of his demiplane working because extending
+it incomplete causes lethal interior collapse. The Planewright's
 Compass (his own making, unknown to the Conclave) finds existing potential planes.
 
 **The secrets (undercurrent).** (1) The compass in the chest. (2) Three correspondents probing

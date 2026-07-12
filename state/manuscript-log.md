@@ -418,6 +418,23 @@ geography (Beyond the Valley rewritten + distances + OPEN names + change log), o
 ⚠️ Flagged to author: preserved the 4-day figure to protect the Ch 1 arrival; can lengthen the literal
 distance with light Ch 1/3/8 edits if wanted.
 
+MAGIC RARITY + VETHMARK RE-FRAME (2026-07-11): **Magic is now canonically RARE.** Practitioners are
+uncommon and getting rarer — **major talents (Emlyn) very rare**, **minor talents (Penworth) uncommon**
+but a real professional EDGE (why a minor talent like Penworth is so formidable). So magic is a **rare,
+PRIZED craft practiced by very few** (a country wizard is a marvel; the lumens are wonders) — the
+Mancour/Spellmonger "real commercial practice" stays, but it is precious, NOT commonplace. Because
+magic is rare, the **academy/Conclave is SMALL** and there is essentially **one center of magical study
+for the whole continent.** ⚠️ This **REVISES** the earlier "Vethmark built around the academy": **Vethmark
+is now a major city of commerce/industry and a regional seat of power** (a principal Commonwealth city,
+the banking seat, Emlyn's origin), big because of trade — that HOSTS the one small continental academy +
+the Conclave's seat, located there **because Vethmark is a major hub** ("why they chose this one spot").
+NOT the political capital. Distance RE-EVALUATED: the 4-day ride still holds and reads even better now
+as "a great city and its far frontier backwater." NO prose changes needed (nothing on the page called
+Vethmark an academy town or implied common magic; the village's wary "you'll be the wizard, then" fits
+rare magic and is reinforced). State updated: story-bible (MAGIC IS RARE bullet + Vethmark bullet
+rewritten + Magic-rules + Penworth cast + distance note), geography (Vethmark entry), outline (canon
+appendix), voice guide ("rare & prized" qualifier on the commercial-practice note).
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
