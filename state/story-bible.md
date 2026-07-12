@@ -89,6 +89,12 @@
   talent → younger-worn years): Emlyn markedly, Penworth slightly. Emlyn's later life-force
   compression → effective immortality is the extreme further step. Keep ALL of this indirect
   and unstated in prose for now — it is a continuity rule, not exposition.
+- **⚠️ "NOT EVERYONE IS GONE" (reader note, 2026-07-12):** because talent slows aging, the ancient
+  narrator has outlived MOST of the people in this story but **NOT ALL** — other long-lived talents
+  endure (Penworth, and likely others / later apprentices). So **never write "everyone I knew is
+  gone / every one but me"** (that phrasing was cut from the prologue). The grief of long life is
+  outliving *most*, and watching the ordinary go while a few of his own kind remain — a subtler,
+  truer note. He is long-alone, not utterly the last.
 - **Name:** the protagonist is **Emlyn Ambrose** in the novel ("Opus" = campaign name in the
   reference docs; read as Emlyn). Only "Emlyn" given on the page so far; **Ambrose withheld**
   until the author chooses to reveal it.
@@ -186,11 +192,13 @@ if it needs a new one, add it here.
   the crown; **Ch 4 = weeks into summer** (the first working); **Ch 5 = the back half of summer**,
   the Study raised and finished at **summer's end** of Year 1.
 - **Ren:** ~**16** (confirmed on the page, Ch 5: "perhaps sixteen that summer").
-- **Cael:** elderly, ~mid-60s (a grandfather; "private treaty with his knees"). Internal
-  timeline (coheres — keep it): his father's failed shelter was "forty years back **and
-  further**" (Cael a boy, ~9) → ~50–55 yrs ago; his grandmother died ~**40 years** ago ("forty
-  years in the churchyard") and **left him the hill**, which he has "kept forty years" since
-  (he was ~24 then). Daughter Mira (~mid-30s) → grandson Soren (9).
+- **Cael:** **late 50s** (adjusted 2026-07-12 per reader note "maybe in his late 50s, described
+  vaguely"; was ~mid-60s). Described vaguely on the page — "a solid man on the near side of old, not
+  young but a fair way yet from grey" (Ch 1). Grandfather; "private treaty with his knees." Timeline
+  still coheres: his father's failed shelter ~**forty years back and further** (Cael a boy, ~9) →
+  ~48–50 yrs ago; his grandmother died ~**forty years** ago ("forty years in the churchyard") and
+  **left him the hill**, which he has "kept forty years" (he was **~18** then). Daughter Mira
+  (~mid-30s) → grandson Soren (9). Keep the page description vague; don't state a number.
   ⚠️ **Novel canon:** Cael **inherited** the hill from his grandmother (she owned it; his father
   failed to build on it; she left it to Cael, not the father). This overrides the campaign's
   "Cael bought it himself." He now sells it to Emlyn.

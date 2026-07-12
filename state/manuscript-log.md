@@ -591,6 +591,21 @@ note). PROVEN ON FIRST RUN: the registry caught a real echo I'd missed ("grew st
 in both Ch3 and Ch9 — Ch9's varied to "had never grown a saleable thing in its life"). Full-manuscript
 lint now exits 0 with no FAILs.
 
+READER-FEEDBACK PASS (2026-07-12): applied 5 reader notes + 1 tracked change from the app. PROLOGUE:
+(a) conditional reframe — "If I were to tell it true… That is who it would be about, and I would ask
+you to go easy on him"; (b) cut the essayistic "here is the truth / the shape is the thing" closing
+(tracked change; auto-resolved once the paragraph was gone); (c) "they are gone now, every one but me"
+already removed — and recorded the canon nuance: **NOT everyone is gone; long-lived talents (Penworth,
+others) endure** → never write "every one but me" (new bible rule under the aging soft-rule). CH 1:
+(d) the winter recluse reframed as **actively avoiding the noise + obligations of city life** (not just
+passive grief); (e) the inn-supper beat developed into a **surprise** — the room's warm familiarity
+(everyone knows everyone, their ewes and their thatch) landing against city anonymity, closing "Nine
+times in ten it was grief… This was the tenth"; (f) **Cael nudged to late 50s, vaguely** ("a solid man
+on the near side of old, not young but a fair way yet from grey") — bible age mid-60s → late-50s, kept
+the hill ~forty years (got it at ~18); timeline still coheres. Ch 1 now 4996w; prologue 480w; 0 em
+dashes; lint exit 0 (Ch 1 WARNs are the pre-vetted polish-pass counts, no new tics). NOTE: reader
+notes were anchored to superseded/lean text; intent mapped onto current versions.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
