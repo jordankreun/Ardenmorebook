@@ -34,8 +34,9 @@
                   │  Brenna's cottage (by the birches)
                   └────────────────┬────────────────┘
                                    │  road out
-                                   ↓   (to the main road, then on
-                                   S     to Vethmark / the city)
+                                   ↓   (4 days' ride down the frontier road
+                                   S     to WAINFORD, the railhead; then
+                                         3 days by rail to Vethmark)
 
    quarry road ──→ Edran's quarry  (offstage so far; a day's round trip)
 ```
@@ -205,10 +206,25 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   major hub.** NOT the Commonwealth's political capital. Emlyn's origin (his two homes, his father's
   firm). Has a **river** (the wedding-gift "river house" across it). Academy proper name **[OPEN]**.
   [CANON + PAGE ch1] — *see MAGIC IS RARE + SETTING & POLITY in the story bible.*
-- **The railhead / "the last station"** — the town where the **railway gives out**, at the edge of the
-  settled/paying country; **4 days' ride** from Ardenmoor. Emlyn detrained here and rode the last leg.
-  Unnamed on the page ("the last station on a line that gave out… exactly where the paying traffic
-  did," Ch 1); proper name **[OPEN]**. [PAGE ch1, ch3]
+- **WAINFORD — the railhead town (named 2026-07-11).** The **terminus** where the Commonwealth's rail
+  line **ends at the edge of the settled country**; **4 days' ride** from Ardenmoor along the frontier
+  road. A **rail port for agriculture**: frontier and near-frontier produce (grain, wool, cattle,
+  timber) is hauled in by wagon and drover and loaded onto trains for Vethmark and the metropole, and
+  city goods arrive by rail to fan out by wagon. A busy, workmanlike transshipment/market town — goods
+  yard, sidings, grain stores, stockyards, warehouses, factors, carters, drovers. On a **river** (the
+  crossing the name marks — supports the possible future barge service). This is the unnamed **"last
+  station"** Emlyn detrained at (Ch 1) before the 4-day ride. **TECH:** steam (the railway, steam
+  hoists/mills at the goods yard) with a **small amount of artifice** (a few enchanted devices; where
+  minor artifice can be had or serviced; a market for Emlyn's lumens). Proper name **Wainford** (locked
+  unless the author renames; alternates offered: Draymere, Marchford). [PAGE ch1 (as "the last
+  station"); named in canon]
+  - **Emlyn's use (present + seeded future):** detrained here on arrival; **the natural place he meets
+    Penworth** (Penworth rails out from Vethmark to Wainford; they meet at the railhead instead of
+    Penworth riding the 4-day frontier leg); where he **returns periodically** to collect furniture and
+    items shipped from Vethmark and waiting at the railhead, and to ship out lumens; and where he will
+    **buy a warehouse** as a rail-port depot for the practice's goods (FUTURE — Book Two+; not yet).
+  - **⏭ LATER-BOOKS SEEDS (do NOT open now):** Emlyn may invest in **extending the rail toward
+    Ardenmoor** and/or a **river-barge service** down the river to ease the frontier leg.
 - **Ardenmoor's place in the world:** a **deep, remote, undeveloped forest/agricultural frontier of the
   Commonwealth, BEYOND THE END OF THE RAILWAY** — thinly settled, loosely incorporated, its land cheap
   precisely because the rails never reached it ("Land the rails have reached is land somebody wants.
@@ -267,8 +283,10 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 - Vethmark's own layout (the river, the two homes' districts) beyond what Ch 1/3 fixed.
 - **PROPER NAMES [OPEN] for author to pick:** the Commonwealth's distinctive name (working: "the
   Commonwealth"); the political capital (council's seat, offstage); the Vethmark magical
-  academy/university; **the railhead town** ("the last station," 4 days' ride out). (Polity TYPE is
-  locked: Commonwealth + ruling council; the world has RAILWAYS.)
+  academy/university. (Polity TYPE is locked: Commonwealth + ruling council; the world has RAILWAYS +
+  steam + a little artifice. The railhead town is now NAMED **Wainford** — rename if desired.)
+- **Wainford's river / a future barge route** and **rail-extension toward Ardenmoor** — later-books
+  growth threads (Emlyn may invest); the exact waterway between Ardenmoor and Wainford is [OPEN].
 
 ---
 

@@ -664,25 +664,35 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   Commonwealth, but its far edge). This is WHY the land is CHEAP (remote + undeveloped + agriculturally
   marginal + no demand) and the region nearly untapped (Ardenmoor is one of few small villages in a
   large wild area). The cozy frontier a grieving man escapes to and builds up.
-- **RAILWAYS & INDUSTRIALIZATION (2026-07-11).** The **developed Commonwealth is industrializing and
-  has RAILWAYS.** Vethmark (city of industry/commerce) is on the rail network. But the rail reaches
-  only the **settled, paying country**; **Ardenmoor lies BEYOND the end of the line** — which is now
-  the deepest reason it is remote, undeveloped, and cheap ("Land the rails have reached is land
+- **TECH LEVEL & RAILWAYS (2026-07-11).** The world runs on **STEAM technology with a SMALL amount of
+  ARTIFICE** (rare magical devices). The **developed Commonwealth is industrializing and has RAILWAYS**
+  (steam); Vethmark (city of industry/commerce) is on the network. **Artifice is scarce** (magic is
+  rare — the two facts agree): enchanted devices are prized luxuries, not common infrastructure, and
+  Emlyn's LUMENS are part of that small-artifice niche (wonders in a world otherwise lit by flame/gas).
+  The rail reaches only the **settled, paying country**; **Ardenmoor lies BEYOND the end of the line**
+  — the deepest reason it is remote, undeveloped, and cheap ("Land the rails have reached is land
   somebody wants. This was the other kind."). **The village stays PRE-INDUSTRIAL and cozy** (horses,
-  wagons, forge, tallow, quarry) — trains belong to the metropole Emlyn left; keep the frontier
-  texture pre-rail. Tech split: **industrializing metropole ↔ pre-industrial frontier.** (Lumens read
-  as rare magical wonders in a world otherwise lit by flame/gas — fine.)
+  wagons, forge, tallow, quarry) — steam and rail belong to the metropole Emlyn left; keep the frontier
+  texture pre-steam. Tech split: **industrializing steam metropole ↔ pre-industrial frontier.**
+- **WAINFORD — the railhead (named 2026-07-11; full entry in `state/geography.md`).** The terminus
+  town where the rail ends at the edge of settled country, **4 days' ride from Ardenmoor**; a **rail
+  port for agriculture** (steam + a little artifice), on a river. This is the Ch 1 "last station."
+  Emlyn detrained here; it is **where he meets Penworth** (Penworth rails out; they meet at the
+  railhead), where he **returns to collect goods/furniture shipped from Vethmark**, and where he will
+  **buy a warehouse** (future). Later-books seeds: **rail-extension toward Ardenmoor** and/or a **river-
+  barge service** (do NOT open now). Rename-able; alternates Draymere / Marchford.
 - **DISTANCE & TRAVEL — REVISED 2026-07-11 (Vethmark ↔ Ardenmoor ≈ A WEEK'S TRAVEL; supersedes the
-  earlier "4 days' ride"):** **3 days by TRAIN** (Vethmark → the **railhead**, the last station where
-  the line gives out at the edge of settled country) + **4 days on HORSEBACK** through roadless
+  earlier "4 days' ride"):** **3 days by TRAIN** (Vethmark → **Wainford**, the railhead / last station
+  where the line gives out at the edge of settled country) + **4 days on HORSEBACK** through roadless
   frontier past the railhead = **~1 week** total. ON THE PAGE now: Ch 1 "the railway had set me down
   four days back, at the last station on a line that gave out… exactly where the paying traffic did";
   Ch 3 "a week of road and rail away" and "three days on the railway to the end of the line… then four
   days more on horseback"; Ch 8 "a city a week's road and rail away." A **loaded wagon** needs ~a
   **fortnight** for the frontier leg (rail + transload + slow haul over the giving-up road) — matches
-  the established fortnight wait for Emlyn's goods. **Emlyn's ARRIVAL:** rail to the railhead, then the
-  4-day horse leg (the "long road," ridden slowly by choice — grief, no hurry: "I let Snow set the
-  pace, which was slow"). The **railhead town** is [OPEN] (unnamed on the page: "the last station").
+  the established fortnight wait for Emlyn's goods. **Emlyn's ARRIVAL:** rail to **Wainford** (the
+  railhead), then the 4-day horse leg (the "long road," ridden slowly by choice — grief, no hurry: "I
+  let Snow set the pace, which was slow"). Railhead now NAMED **Wainford** (still "the last station" on
+  the page in Ch 1; name it on the page when he next visits).
 - **MAGICAL TRAVEL-ACCELERATION — RETIRED (2026-07-11).** The earlier "costly art of accelerated
   travel" is DROPPED: with magic now RARE and railways in the world, the **train is the fast way**
   across distance, not exotic magic. Do not use magical travel-acceleration as a routine means. (If
@@ -863,6 +873,12 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   building/apprentice scene. The retained **firm share** is also a modest standing income (borrowable
   against; Penworth-managed). The two houses RHYME (modest real one, lived-in; grand never-lived-in
   echo) — a thematic pairing available for later. Keep it not-on-the-nose.
+- **Wainford (the railhead, seed 2026-07-11)** → a recurring practical hub: (a) **where Emlyn meets
+  Penworth** (Penworth rails out; they meet at the railhead, sparing him the 4-day frontier ride) —
+  use this to stage future Penworth visits; (b) where Emlyn **returns to collect furniture/items
+  shipped from Vethmark** and to **ship out lumens**; (c) he will **buy a warehouse** there as a
+  rail-port depot for the growing practice (Book Two+). LATER-BOOKS: possible **rail extension toward
+  Ardenmoor** and/or a **river-barge service** (Emlyn may invest). Do NOT open these prematurely.
 - The sticking drawer / callipers (seed Ch 15) → opens when the letter is read (Ch 27).
 - The unsigned correspondent (seed Ch 14) → handwriting-in-his-notation reveal (Ch 26).
 - Lira's letters (seed/reader Ch 12) → tenor changes after the road (Ch 24, optional confession).

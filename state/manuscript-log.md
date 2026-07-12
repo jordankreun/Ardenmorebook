@@ -457,6 +457,22 @@ DISTANCE bullet + retired acceleration + ledger), geography (Vethmark rail + new
 DISTANCES + Beyond-the-Valley bullet + OPEN names + change log), outline (canon appendix). The
 **railhead town** is [OPEN] (unnamed on the page: "the last station").
 
+WAINFORD (the railhead town) + TECH CLARIFIED (2026-07-11): named and built the railhead town —
+**WAINFORD** (wain = farm wagon + ford = river crossing): the **terminus where the rail ends at the
+edge of settled country, 4 days' ride from Ardenmoor**, a **rail port for agriculture** (grain/cattle
+onto trains), on a **river** (supports a future barge service). **TECH CLARIFIED: the world runs on
+STEAM + a SMALL amount of ARTIFICE** (rare magical devices; magic is rare, so artifice is a prized
+niche — Emlyn's lumens live here). Wainford is the Ch 1 "last station." **Its recurring/future role
+(seeded, not opened):** where Emlyn **meets Penworth** (Penworth rails out to the railhead, sparing
+the frontier ride); where he **returns to collect furniture/items shipped from Vethmark** and ship out
+lumens; where he will **buy a warehouse** (Book Two+); and later possible **rail-extension / river-barge
+service** investments. NAMED ON THE PAGE: **Ch 1** now "set me down four days back at Wainford, the
+last station… a raw, busy, cheerful sort of town that existed to move the country's grain and cattle
+onto trains"; **Ch 3** "the end of the line at Wainford… The road, past Wainford, worsened by the mile."
+Rename-able (alternates Draymere / Marchford). State updated: story-bible (TECH+RAILWAYS bullet, new
+Wainford bullet, distance/arrival naming, pending payoffs), geography (full Wainford entry, map exit
+arrow, OPEN names), outline (canon appendix). Ch 1 ~4490, Ch 3 ~4190; 0 em dashes.
+
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
