@@ -1018,13 +1018,20 @@
     // the good free voices are Edge's neural "Natural" set, Chrome's Google
     // voices, and Apple's enhanced/premium voices. Score accordingly.
     function voiceScore(v){
-      var n=(v.name||""), lang=(v.lang||""), s=0;
+      var n=(v.name||""), uri=(v.voiceURI||""), lang=(v.lang||""), s=0;
       if(/natural|neural/i.test(n)) s+=100;                 // Edge "Online (Natural)" — best free
-      if(/\((enhanced|premium)\)/i.test(n)) s+=92;          // Apple downloaded premium
+      // Apple quality tiers. On desktop the tier is in the NAME ("Samantha
+      // (Enhanced)"); on iOS every tier of a voice shares the SAME name and the
+      // only signal is the voiceURI (…voice.premium/enhanced/compact.en-US.Name).
+      // Read both, so a downloaded Enhanced/Premium voice on iPhone ranks first.
+      if(/premium/i.test(n)||/premium/i.test(uri)) s+=96;          // Apple Premium (best system voice)
+      else if(/enhanced/i.test(n)||/enhanced/i.test(uri)) s+=90;   // Apple Enhanced (a downloaded voice)
       if(/^google\s/i.test(n)) s+=64;                       // Chrome Google voices
-      if(/\b(siri|samantha|alex|daniel|karen|moira|serena|tessa|fiona|allison|ava|susan|zoe|nathan|aaron|arthur)\b/i.test(n)) s+=48; // Apple named voices
+      if(/siri/i.test(uri)||/\bsiri\b/i.test(n)) s+=60;     // Siri voices, when iOS exposes them
+      if(/\b(samantha|alex|daniel|karen|moira|serena|tessa|fiona|allison|ava|susan|zoe|nathan|aaron|arthur|evan|nicky|joelle|jamie|matilda)\b/i.test(n)) s+=48; // Apple named voices
       if(!v.localService) s+=28;                            // network voices usually beat local SAPI
       if(/microsoft\s+(david|zira|mark|hazel|george|sean|heera|ravi)\b/i.test(n)&&v.localService) s-=28; // SAPI, robotic
+      if(/compact/i.test(uri)&&!/siri/i.test(uri)) s-=16;   // Apple's low-quality default variant; sink below its Enhanced twin
       if(/espeak|festival|pico|compact|ttsd/i.test(n)) s-=45;
       if(/en[-_]?us/i.test(lang)) s+=4; else if(/en[-_]?gb/i.test(lang)) s+=3; else if(/en[-_]?au/i.test(lang)) s+=2;
       return s;
@@ -1032,8 +1039,18 @@
     function voiceLabel(v){
       var n=(v.name||"").replace(/^Microsoft\s+/,'').replace(/\s+Online\b/i,'')
         .replace(/\s*-\s*[A-Za-z].*$/,'').replace(/\s{2,}/g,' ').trim() || v.name || "Voice";
+      var uri=(v.voiceURI||"");
       var acc=/en[-_]?gb/i.test(v.lang)?" · UK":/en[-_]?au/i.test(v.lang)?" · AU":/en[-_]?us/i.test(v.lang)?"":"";
-      return (voiceScore(v)>=60?"★ ":"")+n+acc+(v.localService?"":" · online");
+      // Quality tag from the voiceURI. On iOS the name never says Enhanced/Premium,
+      // so a downloaded voice looks identical to its basic twin in the picker —
+      // derive and show the tier so the two are tellable apart.
+      var q="";
+      if(!/\((enhanced|premium)\)/i.test(v.name||"")){
+        if(/premium/i.test(uri)) q=" · Premium";
+        else if(/enhanced/i.test(uri)) q=" · Enhanced";
+        else if(/compact/i.test(uri)&&!/siri/i.test(uri)) q=" · Basic";
+      }
+      return (voiceScore(v)>=60?"★ ":"")+n+acc+q+(v.localService?"":" · online");
     }
     function loadVoices(){
       var all=window.speechSynthesis.getVoices()||[];
