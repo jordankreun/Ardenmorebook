@@ -971,6 +971,12 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 
 ## PENDING PAYOFFS (seed → target chapter)
 
+**⚠️ These are BLIND SEEDS — handling rules (engine P1, 2026-07-13):** on the page every seed is
+rendered as ordinary life: unremarked, deniable, at ordinary narrative temperature, usually doing a
+second mundane job in its scene. Never attach hindsight flags, confessional framing, or a closing
+moral. Water a live seed RARELY (not two chapters running), in a varied form; resting is the
+default. Each chapter's pre-draft brief names which of these it touches and which it rests.
+
 - Cael's father's failed shelter (PLANTED on the page Ch 2) → recontextualized by the twist (Ch 28).
 - The deeper-green eastern shelf (Emlyn feels something, unnamed, Ch 2) → Brenna's "that's
   where she'd have built" / the storehouse site (~Ch 16). Do not preempt.

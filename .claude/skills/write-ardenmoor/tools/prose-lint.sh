@@ -26,6 +26,23 @@ status=0
 
 count() { grep -oi "$1" "$2" 2>/dev/null | wc -l | tr -d ' '; }
 
+shingles() { # emit sorted unique 5-word shingles (lowercased, letters+apostrophes; prose only)
+  grep -v '^#' "$1" | tr '[:upper:]' '[:lower:]' | tr -cs "a-z'" ' ' | \
+  awk '{for(i=1;i<=NF;i++)w[++n]=$i} END{for(i=1;i+4<=n;i++)print w[i],w[i+1],w[i+2],w[i+3],w[i+4]}' | \
+  sort -u
+}
+
+prev_in_manifest() { # given a chapter file, print the path of the preceding manifest entry
+  local f="$1" dir base m prev cur
+  dir=$(dirname "$f"); base=$(basename "$f"); m="$dir/manifest.json"
+  [ -f "$m" ] || return 0
+  prev=""
+  while read -r cur; do
+    if [ "$cur" = "$base" ]; then [ -n "$prev" ] && echo "$dir/$prev"; return 0; fi
+    prev="$cur"
+  done < <(grep -o '"[^"]*\.md"' "$m" | tr -d '"')
+}
+
 budget_check() { # file label pattern budget
   local f="$1" label="$2" pat="$3" budget="$4" n
   n=$(count "$pat" "$f")
@@ -89,6 +106,23 @@ for f in "$@"; do
         warned=1
       fi
     done
+  fi
+
+  # ---- ADJACENT-CHAPTER ECHO (WARN) ----
+  # Mechanical arm of the engine's "phrase repeated across ADJACENT chapters"
+  # rule: any 5-word run shared with the immediately previous chapter (manifest
+  # order) that carries at least one substantial word (7+ letters). Review each:
+  # deliberate callbacks stay (say so in the engine report); accidents get varied.
+  prevf=$(prev_in_manifest "$f")
+  if [ -n "${prevf:-}" ] && [ -f "$prevf" ]; then
+    echoes=$(comm -12 <(shingles "$f") <(shingles "$prevf") | \
+             awk '{for(i=1;i<=NF;i++) if(length($i)>=7){print;next}}')
+    if [ -n "$echoes" ]; then
+      n=$(printf '%s\n' "$echoes" | wc -l | tr -d ' ')
+      echo "  WARN  adjacent-chapter echoes vs $(basename "$prevf"): $n — vary or vouch (callbacks ok)"
+      printf '%s\n' "$echoes" | sed 's/^/          "/; s/$/"/' | head -8
+      warned=1
+    fi
   fi
 
   # ---- TIC BUDGETS (WARN) ----

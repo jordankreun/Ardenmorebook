@@ -211,6 +211,12 @@ When asked to write chapter N:
   are not.
 - Any NPC voices in play, with their one-line rule recalled from the style guide.
 - The last image of the previous chapter, so you open in continuity with it.
+- **The engine's PRE-DRAFT BRIEF** (see the top of `references/feedback-engine.md`): the 3–4
+  engine rules this chapter's material is most at risk of breaking; which ACTIVE BLIND SEEDS
+  (story-bible PENDING PAYOFFS) the chapter touches or deliberately RESTS, and how each touched
+  one stays blind (unremarked, ordinary temperature, doing a second mundane job); any [OPEN]
+  question the chapter brushes that must not be foreclosed; and which signature tics the previous
+  chapter leaned on, so this one varies them (the lint's adjacent-echo check is the backstop).
 
 **Then draft the prose.** Target **~3,500–5,000 words** (session-locked decision #7; ~3,500 is
 a hard floor — the author does not want short chapters). Let the material set the length within

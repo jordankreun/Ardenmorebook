@@ -12,6 +12,29 @@ rubric only gets sharper.
 
 ---
 
+## THE PRE-DRAFT BRIEF (run BEFORE drafting — the engine's forward pass)
+
+The audit below catches failures after they're written; this step prevents them from being written.
+As part of the chapter plan (SKILL.md's scratch block), assemble a short **brief** from this file
+and the story bible, and draft against it:
+
+1. **Rules most at risk for THIS chapter's material.** A build chapter → world-logic, spreadsheet
+   drift, scale; an emotional chapter → forced epiphany, named emotions, purple; a new-character
+   chapter → roll-call, significance tags; a seed-touching chapter → invisible setups. Name the
+   3–4 rules this chapter is most likely to break, so they're live while writing, not after.
+2. **ACTIVE BLIND SEEDS in play.** From the bible's PENDING PAYOFFS: which live seeds does this
+   chapter touch (or deliberately rest)? For each, note HOW it stays blind this time. Seeds the
+   chapter doesn't touch are also a decision — write it down ("resting Snow/barn this chapter").
+3. **OPEN questions that must not close.** List anything marked [OPEN] the chapter brushes
+   against (the two grandmothers, unnamed proper names) so no line forecloses them by accident.
+4. **Tic exposure.** Note which signature constructions the previous chapter leaned on, so this
+   one varies instead of echoing (the lint's echo check is the backstop, not the plan).
+
+Keep the brief to ~6 lines. It is the difference between an engine that grades homework and an
+engine that teaches the writing.
+
+---
+
 ## HOW TO RUN THE PASS
 
 Run this **after** the chapter is drafted and state is updated, and **before** presenting the draft
@@ -91,6 +114,15 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   the third member of the telegraph family — throughline, character tags, now seeds — hence [HARD].)
   *Source: "Make it not obvious it's a set up" (2026-07-13, the wood-first seeding); retro-swept
   Ch 5 (Tomas's hammer), Ch 6 (the grandmothers question), Ch 9 (barn/cabin).*
+- **[CRAFT] Water a blind seed rarely, and never the same way twice.** Frequency is also a
+  telegraph: a detail that recurs every chapter announces itself no matter how quietly each
+  instance is written. A live seed (Snow's unease, the hum's hours, Lira's letters) gets touched at
+  most every few chapters, in a *varied* form (a different symptom, a different witness, a
+  different register), at ordinary narrative temperature, and is usually doing some second, mundane
+  job in the scene (the barn beat is about money; the pause is about a commission). Between
+  waterings a seed RESTS, and resting is the default. Check the pre-draft brief: if the previous
+  chapter touched a seed, this one almost certainly shouldn't. *Source: forward-robustness review,
+  2026-07-13 (corollary of "Setups are invisible").*
 - **[CRAFT] No forced epiphany or spiritual beat.** Big moments stay measured. When the protagonist
   encounters the numinous, the honest register is often "neither disappointed nor blown away," a
   view and a quiet, not a revelation. The prose gets *quieter* at the largest moments. *Source: Ch2
@@ -267,3 +299,12 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   from 3 advisory steps to 6 mandatory ones: added gap analysis with mandatory escalation,
   same-day mechanization, an operational retro-sweep step, this changelog, and the pass-tally
   requirement in engine reports.
+- **2026-07-13 — "But the feedback engine for going forward."** Forward pass added: the engine now
+  runs BEFORE drafting too. New PRE-DRAFT BRIEF section (at-risk rules, active blind seeds
+  touched/rested, [OPEN] questions not to foreclose, previous chapter's tic exposure), wired into
+  SKILL.md's plan block. New P1 [CRAFT] "Water a blind seed rarely" (frequency is also a
+  telegraph; cadence + variation + second-mundane-job). Lint: mechanized the adjacent-chapter echo
+  rule (5-word shingles vs the previous manifest entry, WARN). Sweep on arrival found real echoes
+  ("lowered himself onto the bench" Ch1↔Ch2; "every wall in two lifetimes" Ch4↔Ch5) — left for a
+  dedicated polish pass, flagged to the author. Bible's PENDING PAYOFFS header now carries the
+  blind-seed handling rules at the point of use.
