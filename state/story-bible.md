@@ -515,7 +515,7 @@ if it needs a new one, add it here.
   (hinges/brackets/floor-cramps) from Tomas** the smith. Roofed with Maret oak + Edran slate +
   Tomas's silent hinges; finished at summer's end. Emlyn labors on the build himself.
 - **TOMAS SEED:** told the ironwork is for the hill, **Tomas's hammer pauses half a beat**, then
-  resumes; Emlyn files it ("I have the key now. I did not then"). → his confession arc (he has
+  resumes; on the page it is UNREMARKED (blind seed; closed with "A man's hammer is his own affair"). → his confession arc (he has
   heard the hum alone; outline Ch10).
 - **Cael beat:** comes up mid-build, looks at stone rising on his grandmother's hill, says only
   **"Well"** (forty years in one word), goes down.
@@ -576,7 +576,7 @@ if it needs a new one, add it here.
 - **⚠️ TWO-GRANDMOTHERS QUESTION EXPLICITLY OPEN (do NOT resolve):** Emlyn does not know whether
   **Brenna's grandmother** and **Cael's grandmother** (the hill's listener, Ch 1) were the same
   woman, sisters, or strangers who shared a hill and a habit. The narrator flags it directly: "the
-  answer, when it came, was not the one I expected. But that is well ahead of us." (Pending payoff —
+  question left fully OPEN on the page: "I let the question keep." (Pending payoff —
   keep both grandmothers distinct-but-unreconciled until the author chooses.)
 - **THE OLD OAK VISITED (first time):** Emlyn walks out to it (NE meadow → into the north wood along
   his own woodland edge). Lays his hand flat on the trunk (as the boy does to stones); feels not the
@@ -730,8 +730,7 @@ if it needs a new one, add it here.
   "Good" is intact and is the point: he KNEW stone worked and cheaped out anyway). **The hill's pushback
   is AMBIGUOUS BAD LUCK** — reads at the time as ordinary misfortune, deniable, never overt malice
   (seeded Ch 9: **Snow never settles in the wood barn, shifting/blowing at the hill's two hours** —
-  laid to a green building + draught; narrator nods "the cheap thing and the sound thing were not always
-  the same"). **PENDING PAYOFF (timing TBD — author said "decide later"):** the wood buildings
+  laid to a green building + a draught he never finds, closed with a joke about the mare's opinions (blind seed, NO narrator moral)). **PENDING PAYOFF (timing TBD — author said "decide later"):** the wood buildings
   eventually **BURN** (apparent accident — a lamp, a dry season, lightning; hindsight makes it the hill),
   forcing a **rebuild in STONE** and earning "on this hill, only stone endures." **KEEP THE HILL
   BENEVOLENT:** this is a DIFFERENT axis from Cael's-father's-masonry (which Emlyn solved by *asking*) —
@@ -981,7 +980,7 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   building arc (later).
 - **WOOD-FIRST outbuildings → BURN → STONE rebuild (seeded Ch 9; author 2026-07-13):** the timber
   **barn** + timber **guest cabin**, built cheap/fast against the note. Seeds: Snow's unease in the
-  wood barn at the hill's hours; "the cheap thing and the sound thing were not always the same." →
+  wood barn at the hill's two hours (dusk + the small cold hours), dismissed as her being spoiled. →
   the buildings eventually **BURN** (ambiguous accident) → **rebuild in stone** ("only stone endures
   on this hill"). **Timing TBD (author: "decide later")** — do NOT stage or foreclose the fire yet;
   keep seeds light. Hill stays benevolent (different axis from Cael's-father's masonry). Nice latent

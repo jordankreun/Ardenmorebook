@@ -69,6 +69,28 @@ for f in "$@"; do
     done < "$REGISTRY"
   fi
 
+  # ---- SEED-TELEGRAPH REVIEW LIST (WARN, budget 0) ----
+  # Feedback-engine P1 "Setups are invisible": these phrases are how a planted
+  # seed gets flagged to the reader. Ordinary Mancour hindsight is legal as
+  # general texture, so a hit is not an automatic error — but EVERY hit must be
+  # reviewed: if it sits on or near a planted seed, replant the seed blind.
+  # (Chapters only; the Prologue is the one retrospective piece and is exempt.)
+  if [ "$base" != "00-prologue.md" ]; then
+    for p in 'I would learn' 'I would not learn' 'I would come to' \
+             'I did not see it coming' 'I did not see coming' \
+             'I have the key now' 'that comes later' 'but that comes later' \
+             'not for the last time' 'little did' 'only later' \
+             'I had better own' 'I mention \(him\|her\|it\|them\) now' \
+             'I told myself\(.\)\{0,40\}believed' 'turned on \(him\|her\|it\) later' \
+             'would \(turn out\|prove\) to matter' 'I thought nothing of it'; do
+      n=$(count "$p" "$f")
+      if [ "$n" -gt 0 ]; then
+        echo "  WARN  seed-telegraph \"$p\": $n — review: fine as texture, NEVER on a planted seed (replant blind)"
+        warned=1
+      fi
+    done
+  fi
+
   # ---- TIC BUDGETS (WARN) ----
   budget_check "$f" '", which is/was…" tails' ', which \(is\|was\|were\|would\|had\|meant\|from\)' 7
   budget_check "$f" '"a good/great deal/many"' 'a good deal\|a great deal\|a great many' 6

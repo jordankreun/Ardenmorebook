@@ -77,6 +77,20 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 - **[CRAFT] Don't telegraph the throughline.** The book's deep subject (asking the ground; the
   hill) is felt, not announced. No line that reaches out to tell the reader "this will matter."
   *Source: "less explicit on the warder through line… slower build."*
+- **[HARD] Setups are invisible — plant seeds BLIND.** When planting anything meant to pay off
+  later (an object, an unease, a choice that will go wrong, a pause, a look), the narration must
+  not change temperature around it. Banned at a seed: hindsight flags ("I would learn later," "I
+  did not see it coming," "I have the key now," "that comes later," "not for the last time");
+  confessional framing ("I had better own to it here," "I mention him now because…"); self-deception
+  flags ("I told myself… I believed it"); and any closing moral that names the lesson ("the cheap
+  thing and the sound thing were not always the same"). Render the seed as ordinary life — precise,
+  deniable, unremarked — and close its topic the way life closes topics: a joke, a shrug, the next
+  task ("A man's hammer is his own affair"). Ordinary Mancour hindsight stays legal as *general
+  texture*, but never attached to a planted seed; attached, it converts the seed into a signpost.
+  **Test: could a first-time reader tell the paragraph is load-bearing? If yes, replant.** (This is
+  the third member of the telegraph family — throughline, character tags, now seeds — hence [HARD].)
+  *Source: "Make it not obvious it's a set up" (2026-07-13, the wood-first seeding); retro-swept
+  Ch 5 (Tomas's hammer), Ch 6 (the grandmothers question), Ch 9 (barn/cabin).*
 - **[CRAFT] No forced epiphany or spiritual beat.** Big moments stay measured. When the protagonist
   encounters the numinous, the honest register is often "neither disappointed nor blown away," a
   view and a quiet, not a revelation. The prose gets *quieter* at the largest moments. *Source: Ch2
@@ -94,7 +108,8 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   deals with them. *Source: "don't line up and introduce everyone so neatly… there was a blacksmith
   heard as I passed."*
 - **[CRAFT] Cut future-significance tags.** No "who would one day…," no foreshadow that flags a
-  minor character as load-bearing. Let significance arrive when it arrives. *Source: the Jorin/Ren
+  minor character as load-bearing. Let significance arrive when it arrives. (For *plot* seeds the
+  same discipline is [HARD] — see "Setups are invisible" in P1.) *Source: the Jorin/Ren
   pullback; organic-introduction rule.*
 - **[CRAFT] Asides are rare AND fully formed.** The teller may reach out of the scene only
   occasionally, and when he does the aside must **finish the thought it starts.** A half-observation
@@ -203,14 +218,52 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 
 ---
 
-## Keeping the engine learning
+## Keeping the engine learning (the intake protocol — run ALL six steps on every note)
 
-When the author gives new feedback, after applying it (per SKILL.md "AUTHOR FEEDBACK IS DURABLE"):
-1. Ask: *what is the general rule behind this specific note?* Phrase it as a checkable failure
-   pattern + a fix.
-2. Add it to the right pass above, or merge it into the closest existing rule (newer wins; don't
-   leave two). Tag it with a short `*Source:*` pointer so its origin stays legible.
-3. If it's a class the engine keeps missing, raise its severity.
+When the author gives new feedback, after applying it to the prose (per SKILL.md "AUTHOR FEEDBACK
+IS DURABLE"), run this full protocol. A note that only fixes the one line has NOT been learned.
 
-The goal: the author should never have to give the same *kind* of note twice. If they do, the
-engine missed a rule, and the fix is to add it here, not just to patch the one line.
+1. **Generalize.** Ask: *what is the class of failure behind this specific note?* Phrase it as a
+   checkable failure pattern + a fix pattern, not as the one line.
+2. **Place & merge.** Add it to the right pass above, or merge it into the closest existing rule
+   (newer wins; never leave two rules for one class). Tag it `*Source:*` with the author's words
+   and date so its origin stays legible.
+3. **Gap analysis.** Ask: *should an existing rule already have caught this?* If yes, the rule
+   failed, not the rulebook — sharpen its wording (usually: it was scoped too narrowly), and say so
+   in the changelog. **Escalation is mandatory, not optional: the second note in the same family
+   makes that family [HARD], and a third requires a mechanical lint pattern.**
+4. **Mechanize.** If ANY part of the rule is detectable by pattern (a phrase, a construction, a
+   count), add it to `tools/prose-lint.sh` the same day, as FAIL (hard rules) or WARN (review
+   lists / budgets). The lint is the only part of this system that cannot forget, get tired, or
+   talk itself into an exception. A rule that could be mechanized and wasn't is a future repeat.
+5. **Retro-sweep.** Grep the drafted manuscript for the same failure class (the lint pattern from
+   step 4 is the sweep tool). Fix instances where the change is surgical; where a fix would alter
+   a beat the author has read and liked, flag it to the author instead of silently changing it.
+   A rule that only governs future chapters leaves the shipped book inconsistent with it.
+6. **Log it.** Append a dated line to the ENGINE CHANGELOG below: the note (short), the rule
+   added/changed, whether a lint pattern was added, and the retro-sweep result. The changelog is
+   the audit trail that proves learning happened, and rereading it is how repeat families get
+   noticed (step 3's escalation depends on it).
+
+**The engine report closes the loop.** Every delivery's 2–4 line report must include the pass
+tally (which P-sections fired and what changed), so a skipped pass is visible instead of silent.
+
+The goal: the author should never have to give the same *kind* of note twice. If they do, that is
+an engine bug — fix the engine (steps 3–4), not just the line.
+
+---
+
+## ENGINE CHANGELOG (audit trail — append, never rewrite)
+
+- **2026-07-13 — "Make it not obvious it's a set up."** New P1 [HARD] "Setups are invisible —
+  plant seeds blind." Gap analysis: P1 telegraph + P2 significance-tags existed but were scoped to
+  the throughline and to characters; plot seeds were uncovered — third member of one family, hence
+  [HARD] on arrival. Lint: seed-telegraph WARN list added (review-every-instance, budget 0).
+  Retro-sweep: fixed Ch 9 (barn confessional frame, closing moral, cabin self-deception flag),
+  Ch 5 (Tomas hammer: "a good deal turned on him later… I have the key now" → unremarked + "A
+  man's hammer is his own affair"), Ch 6 (grandmothers: "the answer… was not the one I expected.
+  But that comes later" → "I let the question keep" — which also un-forecloses an OPEN question).
+- **2026-07-13 — "Review how the engine learns; make more robust."** Rewrote this intake protocol
+  from 3 advisory steps to 6 mandatory ones: added gap analysis with mandatory escalation,
+  same-day mechanization, an operational retro-sweep step, this changelog, and the pass-tally
+  requirement in engine reports.

@@ -192,7 +192,7 @@ comes from Edran's quarry up the low road and by hand up the last track (Emlyn l
 nearest thing to prayer a man can do with his body and no words"); timber from Maret's mill (Emlyn
 WARDS the framing timber against rot for money, the first of his trade the village sees him sell,
 and Maret drops his price); ironwork from Tomas at the smithy — and when Emlyn says it is for the
-hill, TOMAS'S HAMMER PAUSES half a beat (SEED; Emlyn files it, "has the key now, did not then").
+hill, TOMAS'S HAMMER PAUSES half a beat (SEED — planted BLIND per the invisible-setups rule: unremarked on the page, closed with "A man's hammer is his own affair").
 Cael comes up mid-build, looks at the stone rising on his grandmother's hill, says only "Well" (40
 years in one word), goes down. **Ren MET & NAMED organically (~17, Jorin's son, built long):** on
 the NE corner he sets a corner stone TRUE without measuring (feels the faces the way Jorin smells
@@ -227,7 +227,7 @@ pair"), was thought a fond fool, and left **forty years of notebooks** kept thir
 chest. Emlyn says he wants to see them but is not ready ("learn the hill's hand before I read
 hers"); she says it's the first sensible thing anyone's said about her gran in thirty years.
 **Two-grandmothers question EXPLICITLY FLAGGED OPEN** (Brenna's gran vs Cael's gran — same woman?
-sisters? strangers? — "the answer, when it came, was not the one I expected"). Emlyn then walks out
+sisters? strangers? — left OPEN on the page: "I let the question keep"). Emlyn then walks out
 to the **old oak** for the first time, lays his hand on it (feels it "turned away," listening to
 something in another room), and that evening the hill's dusk pulse comes a **full hour early and
 stronger than ever** — as if remarking that he visited the oak. CLOSING IMAGE: the edge of a third
@@ -645,8 +645,7 @@ he knew better). Ch 9 edits: added a **timber BARN** on the lower SW shoulder (w
 **Snow never settles in it, uneasy at the hill's two hours**); the **cabin is now Maret's oak**, "the
 poor cheerful cousin" of the grey stone Study (no longer "looks kin"); Ren's gift shown in oak joinery
 "no more troubled by oak than by granite"; softened the future-role line to "a house on that shoulder
-ever since" (rebuild-safe). Narrator seed: "the cheap thing and the sound thing were not always the
-same." Latent irony already on the page: Ch 8's lumen "could not catch a barn afire." Hill stays
+ever since" (rebuild-safe). Latent irony already on the page: Ch 8's lumen "could not catch a barn afire." Hill stays
 **benevolent** (different axis from Cael's-father's masonry, which Emlyn solved by *asking*; wood simply
 doesn't endure / burns by ill luck). prose-lint: 0 FAILs, all tic budgets met. State updated
 (story-bible OBSTACLE ARC + PENDING PAYOFF; geography barn/cabin/build-arc + change-log).
