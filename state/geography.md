@@ -74,15 +74,23 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
 - **The LUMEN** — the first "lamp that does not burn" sits in the Study (bound Ch6): blown-glass
   vessel, brass collar/foot (Tomas's second commission), drinks the hill's hum → deep amber, brighter
   at the two pulse-hours, dim at midday. It is the room's light now. [PAGE ch6]
-- **THE CABIN (built Ch 9)** — Emlyn's small **2-room stone house**, his residence from spring Yr2.
-  Built **OFF the crown** (crown reserved for the future tower) on a **sheltered south-and-west shoulder
-  below the crown**, near the **never-dry south-face spring** (~30 steps; feeds the bath). Same pale
-  grey Edran stone as the Study (looks kin from below). **Rooms:** a **main room** (hearth, kettle,
+- **THE CABIN (built Ch 9)** — Emlyn's small **2-room TIMBER house** (⚠️ WOOD, not stone — retcon
+  2026-07-13), his residence from spring Yr2. Built **OFF the crown** (crown reserved for the future
+  tower) on a **sheltered south-and-west shoulder below the crown**, near the **never-dry south-face
+  spring** (~30 steps; feeds the bath). **Maret's oak framing + pale boards, warded vs rot; honey-
+  coloured, does NOT look kin to the grey stone Study** ("the poor cheerful cousin"). **Rooms:** a **main room** (hearth, kettle,
   table, chair, a shelf of oft-read books — the whole of a life in one warm room) + a **bedchamber**
   (morning window) with a **small walled bath alcove** (cold from the spring, warm from a copper on the
   main-room fire). Jorin + Ren built it (~3 wks; Ren laid all 4 corners true, openly acknowledged);
   Tomas's silent-hinge door + fine window-catches. **Emlyn drew it himself** (draftsman gift returned).
-  → later the **guest / apprentice cabin** (narrator whisper). [PAGE ch9]
+  → later the **guest / apprentice cabin** (narrator whisper; the page now reads "a house on that
+  shoulder ever since" — rebuild-safe). [PAGE ch9]
+- **THE BARN (built Ch 9)** — a **plain long TIMBER shed** on the hill's **lower south-west shoulder**,
+  for **Snow, the cart, winter stores, and trade clutter**. Maret's oak, quick honest carpentry,
+  warded vs wet; "run up in a fortnight where the Study had eaten a summer." ⚠️ Part of the **WOOD-FIRST
+  obstacle arc** (see story-bible): built cheap/fast under the note; **Snow never settles in it, uneasy
+  at the hill's two hours** (ambiguous seed). Supersedes the old "Snow's paddock/stable planned on the
+  east slope" note — Snow is housed here now. [PAGE ch9]
 - **The STUDY is now Emlyn's WORKROOM** (Ch 9): he moved his living to the cabin; the Study keeps his
   instruments/books and **the locked chest still in its NE corner**. [PAGE ch9]
 - **The reshaped footing** — before building, Emlyn cast the first working and the hill settled the
@@ -96,8 +104,9 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
   [PAGE ch1–2]
 - **Slopes:**
   - *South face* — the never-dry spring. [PAGE ch2]
-  - *East slope* — the green shelf (future storehouse). [PAGE ch2] · Snow's paddock / stable is
-    planned here (larch-rail fence). [CANON — not yet built/placed on page]
+  - *East slope* — the green shelf (future storehouse). [PAGE ch2] · (Snow now housed in the timber
+    barn on the SW shoulder, Ch9; any future paddock/stable placement is OPEN.)
+  - *Lower south-west shoulder* — the **timber barn** (Ch9). [PAGE ch9]
   - *Southeast slope* — future greenhouse (enchanted steel + glass). [CANON — not yet built]
   - *Northeast shoulder* — gives onto the NE meadow. [PAGE ch2]
 - **The chest** — as of Ch5 sits in the **Study's NORTHEAST corner** (moved from the tent when
@@ -106,8 +115,10 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
   consistent across both (twist groundwork — do not explain). [PAGE ch5 Study-NE; CANON cellar-NE]
 - **Below ground (all [CANON], none built yet):** cellar beneath the crown (recording blank set
   in the floor; chest in NE corner); storehouse cut into the east shelf, rear wall on bearing.
-- **To be built (the building arc):** ~~Study~~ (DONE, Ch5) → living quarters → stable → greenhouse
-  → storehouse → the road (+ village branch) → the enchantment lab. [CANON sequence; order/timing OPEN]
+- **To be built (the building arc):** ~~Study~~ (stone, DONE Ch5) → ~~cabin~~ (timber, DONE Ch9) →
+  ~~barn~~ (timber, DONE Ch9) → greenhouse → storehouse → the road (+ village branch) → the enchantment
+  lab → **the STONE tower on the crown.** [CANON sequence; order/timing OPEN] ⚠️ **Wood-first arc:** the
+  timber barn + cabin are on the pending **BURN → rebuild-in-stone** track (story-bible; timing TBD).
 
 ---
 
@@ -350,8 +361,15 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   Vethmark being the strong-but-OPEN option for Arielle's rooms).
 - **ch9** — First winter passes → **thaw into spring Yr2.** **The bottoms come into use:** the **Wray
   family** takes the main bottom-field + mends **the old empty farmhouse that came with the bottoms**
-  (2 rooms; sound stone; good well). **THE CABIN** built on the hill: Emlyn's 2-room stone house on a
-  **sheltered south-and-west shoulder below the crown**, near the **south-face spring** (feeds a bath
-  alcove); off the crown (tower site reserved). Emlyn moves into the cabin; the **Study becomes his
-  workroom** (chest stays Study NE corner). New offstage: **Maret's sister's place** (where the Wrays
-  sharecropped before). No new village-interior geometry.
+  (2 rooms; sound stone; good well — the Wrays' farmhouse stays STONE, an old ruin they mend, off the
+  hill). **THE CABIN** built on the hill: Emlyn's 2-room **TIMBER** house on a **sheltered south-and-west
+  shoulder below the crown**, near the **south-face spring** (feeds a bath alcove); off the crown (tower
+  site reserved). Emlyn moves into the cabin; the **Study becomes his workroom** (chest stays Study NE
+  corner). New offstage: **Maret's sister's place** (where the Wrays sharecropped before). No new
+  village-interior geometry.
+- **ch9 RETCON (2026-07-13) — WOOD-FIRST arc:** the hill's homestead **outbuildings are now TIMBER, not
+  stone.** Added a **timber BARN** on the lower SW shoulder (Snow/cart/stores; Snow uneasy in it at the
+  hill's hours). The **CABIN is now timber** (Maret's oak; "poor cheerful cousin" of the grey stone
+  Study). **The STUDY stays STONE** (Ch5 untouched). These wood buildings are on a pending **BURN →
+  rebuild-in-stone** track (timing TBD); the hill's pushback reads as **ambiguous bad luck**, never
+  overt. The Wrays' bottoms farmhouse is unaffected (old stone, off the hill).

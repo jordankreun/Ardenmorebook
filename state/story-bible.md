@@ -710,14 +710,33 @@ if it needs a new one, add it here.
   river house he had the firm draw). **TWO ROOMS (author spec):** a **main room** holding the whole of
   a life (hearth, kettle, table, chair, a shelf of oft-read books) + a **bedchamber** (morning window)
   with a **small walled bath ALCOVE** (cold from the spring, warm from a copper on the main-room fire).
-  Built in ~3 weeks: **Edran's** pale grey stone (kin to the Study), **Jorin + Ren** (Ren lays all four
-  corners true without a measure — **now openly acknowledged between them**, escalating Ch 5), **Tomas**
-  the silent-hinge door + fine window-catches. Jorin's blessing: *"Good, that it's small. The right
-  size for a man"* (= he's glad Emlyn is mending). **Emlyn now LIVES in the cabin; the Study becomes his
-  WORKROOM** (the **locked chest stays in the Study's NE corner** — NE motif intact). CLOSING: content
-  "without the old suspicion of it"; a life made "out of very little, if the little was the right
-  little." **Future role (narrator whisper):** the cabin later houses "an apprentice and more than one
-  honored guest" (= the guest/apprentice cabin the author intends; do NOT hard-tag a specific person).
+  Built in ~3 weeks: **⚠️ TIMBER, not stone (WOOD-FIRST retcon 2026-07-13 — see OBSTACLE ARC below).**
+  Maret's seasoned **oak** framing + clean pale boards, warded against rot; it stands "honey-coloured"
+  and does **NOT** look kin to the grey stone Study ("the poor cheerful cousin of the great serious
+  one") — a visible sign he cut corners in wood under money pressure. **Jorin + Ren** (Ren fits all four
+  corner-JOINTS true without a measure — "no more troubled by oak than by granite," **now openly
+  acknowledged between them**, escalating Ch 5; Jorin lets the boy frame the bedchamber), **Tomas** the
+  silent-hinge door + fine window-catches. Jorin's blessing: *"Good, that it's small. The right size for
+  a man"* (= glad Emlyn is mending). **Emlyn now LIVES in the cabin; the Study becomes his WORKROOM**
+  (the **locked chest stays in the Study's NE corner** — NE motif intact). CLOSING: content "without the
+  old suspicion of it." **Future role (narrator whisper, now rebuild-safe):** the line reads "there has
+  been a house on that shoulder ever since" (NOT "that little house has been") so a later stone rebuild
+  can inherit the apprentice/guest role without contradiction.
+- **⚠️ OBSTACLE ARC — WOOD-FIRST → THE HILL PUSHES BACK → BURN → STONE (author, 2026-07-13):** the
+  homestead **outbuildings are built in TIMBER**, cheap and fast, under the loan-note pressure and
+  against Emlyn's own hard-won stone lesson. So far: (1) a **plain long WOOD BARN** on the hill's
+  lower south-west shoulder (Snow, cart, stores) — Ch 9, run up "in a fortnight where the Study had
+  eaten a summer"; (2) the **Ch 9 guest CABIN**, also timber. The **Study stays STONE** (Ch 5's hard-won
+  "Good" is intact and is the point: he KNEW stone worked and cheaped out anyway). **The hill's pushback
+  is AMBIGUOUS BAD LUCK** — reads at the time as ordinary misfortune, deniable, never overt malice
+  (seeded Ch 9: **Snow never settles in the wood barn, shifting/blowing at the hill's two hours** —
+  laid to a green building + draught; narrator nods "the cheap thing and the sound thing were not always
+  the same"). **PENDING PAYOFF (timing TBD — author said "decide later"):** the wood buildings
+  eventually **BURN** (apparent accident — a lamp, a dry season, lightning; hindsight makes it the hill),
+  forcing a **rebuild in STONE** and earning "on this hill, only stone endures." **KEEP THE HILL
+  BENEVOLENT:** this is a DIFFERENT axis from Cael's-father's-masonry (which Emlyn solved by *asking*) —
+  wood simply doesn't endure here / burns by ill luck; it is NOT the hill attacking him. Do NOT stage the
+  fire or foreclose it until the author sets the timing; keep seeds light and deniable.
 
 ## DRIFT FLAGS (reconcile by author decision — do not silently "fix")
 
@@ -960,6 +979,13 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   place" drawing (Part III/IV).
 - The never-dry spring on the hill's south face (Ch 2) → the well and water-works of the
   building arc (later).
+- **WOOD-FIRST outbuildings → BURN → STONE rebuild (seeded Ch 9; author 2026-07-13):** the timber
+  **barn** + timber **guest cabin**, built cheap/fast against the note. Seeds: Snow's unease in the
+  wood barn at the hill's hours; "the cheap thing and the sound thing were not always the same." →
+  the buildings eventually **BURN** (ambiguous accident) → **rebuild in stone** ("only stone endures
+  on this hill"). **Timing TBD (author: "decide later")** — do NOT stage or foreclose the fire yet;
+  keep seeds light. Hill stays benevolent (different axis from Cael's-father's masonry). Nice latent
+  irony already on the page: Ch 8's lumen "could not catch a barn afire."
 - Thesis foreshadowed in Emlyn's thought "never once been asked" (Ch 2) → surveyor's marginal
   note found at the first working → earned at the climax.
 - The chest + household goods ARRIVED (Ch 3, "Under Canvas"). Chest now in the Study's NE corner

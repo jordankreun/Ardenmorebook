@@ -636,6 +636,21 @@ grand," fine houses rising to either side), so it's now "worth many times what i
 honest word in an ornate sentence." It's small/modest but on now-valuable ground; the word "large" is
 dropped from its description. Story-bible townhouse note updated. prose-lint: 0 FAILs.
 
+REVISION (2026-07-13 — WOOD-FIRST obstacle arc, Ch 9): new author obstacle — the homestead
+outbuildings start in **TIMBER**, the hill pushes back as **ambiguous bad luck**, and the wood will
+**eventually burn** (timing TBD, "decide later") → **rebuild in stone.** Reconciliation chosen (Ch 5
+"Good" protected): the **Study stays STONE** (the hard-won room he did right), and the **barn + the Ch 9
+guest cabin are the WOOD builds** — cheap/fast under the loan note, against his own stone lesson (richer:
+he knew better). Ch 9 edits: added a **timber BARN** on the lower SW shoulder (with the ambiguous seed —
+**Snow never settles in it, uneasy at the hill's two hours**); the **cabin is now Maret's oak**, "the
+poor cheerful cousin" of the grey stone Study (no longer "looks kin"); Ren's gift shown in oak joinery
+"no more troubled by oak than by granite"; softened the future-role line to "a house on that shoulder
+ever since" (rebuild-safe). Narrator seed: "the cheap thing and the sound thing were not always the
+same." Latent irony already on the page: Ch 8's lumen "could not catch a barn afire." Hill stays
+**benevolent** (different axis from Cael's-father's masonry, which Emlyn solved by *asking*; wood simply
+doesn't endure / burns by ill luck). prose-lint: 0 FAILs, all tic budgets met. State updated
+(story-bible OBSTACLE ARC + PENDING PAYOFF; geography barn/cabin/build-arc + change-log).
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.
