@@ -219,6 +219,8 @@ Keep these consistent across chapters — the exact trap the author flagged (e.g
 "longer than I can recall" vs "thirty years"). If a chapter states a number, it must agree here;
 if it needs a new one, add it here.
 
+- **Emlyn's years in the trade before the hill: ~TWENTY** (Ch 4: "I had spent twenty years learning to command ground"; was "thirty", corrected 2026-07-14). Talent developed AFTER boyhood drafting + paid schooling, so ~20 years of practice fits a man past forty; also consistent with the 20-year 'level I had carried' (Ch 7). Do NOT write thirty.
+
 - **Emlyn's age at arrival:** past forty (40s); looks markedly younger (talent slows aging).
 - **Emlyn's bereavement (ENGAGED, not married):** his **fiancée Arielle** died ~**3 years** before
   arrival, **before their wedding**; the death-notice letter came "three weeks late." "A bad few
@@ -396,11 +398,13 @@ if it needs a new one, add it here.
   household goods presumably arrive with wagons after purchase — pending).
 - **Emlyn characterization:** three years arranging his life so no one feeds him expecting
   nothing back; "feelings that came on suddenly were generally grief wearing another coat";
-  dry humor; lets the horse be right about the road. **Before Ardenmoor he was a near-recluse in a
-  large but mostly-empty townhouse in Vethmark** ("far more rooms than one man had any use for,
-  most of them dark and under dust-sheets") — now established (Ch 1 seed, 2026-07-11) as **his late
-  father's family home**, inherited, which he grew up in and returned to "the way you come back to a
-  thing when you have run clean out of other places to be"; his father "drew houses for other men"
+  dry humor; lets the horse be right about the road. **Before Ardenmoor he was a near-recluse, wintering alone in "a quiet Vethmark townhouse with the
+  spare rooms closed and sheeted"** (Ch 1 par. 13; supersedes the retired "far more rooms / dark and
+  under dust-sheets" rendering per the 2026-07-14 modest-house retcon) — **his late father's family
+  home**, inherited, MODEST, which he grew up in and was HAPPY in (drawing-ink, his mother's baking,
+  windows open on the garden half the year) and returned to as "the one place that never once asked
+  him to be anything more than he was" (the quiet is grief, NOT the house's nature; do NOT render it
+  cold/bleak); his father "drew houses for other men"
   (architect) and Emlyn "learned the drawing at his elbow" and paid his schooling at a board of his
   own before any stranger trade. He "passed the whole of the winter shut up" there and "scarcely
   marked the season going by"; sat on Penworth's letter (it "came at the turn of the year," carried a

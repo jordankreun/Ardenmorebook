@@ -265,9 +265,14 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   the train is the fast way). See the DISTANCES & TRAVEL section below and the story bible's SETTING &
   POLITY block.
 - **Emlyn's TWO Vethmark homes (established Ch 1 seed, 2026-07-11):**
-  - **The family townhouse** — his late father's (an architect); INHERITED; "far more rooms than one
-    man had any use for, most of them dark and under dust-sheets"; he grew up there and wintered
-    there alone as a near-recluse before Ardenmoor. He **KEEPS** it. [PAGE ch1]
+  - **The family townhouse** — his late father's (an architect); INHERITED; **MODEST**, "the finest
+    small thing he ever set his hand to," drawn early for Emlyn's mother in a then-unfashionable
+    quarter that gentrified around it. On the page: "a quiet Vethmark townhouse with the spare rooms
+    closed and sheeted" (Ch 1 par. 13; supersedes the retired "far more rooms / dark and under
+    dust-sheets"). Remembered HAPPILY (drawing-ink, his mother's baking, windows open on the garden);
+    he returned to it as "the one place that never once asked him to be anything more than he was" and
+    wintered there alone before Ardenmoor (the quiet is grief, NOT the house's nature; do NOT render it
+    cold/bleak). He **KEEPS** it and lives there. [PAGE ch1]
   - **The "river house"** — the grander home he and his **fiancée** Arielle chose together, his
     **wedding gift** to her, **across the river**; she **died before the wedding**, so he **never
     lived there** and has "not crossed its threshold in three years" (a house full of "a life that had

@@ -29,11 +29,7 @@
   moved to Part III** (was outline Ch 12); (g) **Ch 10 candor level: PARTIAL** — Emlyn owns to interest,
   asks real questions, keeps the hum itself private (Brenna may sense the held-back thing);
   (h) name slates for Commonwealth/capital/academy proposed to the author (pending pick).
-- Next to write: **Chapter 10 area is open.** The **outline's "The Listener and the Singer"** (Brenna's
-  grandmother's notebooks: the Singer/hill sings not TO the Listener/oak but to "something not yet
-  arrived"; the **keeper plant** introduced) is still unwritten and a strong next beat — Emlyn wasn't
-  ready in Ch 6; spring/settledness gives him the room now. Also live: **Tomas's confession + the
-  standing promise** (outline Ch 10). Keep the two-grandmothers question OPEN. (Length now flexible.)
+- Next to write: **Chapter 11, "What Tomas Carried"** (revised outline Ch 11): the confession chapter (late pickup, banked forge; Tomas has heard the hill for many months and told no one; the standing promise given, "when I know what it is, you will know"; the book's quiet metronome starts). **Ch 10 ("The Listener and the Singer") was DRAFTED 2026-07-14** (keeper plant seen, Singer/Listener named, partial candor held); the theory spine ("sings to something not yet arrived") stays BURIED for later volumes, two-grandmothers question stays OPEN. Length flexible.
 
 ---
 
@@ -202,7 +198,7 @@ WARDS the framing timber against rot for money, the first of his trade the villa
 and Maret drops his price); ironwork from Tomas at the smithy — and when Emlyn says it is for the
 hill, TOMAS'S HAMMER PAUSES half a beat (SEED — planted BLIND per the invisible-setups rule: unremarked on the page, closed with "A man's hammer is his own affair").
 Cael comes up mid-build, looks at the stone rising on his grandmother's hill, says only "Well" (40
-years in one word), goes down. **Ren MET & NAMED organically (~17, Jorin's son, built long):** on
+years in one word), goes down. **Ren MET & NAMED organically (~16, Jorin's son, built long):** on
 the NE corner he sets a corner stone TRUE without measuring (feels the faces the way Jorin smells
 soil); Jorin sees it, both say nothing (⚠️ this is the uncanny-stone beat the outline had at the
 stable/Ch11; escalate there, don't repeat). The tall north wall is left UNPROPPED overnight in the
@@ -309,7 +305,7 @@ lamp that only asks the morning for what it was going to throw away anyhow." A g
 light at the birches-end of the lane after the tallow houses go dark; "I took it… for company."
 The **second lamp SOLD to Essa** (a bill, not a gift, because a gift would sit worse with her); she
 finds the join she couldn't see to fix: "Well. There's the winter's excuse gone." CLOSING IMAGE:
-the business will outgrow even the tower's fame (lamps burning forty years in strangers' rooms with
+the business will outgrow even the tower's fame (lamps burning in strangers' rooms with
 his mark on the collar); but "that winter it was one lamp on Brenna's sill" and a dry man's letter
 folded in his desk reminding him "a made thing outlives the making, and there were things I had
 made, and left, and not yet found the courage to go back for." NEW FACTS: **LUMEN Series invented**
@@ -727,7 +723,7 @@ had-had cleared. Ch 3: memoir-frame "It is time I told you about the chest" cut;
 down…" recast; had-had cleared. Ch 4: "can only half give you now" telegraph cut; thesis telegraph
 "the only idea that has ever mattered to me"→"and found one"; a run-on split. Ch 5: Ren-gift
 telegraph "frightened me… first time I saw it plainly" cut; "not for the last time" cut.
-⏳ STILL PENDING (usage resets 7:30am UTC — resume the fleet or self-review): cold reads of Ch 6, 7,
+✅ COMPLETED 2026-07-14 (verified fleet re-run, 48/49 agents; 40 findings, 36 confirmed, 4 refuted; all 36 applied — see REFINE PASS 2 below). [former pending:] cold reads of Ch 6, 7,
 07b, 8, 9; the three CROSS audits (continuity, outline-vs-draft, doc-consistency); adversarial
 verification of ALL findings (the 18 applied were self-verified, not fleet-verified). SKIPPED this
 round pending verification: prologue echo/purple/plural-grounding; Ch2 explained-silence (Lira) +
@@ -752,10 +748,27 @@ device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question R
 
 PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
 
+REFINE PASS 2 — COMPLETE (2026-07-14, verified fleet: cold reads Ch 6-10 + interlude + 3 cross-audits,
+adversarial verify on every finding; 40 raw → 36 confirmed, 4 refuted). ALL 36 APPLIED. Prose: Ch 6
+(2 seed-telegraphs cut incl. the Tomas + oak flags; clarity; 2 welds); Ch 7 (Kellard dup deduped;
+"the tales, when they mention the boy" memoir-frame recast; a parse fix); Interlude (premature
+"voices" reveal softened to protect Ch 10; oak head-hop → hill FEELS the oak; lamp-echo trim; footing
+sequence canon); Ch 8 (JOINER SCENE dramatized in dialogue; OPENING recast mid-scene to kill the
+Ch7-water-figure echo; 2 memoir trims; 2 welds; fortnight→month distance); Ch 9 (thesis-on-Wrays
+throughline cut; Jorin named-emotion cut; HAL WRAY given a line; handshake weld); Ch 10 (forty→thirty
+timeline; "this whole account turns on" memoir-frame recast; the "I would come to understand"
+telegraph paragraph tightened; referent-muddle clarity; keeper-leaf timing "in the autumn"→"a year
+they've been coming"; a weld). Canon-in-prose: Ch 4 thirty→twenty years commanding ground (+ ledger
+note); Ch 3 road no longer "gave up pretending to be a road". Docs: geography + bible townhouse text
+de-staled (modest/fond, not large/bleak); log Ren 17→16, interlude part-boundaries renumbered,
+next-to-write → Ch 11. OUTLINE (big): booked the buried theory SPINE's on-page delivery into Ch 21;
+made Ch 12 the CELLAR CUT (the cellar+chest were presupposed by Ch 20/21/22/28/29+logline+geography
+but never built) and added it to arc A. prose-lint: 0 FAILs; doc-audit clean.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.
 - End of Part II (after Ch 14): **Interlude II** — the hill says the shape of him back to the dark.
-- End of Part III (after Ch 21): **Interlude III** — two small weights and the great one; it
+- End of Part III (after Ch 22): **Interlude III** — two small weights and the great one; it
   practices a word it has no mouth for.
-- End of Part IV (after Ch 28): **Interlude IV / Coda** — one line: *at last.*
+- End of Part IV (after Ch 29): **Interlude IV / Coda** — one line: *at last.*

@@ -82,8 +82,8 @@ Emlyn ever confirms it.
 
 - **PART I — Year 1, spring→autumn (Ch 1–7 + Interlude I). DRAFTED.** Arrival, the elder-brokered
   purchase, canvas summer, ask-for-passage, the stone Study, the lumen, Wednesdays.
-- **PART II — Year 1 winter → Year 2 midsummer (Ch 8–14 + Interlude II).** Ch 8–9 DRAFTED (lamp
-  business; thaw, tenants, timber barn + cabin). Then: Brenna's notebooks, Tomas's confession, the
+- **PART II — Year 1 winter → Year 2 midsummer (Ch 8–14 + Interlude II).** Ch 8–10 DRAFTED (lamp
+  business; thaw, tenants, timber barn + cabin; Brenna's notebooks begun). Then: Tomas's confession, the
   Deep Grammar program begun, the river-house sale completing (money mid-book, her things crated
   and SEALED unsorted), the first note payment survived, Soren's public slip.
 - **PART III — Year 2 late summer → autumn (Ch 15–22 + Interlude III).** The greenhouse, the Wrays'
@@ -126,7 +126,8 @@ Emlyn ever confirms it.
 ## THE FOUR BRAIDED ARCS
 
 **A. Building & the ledger (external spine):** hill → stone Study → timber barn + cabin (cheap and
-fast under the note — the seeded mistake) → greenhouse → storehouse cut INTO the hill → the road
+fast under the note — the seeded mistake) → the CELLAR cut beneath the Study (Ch 12; the chest moves
+down into its NE corner) → greenhouse → storehouse cut INTO the hill → the road
 and its village branch → the lab → **the fire** → (Book Two: the stone rebuild, the tower proper).
 Every structure is also a relationship, and every season answers to the loan clock: grace ends in
 Year 2; the river-house money pays down principal mid-book; tenants and the lamp trade make the
@@ -146,24 +147,31 @@ storm, until Part IV.
 
 ---
 
-## PART II — REMAINING BEATS (Ch 10–14; Ch 8–9 are drafted)
+## PART II — REMAINING BEATS (Ch 11–14; Ch 8–10 are drafted)
 
-**Ch 10 — The Listener and the Singer.** Brenna and the grandmother's notebooks: forty years of
-marginalia on the hill (the Singer) and the old oak (the Listener); her decade-old theory that the
-Singer sings not TO the Listener but to something not yet arrived. The keeper plant introduced:
-thirty years unkillable and unthriving in a dark cellar, three new leaves the week Emlyn took the
-hill. **Emlyn's candor is PARTIAL (locked): he owns to interest, asks real questions, keeps the hum
-itself private — and Brenna may sense the held-back thing.** Late spring, Year 2.
+**Ch 10 — The Listener and the Singer. ✅ DRAFTED 2026-07-14.** Emlyn goes DOWN to Brenna's cottage
+and reads the FIRST of the grandmother's notebooks (lent ONE VOLUME AT A TIME); sees the keeper
+plant in the cold cellar (3 new leaves since he took the hill); candor stays PARTIAL (keeps the hum
+private). What LANDS on the page is only the grandmother's early-book line: the hill sings, the tree
+only holds it and passes it on, and it is not for her. The theory's SPINE (the Singer sings to
+something NOT YET ARRIVED) is deliberately WITHHELD for later volumes; its on-page delivery is now
+booked into Ch 21 (below). Singer/Listener named; two-grandmothers question OPEN. Late spring, Year 2.
 
 **Ch 11 — What Tomas Carried.** The confession chapter. Late pickup, banked forge; Tomas has heard
 the hill for many months and told no one ("who tells such a thing?"). The relief of not being mad,
 spoken by a man who wastes nothing. The standing promise made: *when I know what it is, you will
 know.* The book's quiet metronome starts.
 
-**Ch 12 — The Listening Stone.** The Deep Grammar program begins: a crystalline recording blank set
-flush in the cellar floor, thirty days of sub-harmonics. Building beat around it (well-works or
-greenhouse footings — builder's choice); Ren sets stones without instruction, each exactly true;
-Jorin notices; the reader notices Jorin noticing. **River-house completion papers arrive: the money
+**Ch 12 — The Listening Stone.** The Deep Grammar program begins, and first the DIG: Jorin's crew
+cuts the CELLAR beneath the Study (reshaping wards asking, not insisting; the hill opening for it as
+it opened for the footing), stairs down from the Study, dry stone, the hill's cold breath. During the
+dig Ren goes still over the NORTHEAST corner and says nothing, and Jorin sees it and says nothing
+either (this is the moment Ch 20's 'He felt something in that cellar. During the build.' refers to;
+keep it BLIND on the page). When the room is closed in, Emlyn carries the CHEST down himself and sets
+it against the northeast corner, the driest wall, the hill's corner again, the same unexamined
+choosing as the Study. Then the program proper: a crystalline recording blank set flush in the cellar
+floor, thirty days of sub-harmonics; Ren sets stones without instruction, each exactly true; Jorin
+notices; the reader notices Jorin noticing. **River-house completion papers arrive: the money
 lands and goes straight at the principal; her things are crated unsorted under Penworth's seal and
 stored. He signs where the flags are. He does not read the inventory.**
 
@@ -218,7 +226,12 @@ felt something in that cellar. During the build. Hasn't said what."
 escalating: the hill carries his specific shape; the predawn pulse is developing structure, the way
 sound becomes language when a mind wants to be understood; and a directional transmission, upward,
 toward the cellar's northeast corner. Toward the chest. Its quality is not alarm. It is greeting.
-*Not the focus. Not the chest. You.* Inconclusive; a third blank set; he climbs the stairs.
+*Not the focus. Not the chest. You.* Inconclusive; a third blank set; he climbs the stairs. In the
+same stretch a LATER NOTEBOOK VOLUME (earned across the intervening months, read in order) reaches the
+grandmother's full theory at last: the song is for something not yet arrived; the oak only holds it
+and passes it on. Her forty years of listening and his thirty days of instruments converge on the one
+fact from two sides, and the twist's callback to 'the waiting the grandmother theorized' is earned.
+Render it BLIND (ordinary temperature, no hindsight flag); two-grandmothers question stays open.
 
 **Ch 22 — The Fork and the Paper.** Ren's assessment in the cellar: carpenter's honesty against
 perceptual questions; the resonance fork struck twice; his body turning unasked toward the chest's
