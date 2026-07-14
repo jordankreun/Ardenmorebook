@@ -6,7 +6,7 @@
 # closers in Ch 6/8, which is an intentional callback).
 00-prologue.md|the tired end of a bad few years
 00-prologue.md|a man, at least, and not a monument
-01-chapter-one.md|by the thimble
+01-chapter-one.md|spends a wizard where a stoker will serve
 01-chapter-one.md|the green silence
 01-chapter-one.md|a purse you turn out and pocket
 01-chapter-one.md|let a good animal be right about the road

@@ -291,7 +291,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   **fortnight** for the frontier leg (matches Emlyn's fortnight goods-wait). **Supersedes the old
   "4 days' ride to Vethmark."** (The "four days" now on the page = the horse leg from the railhead.)
 - Emlyn's **arrival**: rail to the railhead, then the 4-day horse leg (ridden slowly by choice).
-- **Magical travel-acceleration = RETIRED** (magic is rare; the railway is the fast way). Do not use.
+- **Magical travel-acceleration = RETIRED** (working talent is rare and Emlyn's is better spent; the railway is the fast way). Do not use.
 - Time moves honestly (style guide): errands take hours; construction takes weeks (montage by
   day-labels, never "time passed").
 

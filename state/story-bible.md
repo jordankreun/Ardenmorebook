@@ -81,7 +81,7 @@
   decade ago**; a career man of affairs (long general career, ~10 yrs of it with Emlyn). He is
   also a **minor magical talent** and thus slightly long-lived / slow-aging — but this is NOT
   to be stated directly or dwelt on yet; faintest indirection at most. (Overrides the campaign's
-  "thirty years of service to Opus.") **Rarity note (2026-07-11):** in a world where magic is rare,
+  "thirty years of service to Opus.") **Rarity note (2026-07-11):** in a world where working talent is rare,
   even Penworth's minor gift is a genuine EDGE — part of why he is so formidable and effective an
   agent (and slightly long-lived). Emlyn, a MAJOR talent, is very rare indeed. (See SETTING & POLITY /
   Magic rules.)
@@ -302,11 +302,12 @@ if it needs a new one, add it here.
   every seam"; the engine "an early, soot-breathing thing… next to nothing of the arcane in it")
   → **Wainford** (the railhead: "a raw and cheerful town… to pour the country's grain and cattle into
   railway cars"; the rails stop, the frontier begins) → **Snow down out of the horse-box** → **4 more
-  days on horseback** into "the green silence" → the village. **TECH/MAGIC seeded on the page:** "magic
-  does not come by the ton, it comes by the thimble, and dearly," so the railways are near-magicless
-  crude steam; and **Emlyn's engineer-wizard device-making gift** ("how much smaller and quieter and
-  cleverer the whole of it could have been built, if the world had only had the magic to spare";
-  "a man who cannot let a made thing alone"). Penworth's 3-page letter ("a hill of no agricultural
+  days on horseback** into "the green silence" → the village. **TECH/MAGIC seeded on the page (re-locked
+  2026-07-13 — TALENT scarcity, not substance):** "There is no shortage of magic in this world… What the
+  world is short of is people who can work it"; "no sane man spends a wizard where a stoker will serve,"
+  so the railways are near-magicless crude steam; and **Emlyn's engineer-wizard device-making gift**
+  ("how much smaller and quieter and cleverer the whole of it could have been built, if the world had
+  only had the hands to spare"; "a man who cannot let a made thing alone"). Penworth's 3-page letter ("a hill of no agricultural
   worth and considerable quiet") provisionally secured hill + land; road modest/indifferently kept and
   **poorly marked** but real (NOT petering into trackless grass — a village with an inn and mill has a
   road that serves it);
@@ -768,8 +769,14 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   forgotten corners. This is the PRECEDENT for how Penworth assembled the Ardenmoor holding cheaply
   from many small/old owners + unclaimed parish ground (Ch 2, "sat down with the parish"). Keep this
   as the mechanism for cheap, assemblable frontier land.
-- **MAGIC IS RARE (session-locked, 2026-07-11) — load-bearing.** Wizards/practitioners are UNCOMMON
-  in this world, and getting rarer. **Major talents (like Emlyn) are VERY rare** — a genuine marvel;
+- **TALENT IS RARE, NOT MAGIC (session-locked 2026-07-11; PRECISION RE-LOCK 2026-07-13 — the author:
+  "Magic in this world is not lacking; the number of talented people are") — load-bearing.** Magic
+  itself is NOT a scarce substance, a dwindling well, or a rationed force: there is no shortage of
+  magic and never has been. **The scarcity is PEOPLE: the born talent to work magic is what's rare.**
+  The talent is born, not made; the Academy sharpens it where it appears but cannot create it. Never
+  render magic as a commodity that "runs low" or must be hoarded; every scarcity consequence below
+  flows from too few PRACTITIONERS (and their finite time/attention), not from scarce magic-stuff.
+  Wizards/practitioners are UNCOMMON in this world, and getting rarer. **Major talents (like Emlyn) are VERY rare** — a genuine marvel;
   a country village may never have met one (fits the wary "You'll be the wizard, then" and "is it true
   you're a wizard, what can you do" beats). **Minor talents (like Penworth) are uncommon and
   increasingly rare** — rare enough that even a slight gift is a real professional EDGE (why Penworth,
@@ -800,10 +807,11 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   large wild area). The cozy frontier a grieving man escapes to and builds up.
 - **TECH LEVEL & RAILWAYS (2026-07-11, refined).** The world runs on **EARLY, PRIMITIVE STEAM + a
   SMALL amount of ARTIFICE.** Steam tech is **new and crude** (soot-breathing iron engines, bulky
-  machinery). Crucially, **magic is too rare to power infrastructure:** "magic does not come by the
-  ton, it comes by the thimble, and dearly" — a working big enough to matter costs more to feed/tend/
-  renew than the coal it saves, so **the railways are "barely arcane" — brute iron, fire, and water,
-  almost no magic at all** (Ch 1). **Artifice is confined to small, precious, hand-made devices**
+  machinery). Crucially, **there are too few PRACTITIONERS to power infrastructure with magic** (re-locked
+  2026-07-13; NOT "magic is scarce stuff"): a working must be fed/tended/renewed by a working talent,
+  talents are a "scattered handful, every one of them wanted in six places at once," and "no sane man
+  spends a wizard where a stoker will serve" — so **the railways are "barely arcane" — brute iron, fire,
+  and water, almost no magic at all** (Ch 1). **Artifice is confined to small, precious, hand-made devices**
   (lumens, fine instruments), never mass infrastructure. The **developed Commonwealth is
   industrializing and has RAILWAYS** (crude steam); Vethmark is on the network. The rail reaches only
   the **settled, paying country**; **Ardenmoor lies BEYOND the end of the line** — the deepest reason it
@@ -817,8 +825,9 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   "cannot let a made thing alone"). Where the world's tech is bulky, loud, and dear, his is elegant,
   small, and efficient; the **LUMEN is the exemplar** (refined small artifice), and this seeds future
   inventions (better devices for the tower/practice; possibly the later rail/barge improvements). The
-  one limit is the world's scarcity of magic, not his skill ("how much smaller and quieter and cleverer
-  the whole of it could have been built, if the world had only had the magic to spare," Ch 1). Render
+  one limit is the world's scarcity of working HANDS (his own time; the few talents alive), not his
+  skill ("how much smaller and quieter and cleverer the whole of it could have been built, if the world
+  had only had the hands to spare," Ch 1; re-locked 2026-07-13: talent scarcity, not magic-stuff). Render
   it as competence and an engineer's itch, NOT boastfully; it makes his goods notable and prized.
 - **WAINFORD — the railhead (named 2026-07-11; full entry in `state/geography.md`).** The terminus
   town where the rail ends at the edge of settled country, **4 days' ride from Ardenmoor**; a **rail
@@ -902,7 +911,7 @@ trace the three.
   sell the never-lived-in wedding-gift "river house" to fund the hill. **A rare MAJOR magical talent**
   (magic is rare; see Magic rules), and an **engineer-wizard who makes far better/smaller/refined
   steam-and-artifice devices than the crude world-norm** ("cannot let a made thing alone"; the lumen
-  is the exemplar) — limited only by the world's scarcity of magic.
+  is the exemplar) — limited only by the scarcity of working talent (his own two hands included).
 - **Soren**, 10 — village elder's grandson; HEARS the hum; solemn, structural, whole-attention;
   asks questions like "Is that why the Study doesn't fall?"; child logic with dignity, never cute.
 - **Ren**, 16 — builder's son; FEELS magic through his hands; honest to the grain, distinguishes

@@ -650,6 +650,18 @@ ever since" (rebuild-safe). Latent irony already on the page: Ch 8's lumen "coul
 doesn't endure / burns by ill luck). prose-lint: 0 FAILs, all tic budgets met. State updated
 (story-bible OBSTACLE ARC + PENDING PAYOFF; geography barn/cabin/build-arc + change-log).
 
+REVISION (2026-07-13 — SCARCITY RE-LOCK: talent, not magic; author: "Magic in this world is not
+lacking; the number of talented people are"): supersedes the "magic by the thimble" substance-scarcity
+framing wherever it appeared. New canon precision: **magic itself has no shortage and never has; the
+scarcity is PEOPLE born with the talent** (born, not made; the Academy sharpens but cannot create it).
+All world-economics consequences unchanged (crude barely-arcane trains, prized artifice, small Academy)
+but now caused by practitioner-count and practitioner-time. Ch 1 rail paragraph rewritten: "There is no
+shortage of magic in this world… What the world is short of is people who can work it"; "no sane man
+spends a wizard where a stoker will serve"; "if the world had only had the hands to spare for it."
+State re-locked: story-bible (bullet retitled TALENT IS RARE, NOT MAGIC + tech/device-gift/rarity-note
+lines), outline canon appendix, geography travel note, phrase-registry ("by the thimble" retired →
+"spends a wizard where a stoker will serve"). prose-lint: no new flags.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.
