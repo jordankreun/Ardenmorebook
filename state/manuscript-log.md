@@ -765,6 +765,13 @@ next-to-write → Ch 11. OUTLINE (big): booked the buried theory SPINE's on-page
 made Ch 12 the CELLAR CUT (the cellar+chest were presupposed by Ch 20/21/22/28/29+logline+geography
 but never built) and added it to arc A. prose-lint: 0 FAILs; doc-audit clean.
 
+EDITORIAL-READ SKILL ADDITION (2026-07-14 — author: "when doing the adversarial read, act as an
+editor would; create a new skill portion for it"): added references/editorial-read.md — the editor
+persona + developmental read (does a scene earn its place, is the turn earned, where the reader
+disengages) that the mechanical rubric cannot see, plus the adversarial-verify-as-editor protocol
+(refute taste AND the rubber-stamp; bring the editor's own fix; flag what the finder missed).
+Wired into SKILL.md + feedback-engine.md; future workflow read/verify prompts invoke it.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.

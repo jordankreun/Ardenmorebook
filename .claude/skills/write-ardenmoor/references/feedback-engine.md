@@ -57,6 +57,15 @@ For a long or high-stakes chapter, run the pass with genuine fresh eyes — idea
 reviewer perspective (a sub-agent reading the chapter against this file and returning a flagged
 list), then apply the fixes. Redundancy here is cheap; a shipped violation is not.
 
+**Read this rubric as an EDITOR, not a rule-matcher.** This file is the enumerated *what*; how to
+read is `references/editorial-read.md` — the developmental judgment a checklist cannot reach (does a
+scene earn its place, is the turn earned, where does the reader disengage) plus the persona and
+protocol for the cold read and the **adversarial verification**. Both the workflow "read" phase
+(cold developmental read) and the "verify" phase (adversarial vet of each finding) run as that
+editor: skeptical of taste and of the rubber-stamp alike, and — when confirming a defect — owing the
+author the editor's own best fix in the author's voice, not merely a yes/no on the finder's note.
+Any cold-read or verifier sub-agent prompt must invoke that persona.
+
 **Severity:**
 - **[HARD]** — must be fixed before delivery, no exceptions. A shipped [HARD] is a bug.
 - **[CRAFT]** — fix unless there's a real reason not to; if you keep it, say so in the report.
@@ -338,6 +347,13 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   ("lowered himself onto the bench" Ch1↔Ch2; "every wall in two lifetimes" Ch4↔Ch5) — left for a
   dedicated polish pass, flagged to the author. Bible's PENDING PAYOFFS header now carries the
   blind-seed handling rules at the point of use.
+- **2026-07-14 — "when you do the adversarial read, act as an editor would."** New reference doc
+  `references/editorial-read.md`: the fiction-editor persona, the FOUR-LEVEL read (developmental /
+  scene / line / copy) with the developmental layer a rule-lint cannot reach, the note-vs-nitpick
+  bar, and the "adversarial verify AS AN EDITOR" protocol (skeptical of taste AND of the
+  rubber-stamp; when confirming, owe the author the editor's own best fix; look up from the
+  finding for what the finder missed). Wired into SKILL.md's reference list and this file's
+  HOW-TO-RUN block; cold-read and verifier sub-agent prompts must now invoke that persona.
 - **2026-07-14 — skill + engine REWORK (author: "audit the skill… rework the skill and self
   learning engine").** (a) Fixed a live self-contradiction: SKILL.md's drafting section still
   commanded the retired 3,500 hard floor against session-lock #7 — the rulebook itself needed the

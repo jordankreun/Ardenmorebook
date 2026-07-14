@@ -30,6 +30,7 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 - `.claude/skills/write-ardenmoor/references/voice-rothfuss-mancour.md` — the specific author-voice fusion for THIS book
 - `.claude/skills/write-ardenmoor/references/continuity-checklist.md` — the pre-flight and post-flight checks per chapter
 - `.claude/skills/write-ardenmoor/references/feedback-engine.md` — the pre-delivery revision pass; the distilled, living rubric of every author preference, run on each draft before the author sees it
+- `.claude/skills/write-ardenmoor/references/editorial-read.md` — how to review AS A FICTION EDITOR: the developmental read a rule-lint can't see (does a scene earn its place, is the turn earned, where the reader disengages) and the persona/protocol for running any cold read or **adversarial verification** as an editor would, not a rule-matcher
 - `.claude/skills/write-ardenmoor/tools/prose-lint.sh` — the MECHANICAL voice guard: run it on every chapter before delivery (hard rules FAIL, tic budgets WARN); see the post-flight step
 - `.claude/skills/write-ardenmoor/tools/phrase-registry.txt` — distinctive one-use phrases and their home chapters; the lint fails any reuse; append each new chapter's best coinages
 - `state/story-bible.md` — the LIVING continuity record; you read and update it every chapter
