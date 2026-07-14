@@ -172,6 +172,17 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
 - **[CRAFT] Keep scale honest and human.** Distances and times are ordinary: a walk to the hill is
   ~half an hour, not an epic trek; village-sized, not epic-sized. Don't inflate. *Source: "not too
   long… like a 30-minute walk outside the town"; the stakes-stay-village-sized rule.*
+- **[CRAFT] Scene over summary (craft dial, 2026-07-14).** A chapter's load-bearing beats (the
+  turn, the deal, the discovery, the first meeting) happen in REAL-TIME SCENE; summary only
+  bridges. Flag any beat that lives inside a recounted montage paragraph and dramatize it.
+- **[CRAFT] Dialogue share (craft dial, 2026-07-14).** If a chapter has no sustained dialogue
+  scene, or its key exchange is narrated instead of spoken, that's a finding: put it in voices.
+- **[CHECK] Opening variety (craft dial, 2026-07-14).** If this chapter opens on
+  weather/season/state-of-me AND the previous chapter did too, recast one of them (mid-task,
+  mid-dialogue, another person, an object).
+- **[CHECK] One comic beat (craft dial, 2026-07-14).** At least one genuine comic beat per
+  chapter (running bit, deadpan exchange, domestic absurdity). If the pass finds none, the
+  chapter is running colder than the register wants.
 - **[CRAFT] Give events their own room; don't cram.** A thing worth its own beat gets its own day
   or its own scene rather than being stacked into one crowded afternoon. *Source: "make this be the
   next day meeting."*
@@ -314,6 +325,17 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   ("lowered himself onto the bench" Ch1↔Ch2; "every wall in two lifetimes" Ch4↔Ch5) — left for a
   dedicated polish pass, flagged to the author. Bible's PENDING PAYOFFS header now carries the
   blind-seed handling rules at the point of use.
+- **2026-07-14 — skill + engine REWORK (author: "audit the skill… rework the skill and self
+  learning engine").** (a) Fixed a live self-contradiction: SKILL.md's drafting section still
+  commanded the retired 3,500 hard floor against session-lock #7 — the rulebook itself needed the
+  retro-sweep discipline. (b) Mechanized that class: new `tools/superseded.txt` (registry of
+  retired rule formulations) + `tools/doc-audit.sh` (greps ALL skill+state docs for retired rules
+  still stated as live; run after any lock/canon change). First run caught two more live strays
+  (a hard-floor line in the bible; a magic-scarcity line in geography, both now reworded). (c) OUTLINE fully rewritten
+  to the two-year map with all locks (28–30 ch, fire at Ch 27 pre-finale, Lira chapter Part III,
+  sale money mid-book with rooms crated under seal, tenants/harvest/note-payment beats, ages
+  spanning two years, Emlyn/fiancée naming). (d) Four CRAFT DIALS locked (dialogue share, scene
+  over summary, opening variety, one comic beat) — style guide section + the four rules above.
 - **2026-07-14 — feedback export (6 notes + 6 tracked changes, Prologue/Ch 1).** Gap analysis:
   two notes were engine misses. (1) The prologue "not on a boy" payoff had its setup cut in an
   earlier prologue rewrite — P4 "set up before you pay off" was drafted for within-chapter facts,

@@ -1,0 +1,33 @@
+# RETIRED RULE FORMULATIONS — doc-audit.sh greps all skill + state docs for these.
+# A hit means a superseded rule is still stated as LIVE somewhere. Lines mentioning
+# retirement/supersession and the historical logs are excluded by the audit script.
+# Add a line here EVERY time a session-lock or canon decision retires an old rule.
+# Format: one grep -i pattern per line. '#' comments.
+
+# length: the hard floor / old targets (retired by session-lock #7 and #10)
+3,500 is a hard floor
+3,500 a hard floor
+does not want short chapters
+70,000 target
+~70,000
+
+# POV: the ancient-chronicler frame (retired by session-lock #1)
+pure first-person ancient
+third-limited on Opus throughout
+
+# scarcity: magic-as-substance framing (re-locked 2026-07-13: talent is rare, not magic)
+magic is too rare
+by the thimble
+scarce magic
+world's scarcity of magic
+
+# calendar: Book One ends the FIRST winter (retired 2026-07-14: two-year span, lock #10)
+compresses toward the first winter
+through the first winter
+
+# reveals: Lira reveal at Ch 12 (moved to Part III, 2026-07-14)
+around Ch 12) that Lira
+
+# facts corrected by tracked changes
+one of the few in Ardenmoor to stand so tall
+one of the few three-storey

@@ -46,7 +46,7 @@
   "a village does not hand you its people all at once" reflection, and the parenthetical on the
   hill at the close). Full rule now in the style guide too.
   ⚠️ Ch 2's Jorin/Ren introductions still carry heavier foreshadow tags; soften them if revisited.
-- **Chapter length:** ~3,500–5,000 words, ~3,500 a hard floor (no short chapters). Ch 1
+- **Chapter length:** flexible guidance per session-lock #7 (the old hard floor is retired): most ~3,000–5,000, short chapters fine, longer when earned. Ch 1
   (~3,900) is the baseline. Supersedes the references' 2,000–3,200. Widen short drafts with
   lived scene; never close a chapter early. Chapter count / total length flex to suit.
 - **Lira — REVISED (author note, supersedes the earlier "short but friendly"):** **measured,
@@ -187,7 +187,7 @@
     year** (initial payment made, then the **first real repayment falls due after the first year**),
     which is the book's **economic clock**: he has that grace period to get **tenants into the bottoms
     farmland** and the **practice earning** so he can cash-flow the note when it comes due. The **river-
-    house sale** (completing in spring) then pays DOWN the principal. Distinct from the NEW in-story
+    house sale** (completing spring Yr 2, mid-book) then pays DOWN the principal. Distinct from the NEW in-story
     **LUMEN Series** patent (Ch 8), the seed of his fresh country income.
   - **The economic engine / the clock:** post-purchase he is **capital-constrained and carrying a
     note that comes due after the first year.** He can cash-flow it *fairly* comfortably **IF** the
@@ -195,12 +195,18 @@
     a live to-do** (not yet done; a natural mid-book beat), and the lumen/trade income matters. This is
     WHY the tower rises one careful room at a time — a real balance sheet, not thrift for its own sake.
     Only after the land is made to pay does it "turn a tidy sum."
-  - **Grief ↔ money entangled (deferred completion):** Emlyn AGREES to sell the river house but cannot
-    yet face clearing it; the **sale is arranged/closing across Book One, the emotional clearing
-    deferred to spring.** So her rooms/effects stay untouched THROUGH Book One even as the sale is set
-    in motion. The **spring completion** = the finale/Book-Two hook (Arielle's mother's letter: "come
-    in spring and bring whatever of her still lives in your keeping"; the journey to the city, the
-    third spellbook). Letting go of the river house = beginning to let go of her.
+  - **Grief ↔ money entangled — RESOLVED SHAPE (author 2026-07-14: "money mid-book, rooms sealed"):**
+    the river-house sale **COMPLETES in spring of Year 2 (~Ch 12 of the remapped outline): the money
+    lands MID-BOOK and goes straight at the loan principal** (a real economics beat; it is why the
+    first note payment is survivable). But Emlyn still cannot face her rooms: **her things are crated
+    UNSORTED under Penworth's seal and stored** (storage location [OPEN] — Penworth's keeping in
+    Vethmark is the default; the future Wainford warehouse is an option). On the page: he signs where
+    the flags are; he does not read the inventory. **The emotional clearing defers to Book Two**
+    (spring Yr 3: the crates unsealed, the city, the mother, the third spellbook; her mother's letter
+    "come in spring… bring whatever of her still lives in your keeping" still the hook). ⚠️
+    Unsigned-hand nuance: her rooms sat UNGUARDED for three years BEFORE the crating — that window is
+    when the trained hand could have been close to her pages (Cecily beat, now Ch 27 aftermath).
+    Letting go of the river house = beginning to let go of her.
   - **Aging ↔ family:** the talent-slowed aging (soft rule) now does concrete work — it is **why his
     parents have passed while he still looks relatively young.** Mechanism stays offstage; the bare
     FACT (young-looking man, parents gone) may sit on the page as a quiet oddity.
@@ -744,10 +750,13 @@ if it needs a new one, add it here.
   "Good" is intact and is the point: he KNEW stone worked and cheaped out anyway). **The hill's pushback
   is AMBIGUOUS BAD LUCK** — reads at the time as ordinary misfortune, deniable, never overt malice
   (seeded Ch 9: **Snow never settles in the wood barn, shifting/blowing at the hill's two hours** —
-  laid to a green building + a draught he never finds, closed with a joke about the mare's opinions (blind seed, NO narrator moral)). **PENDING PAYOFF (timing TBD — author said "decide later"):** the wood buildings
-  eventually **BURN** (apparent accident — a lamp, a dry season, lightning; hindsight makes it the hill),
-  forcing a **rebuild in STONE** and earning "on this hill, only stone endures." **KEEP THE HILL
-  BENEVOLENT:** this is a DIFFERENT axis from Cael's-father's-masonry (which Emlyn solved by *asking*) —
+  laid to a green building + a draught he never finds, closed with a joke about the mare's opinions (blind seed, NO narrator moral)). **PENDING PAYOFF — TIMING + PLACEMENT SET (author, 2026-07-14): the fire is Ch 27 of the
+  remapped outline, TWO CHAPTERS BEFORE the finale** (early winter Yr 2, pre-solstice; the letter is
+  Ch 28, the needle Ch 29). The wood buildings **BURN**
+  (apparent accident — a lamp, a dry season, lightning; hindsight makes it the hill), forcing a
+  **rebuild in STONE** that becomes early Book Two's work. ⚠️ STAGING CARE: the fire must not upstage
+  or muddy the Ch 27–28 letter → chest → compass sequence — place it so grief/twist beats keep their
+  own air (likely just before the final movement). **KEEP THE HILL BENEVOLENT:** this is a DIFFERENT axis from Cael's-father's-masonry (which Emlyn solved by *asking*) —
   wood simply doesn't endure here / burns by ill luck; it is NOT the hill attacking him. Do NOT stage the
   fire or foreclose it until the author sets the timing; keep seeds light and deniable.
 
@@ -788,7 +797,7 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   magic and never has been. **The scarcity is PEOPLE: the born talent to work magic is what's rare.**
   The talent is born, not made; the Academy sharpens it where it appears but cannot create it. Never
   render magic as a commodity that "runs low" or must be hoarded; every scarcity consequence below
-  flows from too few PRACTITIONERS (and their finite time/attention), not from scarce magic-stuff.
+  flows from too few PRACTITIONERS (and their finite time/attention), never from any shortage of magic itself.
   Wizards/practitioners are UNCOMMON in this world, and getting rarer. **Major talents (like Emlyn) are VERY rare** — a genuine marvel;
   a country village may never have met one (fits the wary "You'll be the wizard, then" and "is it true
   you're a wizard, what can you do" beats). **Minor talents (like Penworth) are uncommon and
@@ -987,7 +996,7 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 | Ren's talent | Opus; Jorin (sensed it); Ren (after his assessment) |
 | The compass exists | Opus only |
 | The three correspondents / incomplete papers | Opus; Penworth; Cecily (offstage) |
-| Lira reports to the Conclave | Lira; the reader (revealed Ch 12); NOT Opus until later |
+| Lira reports to the Conclave | Lira; the reader (reveal MOVED to Part III, author 2026-07-14; was outline Ch 12); NOT Opus until later |
 
 ---
 
@@ -1009,9 +1018,10 @@ default. Each chapter's pre-draft brief names which of these it touches and whic
 - **WOOD-FIRST outbuildings → BURN → STONE rebuild (seeded Ch 9; author 2026-07-13):** the timber
   **barn** + timber **guest cabin**, built cheap/fast against the note. Seeds: Snow's unease in the
   wood barn at the hill's two hours (dusk + the small cold hours), dismissed as her being spoiled. →
-  the buildings eventually **BURN** (ambiguous accident) → **rebuild in stone** ("only stone endures
-  on this hill"). **Timing TBD (author: "decide later")** — do NOT stage or foreclose the fire yet;
-  keep seeds light. Hill stays benevolent (different axis from Cael's-father's masonry). Nice latent
+  the buildings **BURN in Ch 27** (early winter Yr 2, pre-solstice; ambiguous accident; THE VILLAGE
+  RALLIES up the hill — belonging proven in ash; he winters back in the STUDY, beside the cellar and
+  the chest for the finale; Cecily's letter lands in the aftermath) → **rebuild in stone** opens Book Two ("only stone endures on this hill"). Timing locked 2026-07-14; keep seeds
+  light until then, and stage the fire clear of the letter/chest/compass finale beats. Hill stays benevolent (different axis from Cael's-father's masonry). Nice latent
   irony already on the page: Ch 8's lumen "could not catch a barn afire."
 - Thesis foreshadowed in Emlyn's thought "never once been asked" (Ch 2) → surveyor's marginal
   note found at the first working → earned at the climax.

@@ -115,6 +115,18 @@ predate some of them; where a reference says otherwise, THIS list wins.
    them. No comma splices. A deliberate long cumulative sentence is allowed occasionally, for
    rhythm, but it is the exception now, not the reflex. (Codified in the style guide's "Run-ons"
    rule and the feedback engine.)
+10. **Book shape — FULL ~28 chapters, SLOW THE CLOCK (2026-07-14):** Book One runs the full
+   ~28-chapter shape (+4 interludes), roughly 90–100k words; the older ~70k figure is retired.
+   The calendar reached spring of Year 2 by Ch 9, so from here the clock SLOWS: Year 2 breathes —
+   slice-of-life, village seasons, the practice growing, the tenants' first harvest, relationships
+   deepening — rather than racing to the finale. Do not compress a season again without cause.
+11. **PRE-CHAPTER AUTHOR FORKS (2026-07-14 — the author steers every chapter):** before drafting
+   each chapter, AFTER the plan + pre-draft brief, put **2–3 sharp story forks to the author** via
+   the question tool: choices that genuinely change the draft (whose scene, which beat leads, a
+   reveal's timing, a relationship's temperature). Rules: options must be real alternatives, not a
+   recommendation with decoys; fold the answers into the plan; log them in the chapter's
+   manuscript-log entry (and the bible when they set canon). If the author is unavailable mid-run,
+   note the assumption taken and proceed on the outline's default rather than blocking the chapter.
 
 ## AUTHOR FEEDBACK IS DURABLE (how this skill keeps learning)
 
@@ -130,7 +142,11 @@ the author gives feedback, a preference, or a correction:
    - Canon, ages, timeline, geography → the story bible (+ its **Numbers Ledger** / `state/geography.md`).
    - Structure / process (chapter length, POV, how to introduce characters, pacing) → **SESSION-LOCKED DECISIONS**.
 3. If a new preference conflicts with an older recorded one, **the newer wins**: update the old
-   entry in place (don't leave both), and note that it supersedes the earlier one.
+   entry in place (don't leave both), and note that it supersedes the earlier one. **Then run doc
+   hygiene:** add the OLD rule's telltale formulation to `tools/superseded.txt` and run
+   `tools/doc-audit.sh` — it greps every skill and state doc for retired rules still stated as
+   live and fails on hits. (This exists because a superseded rule once survived in SKILL.md's own
+   drafting section, contradicting the lock list above it.)
 4. When you apply a note, say briefly (in chat) where you recorded it, so the author knows it will stick.
 5. **Feed the feedback engine.** Distill the note to its *general rule* (the class of problem, not
    the one line) and add or merge it into `references/feedback-engine.md` so future drafts self-catch
@@ -218,10 +234,11 @@ When asked to write chapter N:
   question the chapter brushes that must not be foreclosed; and which signature tics the previous
   chapter leaned on, so this one varies them (the lint's adjacent-echo check is the backstop).
 
-**Then draft the prose.** Target **~3,500–5,000 words** (session-locked decision #7; ~3,500 is
-a hard floor — the author does not want short chapters). Let the material set the length within
-that band; a fuller day can run to 5,000. Don't pad to a number, but if a chapter is coming in
-short, widen it with lived scene rather than closing early or cutting a living beat. The common shape (anchor → encounter or work → turn → settle) is
+**Then draft the prose.** Length follows session-lock #7 (flexible: most chapters ~3,000–5,000,
+short chapters ~1,500–2,500 welcome when that is their natural size, longer when earned; never pad,
+never bloat). Draft to the four CRAFT DIALS (style guide, locked 2026-07-14): play the load-bearing
+beats as REAL-TIME SCENE with a high dialogue share (summary only bridges); vary the chapter
+opening (not another weather/season/state-of-me start); land at least one genuine comic beat. The common shape (anchor → encounter or work → turn → settle) is
 a tendency, not a mold; a chapter may be a walk, a conversation, or a long noticing, and the
 narrator's attention can override the shape when it has reason to. End on an image or a single
 line of dialogue — never a question to the reader, never a cliffhanger (except Ch 28, which ends

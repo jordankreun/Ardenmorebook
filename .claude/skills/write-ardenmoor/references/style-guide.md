@@ -130,3 +130,26 @@ The kettle (domestic time; interruption and welcome). Frost and its lifting (tha
 ## LEXICON (use these terms exactly)
 
 **The LUMEN** — the original lamp in the Study, drinking hill-song. **LUMEN Series** — the sellable line drinking ambient light; three layers (photonic architecture, sensitivity lattice, binding) set into crystalline blanks, then housed in Tomas's metal fittings. **Deep Grammar** — Opus's recording program; **blanks** are the crystalline recorders; readings are done palm-to-crystal. **Reshaping ward** — excavation/leveling working. **The Singer / the Listener** — the grandmother's names for hill and oak. **Keeper plant** — her thirty-year charge. **Planewright** — Opus's discipline; **the Planewright's Compass** — his hidden instrument that finds existing potential planes. **The Conclave** — the distant magical authority; **Drace** — its interested official. **Sensitized paper**, **resonance fork**, **the hum**, **the pulses** (dusk and predawn). Spelling: **Ren** (or "Wren" if the author prefers — choose once, hold throughout).
+
+---
+
+## SCENE CRAFT DIALS (locked 2026-07-14 — the author's four standing pushes; write toward these from the first line)
+
+1. **More dialogue.** The book's most alive passages are its talkiest (Cael at the inn, Jorin's
+   "Good"). Let load-bearing exchanges PLAY OUT IN VOICES: negotiations, confessions, teases,
+   bargains happen as talk on the page, not as the narrator's recounting of talk. Every chapter
+   wants at least one or two sustained dialogue scenes. NPC speech rules still govern every line.
+2. **Scene over summary.** Montage/summary is a BRIDGE between beats, never the beat itself. If a
+   chapter's turn, deal, discovery, or first-meeting happens inside a summarizing paragraph, stop
+   and dramatize it in real time. (The montage habit is the identified drift: several early
+   chapters compress lived scenes into recounted report.)
+3. **Vary the openings.** The default open (weather/season/state-of-me) has become a pattern.
+   Rotate deliberately: open mid-dialogue, mid-task, on another person arriving, on an object, in
+   a room the reader hasn't seen. Check the previous chapter's opening before drafting (pre-draft
+   brief item).
+4. **More humor.** Wry asides alone don't carry the Mancour warmth. Aim for at least one genuine
+   comic beat per chapter: a running bit (Snow's grudges, Penworth's letters, the village's
+   standing opinions), a deadpan exchange, a small domestic absurdity. Humor is a craft beat, not
+   a garnish; it earns the quiet moments. Running bits MAY recur across chapters (they are
+   callbacks, not echoes — note deliberate ones in the phrase registry's comments, don't register
+   them as one-use).

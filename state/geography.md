@@ -238,7 +238,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   yard, sidings, grain stores, stockyards, warehouses, factors, carters, drovers. On a **river** (the
   crossing the name marks — supports the possible future barge service). This is the **"last
   station"** Emlyn detrained at (Ch 1) before the 4-day ride. **TECH:** **early, crude steam** (the
-  railway is "barely arcane" — brute iron/fire/water, almost no magic, since magic is too rare to feed
+  railway is "barely arcane" — brute iron/fire/water, almost no magic, since working talents are too few to feed
   a machine that big; steam hoists/mills at the goods yard) with a **small amount of artifice** (a few
   enchanted devices; where minor artifice can be had or serviced; a market for Emlyn's lumens). Proper name **Wainford** (locked
   unless the author renames; alternates offered: Draymere, Marchford). [PAGE ch1 (as "the last

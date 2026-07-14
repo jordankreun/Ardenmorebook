@@ -8,7 +8,7 @@
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
 - Drafted: Prologue + Chapters 1–9 + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
-- Word count so far: ~33,700 / ~70,000 target.
+- Word count so far: ~36,800 / ~90,000–100,000 target (full 28-chapter shape, session-lock #10).
 - **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8–9 are Part II (winter → spring, Year 2).
 - **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
   like real novels; short chapters ~1,500–2,500 fine, some longer). Ch 9 is a deliberately shorter
@@ -20,7 +20,15 @@
 - **⏱ CALENDAR NOTE:** the manuscript compressed the seasons: arrival spring Yr1 → Study summer's end
   → lumen/Wednesdays autumn → lamp business edge of winter → **Ch 9 = the first winter passes, THAW into
   spring Yr2.** The **loan grace year is nearly up** (note comes due this year), which drives Ch 9's
-  tenants. Book One still ends in the first winter arc / spring; season moves faster than the 28-ch plan.
+  tenants. SUPERSEDED 2026-07-14: Book One now runs the FULL ~28-chapter shape and the clock SLOWS from Ch 10 (Year 2 breathes; session-lock #10); the outline's calendar needs re-mapping to the two-year span.
+- **AUTHOR DIRECTION LOCKED (2026-07-14, via story-fork Q&A):** (a) **Book One = full ~28 chapters,
+  slow the clock** (session-lock #10); (b) **Ch 10–12 lean into the UNDERCURRENT via Brenna**;
+  (c) **whole-book READ-THROUGH pass comes BEFORE drafting Ch 10** (cold front-to-back read, prioritized
+  findings list to the author); (d) **pre-chapter author forks are now standing process** (session-lock
+  #11); (e) **the wood-buildings FIRE lands at the END of Book One** (bible updated); (f) **Lira reveal
+  moved to Part III** (was outline Ch 12); (g) **Ch 10 candor level: PARTIAL** — Emlyn owns to interest,
+  asks real questions, keeps the hum itself private (Brenna may sense the held-back thing);
+  (h) name slates for Commonwealth/capital/academy proposed to the author (pending pick).
 - Next to write: **Chapter 10 area is open.** The **outline's "The Listener and the Singer"** (Brenna's
   grandmother's notebooks: the Singer/hill sings not TO the Listener/oak but to "something not yet
   arrived"; the **keeper plant** introduced) is still unwritten and a strong next beat — Emlyn wasn't
@@ -682,6 +690,22 @@ Engine: intake protocol run — "had had"/"that that" now a lint check; P4 setup
 (revision-orphaned dependents; canon changes sweep the book); gap logged (townhouse mismatch was a
 missed retro-sweep on the 07-12 modest-house retcon). prose-lint: prologue clean; Ch 1 which-tails
 DOWN 9→8 ("which is fair" removed); no new flags.
+
+SKILL + ENGINE REWORK & OUTLINE OVERHAUL (2026-07-14 — author: "audit the skill… rework the skill
+and self-learning engine… critical pass on outline"): (1) AUDIT found SKILL.md's drafting section
+still commanding the retired hard floor (fixed), plus live strays the new doc-audit caught in the
+bible and geography. (2) SELF-LEARNING MECHANIZED for the rulebook itself: tools/superseded.txt
+(registry of retired rule formulations, grown on every supersession) + tools/doc-audit.sh (greps
+all skill+state docs; run after any lock/canon change) — now part of the durable-feedback protocol.
+(3) OUTLINE FULLY REWRITTEN to the TWO-YEAR map (author answers): Parts II–IV re-seasoned onto Year
+2; ~29-chapter shape; Ch 1–9 marked drafted; SALE = money mid-book (~Ch 12), her things crated under
+Penworth's seal, clearing deferred to Book Two; FIRE = Ch 27, two before the finale (village
+rallies; winters back in the Study beside the chest; Cecily's letter in the aftermath; stone rebuild
+= Book Two); LIRA chapter = Ch 18 (Part III); tenants/harvest/note-payment beats added; ages span
+two years (Soren 9→11, Ren 16→18); Emlyn/fiancée naming corrected. (4) CRAFT DIALS locked (author
+picked all four): more dialogue, scene over summary, varied openings, one comic beat per chapter —
+style-guide SCENE CRAFT DIALS section + four new engine rules + SKILL.md drafting step. Name slates
+for Commonwealth/capital/academy delivered to the author (pick pending).
 
 ## PART BOUNDARIES (insert interludes here when reached)
 
