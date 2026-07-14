@@ -1003,6 +1003,19 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 
 ---
 
+- **CH 10 — THE LISTENER & THE SINGER (state established):** (a) **Brenna↔Emlyn now PARTNERSHIP-leaning**
+  (courtesy tipped; she trusts him with her grandmother's memory). (b) **NOTEBOOKS LENT ONE VOLUME AT A
+  TIME** (Brenna's rule; a running device through the undercurrent arc — do NOT let Emlyn read ahead or
+  possess the whole set). (c) **KEEPER PLANT: Emlyn has SEEN it** (Brenna's cellar; 3 new leaves since
+  "the week you took the hill"); he privately senses it "points" like the oak toward the unheard thing
+  but KEEPS THE HUM PRIVATE (partial candor holds — he has still told no one he lies awake listening).
+  (d) **SINGER = hill, LISTENER = oak** now NAMED ON-PAGE (the grandmother's terms); her early-book line
+  "it is not for me… the tree is only holding it. Passing it on." (e) The theory's SPINE ("the Singer
+  sings to something NOT YET ARRIVED") is deliberately BURIED in later volumes — NOT yet reached; save
+  it. (f) **soldier's-heart** (Ch 6 cutting) flowered midwinter on Emlyn's north sill (dark red,
+  fist-shaped, held 3 weeks) — the spur that sent him down; a warmth/callback beat. (g) Two-grandmothers
+  question UNTOUCHED and still OPEN.
+
 ## PENDING PAYOFFS (seed → target chapter)
 
 **⚠️ These are BLIND SEEDS — handling rules (engine P1, 2026-07-13):** on the page every seed is
@@ -1084,7 +1097,7 @@ default. Each chapter's pre-draft brief names which of these it touches and whic
 - The sticking drawer / callipers (seed Ch 15) → opens when the letter is read (Ch 27).
 - The unsigned correspondent (seed Ch 14) → handwriting-in-his-notation reveal (Ch 26).
 - Lira's letters (seed/reader Ch 12) → tenor changes after the road (Ch 24, optional confession).
-- The keeper plant's three leaves (seed Ch 9) → turns toward the hill in the greenhouse (Ch 24).
+- The keeper plant's three leaves (LANDED ON-PAGE Ch 10: Emlyn sees them in Brenna's cellar; started 'the week you took the hill') → turns toward the hill in the greenhouse (Ch 24/25). Do NOT re-introduce them as new later.
 - The predawn pulse becoming "almost a word" (seed Ch 14/20) → nearly resolves at the chest (Ch 28).
 - Nerys (Penworth's daughter; seeded for Book Two; renamed from "Mira") → arrives Book Two.
 

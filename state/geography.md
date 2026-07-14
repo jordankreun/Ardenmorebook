@@ -315,7 +315,16 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 ---
 
+- **BRENNA'S COTTAGE INTERIOR (PAGE ch10)** — low stone cottage at the far end of the lane by the
+  birches, on the beck (audible from the doorstone), drying-green in the front window, herb-shop
+  smell. Inside: a **shop room giving onto a low dark warm kitchen that IS the house** (banked fire,
+  ceiling-high ordered shelves = the grandmother's order, Brenna's jars); a low beam that brains
+  tall men; a **cold dry CELLAR** cut under the kitchen (roots/winter store; the KEEPER PLANT lives
+  here in a glazed crock in the far corner). The **grandmother's notebooks** live in a cedar chest by
+  the kitchen fire (40 years' worth; lent one volume at a time). [PAGE ch10]
+
 ## CHANGE LOG
+- **ch10** — Interior of **Brenna's cottage** established (shop→kitchen→cold cellar); the **keeper plant** SEEN in the cellar (glazed crock, far corner, 3 new leaves); the grandmother's **notebooks** in a cedar chest by the fire. Emlyn rides DOWN and back (Snow dislikes the new barn). No new outdoor geography; the oak/hill directionality is consistent (plant 'pointed away' like the oak).
 
 - **ch1** — Established: village of Ardenmoor on the beck; the inn (Lira), smithy (Tomas, top of
   street), Brenna's cottage; the approach oak at the view-bend; hill is N & a little E of the

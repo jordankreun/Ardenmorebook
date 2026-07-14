@@ -7,8 +7,8 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–9 + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
-- Word count so far: ~36,800 / ~90,000–100,000 target (full 28-chapter shape, session-lock #10).
+- Drafted: Prologue + Chapters 1–**10** + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
+- Word count so far: ~40,900 / ~90,000–100,000 target (full ~28-chapter shape, session-lock #10).
 - **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8–9 are Part II (winter → spring, Year 2).
 - **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
   like real novels; short chapters ~1,500–2,500 fine, some longer). Ch 9 is a deliberately shorter
@@ -733,6 +733,22 @@ verification of ALL findings (the 18 applied were self-verified, not fleet-verif
 round pending verification: prologue echo/purple/plural-grounding; Ch2 explained-silence (Lira) +
 Cael-clarity; Ch3 dramatize-quarryman-dialogue + Soren-name-bind; Ch4 dramatize-rain-rumor +
 oak-echo; Ch5 "boy's two words" callback (flagged high/canon — check the referent exists).
+
+[10] The Listener and the Singer — Late spring Yr2. Emlyn finally goes DOWN to Brenna's cottage
+(first villager's home the book enters) to read her grandmother's notebooks, spurred by the
+soldier's-heart flowering in deep winter on his sill. Brenna takes him to the cold CELLAR and shows
+him the KEEPER PLANT; he sees the THREE NEW LEAVES (delivered as her flat report; started "the week
+you took the hill") and privately clocks that it is "pointed" like the oak, toward something he
+cannot hear, but keeps the hum itself private (PARTIAL CANDOR: "I notice plants" = "a lie of
+omission the size of a hill"). She lends the notebooks ONE VOLUME AT A TIME ("you can't hear a whole
+person at once" - Soren); he reads the first, slow, in which the grandmother names the SINGER (hill)
+and LISTENER (oak) and writes "it is not for me… the tree is only holding it. Passing it on" - the
+theory's SPINE ("sings to something not yet arrived") stays BURIED for later volumes. Braid: a Soren
+beat on the walk back. CLOSING IMAGE: the first brown notebook set closed by the lumen, unopened,
+the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on Emlyn's north sill
+(dark red, fist-shaped, 3 weeks); Brenna's cottage interior + cold cellar established; keeper plant
+SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
+device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open).
 
 ## PART BOUNDARIES (insert interludes here when reached)
 
