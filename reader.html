@@ -125,6 +125,15 @@
   .composer.edit button.primary{background:var(--edit);border-color:var(--edit)}
   .composer .hint{font-size:.74rem;color:var(--muted);margin:.4rem 0 0;text-indent:0}
 
+  /* ---------- inline (in-flow) editing: the paragraph is edited in place ---------- */
+  p.editingP{background:var(--editbg);outline:2px solid var(--edit);outline-offset:6px;border-radius:4px;
+    text-align:left;hyphens:none;caret-color:var(--edit);white-space:pre-wrap}
+  .inlineCard{animation:riseIn .16s ease}
+  @keyframes riseIn{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+  .inlineBar{padding:.5rem .6rem}
+  .inlineBar .row{margin-top:0}
+  .inlineBar .hint{margin:.35rem 0 0}
+
   /* ---------- bottom-sheet editor overlay ---------- */
   #sheetWrap{position:fixed;inset:0;z-index:85;pointer-events:none}
   #sheetWrap.open{pointer-events:auto}
@@ -609,52 +618,104 @@
     sheetEl.style.bottom=""; sheetEl.style.maxHeight="";
     setTimeout(function(){ if(!sheetWrap.classList.contains("open")) sheetEl.innerHTML=""; },300);
   }
-  function closeComposers(){ closeSheet(); } // kept as a name; content now lives in the sheet
   sheetScrim.addEventListener("click", closeSheet);
 
-  /* ---------- composer (same data logic; presented in the bottom sheet) ---------- */
-  function ctxOf(p){ var t=(p.dataset.text||"").replace(/\s+/g," ").trim(); return (p.dataset.chap||"")+" · “"+t.slice(0,42)+(t.length>42?"…":"")+"”"; }
+  /* ---------- inline widgets: editing happens IN the page, never over it ----------
+     The old bottom sheet covered the book with a scrim and showed the paragraph in a
+     detached textarea, so every edit meant losing your place and re-finding the line.
+     Now: "Edit" turns the paragraph itself editable in place (your selected phrase
+     stays selected, ready to retype); "Note" opens a small card directly beneath the
+     paragraph. Nothing overlays the text and the scroll position is preserved. */
+  var inlineWidget=null, editingP=null;
+  function placeAfter(p, el){ p.parentNode.insertBefore(el, p.nextSibling); }
+  function redecorateStable(p){ // re-render without the page appearing to move
+    var top=p.getBoundingClientRect().top;
+    decorate();
+    window.scrollBy(0, p.getBoundingClientRect().top-top);
+  }
+  function closeInline(){
+    if(inlineWidget&&inlineWidget.parentNode) inlineWidget.parentNode.removeChild(inlineWidget);
+    inlineWidget=null;
+    if(editingP){
+      var p=editingP; editingP=null;
+      p.contentEditable="false"; p.classList.remove("editingP");
+      redecorateStable(p);
+    }
+  }
+  function closeComposers(){ closeInline(); closeSheet(); }
+
+  /* ---------- note composer (same data logic; now an in-flow card under the paragraph) ---------- */
   function openComposer(p, quote){
     closeComposers();
     var chap=p.dataset.chap, s=p.dataset.snip, existing=findNote(chap,s);
     var q=(existing&&existing.quote)||quote||"";
-    var box=document.createElement("div"); box.className="composer";
+    var box=document.createElement("div"); box.className="composer inlineCard";
     box.innerHTML=(q?("<p class=\"quote\">"+esc(q.length>220?q.slice(0,220)+"…":q)+"</p>"):"")+
       "<textarea placeholder=\"Your note or feedback about this passage…\"></textarea>"+
       "<div class=\"row\"><button class=\"primary save\">Save note</button><button class=\"cancel\">Cancel</button>"+
       (existing?"<button class=\"del\">Delete</button>":"")+"</div>";
-    openSheet(ctxOf(p), box);
-    var ta=box.querySelector("textarea"); ta.value=existing?existing.text:""; ta.focus();
+    placeAfter(p, box); inlineWidget=box;
+    var ta=box.querySelector("textarea"); ta.value=existing?existing.text:"";
+    box.scrollIntoView({block:"nearest"}); ta.focus();
     box.querySelector(".save").addEventListener("click", function(){
       var v=ta.value.trim(); if(!v){ toast("Nothing to save"); return; }
-      upsertNote(chap,s,q,v); decorate(); buildNotesList(); closeSheet(); toast("Note saved");
+      if(box.parentNode) box.parentNode.removeChild(box); inlineWidget=null;
+      upsertNote(chap,s,q,v); redecorateStable(p); buildNotesList(); toast("Note saved");
     });
-    box.querySelector(".cancel").addEventListener("click", closeSheet);
+    box.querySelector(".cancel").addEventListener("click", closeInline);
     var del=box.querySelector(".del");
-    if(del) del.addEventListener("click", function(){ deleteNote(chap,s); decorate(); buildNotesList(); closeSheet(); toast("Note deleted"); });
+    if(del) del.addEventListener("click", function(){
+      if(box.parentNode) box.parentNode.removeChild(box); inlineWidget=null;
+      deleteNote(chap,s); redecorateStable(p); buildNotesList(); toast("Note deleted");
+    });
   }
 
-  /* ---------- track-changes editor (unchanged logic) ---------- */
-  function openEditor(p){
+  /* ---------- track-changes editor (same data logic; the paragraph edits in place) ---------- */
+  function openEditor(p, seedQuote){
     closeComposers();
     var chap=p.dataset.chap, s=p.dataset.snip, orig=p.dataset.text||"", existing=findRev(chap,s);
-    var box=document.createElement("div"); box.className="composer edit";
-    box.innerHTML="<p class=\"quote\">Rewrite this paragraph as you want it to read. To cut the passage entirely, clear the box and save.</p>"+
-      "<textarea spellcheck=\"true\"></textarea>"+
-      "<p class=\"hint\">Saved as a tracked change; the original stays until you or I apply it.</p>"+
-      "<div class=\"row\"><button class=\"primary save\">Save revision</button><button class=\"cancel\">Cancel</button>"+
-      (existing?"<button class=\"del\">Revert</button>":"")+"</div>";
-    openSheet(ctxOf(p), box);
-    var ta=box.querySelector("textarea"); ta.value=existing?existing.revised:orig; ta.focus();
-    box.querySelector(".save").addEventListener("click", function(){
-      var v=ta.value.replace(/\s+$/,"");
-      if(v.trim()===orig.trim()){ if(existing){ deleteRev(chap,s); decorate(); buildEditsList(); } closeSheet(); toast("No change from the original"); return; }
-      upsertRev(chap,s,orig,v); decorate(); buildEditsList(); closeSheet();
+    var raw=existing?(existing.revised||""):orig;
+    editingP=p;
+    p.classList.remove("hasNote","hasEdit","isDeleted");
+    p.classList.add("editingP");
+    p.textContent=raw;
+    p.contentEditable="true"; p.spellcheck=true;
+    var bar=document.createElement("div"); bar.className="composer edit inlineBar inlineCard";
+    bar.contentEditable="false";
+    bar.innerHTML="<div class=\"row\"><button class=\"primary save\">Save revision</button><button class=\"cancel\">Cancel</button>"+
+      (existing?"<button class=\"del\">Revert</button>":"")+"</div>"+
+      "<p class=\"hint\">Edit the paragraph right where it sits; clear it out to cut the passage. Saved as a tracked change.</p>";
+    placeAfter(p, bar); inlineWidget=bar;
+    // Put the caret exactly where the reader was: re-select the phrase they chose.
+    try{
+      var node=p.firstChild, sel=window.getSelection(), r=document.createRange();
+      if(node){
+        var idx=(seedQuote&&seedQuote.length>2)?raw.indexOf(seedQuote):-1;
+        if(idx>=0){ r.setStart(node,idx); r.setEnd(node,idx+seedQuote.length); }
+        else { r.setStart(node,0); r.collapse(true); }
+        sel.removeAllRanges(); sel.addRange(r);
+      }
+    }catch(e){}
+    p.focus();
+    function teardown(){ if(bar.parentNode) bar.parentNode.removeChild(bar); inlineWidget=null; editingP=null; p.contentEditable="false"; p.classList.remove("editingP"); }
+    function save(){
+      var v=p.innerText.replace(/\s+$/,"");
+      teardown();
+      if(v.trim()===orig.trim()){
+        if(existing){ deleteRev(chap,s); buildEditsList(); }
+        redecorateStable(p); toast("No change from the original"); return;
+      }
+      upsertRev(chap,s,orig,v); redecorateStable(p); buildEditsList();
       toast(v.trim()?"Revision saved":"Marked for deletion");
+    }
+    bar.querySelector(".save").addEventListener("click", save);
+    bar.querySelector(".cancel").addEventListener("click", closeInline);
+    var del=bar.querySelector(".del");
+    if(del) del.addEventListener("click", function(){ teardown(); deleteRev(chap,s); redecorateStable(p); buildEditsList(); toast("Reverted to original"); });
+    p.addEventListener("keydown", function(e){
+      if((e.metaKey||e.ctrlKey)&&e.key==="Enter"){ e.preventDefault(); save(); }
+      else if(e.key==="Escape"){ e.preventDefault(); closeInline(); }
     });
-    box.querySelector(".cancel").addEventListener("click", closeSheet);
-    var del=box.querySelector(".del");
-    if(del) del.addEventListener("click", function(){ deleteRev(chap,s); decorate(); buildEditsList(); closeSheet(); toast("Reverted to original"); });
   }
 
   /* ---------- selection -> floating toolbar (review mode only) ---------- */
@@ -687,7 +748,7 @@
   document.getElementById("btnAddEdit").innerHTML=svg("pen")+"<span>Edit</span>";
   document.getElementById("btnAddBookmark").innerHTML=svg("bookmark")+"<span>Mark</span>";
   document.getElementById("btnAddNote").addEventListener("click", function(){ var c=consumeSel(); if(c.p) openComposer(c.p, c.q); });
-  document.getElementById("btnAddEdit").addEventListener("click", function(){ var c=consumeSel(); if(c.p) openEditor(c.p); });
+  document.getElementById("btnAddEdit").addEventListener("click", function(){ var c=consumeSel(); if(c.p) openEditor(c.p, c.q); });
   document.getElementById("btnAddBookmark").addEventListener("click", function(){ var c=consumeSel(); if(c.p){ var pos=posOfParagraph(c.p); savePos(KEY_BOOKMARK,pos); if(SYNC.pushBookmark) SYNC.pushBookmark(pos); buildBookmarkRow(); toast("Bookmarked this passage"); } });
 
   /* ---------- export (byte-for-byte identical output) ---------- */
@@ -967,6 +1028,7 @@
   function gotoChapter(i){ if(i<0||i>=chapters.length) return; closeAll(); chapters[i].el.scrollIntoView({block:"start"}); }
   document.addEventListener("keydown", function(e){
     var t=e.target;
+    if(e.key==="Escape" && (editingP||inlineWidget)){ closeInline(); return; }
     if(e.key==="Escape" && sheetWrap.classList.contains("open")){ if(t&&t.blur) t.blur(); closeSheet(); return; }
     if(t&&(t.tagName==="TEXTAREA"||t.tagName==="INPUT"||t.isContentEditable)){ if(e.key==="Escape") t.blur(); return; }
     if(e.key==="Escape"){ closeAll(); return; }
@@ -1131,13 +1193,14 @@
       for(var k=start;k<ps.length;k++){ var p=ps[k], sents=splitSentences(p.dataset.text||""); for(var s=0;s<sents.length;s++){ if(sents[s].trim()) queue.push({p:p,sents:sents,si:s}); } }
     }
     function paint(item){
+      if(typeof editingP!=="undefined"&&editingP){ return; } // never repaint while a paragraph is being edited in place
       if(curP&&curP!==item.p) curP.innerHTML=inline(curP.dataset.text||"");
       curP=item.p; var html="";
       for(var i=0;i<item.sents.length;i++){ html += (i===item.si)?('<span class="tts-on">'+inline(item.sents[i])+'</span>'):inline(item.sents[i]); }
       item.p.innerHTML=html;
       var r=item.p.getBoundingClientRect(); if(r.top<62||r.bottom>window.innerHeight-24) item.p.scrollIntoView({block:"center"});
     }
-    function clearPaint(){ if(curP){ curP.innerHTML=inline(curP.dataset.text||""); curP=null; } }
+    function clearPaint(){ if(curP){ if(!(typeof editingP!=="undefined"&&curP===editingP)) curP.innerHTML=inline(curP.dataset.text||""); curP=null; } }
     function speakNext(){
       if(!playing) return;
       if(qi>=queue.length){ stop(); return; }
