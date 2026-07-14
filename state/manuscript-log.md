@@ -707,6 +707,14 @@ picked all four): more dialogue, scene over summary, varied openings, one comic 
 style-guide SCENE CRAFT DIALS section + four new engine rules + SKILL.md drafting step. Name slates
 for Commonwealth/capital/academy delivered to the author (pick pending).
 
+NAMING LOCK (2026-07-14 — the author): the continent's single institution of magic is **THE
+CONCLAVE** — everyday shorthand "the Conclave," **formal long name "the Conclave of the Arts
+Arcane"** (documents, seals, letters). It is SCHOOL AND GOVERNING BODY IN ONE, seated in Vethmark;
+the separate "Academy" is MERGED into it and retired (superseded.txt grown; doc-audit clean).
+On-page: Ch 1's "The Academy sharpens it" → "The Conclave sharpens it." Emlyn trained and published
+at the Conclave; Drace is its official; Lira's letters go to its contact. Remaining [OPEN] names:
+the Commonwealth + its capital only.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.

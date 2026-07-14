@@ -224,11 +224,11 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   4 days' ride; see travel below); a **major city of commerce and industry and a regional seat of
   power** (a principal city of the Commonwealth, a regional/provincial or city-state seat, the
   **banking/credit** seat, **on the RAILWAY network**). Its size comes from **commerce/industry, NOT
-  magic.** It ALSO hosts the continent's single **small Academy of magic** (where Emlyn trained and
+  magic.** It ALSO hosts **THE CONCLAVE** (formally **the Conclave of the Arts Arcane**; school + governing body in one, where Emlyn trained and
   published) and the **seat of the CONCLAVE** (the small governing body of magic; Drace, the
-  "interested office," Lira's letters run here) — the academy located here **because Vethmark is a
+  "interested office," Lira's letters run here) — the Conclave located here **because Vethmark is a
   major hub.** NOT the Commonwealth's political capital. Emlyn's origin (his two homes, his father's
-  firm). Has a **river** (the wedding-gift "river house" across it). Academy proper name **[OPEN]**.
+  firm). Has a **river** (the wedding-gift "river house" across it). The institution is named: **the Conclave** (formal: the Conclave of the Arts Arcane).
   [CANON + PAGE ch1] — *see MAGIC IS RARE + SETTING & POLITY in the story bible.*
 - **WAINFORD — the railhead town (named 2026-07-11).** The **terminus** where the Commonwealth's rail
   line **ends at the edge of the settled country**; **4 days' ride** from Ardenmoor along the frontier
@@ -308,7 +308,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 - Vethmark's own layout (the river, the two homes' districts) beyond what Ch 1/3 fixed.
 - **PROPER NAMES [OPEN] for author to pick:** the Commonwealth's distinctive name (working: "the
   Commonwealth"); the political capital (council's seat, offstage); the Vethmark magical
-  academy/university. (Polity TYPE is locked: Commonwealth + ruling council; the world has RAILWAYS +
+  Conclave. (Polity TYPE is locked: Commonwealth + ruling council; the world has RAILWAYS +
   steam + a little artifice. The railhead town is now NAMED **Wainford** — rename if desired.)
 - **Wainford's river / a future barge route** and **rail-extension toward Ardenmoor** — later-books
   growth threads (Emlyn may invest); the exact waterway between Ardenmoor and Wainford is [OPEN].

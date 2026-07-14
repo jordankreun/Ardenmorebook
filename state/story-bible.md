@@ -779,7 +779,7 @@ if it needs a new one, add it here.
 ## SETTING & POLITY (world frame — session-locked, 2026-07-11)
 
 Establishes the geopolitics so the cheap land and the urban/rural split make sense. All of it stays
-**backdrop**: the book remains village-sized and cozy; the council, the capital, the academy, and the
+**backdrop**: the book remains village-sized and cozy; the council, the capital, the Conclave, and the
 Conclave reach the story only by letter, licence, or a rare visitor, never as epic politics.
 
 - **The polity: a COMMONWEALTH governed by a RULING COUNCIL** — NOT a monarchy (no king/crown/feudal
@@ -795,7 +795,7 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   "Magic in this world is not lacking; the number of talented people are") — load-bearing.** Magic
   itself is NOT a scarce substance, a dwindling well, or a rationed force: there is no shortage of
   magic and never has been. **The scarcity is PEOPLE: the born talent to work magic is what's rare.**
-  The talent is born, not made; the Academy sharpens it where it appears but cannot create it. Never
+  The talent is born, not made; the Conclave sharpens it where it appears but cannot create it. Never
   render magic as a commodity that "runs low" or must be hoarded; every scarcity consequence below
   flows from too few PRACTITIONERS (and their finite time/attention), never from any shortage of magic itself.
   Wizards/practitioners are UNCOMMON in this world, and getting rarer. **Major talents (like Emlyn) are VERY rare** — a genuine marvel;
@@ -805,23 +805,26 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   a minor talent, is so formidable a man of affairs, and slightly long-lived). Consequences to hold:
   (a) magic is a **rare, prized craft practiced by very few** — Emlyn's practice is real and
   commercial (the Mancour/Spellmonger build stays) but PRECIOUS, not commonplace; his lumens are
-  wonders, his services notable, his person unusual. (b) The magical **governing body/academy is
+  wonders, his services notable, his person unusual. (b) The Conclave (school + governing body in one) is
   therefore SMALL** — nowhere near big enough to build a city around (this REVISES the earlier
-  "Vethmark built around the academy"). (c) There is **EXACTLY ONE academy — THE Academy, in Vethmark (author re-affirmed 2026-07-14)**: the sole center of magical study for the
-  whole CONTINENT** (magic is that scarce); it is the Vethmark academy.
-- **VETHMARK = a major economic/regional city that HOSTS the small continental academy (NOT the
+  "Vethmark built around the academy" — retired). (c) There is **EXACTLY ONE institution of magic — THE CONCLAVE (named by the author 2026-07-14; formal long name: the Conclave of the Arts Arcane; everyday shorthand: "the Conclave")**, in Vethmark: the sole center of magical study for the
+  whole CONTINENT** (talent is that scarce).
+- **VETHMARK = a major economic/regional city that HOSTS the Conclave (NOT the
   capital; REVISED 2026-07-11).** Vethmark is a **big city of industry and commerce and a regional
   seat of power** — a principal city of the Commonwealth, a regional/provincial (or city-state) seat,
   the **banking/credit** seat, and Emlyn's origin (his two homes, his father's architecture firm). Its
   size and importance come from **commerce/industry, NOT magic.** The continent's single, small
-  **Academy of magic** (where Emlyn trained and published — his "school of notation"; cf. Ch 8) is
-  **located in Vethmark BECAUSE Vethmark is a major hub** (well-connected, resourced, central) — "why
-  they chose this one spot" for the continent's magical study. The **CONCLAVE** — the small
-  governing/oversight body of magic (LOCKED CANON: inquiry closed, "the office remains interested,"
-  **Drace** its official, **Lira** its informal informant) — is **seated at that academy in Vethmark.**
+  institution of magic — **THE CONCLAVE** (formal long name **the Conclave of the Arts Arcane**;
+  named 2026-07-14) — is **school and governing body IN ONE**: at once the only place magic is
+  studied/taught on the continent (where Emlyn trained and published — his "school of notation";
+  cf. Ch 8) AND the craft's small oversight body (LOCKED CANON: inquiry closed, "the office remains
+  interested," **Drace** its official, **Lira** its informal informant). It is **located in Vethmark
+  BECAUSE Vethmark is a major hub** (well-connected, resourced, central). USAGE: everyday speech and
+  narration say "the Conclave"; the formal long name appears on documents, seals, and letters ("by
+  order of the Conclave of the Arts Arcane").
   So Vethmark is the magical center by virtue of being a commercial center, not the other way round;
   it is NOT the Commonwealth's political capital. This still roots the outside-world subplot (Conclave,
-  the correspondents, the unsigned "school-trained hand") in Vethmark. Academy proper name **[OPEN]**.
+  the correspondents, the unsigned "school-trained hand") in Vethmark. Institution named: **the Conclave** (see above); only the Commonwealth + capital names remain [OPEN].
 - **ARDENMOOR = deep, remote, undeveloped frontier of the Commonwealth.** Forested and marginally
   agricultural, thinly settled, "yet to be developed," loosely incorporated (still part of the
   Commonwealth, but its far edge). This is WHY the land is CHEAP (remote + undeveloped + agriculturally
@@ -899,15 +902,15 @@ existing potential plane and has been waiting for someone to notice the door.
 
 **Magic rules.** **Magic is RARE (2026-07-11): practitioners are uncommon and getting rarer — major
 talents (Emlyn) very rare, minor talents (Penworth) uncommon; even a slight gift is a real advantage.
-So magic is a rare, PRIZED craft practiced by very few, the academy/Conclave is small, and there is
-exactly one academy, THE Academy, in Vethmark — no rival schools, no secondary academies anywhere (see SETTING & POLITY).** Workings
+So magic is a rare, PRIZED craft practiced by very few, the Conclave is small, and there is
+exactly one institution of magic, the Conclave, in Vethmark — no rival schools, no secondary academies anywhere (see SETTING & POLITY).** Workings
 cost energy and require rest. Wards ask, not command. Reshaping wards excavate/level. Enchantment
 binds function into prepared objects. LUMEN lamps = crystalline blanks in three layers (photonic
 architecture, sensitivity lattice, binding) housed in metal fittings; the original LUMEN drinks
 hill-song, the Series drinks ambient light. Sensitivity manifests as hearing / feeling / seeing
 (don't always correlate). Sensitized paper records an arcane signature (imprint). A resonance fork
 tuned to the hill's baseline calls an answer. Planewright work = architecture of planes; Opus
-**trained and published at the small Vethmark academy** (the continent's one center of magical study;
+**trained and published at the Conclave in Vethmark** (the continent's one institution of magic;
 his "school of notation"); his published papers omit ~70% of his demiplane working because extending
 it incomplete causes lethal interior collapse. The Planewright's
 Compass (his own making, unknown to the Conclave) finds existing potential planes.
@@ -915,8 +918,8 @@ Compass (his own making, unknown to the Conclave) finds existing potential plane
 **The secrets (undercurrent).** (1) The compass in the chest. (2) Three correspondents probing
 his incomplete demiplane papers — two named scholars (containable), one UNSIGNED who wrote "the
 interior architecture is beautiful" and whose hand later shows training in his own notation (i.e.
-schooled at the same Vethmark academy). (3) The **Conclave** — the governing/oversight body of
-magic, **seated in Vethmark** (the academy's establishment authority; see SETTING & POLITY) —
+schooled at the same Conclave). (3) The **Conclave** — the governing/oversight body of
+magic, **seated in Vethmark** (one institution with its school; see SETTING & POLITY) —
 whose inquiry is closed "but the office remains interested"; **Drace** its interested official;
 **Lira** an informal informant. **Cecily** — investigator, offstage, letters only — engaged to
 trace the three.

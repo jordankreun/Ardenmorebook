@@ -31,3 +31,9 @@ around Ch 12) that Lira
 # facts corrected by tracked changes
 one of the few in Ardenmoor to stand so tall
 one of the few three-storey
+
+# the separate "Academy" institution (merged into the Conclave, 2026-07-14)
+Vethmark academy
+Academy of magic
+Academy proper name
+THE Academy, in Vethmark
