@@ -715,6 +715,25 @@ On-page: Ch 1's "The Academy sharpens it" → "The Conclave sharpens it." Emlyn 
 at the Conclave; Drace is its official; Lira's letters go to its contact. Remaining [OPEN] names:
 the Commonwealth + its capital only.
 
+REFINE PASS — PARTIAL (2026-07-14, verified-fleet run hit the session usage cap after 6 of 44
+agents): the completed cold reads (Prologue + Ch 1-5) yielded 30 findings; I self-verified each
+against live text and applied 18 (the high-confidence, rule-aligned ones), skipped taste-level and
+canon-touching ones pending a verified pass. APPLIED: Prologue "my own legend"→"my own story"
+(not-famous canon). Ch 1: Soren-face telegraph planted blind ("there and gone"); "for reasons I
+will come to" cut; grief-letter logic fixed ("never had to open a second time"); hill throughline
+telegraph softened; "a board of my own"→"drafting work at a board of my own." Ch 2: oak telegraph +
+"I would not find those words for weeks" + "bless that spring a hundred times" all de-flagged;
+had-had cleared. Ch 3: memoir-frame "It is time I told you about the chest" cut; "I want that set
+down…" recast; had-had cleared. Ch 4: "can only half give you now" telegraph cut; thesis telegraph
+"the only idea that has ever mattered to me"→"and found one"; a run-on split. Ch 5: Ren-gift
+telegraph "frightened me… first time I saw it plainly" cut; "not for the last time" cut.
+⏳ STILL PENDING (usage resets 7:30am UTC — resume the fleet or self-review): cold reads of Ch 6, 7,
+07b, 8, 9; the three CROSS audits (continuity, outline-vs-draft, doc-consistency); adversarial
+verification of ALL findings (the 18 applied were self-verified, not fleet-verified). SKIPPED this
+round pending verification: prologue echo/purple/plural-grounding; Ch2 explained-silence (Lira) +
+Cael-clarity; Ch3 dramatize-quarryman-dialogue + Soren-name-bind; Ch4 dramatize-rain-rumor +
+oak-echo; Ch5 "boy's two words" callback (flagged high/canon — check the referent exists).
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.
