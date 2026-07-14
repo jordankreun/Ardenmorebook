@@ -807,7 +807,7 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   commercial (the Mancour/Spellmonger build stays) but PRECIOUS, not commonplace; his lumens are
   wonders, his services notable, his person unusual. (b) The magical **governing body/academy is
   therefore SMALL** — nowhere near big enough to build a city around (this REVISES the earlier
-  "Vethmark built around the academy"). (c) There is essentially **ONE center of magical study for the
+  "Vethmark built around the academy"). (c) There is **EXACTLY ONE academy — THE Academy, in Vethmark (author re-affirmed 2026-07-14)**: the sole center of magical study for the
   whole CONTINENT** (magic is that scarce); it is the Vethmark academy.
 - **VETHMARK = a major economic/regional city that HOSTS the small continental academy (NOT the
   capital; REVISED 2026-07-11).** Vethmark is a **big city of industry and commerce and a regional
@@ -900,7 +900,7 @@ existing potential plane and has been waiting for someone to notice the door.
 **Magic rules.** **Magic is RARE (2026-07-11): practitioners are uncommon and getting rarer — major
 talents (Emlyn) very rare, minor talents (Penworth) uncommon; even a slight gift is a real advantage.
 So magic is a rare, PRIZED craft practiced by very few, the academy/Conclave is small, and there is
-essentially one center of magical study for the whole continent (see SETTING & POLITY).** Workings
+exactly one academy, THE Academy, in Vethmark — no rival schools, no secondary academies anywhere (see SETTING & POLITY).** Workings
 cost energy and require rest. Wards ask, not command. Reshaping wards excavate/level. Enchantment
 binds function into prepared objects. LUMEN lamps = crystalline blanks in three layers (photonic
 architecture, sensitivity lattice, binding) housed in metal fittings; the original LUMEN drinks
