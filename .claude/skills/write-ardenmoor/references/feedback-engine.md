@@ -87,6 +87,19 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   independent clauses joined by a bare comma) and repunctuate. One deliberate long cumulative
   sentence per scene at most, and only when it reads as a controlled build. Favor the period.
   *Source: the run-on pass; session-lock #9.*
+- **[CRAFT] Break the action-plus-aphorism weld.** When a sentence states a specific action or
+  observation and then welds a GENERAL reflection or aphorism onto it with "and" or a semicolon,
+  split it: end the concrete clause, and start the reflection as its OWN sentence so the aphorism
+  lands. (Model: "There was no reason on earth to hurry, and I have never much trusted a man who
+  hurries uphill" → "There was no reason on earth to hurry. I have never much trusted a man who
+  hurries uphill.") Signature welds: `…, and I have (never / always / come to / learned / found)…`;
+  `…, and a man (does / has to / cannot / ought / who…) …`; `…, and it is the (nearest / only /
+  way)…`. Test: is the tail a standalone truth about people, life, or the self that would land
+  harder alone? Then break it. Do NOT split a deliberate cumulative CLIMAX built as one sentence for
+  cadence (the prologue's close; the "Good" payoff) or a genuine parallel TRIAD ("I was tired, and
+  it was spring, and a man has to be sent somewhere"). The lint surfaces the weld markers as a
+  review-list. *Source: author note 2026-07-14 ("sentences like this that could read better broken
+  up into two… start sentence 2 at I have never"); applied across Ch 2–10 (11 breaks).*
 
 ## P1 — BELIEVABILITY & GROUNDEDNESS (the author's most frequent objection)
 
@@ -336,6 +349,7 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   sale money mid-book with rooms crated under seal, tenants/harvest/note-payment beats, ages
   spanning two years, Emlyn/fiancée naming). (d) Four CRAFT DIALS locked (dialogue share, scene
   over summary, opening variety, one comic beat) — style guide section + the four rules above.
+- **2026-07-14 — "sentences like this that could read better broken up into two" (the action+aphorism weld).** New P0 [CRAFT] rule "Break the action-plus-aphorism weld" + a lint review-list (WARN, budget 0) for the weld markers. Gap analysis: session-lock #9 / the run-on rule governed 4+-clause chains and comma splices but NOT the two-clause "concrete action, and general aphorism" weld, which is a distinct rhythm fault; added it. Applied 11 breaks across Ch 2-10; deliberately KEPT the prologue close, the "Good" payoff, and the Ch 1 triad (the lint surfaces that triad for review and it is vouched). 
 - **2026-07-14 — feedback export (6 notes + 6 tracked changes, Prologue/Ch 1).** Gap analysis:
   two notes were engine misses. (1) The prologue "not on a boy" payoff had its setup cut in an
   earlier prologue rewrite — P4 "set up before you pay off" was drafted for within-chapter facts,

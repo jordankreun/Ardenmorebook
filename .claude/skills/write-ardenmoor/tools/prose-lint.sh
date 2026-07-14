@@ -108,6 +108,23 @@ for f in "$@"; do
     done
   fi
 
+  # ---- ACTION+APHORISM WELD REVIEW LIST (WARN, budget 0) ----
+  # Feedback-engine "Break the action-plus-aphorism weld": a specific clause
+  # welded to a general reflection with "and"/";" often reads better as two
+  # sentences (start the aphorism fresh). Not an auto-error: deliberate
+  # cumulative climaxes and parallel triads keep the weld. Review EACH hit;
+  # if the tail is a standalone truth about people/life/the self, split it.
+  for p in ', and I have never' ', and I have always' ', and I have come to' \
+           ', and I have learned' ', and a man does' ', and a man has to' \
+           ', and a man cannot' ', and a man ought' ', and it is the nearest' \
+           ', and it is the only'; do
+    n=$(count "$p" "$f")
+    if [ "$n" -gt 0 ]; then
+      echo "  WARN  aphorism-weld \"$p\": $n — review: split so the reflection starts its own sentence (unless a deliberate climax/triad)"
+      warned=1
+    fi
+  done
+
   # ---- ADJACENT-CHAPTER ECHO (WARN) ----
   # Mechanical arm of the engine's "phrase repeated across ADJACENT chapters"
   # rule: any 5-word run shared with the immediately previous chapter (manifest

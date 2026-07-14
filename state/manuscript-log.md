@@ -750,6 +750,8 @@ the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on 
 SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
 device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open).
 
+PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.
