@@ -126,7 +126,13 @@
     what Penworth manages and can lean the loan on). He does NOT sell the firm share.
   - **Two city homes.** (1) the **family townhouse** he **INHERITED** from his parents — the
     dust-sheeted townhouse he wintered in alone (Ch 1); **his father designed and made it for his
-    mother** ("the finest small thing he ever drew"), comfortable, not extravagant. **An EARLY work
+    mother** ("the finest small thing he ever drew"), comfortable, not extravagant. **Remembered FONDLY (note 2026-07-14):** Emlyn was HAPPY there
+    as a child — the house "smelled of drawing-ink and my mother's baking and the windows stood open
+    on the garden half the year"; he returns to it as "the one place that never once asked him to be
+    anything more than he was" (replaces the old "cold handsome rooms / run clean out of other places
+    to be" framing — do NOT render the family home as cold or bleak; the QUIET of it now is grief,
+    not the house's nature). On the page it reads modest and quiet ("spare rooms closed and sheeted,"
+    Ch 1 ¶13; "quiet rooms… sheeted and still," Ch 3). **An EARLY work
     (Ch 1, 2026-07-12):** his father drew it years before, when **the firm was still more hope than
     trade** (built "as much for the love of the thing as for the money"), and it sat in what was then
     a **quiet, unfashionable quarter** a young man of modest means could afford. **The quarter
@@ -340,14 +346,21 @@ if it needs a new one, add it here.
   goose woman, supper-calling mother, dog, rooster.
   ⚠️ Future chapters must reveal the smith's / herbalist's / miller's names organically, by
   Emlyn actually coming to know them.
-- **Cael's condition of sale (Ch 1):** he has refused real money for the hill more than once — a
-  coast man wanted the north face opened for **slate**, another was sure there was **tin** under it
-  and meant to mine it; Cael "sent them both back down the road." His principle: "A hill is not a
-  purse you turn out and pocket. It is a thing a man stands on, and does something with, and answers
-  for." He sells to Emlyn because Emlyn means to MAKE something of it, not "carry it off in carts."
-  (Thematic: the hill is to be MINDED, not mined — reinforces the ask-the-ground thesis and the
-  father's-failed-shelter, and sets an expectation Emlyn will live on and build the hill.) Cael is
-  now "only just shy of old."
+- **Cael's role in the sale — VILLAGE ELDER, re-locked 2026-07-14 (author note):** Cael negotiates
+  NOT merely as an owner but **in his capacity as the village's elder, speaking for the several
+  families and holdings in the assembled sale** ("dead men's fields, parish ground, other families'
+  tired acres… I speak for the lot of them tonight because somebody had to and I've been here
+  longest"). **This is WHY there is no haggling** — the families settled the price before Emlyn ever
+  arrived ("we'll not be bargaining, you and I. That part's done"). The village's live concern is
+  **suspicion of an OUTSIDER "nobody in this valley can put a name to" buying "the better part of
+  its idle ground in one hand"** — the families "sent the oldest man they had to come and look at"
+  Emlyn; the fields themselves they're glad to see worked. **Cael's personal reservation is about
+  the HILL ONLY** (his family's piece): he has refused real money for it more than once (slate men,
+  tin men — kept BRIEF on the page, one line) and "sent every one of them back down the road." His
+  principle: "A hill is not a purse you turn out and pocket. It is a thing a man stands on, and does
+  something with, and answers for." He sells to Emlyn because Emlyn means to MAKE something of it,
+  not "carry it off in carts." (Thematic: the hill is to be MINDED, not mined.) Cael is "a solid man
+  on the near side of old."
 - **Recluse / Penworth's letter timing (Ch 1, updated):** the letter reached Emlyn "at the turn of
   the year"; he carried it a season, having "passed the whole of the winter shut up in my rooms in
   Vethmark and scarcely marked it going by." Penworth (same city) used the hill to draw him out.
@@ -359,7 +372,7 @@ if it needs a new one, add it here.
   - Horse **named Snow** on first mention (a good grey mare).
   - The vague "in the matter of what I ought to want" fixed to "trusting my own judgment about
     what was good for me over his."
-  - **The inn is one of the few three-storey buildings** in Ardenmoor (was "broad, low"). ["low"
+  - **The inn is the ONLY three-storey building** in Ardenmoor (tracked change 2026-07-14; supersedes "one of the few"; was "broad, low"). ["low"
     now refers only to the taproom's low beams, not the building.]
   - **Emlyn has the best room under the eaves** (clean linen, chair, washstand, broad
     north-facing window); Lira shows him up herself (was a bare "small room... stool... find the

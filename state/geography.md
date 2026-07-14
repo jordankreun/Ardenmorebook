@@ -159,7 +159,7 @@ what's fixed is which places exist and who holds them.
 
 | Place | Holder | Notes | Source |
 |---|---|---|---|
-| **The inn** (no name given yet) | **Lira** | Where the street widens toward the beck; **a broad building of three storeys, one of the few in Ardenmoor to stand so tall**; Emlyn's lodging. He has **the best room under the eaves** (clean linen, chair, washstand, a **broad window giving on the north side of the village**, toward the hill). Lira **measured/reserved**, not short-but-friendly. | [PAGE ch1] |
+| **The inn** (no name given yet) | **Lira** | Where the street widens toward the beck; **a broad building of three storeys, the ONLY one in Ardenmoor to stand so tall** (TC 2026-07-14); Emlyn's lodging. He has **the best room under the eaves** (clean linen, chair, washstand, a **broad window giving on the north side of the village**, toward the hill). Lira **measured/reserved**, not short-but-friendly. | [PAGE ch1] |
 | **The communal oven** | shared | A **great domed oven of clay and fieldstone, open to the lane near the inn**; households without their own oven bring dough to bake. Ardenmoor is **too small for a proper bakery** — this is how the village gets its bread. | [PAGE ch1] |
 | **The smithy** | **Tomas** | At the "top" (entrance/upper end) of the street; hammer heard across the village. | [PAGE ch1] |
 | **The mill** + timber yard + **mill pond** | **Maret** | On the beck at the hill-ward edge (Emlyn passes it heading up to the hill); stacks of drying timber. | [PAGE ch1–2] |

@@ -662,6 +662,27 @@ State re-locked: story-bible (bullet retitled TALENT IS RARE, NOT MAGIC + tech/d
 lines), outline canon appendix, geography travel note, phrase-registry ("by the thimble" retired →
 "spends a wizard where a stoker will serve"). prose-lint: no new flags.
 
+FEEDBACK PASS (2026-07-14 export — 6 notes + 6 tracked changes, Prologue/Ch 1, all applied):
+TRACKED (verbatim): prologue "story of myself last night" (drop "again") + "They HAD made me…/the
+man they MADE"; Ch 1 stopgap drops "and nothing grander"; the inn is "the ONLY one in Ardenmoor to
+stand so tall"; Lira drops "a week" ("eating out of his saddlebags"); Cael intro sentence split
+("…older and grander in my head. He was a solid man…"). NOTES (drafted): (1) prologue "not on a boy"
+now SET UP — the legend paragraph gains the tale-boys passage ("They gave him a boyhood to match…
+No wizard in a taproom tale is ever allowed to have been merely a child"); (2) Penworth "had had"
+fixed ("the running of my whole tangled life had been his"); (3) townhouse-size mismatch swept —
+Ch 1 ¶13 now "a quiet Vethmark townhouse with the spare rooms closed and sheeted" (big-house wording
+cut) and Ch 3 "lived three years alone in his parents' house… quiet rooms… sheeted and still"
+(replaces "too large / great rooms"); (4) family home remembered FONDLY ("drawing-ink and my
+mother's baking… the one place that never once asked him to be anything more than he was");
+(5) train "a CRUDE, soot-breathing thing" (not "early"); (6) CAEL SPEECH REWRITten: he acts as
+VILLAGE ELDER speaking for the assembled families (why no haggling; "That part's done"), the live
+concern is outsider-buys-so-much suspicion ("sent the oldest man they had to come and look at you"),
+his personal reservation is the HILL ONLY, and the slate/tin buyers are compressed to one line.
+Engine: intake protocol run — "had had"/"that that" now a lint check; P4 setup rule sharpened
+(revision-orphaned dependents; canon changes sweep the book); gap logged (townhouse mismatch was a
+missed retro-sweep on the 07-12 modest-house retcon). prose-lint: prologue clean; Ch 1 which-tails
+DOWN 9→8 ("which is fair" removed); no new flags.
+
 ## PART BOUNDARIES (insert interludes here when reached)
 
 - End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.

@@ -136,6 +136,7 @@ for f in "$@"; do
   budget_check "$f" '"of course"' 'of course' 2
   budget_check "$f" '"particular" (adj)' 'particular' 6
   budget_check "$f" '"plain/plainly"' 'plain\b\|plainly' 8
+  budget_check "$f" '"had had" (stacked perfects)' 'had had\|that that' 0
 
   [ "$warned" -eq 0 ] && echo "  ok    all tic budgets met"
 done

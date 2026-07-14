@@ -39,3 +39,6 @@
 09-breaking-ground.md|the poor cheerful cousin of the great serious one
 09-breaking-ground.md|entitled to her opinions of his carpentry
 05-good.md|a man's hammer is his own affair
+00-prologue.md|allowed to have been merely a child
+01-chapter-one.md|never once asked him to be anything more than he was
+01-chapter-one.md|sent the oldest man they had

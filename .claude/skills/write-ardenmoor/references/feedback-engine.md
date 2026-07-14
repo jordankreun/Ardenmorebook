@@ -179,9 +179,15 @@ list), then apply the fixes. Redundancy here is cheap; a shipped violation is no
   or trust) in one line. Give the deliberation its beat: the silence, the weighing, the physical
   tell, before the outcome. If a transition feels abrupt, it is. *Source: "this is abrupt for
   agreement to sell."*
-- **[CHECK] Set up before you pay off.** If a later line leans on a fact (it's cold; it's night;
-  something was established earlier), make sure the earlier passage actually planted it. *Source:
-  Ch2 "cold — make it clear in an earlier passage."*
+- **[CHECK] Set up before you pay off — and RE-CHECK after every revision.** If a later line leans
+  on a fact (it's cold; it's night; the tales favor wonder-boys), make sure the earlier passage
+  actually plants it **in the CURRENT draft** — revision is the usual killer: cutting or rewriting
+  a passage silently orphans every later line that leaned on it. When a revision cuts material,
+  sweep forward for its dependents (and when canon changes, sweep the whole book for stale facts:
+  the modest-townhouse retcon left "far more rooms than one man had any use for" standing two
+  chapters running). *Source: Ch2 "cold — make it clear in an earlier passage"; prologue "not on a
+  boy… doesn't work without earlier mention — see earlier drafts" (2026-07-14); the townhouse-size
+  mismatch note (2026-07-14).*
 
 ## P5 — VOICE & EMOTIONAL REGISTER
 
@@ -308,3 +314,15 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   ("lowered himself onto the bench" Ch1↔Ch2; "every wall in two lifetimes" Ch4↔Ch5) — left for a
   dedicated polish pass, flagged to the author. Bible's PENDING PAYOFFS header now carries the
   blind-seed handling rules at the point of use.
+- **2026-07-14 — feedback export (6 notes + 6 tracked changes, Prologue/Ch 1).** Gap analysis:
+  two notes were engine misses. (1) The prologue "not on a boy" payoff had its setup cut in an
+  earlier prologue rewrite — P4 "set up before you pay off" was drafted for within-chapter facts,
+  not revision-orphaned dependents; rule sharpened to re-check dependents after every revision.
+  (2) The townhouse-size mismatch was a **retro-sweep miss**: the modest-house retcon (2026-07-12)
+  changed canon without sweeping Ch 1 ¶13/Ch 3 for stale "large house" facts — the intake
+  protocol's step 5 existed and was skipped for a canon-only change; canon changes sweep the
+  book, same as note-driven rules. Mechanized: lint now flags "had had"/"that that" (stacked
+  perfects read as typos; source: "the double had is at issue"). Diction: trains are "crude,"
+  not "early." Canon recorded in the bible: Cael negotiates as VILLAGE ELDER for the assembled
+  families (why no haggling), hill-only reservation, outsider-buying-so-much suspicion; the inn
+  is the ONLY three-storey building; the family townhouse is remembered FONDLY.
