@@ -51,7 +51,10 @@ chapter for violations.
    introduce an em dash or drop the word count.
 5. Deliver, then give the author a 2–4 line **engine report**: what the pass flagged, what it
    changed, and anything you deliberately left (with why). Short. It proves the pass ran and
-   surfaces judgment calls without making the author re-review the whole chapter.
+   surfaces judgment calls without making the author re-review the whole chapter. **Then archive it:**
+   as the last drafting step, append the terse block (counts + kept + misses) to
+   `state/engine-reports.md`. That archive is the read side of intake step 3 below — without it, a
+   silent miss is indistinguishable from a conscious keep after the turn ends.
 
 For a long or high-stakes chapter, run the pass with genuine fresh eyes — ideally as a separate
 reviewer perspective (a sub-agent reading the chapter against this file and returning a flagged
@@ -199,9 +202,21 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   bridges. Flag any beat that lives inside a recounted montage paragraph and dramatize it.
 - **[CRAFT] Dialogue share (craft dial, 2026-07-14).** If a chapter has no sustained dialogue
   scene, or its key exchange is narrated instead of spoken, that's a finding: put it in voices.
-- **[CHECK] Opening variety (craft dial, 2026-07-14).** If this chapter opens on
-  weather/season/state-of-me AND the previous chapter did too, recast one of them (mid-task,
-  mid-dialogue, another person, an object).
+  The lint prints a dialogue-share % and WARNs below a ~15% floor — a montage-compression flag, not
+  a target; a genuinely interior chapter that clears the floor is fine.
+- **[CHECK] Speaker trackable (paired safety for the dialogue dials, 2026-07-14).** Where a scene
+  runs 3+ speakers or a long two-hander, can a reader always tell who is talking? Flag ONLY genuine
+  ambiguity (a long bare-quote run with no tag or action beat to anchor it); the fix is one small
+  attribution or gesture, not a tag on every line. Attribution stays simple; do not clutter the
+  spare cozy dialogue. (This exists because dials #1/#2 push toward the crowded scenes where this
+  risk lives.)
+- **[CHECK] Bookend variety (craft dial #3, widened 2026-07-14).** If this chapter opens on
+  weather/season/state-of-me AND the previous chapter did too, recast one (mid-task, mid-dialogue,
+  another person, an object). Same for CLOSES: glance at the previous 2–3 chapter endings, and if a
+  third straight evening-alone-reflective coda is forming, vary the shape (time of day, subject,
+  who's present). NOT a ban on the quiet cozy close — that is the register's birthright, and the
+  deliberate callback-closers (the lamplight motif, "for company," "see what the morning would
+  bring") are whitelisted; the point is to avoid an accidental third in a row.
 - **[CHECK] One comic beat (craft dial, 2026-07-14).** At least one genuine comic beat per
   chapter (running bit, deadpan exchange, domestic absurdity). If the pass finds none, the
   chapter is running colder than the register wants.
@@ -263,12 +278,18 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   will not tell you" ≤ 1** (elsewhere state the thing directly: "The first ones did not work.");
   **"in the end" ≤ 2**; **"which is to say" ≤ 1–2.** Also scan for a phrase repeated across ADJACENT
   chapters ("while my back was turned") and vary the later use. The fix is always to keep the BEST
-  instance and recast the weak ones, never to purge the construction. **MECHANICAL ARM:** run
-  `tools/prose-lint.sh` on the chapter — it enforces the hard rules (em dashes, memoir-frame
-  phrases, `tools/phrase-registry.txt` reuse) as FAILs and these rations as WARNs; every WARN gets
-  an instance-by-instance review, and the chapter's new coinages get appended to the registry.
-  *Source: the 2026-07-12 professional-polish pass ("make sure the tone is at a professional author
-  level — Terry Mancour-esque"); measured counts ran 8–16 per chapter before the pass.*
+  instance and recast the weak ones, never to purge the construction. **THREE LEVELS, one gradient
+  (do not conflate them):** the numbers just above are the **RATION** — the revision ceiling you hold
+  a finished chapter to. The voice doc's figures are the lower **AIM** you write *toward*. The lint's
+  `tools/prose-lint.sh` numbers are a still-looser **THRESHOLD** — a backstop set above the ration on
+  purpose, so it fires on real drift, not on a vetted chapter sitting at healthy density. So a lint
+  WARN is not "you broke the ration"; it means "you are past the backstop, review every instance." A
+  chapter can clear the lint and still owe the ration a trim. **MECHANICAL ARM:** run
+  `tools/prose-lint.sh` — it FAILs the hard rules (em dashes, memoir-frame phrases, registry reuse)
+  and WARNs the tic thresholds, the review-lists (seed-telegraph, aphorism-weld), adjacent-chapter
+  echoes (deliberate motifs vouched in `tools/vouched.txt`), and a low dialogue share (craft dial #1);
+  review every WARN, then append the chapter's coinages to the registry. *Source: the 2026-07-12
+  professional-polish pass; the 2026-07-14 engine audit (the docs had falsely claimed lint == ration).*
 - **[CRAFT] Concision: cut verbosity, keep the voice.** The lyric register earns long sentences, but
   it does not license padding. Hunt and cut: **doubled clauses** that restate the same beat ("and
   they were not wrong, and I never troubled to mend it" → drop the first); **over-qualification**
@@ -301,8 +322,12 @@ IS DURABLE"), run this full protocol. A note that only fixes the one line has NO
    and date so its origin stays legible.
 3. **Gap analysis.** Ask: *should an existing rule already have caught this?* If yes, the rule
    failed, not the rulebook — sharpen its wording (usually: it was scoped too narrowly), and say so
-   in the changelog. **Escalation is mandatory, not optional: the second note in the same family
-   makes that family [HARD], and a third requires a mechanical lint pattern.**
+   in the changelog. **Read the chapter's block in `state/engine-reports.md` first:** if the engine
+   claimed that chapter clean, this is a SILENT MISS (the rule was missing/too narrow — sharpen or
+   add it); if the engine flagged it and vouched a keep, the JUDGMENT BAR was wrong, not the rule
+   (tighten the bar, don't add machinery). Then record the miss on that block's `misses:` line.
+   **Escalation is mandatory, not optional: the second note in the same family makes that family
+   [HARD], and a third requires a mechanical lint pattern.**
 4. **Mechanize.** If ANY part of the rule is detectable by pattern (a phrase, a construction, a
    count), add it to `tools/prose-lint.sh` the same day, as FAIL (hard rules) or WARN (review
    lists / budgets). The lint is the only part of this system that cannot forget, get tired, or
@@ -378,3 +403,28 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   not "early." Canon recorded in the bible: Cael negotiates as VILLAGE ELDER for the assembled
   families (why no haggling), hill-only reservation, outsider-buying-so-much suspicion; the inn
   is the ONLY three-storey building; the family townhouse is remembered FONDLY.
+- **2026-07-15 — engine ROADMAP build (author: "Tier 1 + all of Tier 2"), from the 6-lens
+  self-improvement audit.** Tier 1: (a) **dialogue-share meter** in the lint — WARN below a ~15%
+  floor (prose lines with a quote mark ÷ total), prologue+interludes exempt, deliberately-interior
+  chapters vouchable; surfaces the single highest-leverage dial (craft dial #1). It fires on Ch3
+  (0%) and Ch4 (3%), both genuinely interior (arrival, first working) and left as designed. (b)
+  **Echo dedup via merge_runs** — overlapping 5-word shingles now merge into maximal runs before
+  reporting, killing the triple-count noise. (c) **VOUCH LEDGER** `tools/vouched.txt` — deliberate
+  cross-chapter motifs (the valley-evening "lamps one window at a time" refrain; "the failing of
+  the light"; the NE-corner/chest twist groundwork) are suppressed per file-pair and PRINTED as
+  "VOUCHED (n)" so it stays auditable; a new echo still fires. (d) Pruned the seed-telegraph
+  patterns to require the actual hindsight tail (bare "I would learn" → "I would learn later" etc.),
+  taking the book's false-positive count 4→0. (e) P5 tic rule reworded to a three-level gradient
+  (AIM / RATION / THRESHOLD) — the docs had falsely conflated "lint budget" with "hard ration."
+  Tier 2: (f) **CALENDAR SPINE** + (g) **GRIEF-THAW CURVE** added to the bible (the two cross-chapter
+  arithmetic axes a per-chapter CANON check is blind to — the exact source of the Ch10 forty-vs-thirty
+  and keeper-leaf slips), each with a PRE-FLIGHT line; back-filled Ch1–10 onto both. Three new
+  pre-draft-brief LOCATES wired into SKILL.md (locate on the calendar / is-the-clock-honest; locate
+  on the thaw / not-healed-early; recall the last two closing shapes). (h) **`state/engine-reports.md`**
+  — append-only archive of what each pass CLAIMED at ship time (NOT a startup read), so intake
+  gap-analysis can tell a **silent miss** (engine claimed clean; note later caught a real defect →
+  sharpen the rule) from a **conscious keep** (engine flagged + vouched; author still disliked →
+  judgment bar was wrong); intake step 3 and the revise-flow now read it first. (i) [CHECK] Speaker
+  trackability + widened [CHECK] Bookend variety (openings AND closes) in P4; editorial-read level-2
+  gained speaker-trackability; style-guide dial #3 widened to "vary the bookends." doc-audit clean;
+  full lint shows no new FAILs.

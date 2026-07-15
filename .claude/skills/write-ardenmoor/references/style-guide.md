@@ -143,10 +143,15 @@ The kettle (domestic time; interruption and welcome). Frost and its lifting (tha
    chapter's turn, deal, discovery, or first-meeting happens inside a summarizing paragraph, stop
    and dramatize it in real time. (The montage habit is the identified drift: several early
    chapters compress lived scenes into recounted report.)
-3. **Vary the openings.** The default open (weather/season/state-of-me) has become a pattern.
-   Rotate deliberately: open mid-dialogue, mid-task, on another person arriving, on an object, in
-   a room the reader hasn't seen. Check the previous chapter's opening before drafting (pre-draft
-   brief item).
+3. **Vary the bookends (openings AND closes).** The default open (weather/season/state-of-me) has
+   become a pattern; so has the evening-alone-reflective close. Rotate OPENINGS deliberately: open
+   mid-dialogue, mid-task, on another person arriving, on an object, in a room the reader hasn't
+   seen. And glance at the previous 2–3 CLOSES: if a third straight quiet-evening-coda is forming,
+   vary the *shape* of the close (time of day, subject, who is present), never its calm. This does
+   NOT ban the cozy close (the register's birthright) or the deliberate callback-closers (the
+   lamplight, "for company," "see what the morning would bring"); it just prevents an accidental
+   third in a row. Check the previous chapter's opening and the last two closes before drafting
+   (pre-draft brief item).
 4. **More humor.** Wry asides alone don't carry the Mancour warmth. Aim for at least one genuine
    comic beat per chapter: a running bit (Snow's grudges, Penworth's letters, the village's
    standing opinions), a deadpan exchange, a small domestic absurdity. Humor is a craft beat, not

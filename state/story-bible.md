@@ -228,10 +228,25 @@ if it needs a new one, add it here.
   wording to fiancée/lost-before-the-wedding.
 - **Penworth ↔ Emlyn:** ~**a decade** (Penworth took over "something over a decade" ago).
   Penworth is **~Emlyn's own age**. Do NOT reintroduce "thirty years [with Emlyn]" or "old."
-- **Story present:** Year 1, **third week of spring** at arrival; Ch 1–2 span ~a day and a half
-  (arrival evening → next day's night); Ch 3 = ~a fortnight (purchase completes) + the move onto
-  the crown; **Ch 4 = weeks into summer** (the first working); **Ch 5 = the back half of summer**,
-  the Study raised and finished at **summer's end** of Year 1.
+- **CALENDAR SPINE (the book's clock — check every chapter's season/elapsed against this row;
+  this is the cross-chapter arithmetic the per-chapter CANON check cannot see, and the trap that
+  produced the Ch10 forty-vs-thirty + keeper-leaf dating slips):** arrival is **Year 1, third week
+  of spring**. Elapsed is measured FROM arrival. When a new chapter states or implies a season,
+  add its row here and confirm it does not run the clock backward or skip a season without a
+  bridge. Season order: spring → summer → autumn → winter → spring(Yr2)…
+  - **Ch 1–2** — Yr1, 3rd wk spring — elapsed ~1.5 days (arrival evening → next night).
+  - **Ch 3** — Yr1, mid–late spring — elapsed ~2 wks (purchase completes; move onto the crown).
+  - **Ch 4** — Yr1, **early summer** — elapsed ~2.5–3 mo (the first working; "weeks into summer").
+  - **Ch 5** — Yr1, **late summer** — elapsed ~4–5 mo (Study raised, finished at **summer's end**).
+  - **Ch 6** — Yr1, **early autumn** — elapsed ~6 mo (first lumen; "the winter's excuse gone").
+  - **Ch 7** — Yr1, **autumn** — elapsed ~7 mo (Wednesdays; "autumn while my back was turned").
+  - **Interlude I** — Yr1, autumn→winter turn (hill's seasonal, no dated events).
+  - **Ch 8** — Yr1, **edge of winter** — elapsed ~9 mo (lamp business; "that winter, one lamp on Brenna's sill").
+  - **Ch 9** — Yr1 winter → **thaw into spring Yr2** — elapsed ~12–13 mo (first winter passes; bathhouse ~3 wks).
+  - **Ch 10** — **Yr2, late spring** — elapsed ~14 mo (Brenna's cottage; keeper plant; soldier's-heart flowered midwinter).
+  - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
+    the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
+    From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
 - **Ren:** ~**16** (confirmed on the page, Ch 5: "perhaps sixteen that summer").
 - **Cael:** **late 50s** (adjusted 2026-07-12 per reader note "maybe in his late 50s, described
   vaguely"; was ~mid-60s). Described vaguely on the page — "a solid man on the near side of old, not
@@ -1027,6 +1042,22 @@ rendered as ordinary life: unremarked, deniable, at ordinary narrative temperatu
 second mundane job in its scene. Never attach hindsight flags, confessional framing, or a closing
 moral. Water a live seed RARELY (not two chapters running), in a varied form; resting is the
 default. Each chapter's pre-draft brief names which of these it touches and which it rests.
+
+**⚠️ GRIEF-THAW CURVE (the emotional clock — check every grief beat against this; the trap is
+HEALING HIM EARLY).** Grief moves by domestic thresholds only, never by flashback or stated
+feeling, and it does NOT resolve until the finale. A chapter may show a small thaw; it may NOT
+show release. The coarse curve, so no chapter overshoots:
+- **Arrival (Yr1 spring):** frozen. Arielle dead ~3 yrs; the carried letter unopened; the chest sealed.
+- **Ch 4 (summer Yr1):** first crack — "the first evening in three years that I had wanted the
+  morning to come." A want, not a mending.
+- **Ch 8 (winter Yr1):** the shelf-gap — he finds the courage to LEAVE the gap unfilled ("the only
+  kind of courage I had that winter"). Still holding, not letting go.
+- **Yr2 (Ch10 →):** small warmths accrue (the village, the work, the boy) but the sealed things
+  stay sealed. Do NOT read the letter, open the chest, name Arielle, or enter the river house.
+- **Finale (early winter Yr2, Ch27–28):** RELEASE, in the locked order — **letter read → chest
+  opened → compass points down.** The river-house sale/room-clearing completes the following spring.
+- **PRE-FLIGHT:** if a drafted grief beat would let go of a sealed thing before Ch27, it is too
+  early — dial it back to a threshold (a want, a courage, a noticing), not a resolution.
 
 - Cael's father's failed shelter (PLANTED on the page Ch 2) → recontextualized by the twist (Ch 28).
 - The deeper-green eastern shelf (Emlyn feels something, unnamed, Ch 2) → Brenna's "that's

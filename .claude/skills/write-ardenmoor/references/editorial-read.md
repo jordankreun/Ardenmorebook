@@ -58,7 +58,10 @@ right by them in the author's own voice.
      blind-seed rule)?
 2. **Scene / craft** — dialogue that reveals character and does more than one job; entrances and
    exits; is a load-bearing beat dramatized or merely reported (scene over summary); is there a
-   living comic beat where the register wants one; do the senses vary.
+   living comic beat where the register wants one; do the senses vary. **Speaker trackability:** in
+   any crowded scene (3+ voices or a long two-hander), can the reader always tell who is speaking,
+   or is there a bare-quote run that loses the thread? (Flag genuine ambiguity only; the fix is one
+   small tag or gesture, never a tag on every line.)
 3. **Line** — rhythm and sentence variety; the one flat paragraph and the one purple one; the buried
    strong sentence; clarity (every sentence parses on first read); the tic and the weld the mechanical
    lint budgets but a human still weighs in context.

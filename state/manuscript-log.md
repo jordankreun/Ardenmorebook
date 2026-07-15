@@ -29,6 +29,12 @@
   moved to Part III** (was outline Ch 12); (g) **Ch 10 candor level: PARTIAL** — Emlyn owns to interest,
   asks real questions, keeps the hum itself private (Brenna may sense the held-back thing);
   (h) name slates for Commonwealth/capital/academy proposed to the author (pending pick).
+- **ENGINE BUILD (2026-07-15, "Tier 1 + all of Tier 2"):** lint gained a dialogue-share meter,
+  echo-run dedup, and a vouch ledger (`tools/vouched.txt`); seed-telegraph false-positives 4→0.
+  Bible gained a **CALENDAR SPINE** and a **GRIEF-THAW CURVE** (Ch1–10 back-filled) so cross-chapter
+  arithmetic and the grief clock are checkable up front — three new pre-draft-brief locates enforce
+  them. New `state/engine-reports.md` archives each pass's claims (silent-miss vs conscious-keep).
+  Full detail in the feedback-engine ENGINE CHANGELOG. doc-audit clean; no new lint FAILs.
 - Next to write: **Chapter 11, "What Tomas Carried"** (revised outline Ch 11): the confession chapter (late pickup, banked forge; Tomas has heard the hill for many months and told no one; the standing promise given, "when I know what it is, you will know"; the book's quiet metronome starts). **Ch 10 ("The Listener and the Singer") was DRAFTED 2026-07-14** (keeper plant seen, Singer/Listener named, partial candor held); the theory spine ("sings to something not yet arrived") stays BURIED for later volumes, two-grandmothers question stays OPEN. Length flexible.
 
 ---

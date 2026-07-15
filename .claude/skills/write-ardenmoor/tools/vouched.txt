@@ -1,0 +1,17 @@
+# VOUCH LEDGER — deliberate cross-chapter echoes the adjacent-echo check should stop re-flagging.
+#
+# prose-lint.sh suppresses an adjacent-chapter echo ONLY for the exact ordered
+# file-pair listed here, and PRINTS the suppression ("VOUCHED (n)…") so it stays
+# auditable. A NEW echo is a different phrase and still fires — vouching one
+# phrase never blinds the check to others.
+#
+# Add an entry only for a DELIBERATE motif, callback, or canonical term you want
+# to recur. Accidental repetition should be VARIED, not vouched. Date each reason.
+#
+# Format (one per line):  earlier-file|later-file|phrase|dated reason
+#   earlier/later = the two basenames, in manifest order (earlier chapter first).
+#   phrase        = a lowercased substring of the echo run to suppress.
+
+03-chapter-three.md|04-ask-for-passage.md|putting out its lamps one|2026-07-14 deliberate valley-evening refrain (the "lamps one window at a time" close recurs across Ch1/3/4/5/6; a signature image)
+03-chapter-three.md|04-ask-for-passage.md|the failing of the light|2026-07-14 canonical name for the hill's dusk pulse-hour (established Ch3; recurs by necessity, not accident)
+05-good.md|06-first-light.md|the northeast corner where the chest|2026-07-14 the NE-corner/chest motif, deliberately triple-seeded twist groundwork (story bible: "DO NOT EXPLAIN"; pays off Ch20/28)

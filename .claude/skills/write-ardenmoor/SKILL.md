@@ -33,7 +33,9 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 - `.claude/skills/write-ardenmoor/references/editorial-read.md` — how to review AS A FICTION EDITOR: the developmental read a rule-lint can't see (does a scene earn its place, is the turn earned, where the reader disengages) and the persona/protocol for running any cold read or **adversarial verification** as an editor would, not a rule-matcher
 - `.claude/skills/write-ardenmoor/tools/prose-lint.sh` — the MECHANICAL voice guard: run it on every chapter before delivery (hard rules FAIL, tic budgets WARN); see the post-flight step
 - `.claude/skills/write-ardenmoor/tools/phrase-registry.txt` — distinctive one-use phrases and their home chapters; the lint fails any reuse; append each new chapter's best coinages
+- `.claude/skills/write-ardenmoor/tools/vouched.txt` — the VOUCH LEDGER: the deliberate cross-chapter echoes (motifs, callbacks, canonical terms) the lint's adjacent-echo check should stop re-flagging for a specific file-pair; a NEW echo still fires
 - `state/story-bible.md` — the LIVING continuity record; you read and update it every chapter
+- `state/engine-reports.md` — append-only archive of what the pre-delivery engine pass CLAIMED per chapter (counts + deliberate keeps); NOT read at startup — consulted on demand at intake gap-analysis and when revising to a note, to tell a silent miss from a conscious keep
 - `state/geography.md` — the LIVING map & gazetteer (valley, hill, village, roads, water);
   read before drafting, update after any chapter that places, names, or moves geography
 - `state/manuscript-log.md` — one-line-per-chapter status and recap ledger
@@ -234,6 +236,15 @@ When asked to write chapter N:
   one stays blind (unremarked, ordinary temperature, doing a second mundane job); any [OPEN]
   question the chapter brushes that must not be foreclosed; and which signature tics the previous
   chapter leaned on, so this one varies them (the lint's adjacent-echo check is the backstop).
+- **Three continuity locates (Tier-2 spines — the arithmetic a per-chapter check can't see):**
+  1. **Locate this chapter on the CALENDAR SPINE** (story-bible NUMBERS LEDGER): its season and
+     cumulative elapsed. Is the clock honest — does it move forward without skipping a season
+     un-bridged or running backward? Add its row after drafting.
+  2. **Locate it on the GRIEF-THAW CURVE** (story-bible PENDING PAYOFFS): what stage of grief is
+     allowed here. Confirm no beat lets go of a sealed thing (letter, chest, Arielle's name, the
+     river house) before the Ch27–28 finale — mid-book grief is a threshold, never a release.
+  3. **Recall the previous TWO chapters' CLOSING SHAPES** (image vs. line-of-dialogue, and their
+     subject) so this close varies from both (craft dial #3 / the lint's Bookend check backstops it).
 
 **Then draft the prose.** Length follows session-lock #7 (flexible: most chapters ~3,000–5,000,
 short chapters ~1,500–2,500 welcome when that is their natural size, longer when earned; never pad,
@@ -297,6 +308,14 @@ incoherent world logic, repeated sensory details, vague referents) and fixes the
 before the draft reaches the author. Then give the author a short (2–4 line) **engine report**:
 what the pass flagged, what it changed, and anything you deliberately kept and why. Do not present
 a chapter as ready until this pass has run.
+
+**Then archive the pass (the last drafting step).** Append one terse block for this chapter to
+`state/engine-reports.md` in its schema (counts + deliberate keeps, never prose). This records
+what the engine CLAIMED at ship time so a later author note can be told apart from a silent miss:
+if the engine claimed a chapter clean and a note later catches a real defect, the rule was missing
+or too narrow (SHARPEN it); if the engine flagged it and vouched a keep the author still disliked,
+the judgment bar was wrong. It is append-only and is NOT part of the startup read; it is consulted
+on demand at intake gap-analysis and whenever revising a chapter to a note.
 
 ---
 
@@ -365,8 +384,10 @@ The user will ask for these in ordinary language; treat them as requests, not co
 
 - **Write / draft chapter N** — run startup, plan, draft, save, update state, post-flight check.
 - **Continue / next chapter** — write the next undrafted chapter in sequence.
-- **Revise chapter N (with a note)** — reread that chapter and its neighbors, revise to the note,
-  re-run the post-flight check, update state if facts changed.
+- **Revise chapter N (with a note)** — reread that chapter and its neighbors, and read that
+  chapter's block in `state/engine-reports.md` FIRST (did the engine claim it clean here — a silent
+  miss to sharpen the rule for — or vouch the keep the note disputes — a judgment-bar miss?); then
+  revise to the note, re-run the post-flight check, update state if facts changed.
 - **Where are we / recap** — summarize the manuscript-log ledger: what's drafted, what's pending
   payoff.
 - **Check continuity** — run the full checklist against the drafted chapters; report any drift.
