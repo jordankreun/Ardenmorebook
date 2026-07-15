@@ -244,6 +244,7 @@ if it needs a new one, add it here.
   - **Ch 8** — Yr1, **edge of winter** — elapsed ~9 mo (lamp business; "that winter, one lamp on Brenna's sill").
   - **Ch 9** — Yr1 winter → **thaw into spring Yr2** — elapsed ~12–13 mo (first winter passes; bathhouse ~3 wks).
   - **Ch 10** — **Yr2, late spring** — elapsed ~14 mo (Brenna's cottage; keeper plant; soldier's-heart flowered midwinter).
+  - **Ch 11** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1012,7 +1013,7 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 | Secret | Known by (at seed) |
 |---|---|
 | Opus is grieving Arielle | Opus; Penworth (implied); reader learns through objects |
-| The hill hums / is aware | Opus; Tomas (alone, pre-story); **Soren (has heard it his WHOLE LIFE, natively — revealed Ch 7; never thought it strange)**; Brenna's grandmother (dead); **Brenna (via her gran's notebooks, believes it now, Ch 6)**; Cael (suspects) |
+| The hill hums / is aware | Opus; **Tomas — now SHARED OPENLY with Opus (Ch 11 confession): Tomas has heard it ~2 yrs alone; Opus confirmed belief by naming the pre-dawn hour, gave the STANDING PROMISE ("when I know what it is, you will know") but did NOT confess his own listening**; **Soren (has heard it his WHOLE LIFE, natively — revealed Ch 7; never thought it strange)**; Brenna's grandmother (dead); **Brenna (via her gran's notebooks, believes it now, Ch 6)**; Cael (suspects) |
 | The hill AND the old oak are "the talking pair" | Brenna's grandmother (dead); Brenna (Ch 6); Opus (told Ch 6, half-believes) |
 | Soren's talent | Opus; Cael; Soren himself (partially) |
 | Ren's talent | Opus; Jorin (sensed it); Ren (after his assessment) |
@@ -1091,9 +1092,16 @@ show release. The coarse curve, so no chapter overshoots:
 - The hum SURFACED first-hand (Ch 3): dusk-fail + predawn pulses, below sound, felt through bone.
   Emlyn dismissed the "did it wait for me?" reading as fancy ("mostly I believed it") → the
   directed-greeting truth is reserved for Deep Grammar Phase Two (Ch 20) and the twist (Ch 28).
-- **Tomas's secret, deepened (Ch 6: "That hill," → stops → "comes on to winter early… mind it
-  does"; plus the Ch 5 hammer-pause).** The STANDING PROMISE is still NOT given (reserved, outline
-  Ch 10) → kept (Ch 22). Do not let the earlier seeds read as the promise.
+- **Tomas's secret — CONFESSED, and the STANDING PROMISE GIVEN (Ch 11 "What Tomas Carried").** The
+  Ch 5 hammer-pause and the Ch 6 "That hill," → head-of-the-stair seeds are now PAID: at the forge,
+  dusk, early summer Yr2, Tomas told Emlyn he has heard the hill ~2 years alone; Emlyn gave plain
+  belief (named the pre-dawn hour) but held his own listening private, then made the promise: **"when
+  I know what it is, you will know… you'll hear it from me, and first."** Tomas closed it with his
+  deal-word, **"Even."** → **PROMISE KEPT at Ch 23 ("Keeping the Promise")** — Tomas gets the true
+  shape (not the chest/compass). Between here and there, the "metronome": on each forge visit Tomas
+  lifts his chin at the hill and Emlyn answers **"Not yet"** — a recurring beat; use it sparingly.
+  Emlyn's OWN lying-awake listening remains told to no one (partial candor holds). Do NOT resolve
+  what the hum IS before the twist (Ch 28); the promise turns on "when I *know*," and he does not.
 - **The two-grandmothers question (OPEN, flagged on the page Ch 6):** Brenna's gran vs Cael's gran —
   same woman / sisters / strangers? "The answer was not the one I expected." → resolve when the
   author chooses; likely tied to the notebooks arc and the twist.

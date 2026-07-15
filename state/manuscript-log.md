@@ -7,8 +7,8 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–**10** + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
-- Word count so far: ~40,900 / ~90,000–100,000 target (full ~28-chapter shape, session-lock #10).
+- Drafted: Prologue + Chapters 1–**11** + **Interlude I** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
+- Word count so far: ~42,800 / ~90,000–100,000 target (full ~28-chapter shape, session-lock #10).
 - **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8–9 are Part II (winter → spring, Year 2).
 - **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
   like real novels; short chapters ~1,500–2,500 fine, some longer). Ch 9 is a deliberately shorter
@@ -35,7 +35,8 @@
   arithmetic and the grief clock are checkable up front — three new pre-draft-brief locates enforce
   them. New `state/engine-reports.md` archives each pass's claims (silent-miss vs conscious-keep).
   Full detail in the feedback-engine ENGINE CHANGELOG. doc-audit clean; no new lint FAILs.
-- Next to write: **Chapter 11, "What Tomas Carried"** (revised outline Ch 11): the confession chapter (late pickup, banked forge; Tomas has heard the hill for many months and told no one; the standing promise given, "when I know what it is, you will know"; the book's quiet metronome starts). **Ch 10 ("The Listener and the Singer") was DRAFTED 2026-07-14** (keeper plant seen, Singer/Listener named, partial candor held); the theory spine ("sings to something not yet arrived") stays BURIED for later volumes, two-grandmothers question stays OPEN. Length flexible.
+- **Ch 11 ("What Tomas Carried") DRAFTED 2026-07-15** (1,908w; a deliberately tight two-hander confession). Forge, dusk, early summer Yr2. Tomas confesses ~2 years' solitary hearing; Emlyn confirms belief by naming the pre-dawn hour, gives the STANDING PROMISE ("when I know what it is, you will know… first"), holds his own listening private; Tomas closes with "Even." The "metronome" begins (chin-at-hill → "Not yet"). Pre-chapter forks: the question tool failed in-session, so per session-lock #11 the outline defaults were taken and logged — POV Emlyn 1st-person (default; keeps Tomas rendered from outside, true to his stillness); confession OBLIQUE (Tomas's spare voice; undercurrent stays weather); Emlyn HOLDS HIS OWN COUNSEL (consistent with Ch10's just-locked partial candor). Lint fully clean (incl. the new dialogue meter).
+- Next to write: **Chapter 12, "The Listening Stone"** (revised outline Ch 12): the CELLAR DIG beneath the Study (the cut the later chapters presuppose) — Ren goes still over the NE corner and says nothing, Jorin sees it and says nothing (keep BLIND; this is what Ch 20's "he felt something in that cellar" refers to); Emlyn carries the CHEST down to the NE corner himself; the Deep Grammar program proper begins (recording blank, thirty days of sub-harmonics). **River-house completion papers arrive: the money lands, goes straight at the principal; her things crated unsorted under Penworth's seal; he signs where the flags are and does not read the inventory.** GRIEF stays sealed (curve: no release before Ch27–28). Length flexible.
 
 ---
 
@@ -751,6 +752,26 @@ the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on 
 (dark red, fist-shaped, 3 weeks); Brenna's cottage interior + cold cellar established; keeper plant
 SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
 device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open).
+
+[11] What Tomas Carried — Early summer Yr2 (~15 mo elapsed). The CONFESSION chapter, a tight
+two-hander (1,908w). Emlyn comes to Tomas's forge at dusk for four brass lamp-collars (the lamp
+trade "runs on iron" — repeat business has made him a fixture there). Tomas sets down the hammer,
+banks the fire, and finally goes down the stair he stopped at in Ch 6: **"That hill,"** → he has
+HEARD it ~2 years, alone, told no one ("hard to say when a thing began that you spent the first of
+it telling yourself was nothing"). Emlyn does NOT confess his own listening but proves belief by
+naming the second hour Tomas hadn't — **"At dusk. And again before it's light"** (you cannot humor a
+man with a fact he has told no one) → a two-years' weight goes out of Tomas, shown not named.
+Tomas's one load-bearing question: "Then what is it, up there." Emlyn gives the hard honest answer —
+he does NOT know, after a year of asking with every tool — then the STANDING PROMISE: **"when I know
+what it is, Tomas, you will know… from me, and first."** Tomas closes it with his deal-word:
+**"Even."** The "metronome" begins (from then, chin-at-hill → **"Not yet"**). CLOSING IMAGE/LINE:
+ends on dialogue — Emlyn's "Not yet" (varies from Ch 9/10 image-closes). NEW FACTS: Tomas's secret
+now SHARED with Emlyn (secrets ledger updated); standing promise MADE Ch 11 → KEPT Ch 23; the hum's
+two hours are semi-public via the lamp (Emlyn can name them without confessing personal listening);
+lamp trade = ongoing Tomas commissions (collars in 2s/3s). Grief RESTS sealed (curve honored).
+BLIND-SEED status: Ch5 hammer-pause + Ch6 "That hill," PAID; Emlyn's own listening RESTS blind; the
+hum's nature stays OPEN (twist Ch 28). Forks: outline defaults taken (question tool down) — see
+PROGRESS note. Engine report archived to state/engine-reports.md. prose-lint: all checks clear.
 
 PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
 

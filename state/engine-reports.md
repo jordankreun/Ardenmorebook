@@ -29,3 +29,8 @@ misses: none-yet   <- change to a dated line ONLY when a later author note catch
 counts: dashes=0 dialogue=~20% echoes=1(Snow/keeper rested) tics-over=[which:14>7 at draft] seed-tel=1 welds=0
 kept:   at draft, one "I would come to understand" read as character texture — LATER OVERTURNED by the editorial verify (refine pass 2, finding 23) and tightened; logged here as a judgment-bar correction.
 misses: 2026-07-14 refine-pass-2 (editorial verify) caught, in this chapter, a forty-vs-thirty timeline error and a keeper-leaf dating error that this pre-delivery pass did NOT — CANON checks are per-chapter only and cannot see cross-chapter arithmetic. → motivates the Tier-2 CALENDAR SPINE + NUMBERS-LEDGER discipline (now added).
+
+## [11] what-tomas-carried — 2026-07-15
+counts: dashes=0 dialogue=~33% echoes=0(one accidental "was going to its evening" vs Ch10 VARIED, not vouched) tics-over=none seed-tel=0 welds=0
+kept:   the Tomas callbacks "That hill," (Ch6) and "Even" (his deal-word) deliberately reused as motif — intentional payoff of the Ch5/Ch6 seeds, not accidental echo; not registered in phrase-registry (they are callbacks by design).
+misses: none-yet
