@@ -486,3 +486,17 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   WARN only when it fires *and is wrong*, never merely because it is quiet. **One roadmap item stays
   REJECTED** (not built): mechanizing repeat-family escalation — premature at this changelog depth;
   manual family-spotting has worked. Roadmap now fully resolved (Tier 1 + 2 + 3 built; one reject).
+- **2026-07-15 — review pass on Ch 11 (author: "take a pass at the book's review"), the new
+  instruments' first live run.** The blind-seed PROBE (bible-blind reader) passed the strict test:
+  it decoded NO active seed by function (Emlyn's hidden listening + the twist both stayed invisible);
+  its extra "significance-telegraphing" flags on the metronome/opening were adjudicated by the
+  editorial read as earned/intended, so left. The EDITORIAL read caught one CONFIRMED **silent miss**:
+  "I set this down…" (Ch11 ¶9) tripped session-lock #1's banned scribe framing — the drafting engine
+  claimed clean and the lint's memoir-frame FAIL list was scoped too narrowly (had 'this account',
+  not the 'set this down' variant). Gap analysis (intake step 3): SILENT MISS → SHARPEN. Mechanized:
+  added 'set this down'/'setting this down' to the memoir-frame FAIL list (step 4), regression-tested
+  0 false positives on Ch1–10. Two further review improvements applied (not misses, craft): surfaced
+  Emlyn's "I don't know" as a spoken line (scene-over-summary on the pivot); trimmed the
+  lightning-thunder tail's over-explaining clause. Lesson: a locked-decision breach is a FAIL class
+  the mechanical list must cover phrase-by-phrase; when a lock bans a *family* of phrasing, seed the
+  list with every variant the lock names, not just the first.

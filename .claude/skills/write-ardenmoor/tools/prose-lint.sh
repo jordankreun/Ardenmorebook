@@ -97,9 +97,9 @@ for f in "$@"; do
 
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then
-    for p in 'this account' 'the tellers' 'shook kingdoms' 'in a long life' \
-             'half myth' 'everyone I knew is gone' 'longer than most kingdoms' \
-             'an honest accounting'; do
+    for p in 'this account' 'set this down' 'setting this down' 'the tellers' \
+             'shook kingdoms' 'in a long life' 'half myth' 'everyone I knew is gone' \
+             'longer than most kingdoms' 'an honest accounting'; do
       n=$(count "$p" "$f")
       if [ "$n" -gt 0 ]; then echo "  FAIL  memoir-frame phrase \"$p\": $n (chapters stay immediate)"; status=1; fi
     done
