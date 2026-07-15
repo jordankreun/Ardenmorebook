@@ -35,6 +35,14 @@
   arithmetic and the grief clock are checkable up front — three new pre-draft-brief locates enforce
   them. New `state/engine-reports.md` archives each pass's claims (silent-miss vs conscious-keep).
   Full detail in the feedback-engine ENGINE CHANGELOG. doc-audit clean; no new lint FAILs.
+- **ENGINE BUILD, Tier 3 (2026-07-15, "build 3"):** the three optional items, each as the audit's
+  narrow half. (a) **Blind-seed falsification PROBE** (P1 [PROBE]): a bible-blind sub-agent reads the
+  book through chapter N and is asked only "is anything set up to matter later?"; a seed it names by
+  function failed the [HARD] test → replant. (b) **Delivery receipt** `tools/chapter-check.sh`:
+  existence-only end-of-drafting gate (in manifest? has registry row? has log recap?) — verified
+  PASS on all 13 drafted files, FAIL on an unwired file. (c) **De-escalation discipline** folded into
+  intake step 4: prune noisy WARNs when you add one (budget-0 tripwires exempt). One roadmap item
+  stays REJECTED (repeat-family escalation — premature). Roadmap now fully resolved.
 - **Ch 11 ("What Tomas Carried") DRAFTED 2026-07-15** (1,908w; a deliberately tight two-hander confession). Forge, dusk, early summer Yr2. Tomas confesses ~2 years' solitary hearing; Emlyn confirms belief by naming the pre-dawn hour, gives the STANDING PROMISE ("when I know what it is, you will know… first"), holds his own listening private; Tomas closes with "Even." The "metronome" begins (chin-at-hill → "Not yet"). Pre-chapter forks: the question tool failed in-session, so per session-lock #11 the outline defaults were taken and logged — POV Emlyn 1st-person (default; keeps Tomas rendered from outside, true to his stillness); confession OBLIQUE (Tomas's spare voice; undercurrent stays weather); Emlyn HOLDS HIS OWN COUNSEL (consistent with Ch10's just-locked partial candor). Lint fully clean (incl. the new dialogue meter).
 - Next to write: **Chapter 12, "The Listening Stone"** (revised outline Ch 12): the CELLAR DIG beneath the Study (the cut the later chapters presuppose) — Ren goes still over the NE corner and says nothing, Jorin sees it and says nothing (keep BLIND; this is what Ch 20's "he felt something in that cellar" refers to); Emlyn carries the CHEST down to the NE corner himself; the Deep Grammar program proper begins (recording blank, thirty days of sub-harmonics). **River-house completion papers arrive: the money lands, goes straight at the principal; her things crated unsorted under Penworth's seal; he signs where the flags are and does not read the inventory.** GRIEF stays sealed (curve: no release before Ch27–28). Length flexible.
 

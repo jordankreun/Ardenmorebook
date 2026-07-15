@@ -148,6 +148,28 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   waterings a seed RESTS, and resting is the default. Check the pre-draft brief: if the previous
   chapter touched a seed, this one almost certainly shouldn't. *Source: forward-robustness review,
   2026-07-13 (corollary of "Setups are invisible").*
+- **[PROBE] The blind-seed falsification instrument (run it when the chapter plants or waters an
+  active seed).** The "could a first-time reader tell?" test above has a built-in flaw: *every*
+  reviewer this engine can field already knows the book, so none of them can honestly answer it —
+  they read the seed as load-bearing because they know it is. The only uncontaminated instrument is
+  a **fresh, bible-blind sub-agent** who has never seen the payoff. Protocol:
+  1. Spawn a sub-agent given **only the manuscript through this chapter** (no bible, no outline, no
+     PENDING PAYOFFS, no pre-draft brief — genuinely blind to what pays off later).
+  2. Ask it exactly one question: *"Reading this as a first-time reader, is anything here being
+     deliberately set up to matter later? List anything that reads as planted, and say why."*
+  3. **Cross-check its list against the bible's PENDING PAYOFFS.** If it names an active blind seed
+     **by its real function** (not just "this object was mentioned" — it must clock the *setup*),
+     that seed FAILED the [HARD] test: it is telegraphing. Replant it flatter and re-probe.
+     A seed the blind reader files as ordinary life has passed. Log a fail + the replant in the
+     changelog.
+  - **Keep it to the one narrow question.** Do NOT bolt on the four-question "where did you skim /
+    what confused you / what did you expect that never came / what felt like a promise" reader that
+    was proposed alongside this: an LLM confabulates a skim-map, the editor's read already owns
+    disengagement, and "what did you expect that never came" is an engine for flagging exactly the
+    things the book withholds ON PURPOSE — the deferred surname, the Part-IV twist, the sealed
+    grief. That reader would generate false alarms against the book's deliberate structure. The
+    blind-seed probe asks only whether a seed reads as a seed, which is the one thing no knowing
+    reviewer can judge. *Source: engine roadmap Tier 3 (2026-07-15), the narrow half of the naive-reader idea.*
 - **[CRAFT] No forced epiphany or spiritual beat.** Big moments stay measured. When the protagonist
   encounters the numinous, the honest register is often "neither disappointed nor blown away," a
   view and a quiet, not a revelation. The prose gets *quieter* at the largest moments. *Source: Ch2
@@ -328,10 +350,20 @@ IS DURABLE"), run this full protocol. A note that only fixes the one line has NO
    (tighten the bar, don't add machinery). Then record the miss on that block's `misses:` line.
    **Escalation is mandatory, not optional: the second note in the same family makes that family
    [HARD], and a third requires a mechanical lint pattern.**
-4. **Mechanize.** If ANY part of the rule is detectable by pattern (a phrase, a construction, a
-   count), add it to `tools/prose-lint.sh` the same day, as FAIL (hard rules) or WARN (review
-   lists / budgets). The lint is the only part of this system that cannot forget, get tired, or
-   talk itself into an exception. A rule that could be mechanized and wasn't is a future repeat.
+4. **Mechanize (and DE-escalate in the same breath).** If ANY part of the rule is detectable by
+   pattern (a phrase, a construction, a count), add it to `tools/prose-lint.sh` the same day, as
+   FAIL (hard rules) or WARN (review lists / budgets). The lint is the only part of this system that
+   cannot forget, get tired, or talk itself into an exception. A rule that could be mechanized and
+   wasn't is a future repeat. **Whenever you ADD a lint pattern, spend one line pruning:** review
+   whether any *existing* WARN has ever come near a real catch, and relax or retire the ones that
+   are pure noise, logging the retirement in the changelog and adding the old formulation to
+   `tools/superseded.txt` if it was a rule. The prune reflex must fire exactly when the add reflex
+   does, or the lint silently accretes false-friends until every WARN is background noise and the
+   real ones get ignored (the seed-telegraph false-friends were retired for exactly this reason).
+   **One caveat: a low catch-rate does NOT condemn a deterrent tripwire.** A budget-0 pattern
+   (seed-telegraph, welds, `had had`) is *supposed* to almost never fire; its value is deterrence,
+   and near-zero hits mean it is working, not that it is noise. Retire a WARN only when it fires
+   *and is wrong* — never merely because it is quiet. *Source: engine roadmap Tier 3 (2026-07-15).*
 5. **Retro-sweep.** Grep the drafted manuscript for the same failure class (the lint pattern from
    step 4 is the sweep tool). Fix instances where the change is surgical; where a fix would alter
    a beat the author has read and liked, flag it to the author instead of silently changing it.
@@ -428,3 +460,29 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   trackability + widened [CHECK] Bookend variety (openings AND closes) in P4; editorial-read level-2
   gained speaker-trackability; style-guide dial #3 widened to "vary the bookends." doc-audit clean;
   full lint shows no new FAILs.
+- **2026-07-15 — engine ROADMAP build (author: "build 3" = Tier 3), the three optional items, each
+  built as the AUDIT'S NARROW HALF (the over-built half of each was explicitly rejected).** (j)
+  **Blind-seed falsification PROBE** — new P1 [PROBE] instrument: when a chapter plants/waters an
+  active seed, spawn a fresh *bible-blind* sub-agent given only the manuscript through that chapter
+  and ask the ONE question — does anything read as deliberately set up to matter later? — then
+  cross-check its list against PENDING PAYOFFS; a seed named by function failed the [HARD] test and
+  is replanted. This is the only uncontaminated test of the blind-seed rule (every knowing reviewer
+  already sees the payoff). *Rejected half:* the four-question skim/confusion/expectation reader —
+  an LLM confabulates a skim-map and "what did you expect that never came" would false-alarm against
+  the book's DELIBERATE withholdings (the surname, the twist, the sealed grief). Wired into SKILL.md
+  post-flight (conditional on a live seed). (k) **Delivery receipt** `tools/chapter-check.sh` —
+  existence-only gate run at end of drafting: re-runs the lint and asserts the chapter is plumbed in
+  (in `manifest.json` — else invisible to `reader.html`; has a phrase-registry row; has a log recap
+  line). One PASS/FAIL line each; exit 1 on any FAIL. *Rejected half:* the front-matter-keys check
+  (would FAIL all existing files; the header spec is a dead letter), the gameable "bible modified or
+  N/A" self-assertions, and above all a tracked git pre-commit hook (can't tell a new-chapter commit
+  from this repo's constant revision commits, so it only trains `--no-verify`). Verified: PASS on the
+  wired Ch1–11 + interlude, FAIL on an unwired file. Wired into SKILL.md as the final mechanical
+  gate. (l) **De-escalation discipline note** — folded into intake step 4 (Mechanize): whenever you
+  ADD a lint pattern, in the same breath review whether any existing WARN ever neared a real catch
+  and retire the pure-noise ones (log it, add to `superseded.txt`) — the prune reflex fires when the
+  add reflex does, so the lint can't silently accrete false-friends. Caveat codified: a budget-0
+  deterrent tripwire (seed-telegraph, welds, `had had`) is SUPPOSED to almost never fire; retire a
+  WARN only when it fires *and is wrong*, never merely because it is quiet. **One roadmap item stays
+  REJECTED** (not built): mechanizing repeat-family escalation — premature at this changelog depth;
+  manual family-spotting has worked. Roadmap now fully resolved (Tier 1 + 2 + 3 built; one reject).

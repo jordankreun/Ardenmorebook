@@ -34,6 +34,7 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 - `.claude/skills/write-ardenmoor/tools/prose-lint.sh` — the MECHANICAL voice guard: run it on every chapter before delivery (hard rules FAIL, tic budgets WARN); see the post-flight step
 - `.claude/skills/write-ardenmoor/tools/phrase-registry.txt` — distinctive one-use phrases and their home chapters; the lint fails any reuse; append each new chapter's best coinages
 - `.claude/skills/write-ardenmoor/tools/vouched.txt` — the VOUCH LEDGER: the deliberate cross-chapter echoes (motifs, callbacks, canonical terms) the lint's adjacent-echo check should stop re-flagging for a specific file-pair; a NEW echo still fires
+- `.claude/skills/write-ardenmoor/tools/chapter-check.sh` — the end-of-drafting DELIVERY RECEIPT: runs the lint and asserts the new chapter is actually wired into the plumbing (in `manifest.json`, has a phrase-registry row, has a log recap line); one PASS/FAIL line each, existence-only
 - `state/story-bible.md` — the LIVING continuity record; you read and update it every chapter
 - `state/engine-reports.md` — append-only archive of what the pre-delivery engine pass CLAIMED per chapter (counts + deliberate keeps); NOT read at startup — consulted on demand at intake gap-analysis and when revising to a note, to tell a silent miss from a conscious keep
 - `state/geography.md` — the LIVING map & gazetteer (valley, hill, village, roads, water);
@@ -309,6 +310,14 @@ before the draft reaches the author. Then give the author a short (2–4 line) *
 what the pass flagged, what it changed, and anything you deliberately kept and why. Do not present
 a chapter as ready until this pass has run.
 
+**Run the BLIND-SEED FALSIFICATION PROBE if the chapter planted or watered an active seed** (check
+the pre-draft brief / bible PENDING PAYOFFS). Spawn a fresh sub-agent given ONLY the manuscript
+through this chapter — blind to the bible, outline, and payoffs — and ask it the single question in
+`feedback-engine.md` P1 [PROBE]: does anything here read as deliberately set up to matter later? If
+it names an active seed by its real function, the seed is telegraphing; replant it flatter and
+re-probe. This is the only uncontaminated test of the [HARD] blind-seed rule, because every other
+reviewer already knows the payoffs. Skip it for a chapter that rests all its seeds.
+
 **Then archive the pass (the last drafting step).** Append one terse block for this chapter to
 `state/engine-reports.md` in its schema (counts + deliberate keeps, never prose). This records
 what the engine CLAIMED at ship time so a later author note can be told apart from a silent miss:
@@ -316,6 +325,15 @@ if the engine claimed a chapter clean and a note later catches a real defect, th
 or too narrow (SHARPEN it); if the engine flagged it and vouched a keep the author still disliked,
 the judgment bar was wrong. It is append-only and is NOT part of the startup read; it is consulted
 on demand at intake gap-analysis and whenever revising a chapter to a note.
+
+**Run the DELIVERY RECEIPT (the final mechanical gate).** After all state wiring is done, run:
+```
+.claude/skills/write-ardenmoor/tools/chapter-check.sh manuscript/NN-slug.md
+```
+It re-runs the lint and asserts the chapter is actually plumbed in — listed in `manifest.json` (or
+it is invisible to `reader.html`), has a `phrase-registry.txt` row, and has a log recap line. Any
+FAIL means a wiring step was skipped; fix it before declaring the chapter done. This catches the
+silent, mechanical omissions (a forgotten manifest entry) that no prose pass looks for.
 
 ---
 
