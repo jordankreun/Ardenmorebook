@@ -134,6 +134,23 @@
   .inlineBar .row{margin-top:0}
   .inlineBar .hint{margin:.35rem 0 0}
 
+  /* ---------- anchored floating popover: annotate WITHOUT moving the page ----------
+     The composer floats over the layout, anchored beside the passage. It is
+     position:fixed, so the document never reflows and the scroll position never
+     changes: you keep your exact place. Replaces the old in-flow card (which
+     pushed the text down and scrolled the passage away). */
+  .popover{position:fixed;z-index:88;width:min(30rem,calc(100vw - 1.4rem));
+    background:var(--panel);border:1px solid var(--rule);border-radius:12px;
+    box-shadow:0 10px 34px var(--shadow),0 2px 8px var(--shadow);padding:.6rem;
+    overflow:auto;-webkit-overflow-scrolling:touch;animation:popIn .14s ease}
+  @keyframes popIn{from{opacity:0;transform:translateY(4px) scale(.99)}to{opacity:1;transform:none}}
+  .popover .composer{margin:0;border:0;background:transparent;padding:0}
+  .popover.editBar{width:min(22rem,calc(100vw - 1.4rem))}
+  .popover .caret{position:absolute;width:.7rem;height:.7rem;background:var(--panel);
+    border-left:1px solid var(--rule);border-top:1px solid var(--rule);transform:rotate(45deg)}
+  .popover.below .caret{top:-.38rem}
+  .popover.above .caret{bottom:-.38rem;transform:rotate(225deg)}
+
   /* ---------- bottom-sheet editor overlay ---------- */
   #sheetWrap{position:fixed;inset:0;z-index:85;pointer-events:none}
   #sheetWrap.open{pointer-events:auto}
@@ -585,7 +602,7 @@
       p.classList.toggle("hasNote", !!note);
       if(note){
         var nd=document.createElement("span"); nd.className="noteDot"; nd.innerHTML=svg("note"); nd.title="View / edit note";
-        nd.addEventListener("click", function(){ openComposer(p, note.quote); });
+        nd.addEventListener("click", function(){ openComposer(p, note.quote, nd); });
         p.appendChild(nd);
       }
       if(rev){
@@ -633,8 +650,72 @@
     decorate();
     window.scrollBy(0, p.getBoundingClientRect().top-top);
   }
+
+  /* ---------- anchored floating popover host ----------
+     Places a widget as a position:fixed overlay next to its anchor. Nothing is
+     inserted into document flow, so the page never reflows and the reader's
+     scroll position is untouched. The popover prefers to sit just below the
+     passage, flips above when there is no room, and pins itself inside the
+     visible viewport (above the on-screen keyboard) as a last resort. */
+  function positionPopover(pop, anchor){
+    var m=8, vp=window.visualViewport;
+    var vw=vp?vp.width:window.innerWidth, vh=vp?vp.height:window.innerHeight;
+    var ox=vp?vp.offsetLeft:0, oy=vp?vp.offsetTop:0;
+    var pw=pop.offsetWidth, ph=pop.offsetHeight;
+    var r=anchor.getBoundingClientRect();
+    var left=r.left;
+    if(left+pw>ox+vw-m) left=ox+vw-pw-m;
+    if(left<ox+m) left=ox+m;
+    var below=true, top=r.bottom+m;
+    if(top+ph>oy+vh-m){
+      var above=r.top-m-ph;
+      if(above>=oy+m){ top=above; below=false; }
+      else { top=oy+vh-ph-m; }        // pin inside the viewport (keyboard-safe)
+    }
+    if(top<oy+m) top=oy+m;
+    pop.style.left=Math.round(left)+"px";
+    pop.style.top=Math.round(top)+"px";
+    pop.style.maxHeight=Math.round(vh-2*m)+"px";
+    pop.classList.toggle("below", below);
+    pop.classList.toggle("above", !below);
+    var caret=pop.querySelector(".caret");
+    if(caret){
+      var cx=Math.min(Math.max(r.left+r.width/2-left, 14), pw-14);
+      caret.style.left=Math.round(cx)+"px";
+    }
+  }
+  function openPopover(anchor, inner, extraClass){
+    var pop=document.createElement("div"); pop.className="popover"+(extraClass?(" "+extraClass):"");
+    var caret=document.createElement("div"); caret.className="caret"; pop.appendChild(caret);
+    pop.appendChild(inner);
+    document.body.appendChild(pop);
+    inlineWidget=pop;
+    positionPopover(pop, anchor);
+    var reflow=function(){ if(inlineWidget===pop) positionPopover(pop, anchor); };
+    window.addEventListener("scroll", reflow, true);
+    window.addEventListener("resize", reflow);
+    if(window.visualViewport){ window.visualViewport.addEventListener("resize", reflow); window.visualViewport.addEventListener("scroll", reflow); }
+    var outside=function(e){
+      if(inlineWidget!==pop || pop.contains(e.target)) return;
+      if(editingP) return;                          // editor: dismiss only via Save/Cancel/Esc
+      var ta=pop.querySelector("textarea");
+      if(ta && ta.value.trim()) return;             // a note with unsaved text stays put
+      closeInline();
+    };
+    document.addEventListener("pointerdown", outside, true);
+    pop._teardown=function(){
+      window.removeEventListener("scroll", reflow, true);
+      window.removeEventListener("resize", reflow);
+      if(window.visualViewport){ window.visualViewport.removeEventListener("resize", reflow); window.visualViewport.removeEventListener("scroll", reflow); }
+      document.removeEventListener("pointerdown", outside, true);
+    };
+    return pop;
+  }
   function closeInline(){
-    if(inlineWidget&&inlineWidget.parentNode) inlineWidget.parentNode.removeChild(inlineWidget);
+    if(inlineWidget){
+      if(inlineWidget._teardown) inlineWidget._teardown();
+      if(inlineWidget.parentNode) inlineWidget.parentNode.removeChild(inlineWidget);
+    }
     inlineWidget=null;
     if(editingP){
       var p=editingP; editingP=null;
@@ -644,28 +725,34 @@
   }
   function closeComposers(){ closeInline(); closeSheet(); }
 
-  /* ---------- note composer (same data logic; now an in-flow card under the paragraph) ---------- */
-  function openComposer(p, quote){
+  /* ---------- note composer (floats beside the passage; the page never moves) ---------- */
+  function openComposer(p, quote, anchor){
     closeComposers();
     var chap=p.dataset.chap, s=p.dataset.snip, existing=findNote(chap,s);
     var q=(existing&&existing.quote)||quote||"";
-    var box=document.createElement("div"); box.className="composer inlineCard";
+    var box=document.createElement("div"); box.className="composer";
     box.innerHTML=(q?("<p class=\"quote\">"+esc(q.length>220?q.slice(0,220)+"…":q)+"</p>"):"")+
       "<textarea placeholder=\"Your note or feedback about this passage…\"></textarea>"+
       "<div class=\"row\"><button class=\"primary save\">Save note</button><button class=\"cancel\">Cancel</button>"+
       (existing?"<button class=\"del\">Delete</button>":"")+"</div>";
-    placeAfter(p, box); inlineWidget=box;
+    var pop=openPopover(anchor||p, box, "noteCard");
     var ta=box.querySelector("textarea"); ta.value=existing?existing.text:"";
-    box.scrollIntoView({block:"nearest"}); ta.focus();
+    ta.focus();
+    // the soft keyboard resizes the viewport after focus; re-anchor once it has.
+    setTimeout(function(){ if(inlineWidget===pop) positionPopover(pop, anchor||p); }, 80);
+    ta.addEventListener("keydown", function(e){
+      if((e.metaKey||e.ctrlKey)&&e.key==="Enter"){ e.preventDefault(); box.querySelector(".save").click(); }
+      else if(e.key==="Escape"){ e.preventDefault(); closeInline(); }
+    });
     box.querySelector(".save").addEventListener("click", function(){
       var v=ta.value.trim(); if(!v){ toast("Nothing to save"); return; }
-      if(box.parentNode) box.parentNode.removeChild(box); inlineWidget=null;
+      closeInline();
       upsertNote(chap,s,q,v); redecorateStable(p); buildNotesList(); toast("Note saved");
     });
     box.querySelector(".cancel").addEventListener("click", closeInline);
     var del=box.querySelector(".del");
     if(del) del.addEventListener("click", function(){
-      if(box.parentNode) box.parentNode.removeChild(box); inlineWidget=null;
+      closeInline();
       deleteNote(chap,s); redecorateStable(p); buildNotesList(); toast("Note deleted");
     });
   }
@@ -680,12 +767,14 @@
     p.classList.add("editingP");
     p.textContent=raw;
     p.contentEditable="true"; p.spellcheck=true;
-    var bar=document.createElement("div"); bar.className="composer edit inlineBar inlineCard";
+    var bar=document.createElement("div"); bar.className="composer edit";
     bar.contentEditable="false";
     bar.innerHTML="<div class=\"row\"><button class=\"primary save\">Save revision</button><button class=\"cancel\">Cancel</button>"+
       (existing?"<button class=\"del\">Revert</button>":"")+"</div>"+
       "<p class=\"hint\">Edit the paragraph right where it sits; clear it out to cut the passage. Saved as a tracked change.</p>";
-    placeAfter(p, bar); inlineWidget=bar;
+    var pop=openPopover(p, bar, "editBar");
+    // the paragraph grows/shrinks as it is typed; keep the toolbar anchored to it.
+    p.addEventListener("input", function(){ if(inlineWidget===pop) positionPopover(pop, p); });
     // Put the caret exactly where the reader was: re-select the phrase they chose.
     try{
       var node=p.firstChild, sel=window.getSelection(), r=document.createRange();
@@ -923,18 +1012,37 @@
     goBtn.innerHTML=svg("arrowRight")+"<span>"+(bm?"Go to your bookmark":"No bookmark yet")+"</span>";
     goBtn.disabled=!bm;
   }
+  // Reading position is anchored to the PARAGRAPH at the top of the viewport
+  // (Kindle-style "location"), not to a raw pixel offset. Re-finding the paragraph
+  // on restore keeps the spot exact even after a font-size or layout change, or a
+  // new chapter being added above where you were.
+  function anchorParagraph(){
+    var ps=book.querySelectorAll("p[data-snip]"), y=window.scrollY, chosen=null;
+    for(var i=0;i<ps.length;i++){
+      var absTop=ps[i].getBoundingClientRect().top+y;
+      if(absTop<=y+6) chosen=ps[i]; else break;
+    }
+    return chosen;
+  }
   function posOfParagraph(p){
-    var el=p; while(el&&!(el.classList&&el.classList.contains("chapter"))) el=el.parentElement;
-    if(!el) return currentPos();
-    return { id: el.id, offset: Math.round(p.offsetTop - el.offsetTop) };
+    if(!p) return currentPos();
+    return { chap:p.dataset.chap, snip:p.dataset.snip, offset:0 };
   }
   function currentPos(){
-    var y=window.scrollY+4, chosen=chapters.length?chapters[0]:null;
-    for(var i=0;i<chapters.length;i++){ if(chapters[i].el.offsetTop<=y) chosen=chapters[i]; else break; }
-    if(!chosen) return {id:null,offset:window.scrollY};
-    return {id:chosen.id,offset:Math.round(window.scrollY-chosen.el.offsetTop)};
+    var p=anchorParagraph();
+    if(!p) return { chap:null, snip:null, offset:window.scrollY };
+    var absTop=p.getBoundingClientRect().top+window.scrollY;
+    return { chap:p.dataset.chap, snip:p.dataset.snip, offset:Math.round(window.scrollY-absTop) };
   }
-  function gotoPos(pos){ if(!pos) return; var el=pos.id&&document.getElementById(pos.id); window.scrollTo(0,Math.max(0,(el?el.offsetTop:0)+(pos.offset||0))); }
+  function gotoPos(pos){
+    if(!pos) return;
+    if(pos.chap!=null && pos.snip!=null){
+      var p=findParagraph(pos.chap,pos.snip);
+      if(p){ var t=p.getBoundingClientRect().top+window.scrollY; window.scrollTo(0,Math.max(0,Math.round(t+(pos.offset||0)))); return; }
+    }
+    if(pos.id){ var el=document.getElementById(pos.id); if(el){ window.scrollTo(0,Math.max(0,el.offsetTop+(pos.offset||0))); return; } } // legacy {id,offset}
+    if(typeof pos.offset==="number") window.scrollTo(0,Math.max(0,pos.offset)); // legacy raw offset
+  }
   function savePos(k,p){ try{ localStorage.setItem(k,JSON.stringify(p)); }catch(e){} }
   function loadPos(k){ try{ var v=localStorage.getItem(k); return v?JSON.parse(v):null; }catch(e){ return null; } }
 
@@ -947,7 +1055,8 @@
     });
   }
 
-  var ticking=false, miniFill=document.getElementById("miniFill"), bookPct=document.getElementById("bookPct");
+  var ticking=false, restoring=false, miniFill=document.getElementById("miniFill"), bookPct=document.getElementById("bookPct");
+  function saveSpot(){ if(restoring) return; savePos(KEY_PROGRESS, currentPos()); }
   function onScroll(){
     if(ticking) return; ticking=true;
     requestAnimationFrame(function(){
@@ -956,9 +1065,12 @@
       progressEl.style.width=pct+"%";
       if(miniFill) miniFill.style.width=pct+"%";
       if(bookPct) bookPct.textContent=Math.round(pct);
-      var pos=currentPos();
-      tocNav.querySelectorAll("a[data-id]").forEach(function(l){ l.classList.toggle("active", l.dataset.id===pos.id); });
-      clearTimeout(onScroll._t); onScroll._t=setTimeout(function(){ savePos(KEY_PROGRESS,pos); },400);
+      // Active chapter for the TOC highlight (cheap: only the ~13 chapter anchors).
+      var y=window.scrollY+4, actId=chapters.length?chapters[0].id:null;
+      for(var i=0;i<chapters.length;i++){ if(chapters[i].el.offsetTop<=y) actId=chapters[i].id; else break; }
+      tocNav.querySelectorAll("a[data-id]").forEach(function(l){ l.classList.toggle("active", l.dataset.id===actId); });
+      // Persist the reading spot, debounced (the paragraph scan runs only here).
+      if(!restoring){ clearTimeout(onScroll._t); onScroll._t=setTimeout(saveSpot,400); }
       ticking=false;
     });
   }
@@ -1267,16 +1379,37 @@
     window.addEventListener("load", function(){ navigator.serviceWorker.register("sw.js").catch(function(){}); });
   }
 
+  // We restore the reading spot ourselves; stop the browser from also trying to.
+  if("scrollRestoration" in history){ try{ history.scrollRestoration="manual"; }catch(e){} }
   window.addEventListener("scroll", onScroll, {passive:true});
   window.addEventListener("resize", function(){ onScroll(); layoutTicks(); });
+  // Flush the spot the instant the app is backgrounded or closed (mobile Safari /
+  // installed PWAs often never fire "beforeunload", so debounced saves can be lost).
+  document.addEventListener("visibilitychange", function(){ if(document.visibilityState==="hidden"){ clearTimeout(onScroll._t); saveSpot(); } });
+  window.addEventListener("pagehide", function(){ clearTimeout(onScroll._t); saveSpot(); });
 
   fetchText(MANIFEST).then(function(txt){
     var files=JSON.parse(txt);
     return Promise.all(files.map(function(f){ return fetchText(DIR+f); }));
   }).then(function(texts){
     render(texts);
-    if(location.hash&&document.getElementById(location.hash.slice(1))) document.getElementById(location.hash.slice(1)).scrollIntoView();
-    else { var p=loadPos(KEY_PROGRESS); if(p) setTimeout(function(){ gotoPos(p); layoutTicks(); },30); }
+    if(location.hash&&document.getElementById(location.hash.slice(1))){
+      document.getElementById(location.hash.slice(1)).scrollIntoView();
+    } else {
+      var saved=loadPos(KEY_PROGRESS);
+      if(saved){
+        // Kindle-style resume: restore after fonts + layout have settled so the
+        // paragraph lands exactly, then re-correct once for any late shift.
+        restoring=true;
+        var doRestore=function(){ gotoPos(saved); layoutTicks(); };
+        (document.fonts&&document.fonts.ready?document.fonts.ready:Promise.resolve()).then(function(){
+          requestAnimationFrame(function(){ requestAnimationFrame(function(){
+            doRestore();
+            setTimeout(function(){ doRestore(); restoring=false; onScroll(); }, 260);
+          }); });
+        });
+      }
+    }
     onScroll();
     SYNC.init();
   }).catch(function(err){
