@@ -249,6 +249,7 @@ if it needs a new one, add it here.
   - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; Soren's talent slips at the square well; Emlyn covers; the wall talk; "I'll be quiet, like the hill").
   - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth visits the hill; the mail's three correspondents; first loan payment made).
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
+  - **Ch 15** — **Yr2, late summer → early autumn** — elapsed ~19 mo (the greenhouse raised: steel frame, glass hung; Brenna's soil plan + the reserved north corner; Essa's bed; the callipers drawer let stay stuck).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.

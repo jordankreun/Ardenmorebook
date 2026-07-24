@@ -52,7 +52,7 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
   bend). [PAGE ch2] [CANON]
 - The **spring** rises on the hill's **south face**. [PAGE ch2] (Consistent with [CANON]: the
   well is sunk on the south face.)
-- The **greenhouse** will stand on the **southeast slope**. [CANON — not yet built]
+- **The GREENHOUSE is now BUILT (Ch 15):** on the **southeast slope** — an enchanted wrought-steel frame (forged in the city to Emlyn's drawings, warded against rust/rot, brought up via Wainford on four wagons), glass hung over three weeks. Beds planned WITH Brenna (partnership); the **cool shaded NORTH corner is kept BARE on purpose** ("leave it, I'll tell you when" — reserved, unspoken, for the keeper plant eventually; BLIND). The greenhouse is meant as the "years' bread" (earns from the ground; Brenna's trade + Emlyn's craft under one roof). [PAGE ch15]
 - The **green shelf / future storehouse** is on the **east side, below the crown/cellar**;
   its rear wall will be set true to a compass bearing for a cellar connection dug years later.
   [PAGE ch2 (the shelf); CANON (storehouse placement)]
@@ -95,7 +95,9 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
   at the hill's two hours** (ambiguous seed). Supersedes the old "Snow's paddock/stable planned on the
   east slope" note — Snow is housed here now. [PAGE ch9]
 - **The STUDY is now Emlyn's WORKROOM** (Ch 9): he moved his living to the cabin; the Study keeps his
-  instruments/books and **the locked chest still in its NE corner**. [PAGE ch9]
+  instruments/books and the **desk with the sticking lower-right drawer** (holds the dimensional
+  callipers + the unread river-house inventory, Ch 12/15). **The locked chest was moved DOWN to the
+  CELLAR's NE corner in Ch 12** (no longer in the Study — see the cellar bullet above). [PAGE ch9; updated ch12]
 - **The reshaped footing** — before building, Emlyn cast the first working and the hill settled the
   deep grain into a true load-bearing footing under the crown, offset toward the **NE** (Ch4). This
   is why the ground "nothing stands on" now holds. [PAGE ch4]
