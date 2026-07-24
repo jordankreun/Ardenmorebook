@@ -763,7 +763,7 @@ beat on the walk back. CLOSING IMAGE: the first brown notebook set closed by the
 the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on Emlyn's north sill
 (dark red, fist-shaped, 3 weeks); Brenna's cottage interior + cold cellar established; keeper plant
 SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
-device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open).
+device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open). **REVISED 2026-07-15 (author fork): Brenna CALLS HIM OUT as shaken in the cellar** ("you've gone grey as that wall… I'll not be told it's nothing"); Emlyn stays cautious/silent, she respects the boundary but won't accept the lie, and he's glad of "the one person who will not let you get away with yourself." Candor stays PARTIAL/cautious.
 
 [11] What Tomas Carried — Early summer Yr2 (~15 mo elapsed). The CONFESSION chapter, a tight
 two-hander (1,908w). Emlyn comes to Tomas's forge at dusk for four brass lamp-collars (the lamp

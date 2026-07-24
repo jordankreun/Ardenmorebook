@@ -1034,6 +1034,11 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   possess the whole set). (c) **KEEPER PLANT: Emlyn has SEEN it** (Brenna's cellar; 3 new leaves since
   "the week you took the hill"); he privately senses it "points" like the oak toward the unheard thing
   but KEEPS THE HUM PRIVATE (partial candor holds — he has still told no one he lies awake listening).
+  **(c-rev, author 2026-07-15): Emlyn stays CAUTIOUS, but Brenna CALLS HIM OUT as shaken** ("you've
+  gone grey as that wall… I'll not be told it's nothing"). He holds his silence (won't say WHAT); she
+  respects the boundary but refuses to let him call it nothing, and he is quietly glad of "the one
+  person who will not let you get away with yourself." → **Brenna character note (durable): she reads
+  faces and NAMES what she sees, and will not accept a plain lie, though she won't force the reason.**
   (d) **SINGER = hill, LISTENER = oak** now NAMED ON-PAGE (the grandmother's terms); her early-book line
   "it is not for me… the tree is only holding it. Passing it on." (e) The theory's SPINE ("the Singer
   sings to something NOT YET ARRIVED") is deliberately BURIED in later volumes — NOT yet reached; save
@@ -1080,6 +1085,11 @@ show release. The coarse curve, so no chapter overshoots:
   the chest for the finale; Cecily's letter lands in the aftermath) → **rebuild in stone** opens Book Two ("only stone endures on this hill"). Timing locked 2026-07-14; keep seeds
   light until then, and stage the fire clear of the letter/chest/compass finale beats. Hill stays benevolent (different axis from Cael's-father's masonry). Nice latent
   irony already on the page: Ch 8's lumen "could not catch a barn afire."
+  **⚠️ FORESHADOW = LIGHT, ARRIVAL = SHOCK (author 2026-07-15):** the fire must land as a genuine
+  shock. Do NOT add more telegraphing between here and Ch 27 — the existing light seeds (Snow's
+  unease; wood-vs-stone) are ENOUGH and are for the reader's *hindsight only*. No dread-building,
+  no "little did I know," no ominous weather the night of; write the pre-fire chapters as ordinary
+  cozy life so the burn hits without warning, and let the planted seeds pay off only in retrospect.
 - Thesis foreshadowed in Emlyn's thought "never once been asked" (Ch 2) → surveyor's marginal
   note found at the first working → earned at the climax.
 - **CELLAR BUILT + chest moved down (Ch 12).** The cellar was cut beneath the Study (stair down from
