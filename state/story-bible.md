@@ -245,6 +245,7 @@ if it needs a new one, add it here.
   - **Ch 9** — Yr1 winter → **thaw into spring Yr2** — elapsed ~12–13 mo (first winter passes; bathhouse ~3 wks).
   - **Ch 10** — **Yr2, late spring** — elapsed ~14 mo (Brenna's cottage; keeper plant; soldier's-heart flowered midwinter).
   - **Ch 11** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
+  - **Ch 12** — **Yr2, early–mid summer** — elapsed ~16 mo (the cellar dug under the Study; chest carried down; recording blank set for a 30-day read; river-house SOLD, her things crated under seal).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1077,11 +1078,19 @@ show release. The coarse curve, so no chapter overshoots:
   irony already on the page: Ch 8's lumen "could not catch a barn afire."
 - Thesis foreshadowed in Emlyn's thought "never once been asked" (Ch 2) → surveyor's marginal
   note found at the first working → earned at the climax.
-- The chest + household goods ARRIVED (Ch 3, "Under Canvas"). Chest now in the Study's NE corner
-  (Ch 5), unopened; awaits the cellar's NE corner once built. Grief-objects landed so far: the chest
-  (Ch 3/5) and **the spellbook shelf-gap (Ch 8)**. STILL to land: **Arielle's mother's unopened
-  letter** and **the dimensional callipers in the sticking desk drawer** (both want the desk/Study
-  furniture; the callipers seed → opens when the letter is read, outline Ch 27).
+- **CELLAR BUILT + chest moved down (Ch 12).** The cellar was cut beneath the Study (stair down from
+  the workroom floor, dry stone, oak door); the **chest now sits in the CELLAR's NE corner** (moved
+  from the Study's NE corner; set there "where the wall stood driest," rendered BLIND — no
+  self-examination), still unopened. **The recording blank is set flush in the cellar floor for a
+  30-day sub-harmonic read** (Deep Grammar Phase One begins; the read pays off Ch 14). During the dig
+  **Ren was "a moment longer than his habit" laying the NE-corner stone** — rendered as an ordinary
+  hesitation, NOT staged (de-staged after the blind-seed probe caught the first draft telegraphing);
+  Jorin noticed and said nothing. → this is the moment Ch 20's "he felt something in that cellar,
+  during the build" refers to; keep BLIND. Grief-objects landed so far: the chest (Ch 3/5, now cellar
+  Ch 12) and **the spellbook shelf-gap (Ch 8)**. STILL to land: **Arielle's mother's unopened letter**
+  and **the dimensional callipers in the sticking desk drawer** (the callipers seed → opens when the
+  letter is read, outline Ch 27). **NEW grief object landed (Ch 12): the two-page river-house
+  INVENTORY, filed unread in the sticking drawer** (the same drawer that holds the callipers).
 - **The unpublished-papers / third-book-in-her-rooms thread (OPENED Ch 8):** the full account of
   Emlyn's demiplane work exists in exactly one book, left in her city rooms; the published work is
   only "the safe third." → the city journey / the untouched rooms (Book Two setup) and the Cecily /
@@ -1114,10 +1123,24 @@ show release. The coarse curve, so no chapter overshoots:
   valley (Part III/IV); pairs with the Ch 2 bare-hand-on-stone and Ch 4 "it said yes."
 - **Kellard's cold-spot = a buried grief in the ground answered by attention (Ch 7)** → the
   ask/attend thesis extended to grief-in-place; possible rhyme with Emlyn's own grief / the chest.
-- **The river house (never-lived-in wedding-gift home) sale (seeds Ch 1, Ch 3; Penworth pressing)** →
-  provides the purchase capital (down payment); Emlyn agrees but cannot clear her things → the sale
-  completes and her rooms are cleared in the **spring** (finale Ch 27 grief release / Book Two city
-  journey; the third spellbook comes home then). Keep the river house UNENTERED through Book One.
+- **The river house (never-lived-in wedding-gift home) — SOLD (Ch 12).** The sale COMPLETED mid-book:
+  the money landed and went straight against the note (largest single payment yet); Penworth's people
+  crated her things unsorted **under seal and stored them**; Emlyn **signed the flags without reading
+  the inventory** and filed the two-page list unread in the sticking drawer. ["money mid-book, rooms
+  sealed" — author 2026-07-14.] STILL PENDING: the sealed crates are **gone through / her things
+  finally faced in the finale/Book Two** (grief release, Ch 27+; the third spellbook comes home then).
+  Keep the crates SEALED and the river house UNENTERED through the rest of Book One.
+- **Ren's NE-corner pause during the cellar dig (Ch 12, BLIND)** → the keystone twist seed: Ren was
+  "a moment longer than his habit" laying the northeast-corner stone; Jorin noticed, both silent. →
+  pays off Ch 20 ("he felt something in that cellar, during the build. Hasn't said what.") and the
+  Ch 28 twist (the hill's greeting is directed at that corner). KEEP BLIND — the first draft staged
+  it (simile + triple-witness + false-reassurance) and the blind-seed probe caught it; it was
+  de-staged to an ordinary hesitation. Do NOT re-flag it in later chapters; rest the seed.
+- **The recording blank / Deep Grammar Phase One read (set Ch 12)** → the 30-day sub-harmonic read is
+  taken up and reported at **Ch 14 ("Midsummer Reading")**: two pulses daily, storm-sensitivity, a
+  response the day he visited the oak, and a baseline warming (the hill "learning him"). It is an
+  OVERT instrument (allowed to read as investigation); keep the RESULTS' deeper meaning (directed
+  greeting → NE corner) reserved for Phase Two (Ch 20) and the twist (Ch 28).
 - **The purchase note / debt + GRACE-PERIOD CLOCK (seed Ch 3; advanced Ch 9)** → the loan falls due
   after ~a year's grace (now **nearly up** — note due ~spring/summer Yr2). **FIRST TENANTS PLACED (Ch 9,
   the Wrays)** so the bottoms are coming into use — BUT year 1 is rent-free, so the tenants don't cover

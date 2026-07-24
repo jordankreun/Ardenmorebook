@@ -56,8 +56,11 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
 - The **green shelf / future storehouse** is on the **east side, below the crown/cellar**;
   its rear wall will be set true to a compass bearing for a cellar connection dug years later.
   [PAGE ch2 (the shelf); CANON (storehouse placement)]
-- Inside the **cellar**, the locked **chest** sits in the **northeast corner**. [CANON — cellar
-  not yet built]
+- **The CELLAR is now BUILT (Ch 12):** cut beneath the Study, stair down from the workroom floor,
+  dry dressed stone, oak door; the crown gave up its earth easily (the hill cooperating, as with the
+  Study footing). Inside, the locked **chest** sits in the **northeast corner** ("where the wall stood
+  driest"), and a **recording blank is set flush in the floor at the center** (30-day Deep Grammar
+  read). [PAGE ch12]
 - The **road out** of the valley runs **south/down-valley** to the main road, and thence to
   **Vethmark / the city**. [PAGE ch1 (Emlyn arrived down this way); CANON (cart-road)]
 
