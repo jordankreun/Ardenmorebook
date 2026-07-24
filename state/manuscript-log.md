@@ -45,7 +45,8 @@
   stays REJECTED (repeat-family escalation — premature). Roadmap now fully resolved.
 - **Ch 11 ("What Tomas Carried") DRAFTED 2026-07-15** (1,908w; a deliberately tight two-hander confession). Forge, dusk, early summer Yr2. Tomas confesses ~2 years' solitary hearing; Emlyn confirms belief by naming the pre-dawn hour, gives the STANDING PROMISE ("when I know what it is, you will know… first"), holds his own listening private; Tomas closes with "Even." The "metronome" begins (chin-at-hill → "Not yet"). Pre-chapter forks: the question tool failed in-session, so per session-lock #11 the outline defaults were taken and logged — POV Emlyn 1st-person (default; keeps Tomas rendered from outside, true to his stillness); confession OBLIQUE (Tomas's spare voice; undercurrent stays weather); Emlyn HOLDS HIS OWN COUNSEL (consistent with Ch10's just-locked partial candor). Lint fully clean (incl. the new dialogue meter).
 - **Ch 12 ("The Listening Stone") DRAFTED 2026-07-15** (1,876w; a deliberately interior chapter — dig, chest, instrument, grief, all solitary; dialogue-share WARN is a conscious keep). Early–mid summer Yr2. Cellar cut beneath the Study; Ren "a moment longer than his habit" at the NE corner (BLIND, de-staged after the probe); chest carried down to the cellar NE corner; recording blank set for a 30-day read (Deep Grammar Phase One begins). River house SOLD — money to principal, her things crated under seal, inventory filed UNREAD in the sticking drawer (grief sealed). BLIND-SEED PROBE run: caught the first draft STAGING the keystone seed (Ren/NE) — replanted flat (see engine-reports). Forks: outline defaults (question tool down). CLOSING: image — the new stone listening in the dark cellar. prose-lint clean (one interior WARN).
-- Next to write: **Chapter 13, "The Well Incident"** (revised outline Ch 13): Soren's talent slips in PUBLIC — water climbing against the rope's tug, a heartbeat of wrongness in the village square; Emlyn smooths it to nothing with a wizard's misdirection; Lira (wiping a table by the window) sees more than she says; the boy must be protected from being *noticed*. A more peopled, dialogue-live chapter (varies from Ch 12's interiority). Grief RESTS. Length flexible.
+- **Ch 13 ("The Well Incident") DRAFTED 2026-07-15** (2,301w; dialogue-live, varies from Ch 12). Mid-summer Yr2. Soren's talent slips at the square well (water climbs against the rope; a heartbeat of wrongness in the square); Emlyn covers with a wizard's misdirection ("dry rot in the windlass"); Lira sees the truth and says nothing (BLIND — feeds her Conclave reveal Ch 18; the draft's "before I understood why" telegraph was cut). On the wall after, Emlyn teaches Soren to hide it ("you keep it close, like the hill"); obliquely admits he too was a noticed talent who paid a cost (no specifics). CLOSING (dialogue): "I'll be quiet. Like the hill. It's loud all the time and nobody hears it. I can do that." NEW: square well (geography); Soren now knows he's not like others + the protection pact; Lira saw. Fixed 1 em-dash FAIL. prose-lint clean.
+- Next to write: **Chapter 14, "Midsummer Reading"** (revised outline Ch 14): the Deep Grammar Phase One read reported — two pulses daily, storm-sensitivity, a response the day he visited the oak, a 30-day baseline WARMING (the hill is *learning him*). Penworth visits; the summer's mail holds three strangers probing the deliberately-incomplete demiplane papers, one UNSIGNED ("*the interior architecture is beautiful*"); Cecily engaged. **The first loan payment made and survived — tight but made; the tenants and the lamps did it.** Then **INTERLUDE II** (predawn, the hill says the shape of him back to the dark; third-person hill register). Keep the read's deeper meaning (directed greeting → NE corner) RESERVED for Ch 20/28. Grief rests. Ends Part II.
 
 ---
 
@@ -800,6 +801,21 @@ the hill asking nothing, letting him sleep (varies from Ch 11's dialogue close).
 keystone Ren/NE seed was STAGED in draft 1 (simile + triple-witness + "corner like the other three"
 false-reassurance) and REPLANTED flat; the overt instrument (blank) + the sold-house payoff correctly
 judged fine. Engine report archived. prose-lint: clean (one interior dialogue WARN, conscious keep).
+
+[13] The Well Incident — Mid-summer Yr2 (~17 mo). Dialogue-live (2,301w; varies from Ch 12's
+interiority). An ordinary market morning: Soren draws water at the square well and his talent slips —
+the bucket rises on its own, the water "humped and trembling and reaching" up toward the boy; the
+square feels a "wrong note." Emlyn MAKES IT HIS: strides in, presses the bucket down, and blames "dry
+rot in the windlass… gone resonant," in the flat wizard's voice that invites no argument; the square
+takes the excuse gladly. Two people know better: Soren (face gone carefully blank) and LIRA (in the
+inn doorway, doing the sum — boy, not wizard — and saying nothing; BLIND, ambient). On the wall up the
+track, Emlyn gives Soren his first true teaching: a talent is a wonder to the right people and "a
+resource… to be got hold of early and used" to the wrong ones; hold it close, like the hill, until no
+room can hold you against your will. Soren asks "Is that what you did?" — Emlyn owns it cost him
+things (backstory deepened, NO specifics). CLOSING (dialogue): "I'll be quiet. Like the hill. It's
+loud all the time and nobody hears it. I can do that." NEW FACTS: square well (geography); Soren KNOWS
+he's unusual + the protection pact; Lira saw; the "wrong rooms/Conclave presses talents" stakes made
+explicit (talent-not-magic). Fixed 1 em-dash FAIL (Soren's cut-off line). prose-lint clean.
 
 PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
 

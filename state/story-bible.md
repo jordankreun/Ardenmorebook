@@ -246,6 +246,7 @@ if it needs a new one, add it here.
   - **Ch 10** — **Yr2, late spring** — elapsed ~14 mo (Brenna's cottage; keeper plant; soldier's-heart flowered midwinter).
   - **Ch 11** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
   - **Ch 12** — **Yr2, early–mid summer** — elapsed ~16 mo (the cellar dug under the Study; chest carried down; recording blank set for a 30-day read; river-house SOLD, her things crated under seal).
+  - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; Soren's talent slips at the square well; Emlyn covers; the wall talk; "I'll be quiet, like the hill").
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1016,7 +1017,7 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 | Opus is grieving Arielle | Opus; Penworth (implied); reader learns through objects |
 | The hill hums / is aware | Opus; **Tomas — now SHARED OPENLY with Opus (Ch 11 confession): Tomas has heard it ~2 yrs alone; Opus confirmed belief by naming the pre-dawn hour, gave the STANDING PROMISE ("when I know what it is, you will know") but did NOT confess his own listening**; **Soren (has heard it his WHOLE LIFE, natively — revealed Ch 7; never thought it strange)**; Brenna's grandmother (dead); **Brenna (via her gran's notebooks, believes it now, Ch 6)**; Cael (suspects) |
 | The hill AND the old oak are "the talking pair" | Brenna's grandmother (dead); Brenna (Ch 6); Opus (told Ch 6, half-believes) |
-| Soren's talent | Opus; Cael; Soren himself (partially) |
+| Soren's talent | Opus; Cael; **Soren himself — now KNOWS he is not like others (Ch 13 well incident) and has agreed with Emlyn to HIDE it ("I'll be quiet, like the hill")**; **Lira SAW it at the well (Ch 13) and said nothing** (ties to her Conclave watching — reader doesn't know yet); the market square felt a "wrong note" but Emlyn misdirected it to "dry rot in the windlass" |
 | Ren's talent | Opus; Jorin (sensed it); Ren (after his assessment) |
 | The compass exists | Opus only |
 | The three correspondents / incomplete papers | Opus; Penworth; Cecily (offstage) |
@@ -1119,6 +1120,17 @@ show release. The coarse curve, so no chapter overshoots:
   the Deep Grammar arc and the Ch 28 twist.
 - **The old oak visited + the hill's hour-early answer (Ch 6)** → the hill/oak conversation arc;
   the hill demonstrably *notices what Emlyn does* → Deep Grammar Phase Two / twist.
+- **Soren's talent surfaced PUBLICLY + the protection pact (Ch 13, "The Well Incident")** → the boy
+  called water up the square well without meaning to; Emlyn covered it ("dry rot in the windlass")
+  and, on the wall after, taught him to HIDE it ("you keep it close… like the hill"). Soren agreed:
+  "I'll be quiet, like the hill." Emlyn obliquely admitted he too was a noticed talent who paid a
+  cost (backstory deepened; NO specifics given — reserve). → the Soren-protection arc runs to Part
+  III/IV (his talent surfacing as the deepest in the valley; the ceremony). Keep the "wrong rooms"
+  danger (the Conclave pressing natural talents) as the stakes; do not name a specific past event.
+- **Lira SAW the well incident and said nothing (Ch 13, BLIND)** → she did the sum (boy, not wizard)
+  and stayed silent, rendered as an ambient odd quiet (NO hindsight flag — the first-draft telegraph
+  "before I understood why" was cut). → feeds the Lira-reports-to-the-Conclave reveal (Part III, Ch
+  18). Keep her watching UNEXPLAINED on the page until then.
 - **Soren has heard the hum his whole life (Ch 7)** → his talent surfacing as the deepest in the
   valley (Part III/IV); pairs with the Ch 2 bare-hand-on-stone and Ch 4 "it said yes."
 - **Kellard's cold-spot = a buried grief in the ground answered by attention (Ch 7)** → the
