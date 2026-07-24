@@ -44,3 +44,8 @@ misses: 2026-07-15 the BLIND-SEED PROBE (first live use on a keystone seed) caug
 counts: dashes=0(fixed 1) dialogue=healthy(peopled square + the wall two-hander) echoes=0 tics-over=none seed-tel=0 welds=0
 kept:   none over-budget.
 misses: 2026-07-15 self-caught pre-commit (no probe run — non-keystone seeds): the Lira blind seed carried a hindsight telegraph in draft ("that was somehow worse… though it would be a long while yet before I understood why") — cut to an ambient "I marked it the way you mark a quiet where you had braced for a noise… and let it go." Also caught+fixed a house-rule em-dash in Soren's interrupted line (lint FAIL). Lira's watching now reads unexplained, as required for the Ch 18 reveal.
+
+## [14] midsummer-reading + [Interlude II] — 2026-07-15
+counts: dashes=0 dialogue=healthy(Penworth two-hander) echoes=0(fixed 1 vs Ch13 "for exactly as long as") tics-over=none seed-tel=0 welds=0
+kept:   the close ("knowing… it would not stay a summer") kept — general weather-foreboding as atmosphere, not a specific seed-telegraph (same register the editorial pass approved for Ch11's storm image); flag for the whole-book adversarial pass to re-weigh.
+misses: 2026-07-15 self-caught in Interlude II BEFORE delivery: the hill-register draft OVER-DECODED the twist — "the near end of a long reaching… toward the thing that has not come" essentially states the buried Ch28 reveal (session-lock #3 bans stating the twist, incl. in interludes). Cut to a veiled "a corner it has always kept a little to itself… for reasons that have no words even in the hill." Lesson: the interludes' evocative license is the highest-risk place for accidental twist-decode; check every interlude against the RESERVED list before shipping.

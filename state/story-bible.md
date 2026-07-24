@@ -247,6 +247,8 @@ if it needs a new one, add it here.
   - **Ch 11** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
   - **Ch 12** — **Yr2, early–mid summer** — elapsed ~16 mo (the cellar dug under the Study; chest carried down; recording blank set for a 30-day read; river-house SOLD, her things crated under seal).
   - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; Soren's talent slips at the square well; Emlyn covers; the wall talk; "I'll be quiet, like the hill").
+  - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth visits the hill; the mail's three correspondents; first loan payment made).
+  - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1148,11 +1150,26 @@ show release. The coarse curve, so no chapter overshoots:
   Ch 28 twist (the hill's greeting is directed at that corner). KEEP BLIND — the first draft staged
   it (simile + triple-witness + false-reassurance) and the blind-seed probe caught it; it was
   de-staged to an ordinary hesitation. Do NOT re-flag it in later chapters; rest the seed.
-- **The recording blank / Deep Grammar Phase One read (set Ch 12)** → the 30-day sub-harmonic read is
-  taken up and reported at **Ch 14 ("Midsummer Reading")**: two pulses daily, storm-sensitivity, a
-  response the day he visited the oak, and a baseline warming (the hill "learning him"). It is an
-  OVERT instrument (allowed to read as investigation); keep the RESULTS' deeper meaning (directed
-  greeting → NE corner) reserved for Phase Two (Ch 20) and the twist (Ch 28).
+- **Deep Grammar Phase One read — DONE and reported (Ch 14).** The 30-day read confirmed: the two
+  hours (dusk-fail + predawn) true in numbers; storm-sensitivity (harder/closer pulses on stormy
+  nights); a CHANGED dusk pulse on the night Emlyn stood at the OAK (hill↔oak coupling — kept as
+  data); and a 30-day baseline WARMING — the hill leaning fractionally more toward the man ("the hill
+  was learning me"). Emlyn read it with a skeptic's UNEASE, wrote only what the stone said, did NOT
+  write his fears as facts. → Phase Two (Ch 20) and the twist (Ch 28) hold the deeper meaning (the
+  warming is a directed greeting toward the NE corner / something not yet arrived — RESERVED; do not
+  decode, incl. in interludes). Interlude II renders the "warming" as the hill "saying his shape back"
+  — kept veiled (the first draft over-decoded the NE-corner reaching; cut).
+- **The three correspondents + the UNSIGNED note (Ch 14, "the safe published third").** Canon set on
+  the page: Emlyn published only a THIRD of his demiplane work (the safe third; the harder two-thirds
+  withheld — the full account is the book left in her city rooms, Ch 8 seed). That summer three
+  strangers wrote probing it: two scholars (answerable with courtesy + nothing) and one UNSIGNED,
+  single line in a trained hand: **"The interior architecture is beautiful."** (No name, no request —
+  a reader who saw the whole house from the one room.) BLIND SEED → the unsigned-correspondent hunt
+  (outline Ch 26); do not identify. **Penworth has ENGAGED CECILY** to trace the paper and hand
+  quietly; Emlyn is to write to no strangers about his work meanwhile.
+- **First loan payment — MADE and survived (Ch 14).** Tight, by the narrowest margin: built of the
+  lamp-trade coppers + the LAST of the river-house money (now spent, won't come again). The LAND must
+  carry the next payment → the Wrays' crop must come in and sell (Ch 16 harvest). Keep money tight.
 - **The purchase note / debt + GRACE-PERIOD CLOCK (seed Ch 3; advanced Ch 9)** → the loan falls due
   after ~a year's grace (now **nearly up** — note due ~spring/summer Yr2). **FIRST TENANTS PLACED (Ch 9,
   the Wrays)** so the bottoms are coming into use — BUT year 1 is rent-free, so the tenants don't cover
