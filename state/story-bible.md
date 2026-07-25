@@ -1115,7 +1115,11 @@ show release. The coarse curve, so no chapter overshoots:
 - The hum SURFACED first-hand (Ch 3): dusk-fail + predawn pulses, below sound, felt through bone.
   Emlyn dismissed the "did it wait for me?" reading as fancy ("mostly I believed it") → the
   directed-greeting truth is reserved for Deep Grammar Phase Two (Ch 20) and the twist (Ch 28).
-- **Tomas's secret — CONFESSED, and the STANDING PROMISE GIVEN (Ch 11 "What Tomas Carried").** The
+- **Tomas's secret — CONFESSED, and the STANDING PROMISE GIVEN (Ch 11 "What Tomas Carried").**
+  ✅ **AUTHOR-CONFIRMED 2026-07-15 (fork: "A and spare"):** Emlyn stays CAUTIOUS/reserved (confirms
+  Tomas isn't mad, does NOT admit he hears it too — no mutual confession, and Tomas does NOT clock
+  him); Tomas's confession stays OBLIQUE and SPARE (his voice; the length is in the pauses). Chapter
+  kept as drafted. The
   Ch 5 hammer-pause and the Ch 6 "That hill," → head-of-the-stair seeds are now PAID: at the forge,
   dusk, early summer Yr2, Tomas told Emlyn he has heard the hill ~2 years alone; Emlyn gave plain
   belief (named the pre-dawn hour) but held his own listening private, then made the promise: **"when
