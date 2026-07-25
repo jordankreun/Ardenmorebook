@@ -804,20 +804,27 @@ keystone Ren/NE seed was STAGED in draft 1 (simile + triple-witness + "corner li
 false-reassurance) and REPLANTED flat; the overt instrument (blank) + the sold-house payoff correctly
 judged fine. Engine report archived. prose-lint: clean (one interior dialogue WARN, conscious keep). **REVISED 2026-07-15 (author forks B/B/B, 1,876→2,626w):** (1) the DIG is now PEOPLED and warm — Ren protests the digging is too easy ("it's coming up like a cut cake"), Jorin rules "it's a dry crown," a fortnight of the best company Emlyn has kept in years, Jorin's history of every wall he built twice, beer on the crown at the end ("it's a hole" / "it's a very good hole"); the interior dialogue WARN is gone. (2) the SALE now LANDS before he shuts it away — the buyer's survey notes the upper east rooms unfinished, plaster only, because Arielle couldn't choose the paper one bright afternoon and said she'd know it when she saw it; "the better part of five years that plaster had stood bare"; he sits in the dark a good while, then signs. (3) Ren's NE pause is now slightly VISIBLE — Jorin looks up, a builder's look that "rested on the boy a beat past the length of the pause itself," then "Good," and nothing else comes of it (still unremarked by the narrator; seed stays blind). Fixed a canon slip introduced in revision ("nine years"→"the better part of five years").
 
-[13] The Well Incident — Mid-summer Yr2 (~17 mo). Dialogue-live (2,301w; varies from Ch 12's
-interiority). An ordinary market morning: Soren draws water at the square well and his talent slips —
-the bucket rises on its own, the water "humped and trembling and reaching" up toward the boy; the
-square feels a "wrong note." Emlyn MAKES IT HIS: strides in, presses the bucket down, and blames "dry
-rot in the windlass… gone resonant," in the flat wizard's voice that invites no argument; the square
-takes the excuse gladly. Two people know better: Soren (face gone carefully blank) and LIRA (in the
-inn doorway, doing the sum — boy, not wizard — and saying nothing; BLIND, ambient). On the wall up the
-track, Emlyn gives Soren his first true teaching: a talent is a wonder to the right people and "a
-resource… to be got hold of early and used" to the wrong ones; hold it close, like the hill, until no
-room can hold you against your will. Soren asks "Is that what you did?" — Emlyn owns it cost him
-things (backstory deepened, NO specifics). CLOSING (dialogue): "I'll be quiet. Like the hill. It's
-loud all the time and nobody hears it. I can do that." NEW FACTS: square well (geography); Soren KNOWS
-he's unusual + the protection pact; Lira saw; the "wrong rooms/Conclave presses talents" stakes made
-explicit (talent-not-magic). Fixed 1 em-dash FAIL (Soren's cut-off line). prose-lint clean.
+[13] The Well Incident — Mid-summer Yr2 (~17 mo). ⚠️ FULLY REWRITTEN 2026-07-15 to the author's
+fork (make the talent LESS noticeable; Soren should NOT realize he has it). 2,220w. Kellard's near
+horse bolts and the cart wheel clips the well's coping; the full bucket goes off the stone, and as
+Soren turns and reaches, late, **it moves about four inches sideways, against the line of its own
+falling, into his hand.** That is the whole of it: deniable, invisible to a square busy with half a
+ton of unhappy horse, and visible ONLY to Emlyn, who has spent twenty years learning to watch exactly
+how a weight travels. **Soren does not know** (no startle, no covering; he registers it as having
+caught the thing, and "boys are not in the habit of interrogating their own luck"). Emlyn makes a
+small business of the windlass as an excuse to look at the boy's hands, and finds nothing in them.
+**LIRA watched the well when the whole square watched the horse** (what she saw is never stated;
+BLIND → Ch 18). **CAEL half-saw:** he measures the distance with a lifetime's eye, finds the small
+wrongness in the arithmetic, and closes the gate on it: **"Boy's quick."** Emlyn has two sentences in
+his mouth and does not say them, part cowardice, part mercy (a man may decline a piece of knowledge
+about his own family), but chiefly because he knows what happens to a child found early: there are
+hands that reach for a talent "the way a man reaches for a dropped tool." His own past stays OBLIQUE
+("at a cost to better people than myself"). He decides to say nothing, watch, and be the one standing
+there next time. CLOSING (dialogue + image): the boy laughs about nearly having the bucket on his
+foot, goes up to his grandfather's smoke, "carrying a thing he did not know he had, in a valley where
+nobody had noticed, and I let him." NEW/CHANGED FACTS: **no protection pact** (deferred to the later,
+less deniable surfacing); Soren ignorant; Cael in denial; the square noticed nothing; Lira's watching
+unexplained. Cut an aphorism-weld that doubled as a significance-tag. prose-lint clean.
 
 [14] Midsummer Reading — Mid–late summer Yr2 (~18 mo). Emlyn reads the 30-day blank (2,537w):
 the two hours proven in numbers; storm-sensitivity; a CHANGED dusk pulse the night he stood at the OAK

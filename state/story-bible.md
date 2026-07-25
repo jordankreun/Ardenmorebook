@@ -246,7 +246,7 @@ if it needs a new one, add it here.
   - **Ch 10** — **Yr2, late spring** — elapsed ~14 mo (Brenna's cottage; keeper plant; soldier's-heart flowered midwinter).
   - **Ch 11** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
   - **Ch 12** — **Yr2, early–mid summer** — elapsed ~16 mo (the cellar dug under the Study; chest carried down; recording blank set for a 30-day read; river-house SOLD, her things crated under seal).
-  - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; Soren's talent slips at the square well; Emlyn covers; the wall talk; "I'll be quiet, like the hill").
+  - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; a bolting cart horse; Soren's talent slips DENIABLY at the square well; Cael's denial; Emlyn tells no one).
   - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth visits the hill; the mail's three correspondents; first loan payment made).
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
   - **Ch 15** — **Yr2, late summer → early autumn** — elapsed ~19 mo (the greenhouse raised: steel frame, glass hung; Brenna's soil plan + the reserved north corner; Essa's bed; the callipers drawer let stay stuck).
@@ -1020,7 +1020,7 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 | Opus is grieving Arielle | Opus; Penworth (implied); reader learns through objects |
 | The hill hums / is aware | Opus; **Tomas — now SHARED OPENLY with Opus (Ch 11 confession): Tomas has heard it ~2 yrs alone; Opus confirmed belief by naming the pre-dawn hour, gave the STANDING PROMISE ("when I know what it is, you will know") but did NOT confess his own listening**; **Soren (has heard it his WHOLE LIFE, natively — revealed Ch 7; never thought it strange)**; Brenna's grandmother (dead); **Brenna (via her gran's notebooks, believes it now, Ch 6)**; Cael (suspects) |
 | The hill AND the old oak are "the talking pair" | Brenna's grandmother (dead); Brenna (Ch 6); Opus (told Ch 6, half-believes) |
-| Soren's talent | Opus; Cael; **Soren himself — now KNOWS he is not like others (Ch 13 well incident) and has agreed with Emlyn to HIDE it ("I'll be quiet, like the hill")**; **Lira SAW it at the well (Ch 13) and said nothing** (ties to her Conclave watching — reader doesn't know yet); the market square felt a "wrong note" but Emlyn misdirected it to "dry rot in the windlass" |
+| Soren's talent | **Opus (SAW it plainly, Ch 13, and told no one)**; **Cael — half-saw and is in DENIAL** (measured the arithmetic, found a small wrongness, and closed the gate: "Boy's quick"); **Soren himself DOES NOT KNOW** (⚠️ REVISED 2026-07-15 — the slip was deniable and he registered it as catching the bucket; there is NO protection pact yet); **Lira watched the WELL when the whole square watched the horse** (Ch 13; what she saw is unstated); the square noticed NOTHING (the commotion covered it) |
 | Ren's talent | Opus; Jorin (sensed it); Ren (after his assessment) |
 | The compass exists | Opus only |
 | The three correspondents / incomplete papers | Opus; Penworth; Cecily (offstage) |
@@ -1137,16 +1137,19 @@ show release. The coarse curve, so no chapter overshoots:
   the Deep Grammar arc and the Ch 28 twist.
 - **The old oak visited + the hill's hour-early answer (Ch 6)** → the hill/oak conversation arc;
   the hill demonstrably *notices what Emlyn does* → Deep Grammar Phase Two / twist.
-- **Soren's talent surfaced PUBLICLY + the protection pact (Ch 13, "The Well Incident")** → the boy
-  called water up the square well without meaning to; Emlyn covered it ("dry rot in the windlass")
-  and, on the wall after, taught him to HIDE it ("you keep it close… like the hill"). Soren agreed:
-  "I'll be quiet, like the hill." Emlyn obliquely admitted he too was a noticed talent who paid a
-  cost (backstory deepened; NO specifics given — reserve). → the Soren-protection arc runs to Part
-  III/IV (his talent surfacing as the deepest in the valley; the ceremony). Keep the "wrong rooms"
-  danger (the Conclave pressing natural talents) as the stakes; do not name a specific past event.
-- **Lira SAW the well incident and said nothing (Ch 13, BLIND)** → she did the sum (boy, not wizard)
-  and stayed silent, rendered as an ambient odd quiet (NO hindsight flag — the first-draft telegraph
-  "before I understood why" was cut). → feeds the Lira-reports-to-the-Conclave reveal (Part III, Ch
+- **Soren's talent slipped DENIABLY + Emlyn's silence (Ch 13, "The Well Incident"; ⚠️ REVISED 2026-07-15
+  per author fork).** A cart horse bolted; the bucket went off the coping and **moved ~4 inches
+  sideways, against the line of its fall, into the boy's reaching hand**. Invisible to everyone: the
+  commotion covered it, and only Emlyn's trained eye for how a weight travels caught it. **Soren does
+  NOT know** (no startle, no covering; "he registered it as having caught the thing"). **Cael half-saw**,
+  measured the distance, found the wrongness, and DECLINED it: "Boy's quick." Emlyn chose SILENCE (part
+  cowardice, part mercy to Cael, but chiefly because he knows what happens to a child found early) and
+  decided to WATCH and be near when it happens again. → the talent must surface AGAIN, less deniably,
+  later (Part III/IV); that later scene is where the telling/protection pact now lives. Emlyn's own past
+  stays OBLIQUE ("at a cost to better people than myself"; no specifics — reserved).
+- **Lira watched the well, not the horse (Ch 13, BLIND)** → when the whole square turned to the loose
+  cart horse, Lira's face was turned to the well; what (or whether) she saw is NEVER stated. Rendered
+  as an ambient odd quiet, no hindsight flag. → feeds the Lira-reports-to-the-Conclave reveal (Part III, Ch
   18). Keep her watching UNEXPLAINED on the page until then.
 - **Soren has heard the hum his whole life (Ch 7)** → his talent surfacing as the deepest in the
   valley (Part III/IV); pairs with the Ch 2 bare-hand-on-stone and Ch 4 "it said yes."
