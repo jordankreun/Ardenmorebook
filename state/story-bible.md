@@ -1159,6 +1159,14 @@ show release. The coarse curve, so no chapter overshoots:
   sealed" — author 2026-07-14.] STILL PENDING: the sealed crates are **gone through / her things
   finally faced in the finale/Book Two** (grief release, Ch 27+; the third spellbook comes home then).
   Keep the crates SEALED and the river house UNENTERED through the rest of Book One.
+  **NEW GRIEF DETAIL (Ch 12, author fork 2b — "let the sale land"):** the buyer's survey noted the
+  **upper east rooms unfinished, plaster only, no paper hung** — because Arielle could not choose
+  between three sample books on a bright cold afternoon, laughed at herself, and said she'd know it
+  when she saw it. **The better part of five years** that plaster stood bare (consistent with the
+  ledger: died ~3 yrs pre-arrival + ~16 mo elapsed). This is the beat that breaks through Emlyn's
+  numbness before he signs; "there was no one left alive but me who knew" why those rooms were bare.
+  Grief-object class: a HAPPY memory weaponized by paperwork, NOT a deathbed image. Available for
+  callback when the crates are opened (Ch 27+/Book Two).
 - **Ren's NE-corner pause during the cellar dig (Ch 12, BLIND)** → the keystone twist seed: Ren was
   "a moment longer than his habit" laying the northeast-corner stone; Jorin noticed, both silent. →
   pays off Ch 20 ("he felt something in that cellar, during the build. Hasn't said what.") and the
