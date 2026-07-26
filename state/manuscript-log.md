@@ -826,18 +826,27 @@ nobody had noticed, and I let him." NEW/CHANGED FACTS: **no protection pact** (d
 less deniable surfacing); Soren ignorant; Cael in denial; the square noticed nothing; Lira's watching
 unexplained. Cut an aphorism-weld that doubled as a significance-tag. prose-lint clean.
 
-[14] Midsummer Reading — Mid–late summer Yr2 (~18 mo). Emlyn reads the 30-day blank (2,537w):
-the two hours proven in numbers; storm-sensitivity; a CHANGED dusk pulse the night he stood at the OAK
-(hill↔oak coupling, kept as data); and a 30-day baseline WARMING — "the hill was learning me" — read
-with a skeptic's unease ("no flattery like being learned by a hill"; wrote only what the stone said).
-PENWORTH comes the whole way up (first sees the hill; "You built it"), does the money first: the first
-loan payment was MADE, tight, on lamp-coppers + the LAST of the river-house money (spent now; the land
-must carry the next). The mail: two scholars probing the demiplane papers + one UNSIGNED line in a
-trained hand, "The interior architecture is beautiful" (BLIND → Ch 26); Penworth engages CECILY to
-trace it. Canon set: the "safe published THIRD" (two-thirds withheld; full account in her city rooms).
-CLOSING (image): sets it all down and works, "knowing... it would not stay a summer." NEW FACTS: Phase
-One read done; hill learning him; first payment made (money still tight); correspondents/unsigned note;
-Cecily engaged. prose-lint clean (fixed 1 adjacent echo). **PART II COMPLETE.**
+[14] Midsummer Reading — Mid–late summer Yr2 (~18 mo). ⚠️ REVISED 2026-07-15 to author forks
+(1 split a+b, 2c, 3b; 2,537→3,244w). Emlyn reads the 30-day blank: the two hours proven in numbers;
+storm-sensitivity; a CHANGED dusk pulse the night he stood at the OAK; and a 30-day baseline WARMING
+— "the hill was learning me" — taken with a skeptic's unease. **NEW (fork 1, split): the evening he
+leaves out of his own account.** At the dusk pulse he is up and out the door before he knows it,
+standing in his yard with his heart going like a hare's, because numbers "make it true in the flat,
+undeniable way that leaves you nowhere to stand"; he had never held both halves of the sentence at
+once. He goes back in and feels an ass. ("Men who write accounts of their own work leave out the
+evenings, and their accounts are the poorer and the less true for it.") **CUT (fork 2c): the three
+correspondents / the unsigned note / Cecily are REMOVED from this chapter** and re-homed to Part III
+(~Ch 19, before Ch 21) — see bible; the "safe published third" canon goes with them and is NOT yet on
+the page. **EXPANDED (fork 3b): Penworth STAYS THREE DAYS.** He walks the hill and the bottoms, stands
+in the Study and puts his hand flat on the wall going out, is bitten at by Snow; supper at the inn
+where Lira gives him the good corner table unasked, Kellard works him for a connection, and **Penworth
+meets CAEL** at last ("You're the one wrote the letters." / "Good letters. Clear.") — Penworth asks why
+he held a hill that paid nothing, Cael says **"It was hers,"** and Penworth does not ask further. Late
+on: **"You have not been hiding here. You have been living here… I should have come sooner."** Parting:
+"Make the next payment." / "Yes, I rather think you will." First loan payment MADE (tight; lamps + the
+last of the city money). CLOSING (image+reflection): he sets a SECOND blank beside the first and gets
+on with Kellard's collars — "A man can carry a wonder and a deadline at the same time." Fixed a POV
+slip ("a man Emlyn's own age" → "my own age") and trimmed 4 which-tails. prose-lint clean.
 
 [Interlude II] — Predawn, hill register (597w). The hill has met, in the recording blank, a thing that
 KEEPS its risings (less alone in the dark). It holds the new small closed weight (the chest) in the

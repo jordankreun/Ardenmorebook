@@ -247,7 +247,7 @@ if it needs a new one, add it here.
   - **Ch 11** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
   - **Ch 12** — **Yr2, early–mid summer** — elapsed ~16 mo (the cellar dug under the Study; chest carried down; recording blank set for a 30-day read; river-house SOLD, her things crated under seal).
   - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; a bolting cart horse; Soren's talent slips DENIABLY at the square well; Cael's denial; Emlyn tells no one).
-  - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth visits the hill; the mail's three correspondents; first loan payment made).
+  - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth stays THREE DAYS; first loan payment made; a second blank started).
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
   - **Ch 15** — **Yr2, late summer → early autumn** — elapsed ~19 mo (the greenhouse raised: steel frame, glass hung; Brenna's soil plan + the reserved north corner; Essa's bed; the callipers drawer let stay stuck).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
@@ -1185,14 +1185,34 @@ show release. The coarse curve, so no chapter overshoots:
   warming is a directed greeting toward the NE corner / something not yet arrived — RESERVED; do not
   decode, incl. in interludes). Interlude II renders the "warming" as the hill "saying his shape back"
   — kept veiled (the first draft over-decoded the NE-corner reaching; cut).
-- **The three correspondents + the UNSIGNED note (Ch 14, "the safe published third").** Canon set on
-  the page: Emlyn published only a THIRD of his demiplane work (the safe third; the harder two-thirds
-  withheld — the full account is the book left in her city rooms, Ch 8 seed). That summer three
-  strangers wrote probing it: two scholars (answerable with courtesy + nothing) and one UNSIGNED,
-  single line in a trained hand: **"The interior architecture is beautiful."** (No name, no request —
-  a reader who saw the whole house from the one room.) BLIND SEED → the unsigned-correspondent hunt
-  (outline Ch 26); do not identify. **Penworth has ENGAGED CECILY** to trace the paper and hand
-  quietly; Emlyn is to write to no strangers about his work meanwhile.
+- **The three correspondents + the UNSIGNED note — ⚠️ NOT YET ON THE PAGE (author fork 2026-07-15:
+  CUT from Ch 14 to a later chapter).** Ch 14 was rewritten to stay on the hill, the money, and
+  Penworth; the correspondent thread now OPENS LATER in Part III (target ~Ch 19, and it must land
+  before Ch 21 so Cecily has time to report by Ch 27). The content when it lands: Emlyn published
+  only a THIRD of his demiplane work (the SAFE third; the harder two-thirds withheld — the full
+  account is the book left in her city rooms, Ch 8 seed). Three strangers write to Penworth's city
+  address: two scholars circling for the unpublished part, and one UNSIGNED single line in a trained
+  hand, **"The interior architecture is beautiful."** (No name, no request.) Penworth carries them up
+  rather than trust the frontier post, and ENGAGES CECILY to trace paper and hand. Author's steer for
+  when it lands: keep it **AMBIGUOUS, not menacing** (it could as easily be admiration as threat) so
+  the Ch 26/27 reveal hits harder. BLIND SEED → the unsigned-correspondent hunt (Ch 26) and Cecily's
+  Ch 27 letter (the hand shows *his* school of notation; the closeness required her unguarded rooms).
+  ⚠️ The "safe published third" canon is therefore ALSO not yet on the page — establish it when this
+  thread opens.
+- **PENWORTH'S THREE-DAY VISIT (Ch 14, expanded per author fork 3b) — new canon.** Penworth came the
+  whole way up (first time he has seen the hill) and **stayed three days** on the pretext of resting
+  the horse. He walked the hill and the bottoms, stood silently in the Study and **put his hand flat
+  on the wall on his way out** (Emlyn saw; neither mentioned it), was bitten at by Snow. **Supper at
+  the inn:** Lira gave him the good corner table unasked; Kellard worked him for a connection; and
+  **PENWORTH MET CAEL for the first time** ("You're the one wrote the letters." / "Good letters…
+  Clear."). They got on. Penworth asked Cael directly why he held a hill that beggared his father and
+  paid nothing; Cael turned his glass and said **"It was hers,"** and Penworth did not ask further.
+  Late on, Penworth's real errand: **"You have not been hiding here. You have been living here."** (He
+  had arranged the move as a RETREAT and has revised the document.) Parting: "Make the next payment."
+  → Penworth↔Emlyn friendship now shown, not just referenced; Penworth has SEEN the life; Cael and
+  Penworth are now acquainted (usable later).
+- **A SECOND recording blank was started (Ch 14 close)** beside the first, for a longer read ("thirty
+  nights told me a true thing; sixty will tell me a truer one") → feeds Phase Two (Ch 21).
 - **First loan payment — MADE and survived (Ch 14).** Tight, by the narrowest margin: built of the
   lamp-trade coppers + the LAST of the river-house money (now spent, won't come again). The LAND must
   carry the next payment → the Wrays' crop must come in and sell (Ch 16 harvest). Keep money tight.

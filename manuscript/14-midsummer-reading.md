@@ -26,6 +26,16 @@ The hill was learning me.
 
 I sat in the cold with that and did not enjoy it as much as I would have told you I did. It is one thing to sit on a hill that hums and to ask it, patiently, over a year, to lift a little light for you, and to call that a working. It is another to hold thirty nights of proof in your two hands that the asking runs both ways, that the thing you have been studying has been, all the while, and rather more diligently than you, studying you. I am a skeptic by trade and by the grain of me. I mistrust a wonder that flatters me, and there is no flattery in the world quite like being learned by a hill. So I did what a skeptic does with a fact he cannot yet fit. I wrote it down plainly, and I closed the book, and I went up out of the cold to see to the rest of my life, which had, as lives will, gone on needing me while I sat underground being marveled at by geology.
 
+That is the account I would have given you at the time, and it is honest as far as it goes, and it leaves out the evening.
+
+The pulse came at dusk as it always came, up through the boards of the cabin floor and the soles of my boots and the bones of my jaw, the same faithful thing I had lain out on the crown a hundred nights to feel on purpose. And I got up out of my chair and went outside.
+
+I did not decide to. I was on my feet and through the door with the kettle still on and half the light left in the sky before I had the least idea what I was about, and I stood in my own yard in the warm dusk with my heart going like a hare's, some old animal part of me perfectly certain that I did not, that evening, wish to be indoors, on that hill, with that. Which was absurd. I had felt it a thousand times. Nothing whatever had changed except that I now had thirty nights of it written down in numbers, and numbers, it turns out, can do a thing to a man that a year of feeling cannot: they make it *true* in the flat, undeniable, unsentimental way that leaves you nowhere to stand. I had been lying every night for a year on top of something old enough to have no notion what a year is, and it had been learning me, patiently, the way I had been learning it, and until that evening I had somehow managed not to hold both halves of that sentence in my head at once.
+
+I stood out there until my heart came down. Then I went in and took the kettle off and felt an ass, that being the usual end of such moments, and the pulse came again before dawn, and I slept through it, and in the morning it was the hill again and I was myself again and the whole thing had the ridiculous cast that night-fears have by daylight.
+
+I mention it because it happened, and because I have noticed that men who write accounts of their own work leave out the evenings, and their accounts are the poorer and the less true for it.
+
 Penworth came up the road two days after, which I had not looked for.
 
 I had thought, when his letter said he would come himself with the summer's accounting rather than send it, that he meant to meet me at Wainford and turn straight round, Penworth being a man who regarded travel as a tax on the living. Instead he came the whole way up the frontier road and up my track, in a good plain coat gone grey with dust, on a hired horse he sat like a man who would rather have been sitting on a chair, and he drew rein at the edge of the crown and looked at the Study standing grey and square and true on its hill, and at the cabin below it, and the little green of the bottoms where the Wrays' crop was coming on, and he was quiet a moment longer than Penworth was ever quiet about anything.
@@ -34,7 +44,7 @@ I had thought, when his letter said he would come himself with the summer's acco
 
 "I built some of it."
 
-"You built enough of it that I shall have to stop telling people in the city that you have gone mad and moved to a field." He got down off the horse with the stiffness of a man Emlyn's own age who has spent his gift on ledgers and not on his knees, and he looked at me, hard, the frank assaying look of a man who has managed another man's disasters for a decade and come out the far side still fond of him, which is the rarest kind of friend there is. "You look well. That's the thing I came to see, and I've seen it, and it's ruined my whole account of you. You look ten years better than the man I put on the train."
+"You built enough of it that I shall have to stop telling people in the city that you have gone mad and moved to a field." He got down off the horse with the stiffness of a man my own age who has spent his gift on ledgers and not on his knees, and he looked at me, hard, the frank assaying look of a man who has managed another man's disasters for a decade and come out the far side still fond of him, which is the rarest kind of friend there is. "You look well. That's the thing I came to see, and I've seen it, and it's ruined my whole account of you. You look ten years better than the man I put on the train."
 
 "The air," I said.
 
@@ -44,28 +54,46 @@ He had brought the money and the mail, and we did the money first, because Penwo
 
 "You made it," he said. "This once. On lamps and on the last of the city money, which is spent now and will not come again." He tapped the foot of the column. "The land has to carry the next one. This green you're so pleased with down there has to come in, and come in sold, or the one after this eats you. I did not ride four days on a hired horse to tell you that, because you know it. I rode up to see whether the man who has to make it happen was a man I could still lend against. And he is. That's the whole of my business, and it's done, and now you may give me something to drink that did not come off a hill."
 
-I gave him the good brandy, and we came to the mail, and the mail is where the summer turned a shade I had not expected.
+I gave him the good brandy, and he drank it in my one good chair with his boots off, and I expected him to be gone at first light. He was not. He stayed three days.
 
-There were three letters in it that were not from anyone I knew, and all three were about my work.
+I have never entirely worked out why. He said it was the horse needing rest. The horse did need rest, and it was also a shameless piece of nonsense from a man who could have hired another in the village for the price of a dinner. I think the truth is that Penworth had spent a decade managing my affairs at the distance of a letter, and had come at last to the place the letters were about, and found that he did not want to leave it in a morning. He was curious. He is the most incurious-seeming curious man I have ever known.
 
-I should say what my work was, or what the world had of it. Years before, in another life, I had done a thing in my trade that was worth doing, a piece of true new work on the making of small held spaces, demiplanes, rooms that are not anywhere, and I had written it up, and I had published it. But I had published a third of it. The safe third, the part that was elegant and useful and hurt no one and hid, in what it did not say, the harder two thirds that I had reasons of my own for keeping. The published third had gone out under my name and been read by the few dozen people in the world equipped to read it, and had earned me a small durable reputation among exactly those people, and I had thought no more of it, being by then a man with a dead woman and a bad few years and no wish to be found.
+So I showed him the hill, and he came round it at his own pace with his hands behind his back like a man valuing a property. He could not help that. Nor could he help the questions, which were not about value at all. He looked at the Study for a long time from the outside and then went in and stood in it and said nothing. He put his hand flat on the wall as he came out, briefly, and I do not think he knew I saw it. He walked the whole length of the bottoms with me in the heat and asked about drainage. He was introduced to Snow, who bit at his sleeve, and he said she had the look of an animal who had been indulged and I said she had, and that was the truest thing either of us said all week.
 
-Now, it seemed, I had been found. Three separate hands, that summer, had written to the address Penworth kept for me in the city, and Penworth had carried the letters up rather than trust them to the frontier post, which told me he had read the shape of them and did not like it. Two were scholars, or dressed as scholars, asking the polite circling questions that people ask when they want the two thirds you did not publish and are pretending they only want a point of clarification on the third you did. I knew the type. I had been the type. They could be answered with courtesy and nothing, and I would answer them so.
+The second evening we went down to the inn for our supper, because I had nothing in the cabin fit to set before a guest, and I watched the village take the measure of him. Lira gave him the good corner table without being asked. That is the highest honour in her gift, and it is never mentioned by either party. Kellard came over to be introduced, having somehow already learned that this was the man of business who had bought the hill, and shook his hand at some length and told him the frontier was a coming country, which is what Kellard tells everyone from the city, and which Penworth received with grave attention and one or two questions so precisely aimed that Kellard went away half an hour later visibly convinced he had made an important connection.
 
-The third had no signature.
+And then Cael came in.
 
-It was a single line, in a good trained hand, on a good plain sheet, and it did not ask me anything at all. It said: *The interior architecture is beautiful.* And nothing else. No name, no direction, no request. A person who had read the safe published third and seen, through it, the shape of the unsafe unpublished rest, the way you see the plan of a whole house from the one room you are standing in, and had wanted me to know that they had seen it, and had wanted nothing else, or nothing else yet.
+I had not planned it. He came in for his evening pint as he did most evenings, and stopped when he saw us, and I got up and did the thing properly, because it wanted doing properly: the man who had sold the hill and the man who had bought it, in the same room at last, a year and a half after the fact, neither of them having laid eyes on the other in all the paper that had passed between them.
 
-I read it twice and set it down, and found that I had gone still in the way the boy went still, and made myself stop.
+They looked at one another a moment.
 
-"That one," said Penworth, watching me, "is why I came up the whole way."
+"You're the one wrote the letters," Cael said.
 
-"It's nothing. An admirer."
+"I am."
 
-"It's a trained hand that read what you took pains to leave out and told you so in six words and did not sign it," Penworth said, "which is precisely as much as a careful person says when they want you to know they are there. I have engaged Cecily." He said it the way he said all his hardest sentences, plainly, and let it sit. Cecily was Penworth's own instrument, quiet and thorough and far away, the person he set to find out a thing when the thing wanted finding out and no fuss made. "She'll trace the paper and the hand, quietly, and tell us whose it is, and until she does you will write to no strangers about your work, and you will keep on being a man who makes lamps in a field, which is a very good thing to be and I begin to think the best disguise you ever wore. Agreed?"
+"Good letters." Cael sat down without being invited. From Cael that was a ceremony. "Clear. My grandmother could not read and I have a great respect for a man who writes so a plain person can follow him without a lawyer in the room."
 
-"Agreed," I said.
+"That is the entire object of the exercise," Penworth said, "and you are the first man in thirty years to say so out loud."
 
-He stayed the night, in the Study on a cot I made him up beside the workbench, because he would not hear of the cabin, and in the morning he rode back down toward his four days of road with his account settled and his mind, I think, a little easier than he let on, and I stood on the crown and watched him go small down the giving-up track. And when he was gone I went and stood a while over the shut oak door of the cellar, under which, in the cold and the dark, the chest sat in its corner and the stone lay in the floor, learning me still, night on night, whether I sat down to hear it or not. The hill had answered differently on the evening I walked to the oak. A stranger had read the room I never showed anyone and called it beautiful and not signed their name. And the money had come up level at the foot of the page with nothing to spare.
+And that was that; they got on. They got on so well that I said very little for the next two hours and enjoyed myself enormously. They talked about the price of land, and about the war of attrition Cael had waged for four decades against a hill nobody would buy, and Penworth asked him, quite directly, why he had held onto a thing that had beggared his father's ambitions and paid him nothing, and Cael turned his glass round on the table a while and said, "It was hers," and Penworth, to his great credit, did not ask anything else about it.
 
-It was a great deal to have arrive in one week of one summer, and I did what I have always done with more than I can hold at once. I set it down where I could find it again, and I went back to the work in front of me, which was a run of lamp collars owed to Kellard by the turn of the month, and I let the summer be a summer a while longer, knowing, the way you know weather is coming while the sky is still clear, that it would not stay one.
+Late on, when Cael had gone and the room had thinned, Penworth said, apropos of nothing at all, "You are known here."
+
+"I've been here a year and a half."
+
+"You misunderstand me. I have watched four people cross this room this evening to say some small nothing to you, and not one of them wanted anything." He turned his cup. "When I put you on that train I thought I was arranging a retreat. A place for a man to be unwell in privately until he could be got back to the city and put to some use. I have spent this evening revising the entire document." He said it dryly, and he did not look at me while he said it, which is how Penworth says the things he means. "You have not been hiding here. You have been living here. I could not have told the difference from Vethmark, and I should have come sooner, and I am telling you now because there is nobody else to tell you and because it seems to me the sort of thing a man ought to hear from someone who knew him before."
+
+I did not have anything to say to that, and he did not require anything, and we finished our ale and walked back up the dark track with the lumen showing amber on the crown above us like a low star that had come down to sit on my hill and wait up for us.
+
+He rode out on the third morning. He took the good brandy's remainder in a wrapped bottle "against the road," which was theft, and we both knew it was theft, and it was the closest thing to sentiment either of us permitted ourselves. At the turn of the track he stopped and looked back at the hill a last time.
+
+"Make the next payment," he said.
+
+"I'll make it."
+
+"Yes," he said, "I rather think you will," and went down the track, and I stood on the crown and watched him go small along the low road until the woodland strip took him.
+
+Then I went down the cellar stair in the cool of the morning and set a fresh blank into the floor beside the first, and started it, and closed the door on it.
+
+That is the whole of what I did with the summer's great discovery, in the end. I did not solve it. I had a hill that was learning me and a friend who had ridden four days to tell me I was living, and a payment made and another coming, and a run of lamp collars owed to Kellard by the turn of the month. So I set a second stone to listen where the first had listened, because thirty nights had told me a true thing and sixty would tell me a truer one, and I went up into the light and got on with the collars. A man can carry a wonder and a deadline at the same time. That is most of the trick of the work, and very nearly the whole of the trick of the life.
