@@ -1199,17 +1199,41 @@ show release. The coarse curve, so no chapter overshoots:
   Ch 27 letter (the hand shows *his* school of notation; the closeness required her unguarded rooms).
   ⚠️ The "safe published third" canon is therefore ALSO not yet on the page — establish it when this
   thread opens.
-- **THE GREENHOUSE WAS A REAL GAMBLE (Ch 15, expanded per author fork 1b) — new canon.** Emlyn spent
-  "the better part of a year's margin" on steel and glass with ONE payment behind him and NO reserve,
-  against the prudent course (sit still, bank everything, let the Wrays' crop carry the spring).
-  **Penworth's letter is on the page** and is the model for his register: *"I note that you propose to
-  build a glasshouse… You will do as you think best; you always have, and it has served you better
-  than my advice has on at least two memorable occasions. I have therefore confined myself to
-  arranging the shipping, which will cost you nine per cent less than the quotation you were
-  undoubtedly about to accept. Do not write to me about the weather. Write to me when the crop is in."*
-  (Penworth disapproves, does not forbid, and quietly saves him 9%.) The risk is stated plainly: bent
-  frame / broken glass / a cracking first winter would have left him a payment he could not make and
-  "a very expensive black skeleton on a hill." → keeps money TIGHT and makes the Ch 16 harvest load-bearing.
+- **THE GREENHOUSE IS A POTENTIALLY BANKRUPTING GAMBLE (⚠️ RESCALED 2026-07-15 at author's direction;
+  proposed on the page in Ch 14, built in Ch 15) — load-bearing canon.**
+  **SCALE:** **160 feet long, five bays deep**, wrought steel and glass, warded frame to footing,
+  **propagation houses at the cold end + a stove** to hold frost off through a frontier winter. It is
+  **longer than the whole of Ardenmoor's street** and by far the largest structure in the valley (the
+  inn, at three storeys, was the previous record). Frame came up the frontier road on **ELEVEN wagons**
+  across the back of autumn, two long members to a wagon; children walked alongside; the village turned
+  out for it.
+  **FINANCE (the crucial part):** Emlyn **could not buy it.** It is a **SECOND borrowing secured on the
+  hill itself** — "I owned a debt with a hill inside it, and a second debt lying on top of the first."
+  **PENWORTH CAUTIONED HIM IN PERSON, on the southeast slope, Ch 14:** made him say the number twice,
+  then made him say the stake back out loud: *"A bad winter, a broken shipment, one season where nobody
+  wants what you have grown, and you will lose Ardenmoor. Not embarrassment. The hill."* Verdict: *"It
+  is not madness. It is an enormous risk taken by a man who has recently had a great deal of good
+  fortune and has begun, as men do, to mistake it for a talent for weather."* He arranged the money
+  anyway ("on the two occasions I have been certain you were wrong you have been right").
+  **PENWORTH'S THREE CONDITIONS (all met):** (1) **no spade in the ground until the Wrays' crop is in
+  and SOLD and the second payment made from it** (cost Emlyn a month of good weather); (2) shipping
+  through Penworth, not Kellard (came in 9% under Kellard's quote); (3) **write monthly, whether there
+  is anything to say or not** ("a man who is doing this alone on a frontier is a man I would rather
+  hear from monthly than be told about afterward" — explicitly NOT a condition of the money).
+  **Penworth's pre-build letter (on the page):** *"They are the drawings of a man who intends to be
+  somewhere in thirty years, which is the only part of this business that reassures me at all. Do not
+  economise on the glass… I remain, against my professional judgement and with my whole personal
+  confidence, yours."*
+  **THE DOWNSIDE, stated on the page:** a bent frame, glass broken on a bad road, a hard frost through
+  an unproved stove, or one year the city doesn't want the crop → no payment → **the note takes the
+  hill, the stones, the cellar, and the chest in it.** Jorin's whole verdict, at the footings: **"Big
+  for one man."**
+  **WHY:** "there are only ever two hands" — a lamp is made one at a time by a man who must be awake;
+  a thing grown out of ground earns while you sleep, and can be tended by a partner and by people you
+  have trained. Lamps = the winter's bread; the greenhouse = **the years' bread**.
+  ⚠️ **CONSEQUENCES TO HOLD:** money stays TIGHT for the rest of Book One; every payment is now
+  load-bearing; the harvest chapter is no longer merely warm; and the greenhouse (steel + glass) is
+  the asset that must SURVIVE the Ch 27 fire (which takes the WOOD buildings).
 - **BRENNA REFUSED TO NAME THE NORTH CORNER, UNDER PRESSURE (Ch 15, fork 2b) — character canon.**
   Emlyn pressed her once, practically (he must run ducting/drains now); she gave him the SPECS and
   withheld the reason: **"Cool. Shaded. Dry, not damp. No ducting; it's not to be warmed."** and

@@ -52,13 +52,55 @@ I had thought, when his letter said he would come himself with the summer's acco
 
 He had brought the money and the mail, and we did the money first, because Penworth did the hard thing first as a matter of principle and I had learned it off him. The note had come due. The year's grace was spent, and the first payment against the hill had fallen to be made that midsummer, and it had been made. It had been made by the narrowest margin either of us liked, a thing built out of the small steady coppers of the lamp trade and the last of what the river house had fetched, laid together and stretched exactly far enough, and no farther. Penworth showed me the columns of it in his neat hand, the sum coming up level at the foot of the page with nothing under it to spare, and he let me look at it a while.
 
-"You made it," he said. "This once. On lamps and on the last of the city money, which is spent now and will not come again." He tapped the foot of the column. "The land has to carry the next one. This green you're so pleased with down there has to come in, and come in sold, or the one after this eats you. I did not ride four days on a hired horse to tell you that, because you know it. I rode up to see whether the man who has to make it happen was a man I could still lend against. And he is. That's the whole of my business, and it's done, and now you may give me something to drink that did not come off a hill."
+"You made it," he said. "This once. On lamps and on the last of the city money, and that money is spent now and will not come again." He tapped the foot of the column. "The land has to carry the next one. This green you're so pleased with down there has to come in, and come in sold, or the one after this eats you. I did not ride four days on a hired horse to tell you that, because you know it. I rode up to see whether the man who has to make it happen was a man I could still lend against. And he is. That's the whole of my business, and it's done, and now you may give me something to drink that did not come off a hill."
 
 I gave him the good brandy, and he drank it in my one good chair with his boots off, and I expected him to be gone at first light. He was not. He stayed three days.
 
 I have never entirely worked out why. He said it was the horse needing rest. The horse did need rest, and it was also a shameless piece of nonsense from a man who could have hired another in the village for the price of a dinner. I think the truth is that Penworth had spent a decade managing my affairs at the distance of a letter, and had come at last to the place the letters were about, and found that he did not want to leave it in a morning. He was curious. He is the most incurious-seeming curious man I have ever known.
 
 So I showed him the hill, and he came round it at his own pace with his hands behind his back like a man valuing a property. He could not help that. Nor could he help the questions, which were not about value at all. He looked at the Study for a long time from the outside and then went in and stood in it and said nothing. He put his hand flat on the wall as he came out, briefly, and I do not think he knew I saw it. He walked the whole length of the bottoms with me in the heat and asked about drainage. He was introduced to Snow, who bit at his sleeve, and he said she had the look of an animal who had been indulged and I said she had, and that was the truest thing either of us said all week.
+
+It was on the southeast slope, on the second afternoon, that I told him what I meant to do.
+
+I had been working up to it since he arrived, in the way a man works up to telling his banker a thing his banker will not care for, and I had chosen the ground on purpose, because the ground was the argument. We stood on the long open slope below the crown that catches the sun from the first of it to the last, a good acre and a half of south-and-east facing hillside doing nothing whatever, and I laid it out for him: a glasshouse. Not a gardener's box. A glasshouse a hundred and sixty feet long and five bays deep, wrought steel and glass, warded frame to footing, with propagation houses at the cold end and a stove to hold the frost off the whole of it through a frontier winter. Something to grow what the valley could not grow, out of the season the valley could not grow it in, at the price such things fetch in a city a week's road away and every mining town between here and here.
+
+Penworth heard the whole of it without once interrupting. That is his way of taking a thing seriously. Then he asked what it cost.
+
+I told him.
+
+He did not say anything at all for a while. He looked down the slope, and up at the Study, and out at the green in the bottoms, and when he spoke he had gone very careful, and the carefulness was the worst of it.
+
+"Say the number again."
+
+I said it again.
+
+"And you have, at present, one payment made and nothing whatever behind it."
+
+"Yes."
+
+"So you cannot buy this," he said. "You understand that I am not making a point of rhetoric. You cannot buy it. You have not got it and you will not have it, and no arrangement of the lamp trade over the next three years produces it. Which means what you are actually proposing to me, in your roundabout way, on this pleasant hillside, is a second borrowing, secured on the only thing you own, which is the ground under our feet."
+
+"Yes," I said. "That's what I'm proposing."
+
+"Then let me put the other half of it to you plainly, since you have been careful not to." He turned to face me. "At present you owe money against a hill, and if it all goes wrong you sell the hill, pay the note, and walk away poorer and free. If I arrange this, you owe money against a hill *and* against a building that cannot be moved, cannot be sold to anybody nearer than the city, and is worth precisely nothing if the glass goes or the trade doesn't come. You will not be able to walk away. A bad winter, a broken shipment, one season where nobody wants what you have grown, and you will lose Ardenmoor. Not embarrassment. The hill. Say it back to me."
+
+"A bad winter and I lose the hill."
+
+"Good," he said, and looked at the slope again for a long moment. "Now. Tell me why it isn't madness."
+
+So I told him. The hill answered a lamp; it would answer a garden. Lamps were made by my two hands and there were only ever two of them, and a thing grown out of ground earns while you sleep. Brenna's trade and mine under one roof. The land in the bottoms would pay for bread and the note; this would pay for everything after. And, underneath all of it, the thing I did not say well and he heard anyway: that I had spent a year and a half proving I could survive on that hill, and I had got tired of surviving, and I wanted to build the thing that made it a life instead of a refuge.
+
+Penworth listened to all of it with his head slightly down.
+
+"It is not madness," he said at last. "It is an enormous risk taken by a man who has recently had a great deal of good fortune and has begun, as men do, to mistake it for a talent for weather." He held up a hand before I could answer. "I did not say you were wrong. I said what you are. I will arrange the money, because you would find a worse way to do it if I refused, and because on the two occasions I have been certain you were wrong you have been right. But I want three things, and they are not negotiable."
+
+He counted them on his fingers, there on the hillside.
+
+"You will not put a spade in until the crop is in and sold and the second payment is made from it. Not the day before. Second, you will take the shipping through me and not through Kellard, whom I like very much and who would rob you like a gentleman. Third." He stopped. "Third, you will write to me every month, whether there is anything to say or not, because a man who is doing this alone on a frontier is a man I would rather hear from monthly than be told about afterward."
+
+"That last one isn't a condition of the money."
+
+"No," Penworth agreed. "It isn't," and he started back up toward the Study without another word about any of it.
 
 The second evening we went down to the inn for our supper, because I had nothing in the cabin fit to set before a guest, and I watched the village take the measure of him. Lira gave him the good corner table without being asked. That is the highest honour in her gift, and it is never mentioned by either party. Kellard came over to be introduced, having somehow already learned that this was the man of business who had bought the hill, and shook his hand at some length and told him the frontier was a coming country, which is what Kellard tells everyone from the city, and which Penworth received with grave attention and one or two questions so precisely aimed that Kellard went away half an hour later visibly convinced he had made an important connection.
 
