@@ -69,3 +69,8 @@ misses: 2026-07-15 the ORIGINAL draft's premise was the miss, and the author cau
 counts: dashes=0 dialogue=healthy(Penworth/Cael inn scene) echoes=0 tics-over=none(trimmed which-tails 9→7) seed-tel=0 welds=0
 kept:   none over-budget. The chapter is now cleanly about the hill + the money + the friendship; removing the correspondent thread cost nothing structurally and gained focus.
 misses: 2026-07-15 caught during revision, a POV SLIP the original pass missed: "the stiffness of a man Emlyn's own age" in a FIRST-PERSON chapter (the narrator naming himself in the third person). The lint has no pattern for this and the pre-delivery read did not catch it. → candidate mechanization: flag "Emlyn" appearing in narration (not dialogue) inside a first-person chapter; his name should essentially only be SPOKEN by others. Worth adding if it recurs (per the de-escalation discipline, not adding a pattern on a single instance yet — but logged here so a second occurrence escalates it).
+
+## [15] steel-and-glass — REVISION 2026-07-15 (author forks B/B/B)
+counts: dashes=0 dialogue=healthy(Brenna refusal two-hander + Essa/Ren) echoes=0 tics-over=none seed-tel=0 welds=0
+kept:   none over-budget.
+misses: 2026-07-15 caught in revision: nearly introduced a numeric collision ("avoided mirrors for the better part of three years" — a reader ties any "three years" to the bereavement, which is now ~4.5 yrs elapsed); changed to "for years." The CALENDAR/NUMBERS discipline is now catching things at draft time rather than in later passes, which is the intended behaviour.

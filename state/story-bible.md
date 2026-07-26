@@ -1199,6 +1199,34 @@ show release. The coarse curve, so no chapter overshoots:
   Ch 27 letter (the hand shows *his* school of notation; the closeness required her unguarded rooms).
   ⚠️ The "safe published third" canon is therefore ALSO not yet on the page — establish it when this
   thread opens.
+- **THE GREENHOUSE WAS A REAL GAMBLE (Ch 15, expanded per author fork 1b) — new canon.** Emlyn spent
+  "the better part of a year's margin" on steel and glass with ONE payment behind him and NO reserve,
+  against the prudent course (sit still, bank everything, let the Wrays' crop carry the spring).
+  **Penworth's letter is on the page** and is the model for his register: *"I note that you propose to
+  build a glasshouse… You will do as you think best; you always have, and it has served you better
+  than my advice has on at least two memorable occasions. I have therefore confined myself to
+  arranging the shipping, which will cost you nine per cent less than the quotation you were
+  undoubtedly about to accept. Do not write to me about the weather. Write to me when the crop is in."*
+  (Penworth disapproves, does not forbid, and quietly saves him 9%.) The risk is stated plainly: bent
+  frame / broken glass / a cracking first winter would have left him a payment he could not make and
+  "a very expensive black skeleton on a hill." → keeps money TIGHT and makes the Ch 16 harvest load-bearing.
+- **BRENNA REFUSED TO NAME THE NORTH CORNER, UNDER PRESSURE (Ch 15, fork 2b) — character canon.**
+  Emlyn pressed her once, practically (he must run ducting/drains now); she gave him the SPECS and
+  withheld the reason: **"Cool. Shaded. Dry, not damp. No ducting; it's not to be warmed."** and
+  **"No, I'll not tell you. Not because you've not earned it… I've been the only one keeping it for
+  thirty years. Ask me again at the turn of the year."** He ran the ducting the long way round to
+  spare the corner (4 days + swearing). → the keeper plant lands there (Ch 25); "ask me at the turn of
+  the year" is a live promise. Brenna holds lines to your face; "you know precisely where you are with
+  such a person, which is more than can be said for the agreeable ones."
+- **THE VILLAGE FURNISHED HIM (Ch 15, fork 3b) — belonging canon.** Essa delivered the bed with REN to
+  carry, and the cart also held: **wool blankets from LIRA** (sent with no message, "precisely how Lira
+  sends a thing"), **a bolster from MIRA** (Cael's daughter; Emlyn has spoken ~40 words to her),
+  **a jar from BRENNA** with tied instructions, and **a mirror from KELLARD** ("had by him"; in fact
+  ordered from Wainford on a whim and never sold). The village had been quietly discussing his
+  housekeeping FOR A YEAR. Essa: **"It's not charity, it's opinion. You'll find there's a deal more of
+  the second in this valley than the first."** GRIEF BEAT: he had avoided mirrors for years; turned it
+  to the wall the first night, stood it round again the second ("harder than the greenhouse"). → the
+  village's care arrives UNASKED; this is the belonging that pays off when they come up the hill in Ch 27.
 - **PENWORTH'S THREE-DAY VISIT (Ch 14, expanded per author fork 3b) — new canon.** Penworth came the
   whole way up (first time he has seen the hill) and **stayed three days** on the pretext of resting
   the horse. He walked the hill and the bottoms, stood silently in the Study and **put his hand flat
