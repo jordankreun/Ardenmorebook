@@ -190,16 +190,31 @@ the dark.*
 
 ## PART III — YEAR 2, LATE SUMMER → AUTUMN (Ch 15–22)
 
-**Ch 15 — Steel and Glass.** The greenhouse rises: enchanted wrought-steel frame up from the city
-through Wainford, warded, glass to follow; Brenna's partnership formalized over soil plans, the
-shaded north zone reserved unspoken. Grief beat: Essa's bedframe; the sparse bedroom; the callipers
-drawer sticks and is let stay stuck.
+**Ch 15 — Harvest Home.** *(SWAPPED with the old Ch 15, 2026-07-15: cause must precede effect, since
+Penworth's condition is no spade in the ground until the crop is sold.)* Autumn Yr2. The bottoms come
+in over nine days with the whole valley turning out. **The land pays for the first time:** the crop
+clears the second note payment IN FULL out of the ground, and what is left plus a year's lamp money
+covers the greenhouse MATERIALS exactly — but **not one copper of LABOUR.** Supper at the mended Wray
+farmhouse: they are warm but **puzzled** to be a wizard's tenants (no catch has shown itself *yet*),
+and **Nell (~7) asks what he is FOR** if he doesn't work his own land ("That's not really a job").
+Hal pays **the tenth though it is not owed** in his rent-free year ("I'd rather be owed than obliged");
+Bess explains it; Emlyn has it entered as paid early, not as a gift. Walking back, **REN finds a
+natural CAVE** on the deeper-green east shelf and **JORIN** names it: "That's not a badger hole. That's
+a room." (The storehouse will be built on it; Ren's "It's a good place" stays BLIND.) Closes on
+Jorin's question: **"And who's setting it?"**
 
-**Ch 16 — Harvest Home.** The Wrays' first harvest off the bottoms — the land pays for the first
-time; the tenth taken in grain and pride; a supper at the mended farmhouse Emlyn attends as neither
-lord nor stranger. Walking the land after, the storehouse question: Brenna's counsel (*walk the
-line; see where it wants to be touched*) finds the deeper-green shelf. "That's where she'd have
-built."
+**Ch 16 — Steel and Glass.** *(Was Ch 15.)* Late autumn → winter Yr2. The greenhouse rises: **160 ft,
+five bays**, enchanted wrought-steel frame up the frontier road on **eleven wagons**, warded, glass
+hung over three weeks — the largest structure in the valley, financed by a **second borrowing secured
+on the hill** (Penworth cautioned in person in Ch 14: "you will lose Ardenmoor. Not embarrassment. The
+hill."). **The labour problem is answered by JORIN:** nobody builds in that valley between frost and
+thaw, but steel and glass do not care about frost, so this is the first winter work his crew has ever
+had — winter rate, half weekly, half deferred against the glasshouse's first two selling seasons,
+written and signed. Ren on a man's wage; Tomas's ironmongery deferred; Kellard's cheap haulage.
+Brenna's partnership formalized over soil plans; she **refuses to name** the reserved shaded north
+corner ("Ask me again at the turn of the year"). Grief beat: Essa's bedframe delivered with the whole
+village's unasked contributions (Lira's blankets, Mira's bolster, Kellard's mirror); the callipers
+drawer sticks and is let stay stuck.
 
 **Ch 17 — Good Roads.** The thaw chapter: the cart-road and, because the land allows it, a branch
 into the village. Lira engages for the first time in a year: "That's not a path to a wizard's

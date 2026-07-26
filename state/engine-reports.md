@@ -74,3 +74,13 @@ misses: 2026-07-15 caught during revision, a POV SLIP the original pass missed: 
 counts: dashes=0 dialogue=healthy(Brenna refusal two-hander + Essa/Ren) echoes=0 tics-over=none seed-tel=0 welds=0
 kept:   none over-budget.
 misses: 2026-07-15 caught in revision: nearly introduced a numeric collision ("avoided mirrors for the better part of three years" — a reader ties any "three years" to the bereavement, which is now ~4.5 yrs elapsed); changed to "for years." The CALENDAR/NUMBERS discipline is now catching things at draft time rather than in later passes, which is the intended behaviour.
+
+## [15] harvest-home — 2026-07-15 (new chapter; Ch15/16 swapped)
+counts: dashes=0 dialogue=healthy(Wray supper + Nell + Jorin/Ren cave) echoes=0 tics-over=none seed-tel=0 welds=0(split 2)
+kept:   Ren's "It's a good place" left unremarked — a second BLIND touch on the same seed family as the Ch12 NE-corner pause; judged safe because the narrator explicitly does nothing with it and the scene's business is a storehouse site. Flag for the whole-book adversarial pass: that is now TWO blind Ren-perception beats; a third would start to form a visible pattern.
+misses: none-yet. Note: the chapter swap was forced by a canon consequence of the author's own rescale (Penworth's "no spade until the crop is sold"), caught by reading the condition against the chapter order rather than by any tool. → the CALENDAR SPINE should be checked not only for season drift but for CAUSAL order whenever a chapter introduces a precondition.
+
+## [16] steel-and-glass — REVISION 2026-07-15 (rescale + labour thread + renumber)
+counts: dashes=0 dialogue=healthy(Jorin doorstep two-hander) echoes=0(1 varied, 1 vouched) tics-over=none(which-tails trimmed 10→7) seed-tel=0 welds=0
+kept:   the vouched "a hundred and sixty feet of" echo vs Ch15 — the greenhouse's canonical dimension, recurring by necessity.
+misses: 2026-07-15 the renumber exposed a real mechanical gap: the phrase-registry rows still pointed at the OLD filename, so the lint threw 6 false FAILs for "reuse" of the chapter's own coinages. Fixed by rewriting the rows. → LESSON (candidate mechanization): any chapter RENAME must also rewrite tools/phrase-registry.txt and tools/vouched.txt rows for that basename; the delivery receipt does not check this. Worth a one-line note in SKILL.md if renames recur.

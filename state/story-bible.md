@@ -249,7 +249,8 @@ if it needs a new one, add it here.
   - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; a bolting cart horse; Soren's talent slips DENIABLY at the square well; Cael's denial; Emlyn tells no one).
   - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth stays THREE DAYS; first loan payment made; a second blank started).
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
-  - **Ch 15** — **Yr2, late summer → early autumn** — elapsed ~19 mo (the greenhouse raised: steel frame, glass hung; Brenna's soil plan + the reserved north corner; Essa's bed; the callipers drawer let stay stuck).
+  - **Ch 15 (HARVEST HOME — swapped into this slot 2026-07-15)** — **Yr2, early autumn** — elapsed ~19 mo (the bottoms come in over nine days; the Wrays' supper; the cave found; the crop sold at Wainford).
+  - **Ch 16 (STEEL AND GLASS — was Ch 15)** — **Yr2, late autumn → into winter** — elapsed ~20–22 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1199,6 +1200,55 @@ show release. The coarse curve, so no chapter overshoots:
   Ch 27 letter (the hand shows *his* school of notation; the closeness required her unguarded rooms).
   ⚠️ The "safe published third" canon is therefore ALSO not yet on the page — establish it when this
   thread opens.
+- **HARVEST HOME — THE LAND PAID (Ch 15; chapters SWAPPED 2026-07-15 so cause precedes effect).**
+  **Land structure clarified on the page:** the Wrays hold the **main bottom-field (~40 acres)** on
+  their own account; **Emlyn kept the REST of the bottoms in his own hand** and put it into **barley**
+  in spring Yr2 with **day labour out of the village**, on Cael's and Hal's advice. The harvest came in
+  over **nine days** with the whole valley turning out (Kellard sent carts; Maret shut the mill; Tomas
+  scythed evenings; **Lira closed the inn at midday**, unprecedented). **THE MONEY (locked):** the crop
+  sold at Wainford **cleared the second note payment IN FULL out of the ground** (the land paid for
+  itself for the first time) and, with a year's lamp money, came to **almost exactly the cost of the
+  greenhouse MATERIALS** (steel, glass, stove, ducting, freight at Penworth's 9% under). It did **NOT**
+  cover **LABOUR** — the chapter ends on Jorin's "And who's setting it?"
+  **THE WRAYS (character canon):** warm but **PUZZLED** by Emlyn on two counts — (1) they have never had
+  a landlord whose terms had no catch, and are still waiting for it to show; (2) they cannot place what
+  he IS ("the word wizard… is not a job. It is a category of person, like a king, or a ghost").
+  **NELL WRAY (~7)** asks the chapter's best question over a plate of beans: "So what are you *for*,
+  then?" Emlyn's answer: he is the one **"allowed to waste a great deal of time being wrong,"** because
+  Hal cannot afford to be. Nell's verdict: **"That's not really a job."** (Comic beat; the table goes up.)
+  **THE TENTH, OFFERED THOUGH NOT OWED:** Hal pays the tenth in their rent-free year — **"I'd rather be
+  owed than obliged"** — and BESS explains it plainly ("he'll not be beholden… let him be your tenant
+  instead of your object of pity"). Emlyn takes it and has it **entered as paid a year early, not as a
+  gift**, "because in twenty years there'll be somebody with your name and somebody with mine sat at
+  this table, and they'll want the paper to be honest."
+- **THE STOREHOUSE SITE = A NATURAL CAVE, FOUND BY THE BUILDERS (Ch 15; author's call 2026-07-15 —
+  supersedes the outline's "Brenna's counsel finds it").** Walking back from the supper, **REN** went
+  into the scrub on the **deeper-green east shelf** (the Ch 2 seed) and found a **low hole screened by
+  hazel**. **JORIN** put his lamp and head in and came out changed: **"That's not a badger hole. That's
+  a room."** A dry natural pocket in the hill's stone, **~4 paces by 3**, floor of clean fallen grit,
+  standing height at the middle. Jorin's verdict: face it, floor it, wall the front and roof the
+  outside and **the cold store is half cut already** — "save you a season and a fortune both. Not this
+  year." **REN said "It's a good place,"** which is NOT a builder's remark (BLIND — Emlyn noticed and
+  said nothing; ties to the Ch 12 NE-corner pause and to Soren's later "the hill's good place" drawing).
+  They put the hazel back over it. → the storehouse is BUILT on this cave (outline Ch 20/26) and its
+  hill-cut inner chamber becomes the **enchantment lab**; the cave origin is why the rear wall can be
+  set true to a bearing for the later cellar connection.
+- **THE LABOUR PROBLEM AND JORIN'S WINTER (Ch 16) — belonging canon, and the answer to Ch 15's close.**
+  Emlyn went to Jorin's door to say he could not afford him. **Jorin's counter (the chapter's turn):**
+  nobody builds in that valley from first frost to thaw (mortar won't take, ground's iron), so every
+  winter his crew goes home and earns nothing and he loses one or two to the towns each spring —
+  **but steel and glass do not care about frost.** "That great black skeleton of yours is the first job
+  in the history of this valley that can be built in the dead months… I have wanted a winter's work for
+  my men for eleven years and you have just walked down my hill and offered me one." **Terms:** winter
+  rate (a real rate, ~half his June rate); **half paid weekly out of lamp money, half DEFERRED against
+  the glasshouse's first two selling seasons at proper interest, written and signed** (Jorin will no
+  more take a favour than Hal Wray will). Jorin on the risk: "Then I'll have lost a winter's wages I'd
+  not have earned anyway, and you'll have lost your hill, and I'd sooner have the first of those than
+  watch the second happen for want of asking." **Ren paid a man's wage** (father's insistence, his own
+  embarrassment); **Tomas** took the ironmongery on the same deferred terms; **Kellard** got the
+  Wainford haulage cheap and told everyone he'd done Emlyn a favour, which he had, at no cost to
+  himself. ⚠️ **DEBT STATE going into Book One's finale: money is TIGHT** — the note, plus deferred
+  wages owed to Jorin and Tomas against a glasshouse that has not yet sold anything.
 - **THE GREENHOUSE IS A POTENTIALLY BANKRUPTING GAMBLE (⚠️ RESCALED 2026-07-15 at author's direction;
   proposed on the page in Ch 14, built in Ch 15) — load-bearing canon.**
   **SCALE:** **160 feet long, five bays deep**, wrought steel and glass, warded frame to footing,

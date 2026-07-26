@@ -56,6 +56,14 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
 - The **green shelf / future storehouse** is on the **east side, below the crown/cellar**;
   its rear wall will be set true to a compass bearing for a cellar connection dug years later.
   [PAGE ch2 (the shelf); CANON (storehouse placement)]
+- **THE CAVE (found Ch 15)** — in the scrub on that deeper-green east shelf, behind a screen of
+  **hazel**, a **low mouth about the height of a crouching man** opening into a **dry natural pocket in
+  the hill's stone, ~4 paces × 3**, floor of clean fallen grit, standing height at the middle. Found by
+  **Ren**; Jorin: *"That's not a badger hole. That's a room."* Unworked as of Ch 15 (hazel put back
+  over it). → **the STOREHOUSE is built on/around it** (face it, floor it, wall the front, roof the
+  outside: "the cold store cut half out of the hill already"), and its **inner chamber becomes the
+  enchantment lab**. This is why the storehouse can have a hill-cut interior and a rear wall set true
+  to a bearing. [PAGE ch15]
 - **The CELLAR is now BUILT (Ch 12):** cut beneath the Study, stair down from the workroom floor,
   dry dressed stone, oak door; the crown gave up its earth easily (the hill cooperating, as with the
   Study footing). Inside, the locked **chest** sits in the **northeast corner** ("where the wall stood
@@ -147,7 +155,10 @@ other owners and from unclaimed common/parish ground: [PAGE ch2, revised per rea
   farmer, but this field-land is leasable. **NOW COMING INTO USE (Ch 9):** the **Wray family** (Hal &
   Bess) took the main bottom-field on fair terms (yr1 free → 1/10 → 1/5) and are mending **the old
   empty stone farmhouse that came with the bottoms** (2 rooms, sound walls, good well) to live in.
-  **Room remains for more tenants** (the rest of the bottoms). [PAGE ch2, ch9] (Exact extent [OPEN].)
+  **Extent clarified [PAGE ch15]:** the **Wrays hold the main bottom-field, ~40 acres**, on their own
+  account; **Emlyn kept the REST of the bottoms in his own hand** and cropped it with **barley** in Yr2
+  using **day labour from the village** (his first harvest, sold at Wainford). Room still remains for
+  more tenants. [PAGE ch2, ch9, ch15]
 - **Common/unclaimed ground worked in among the parcels** — common strips and forgotten corners
   the village had let lie "since before Cael's grandfather's time," owned by no one; rather than
   leave a snarl, Penworth "sat down with the parish" and regularized them into the holding.
