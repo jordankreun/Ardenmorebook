@@ -1266,11 +1266,32 @@ show release. The coarse curve, so no chapter overshoots:
   7. **Ch 18 "Nobody Worse Off":** consolidation by trade, on the announced rule; Hask; Tam's
      twenty-four acres (two of the four freed parcels; ~36 acres remain unlet and are a live thread).
   8. **Ch 19:** labour bought with craft, because every money route is closed.
-  **⚠️ THE TOTAL SCALE — LOCKED 2026-07-27 (author's two-phase "5,500-Acre" plan; fantasy licence to
-  drift off strict history).** On paper the whole holding runs to **something above five thousand
-  acres** (~5,500), but **fewer than four hundred of them would ever take a plough.** By acreage that
-  is past Bateman's squire ceiling; **by INCOME (~£100/yr) he is nobody.** Great-landowner acreage,
-  cottager's cash: **that mismatch IS the joke** and it is the property throughline in one line.
+  **⚠️⚠️ THE GOVERNING RULE — EMLYN HAS A CASHFLOW PROBLEM, NOT A WEALTH PROBLEM (author's reframe
+  2026-07-27; supersedes every "he is poor / the land is worthless" formulation anywhere in these
+  documents).** He is not a poor man. He owns something genuinely valuable. He simply cannot turn
+  any part of it into money on a timescale that helps him. **NEVER WRITE HIM AS POOR — write him as
+  ILLIQUID.** "No money" always means *no money right now*, never *no worth*. The model line is
+  already on the page (Ch 19): *"I had no money and I had a great deal else."*
+  **⚠️ AND NOTHING ON THE ESTATE IS BAD LAND.** No wasteland, no barren ground, no useless bog. The
+  soil in the bottoms is *as good as any I have stood on since*; there is water everywhere, timber
+  on the slopes, grazing enough to keep a valley in wool, and the wet reach north and west *"wanted
+  nothing in this world but draining and had never once been offered it."* Only the **hill** is
+  genuinely rocky. Poor yields come from **newly broken ground or weather, NEVER from bad soil.**
+  **WHY IT IS CHEAP ANYWAY:** land is worth what it can EARN; carriage from four days past the
+  railhead eats the whole margin of anything bulky; so net earnings round to nothing and the land
+  prices at nothing *regardless of soil quality*. **Access, not fertility, is the variable.**
+  Penworth (Ch 3): *"Ground is not worth what it will grow. Ground is worth what it can carry to a
+  market, and every mile between the two comes off the price."* Cael (Ch 2): *"Land wants two
+  things… It wants hands and it wants a road. You've bought yourself a great deal of land with
+  neither."* **Both halves are solvable — that is why this is a build, not a tragedy.**
+  **⚠️ THE DEVELOPMENT TRAP (why a landed man cannot borrow):** capital needs collateral; collateral
+  means *improved* property with income and comparables; undeveloped remote land is **not
+  collateral**; improving it needs capital. → This is the rigorous reason Ch 17's doors are shut and
+  why Ch 19 must buy labour with **craft**.
+  **⚠️ THE TOTAL SCALE — LOCKED (author's two-phase "5,500-Acre" plan).** On paper the whole holding
+  runs to **something above five thousand acres** (~5,500), of which **perhaps four hundred were in
+  any sort of working order.** By acreage that is past Bateman's squire ceiling; **by CASH he has
+  eleven shillings.** Great-landowner acreage, cottager's coin: **that mismatch IS the joke.**
   **ACQUIRED IN TWO DELIBERATELY SEPARATE TRANSACTIONS** so no single suspicious block hits any
   register (full model in `references/economy.md`):
    • **THE ANCHOR PURCHASE (~2,500 ac, £3,000)** — the hill and its valley. *Parts* are improved (a

@@ -145,14 +145,18 @@ other owners and from unclaimed common/parish ground: [PAGE ch2, revised per rea
 - **⚠️ TOTAL SCALE — LOCKED 2026-07-27 (the two-phase ~5,500-acre plan):** on paper the whole holding
   runs to **something above five thousand acres**, of which **fewer than four hundred would ever take
   a plough.** Great-landowner acreage, ~£100/yr income, eleven shillings in the box.
+  ⚠️ **NOTHING ON THE ESTATE IS BAD LAND** (author's reframe 2026-07-27). No wasteland, no barren
+  ground. The soil in the bottoms is *as good as any Emlyn has stood on since*. It is cheap because
+  it is **UNDEVELOPED AND UNREACHED**, not because it is poor. Only the **hill** is genuinely rocky,
+  and that is one hill and a running joke.
   **TERRAIN, from the hill outward:**
    • **The anchor (~2,500 ac)** — the hill, its slopes and rough valley sides, the woodland, and the
      bottoms containing essentially all the workable ground.
-   • **The parish border (~3,000 ac)** — rough fell, heather-moor, scrub-wood, thin common grazing,
-     and ⚠️ **NEW TERRAIN: a great sodden country of PEAT BOG and MARSHY LOWLAND stretching away
-     NORTH and WEST "until it gave out in weather"** (Ch 3). Never grew anything edible.
-     **PAPERWORKED, not bought at market** (nominal parish/township price + survey and legal fees;
-     no fencing, no roads).
+   • **The parish border (~3,000 ac)** — good rough country never developed: fell, scrub-wood, old
+     grazing gone back to bracken, and ⚠️ **NEW TERRAIN: a great slow reach of WET GROUND stretching
+     away NORTH and WEST "until it gave out in weather," which "wanted nothing in this world but
+     draining and had never once been offered it"** (Ch 3). **PAPERWORKED, not bought at market**
+     (nominal parish/township price + survey and legal fees; no fencing, no roads).
   **Workable ~400 acres, of which only ~174 is named on the page** (see story-bible); the rest is
   unnamed reserve for future tenants. **⚠️ LATENT ASSETS (both blocked by remoteness, both unlock
   with ACCESS):** (1) the moor's **sporting/grouse** value — sporting tenants are city men and the
