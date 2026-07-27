@@ -305,8 +305,53 @@ travel at all. Every income stream in Book One is one of those, and this is not 
 | **Lumens / the lamp trade** (Ch 8) | Crystalline goods. Enormous value per pound. A saddlebag is a season's income |
 | **Patents and licences** | **Weightless.** Pure information. Crosses the four days for the price of postage and pays quarterly forever |
 | **Wardings, the practice, craft** | Performed on site, paid on site, frequently **in kind**. Carriage never enters into it |
-| **Glasshouse output** | Early and out-of-season produce sold **locally** at a premium; and propagated stock, seed and cuttings, which are **low bulk and high value** |
+| **Glasshouse: garden produce** | Early and out-of-season vegetables sold **locally** at a premium. Modest, near-term, feeds the valley, buys goodwill |
+| **⚠️ Glasshouse: RARE AND ALCHEMICAL STOCK** | The real engine. Seed, cuttings, dried material, extracts. **A saddlebag holds a season's income**, and see the monopoly note below |
 | **Timber, grain, wool, livestock** | ⚠️ **These cannot pay.** Too heavy. This is the whole problem |
+
+### ⚠️⚠️ MONOPOLY DEFEATS DISTANCE — the keystone of the whole economic frame
+
+**Carriage cost only ruins you when you are competing against someone closer.** Nobody will pay to
+haul Ardenmoor's barley four days when barley grows everywhere. But **if you are the only source of
+a thing, the buyer pays the carriage and thanks you for it.** Distance stops being a tax and becomes
+merely an inconvenience.
+
+Rare and alchemical plants want **controlled conditions**: heat, light, humidity, shade, stability
+through a frontier winter. **They cannot be grown outdoors at that latitude at all.** A wizard's
+glasshouse can supply exactly that — enchanted wrought-steel frame, a stove, warding, and **lumens
+for light** (which he already manufactures). So Ardenmoor can grow stock that **cannot be grown
+anywhere else within a week's travel, and some of it perhaps nowhere else at all.**
+
+→ That is not a farm competing badly on freight. **That is a monopoly supplier, and the four days
+of bad road stop mattering.** This is the single strongest economic footing in the book, and it is
+the answer to the reader's fair question of why anyone would buy from four days past the railhead.
+
+**Why this reframes six things at once:**
+1. **It justifies the SCALE.** 160 ft × 5 bays is absurd for a market garden serving a valley of a
+   few hundred souls. It is not absurd when the bays are *differentiated*: heated, propagation,
+   shaded, general garden, and **Brenna's reserved north corner** (Ch 19, which she refuses to name
+   until the turn of the year).
+2. **It justifies the WARDING and the expense.** You do not ward a vegetable shed. You ward it when
+   **the conditions inside are the product.**
+3. **It makes BRENNA'S PARTNERSHIP economically load-bearing, not sentimental.** She has the
+   knowledge — her grandmother's forty years of notebooks, the cuttings, the keeper plant. He has
+   capital, glass, warding, and light. **Neither can do it alone.** That is a real partnership and
+   it should be negotiated like one.
+4. **It makes JORIN'S DEFERRAL rational.** Half his wage rides on "the glasshouse's first two
+   selling seasons." A man does not stake his crew's pay on cabbages. He stakes it on something he
+   has been given reason to believe will sell.
+5. **It keeps non-perishability on side.** Dried material, seed, and extracts *keep*. Unlike early
+   vegetables they can wait for a cart, which is exactly what four days of bad road requires.
+6. **It sharpens PENWORTH.** He costs it as a market garden and is right to call it ruinous
+   (*"you will lose Ardenmoor. Not embarrassment. The hill."*). He is pricing the risk correctly on
+   the information he has. **Emlyn is pricing the strategy correctly on information Penworth lacks
+   and might not credit.** Both men are competent; that is a better scene than either being a fool.
+
+⚠️ **Do not let this make it safe.** The strategy is sound *and* the execution can still ruin him:
+alchemical stock is slow (years to maturity, not one season), fragile, and dependent on Brenna's
+knowledge and a hard frost never getting in. The **keeper plant has been unthriving for thirty
+years in a dark cellar** — proof that knowing what a plant needs and being able to give it to it are
+different problems. **The plan is right. That is not the same as the plan working.**
 
 **⚠️ THIS MAKES THE GLASSHOUSE RATIONAL, NOT RECKLESS — and that is a load-bearing reversal.**
 The valley thinks he is mad to raise a palace of glass in a district that cannot sell its grain.

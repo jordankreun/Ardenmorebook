@@ -1473,8 +1473,32 @@ show release. The coarse curve, so no chapter overshoots:
   wages owed to Jorin and Tomas against a glasshouse that has not yet sold anything.
 - **THE GREENHOUSE IS A POTENTIALLY BANKRUPTING GAMBLE (⚠️ RESCALED 2026-07-15 at author's direction;
   proposed on the page in Ch 14, built in Ch 15) — load-bearing canon.**
+  **⚠️ PURPOSE — LOCKED 2026-07-27 (author): RARE AND ALCHEMICAL PLANTS, in addition to garden
+  produce.** TWO revenue lines, and the second is the real one: (1) **garden produce** — early and
+  out-of-season vegetables sold **locally** at a premium (Kellard's first refusal on the early crop);
+  (2) **⚠️ RARE AND ALCHEMICAL STOCK** — seed, cuttings, dried material, extracts: **low bulk, high
+  value, non-perishable, and a saddlebag holds a season's income.**
+  **⚠️⚠️ THE KEYSTONE — MONOPOLY DEFEATS DISTANCE.** Carriage cost only ruins you when you compete
+  against someone closer. Nobody hauls barley four days. But **alchemical plants need controlled
+  conditions and CANNOT be grown outdoors at that latitude at all** — so with glass, a stove,
+  warding, and **his own lumens for light**, Emlyn becomes a source nobody within a week can match.
+  **When you are the only supplier, the buyer pays the carriage.** The four days stop mattering.
+  → This makes the glasshouse **RATIONAL, not reckless**, and answers "why would anyone buy from
+  four days past the railhead." It also explains the **scale** (differentiated bays, not one big
+  vegetable shed), the **warding** (you ward it when the conditions inside ARE the product),
+  **Jorin's deferral** (no man stakes his crew's pay on cabbages), and **Brenna's partnership as
+  economically load-bearing** (she has her grandmother's forty years of notebooks, the cuttings and
+  the keeper plant; he has capital, glass, warding and light; **neither can do it alone**).
+  → **PENWORTH stays right.** He costs it as a market garden and calls it ruinous, correctly, on the
+  information he has. Emlyn is right on information Penworth lacks. **Both men competent.**
+  ⚠️ **BUT DO NOT LET THIS MAKE IT SAFE.** Alchemical stock is **slow** (years to maturity, not one
+  season), fragile, and hostage to Brenna's knowledge and to frost never getting in. The **keeper
+  plant sat thirty years unthriving in a dark cellar** — proof that knowing what a plant needs and
+  being able to give it are different problems. **The plan is right; that is not the plan working.**
   **SCALE:** **160 feet long, five bays deep**, wrought steel and glass, warded frame to footing,
-  **propagation houses at the cold end + a stove** to hold frost off through a frontier winter. It is
+  **propagation houses at the cold end + a stove** to hold frost off through a frontier winter.
+  Bays are **DIFFERENTIATED**: heated · propagation · shaded · general garden · and **Brenna's
+  reserved north corner**, which she refuses to name until the turn of the year (Ch 19). It is
   **longer than the whole of Ardenmoor's street** and by far the largest structure in the valley (the
   inn, at three storeys, was the previous record). Frame came up the frontier road on **ELEVEN wagons**
   across the back of autumn, two long members to a wagon; children walked alongside; the village turned
