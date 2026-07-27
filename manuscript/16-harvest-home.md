@@ -6,7 +6,7 @@
 
 The bottoms came in over nine days at the front of autumn, and for nine days I was not a wizard at all. I was a pair of hands that could be told what to do, which is a thing I recommend to anybody who has begun to take himself seriously.
 
-How the land lay by then is worth setting out, because the rest turns on it. The Wrays had the main bottom-field, forty-odd acres of it, on their own account and their own terms. Of what was left I had put into barley that spring as much as I could get a plough to, which was less than half of it and not the best half, with day labour out of the village, on Cael's advice and Hal Wray's and against my own total ignorance. Why I could not get a plough to the rest of my own land was a question I had not yet troubled to ask. When I finally went and asked it, the asking took me eleven days on foot.
+How the land lay by then is worth setting out, because the rest turns on it. The Wrays had the main bottom-field, eighty-odd acres of it, on their own account and their own terms. Of what was left I had put into barley that spring as much as I could get a plough to, which was less than half of it and not the best half, with day labour out of the village, on Cael's advice and Hal Wray's and against my own total ignorance. Why I could not get a plough to the rest of my own land was a question I had not yet troubled to ask. When I finally went and asked it, the asking took me eleven days on foot.
 
 That was the summer I learned that farming is not a gentle profession. It is a nine-day argument with the weather conducted at a dead run, and I lost most of it, and we got the crop in anyway.
 

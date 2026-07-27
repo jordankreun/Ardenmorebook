@@ -890,7 +890,7 @@ author's call) so cause precedes effect: Penworth's condition is no spade until 
 the harvest must come before the build. 3,128w. The bottoms come in over NINE DAYS with the whole
 valley out (Kellard's carts; Maret shuts the mill; Tomas scythes evenings; **Lira closes the inn at
 midday**, unprecedented); Emlyn stooks barley till his hands bleed and is "purely and stupidly happy."
-Land structure clarified: the Wrays hold the main bottom-field (~40 ac); Emlyn kept the REST in his own
+Land structure clarified: the Wrays hold the main bottom-field (~80 ac); Emlyn kept the REST in his own
 hand and cropped it with village day labour. SUPPER at the mended Wray farmhouse: they are warm but
 PUZZLED — no landlord's catch has shown itself *yet*, and they cannot place what he IS ("the word
 wizard… is not a job. It is a category of person, like a king, or a ghost"). **NELL (~7) asks the
@@ -916,8 +916,8 @@ Jorin on the pegged-out slope, **"And who's setting it?"** prose-lint clean (2 w
 [16] The Rent Book — Autumn (October) Yr2 (~20 mo). ⚠️ NEW CHAPTER (author's call 2026-07-15); all
 chapters after it shift +1. 3,314w. Penworth's one-line letter forces Emlyn to find out who is actually
 living on the land he bought eighteen months ago. He reads his own deeds and finds **a jigsaw with
-pieces missing and other men's pieces in the box**: a 3-acre strip through the middle of the Wrays'
-best field, a cottage corner, 2 acres of the NE meadow, ~30 acres of good plough-land unreachable for
+pieces missing and other men's pieces in the box**: a 6-acre strip through the middle of the Wrays'
+best field, a cottage corner, 4 acres of the NE meadow, ~60 acres of good plough-land unreachable for
 want of a way in. **Eleven days on foot with a notebook; five inherited occupiers** — Ned Pardon
 (cheese and fleece by custom, paid to nobody for eleven years), **Alice Bewick** (three children, no
 husband, the rent counted out and gone hungry for; **Emlyn refuses it** — "a rent that must be starved
@@ -937,11 +937,11 @@ settled, and everything that came after came out of that."* And he closed the la
 the inside, on purpose. The consolidation is done
 by DEAL on one publicly announced rule — **nobody is to be worse off** — with Hal Wray consulted first
 ("There's ways to make a man deal that aren't asking." / "I know it." / "My last landlord knew a few of
-them."). Bewick trades up to 5 acres and a byre; the widow takes a lifetime's firewood; Ferris swaps
+them."). Bewick trades up to 10 acres and a byre; the widow takes a lifetime's firewood; Ferris swaps
 and thinks he swindled him. **HASK refuses twice; the third time Emlyn brings CAEL up his path** and it
 works, and Hask takes the deal, never works it, goes to a daughter in Wainford and dies there. Emlyn
 does not absolve himself: *"you will have the power to do a small ugly thing for a good reason, and no
-one will ever call you on it."* THE GIFT: **TAM WRAY, 17**, gets **twelve acres in his own name**, seed
+one will ever call you on it."* THE GIFT: **TAM WRAY, 17**, gets **twenty-four acres in his own name**, seed
 on Emlyn's account; Hal, at the door: **"He's better than me."** Tam joins the glasshouse crew for the
 wage that becomes his seed money. CLOSING (dialogue): Jorin on the pegged slope, **"And who's setting
 it?"** (moved here from Ch 15). NEW FACTS: five named occupiers; the consolidation; Tam's holding;
@@ -952,10 +952,10 @@ it?"** (moved here from Ch 15). NEW FACTS: five named occupiers; the consolidati
 out**, the only currencies are land, time and forgiven rents, so Emlyn makes one rule and says it aloud
 to everyone so they can hold him to it: **nobody is to be worse off.** Hal Wray consulted first
 ("There's ways to make a man deal that aren't asking." / "My last landlord knew a few of them.").
-Bewick trades up to 5 acres and a byre; the Tolls' widow takes a lifetime's firewood; Ferris swaps and
+Bewick trades up to 10 acres and a byre; the Tolls' widow takes a lifetime's firewood; Ferris swaps and
 thinks he swindled a wizard. **HASK refuses twice; the third time Emlyn brings CAEL up his path**, and
 it works, and Hask takes the deal, never works it, and dies at a daughter's in Wainford — and Emlyn
-refuses to absolve himself. THE GIFT: **TAM WRAY, 17**, twelve acres in his own name, seed on Emlyn's
+refuses to absolve himself. THE GIFT: **TAM WRAY, 17**, twenty-four acres in his own name, seed on Emlyn's
 account; Hal: **"He's better than me."** Schedule to Penworth; his one-line reply. CLOSING (dialogue):
 Jorin on the pegged slope, **"And who's setting it?"** prose-lint clean.
 
@@ -965,8 +965,8 @@ farm, so he goes to CAEL, who names HAL and BESS WRAY. The tenancy negotiation i
 spine as a two-hander (Hal: "There's a year's work in it before it gives you a bushel"; Bess from the
 doorway: "A fifth." and "Men find reasons," answered with the paper and Cael). They come across on one
 borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"; retitled to rhyme with Ch 2 "Walking the Bounds"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, beck end upward, and shows him rather than tells him — Tobin
-Hask's 3-acre strip through the middle of the best field, a widow's cottage corner, 2 meadow acres held
-by a stranger, and ~30 acres gone back to thistle because the only lane runs through a gate wired shut
+Hask's 6-acre strip through the middle of the best field, a widow's cottage corner, 4 meadow acres held
+by a stranger, and ~60 acres gone back to thistle because the only lane runs through a gate wired shut
 a decade ago over a forgotten quarrel. Hal does not ask him to fix it; he comes so Emlyn cannot later
 say he ploughed it badly. "It's a rare mess down there… You've the whole of it in one hand now." Emlyn
 says he'll look into it, puts it on a list, and DOES NOT TOUCH IT FOR EIGHTEEN MONTHS: "Hal had said

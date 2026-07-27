@@ -14,7 +14,7 @@ So I got the deeds out, and the plan that came with them, and spread the whole b
 
 And there was nothing in it I had not been told.
 
-That is the part I have to own. Hal Wray had walked me over the whole of it a year and a half before, on a bright cold morning at the front of April, and shown me every piece: the strip through his field, the widow's corner, the wired gate, the thirty acres nobody could get a lane to. He had told me it was a rare mess and that I now held the whole of it in one hand. And I had said something about looking into it, and I had put it on a list, and the list had gone under a summer and a lamp trade and a winter and a note, and I had not touched it since.
+That is the part I have to own. Hal Wray had walked me over the whole of it a year and a half before, on a bright cold morning at the front of April, and shown me every piece: the strip through his field, the widow's corner, the wired gate, the sixty acres nobody could get a lane to. He had told me it was a rare mess and that I now held the whole of it in one hand. And I had said something about looking into it, and I had put it on a list, and the list had gone under a summer and a lamp trade and a winter and a note, and I had not touched it since.
 
 A man can hold a piece of paper for eighteen months and see a shape on it. It takes going out and asking to see the ground.
 
@@ -22,7 +22,7 @@ It was a mess.
 
 I do not mean the paper was a mess, though it was. I mean the land was. The four holdings Penworth had bundled together for me had each been dying by inches for thirty years, and in that time bits had been sold and bits had been let and bits had simply been walked onto by whoever wanted them, and nobody had drawn a line on a map since before Cael was born. What I owned, when I finally understood it, was not a farm. It was a jigsaw with pieces missing and other men's pieces in the box.
 
-There was a strip three acres long running clean through the middle of the main bottom-field, from the beck up to the hedge, and it was not mine at all. There was a cottage and garden in the far corner of the same field, also not mine. There were two rough acres of the NE meadow held by somebody I had never heard of. There were four separate parcels of good plough-land, together making perhaps thirty acres, gone out of cultivation because they could not be reached without crossing ground that belonged to somebody else, and everyone had eventually stopped trying.
+There was a strip six acres long running clean through the middle of the main bottom-field, from the beck up to the hedge, and it was not mine at all. There was a cottage and garden in the far corner of the same field, also not mine. There were four rough acres of the NE meadow held by somebody I had never heard of. There were four separate parcels of good plough-land, together making perhaps sixty acres, gone out of cultivation because they could not be reached without crossing ground that belonged to somebody else, and everyone had eventually stopped trying.
 
 And around all of it, in the corners and the awkward angles, in a way no plan in the world showed, were people.
 
@@ -94,17 +94,17 @@ She was a while answering.
 
 She cried then, briefly and furiously and without any apparent connection to her face, which stayed exactly where it was throughout. Then she was extremely brisk with me for the remainder of the visit as a way of getting even, and made me take away four jars of something and a bunch of sage, and told me at the gate that my thyme was in the wrong place. It was.
 
-**The Tolls' widow** held two thistled acres of the NE meadow and wanted rid of them. Her sons had gone to Wainford; the ground had gone back; there were arrears on the roll that were real on paper, and she stood in her kitchen with her hands in her apron while I read the figure out, and I looked at the room while I was reading it and understood that I could have had the two acres and everything else in that house and it would not have bought a week of a mason's time.
+**The Tolls' widow** held four thistled acres of the NE meadow and wanted rid of them. Her sons had gone to Wainford; the ground had gone back; there were arrears on the roll that were real on paper, and she stood in her kitchen with her hands in her apron while I read the figure out, and I looked at the room while I was reading it and understood that I could have had the four acres and everything else in that house and it would not have bought a week of a mason's time.
 
 **Cob Ferris**, up the beck, owed me for a strip he had never worked in his life. He gave me twenty minutes on how difficult that strip was to reach, and that was true; on how he had always meant to get to it, and that was not; and on how times were hard, that being the one thing everybody says and everybody means. He would pay eventually. Men like Ferris always pay eventually: slowly, partly, and with a grievance.
 
-And **Tobin Hask** had the three-acre strip through the middle of the Wrays' field.
+And **Tobin Hask** had the six-acre strip through the middle of the Wrays' field.
 
 I want to be careful about Hask, because he was the one it went wrong with, and because it would be very easy to make him the villain of it and he was not one.
 
-He was old, older than Cael by a good margin, and he lived alone in a cottage on the lane with a dog, and the strip was the last thing his family had. His grandfather had held forty acres in that valley. His father had held twelve. He had three, and he had worked them until his hands gave out, and for the last five or six years he had worked perhaps a third of the three and let the rest go, and every man in the village knew it and nobody said it, because that is what a village is for.
+He was old, older than Cael by a good margin, and he lived alone in a cottage on the lane with a dog, and the strip was the last thing his family had. His grandfather had held eighty acres in that valley. His father had held twenty-four. He had six, and he had worked them until his hands gave out, and for the last five or six years he had worked perhaps a third of the six and let the rest go, and every man in the village knew it and nobody said it, because that is what a village is for.
 
-And that strip ran straight through the best forty acres in my holding, from the water to the hedge, so that Hal Wray had to break his plough-run twice on every pass and turn on the awkward, and lost, I later worked out, something like a fifth of the working of that field to it.
+And that strip ran straight through the best eighty acres in my holding, from the water to the hedge, so that Hal Wray had to break his plough-run twice on every pass and turn on the awkward, and lost, I later worked out, something like a fifth of the working of that field to it.
 
 Here is the thing I had not understood before I walked that ground with a notebook, and I set it down because I think most men who own things do not understand it either.
 
@@ -134,4 +134,4 @@ There was no money. There was not going to be any money. That was settled that n
 
 I went to bed on that and slept badly and woke early, and the thing that was waiting for me when I woke was not the money at all. It was the notebook.
 
-Eleven days of walking a man's own land and being fed in five kitchens will put things in a notebook that were not on any rent roll: which strip cannot be got at from which lane, whose gate has been wired shut for a decade and why, which two acres a widow would hand over gladly and which three a proud man will die holding. I had gone out after arrears and come back with a survey, and the survey was of people as much as ground, and I lay there in the dark before dawn and began, without meaning to, to move the pieces about.
+Eleven days of walking a man's own land and being fed in five kitchens will put things in a notebook that were not on any rent roll: which strip cannot be got at from which lane, whose gate has been wired shut for a decade and why, which four acres a widow would hand over gladly and which six a proud man will die holding. I had gone out after arrears and come back with a survey, and the survey was of people as much as ground, and I lay there in the dark before dawn and began, without meaning to, to move the pieces about.

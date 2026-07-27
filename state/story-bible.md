@@ -270,8 +270,8 @@ if it needs a new one, add it here.
   - **Ch 15** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth stays THREE DAYS; first loan payment made; a second blank started).
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
   - **Ch 16 (HARVEST HOME — swapped into this slot 2026-07-15)** — **Yr2, early autumn** — elapsed ~19 mo (the bottoms come in over nine days; the Wrays' supper; the cave found; the crop sold at Wainford).
-  - **Ch 17 (THE RENT BOOK — NEW)** — **Yr2, October** — elapsed ~20 mo (eleven days on foot; the five inherited occupiers; consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth in November).
-  - **Ch 18 (NOBODY WORSE OFF — split from The Rent Book)** — **Yr2, late October → November** — elapsed ~20–21 mo (the consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth).
+  - **Ch 17 (THE RENT BOOK — NEW)** — **Yr2, October** — elapsed ~20 mo (eleven days on foot; the five inherited occupiers; consolidation by deal; Hask; Tam's twenty-four acres; the schedule to Penworth in November).
+  - **Ch 18 (NOBODY WORSE OFF — split from The Rent Book)** — **Yr2, late October → November** — elapsed ~20–21 mo (the consolidation by deal; Hask; Tam's twenty-four acres; the schedule to Penworth).
   - **Ch 19 (STEEL AND GLASS — was 15, then 16, then 17)** — **Yr2, late autumn → into winter** — elapsed ~21–23 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
@@ -1234,8 +1234,8 @@ show release. The coarse curve, so no chapter overshoots:
   3. **Ch 9:** the money trap. Land does not pay a man for owning it; it pays him for being worked.
   4. **Ch 10 "Walking the Bottoms" (THE HINGE):** Cael names the Wrays; the tenancy is agreed; and
      then **HAL WALKS HIM OVER HIS OWN GROUND** and the abstraction becomes physical — the change in
-     the growth where **Hask's 3-acre strip** crosses the field, the **widow's cottage corner**, and
-     the **wired gate** (rust-coated, hawthorn grown through it) beyond which lie **~30 acres** gone
+     the growth where **Hask's 6-acre strip** crosses the field, the **widow's cottage corner**, and
+     the **wired gate** (rust-coated, hawthorn grown through it) beyond which lie **~60 acres** gone
      back to thistle because the only lane runs through it. Emlyn's realisation, and the arc's thesis:
      *"Penworth had stitched four dead men's ground into one holding, and he had done it… with a pen,
      in a room, four days' road away… And on the ground it was four men's ground still, with other
@@ -1247,12 +1247,23 @@ show release. The coarse curve, so no chapter overshoots:
      less than half of it and not the best half" — a direct consequence of link 4.
   6. **Ch 17 "The Rent Book":** the RECKONING, not a discovery — *"there was nothing in it I had not
      been told."* The arrears he was counting on for the glasshouse labour do not exist.
-  7. **Ch 18 "Nobody Worse Off":** consolidation by trade, on the announced rule; Hask; Tam's twelve
-     acres (two of the four freed parcels; ~18 acres remain unlet and are a live thread).
+  7. **Ch 18 "Nobody Worse Off":** consolidation by trade, on the announced rule; Hask; Tam's
+     twenty-four acres (two of the four freed parcels; ~36 acres remain unlet and are a live thread).
   8. **Ch 19:** labour bought with craft, because every money route is closed.
-  **THE ACREAGE (locked):** main bottom-field ~40 (Wrays) · Hask's strip 3 (through it) · Bewick's
-  cottage corner 2 (same field) · Tolls' widow 2 (NE meadow) · four unreachable parcels ~30 total,
-  of which **Tam holds 12** and ~18 remain open. Plus the NE meadow (~12) and the hill itself.
+  **⚠️ THE TOTAL SCALE (rescaled 2026-07-27 at author's direction — late-Victorian estate size):** on
+  paper the whole holding runs to **very near two thousand acres**, but **fewer than three hundred of
+  them would ever take a plough.** The bulk is **rough upland — fell, heather-moor, scrub-wood, thin
+  common grazing — worth almost nothing per acre**, gathered cheap from the **parish, the township, and
+  the far-country "loose title"** (Ch 2 Cael + Ch 3 rationalization). This *reinforces* the throughline
+  thesis: it is a lord's map over a smallholder's actual ground. Cael's frame (Ch 2): *"You've more
+  land than the squire down at Wainford, on the paper. You've less worth ploughing than one honest
+  family works in a bottom-field. Both of those are true."* The workable acreage below is a small,
+  doubled fraction of that total, split into 5–100-acre family farms (per the enclosure/1851-census
+  reference: small farms 5–100 acres were 60% of holdings).
+  **THE WORKABLE ACREAGE (locked, doubled):** main bottom-field **~80** (Wrays) · Hask's strip **6**
+  (through it) · Bewick's cottage corner **4** (same field) · Tolls' widow **4** (NE meadow) · four
+  unreachable parcels **~60** total, of which **Tam holds 24** and ~36 remain open · Bewick's trade
+  parcel **10** · Hask's trade parcel **10**. Plus the NE meadow (**~24**) and the hill itself.
 
 - **⚠️ HARVEST HOME — THE HARVEST IS MEAGRE, AND HE BURNS EVERY COIN (Ch 15; REWORKED 2026-07-15 at
   author's direction; supersedes the earlier "the crop cleared it comfortably" version).**
@@ -1280,9 +1291,9 @@ show release. The coarse curve, so no chapter overshoots:
 - **THE TENANCY CONSOLIDATION (Ch 16 "The Rent Book" = the round + the money collapse; Ch 17 "Nobody Worse Off" = the settlement; SPLIT 2026-07-15) — land, people, and the
   cost of power.** Forced by Penworth ("I am obliged to describe your security to people who take a
   narrow view, and at present I am describing it from imagination"). **THE HOLDING IS FRAGMENTED:** a
-  **3-acre strip through the middle of the Wrays' best field** (Hal loses ~a fifth of the field's
-  working to broken plough-runs), a cottage corner in the same field, 2 acres of the NE meadow, and
-  **~30 acres of good plough-land unreachable** without crossing someone else's ground.
+  **6-acre strip through the middle of the Wrays' best field** (Hal loses ~a fifth of the field's
+  working to broken plough-runs), a cottage corner in the same field, 4 acres of the NE meadow, and
+  **~60 acres of good plough-land unreachable** without crossing someone else's ground.
   **THE FIVE INHERITED OCCUPIERS (all new named canon):**
   • **NED PARDON** — corner of scrub, four goats and a bad-tempered pony; pays **a cheese at midsummer
     and a fleece at Michaelmas** by custom, and had gone on paying it to nobody in particular for
@@ -1290,15 +1301,15 @@ show release. The coarse curve, so no chapter overshoots:
   • **ALICE BEWICK** — cottage + the best garden in the valley; three children, no husband; terrified
     of him for 18 months; had the rent counted out and **had gone hungry to have it there**. **Emlyn
     REFUSED to take it** (not charity: "a rent that must be starved for is not a rent, it is a slow way
-    of losing a tenant"). OUTCOME: trades her awkward 2 acres for **5 acres with a sound byre and a
+    of losing a tenant"). OUTCOME: trades her awkward 4 acres for **10 acres with a sound byre and a
     spring**, 3 years free then a tenth, on the Wrays' paper. Her son farms it now.
-  • **THE TOLLS' WIDOW** — 2 thistled acres of the NE meadow she doesn't want. OUTCOME: sold for **a
+  • **THE TOLLS' WIDOW** — 4 thistled acres of the NE meadow she doesn't want. OUTCOME: sold for **a
     lifetime's firewood off the woodland strip**, cut and carted (cost: Ren's winter afternoons).
   • **COB FERRIS** — a strip he never worked. OUTCOME: swapped into a nearer one; believes he swindled
     Emlyn and says so for years.
-  • **TOBIN HASK** ⚠️ — older than Cael, alone with a dog; the 3-acre strip is the last of a family that
-    once held forty acres. **REFUSED TWICE.** The third time **Emlyn brought CAEL up his path**,
-    knowing what the elder's presence meant in that valley. Hask took the deal (5 acres, rent forgiven
+  • **TOBIN HASK** ⚠️ — older than Cael, alone with a dog; the 6-acre strip is the last of a family that
+    once held eighty acres. **REFUSED TWICE.** The third time **Emlyn brought CAEL up his path**,
+    knowing what the elder's presence meant in that valley. Hask took the deal (10 acres, rent forgiven
     for life), never worked it, let his cottage, went to a daughter in **Wainford** and **died there
     the winter after**. Emlyn's verdict on himself: *"That is what owning land is… you will have the
     power to do a small ugly thing for a good reason, and no one will ever call you on it, and you will
@@ -1327,7 +1338,7 @@ show release. The coarse curve, so no chapter overshoots:
   he would do differently in the morning." → this is precisely why Ch 17's labour must be bought with
   CRAFT: there is no cash route left, and the reader has watched every one close.
   **TAM WRAY (NEW; eldest Wray son, 17)** — big, his father's carefulness and his mother's directness;
-  worked the whole harvest for his supper; no room for him at home. **Emlyn lets him TWELVE ACRES in
+  worked the whole harvest for his supper; no room for him at home. **Emlyn lets him TWENTY-FOUR ACRES in
   his own name on his own paper** (3 yrs free → a tenth → a fifth; no debt if he quits in 2 yrs; seed
   on Emlyn's account "because no man lends money to a seventeen-year-old"). Bess put the idea in
   Emlyn's head by saying it aloud to Hal in his hearing. Hal: **"He's better than me."** Tam went red

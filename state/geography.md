@@ -20,7 +20,7 @@
                                    ┊
                                 ╱▔▔▔▔╲
                      NE meadow │  THE  │  woodland strip ─→
-                      (~12 ac) │ HILL  │   (along the low road;
+                      (~24 ac) │ HILL  │   (along the low road;
              spring  ●─────────┤ crown ├─────●  green shelf (E slope;
             (S face,           │·cellar│        future storehouse site)
              never dry)         ╲_____╱
@@ -142,20 +142,28 @@ Penworth provisionally purchased, and is finalizing: [PAGE ch2] [CANON per sessi
 sat at Cael's table three evenings with a map and pencil; "every evening the map got bigger and
 the pencil got sharper"). Cael sold the hill (his) and part of the woodland; the rest came from
 other owners and from unclaimed common/parish ground: [PAGE ch2, revised per reader note]
+- **⚠️ TOTAL SCALE (rescaled 2026-07-27):** on paper the whole holding runs to **very near two
+  thousand acres**, of which **fewer than three hundred would ever take a plough.** The great bulk is
+  **rough upland — fell, heather-moor, scrub-wood, thin common grazing** running back off the top of
+  the hill "farther than you'll walk in a day," worth almost nothing per acre and gathered cheap from
+  the **parish, the township, and the far-country loose title** (Ch 2 Cael speech + Ch 3
+  rationalization). "More land than the squire down at Wainford, on the paper; less worth ploughing
+  than one honest family works in a bottom-field." The workable/leasable acreage below is the small
+  doubled fraction (5–100-acre family farms).
 - **The hill** and its slopes. **Cael's to sell** (inherited from his grandmother). [PAGE ch2]
 - **The woodland** along the low road — mixed timber (oak, ash, and a planted **larch stand** a
   former owner never lived to cut). **Half was Cael's, half was old Harrow's** (Harrow 6 yrs dead;
   his people down the coast had let it rot; Penworth's agent found them and bought it). The future
   cart-road to the main road runs through it. [PAGE ch2] (No longer called "the woodland strip"
   in prose, per reader tracked change.)
-- **The NE meadow** (~12 acres), off the hill's northeast shoulder. **Belonged to the Tolls**, who
+- **The NE meadow** (~24 acres), off the hill's northeast shoulder. **Belonged to the Tolls**, who
   never grazed it and were glad of the coin. [PAGE ch2]
 - **The plough-land in the bottoms** — good arable in the low ground below the hill (along the beck);
   **four men's idle acres Penworth stitched into one holding.** The hill itself is worthless to a
   farmer, but this field-land is leasable. **NOW COMING INTO USE (Ch 9):** the **Wray family** (Hal &
   Bess) took the main bottom-field on fair terms (yr1 free → 1/10 → 1/5) and are mending **the old
   empty stone farmhouse that came with the bottoms** (2 rooms, sound walls, good well) to live in.
-  **Extent clarified [PAGE ch15]:** the **Wrays hold the main bottom-field, ~40 acres**, on their own
+  **Extent clarified [PAGE ch15]:** the **Wrays hold the main bottom-field, ~80 acres**, on their own
   account; **Emlyn kept the REST of the bottoms in his own hand** and cropped it with **barley** in Yr2
   using **day labour from the village** (his first harvest, sold at Wainford). Room still remains for
   more tenants. [PAGE ch2, ch9, ch15]

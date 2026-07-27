@@ -18,7 +18,7 @@ That was how I came to be standing, three days later, in the sloped mud of a poo
 
 I had thought about that on the ride over, and I had thought about it the way Penworth had taught me to, which is to say honestly and a little further ahead than feels comfortable.
 
-"The main bottom-field," I said. "Forty acres and a bit, along the beck. Not the whole of the bottoms; there's other ground I've not got the measure of yet. That field."
+"The main bottom-field," I said. "Eighty acres and a bit, along the beck. Not the whole of the bottoms; there's other ground I've not got the measure of yet. That field."
 
 "I know that field." Hal's voice gave nothing away. "It's been under thistle since I was a lad."
 
@@ -58,7 +58,7 @@ It was his idea, not mine. He sent word up by the Wednesday boy that if I had a 
 
 We started at the beck end and walked up.
 
-"That's yours," Hal said, of the first stretch, and it was: forty-odd acres of good flat ground with a hedge one side and water the other, thistled to the knee and waiting for a plough. He walked me up the middle of it, and about a third of the way along he stopped and stood and said nothing, and let me work it out, which took me an embarrassing length of time.
+"That's yours," Hal said, of the first stretch, and it was: eighty-odd acres of good flat ground with a hedge one side and water the other, thistled to the knee and waiting for a plough. He walked me up the middle of it, and about a third of the way along he stopped and stood and said nothing, and let me work it out, which took me an embarrassing length of time.
 
 There was a change in the ground. Not a fence, not a ditch, nothing a man would notice at speed. A line where the thistle gave way to older, ranker growth, ran along a few dozen paces, and gave back again.
 
@@ -68,11 +68,11 @@ There was a change in the ground. Not a fence, not a ditch, nothing a man would 
 
 "Hask's what?"
 
-"Hask's strip." He said it patiently. "Three acre, near enough. Beck to the hedge. Runs through the middle of your field."
+"Hask's strip." He said it patiently. "Six acre, near enough. Beck to the hedge. Runs through the middle of your field."
 
 I said something I will not set down.
 
-We walked its length, and I looked at it, and I understood what I was looking at, which was a stick dropped across a doorway. To plough my forty acres a man would have to break his run at that line twice on every single pass, turn on the awkward, and go round. Hal had known that since the day he took the ground. He had not mentioned it, because it was not his business to tell a landlord his own land, and because he had assumed, reasonably, that I knew.
+We walked its length, and I looked at it, and I understood what I was looking at, which was a stick dropped across a doorway. To plough my eighty acres a man would have to break his run at that line twice on every single pass, turn on the awkward, and go round. Hal had known that since the day he took the ground. He had not mentioned it, because it was not his business to tell a landlord his own land, and because he had assumed, reasonably, that I knew.
 
 "Who is Tobin Hask?"
 
@@ -88,7 +88,7 @@ We came to a corner of the same field with a cottage in it and a garden that sto
 
 "Ten year? Twelve." He shrugged. "There was a falling-out. I couldn't tell you what over. My father might have known."
 
-And beyond that gate, which nobody living could remember the reason for, lay four parcels of good plough-land, thirty acres of it or better, gone entirely back to thistle and scrub and young birch, because the only lane to them ran through the ground of a man who had wired his gate over a quarrel nobody could now recall, and everyone had eventually stopped trying, and the ground had simply been let go.
+And beyond that gate, which nobody living could remember the reason for, lay four parcels of good plough-land, sixty acres of it or better, gone entirely back to thistle and scrub and young birch, because the only lane to them ran through the ground of a man who had wired his gate over a quarrel nobody could now recall, and everyone had eventually stopped trying, and the ground had simply been let go.
 
 I stood at that gate a long while.
 
