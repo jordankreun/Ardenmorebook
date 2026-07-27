@@ -219,7 +219,26 @@ Keep these consistent across chapters — the exact trap the author flagged (e.g
 "longer than I can recall" vs "thirty years"). If a chapter states a number, it must agree here;
 if it needs a new one, add it here.
 
-- **Emlyn's years in the trade before the hill: ~TWENTY** (Ch 4: "I had spent twenty years learning to command ground"; was "thirty", corrected 2026-07-14). Talent developed AFTER boyhood drafting + paid schooling, so ~20 years of practice fits a man past forty; also consistent with the 20-year 'level I had carried' (Ch 7). Do NOT write thirty.
+- **⚠️ EMLYN'S PROFESSION — CORRECTED 2026-07-15 (author): his trade is GENERAL WIZARDRY + PATENTS.**
+  A practising wizard eats two ways: (1) **the general practice** — being the one person in the
+  district who can do the things nobody else can, a great many unrelated jobs that pay the week's
+  bills; and (2) **PATENTS**, which is where the money that lasts comes from. A wizard who devises a
+  genuinely new working **registers** it; thereafter anyone wanting that working done pays for the
+  right, and **a good deal of a wizard's life is spent quietly defending the patents he holds against
+  men who would rather not pay.** ("It is a duller profession than the tales allow. It is largely
+  correspondence.") This is canon-consistent with the existing loan "secured against old, already-
+  LICENSED patents" (quarterly royalties) and the **LUMEN Series patent** (Ch 8) / "the spring patents"
+  (outline Ch 19).
+  **⚠️ GROUND-WORKING IS NOT HIS TRADE.** It is ONE patented invention: devised **when he was young and
+  still half in his father's office**, after the firm had a bad season with a riverside site that would
+  not hold what his father had drawn. He solved it "the way a draftsman's son goes at things," and
+  **registered it**; the firm never lost another site; it has paid him **a few pounds a quarter** ever
+  since from builders who have never met him. He had **not laid a footing in years** except his own.
+  → Do NOT write ground-command as his everyday craft or his defining skill. When it appears, it is
+  (a) a specific owned working, and (b) notable *because* he rarely uses it.
+- **Emlyn's years in practice before the hill: ~TWENTY** (was "thirty", corrected 2026-07-14; and the
+  old gloss "twenty years learning to command ground" is RETIRED 2026-07-15 — see the profession entry
+  above; it is twenty years of general practice, not of ground-working). Talent developed AFTER boyhood drafting + paid schooling, so ~20 years of practice fits a man past forty; also consistent with the 20-year 'level I had carried' (Ch 7). Do NOT write thirty.
 
 - **Emlyn's age at arrival:** past forty (40s); looks markedly younger (talent slows aging).
 - **Emlyn's bereavement (ENGAGED, not married):** his **fiancée Arielle** died ~**3 years** before
@@ -1232,10 +1251,13 @@ show release. The coarse curve, so no chapter overshoots:
   jobs, for his clients, free, whenever asked.**
   **WHY THAT IS WORTH MORE THAN CASH:** footings are the worst risk in that valley ("half clay and half
   spring-water and you cannot tell which by looking"); builders price the not-knowing in and go broke
-  on it anyway. Emlyn's actual trade is **ground** ("twenty years learning to command ground") — NOT
-  commanding the earth to obey, but reading the deep grain and persuading it to lie as it is already
-  half inclined to lie; ~a day per footing; doesn't always work; when it works it lasts a lifetime.
-  Jorin watched him do it for the Study (Ch 4). **Emlyn's own verdict: Jorin got the better of him** —
+  on it anyway. And the footing working is **a patent Emlyn OWNS** (devised young, in his father's
+  office, after the firm lost a riverside site; registered; pays him a few pounds a quarter from
+  builders who have never met him). It is NOT commanding the earth to obey, but reading the deep grain
+  and persuading it to lie as it is already half inclined to lie; ~a day per footing; doesn't always
+  work; when it works it lasts a lifetime. Jorin watched him do it for the Study (Ch 4) without knowing
+  it was his. **What Emlyn gives away is the free use of an asset he holds the paper on** — which is
+  why it is worth years of a crew's wages, and why he says Jorin got the better of him. **Emlyn's own verdict: Jorin got the better of him** —
   three years of certain ground made Jorin unbeatable on any contract for the rest of his working life.
   "I have never in my life bought anything as cheaply as I bought that winter's labour."
   **OTHER TRADES (same autumn, same principle):** **TOMAS** took the whole glasshouse ironmongery

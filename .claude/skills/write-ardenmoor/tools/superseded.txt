@@ -37,3 +37,6 @@ Vethmark academy
 Academy of magic
 Academy proper name
 THE Academy, in Vethmark
+# retired 2026-07-15: ground-working is a single patented invention, NOT Emlyn's trade
+twenty years learning to command ground
+a trade whose entire subject is the behaviour of ground

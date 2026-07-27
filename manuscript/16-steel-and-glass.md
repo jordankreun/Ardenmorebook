@@ -56,15 +56,23 @@ Jorin thought about that with his arms folded for a while.
 
 And that, as it turned out, was the whole question, and I had been too busy counting coins to think of asking it of myself.
 
-Because I had a great deal. I had a hundred and sixty feet of steel lying in crates. I had a hill and the rest of a holding and more idle acres than I could count. And I had, though it had genuinely not occurred to me to put it on a table beside a builder's wage, twenty years of a trade whose entire subject is the behaviour of ground.
+Because I had a great deal. I had a hundred and sixty feet of steel lying in crates. I had a hill and the rest of a holding and more idle acres than I could count.
 
-I asked him what the worst part of his work was. He did not have to think.
+And I had a patent.
+
+I should explain, since I have been vague about how a wizard actually eats. The practice is the general work: you are the person in the district who can do the things nobody else can do, and you do a great many unrelated ones, and they pay the week's bills. But the money that lasts is in the patents. A wizard who devises a genuinely new working registers it, and thereafter anybody who wants that working done pays for the right to have it done, and a good deal of a practising wizard's life is spent quietly defending the ones he holds against men who would rather not pay. It is a duller profession than the tales allow. It is largely correspondence.
+
+Years before, when I was young and still half in my father's office, the firm had a bad season with a riverside site that would not hold what he had drawn for it, and I had gone at the problem the way a draftsman's son goes at things and come out the other end with a working. Not a grand one. It is not a matter of commanding the earth to obey. It is a long slow business of reading the deep grain of a piece of ground and persuading it to lie in a way it is already half inclined to lie, and it takes the better part of a day for a single footing, and it does not always work. But when it works it works for a lifetime, and my father's firm never lost another site, and I registered it, and it has been quietly paying me a few pounds a quarter out of the city ever since from builders who have never met me.
+
+It was not my trade. I had not laid a footing in years except my own. It simply had not occurred to me to put it on a table beside a builder's wage.
+
+I asked Jorin what the worst part of his work was. He did not have to think.
 
 "Footings," said Jorin. "Every time. This valley's half clay and half spring-water and you cannot tell which by looking. I've put walls up that stood forty years and I've put the same wall up two hundred yards off and had it out of true by the second winter, and there's no knowing beforehand, and every builder in this country prices that not-knowing into the job and half of us go broke on it anyway."
 
-"I can tell you beforehand," I said. "And on the ones where it's bad, I can settle it."
+"I can tell you beforehand," I said. "And on the ones where it's bad, I can settle it. It's a thing of mine. I hold the paper on it."
 
-I explained what that meant, which took some doing, because the honest version is undramatic. It is not a matter of commanding the earth to obey. It is a long slow business of reading the deep grain of a piece of ground and persuading it to lie in a way it is already half inclined to lie, and it takes me the better part of a day for a single footing, and it does not always work. But when it works, it works for a lifetime. It is the thing I had done for the Study before a stone went down, and Jorin had been standing there when I did it, and had watched his mortar take in three days on ground that had drunk a dead man's walls soft over a season, and had said "Good" and nothing else and thought about it every day since.
+He knew the working, though not that it was mine. He had been standing on the crown when I did it for the Study before a stone went down, and had watched his mortar take in three days on ground that had drunk a dead man's walls soft over a season, and had said "Good" and nothing else and thought about it every day since.
 
 So we made the bargain that carried me through that winter, and it had almost no money in it at all.
 

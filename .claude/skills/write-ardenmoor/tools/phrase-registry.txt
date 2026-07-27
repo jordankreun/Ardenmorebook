@@ -75,3 +75,6 @@
 15-harvest-home.md|a category of person, like a king, or a ghost
 15-harvest-home.md|I'd rather be owed than obliged
 15-harvest-home.md|allowed to waste a great deal of time being wrong
+16-steel-and-glass.md|It is a duller profession than the tales allow
+16-steel-and-glass.md|I hold the paper on it
+16-steel-and-glass.md|a different kind of debt entirely

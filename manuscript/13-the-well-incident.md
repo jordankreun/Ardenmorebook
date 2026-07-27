@@ -20,7 +20,7 @@ Not far. That is the thing I want to be exact about, because a story would make 
 
 That was all. That was the whole of it.
 
-I want to be plain about how invisible it was. Ten paces off, with a horse in the air and a woman's eggs at stake, there was nothing to see. A bucket had gone over and the boy had caught it. Boys catch things. If I had not been standing where I was standing, and if I had not spent twenty years learning to watch the exact way a weight travels because that is precisely and literally my trade, I would have seen a lucky grab and thought no more of it than anyone else in that square did, which was nothing whatever. The cart came round. Kellard got the horse's head down. The egg-woman said something unrepeatable about carters. The morning closed over the moment the way water closes over a dropped stone, and not one soul there had the least idea that anything had happened at all.
+I want to be plain about how invisible it was. Ten paces off, with a horse in the air and a woman's eggs at stake, there was nothing to see. A bucket had gone over and the boy had caught it. Boys catch things. If I had not been standing where I was standing, and if I had not spent twenty years being paid to notice exactly the sort of thing that ought not to have happened, I would have seen a lucky grab and thought no more of it than anyone else in that square did, which was nothing whatever. The cart came round. Kellard got the horse's head down. The egg-woman said something unrepeatable about carters. The morning closed over the moment the way water closes over a dropped stone, and not one soul there had the least idea that anything had happened at all.
 
 Except that the bucket had moved four inches sideways, against the fall, into the boy's hand.
 
