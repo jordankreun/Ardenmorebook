@@ -200,7 +200,7 @@ author has repeatedly (and rightly) pushed the arithmetic to be harder and more 
   exactly this between Ch 9 and Ch 15.*
 - **[HARD] Money is never solved by convenience.** No windfalls, no round numbers that happen to fit,
   no unexplained slack. When a sum works out, show the parts. When it doesn't, the shortfall drives
-  the next chapter. Emlyn ends the tenancy arc on **eleven shillings**, and that figure is load-bearing.
+  the next chapter. Emlyn ends the tenancy arc on **eleven silver**, and that figure is load-bearing.
 - **[CRAFT] Close the doors on the page.** Before a character solves a money problem an unexpected way,
   the reader must have watched the ordinary routes close, by name (the hill twice-charged; the patents
   already leant on; the lamps are bread not a wage bill; the crop and the house sold and spent). A

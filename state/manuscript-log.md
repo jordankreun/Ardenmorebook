@@ -910,7 +910,7 @@ inherited occupiers on the odd strips pay old customary rates "little, late, and
 + rents alone would NOT have paid the note; what paid it was the **river-house COMPLETION money** (the
 sale is now two tranches: exchange in Ch 12, completion this autumn), signed straight over to Penworth.
 Second payment made in full and on the day. What was left = almost exactly the greenhouse MATERIALS.
-After paying it: **eleven shillings and some copper** and a half-finished lamp order. NOTHING for LABOUR. CLOSING (dialogue):
+After paying it: **eleven silver and some copper** and a half-finished lamp order. NOTHING for LABOUR. CLOSING (dialogue):
 Jorin on the pegged-out slope, **"And who's setting it?"** prose-lint clean (2 welds split).
 
 [16] The Rent Book — Autumn (October) Yr2 (~20 mo). ⚠️ NEW CHAPTER (author's call 2026-07-15); all

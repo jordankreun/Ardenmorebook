@@ -26,7 +26,7 @@ I had thought about that on the ride over, and I had thought about it the way Pe
 
 "There's a year's work in it before it gives you a bushel."
 
-"There's a year's work in it before it gives *you* a bushel," I said, "which is rather my point. Nothing, the first year. Not a penny. You'll spend that year breaking it and cursing me, and it'll give you little enough back for the labour, so the first year is yours entire, rent and all, to get it into heart."
+"There's a year's work in it before it gives *you* a bushel," I said, "which is rather my point. Nothing, the first year. Not a copper. You'll spend that year breaking it and cursing me, and it'll give you little enough back for the labour, so the first year is yours entire, rent and all, to get it into heart."
 
 He looked at me for a moment as if checking me for a seam.
 

@@ -16,6 +16,29 @@ consistent across chapters and *felt* rather than invented.
 
 ---
 
+## 0. ⚠️ THE COINAGE (locked 2026-07-27 — fantasy-world currency)
+
+**GOLD · SILVER · COPPER.**
+
+| | |
+|---|---|
+| **1 gold** | = **20 silver** = **240 copper** |
+| **1 silver** | = **12 copper** |
+
+Non-decimal on purpose: it reads older and more secondary-world than a 10/100 split, and it
+matches the late-Victorian texture the voice already runs on.
+
+**⚠️ TRANSLATION RULE FOR THIS DOCUMENT: 1 gold = £1, 1 silver = 1 shilling, 1 copper = 1 penny.**
+So every researched historical figure converts **1:1** with no arithmetic drift. **Sections 3–5 keep
+their £/s/d citations exactly as sourced**, because those are real-world reference data and altering
+them would corrupt the sourcing. **Sections 6–9, the Ardenmoor model, are in coin.**
+
+**On the page:** *"eleven silver and four copper"* · *"a few gold a quarter"* · *"not a copper"* ·
+*"every silver I could put a hand to."* Coins may acquire proper names later (a crown, a mark);
+plain metal names are canon for now.
+
+---
+
 ## 1. THE FRAME: GOOD LAND, UNDEVELOPED AND REMOTE
 
 **⚠️ NOTHING ON THE ESTATE IS BAD LAND.** No wasteland, no barren ground, no useless bog. Delete
@@ -123,14 +146,14 @@ Useful period facts:
 |---|---|---|
 | Good arable **with access** | £20–60 | SOFT. What Ardenmoor's bottoms would fetch *if the rail came* |
 | Poor/marginal arable, settled districts | £2–10 | SOFT |
-| **Ardenmoor's developed core** | **~£4** | Good soil, derelict, no access, tangled title |
-| **Ardenmoor's undeveloped ground** | **8s–13s** | Good in kind, never improved, bought at nominal parish/township price |
+| **Ardenmoor's developed core** | **~4 gold** | Good soil, derelict, no access, tangled title |
+| **Ardenmoor's undeveloped ground** | **8–13 silver** | Good in kind, never improved, bought at nominal parish/township price |
 | Hard anchor | £6/acre | Bamburgh Castle **plus** 10,000 Northumberland acres, £60,000, 1894 |
 
 **Years' purchase** (price = annual rent × multiple): ~28–33× pre-depression, compressing to ~19×
 by the 1890s.
 
-**⚠️ THE VALUATION GAP IS THE STORY.** At ~18s/acre blended, ~5,500 acres cost about £5,000. The
+**⚠️ THE VALUATION GAP IS THE STORY.** At ~18 silver/acre blended, ~5,500 acres cost about **5,000 gold**. The
 same ground with a road and hands and drains is worth *many times* that. **Emlyn is sitting on the
 gap.** He cannot eat it, borrow against it, or sell it locally. He can only close it by building,
 slowly, out of income he does not yet have.
@@ -152,18 +175,18 @@ slowly, out of income he does not yet have.
 | Complete farm homestead (house + cottages) | ~£3,900 (1860s) |
 | Glasshouse anchors | Kew Palm House £30,000 (362 ft, monumental); Torquay Winter Gardens £12,783 |
 
-**⚠️ Derived (my arithmetic) — THE WINTER CREW = £100. LOCKED at author's direction 2026-07-27.**
-Seven men: **Jorin at 40s · two skilled fitters at 29s · two labourers at 17s · Ren on a man's wage
-17s · Tam 17s** = **166s = £8 6s per week.** Over a **12-week** build (footings, frame, and the
-three weeks of glazing canon already specifies) that is **£100 exactly.**
+**⚠️ Derived (my arithmetic) — THE WINTER CREW = 100 GOLD. LOCKED at author's direction 2026-07-27.**
+Seven men: **Jorin at 40 silver · two skilled fitters at 29 · two labourers at 17 · Ren on a man's
+wage 17 · Tam 17** = **166 silver = 8 gold 6 silver per week.** Over a **12-week** build (footings,
+frame, and the three weeks of glazing canon already specifies) that is **100 gold exactly.**
 The 12 weeks matter: it is a **tight frost-to-thaw window**, which is why the job exists at all —
 canon has nobody building in that valley in winter, but *steel and glass do not care about frost.*
 
 ### ⚠️ THE LABOUR-TO-LAND RATIO — it should feel absurd, and the book should SAY so
 
-One winter of seven men costs **£100**. At the blended rate that bought the estate, £100 buys
-roughly **a hundred and ten acres** — or twenty-five of the developed core. A single labourer's
-annual wage (~£40) buys about **forty-four acres** of Ardenmoor.
+One winter of seven men costs **100 gold**. At the blended rate that bought the estate, 100 gold
+buys roughly **a hundred and ten acres** — or twenty-five of the developed core. A single
+labourer's annual wage (~40 gold) buys about **forty-four acres** of Ardenmoor.
 
 **This is not a broken number. It is the defining feature of frontier economics**, and it is why the
 land is cheap in the first place: land without labour earns nothing, so it prices at nothing, while
@@ -203,19 +226,19 @@ all. **It is the whole thesis in one arithmetical shrug**, and it costs one sent
 
 ### Phase 1 — the stealth purchase, financed by a BRIDGE LOAN
 
-**£5,000 short-term loan** from a metropolitan bank, secured on the river house. Period-correct:
+**5,000 gold** short-term loan from a metropolitan bank, secured on the river house. Period-correct:
 private lending of the era really was short-term, interest-only, principal callable on sale. **The
 bridge IS the book's grace year** — nothing falls due until the place has had a full turn of the
 seasons.
 
-| | Acres | £ | £/acre | What it is |
+| | Acres | Cost | Per acre | What it is |
 |---|---|---|---|---|
-| **Anchor purchase** | ~2,500 | 3,000 | ~£1 4s | Hill and valley. *Parts* already improved (a few working tenant farms, sound outbuildings), so it reads as a respectable gentleman's retirement buy. Contains essentially **all** the workable ground. |
-| **Parish border purchase** | ~3,000 | 2,000 | ~13s 4d | Good rough country never developed: fell, scrub-wood, old grazing gone to bracken, and the undrained wet reach north and west. Bought quietly through the parish registry. **Paperworked**, not bought at market. |
-| **Total** | **~5,500** | **£5,000** | **~18s 2d** | |
+| **Anchor purchase** | ~2,500 | 3,000 gold | ~1 gold 4 silver | Hill and valley. *Parts* already improved (a few working tenant farms, sound outbuildings), so it reads as a respectable gentleman's retirement buy. Contains essentially **all** the workable ground. |
+| **Parish border purchase** | ~3,000 | 2,000 gold | ~13 silver 4 copper | Good rough country never developed: fell, scrub-wood, old grazing gone to bracken, and the undrained wet reach north and west. Bought quietly through the parish registry. **Paperworked**, not bought at market. |
+| **Total** | **~5,500** | **5,000 gold** | **~18 silver 2 copper** | |
 
-Anchor internals: ~400 workable-but-derelict @ £4 = £1,600 · ~200 woodland @ £3 = £600 · ~1,900
-hill, slopes, rough valley @ 8s = £760. ≈ £2,960.
+Anchor internals: ~400 workable-but-derelict @ 4 gold = 1,600 · ~200 woodland @ 3 gold = 600 ·
+~1,900 hill, slopes, rough valley @ 8 silver = 760. ≈ **2,960 gold.**
 
 **⚠️ THE SECRECY POINTS OUTWARD.** Cael negotiated for the families in the open (Ch 1) and
 Penworth's agent sat at his table three evenings with a map (Ch 2). **The valley knew.** The
@@ -224,21 +247,21 @@ operation.
 
 ### Phase 2 — liquidating the house
 
-Grand, a rich merchant's house, freehold-equivalent **~£12,000** — but on a **ground lease** and
+Grand, a rich merchant's house, freehold-equivalent **~12,000 gold** — but on a **ground lease** and
 carrying **the bridge plus an older debt**, so it **recovers about half.**
 
-| | £ |
+| | gold |
 |---|---|
-| Net realised | 6,500 |
+| Net realised | 6,500 gold |
 | Less bridge principal | (5,000) |
 | Less fees, solicitors, lease assignment | (300) |
-| **Surplus — "a bit of runway"** | **~1,200** |
+| **Surplus — "a bit of runway"** | **~1,200 gold** |
 
 → Emlyn emerges **outright, unencumbered owner of ~5,500 acres.**
 
 **⚠️ THE SIX-MONTH CLEARING GAP IS THE LOAD-BEARING DEVICE.** The money does not arrive at once.
-Two tranches, per existing canon: **exchange ~£4,000, spring Yr 2 (Ch 12)**; **completion balance
-~£2,500, autumn Yr 2 (Ch 16)**. Through that window he is committed to money he does not hold.
+Two tranches, per existing canon: **exchange ~4,000 gold, spring Yr 2 (Ch 12)**; **completion
+balance ~2,500 gold, autumn Yr 2 (Ch 16)**. Through that window he is committed to money he does not hold.
 
 ---
 
@@ -249,46 +272,46 @@ book's economic drama. Read down this table before writing any money beat.
 
 | When | IN | OUT | State |
 |---|---|---|---|
-| **Yr 0 spring** | Bridge £5,000 drawn | Purchase £5,000 | Land owned, nothing developed |
+| **Yr 0 spring** | Bridge 5,000 gold drawn | Purchase 5,000 gold | Land owned, nothing developed |
 | **Yr 0 sum–aut** | — | Establishment: stone, roof, well, tools, Lira's room | Grace year running |
 | **Yr 1** | Lamp trade begins (Ch 8) | Building, living, seed advanced to tenants | Wrays' **free first year** — no rent by design |
 | **Yr 1 aut** | — | — | Nothing from the land yet, *as agreed* |
-| **Yr 2 spring** | House **exchange ~£4,000** | Straight at the bridge principal | First real relief |
+| **Yr 2 spring** | House **exchange ~4,000 gold** | Straight at the bridge principal | First real relief |
 | **Yr 2 sum** | Lamps | **First note payment** | Survivable *because* of the exchange money |
-| **Yr 2 aut** | Harvest (meagre: newly broken ground) + customary rents + **completion ~£2,500** | **Second note payment in full** · then glasshouse **materials** | **ELEVEN SHILLINGS.** Nothing toward labour |
+| **Yr 2 aut** | Harvest (meagre: newly broken ground) + customary rents + **completion ~2,500 gold** | **Second note payment in full** · then glasshouse **materials** | **ELEVEN SILVER.** Nothing toward labour |
 | **Yr 2 aut** | *Expected: arrears* | — | ⚠️ **The arrears were the labour plan. They collapse (Ch 17).** |
-| **Yr 2 winter** | — | Glasshouse labour **£100**: £50 weekly + £50 deferred | Arrears dead → **half deferred + CRAFT (Ch 19)** |
+| **Yr 2 winter** | — | Glasshouse labour **100 gold**: 50 weekly + 50 deferred | Arrears dead → **half deferred + CRAFT (Ch 19)** |
 
-### Why the £1,200 surplus does not rescue him — all four must hold
+### Why the 1,200 gold surplus does not rescue him — all four must hold
 1. **Earmarked and spent before the glasshouse exists as a plan** — house, timber outbuildings,
    well, stock, tools, seed, living. Canon already has the tower rising *one careful room at a time*.
 2. **It is not one pot.** Two tranches six months apart; the first is consumed by the bridge. The
-   £1,200 only exists *after* the completion balance lands, by which point materials are committed.
+   1,200 gold only exists *after* the completion balance lands, by which point materials are committed.
 3. **Materials came from the harvest, not the house** (canon).
 4. **Every credit door is shut** (Ch 17): hill charged twice, patents leant on, lamps are the
    winter's bread not a wage bill, crop and house sold and spent, and per §2 **no lender will take
    undeveloped remote land**.
 
-→ **The hole is LABOUR and only labour: £100.** Not a fortune. Roughly what two hundred of his own
+→ **The hole is LABOUR and only labour: 100 gold.** Not a fortune. Roughly what two hundred of his own
 acres cost him. **And utterly out of reach**, because every instrument is spent. That gap between
 how small the sum is and how impossible it is to raise **is the whole of his condition in one
 number**, and it is worth letting him feel the absurdity of it on the page.
 
 ### The arrears collapse (Ch 17) — keep the two numbers
 - **On paper:** 18 months × 5 inherited tenancies, reckoned on the **old rent roll's copperplate
-  figures** — rates set decades ago when those holdings were fully worked and much larger. ≈ **£100.**
+  figures** — rates set decades ago when those holdings were fully worked and much larger. ≈ **100 gold.**
   "A real amount of money. Not a fortune. Enough." ⚠️ **Enough, EXACTLY, to pay the whole crew in
   cash** — which was the plan: to pay his men properly, weekly, like a real employer.
 - **Realisable:** Pardon pays in kind; the widow has nothing; Ferris pays "slowly, partly, and with
-  a grievance"; Bewick's coin he refuses; Hask he forgives. **≈£8.**
+  a grievance"; Bewick's coin he refuses; Hask he forgives. **≈8 gold.**
 - **The gap between those two numbers IS the chapter.** Match the paper figure to the wage bill.
 
 ### The glasshouse
-160 ft × 5 bays: **materials £800–1,200, labour £100, total ~£900–1,300.** ⚠️ Labour is only ~10% of
+160 ft × 5 bays: **materials 800–1,200 gold, labour 100 gold, total ~900–1,300 gold.** ⚠️ Labour is only ~10% of
 the project because the frame arrives **prefabricated on eleven wagons** — the cost is steel, glass,
 stove, ducting and freight up the frontier road. Erection is the cheap part, and it is still the part
-he cannot pay for. Against £60–100/yr
-of land income and eleven shillings in the box, correctly *ruinous to attempt* — though note the
+he cannot pay for. Against 60–100 gold/yr
+of land income and eleven silver in the box, correctly *ruinous to attempt* — though note the
 distinction the book must hold: **it would not bankrupt a man with his assets; it would strand
 him.** He can lose everything liquid and still own five thousand acres. That is worse in a
 different way, and more interesting.
@@ -298,7 +321,7 @@ different way, and more interesting.
 ## 8. ⚠️ WHAT ACTUALLY PAYS IN BOOK ONE (value density, not acreage)
 
 **⚠️ NO ACCESS ARRIVES IN BOOK ONE. NO ROAD TO MARKET GETS BUILT. THE LAND NEVER STARTS PAYING.**
-A man who cannot find a hundred pounds for a winter's wages cannot build a road to a railhead four
+A man who cannot find a hundred gold for a winter's wages cannot build a road to a railhead four
 days off, and any beat implying otherwise is false to the constraint the whole book runs on.
 
 So how does he survive? **He stops trying to move bulk and starts moving value.**
@@ -392,7 +415,7 @@ Real value Emlyn already owns and **cannot reach within this book.** Naming them
 structure of the series; *reaching* any of them in Book One would break the premise.
 
 1. **The bottoms.** Good soil. Needs hands, drains, fences.
-2. **The undrained reach north and west.** Wants draining and nothing else (~£3/acre historically).
+2. **The undrained reach north and west.** Wants draining and nothing else (~3 gold/acre, per the historical £3/acre).
 3. **The woodland.** Mature oak, ash, a planted larch stand. Real money **the day a road can carry
    it out** — and that day is not in Book One.
 4. **The high ground / sporting value.** Grouse let for serious money by the 1880s. Blocked because
@@ -429,7 +452,7 @@ unsaid and cannot be un-said.
 6. **Money in is lumpy and seasonal; money out is continuous.** Any beat that forgets this reads
    false.
 7. **⚠️ NONE OF THESE FIGURES GO ON THE PAGE.** The book's money discipline works because it is
-   rendered in *felt* units: *eleven shillings and some copper*, *a cheese and a fleece*, *a few
-   pounds a quarter*, *a tenth*, *a fifth*. Characters may name small sums they would actually say
+   rendered in *felt* units: *eleven silver and some copper*, *a cheese and a fleece*, *a few
+   gold a quarter*, *a tenth*, *a fifth*. Characters may name small sums they would actually say
    aloud. **The narration must never total the estate.** This document exists so the small sums are
    right.

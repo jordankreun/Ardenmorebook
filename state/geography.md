@@ -144,7 +144,7 @@ the pencil got sharper"). Cael sold the hill (his) and part of the woodland; the
 other owners and from unclaimed common/parish ground: [PAGE ch2, revised per reader note]
 - **⚠️ TOTAL SCALE — LOCKED 2026-07-27 (the two-phase ~5,500-acre plan):** on paper the whole holding
   runs to **something above five thousand acres**, of which **fewer than four hundred would ever take
-  a plough.** Great-landowner acreage, ~£100/yr income, eleven shillings in the box.
+  a plough.** Great-landowner acreage, ~100 gold/yr income, eleven silver in the box.
   ⚠️ **NOTHING ON THE ESTATE IS BAD LAND** (author's reframe 2026-07-27). No wasteland, no barren
   ground. The soil in the bottoms is *as good as any Emlyn has stood on since*. It is cheap because
   it is **UNDEVELOPED AND UNREACHED**, not because it is poor. Only the **hill** is genuinely rocky,

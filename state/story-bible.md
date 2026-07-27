@@ -248,7 +248,7 @@ if it needs a new one, add it here.
   **⚠️ GROUND-WORKING IS NOT HIS TRADE.** It is ONE patented invention: devised **when he was young and
   still half in his father's office**, after the firm had a bad season with a riverside site that would
   not hold what his father had drawn. He solved it "the way a draftsman's son goes at things," and
-  **registered it**; the firm never lost another site; it has paid him **a few pounds a quarter** ever
+  **registered it**; the firm never lost another site; it has paid him **a few gold a quarter** ever
   since from builders who have never met him. He had **not laid a footing in years** except his own.
   → Do NOT write ground-command as his everyday craft or his defining skill. When it appears, it is
   (a) a specific owned working, and (b) notable *because* he rarely uses it.
@@ -1291,7 +1291,7 @@ show release. The coarse curve, so no chapter overshoots:
   **⚠️ THE TOTAL SCALE — LOCKED (author's two-phase "5,500-Acre" plan).** On paper the whole holding
   runs to **something above five thousand acres** (~5,500), of which **perhaps four hundred were in
   any sort of working order.** By acreage that is past Bateman's squire ceiling; **by CASH he has
-  eleven shillings.** Great-landowner acreage, cottager's coin: **that mismatch IS the joke.**
+  eleven silver.** Great-landowner acreage, cottager's coin: **that mismatch IS the joke.**
   **ACQUIRED IN TWO DELIBERATELY SEPARATE TRANSACTIONS** so no single suspicious block hits any
   register (full model in `references/economy.md`):
    • **THE ANCHOR PURCHASE (~2,500 ac, £3,000)** — the hill and its valley. *Parts* are improved (a
@@ -1381,7 +1381,7 @@ show release. The coarse curve, so no chapter overshoots:
   money anywhere." **The round destroys it holding by holding:** Pardon's shillings are in fact a
   cheese and a fleece and have been for three generations; the Tolls' widow has nothing; Ferris would
   pay "slowly, partly, and with a grievance." By the fifth evening he has stopped adding and started
-  subtracting. Total realisable (~£8): **would not pay a crew for a WEEK, let alone a winter** (the crew is £8 6s/wk; the whole winter is **£100**, and the paper arrears were almost exactly that: enough to have paid every man in cash, weekly, like a real employer) — and the
+  subtracting. Total realisable (~£8): **would not pay a crew for a WEEK, let alone a winter** (the crew is 8 gold 6 silver/wk; the whole winter is **100 gold**, and the paper arrears were almost exactly that: enough to have paid every man in cash, weekly, like a real employer) — and the
   one collectable part is Bewick's coin, which he refuses. He collects **a cheese, a fleece, and a
   notebook.**
   **THE CLOSED-DOOR RECKONING (same night, ~an hour):** the hill is **charged twice and cannot be
@@ -1403,7 +1403,7 @@ show release. The coarse curve, so no chapter overshoots:
   Wray ever held in his own name").
   **Penworth's reply:** *"This is a considerably better security than I had been describing, and a
   considerably worse harvest than I had been hoping for, and I observe that you have contrived to give
-  away a great deal for a man with, by my reckoning, eleven shillings."*
+  away a great deal for a man with, by my reckoning, eleven silver."*
 - **NED PARDON'S FLEECES PAY OFF (Ch 18) — the arrears that saved the greenhouse.** During the
   glazing a **three-day hard frost** hits with a third of the bays still open, the stove unlit, and
   Brenna's first potted stock already in the propagation house. **Ned Pardon comes up the track with a
@@ -1425,7 +1425,7 @@ show release. The coarse curve, so no chapter overshoots:
   **WHY THAT IS WORTH MORE THAN CASH:** footings are the worst risk in that valley ("half clay and half
   spring-water and you cannot tell which by looking"); builders price the not-knowing in and go broke
   on it anyway. And the footing working is **a patent Emlyn OWNS** (devised young, in his father's
-  office, after the firm lost a riverside site; registered; pays him a few pounds a quarter from
+  office, after the firm lost a riverside site; registered; pays him a few gold a quarter from
   builders who have never met him). It is NOT commanding the earth to obey, but reading the deep grain
   and persuading it to lie as it is already half inclined to lie; ~a day per footing; doesn't always
   work; when it works it lasts a lifetime. Jorin watched him do it for the Study (Ch 4) without knowing
@@ -1438,7 +1438,7 @@ show release. The coarse curve, so no chapter overshoots:
   unnamed thing to the temper of his best tools); called even in his one word. **KELLARD** took the
   Wainford haulage against **first refusal on the glasshouse's early crop**. **MARET** wanted a dry
   corner in a mill damp since his grandfather's time. Closing line of the arc: *"I went into that
-  autumn with eleven shillings. I came out of it owing a great many people a great deal of work, which
+  autumn with eleven silver. I came out of it owing a great many people a great deal of work, which
   is a different kind of debt entirely, and one I have always found I sleep better under."*
   ⚠️ **HOLD THIS:** Emlyn now owes YEARS of craft-debt around the valley (3 yrs of Jorin's footings, a
   season at Tomas's forge, Kellard's first refusal, Maret's mill corner). That is a live obligation

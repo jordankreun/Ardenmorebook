@@ -112,7 +112,7 @@ I had thought the problem was money. It was not money. Money was the easy part; 
 
 The money went out of that notebook a holding at a time, and I could feel it going.
 
-It went first at Ned Pardon's, where the roll said shillings and the truth said a cheese. It went again at the Tolls' widow's, where the figure was real on paper and there was nothing behind it but a kitchen. It went at Cob Ferris's, who would pay, in his own time, in his own way, and not this year.
+It went first at Ned Pardon's, where the roll said silver and the truth said a cheese. It went again at the Tolls' widow's, where the figure was real on paper and there was nothing behind it but a kitchen. It went at Cob Ferris's, who would pay, in his own time, in his own way, and not this year.
 
 By the fifth evening I had stopped adding it up in my head and started subtracting.
 

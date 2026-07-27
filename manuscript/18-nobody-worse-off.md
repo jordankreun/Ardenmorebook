@@ -96,11 +96,11 @@ The schedule went to Penworth in November. Five agreements, four of them new, al
 
 His reply, when it came, was one line again.
 
-*This is a considerably better security than I had been describing, and a considerably worse harvest than I had been hoping for, and I observe that you have contrived to give away a great deal for a man with, by my reckoning, eleven shillings.*
+*This is a considerably better security than I had been describing, and a considerably worse harvest than I had been hoping for, and I observe that you have contrived to give away a great deal for a man with, by my reckoning, eleven silver.*
 
-By his reckoning it was eleven shillings, and by mine it was eleven shillings and fourpence, and the fourpence was in my coat and I could not have told you how it got there.
+By his reckoning it was eleven silver, and by mine it was eleven silver and four copper, and the coppers were in my coat and I could not have told you how they got there.
 
-The note was paid. The materials were bought and lying in crates on the southeast slope under canvas, a hundred and sixty feet of steel and four hundred panes of glass. And the whole of the money in the world that I had to put men on it with was the fourpence in that coat and eleven shillings in a box on a shelf, because the last real hope of a wage bill had been five holdings of arrears, and I had walked eleven days to find out that it did not exist, and had given away most of what did.
+The note was paid. The materials were bought and lying in crates on the southeast slope under canvas, a hundred and sixty feet of steel and four hundred panes of glass. And the whole of the money in the world that I had to put men on it with was the four copper in that coat and eleven silver in a box on a shelf, because the last real hope of a wage bill had been five holdings of arrears, and I had walked eleven days to find out that it did not exist, and had given away most of what did.
 
 I sat at my own table on a black November evening and understood, without any particular drama about it, that I had made everything I owned into a bet on one glasshouse and had nothing whatever left over for the building of it.
 
