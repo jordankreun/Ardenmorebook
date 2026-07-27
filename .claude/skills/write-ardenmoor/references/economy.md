@@ -16,22 +16,40 @@ consistent across chapters and *felt* rather than invented.
 
 ---
 
-## 0. ⚠️ THE COINAGE (locked 2026-07-27 — fantasy-world currency)
+## 0. ⚠️ THE COINAGE (locked 2026-07-27 — BASE TWELVE)
 
-**GOLD · SILVER · COPPER.**
+**GOLD · HALF-GOLD · SILVER · COPPER.**
 
 | | |
 |---|---|
-| **1 gold** | = **20 silver** = **240 copper** |
+| **1 gold** | = **24 silver** = **288 copper** |
+| **1 half-gold** | = **12 silver** |
 | **1 silver** | = **12 copper** |
 
-Non-decimal on purpose: it reads older and more secondary-world than a 10/100 split, and it
-matches the late-Victorian texture the voice already runs on.
+**Base twelve throughout**: twelve copper to the silver, twelve silver to the half-gold, two
+half-gold to the gold. A duodecimal purse divides cleanly by 2, 3, 4 and 6, which is exactly why
+real pre-decimal coinages worked that way — it suits a world that reckons in dozens, halves and
+thirds rather than tens.
 
-**⚠️ TRANSLATION RULE FOR THIS DOCUMENT: 1 gold = £1, 1 silver = 1 shilling, 1 copper = 1 penny.**
-So every researched historical figure converts **1:1** with no arithmetic drift. **Sections 3–5 keep
-their £/s/d citations exactly as sourced**, because those are real-world reference data and altering
-them would corrupt the sourcing. **Sections 6–9, the Ardenmoor model, are in coin.**
+**⚠️ TRANSLATION RULE FOR THIS DOCUMENT.** Gold-denominated sums map to the researched sterling
+figures **1 gold ≈ £1**. Silver rates are **rescaled ×1.2 from the shilling** (since a gold holds
+24 silver, not 20) so that **purchasing power is preserved**. **Sections 3–5 keep their £/s/d
+citations exactly as sourced** — real-world reference data, altering it would corrupt the sourcing.
+**Sections 6–9, the Ardenmoor model, are in coin.**
+
+**⚠️ A GIFT THE BASE GIVES YOU — USE IT.** Emlyn ends the tenancy arc on **eleven silver and four
+copper**. A half-gold is **twelve silver**. So he is **one silver short of the smallest coin a
+respectable man would produce in company** — he cannot even make a half-gold. He is not carrying
+a small sum; he is carrying a sum that will not add up to a coin. That is a better rendering of
+his condition than any figure, and it costs one clause.
+
+Other things the base does for free:
+- A **skilled fitter at 36 silver** a week earns **a gold and a half-gold** — a natural way for a
+  tradesman to state his rate.
+- The **winter crew is 200 silver a week = 8 gold 8 silver**; twelve weeks is **100 gold exactly.**
+- The realisable arrears (**8 gold = 192 silver**) fall **just short of one week** of that crew
+  (200 silver), which is precisely what Ch 17 says: *"would not have paid a builder's crew for a
+  week. Not for a winter. For a week."* **The arithmetic is now exact.**
 
 **On the page:** *"eleven silver and four copper"* · *"a few gold a quarter"* · *"not a copper"* ·
 *"every silver I could put a hand to."* Coins may acquire proper names later (a crown, a mark);
@@ -147,13 +165,13 @@ Useful period facts:
 | Good arable **with access** | £20–60 | SOFT. What Ardenmoor's bottoms would fetch *if the rail came* |
 | Poor/marginal arable, settled districts | £2–10 | SOFT |
 | **Ardenmoor's developed core** | **~4 gold** | Good soil, derelict, no access, tangled title |
-| **Ardenmoor's undeveloped ground** | **8–13 silver** | Good in kind, never improved, bought at nominal parish/township price |
+| **Ardenmoor's undeveloped ground** | **10–16 silver** | Good in kind, never improved, bought at nominal parish/township price |
 | Hard anchor | £6/acre | Bamburgh Castle **plus** 10,000 Northumberland acres, £60,000, 1894 |
 
 **Years' purchase** (price = annual rent × multiple): ~28–33× pre-depression, compressing to ~19×
 by the 1890s.
 
-**⚠️ THE VALUATION GAP IS THE STORY.** At ~18 silver/acre blended, ~5,500 acres cost about **5,000 gold**. The
+**⚠️ THE VALUATION GAP IS THE STORY.** At ~21 silver 10 copper/acre blended, ~5,500 acres cost about **5,000 gold**. The
 same ground with a road and hands and drains is worth *many times* that. **Emlyn is sitting on the
 gap.** He cannot eat it, borrow against it, or sell it locally. He can only close it by building,
 slowly, out of income he does not yet have.
@@ -176,8 +194,8 @@ slowly, out of income he does not yet have.
 | Glasshouse anchors | Kew Palm House £30,000 (362 ft, monumental); Torquay Winter Gardens £12,783 |
 
 **⚠️ Derived (my arithmetic) — THE WINTER CREW = 100 GOLD. LOCKED at author's direction 2026-07-27.**
-Seven men: **Jorin at 40 silver · two skilled fitters at 29 · two labourers at 17 · Ren on a man's
-wage 17 · Tam 17** = **166 silver = 8 gold 6 silver per week.** Over a **12-week** build (footings,
+Seven men: **Jorin at 48 silver · two skilled fitters at 36 · two labourers at 20 · Ren on a man's
+wage 20 · Tam 20** = **200 silver = 8 gold 8 silver per week.** Over a **12-week** build (footings,
 frame, and the three weeks of glazing canon already specifies) that is **100 gold exactly.**
 The 12 weeks matter: it is a **tight frost-to-thaw window**, which is why the job exists at all —
 canon has nobody building in that valley in winter, but *steel and glass do not care about frost.*
@@ -186,7 +204,7 @@ canon has nobody building in that valley in winter, but *steel and glass do not 
 
 One winter of seven men costs **100 gold**. At the blended rate that bought the estate, 100 gold
 buys roughly **a hundred and ten acres** — or twenty-five of the developed core. A single
-labourer's annual wage (~40 gold) buys about **forty-four acres** of Ardenmoor.
+labourer's annual wage (20 silver a week, ~43 gold a year) buys about **forty-eight acres**.
 
 **This is not a broken number. It is the defining feature of frontier economics**, and it is why the
 land is cheap in the first place: land without labour earns nothing, so it prices at nothing, while
@@ -233,12 +251,12 @@ seasons.
 
 | | Acres | Cost | Per acre | What it is |
 |---|---|---|---|---|
-| **Anchor purchase** | ~2,500 | 3,000 gold | ~1 gold 4 silver | Hill and valley. *Parts* already improved (a few working tenant farms, sound outbuildings), so it reads as a respectable gentleman's retirement buy. Contains essentially **all** the workable ground. |
-| **Parish border purchase** | ~3,000 | 2,000 gold | ~13 silver 4 copper | Good rough country never developed: fell, scrub-wood, old grazing gone to bracken, and the undrained wet reach north and west. Bought quietly through the parish registry. **Paperworked**, not bought at market. |
-| **Total** | **~5,500** | **5,000 gold** | **~18 silver 2 copper** | |
+| **Anchor purchase** | ~2,500 | 3,000 gold | ~1 gold 5 silver | Hill and valley. *Parts* already improved (a few working tenant farms, sound outbuildings), so it reads as a respectable gentleman's retirement buy. Contains essentially **all** the workable ground. |
+| **Parish border purchase** | ~3,000 | 2,000 gold | ~16 silver | Good rough country never developed: fell, scrub-wood, old grazing gone to bracken, and the undrained wet reach north and west. Bought quietly through the parish registry. **Paperworked**, not bought at market. |
+| **Total** | **~5,500** | **5,000 gold** | **~21 silver 10 copper** | |
 
 Anchor internals: ~400 workable-but-derelict @ 4 gold = 1,600 · ~200 woodland @ 3 gold = 600 ·
-~1,900 hill, slopes, rough valley @ 8 silver = 760. ≈ **2,960 gold.**
+~1,900 hill, slopes, rough valley @ 9 silver 7 copper = 760. ≈ **2,960 gold.**
 
 **⚠️ THE SECRECY POINTS OUTWARD.** Cael negotiated for the families in the open (Ch 1) and
 Penworth's agent sat at his table three evenings with a map (Ch 2). **The valley knew.** The
