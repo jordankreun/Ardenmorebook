@@ -206,66 +206,101 @@ depressed land by the 1890s. **The author's instinct was right.**
 
 ---
 
-## 7. THE ARDENMOOR MODEL (recommended)
+## 7. THE ARDENMOOR MODEL — ⚠️ LOCKED (author's direction 2026-07-27)
 
-All figures are for the author's and the engine's consistency. **NONE OF THEM GO ON THE PAGE.**
+**Author's steer:** *"This is a fantasy world so we can drift off historical a little bit. Let's go
+upper end of gentry like what a rich merchant would do. The house is on a land lease or loan so he
+would only recover roughly half of what it would be worth to purchase."*
 
-### The purchase, ~2,000 acres
+Two decisions follow, and both are deliberate departures from strict period practice:
+- **Scale = TOP OF THE SQUIRE TIER (~3,000 acres).** Bateman's squire band is 1,000–3,000; this
+  sits at its ceiling. That is exactly the target of the era's new commercial money buying into
+  land. Going materially above this tips Emlyn into "great landowner," a different social animal.
+- **The river house returns HALF.** Mechanism: it stands on a **ground lease** he never owned the
+  land under, and carries a **debt signed in a better year.** Both together halve the recovery.
+
+All figures below are for the author's and the engine's consistency. **NONE GO ON THE PAGE.**
+
+### The purchase, ~3,000 acres
 
 | Component | Acres | Basis | ~Cost |
 |---|---|---|---|
-| Workable but derelict poor upland arable | ~200 | £8/acre, depression + remoteness | £1,600 |
-| Woodland (oak, ash, planted larch) | ~100 | standing timber has real value | £800 |
-| Rough moor, fell, common, waste | ~1,700 | parish/Crown at nominal price + survey, Act, commissioners | £700 |
-| Title clearing, agent, the elbow-room parcels | — | Penworth's three evenings | £400 |
-| **Total** | **~2,000** | **≈£1 15s/acre blended** | **~£3,500** |
+| Workable but derelict poor upland arable | ~400 | £8/acre, depression + remoteness | £3,200 |
+| Woodland (oak, ash, planted larch) | ~200 | standing timber has real value | £2,000 |
+| Rough moor, fell, common, waste | ~2,400 | parish/township at nominal price + survey, Act, commissioners | £1,000 |
+| Title clearing, agent, the elbow-room parcels | — | Penworth's three evenings | £800 |
+| **Total** | **~3,000** | **≈£2 6s/acre blended** | **~£7,000** |
 
-Sanity check: Bamburgh went at £6/acre *with a castle*. Ardenmoor at ~£1.75/acre — derelict,
-tangled, four days past the railhead, at the trough — is aggressive but defensible.
+Sanity check: Bamburgh went at £6/acre *with a castle*. Ardenmoor at ~£2 6s — derelict, tangled,
+four days past the railhead, at the trough — is aggressive but defensible.
+
+**⚠️ WORKABLE ACREAGE: ~400 TOTAL, OF WHICH ONLY ~174 IS NAMED ON THE PAGE.** The dramatised
+parcels (Wray bottom-field 80 · Hask's strip 6 · Bewick's corner 4 · Tolls'/NE meadow 4+24 ·
+four unreachable parcels 60) come to ~174 acres. **The remaining ~225 workable acres are
+UNNAMED** — other bottoms, other small tenants, ground still derelict. This is already licensed
+on the page: Ch 10, *"Not the whole of the bottoms; there's other ground I've not got the measure
+of yet."* → **No drafted farm figure needs to change.** New tenants can be introduced from this
+reserve without contradiction.
+
+Ratio check: ~13% workable is far below the historical upland norm (30–40% improved). Justified
+because Ardenmoor is **abandoned farmland, not virgin moor** — and the depression makes exactly
+that the era's signature.
 
 ### The funding
 
 | Source | ~Amount |
 |---|---|
-| Appreciated holdings (cash down) | £1,200 |
-| Loan secured on already-licensed patents | £2,600 |
-| River house — *promise* of sale set against the price | (lands mid-book) |
-| **Raised** | **~£3,800** vs ~£3,500 purchase + moving and first works |
+| Appreciated holdings (cash down) | £1,000 |
+| Loan secured on already-licensed patents + the promise of the house | £6,000 |
+| **At the table** | **~£7,000** |
 
-→ "Cheap, and it still took very nearly everything I could raise" becomes literally true.
+**River house:** grand, a rich merchant's house. On a **ground lease**, and mortgaged.
+Freehold-equivalent **£12,000**; **recovers ~£6,000 — half.** Per existing canon it arrives in
+**TWO TRANCHES**: a sum on exchange (Ch 12, spring Yr 2) and the completion balance (Ch 16,
+autumn Yr 2). Split ~£4,000 / ~£2,000. The exchange tranche goes **straight at the principal**,
+which is *why the first note payment is survivable*; the completion balance joins crop and rents
+to make the second payment in full.
 
-**River house:** grand, leasehold, ~30 years unexpired, neglected three years, repairing covenant.
-Freehold-equivalent £12,000–18,000; **realisable ~£1,800–2,500.** Completes spring Yr 2, goes
-straight at principal — which is why the second note payment is survivable.
+→ "Cheap, and it still took very nearly everything I could raise" is literally true, and the
+mid-book house money is genuinely load-bearing rather than a convenience.
 
 ### The clock
 
 | | ~£/year |
 |---|---|
-| Note (interest + amortisation on ~£2,600) | **£150–200** |
-| Land income Yr 2 (≈200 acres, mostly derelict, free-first-year tenants, customary rents in kind) | **£30–60** |
+| Note before the house money (interest + amortisation on ~£6,000) | **£300–400** |
+| Note after the exchange tranche lands (~£2,000 principal remaining) | **£120–160** |
+| Land income Yr 2 (~400 workable acres, mostly derelict, free-first-year tenants, customary rents in kind) | **£60–100** |
 | Patent royalties ("a few pounds a quarter") | £15–20 |
-| **The gap the trade must close** | **~£80–150** |
+| **The gap the trade must close** | **~£50–120** after the house money; ruinous before it |
 
 **This is the engine of the book.** The land never pays for itself and was never going to. Lamps,
 patents, and the practice close the gap. It is why the tower rises one room at a time.
 
 ### The arrears collapse (Ch 17)
 
-- **On paper:** 18 months × 5 inherited tenancies at old customary rates ≈ **£140–160.** "A real
+- **On paper:** 18 months × 5 inherited tenancies at old customary rates ≈ **£280–320.** "A real
   amount of money. Not a fortune. Enough." Enough, specifically, to put Jorin's crew on the steel
-  for a winter (§4: ~£125–150 in wages).
+  for a winter (below).
 - **Realisable:** Pardon pays in kind (a cheese, a fleece); the widow has nothing; Ferris pays
   "slowly, partly, and with a grievance"; Bewick's coin he refuses; Hask he forgives.
-  **≈£10–15** — which does not pay a crew for a fortnight.
-- **The two numbers are the chapter.** Keep them the same size as the labour bill.
+  **≈£20–25** — which does not pay a crew for a fortnight.
+- **The two numbers ARE the chapter.** Keep the paper figure the same size as the labour bill.
 
 ### The glasshouse
 
 Reference points: Kew Palm House £30,000 (monumental, 362 ft); Torquay Winter Gardens £12,783.
-No mid-size commercial figure could be sourced. For a 160 ft × 5-bay range: **materials
-£300–500, labour £125–200, total ~£500–700.** Against £30–60/year of land income and eleven
-shillings in the box, that is correctly *bankrupting*.
+No mid-size commercial figure could be sourced. For the 160 ft × 5-bay range: **materials
+£800–1,200, labour £300–400, total ~£1,200–1,600** — roughly equal to the note principal still
+outstanding. Against £60–100/year of land income and **eleven shillings** in the box, that is
+correctly *bankrupting*.
+
+**Winter crew** (scaled up from §4): 8–10 men over ~20 weeks ≈ **£280–350** in wages. Match the
+paper arrears to this.
+
+**Note on scale and the eleven shillings:** raising the estate does NOT weaken the poverty beat.
+It sharpens it. A man holding three thousand acres and a squire's standing, with eleven shillings
+and some copper in the box, is a better sentence than the same man with two thousand.
 
 The 1845 repeal of the glass excise (and 1851 window tax) is well attested as transformative:
 larger panes became affordable and glasshouses came within reach of the middle classes. **The

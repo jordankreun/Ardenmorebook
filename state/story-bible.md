@@ -210,6 +210,22 @@
   - **Aging ↔ family:** the talent-slowed aging (soft rule) now does concrete work — it is **why his
     parents have passed while he still looks relatively young.** Mechanism stays offstage; the bare
     FACT (young-looking man, parents gone) may sit on the page as a quiet oddity.
+  - **⚠️ THE RIVER HOUSE RETURNS HALF — LOCKED 2026-07-27 (author's direction).** The house is
+    **grand**, a rich merchant's house in a premier metropolis. But **Emlyn recovers only about HALF
+    of what it would cost a man to buy it outright**, and there are two reasons, both on the page in
+    Ch 3: it stands on **ground he never owned** (a ground lease, the land under it another man's),
+    and it carries **a debt he signed for "in a better year."** Prose: *"the promise of that sale to
+    set against the price, though it would come to me halved, the house standing on ground I had
+    never owned and carrying a debt I had signed for in a better year."*
+    → This is why a magnificent house does not make him rich, with no contrivance required.
+    → It also *explains the existing canon line* that the house is **"eating money he can't stop
+    spending"**: ground rent falls due whether or not he crosses the threshold, and letting it run
+    down is a **liability**, not a saving. (Historically, an empty house escaped Inhabited House
+    Duty — so the drain is ground rent and covenant, never "tax.")
+    → **Penworth's winter pressure to sell is therefore FINANCIAL, not tactless.** He is watching a
+    client bleed out monthly on a building he cannot enter. This makes Penworth loyal, not ghoulish.
+    → The two tranches stay as canon (exchange ~Ch 12; completion balance ~Ch 16); the halving is
+    why the completion balance lands smaller than a reader would expect of such a house.
   - **Rendering note:** the wedding-gift home is "the river house" / "her rooms" (a fashionable
     townhouse across the river), NOT modern "condos/apartments" — keep the register period-appropriate.
 
@@ -1250,20 +1266,32 @@ show release. The coarse curve, so no chapter overshoots:
   7. **Ch 18 "Nobody Worse Off":** consolidation by trade, on the announced rule; Hask; Tam's
      twenty-four acres (two of the four freed parcels; ~36 acres remain unlet and are a live thread).
   8. **Ch 19:** labour bought with craft, because every money route is closed.
-  **⚠️ THE TOTAL SCALE (rescaled 2026-07-27 at author's direction — late-Victorian estate size):** on
-  paper the whole holding runs to **very near two thousand acres**, but **fewer than three hundred of
-  them would ever take a plough.** The bulk is **rough upland — fell, heather-moor, scrub-wood, thin
-  common grazing — worth almost nothing per acre**, gathered cheap from the **parish, the township, and
-  the far-country "loose title"** (Ch 2 Cael + Ch 3 rationalization). This *reinforces* the throughline
-  thesis: it is a lord's map over a smallholder's actual ground. Cael's frame (Ch 2): *"You've more
-  land than the squire down at Wainford, on the paper. You've less worth ploughing than one honest
-  family works in a bottom-field. Both of those are true."* The workable acreage below is a small,
-  doubled fraction of that total, split into 5–100-acre family farms (per the enclosure/1851-census
-  reference: small farms 5–100 acres were 60% of holdings).
-  **THE WORKABLE ACREAGE (locked, doubled):** main bottom-field **~80** (Wrays) · Hask's strip **6**
+  **⚠️ THE TOTAL SCALE — LOCKED 2026-07-27 (author: "upper end of gentry like what a rich merchant
+  would do"; fantasy licence to drift off strict history).** On paper the whole holding runs to **a
+  little over three thousand acres**, but **fewer than four hundred of them would ever take a plough.**
+  ~3,000 acres sits at the **CEILING OF BATEMAN'S "SQUIRE" BAND (1,000–3,000)** — i.e. Emlyn is
+  **gentry on paper**, the largest landowner in the district, which is exactly what the era's new
+  commercial money bought. Materially more would tip him into "great landowner," a different social
+  animal: do not.
+  The bulk is **rough upland — fell, heather-moor, scrub-wood, thin common grazing — worth almost
+  nothing per acre**, gathered from the **parish, the township, and the far-country "loose title"**
+  (Ch 2 Cael + Ch 3). ⚠️ The moor is **NOT bought at market; it is PAPERWORKED** — nominal price plus
+  survey/Act/commissioners' fees, no fencing or roads. This *reinforces* the throughline thesis: a
+  lord's map over a smallholder's actual ground. Cael's frame (Ch 2): *"You've more land than the
+  squire down at Wainford, on the paper. You've less worth ploughing than one honest family works in
+  a bottom-field. Both of those are true."*
+  **⚠️ WORKABLE ACREAGE: ~400 TOTAL, ONLY ~174 NAMED ON THE PAGE.** The dramatised parcels below sum
+  to ~174; **the remaining ~225 workable acres are deliberately UNNAMED** (other bottoms, other small
+  tenants, ground still derelict), licensed by Ch 10's *"Not the whole of the bottoms; there's other
+  ground I've not got the measure of yet."* → **new tenants may be introduced from this reserve
+  without contradicting anything.** No drafted farm figure changes.
+  **THE NAMED WORKABLE ACREAGE (locked):** main bottom-field **~80** (Wrays) · Hask's strip **6**
   (through it) · Bewick's cottage corner **4** (same field) · Tolls' widow **4** (NE meadow) · four
   unreachable parcels **~60** total, of which **Tam holds 24** and ~36 remain open · Bewick's trade
   parcel **10** · Hask's trade parcel **10**. Plus the NE meadow (**~24**) and the hill itself.
+  Farm sizes are period-correct: ~70% of real holdings were under 50 acres. Wrays 80 = solid upland
+  family farm · Tam 24 = a young man's start · Bewick 10 = a cottager's plot.
+  **→ Full economic model, sources, and open dials: `references/economy.md`.**
 
 - **⚠️ HARVEST HOME — THE HARVEST IS MEAGRE, AND HE BURNS EVERY COIN (Ch 15; REWORKED 2026-07-15 at
   author's direction; supersedes the earlier "the crop cleared it comfortably" version).**

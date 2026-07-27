@@ -142,14 +142,20 @@ Penworth provisionally purchased, and is finalizing: [PAGE ch2] [CANON per sessi
 sat at Cael's table three evenings with a map and pencil; "every evening the map got bigger and
 the pencil got sharper"). Cael sold the hill (his) and part of the woodland; the rest came from
 other owners and from unclaimed common/parish ground: [PAGE ch2, revised per reader note]
-- **⚠️ TOTAL SCALE (rescaled 2026-07-27):** on paper the whole holding runs to **very near two
-  thousand acres**, of which **fewer than three hundred would ever take a plough.** The great bulk is
-  **rough upland — fell, heather-moor, scrub-wood, thin common grazing** running back off the top of
-  the hill "farther than you'll walk in a day," worth almost nothing per acre and gathered cheap from
-  the **parish, the township, and the far-country loose title** (Ch 2 Cael speech + Ch 3
-  rationalization). "More land than the squire down at Wainford, on the paper; less worth ploughing
-  than one honest family works in a bottom-field." The workable/leasable acreage below is the small
-  doubled fraction (5–100-acre family farms).
+- **⚠️ TOTAL SCALE — LOCKED 2026-07-27 (upper end of gentry):** on paper the whole holding runs to
+  **a little over three thousand acres**, of which **fewer than four hundred would ever take a
+  plough.** ~3,000 = the ceiling of the "squire" band; Emlyn is **gentry on paper**, the district's
+  largest landowner, with eleven shillings in the box. The great bulk is **rough upland — fell,
+  heather-moor, scrub-wood, thin common grazing** running back off the top of the hill "farther than
+  you'll walk in a day," worth almost nothing per acre and **PAPERWORKED rather than bought** (nominal
+  price from the parish/township under far-country loose title, plus survey and legal fees; no
+  fencing, no roads) — Ch 2 Cael speech + Ch 3. "More land than the squire down at Wainford, on the
+  paper; less worth ploughing than one honest family works in a bottom-field."
+  **Workable ~400 acres, of which only ~174 is named on the page** (see story-bible); the rest is
+  unnamed reserve for future tenants. **⚠️ LATENT ASSET:** the moor carries real **sporting value**
+  (grouse) that cannot be realised because sporting tenants are city men and the valley is four days
+  past the railhead. **It unlocks when access improves → "Good Roads."**
+  Full model: `.claude/skills/write-ardenmoor/references/economy.md`.
 - **The hill** and its slopes. **Cael's to sell** (inherited from his grandmother). [PAGE ch2]
 - **The woodland** along the low road — mixed timber (oak, ash, and a planted **larch stand** a
   former owner never lived to cut). **Half was Cael's, half was old Harrow's** (Harrow 6 yrs dead;
