@@ -4,11 +4,13 @@
 
 ### Chapter Seventeen: Nobody Worse Off
 
-The notebook, then. What was in it, and what I did about it, and what it cost.
+What I did about it took the rest of that autumn, and the first thing to understand about it is what I could not do.
 
-I had five tenancies, four of them holding land in places that made no sense to anybody, and about thirty acres of good ground I could not reach. I had no money to buy anyone out, and I want that understood before any of what follows, because it is the whole shape of the thing: I could not pay a single person to move. Whatever got done had to be done by trade, and it had to be done by agreement, and the only currency I had was land itself and time and the forgiving of rents that were not being paid anyway.
+I could not pay a single person to move. Not one. There was no sum in the world available to me that October, and a landlord without money who wants his land rearranged has exactly two instruments left, and both of them are bad: he can lean on people, or he can trade. Leaning is quicker. Every man who had ever held that ground before me had leaned, and the results were on my own plan in front of me, in the shape of a valley full of people holding onto three acres with both hands because three acres was what was left after the last one leaned.
 
-So I made one rule before I began, and I said it out loud to everyone I dealt with, in those words, so that they could hold me to it afterward.
+So it had to be trade, and the only currency I had was land itself, and time, and the forgiving of rents that were not being paid anyway.
+
+And I made one rule before I began, and said it out loud to every one of them, in those words, so that they could hold me to it afterward.
 
 Nobody was to be worse off.
 

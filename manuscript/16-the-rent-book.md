@@ -24,7 +24,7 @@ Now I must be honest about why I went, because Penworth's letter is the respecta
 
 I went for the money.
 
-By the time that letter came I had paid the note and bought the steel and the glass, and I had, as I have said, eleven shillings and a lamp order, and Jorin's crew wanted paying for a winter I could not pay for. And sitting there on the old rent roll, in a clerk's copperplate from before I was born, were five holdings with rents against them, none collected since the purchase and some not properly collected for a great deal longer. Eighteen months of arrears, on five tenancies, on a holding this size.
+By the time that letter came I had paid the note and bought the steel and the glass, and what I had left in the box on the shelf would not have kept a labouring man in bread for a fortnight, and Jorin's crew wanted paying for a winter I could not pay for. And sitting there on the old rent roll, in a clerk's copperplate from before I was born, were five holdings with rents against them, none collected since the purchase and some not properly collected for a great deal longer. Eighteen months of arrears, on five tenancies, on a holding this size.
 
 I did that sum at the cabin table more than once, the way you keep going back to a cupboard you know is empty. On the old roll's own figures it came to a real amount of money. Not a fortune. Enough. Enough, near enough, laid alongside what the lamps would bring in over the winter, to put men on that steel and keep them there until the glass was in.
 
