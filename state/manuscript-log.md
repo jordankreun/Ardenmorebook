@@ -7,7 +7,7 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–**18** + **Interludes I–II** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
+- Drafted: Prologue + Chapters 1–**19** + **Interludes I–II** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
 - Word count so far: ~61,000 / ~90,000–100,000 target (full ~28-chapter shape, session-lock #10).
 - **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8–9 are Part II (winter → spring, Year 2).
 - **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
@@ -958,6 +958,23 @@ it works, and Hask takes the deal, never works it, and dies at a daughter's in W
 refuses to absolve himself. THE GIFT: **TAM WRAY, 17**, twelve acres in his own name, seed on Emlyn's
 account; Hal: **"He's better than me."** Schedule to Penworth; his one-line reply. CLOSING (dialogue):
 Jorin on the pegged slope, **"And who's setting it?"** prose-lint clean.
+
+[10] The Wrays — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
+the author's request; ALL later chapters shift +1 (book now ~32 ch). 2,050w, 62% dialogue. Emlyn cannot
+farm, so he goes to CAEL, who names HAL and BESS WRAY. The tenancy negotiation is now the chapter's
+spine as a two-hander (Hal: "There's a year's work in it before it gives you a bushel"; Bess from the
+doorway: "A fifth." and "Men find reasons," answered with the paper and Cael). They come across on one
+borrowed cart. **THEN THE NEW SET-UP MATERIAL (the point of the split):** a fortnight later Hal comes up
+the track on a Sunday with his hat in his hands and tells Emlyn what is actually on his own land — Tobin
+Hask's 3-acre strip through the middle of the best field, a widow's cottage corner, 2 meadow acres held
+by a stranger, and ~30 acres gone back to thistle because the only lane runs through a gate wired shut
+a decade ago over a forgotten quarrel. Hal does not ask him to fix it; he comes so Emlyn cannot later
+say he ploughed it badly. "It's a rare mess down there… You've the whole of it in one hand now." Emlyn
+says he'll look into it, puts it on a list, and DOES NOT TOUCH IT FOR EIGHTEEN MONTHS: "Hal had said
+people and I heard paperwork, and paperwork can wait, and people, as it turned out, had been waiting
+eleven years already." → Ch 17 (The Rent Book) rewritten to be a RECKONING rather than a discovery
+("there was nothing in it I had not been told"). Ch 9 keeps winter/thaw/money/barn/house and its Jorin
+house scene was opened out into dialogue (7%→36%). prose-lint clean.
 
 PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
 

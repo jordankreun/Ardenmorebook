@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Fifteen: Harvest Home
+### Chapter Sixteen: Harvest Home
 
 The bottoms came in over nine days at the front of autumn, and for nine days I was not a wizard at all. I was a pair of hands that could be told what to do, which is a thing I recommend to anybody who has begun to take himself seriously.
 

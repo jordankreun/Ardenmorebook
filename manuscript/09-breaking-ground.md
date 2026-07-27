@@ -8,51 +8,9 @@ The first winter on the hill was a long white quiet, and I came through it bette
 
 And then the ground let go. It let go all at once, the way it does in that country, the snow going off the south faces first and the beck coming up brown and loud and the whole valley steaming faintly in the new sun like a horse that has run hard and been let stand. And with the thaw came the thing I had been holding at the back of my mind all the still white winter: money, and the want of it, and the note in Penworth's careful columns that would come due before this new green had gone to hay.
 
-I have told you the shape of the trap I had put myself in. I had a year's grace and no more, and the better part of that year was now behind me, spent well but spent, on stone and roof and the slow learning of a hill. What I had ahead of me, before the year was much older, was a piece of paper that would begin to ask me for money twice a year for a good many years, and a hill that had never grown a saleable thing in its life and could not answer it. The hill would never answer it. I had known that going in. What was meant to answer it lay below, in the flat good bottoms along the beck, the plough-land Penworth had stitched together out of four dead men's idle acres, and that land could not answer it either so long as it lay under thistle and old couch-grass with no one to put a share to it. Land does not pay a man for owning it. It pays him for being worked, and I was a wizard and a builder and a great many other things, but I was not a farmer, and I had the sense at least to know it.
+I have told you the shape of the trap I had put myself in. I had a year's grace and no more, and the better part of that year was now behind me, spent well but spent, on stone and roof and the slow learning of a hill. What I had ahead of me, before the year was much older, was a piece of paper that would begin to ask me for money twice a year for a good many years, and a hill that had never grown a saleable thing in its life and could not answer it. The hill would never answer it. I had known that going in. What was meant to answer it lay below, in the flat good bottoms along the beck, the plough-land Penworth had stitched together out of four dead men's idle acres, and that land could not answer it either so long as it lay under thistle and old couch-grass with no one to put a share to it. Land does not pay a man for owning it. It pays him for being worked, and I was a wizard and a builder and a great many other things, but I was not a farmer, and I had the sense at least to know it. What that land wanted was families on it, and finding them was going to take me the better part of that spring and turn out to be a good deal more complicated than putting a man in a field.
 
-So I did the one wise thing left to me. I went to Cael.
-
-I found him in his yard mending a hurdle in the thin spring sun, and I put it to him plainly, that I had good bottom-land going to waste and no notion of how to work it, and asked did he know of any family that wanted ground and had the back and the sense to take it on. He set down his mallet and looked at me a while with those sharp old eyes, and I understood I was being weighed again, the way I had been weighed the first evening over his cup, and that the weighing was not about me this time but about whoever he was deciding whether to say. A man does not hand his neighbors' futures to a stranger lightly, and I was still, by that valley's slow reckoning, most of a stranger.
-
-"There's the Wrays," he said at last. "Young Hal Wray and his wife. Good folk, hard folk, more children than land. They're on Maret's sister's place over the far side, working it on shares for a man who takes more than his share." He picked the mallet back up, which was Cael for I have said what I mean to say. "He'd not be sorry to hear of ground of his own to work. Nor would she."
-
-That was how I came to be standing, three days later, in the sloped mud of a poor rented field on the far side of the valley, being looked over by Hal Wray, who was younger than I had pictured and built like a man made for exactly this and nothing else, wide and quiet and careful, with big raw hands and a way of not saying a thing until he was sure of it. His wife came out from the low dark house with a child on her hip and two more at her skirts and stood in the doorway not quite in the conversation and not quite out of it. That, I would learn, was Bess Wray's whole manner, and it hid a mind quicker than her husband's, though she would have been the last to say so. They heard me out, the both of them, without a word, and when I had done Hal looked at the ground between us for a while, and then he looked up. "And what would you be asking for it," he said, not quite a question. It was the only one that mattered to a man in his place.
-
-I had thought about that on the ride over, and I had thought about it the way Penworth had taught me to, which is to say honestly and a little further ahead than feels comfortable.
-
-"The main bottom-field," I said. "Forty acres and a bit, along the beck. Not the whole of the bottoms; there's other ground I've not got the measure of yet. That field."
-
-"I know that field." Hal's voice gave nothing away. "It's been under thistle since I was a lad."
-
-"It has."
-
-"There's a year's work in it before it gives you a bushel."
-
-"There's a year's work in it before it gives *you* a bushel," I said, "which is rather my point. Nothing, the first year. Not a penny. You'll spend that year breaking it and cursing me, and it'll give you little enough back for the labour, so the first year is yours entire, rent and all, to get it into heart."
-
-He looked at me for a moment as if checking me for a seam.
-
-"And after?"
-
-"Second year, a tenth of what it yields. Third year and after, a fifth."
-
-"A fifth." That was the wife, from the doorway, and it was the first thing she had said. It was not a question. It was a woman putting a figure down where it could be looked at.
-
-"A fifth," I agreed. "Which is fair, and it is less than you're paying now to a man who gives you nothing for it but the privilege."
-
-Nobody said anything for a while. Somewhere behind her a child was being told to leave something alone.
-
-"There's a house on it, of a sort," I said. "The old place that came with the bottom-land, empty since well before it was mine. It wants a roof in two rooms and a great deal of honest cursing. But the walls are sound stone and the well is good, and that's yours too, to mend and live in as long as you work the land. If you work it well I'll not find a reason to want it back."
-
-"Men find reasons," said Bess Wray.
-
-"They do," I said. "I'll put the whole of it in writing, and you'll have your own copy of the paper, and if I ever go looking for a reason you may take that paper to Cael and let him read it out to me in front of the village."
-
-Bess Wray looked up from the doorway at that, one quick look, and I saw her and her husband do the thing that married people do without a word passing, the whole of a conversation held in the tilt of a head and the set of a mouth, and then Hal Wray put out one of those big raw hands, and I took it. That was the second bargain I ever shook on in that valley. I have been prouder of very few I ever struck.
-
-They came across a fortnight later, the Wrays, all their world on one borrowed cart, and I did not do much for them beyond the giving of the ground, for a man breaking in a field does not want a wizard underfoot. But I went down now and again through that spring, drawn by something I did not examine too closely, and stood at the edge of the bottoms and watched a dead field come back to life under one family's hands, the thistle going down before Hal's share and the black earth turning up wet and waiting behind him, Bess and the older children following to pick the stones, and I found it did something to me to watch, standing there, that I would not have predicted. I had spent my whole working life making things happen by will and by working, reaching into the shape of the world and asking it, politely or otherwise, to be other than it was. And here were two people making a far older and better kind of thing happen by nothing but their own bent backs and the turning of the year, asking the ground for nothing it had not always been ready to give, and it humbled me in a way the hill for all its wonders never quite had.
-
-But this is meant to be a chapter about a house, and I have let it wander off into a field, so let me come back up the hill, where I was building one.
+Meanwhile there was building to do, and building was the one problem on that hill I knew how to hold in my two hands.
 
 Before the house, though, there was the barn. I ran it up that same spring on the lower shoulder of the hill, a plain long timber shed for Snow and the cart and the winter stores and the ever-growing clutter of a working life, and I ran it up in wood and in a hurry and for about as little as the thing could honestly be done for. I could have stoned it. I knew to the penny by then what stone cost on that hill, in money and in whole seasons and in the slow back-breaking hauling of it up a track no wagon would climb, for I had lately spent the better part of a year learning exactly that. And I had a note coming due that would not care in the least how handsome my outbuildings were. A man cannot raise everything he needs in dressed stone on a year's grace with a debt at his shoulder, and only a rich fool tries, or a poor one. So the barn was good oak off Maret's mill and honest quick carpentry and a sound ward laid against the wet, thrown up in a fortnight where the Study had eaten a whole summer, and it did its work from the first day: the cart under cover, the stores dry, my own clutter out of the Study at last. Snow never quite took to it. She had a way of shifting and blowing in her stall at dusk and again in the small cold hours, which I laid to a green building settling and a draught I never did find, and I called her spoiled and turned her out on the hillside in fine weather, and we left the argument there. A mare who has carried a man across half the Commonwealth is entitled to her opinions of his carpentry.
 
@@ -66,7 +24,29 @@ I have told you my father drew houses, and that I learned the drawing at his elb
 
 Two rooms, and no more. A main room that would hold the whole of a life, the hearth and the kettle and the table and the chair and the shelf of the few books a man actually reads twice, one room warm and lamplit against the dark with everything a body needs inside the reach of an arm. And off it, through a plain door, the one other room, the bedchamber, small and square and quiet, with a window to catch the morning, and in the corner of it a little alcove I would wall off for a bath, fed cold from the spring and warm from a copper on the main-room fire, because I had lived rough for a year and found I had at last had my fill of it and wanted, God help me, to be clean and comfortable in my own house like an ordinary man. That was the whole of the design. I have drawn a great many more ambitious things. I have never drawn a better one, and I knew it was good the way you know a sentence is right, before you can say why, by the way it sits quiet on the page and asks for nothing to be added.
 
-Jorin came up to build it, and brought Ren, and looked at my drawing a long while in his silent way, turning it in his big careful hands the way his son turned a stone. "Small," he said at last, which from Jorin was not a criticism but a category, a thing filed correctly. And then, a whole speech from him: "Good, that it's small. The right size for a man." I do not know to this day how much that silent builder saw of me, but I have thought since that it was a great deal more than he ever let on.
+Jorin came up to build it, and brought Ren, and looked at my drawing a long while in his silent way, turning it in his big careful hands the way his son turned a stone.
+
+"Small," he said at last.
+
+From Jorin that was not a criticism but a category, a thing filed correctly, and I said nothing and let him go on turning it.
+
+"You've a hill," he said. "You could put anything on it. Man with your money generally does."
+
+"I haven't any money."
+
+"Man with your money generally hasn't." He handed the drawing back. "Two rooms."
+
+"Two rooms."
+
+And then, a whole speech from him: "Good, that it's small. The right size for a man."
+
+Ren, who had been reading the drawing upside down over his father's arm the entire time, said, "Where's the rest of it?"
+
+"There isn't any rest of it."
+
+He thought about that with the seriousness he brought to a stone. "Right," he said, and went to get the string.
+
+I do not know to this day how much that silent builder saw of me, but I have thought since that it was a great deal more than he ever let on.
 
 We had it up in three weeks, fast work even for a small thing, for the ground under it was already the hill's good readied ground and gave no trouble at all, and timber goes up quicker than stone will ever dream of. Maret's oak came up the low road in the cart, good seasoned framing-stuff and clean pale boards, and I warded it against the rot as I had warded the barn, and it stood up honey-coloured and new on its readied footing, warm to look at where the Study sat grey and square above it, so that from below the two did not look kin at all, the little house plainly the poor cheerful cousin of the great serious one, and I found I liked them the better for not matching. Ren fitted the corner-joints, every one of them true without a measure, the way he had set the Study's stones, his strange sure gift no more troubled by oak than it had been by granite, and this time neither of us pretended not to notice, and Jorin let the boy frame the whole of the bedchamber himself and stood back with his arms folded and said nothing, which was Jorin knighting him. Tomas hung the door on silent hinges and made me a set of window-catches so fine and small and cleverly turned that I understood he had done to them what I do to a working, put more of himself into a small thing than the small thing strictly required, because that is what a craftsman does when he loves the work, and I went down to the forge and told him so, and he almost smiled.
 

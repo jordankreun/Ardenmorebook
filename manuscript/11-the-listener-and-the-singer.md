@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Ten: The Listener and the Singer
+### Chapter Eleven: The Listener and the Singer
 
 I put off going down to Brenna's for the better part of a year, and I would like to tell you it was out of respect, a man declining to open another soul's forty years until he was fit to read them. That was some of it. The rest was plain cowardice dressed in respect's good coat, which is the only coat cowardice ever wears that fits it well.
 

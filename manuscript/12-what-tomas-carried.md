@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Eleven: What Tomas Carried
+### Chapter Twelve: What Tomas Carried
 
 The lamp trade, once it caught, ran on iron, which is a thing I had not foreseen and ought to have. A light that does not burn still wants a housing that will not warp. It wants a collar to seat the glass, and a bracket true enough that the working hangs square to the room, and all of that is a smith's business and none of it a wizard's. So from the back end of that first winter, when Kellard's carriage had carried the first small run down the valley and word had come back up it that he wanted more, I had become a fixture at the top of the village street, at the forge, where Tomas made me collars in twos and threes to a pattern the two of us had settled between us the way careful men settle a thing: slowly, and once, and for good.
 

@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Seventeen: Nobody Worse Off
+### Chapter Eighteen: Nobody Worse Off
 
 What I did about it took the rest of that autumn, and the first thing to understand about it is what I could not do.
 

@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Fourteen: Midsummer Reading
+### Chapter Fifteen: Midsummer Reading
 
 I opened the cellar on the thirtieth day, in the flat white heat of the year's middle, and went down into the cold to hear what the stone had heard.
 

@@ -262,16 +262,17 @@ if it needs a new one, add it here.
   - **Interlude I** — Yr1, autumn→winter turn (hill's seasonal, no dated events).
   - **Ch 8** — Yr1, **edge of winter** — elapsed ~9 mo (lamp business; "that winter, one lamp on Brenna's sill").
   - **Ch 9** — Yr1 winter → **thaw into spring Yr2** — elapsed ~12–13 mo (first winter passes; bathhouse ~3 wks).
-  - **Ch 10** — **Yr2, late spring** — elapsed ~14 mo (Brenna's cottage; keeper plant; soldier's-heart flowered midwinter).
-  - **Ch 11** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
-  - **Ch 12** — **Yr2, early–mid summer** — elapsed ~16 mo (the cellar dug under the Study; chest carried down; recording blank set for a 30-day read; river-house SOLD, her things crated under seal).
-  - **Ch 13** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; a bolting cart horse; Soren's talent slips DENIABLY at the square well; Cael's denial; Emlyn tells no one).
-  - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth stays THREE DAYS; first loan payment made; a second blank started).
+  - **Ch 10 (THE WRAYS — NEW)** — **Yr2, spring** — elapsed ~12–13 mo (Cael names them; the tenancy negotiation; they arrive; a fortnight later Hal tells him what is really on his land).
+  - **Ch 11** — **Yr2, late spring** — elapsed ~14 mo (Brenna's cottage; keeper plant; soldier's-heart flowered midwinter).
+  - **Ch 12** — **Yr2, early summer** — elapsed ~15 mo (Tomas's forge, dusk; lamp-collar pickup; the confession).
+  - **Ch 13** — **Yr2, early–mid summer** — elapsed ~16 mo (the cellar dug under the Study; chest carried down; recording blank set for a 30-day read; river-house SOLD, her things crated under seal).
+  - **Ch 14** — **Yr2, mid-summer** — elapsed ~17 mo (a market morning; a bolting cart horse; Soren's talent slips DENIABLY at the square well; Cael's denial; Emlyn tells no one).
+  - **Ch 15** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth stays THREE DAYS; first loan payment made; a second blank started).
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
-  - **Ch 15 (HARVEST HOME — swapped into this slot 2026-07-15)** — **Yr2, early autumn** — elapsed ~19 mo (the bottoms come in over nine days; the Wrays' supper; the cave found; the crop sold at Wainford).
-  - **Ch 16 (THE RENT BOOK — NEW)** — **Yr2, October** — elapsed ~20 mo (eleven days on foot; the five inherited occupiers; consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth in November).
-  - **Ch 17 (NOBODY WORSE OFF — split from The Rent Book)** — **Yr2, late October → November** — elapsed ~20–21 mo (the consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth).
-  - **Ch 18 (STEEL AND GLASS — was 15, then 16, then 17)** — **Yr2, late autumn → into winter** — elapsed ~21–23 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
+  - **Ch 16 (HARVEST HOME — swapped into this slot 2026-07-15)** — **Yr2, early autumn** — elapsed ~19 mo (the bottoms come in over nine days; the Wrays' supper; the cave found; the crop sold at Wainford).
+  - **Ch 17 (THE RENT BOOK — NEW)** — **Yr2, October** — elapsed ~20 mo (eleven days on foot; the five inherited occupiers; consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth in November).
+  - **Ch 18 (NOBODY WORSE OFF — split from The Rent Book)** — **Yr2, late October → November** — elapsed ~20–21 mo (the consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth).
+  - **Ch 19 (STEEL AND GLASS — was 15, then 16, then 17)** — **Yr2, late autumn → into winter** — elapsed ~21–23 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1221,6 +1222,18 @@ show release. The coarse curve, so no chapter overshoots:
   Ch 27 letter (the hand shows *his* school of notation; the closeness required her unguarded rooms).
   ⚠️ The "safe published third" canon is therefore ALSO not yet on the page — establish it when this
   thread opens.
+- **⚠️ HAL WRAY TOLD HIM ABOUT THE MESS IN SPRING Yr2 (Ch 10) — the set-up the whole tenancy arc pays
+  off (author's direction 2026-07-15).** A fortnight after taking the field, Hal comes up the track on
+  a Sunday with his hat in his hands and reports, flatly, what is actually on Emlyn's land: **Tobin
+  Hask's three-acre strip straight through the middle of the best forty**, a widow's cottage corner,
+  two meadow acres held by a stranger, and **~30 acres gone back to thistle because the only lane runs
+  through a gate somebody wired shut a decade ago over a forgotten quarrel**. He does NOT ask Emlyn to
+  fix it — he comes so that Emlyn cannot later say he ploughed it badly. *"It's a rare mess down
+  there… You've the whole of it in one hand now."* **Emlyn says he will look into it, puts it on a
+  list, and does not touch it for eighteen months.** His own verdict: *"Hal had said people and I heard
+  paperwork, and paperwork can wait, and people, as it turned out, had been waiting eleven years
+  already."* → Ch 17 is therefore a RECKONING, not a discovery: "there was nothing in it I had not been
+  told." Do not write the fragmentation as news to Emlyn again.
 - **⚠️ HARVEST HOME — THE HARVEST IS MEAGRE, AND HE BURNS EVERY COIN (Ch 15; REWORKED 2026-07-15 at
   author's direction; supersedes the earlier "the crop cleared it comfortably" version).**
   **WHY IT'S POOR (and it must stay poor):** Hal spent his free first year doing exactly what Emlyn's

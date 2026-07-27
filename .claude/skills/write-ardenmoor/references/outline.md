@@ -149,7 +149,22 @@ storm, until Part IV.
 
 ## PART II — REMAINING BEATS (Ch 11–14; Ch 8–10 are drafted)
 
-**Ch 10 — The Listener and the Singer. ✅ DRAFTED 2026-07-14.** Emlyn goes DOWN to Brenna's cottage
+**Ch 10 — The Wrays.** *(NEW, 2026-07-15 — split out of Breaking Ground at the author's request; all
+later chapters shift +1.)* Spring Yr2, stepping back from the house. Emlyn cannot farm, so he goes to
+**Cael**, who names **Hal and Bess Wray**. The tenancy negotiation plays as a two-hander (Hal: "There's
+a year's work in it before it gives you a bushel"; Bess from the doorway: "A fifth." and "Men find
+reasons"; answered with the paper and Cael). They come across on one borrowed cart. **THEN THE SET-UP
+THAT THE WHOLE TENANCY ARC PAYS OFF:** a fortnight later Hal comes up the track on a Sunday with his
+hat in his hands and tells Emlyn what is actually on his own land — **a three-acre strip of Tobin
+Hask's straight through the middle of the best field**, a widow's cottage corner, two meadow acres held
+by a stranger, and **thirty acres gone back to thistle because the only lane to them runs through a
+gate somebody wired shut a decade ago over a forgotten quarrel**. Hal does not ask him to fix it; he
+comes so Emlyn cannot later say he ploughed it badly. *"It's a rare mess down there… You've the whole
+of it in one hand now."* Emlyn says he will look into it, **puts it on a list, and does not touch it
+for eighteen months** — "Hal had said *people* and I had heard *paperwork*, and paperwork can wait, and
+people, as it turned out, had been waiting eleven years already."
+
+**Ch 11 — The Listener and the Singer. ✅ DRAFTED 2026-07-14.** Emlyn goes DOWN to Brenna's cottage
 and reads the FIRST of the grandmother's notebooks (lent ONE VOLUME AT A TIME); sees the keeper
 plant in the cold cellar (3 new leaves since he took the hill); candor stays PARTIAL (keeps the hum
 private). What LANDS on the page is only the grandmother's early-book line: the hill sings, the tree
@@ -157,12 +172,12 @@ only holds it and passes it on, and it is not for her. The theory's SPINE (the S
 something NOT YET ARRIVED) is deliberately WITHHELD for later volumes; its on-page delivery is now
 booked into Ch 21 (below). Singer/Listener named; two-grandmothers question OPEN. Late spring, Year 2.
 
-**Ch 11 — What Tomas Carried.** The confession chapter. Late pickup, banked forge; Tomas has heard
+**Ch 12 — What Tomas Carried.** The confession chapter. Late pickup, banked forge; Tomas has heard
 the hill for many months and told no one ("who tells such a thing?"). The relief of not being mad,
 spoken by a man who wastes nothing. The standing promise made: *when I know what it is, you will
 know.* The book's quiet metronome starts.
 
-**Ch 12 — The Listening Stone.** The Deep Grammar program begins, and first the DIG: Jorin's crew
+**Ch 13 — The Listening Stone.** The Deep Grammar program begins, and first the DIG: Jorin's crew
 cuts the CELLAR beneath the Study (reshaping wards asking, not insisting; the hill opening for it as
 it opened for the footing), stairs down from the Study, dry stone, the hill's cold breath. During the
 dig Ren goes still over the NORTHEAST corner and says nothing, and Jorin sees it and says nothing
@@ -175,12 +190,12 @@ notices; the reader notices Jorin noticing. **River-house completion papers arri
 lands and goes straight at the principal; her things are crated unsorted under Penworth's seal and
 stored. He signs where the flags are. He does not read the inventory.**
 
-**Ch 13 — The Well Incident.** Soren's talent slips in public: water climbing against the rope's
+**Ch 14 — The Well Incident.** Soren's talent slips in public: water climbing against the rope's
 tug, a heartbeat of wrongness in the square. Emlyn smooths it to nothing with a wizard's
 misdirection. Lira, wiping a table by the window, sees more than she says. The boy must be
 protected from being *noticed*.
 
-**Ch 14 — Midsummer Reading.** Phase One read: two pulses daily; storm-sensitivity; a response the
+**Ch 15 — Midsummer Reading.** Phase One read: two pulses daily; storm-sensitivity; a response the
 day he visited the oak; and across thirty days a baseline warming — the hill is *learning him*.
 Penworth visits (met at Wainford or come the whole way): the summer's mail holds three strangers
 probing the deliberately incomplete demiplane papers, one unsigned ("*the interior architecture is
@@ -190,7 +205,7 @@ the dark.*
 
 ## PART III — YEAR 2, LATE SUMMER → AUTUMN (Ch 15–22)
 
-**Ch 15 — Harvest Home.** *(SWAPPED with the old Ch 15, 2026-07-15: cause must precede effect, since
+**Ch 16 — Harvest Home.** *(SWAPPED with the old Ch 15, 2026-07-15: cause must precede effect, since
 Penworth's condition is no spade in the ground until the crop is sold.)* Autumn Yr2. The bottoms come
 in over nine days with the whole valley turning out. **The land pays for the first time:** the crop
 clears the second note payment IN FULL out of the ground, and what is left plus a year's lamp money
@@ -203,7 +218,7 @@ natural CAVE** on the deeper-green east shelf and **JORIN** names it: "That's no
 a room." (The storehouse will be built on it; Ren's "It's a good place" stays BLIND.) Closes on
 Jorin's question: **"And who's setting it?"**
 
-**Ch 16 — The Rent Book.** *(NEW, 2026-07-15, author's call; all chapters after shift +1.)* Autumn Yr2,
+**Ch 17 — The Rent Book.** *(NEW, 2026-07-15, author's call; all chapters after shift +1.)* Autumn Yr2,
 after the harvest. Penworth's one-line letter forces it: *"You have now owned that land for eighteen
 months and have never once… ascertained who is living on it."* Emlyn reads his own deeds and finds the
 holding is **a jigsaw with pieces missing and other men's pieces in the box** — a 3-acre strip through
@@ -225,7 +240,7 @@ WRAY, 17**, gets **twelve acres in his own name** on his own paper (3 yrs free �
 seed on Emlyn's account; Hal: *"He's better than me."* Tam joins the glasshouse crew for the wage that
 becomes his seed money. Closes on the slope with Jorin: **"And who's setting it?"**
 
-**Ch 17 — Nobody Worse Off.** *(NEW, 2026-07-15 — the second half of the split Rent Book; all later
+**Ch 18 — Nobody Worse Off.** *(NEW, 2026-07-15 — the second half of the split Rent Book; all later
 chapters shift +1 again.)* Autumn Yr2. The notebook turns out to be worth more than the arrears. With
 **no money to buy anyone out**, the only currencies are land, time, and the forgiving of rents nobody
 was paying anyway, so Emlyn makes one rule and says it aloud to everyone so they can hold him to it:
@@ -239,7 +254,7 @@ WRAY, 17**, gets twelve acres in his own name, seed on Emlyn's account, and join
 for the wage that becomes his seed money; Hal: *"He's better than me."* Schedule to Penworth; his
 one-line reply. Closes on the slope with Jorin: **"And who's setting it?"**
 
-**Ch 18 — Steel and Glass.** *(Was Ch 15, then 16, then 17.)* Late autumn → winter Yr2. The greenhouse rises: **160 ft,
+**Ch 19 — Steel and Glass.** *(Was Ch 15, then 16, then 17.)* Late autumn → winter Yr2. The greenhouse rises: **160 ft,
 five bays**, enchanted wrought-steel frame up the frontier road on **eleven wagons**, warded, glass
 hung over three weeks — the largest structure in the valley, financed by a **second borrowing secured
 on the hill** (Penworth cautioned in person in Ch 14: "you will lose Ardenmoor. Not embarrassment. The
@@ -252,28 +267,28 @@ corner ("Ask me again at the turn of the year"). Grief beat: Essa's bedframe del
 village's unasked contributions (Lira's blankets, Mira's bolster, Kellard's mirror); the callipers
 drawer sticks and is let stay stuck.
 
-**Ch 19 — Good Roads.** The thaw chapter: the cart-road and, because the land allows it, a branch
+**Ch 20 — Good Roads.** The thaw chapter: the cart-road and, because the land allows it, a branch
 into the village. Lira engages for the first time in a year: "That's not a path to a wizard's
 tower. That's a road. To the village." The jug refilled unasked; "I'll mention it to Cael." A vote
 cast without acknowledging it was a vote.
 
-**Ch 20 — Letters Going Both Ways (THIRD-PERSON LIRA; the reader-superior chapter).** In Lira's
+**Ch 21 — Letters Going Both Ways (THIRD-PERSON LIRA; the reader-superior chapter).** In Lira's
 head for an evening: the inn's ledger and the other ledger; what she notices; what she owes and to
 whom; the letter written, folded, sealed — about the road, the boy at the well, the wizard who pays
 on the day. Intercut with the Conclave's own polite line to Emlyn closing an old inquiry: "the
 office remains interested." The reader now knows before Emlyn does. (Moved from the old Ch-12 slot,
 2026-07-14.)
 
-**Ch 21 — Even.** Twenty lamp-housing sets commissioned from Tomas against the spring patents; the
+**Ch 22 — Even.** Twenty lamp-housing sets commissioned from Tomas against the spring patents; the
 trade of a Series lamp for the smithy called even; the smith's whole answer: "Even." Then the only
 question that matters to him: "Four days?" — he is keeping the promise's calendar too.
 
-**Ch 22 — Boy's Ready.** Jorin reviews the storehouse drawings; the same root-cellar logic arrived
+**Ch 23 — Boy's Ready.** Jorin reviews the storehouse drawings; the same root-cellar logic arrived
 at from the builder's side; the rear wall set true to a compass bearing for a future no one names.
 Ren sent to the quarry alone: "Boy's ready." And at the door, the sentence carried for weeks: "He
 felt something in that cellar. During the build. Hasn't said what."
 
-**Ch 23 — The Reading.** The mid-book turn: Phase Two read palm-to-crystal. Three findings,
+**Ch 24 — The Reading.** The mid-book turn: Phase Two read palm-to-crystal. Three findings,
 escalating: the hill carries his specific shape; the predawn pulse is developing structure, the way
 sound becomes language when a mind wants to be understood; and a directional transmission, upward,
 toward the cellar's northeast corner. Toward the chest. Its quality is not alarm. It is greeting.
@@ -284,7 +299,7 @@ and passes it on. Her forty years of listening and his thirty days of instrument
 fact from two sides, and the twist's callback to 'the waiting the grandmother theorized' is earned.
 Render it BLIND (ordinary temperature, no hindsight flag); two-grandmothers question stays open.
 
-**Ch 24 — The Fork and the Paper.** Ren's assessment in the cellar: carpenter's honesty against
+**Ch 25 — The Fork and the Paper.** Ren's assessment in the cellar: carpenter's honesty against
 perceptual questions; the resonance fork struck twice; his body turning unasked toward the chest's
 corner; the sensitized paper's branching, downward-flowing imprint. *I don't know yet what it
 means* — and an oath of silence. That night, Soren's unprompted drawing: the hill, the tower, the
@@ -293,28 +308,28 @@ weights now, and the great one; it practices the shape of a word it has no mouth
 
 ## PART IV — YEAR 2, EARLY WINTER → SOLSTICE (Ch 23–29)
 
-**Ch 25 — Keeping the Promise.** Tomas gets the true shape (not everything; the chest and compass
+**Ch 26 — Keeping the Promise.** Tomas gets the true shape (not everything; the chest and compass
 stay Emlyn's): the hill is aware, it has been learning him, it was waiting before either of them
 came; Tomas was never mad and never alone. "Waiting for what?" — "I don't know yet. But I'll keep
 the promise as long as it keeps being true."
 
-**Ch 26 — The Delicate Conversation.** The apprenticeship negotiation, the relational climax.
+**Ch 27 — The Delicate Conversation.** The apprenticeship negotiation, the relational climax.
 Jorin's conditions in his own grammar: the boy finishes what he builds; the boy is not taken from
 wood and stone; the boy chooses for himself, asked plainly. Ren, asked plainly, his father present:
 "Yes. I've been answering it for a year. I'd like to know what I'm saying."
 
-**Ch 27 — The Keeper Plant.** Warm-glow chapter before the dark: the greenhouse alive; Brenna sets
+**Ch 28 — The Keeper Plant.** Warm-glow chapter before the dark: the greenhouse alive; Brenna sets
 her grandmother's plant in true ground for the first time in thirty years; by morning its leaves
 have turned — toward the hill. The council approves the village branch. Lira puts a Series lamp in
 her window.
 
-**Ch 28 — The Lab.** The storehouse finished, the hill holding the rear wall like a promise; the
+**Ch 29 — The Lab.** The storehouse finished, the hill holding the rear wall like a promise; the
 hill-cut inner chamber becomes the enchantment lab. The apprenticeship made formal the old way —
 small, domestic, binding; bread broken; Soren standing witness with the fierce arithmetic of a boy
 computing his own future. Ren's first supervised working: a lamp housing accepting its light as he
 stops pushing and starts asking.
 
-**Ch 29 — THE FIRE (new; placement locked 2026-07-14: before the finale).** An early-winter night;
+**Ch 30 — THE FIRE (new; placement locked 2026-07-14: before the finale).** An early-winter night;
 an ordinary cause the morning never quite settles (a lamp, a dry month, a flue) — the timber barn
 goes, and the cabin with it; Snow and what matters saved; the hill blameless on the page and the
 seeds (she never would settle there) left for the reader's hindsight. THE VILLAGE COMES UP THE HILL
@@ -326,13 +341,13 @@ letters stopped, and one line that closes his throat — the hand shows training
 notation, the kind of closeness that would have required her unguarded rooms in the three years
 they sat unentered before the crating.
 
-**Ch 30 — The Letter.** Grief resolves before the twist, so the twist lands on an open heart.
+**Ch 31 — The Letter.** Grief resolves before the twist, so the twist lands on an open heart.
 Solstice eve, the Study, the fire's smell still in everything he owns: he opens Arielle's mother's
 letter. It is short. It asks him to come in spring, and to bring "whatever of her still lives in
 your keeping." He sits with it until the lumen is the only light in the valley. Then he takes the
 lamp, and the key he has carried for two years, and goes down the cellar stairs.
 
-**Ch 31 — The Needle.** The twist, predawn at the winter solstice, the hill's deepest pulse almost
+**Ch 32 — The Needle.** The twist, predawn at the winter solstice, the hill's deepest pulse almost
 a word. The chest opened at last: wrapped in her scarf, the Planewright's Compass, waking at his
 touch for the first time since her hands last held it. The needle turns once, settles, and points
 straight down. The hill has never been greeting the compass. It has been waiting for someone to

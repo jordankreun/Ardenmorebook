@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Sixteen: The Rent Book
+### Chapter Seventeen: The Rent Book
 
 Penworth's letter reached me a week after the harvest, and it had one line in it that mattered.
 
@@ -10,7 +10,13 @@ Penworth's letter reached me a week after the harvest, and it had one line in it
 
 He was right, and it was worse than he knew, because I had not avoided the thing out of laziness. I had avoided it because I had known, in the vague way a man knows the shape of an unopened letter, that there were people on that ground whose lives I had bought without meeting them, and that sooner or later I would have to go and be their landlord to their faces.
 
-So I got the deeds out, and the plan that came with them, and spread the whole business on my own table, and looked properly at what I had bought for the first time.
+So I got the deeds out, and the plan that came with them, and spread the whole business on my own table, and looked properly at what I had bought.
+
+And there was nothing in it I had not been told.
+
+That is the part I have to own. Hal Wray had stood in my yard on a Sunday a year and a half before, with his hat in his hands, and given me the whole of it: the strip through his field, the widow's corner, the thirty acres nobody could get a lane to. He had told me it was a rare mess and that I now held the whole of it in one hand. And I had said something about looking into it, and I had put it on a list, and the list had gone under a summer and a lamp trade and a winter and a note, and I had not touched it since.
+
+A man can hold a piece of paper for eighteen months and see a shape on it. It takes going out and asking to see the ground.
 
 It was a mess.
 

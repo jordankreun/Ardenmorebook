@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Twelve: The Listening Stone
+### Chapter Thirteen: The Listening Stone
 
 The Study had been up a year and more before I put a spade to the ground beneath it, and I want to be plain about why, because a story would tell you I dug the cellar to keep the hill's secret, and that is only the half of it that sounds well. The other half was turnips. A house on a hill wants a cold dark hole beneath it to keep the winter's stores from freezing and the summer's from spoiling, and I had come through one winter carrying my food up through the snow from a lean-to like a man who has never once in his life thought a season ahead, which was very nearly what I was. So when I tell you I dug down under the Study to make a place to listen, understand that I also dug it to keep my cheese.
 
