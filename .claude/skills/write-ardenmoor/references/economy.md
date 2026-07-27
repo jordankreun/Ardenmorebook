@@ -16,44 +16,64 @@ consistent across chapters and *felt* rather than invented.
 
 ---
 
-## 0. ⚠️ THE COINAGE (locked 2026-07-27 — BASE TWELVE)
+## 0. ⚠️ THE COINAGE — LOCKED 2026-07-27
 
-**GOLD · HALF-GOLD · SILVER · COPPER.**
+**BASE TWELVE, WITH A HALF AT EVERY LEVEL. TWO REGISTERS.**
 
-| | |
-|---|---|
-| **1 gold** | = **24 silver** = **288 copper** |
-| **1 half-gold** | = **12 silver** |
-| **1 silver** | = **12 copper** |
+| Value | Formal (city, bank, contract) | Vernacular (valley, and Emlyn's own head) | Worth |
+|---|---|---|---|
+| gold | a **veth** | **gold** | 24 marks · 288 grain |
+| half-gold | a **half-veth** | **a half-gold** | 12 marks · 144 grain |
+| silver | a **mark** | **silver** | 12 grain |
+| half-silver | a **half-mark** | **a half-silver** | 6 grain |
+| copper | a **grain** | **copper / coppers** | 1 |
 
-**Base twelve throughout**: twelve copper to the silver, twelve silver to the half-gold, two
-half-gold to the gold. A duodecimal purse divides cleanly by 2, 3, 4 and 6, which is exactly why
-real pre-decimal coinages worked that way — it suits a world that reckons in dozens, halves and
-thirds rather than tens.
+### Why "mark" — three meanings, all load-bearing
+1. **A weight of metal.** The historical mark was money-of-account across mercantile Europe
+   *before* it was ever a coin — Hanseatic, trading-city money, **explicitly not royal.** Right for a
+   Commonwealth governed by a council whose seat is a banking city.
+2. **A stamped sign.** The assay mark struck on verified metal. **The Commonwealth guarantees
+   weight, not a ruler's face.**
+3. **A boundary** (same root as *march*, the marches). ⚠️ **This is the one that earns its keep.**
+   The property throughline is entirely about boundaries that exist on paper and not on the ground:
+   *"on the paper it was one property… and on the ground it was four men's ground still."* A
+   currency whose name means *boundary*, circulating in a valley whose boundaries nobody ever
+   walked. Thematic rhyme, not decoration.
 
-**⚠️ TRANSLATION RULE FOR THIS DOCUMENT.** Gold-denominated sums map to the researched sterling
-figures **1 gold ≈ £1**. Silver rates are **rescaled ×1.2 from the shilling** (since a gold holds
-24 silver, not 20) so that **purchasing power is preserved**. **Sections 3–5 keep their £/s/d
-citations exactly as sourced** — real-world reference data, altering it would corrupt the sourcing.
-**Sections 6–9, the Ardenmoor model, are in coin.**
+### The Vethmark claim (new canon; nothing contradicted)
+**Vethmark is the Commonwealth's banking seat** (story bible) and its etymology was `[OPEN]`. So:
+**the capital is called Vethmark because it is where the veth and the mark are struck.** The city's
+name IS the coinage, split in two — and it reads as a frontier name besides (the Veth march, a
+boundary post that became a banking city).
 
-**⚠️ A GIFT THE BASE GIVES YOU — USE IT.** Emlyn ends the tenancy arc on **eleven silver and four
-copper**. A half-gold is **twelve silver**. So he is **one silver short of the smallest coin a
-respectable man would produce in company** — he cannot even make a half-gold. He is not carrying
-a small sum; he is carrying a sum that will not add up to a coin. That is a better rendering of
-his condition than any figure, and it costs one clause.
+### ⚠️ "GRAIN" — a deliberate homonym, use it knowingly
+This is a farming novel. *Grain* is already a crop word on the page (*"a hill that grew stone
+instead of grain"*). The collision is **kept on purpose**: a valley that lives by grain, whose
+smallest coin is a grain, is the book's economics in one word, and it buys a line like *"he paid me
+in grain, and not the kind you eat."*
+**But it is a real risk.** If it ever reads as friction rather than rhyme, swap copper to **a mite**
+— a one-word change, no arithmetic touched.
 
-Other things the base does for free:
-- A **skilled fitter at 36 silver** a week earns **a gold and a half-gold** — a natural way for a
-  tradesman to state his rate.
-- The **winter crew is 200 silver a week = 8 gold 8 silver**; twelve weeks is **100 gold exactly.**
-- The realisable arrears (**8 gold = 192 silver**) fall **just short of one week** of that crew
-  (200 silver), which is precisely what Ch 17 says: *"would not have paid a builder's crew for a
-  week. Not for a winter. For a week."* **The arithmetic is now exact.**
+### ⚠️ REGISTER IS CHARACTERISATION — the reason for two names
+**Formal names appear ONLY where they would**: Penworth's letters, contracts, bank paper, the rent
+roll. **Everywhere else is metal.** Nothing already drafted changes; all six converted chapters are
+already correct.
 
-**On the page:** *"eleven silver and four copper"* · *"a few gold a quarter"* · *"not a copper"* ·
-*"every silver I could put a hand to."* Coins may acquire proper names later (a crown, a mark);
-plain metal names are canon for now.
+> **Penworth's letter:** *"a man with, by my reckoning, eleven marks."*
+> **Emlyn, in his own head:** *"eleven silver and four copper."*
+
+**The gap between those two lines is the distance he has travelled**, and it is already sitting in
+the text. → **Track it:** he arrives counting in marks and veth. By Book Two he should reach for
+*gold* and *coppers* without noticing, and nobody should remark on it.
+
+### What the base gives you free
+- **A skilled fitter at 36 marks** a week earns **a veth and a half-veth.**
+- **The winter crew is 200 marks a week** (8 veth 8 marks); twelve weeks is **100 veth exactly.**
+- **Realisable arrears of 8 veth = 192 marks** against a crew at 200 a week: **just short of one
+  week**, which is precisely what Ch 17 says. The arithmetic is exact.
+- **⚠️ THE POVERTY BEAT.** Emlyn ends on **eleven marks and four grain = 136 grain.** A half-veth is
+  **144.** He is **eight grain short** of the smallest coin a man would produce in company. He is
+  not carrying a small sum. He is carrying a sum that will not add up to a coin.
 
 ---
 
