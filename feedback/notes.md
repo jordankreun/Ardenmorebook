@@ -1,16 +1,20 @@
 # Reader notes: The Tower of Ardenmoor
 
-5 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
+6 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Prologue
+
+> That is who this is about, and I will ask you to go easy
+
+If I were to tell that story that is who it would be about and I would ask you to go easy on him
 
 > and they are gone now, every one but me.
 
 Not all would be gone as some would also have extended lifespans
 
-> That is who this is about, and I will ask you to go easy
+> From one of the later journals
 
-If I were to tell that story that is who it would be about and I would ask you to go easy on him
+Make this mention name of mc also consider am letter to  a later introduced character like Soren
 
 
 ## Chapter One: Ardenmoor
