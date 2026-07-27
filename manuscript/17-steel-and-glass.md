@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Sixteen: Steel and Glass
+### Chapter Seventeen: Steel and Glass
 
 The greenhouse came up the frontier road in pieces, on eleven wagons across the back end of that autumn, and it was the first thing I built on that hill that the valley could not pretend was ordinary.
 

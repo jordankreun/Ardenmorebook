@@ -269,7 +269,8 @@ if it needs a new one, add it here.
   - **Ch 14** — **Yr2, mid–late summer** — elapsed ~18 mo (30 days after the blank was set; Emlyn reads it; Penworth stays THREE DAYS; first loan payment made; a second blank started).
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
   - **Ch 15 (HARVEST HOME — swapped into this slot 2026-07-15)** — **Yr2, early autumn** — elapsed ~19 mo (the bottoms come in over nine days; the Wrays' supper; the cave found; the crop sold at Wainford).
-  - **Ch 16 (STEEL AND GLASS — was Ch 15)** — **Yr2, late autumn → into winter** — elapsed ~20–22 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
+  - **Ch 16 (THE RENT BOOK — NEW)** — **Yr2, October** — elapsed ~20 mo (eleven days on foot; the five inherited occupiers; consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth in November).
+  - **Ch 17 (STEEL AND GLASS — was Ch 15, then 16)** — **Yr2, late autumn → into winter** — elapsed ~21–23 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1242,6 +1243,46 @@ show release. The coarse curve, so no chapter overshoots:
   almost exactly the greenhouse MATERIALS** (steel, glass, stove, ducting, freight at Penworth's 9%
   under). After paying it he has **ELEVEN SHILLINGS and some copper** in the box, plus a half-finished
   lamp order. **Nothing whatever toward LABOUR.**
+- **THE TENANCY CONSOLIDATION (Ch 16 "The Rent Book"; NEW chapter 2026-07-15) — land, people, and the
+  cost of power.** Forced by Penworth ("I am obliged to describe your security to people who take a
+  narrow view, and at present I am describing it from imagination"). **THE HOLDING IS FRAGMENTED:** a
+  **3-acre strip through the middle of the Wrays' best field** (Hal loses ~a fifth of the field's
+  working to broken plough-runs), a cottage corner in the same field, 2 acres of the NE meadow, and
+  **~30 acres of good plough-land unreachable** without crossing someone else's ground.
+  **THE FIVE INHERITED OCCUPIERS (all new named canon):**
+  • **NED PARDON** — corner of scrub, four goats and a bad-tempered pony; pays **a cheese at midsummer
+    and a fleece at Michaelmas** by custom, and had gone on paying it to nobody in particular for
+    eleven years. OUTCOME: keeps his ground **for life**, same rent, in writing.
+  • **ALICE BEWICK** — cottage + the best garden in the valley; three children, no husband; terrified
+    of him for 18 months; had the rent counted out and **had gone hungry to have it there**. **Emlyn
+    REFUSED to take it** (not charity: "a rent that must be starved for is not a rent, it is a slow way
+    of losing a tenant"). OUTCOME: trades her awkward 2 acres for **5 acres with a sound byre and a
+    spring**, 3 years free then a tenth, on the Wrays' paper. Her son farms it now.
+  • **THE TOLLS' WIDOW** — 2 thistled acres of the NE meadow she doesn't want. OUTCOME: sold for **a
+    lifetime's firewood off the woodland strip**, cut and carted (cost: Ren's winter afternoons).
+  • **COB FERRIS** — a strip he never worked. OUTCOME: swapped into a nearer one; believes he swindled
+    Emlyn and says so for years.
+  • **TOBIN HASK** ⚠️ — older than Cael, alone with a dog; the 3-acre strip is the last of a family that
+    once held forty acres. **REFUSED TWICE.** The third time **Emlyn brought CAEL up his path**,
+    knowing what the elder's presence meant in that valley. Hask took the deal (5 acres, rent forgiven
+    for life), never worked it, let his cottage, went to a daughter in **Wainford** and **died there
+    the winter after**. Emlyn's verdict on himself: *"That is what owning land is… you will have the
+    power to do a small ugly thing for a good reason, and no one will ever call you on it, and you will
+    remember it long after everyone else has forgotten."* → a permanent moral debit; may resurface.
+  **THE RULE (announced publicly so he can be held to it): NOBODY IS TO BE WORSE OFF.**
+  **ARREARS: pitiful and nearly all uncollectable** — eighteen months of customary rents "would not
+  have paid a builder's crew for a fortnight"; he collects **a cheese, a fleece, and a notebook.**
+  **TAM WRAY (NEW; eldest Wray son, 17)** — big, his father's carefulness and his mother's directness;
+  worked the whole harvest for his supper; no room for him at home. **Emlyn lets him TWELVE ACRES in
+  his own name on his own paper** (3 yrs free → a tenth → a fifth; no debt if he quits in 2 yrs; seed
+  on Emlyn's account "because no man lends money to a seventeen-year-old"). Bess put the idea in
+  Emlyn's head by saying it aloud to Hal in his hearing. Hal: **"He's better than me."** Tam went red
+  and had to look out of the window. **Tam joins the glasshouse crew that winter for the wage that
+  becomes his seed money** ("the great extravagant house of glass… paying for the first honest acres a
+  Wray ever held in his own name").
+  **Penworth's reply:** *"This is a considerably better security than I had been describing, and a
+  considerably worse harvest than I had been hoping for, and I observe that you have contrived to give
+  away a great deal for a man with, by my reckoning, eleven shillings."*
 - **⚠️ THE LABOUR IS BOUGHT WITH CRAFT, NOT COIN (Ch 16; author's direction 2026-07-15) — a
   load-bearing thematic turn.** Emlyn tells Jorin plainly there is no money and will be none for a
   year. **Jorin's question, "What have you got, then?"** reframes everything: Emlyn is cash-poor and

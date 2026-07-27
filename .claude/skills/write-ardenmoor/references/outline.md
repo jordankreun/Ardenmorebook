@@ -203,7 +203,29 @@ natural CAVE** on the deeper-green east shelf and **JORIN** names it: "That's no
 a room." (The storehouse will be built on it; Ren's "It's a good place" stays BLIND.) Closes on
 Jorin's question: **"And who's setting it?"**
 
-**Ch 16 — Steel and Glass.** *(Was Ch 15.)* Late autumn → winter Yr2. The greenhouse rises: **160 ft,
+**Ch 16 — The Rent Book.** *(NEW, 2026-07-15, author's call; all chapters after shift +1.)* Autumn Yr2,
+after the harvest. Penworth's one-line letter forces it: *"You have now owned that land for eighteen
+months and have never once… ascertained who is living on it."* Emlyn reads his own deeds and finds the
+holding is **a jigsaw with pieces missing and other men's pieces in the box** — a 3-acre strip through
+the middle of the Wrays' best field, a cottage corner, 2 acres of the NE meadow, and **~30 acres of
+good plough-land unreachable** for want of a way in. Eleven days on foot with a notebook. **FIVE
+inherited occupiers:** Ned Pardon (scrub and goats; pays a cheese and a fleece by custom to nobody in
+particular); **Alice Bewick** (cottage + the best garden in the valley, three children, no husband; has
+the rent counted out and has gone hungry for it — **Emlyn refuses to take it**, and it is not charity);
+the Tolls' widow (2 thistled acres she doesn't want); Cob Ferris (a strip he has never worked); and
+**TOBIN HASK**, whose three acres split the best forty. **Arrears are pitiful and nearly all
+uncollectable** — he comes home with a cheese, a fleece and a notebook. Consolidation is done by DEAL,
+on one rule announced so people can hold him to it: **nobody is to be worse off.** Bewick trades up to
+five acres and a byre; the widow takes a lifetime's firewood; Ferris swaps into a nearer strip and
+believes he swindled him. **HASK REFUSES TWICE**, and the third time Emlyn **brings Cael up his path**
+knowing what the elder's presence means; Hask takes the deal, does not work it, lets his cottage, goes
+to a daughter in Wainford, and dies there. *"That is what owning land is… you will have the power to do
+a small ugly thing for a good reason, and no one will ever call you on it."* The chapter's gift: **TAM
+WRAY, 17**, gets **twelve acres in his own name** on his own paper (3 yrs free → a tenth → a fifth),
+seed on Emlyn's account; Hal: *"He's better than me."* Tam joins the glasshouse crew for the wage that
+becomes his seed money. Closes on the slope with Jorin: **"And who's setting it?"**
+
+**Ch 17 — Steel and Glass.** *(Was Ch 15, then 16.)* Late autumn → winter Yr2. The greenhouse rises: **160 ft,
 five bays**, enchanted wrought-steel frame up the frontier road on **eleven wagons**, warded, glass
 hung over three weeks — the largest structure in the valley, financed by a **second borrowing secured
 on the hill** (Penworth cautioned in person in Ch 14: "you will lose Ardenmoor. Not embarrassment. The
@@ -216,28 +238,28 @@ corner ("Ask me again at the turn of the year"). Grief beat: Essa's bedframe del
 village's unasked contributions (Lira's blankets, Mira's bolster, Kellard's mirror); the callipers
 drawer sticks and is let stay stuck.
 
-**Ch 17 — Good Roads.** The thaw chapter: the cart-road and, because the land allows it, a branch
+**Ch 18 — Good Roads.** The thaw chapter: the cart-road and, because the land allows it, a branch
 into the village. Lira engages for the first time in a year: "That's not a path to a wizard's
 tower. That's a road. To the village." The jug refilled unasked; "I'll mention it to Cael." A vote
 cast without acknowledging it was a vote.
 
-**Ch 18 — Letters Going Both Ways (THIRD-PERSON LIRA; the reader-superior chapter).** In Lira's
+**Ch 19 — Letters Going Both Ways (THIRD-PERSON LIRA; the reader-superior chapter).** In Lira's
 head for an evening: the inn's ledger and the other ledger; what she notices; what she owes and to
 whom; the letter written, folded, sealed — about the road, the boy at the well, the wizard who pays
 on the day. Intercut with the Conclave's own polite line to Emlyn closing an old inquiry: "the
 office remains interested." The reader now knows before Emlyn does. (Moved from the old Ch-12 slot,
 2026-07-14.)
 
-**Ch 19 — Even.** Twenty lamp-housing sets commissioned from Tomas against the spring patents; the
+**Ch 20 — Even.** Twenty lamp-housing sets commissioned from Tomas against the spring patents; the
 trade of a Series lamp for the smithy called even; the smith's whole answer: "Even." Then the only
 question that matters to him: "Four days?" — he is keeping the promise's calendar too.
 
-**Ch 20 — Boy's Ready.** Jorin reviews the storehouse drawings; the same root-cellar logic arrived
+**Ch 21 — Boy's Ready.** Jorin reviews the storehouse drawings; the same root-cellar logic arrived
 at from the builder's side; the rear wall set true to a compass bearing for a future no one names.
 Ren sent to the quarry alone: "Boy's ready." And at the door, the sentence carried for weeks: "He
 felt something in that cellar. During the build. Hasn't said what."
 
-**Ch 21 — The Reading.** The mid-book turn: Phase Two read palm-to-crystal. Three findings,
+**Ch 22 — The Reading.** The mid-book turn: Phase Two read palm-to-crystal. Three findings,
 escalating: the hill carries his specific shape; the predawn pulse is developing structure, the way
 sound becomes language when a mind wants to be understood; and a directional transmission, upward,
 toward the cellar's northeast corner. Toward the chest. Its quality is not alarm. It is greeting.
@@ -248,7 +270,7 @@ and passes it on. Her forty years of listening and his thirty days of instrument
 fact from two sides, and the twist's callback to 'the waiting the grandmother theorized' is earned.
 Render it BLIND (ordinary temperature, no hindsight flag); two-grandmothers question stays open.
 
-**Ch 22 — The Fork and the Paper.** Ren's assessment in the cellar: carpenter's honesty against
+**Ch 23 — The Fork and the Paper.** Ren's assessment in the cellar: carpenter's honesty against
 perceptual questions; the resonance fork struck twice; his body turning unasked toward the chest's
 corner; the sensitized paper's branching, downward-flowing imprint. *I don't know yet what it
 means* — and an oath of silence. That night, Soren's unprompted drawing: the hill, the tower, the
@@ -257,28 +279,28 @@ weights now, and the great one; it practices the shape of a word it has no mouth
 
 ## PART IV — YEAR 2, EARLY WINTER → SOLSTICE (Ch 23–29)
 
-**Ch 23 — Keeping the Promise.** Tomas gets the true shape (not everything; the chest and compass
+**Ch 24 — Keeping the Promise.** Tomas gets the true shape (not everything; the chest and compass
 stay Emlyn's): the hill is aware, it has been learning him, it was waiting before either of them
 came; Tomas was never mad and never alone. "Waiting for what?" — "I don't know yet. But I'll keep
 the promise as long as it keeps being true."
 
-**Ch 24 — The Delicate Conversation.** The apprenticeship negotiation, the relational climax.
+**Ch 25 — The Delicate Conversation.** The apprenticeship negotiation, the relational climax.
 Jorin's conditions in his own grammar: the boy finishes what he builds; the boy is not taken from
 wood and stone; the boy chooses for himself, asked plainly. Ren, asked plainly, his father present:
 "Yes. I've been answering it for a year. I'd like to know what I'm saying."
 
-**Ch 25 — The Keeper Plant.** Warm-glow chapter before the dark: the greenhouse alive; Brenna sets
+**Ch 26 — The Keeper Plant.** Warm-glow chapter before the dark: the greenhouse alive; Brenna sets
 her grandmother's plant in true ground for the first time in thirty years; by morning its leaves
 have turned — toward the hill. The council approves the village branch. Lira puts a Series lamp in
 her window.
 
-**Ch 26 — The Lab.** The storehouse finished, the hill holding the rear wall like a promise; the
+**Ch 27 — The Lab.** The storehouse finished, the hill holding the rear wall like a promise; the
 hill-cut inner chamber becomes the enchantment lab. The apprenticeship made formal the old way —
 small, domestic, binding; bread broken; Soren standing witness with the fierce arithmetic of a boy
 computing his own future. Ren's first supervised working: a lamp housing accepting its light as he
 stops pushing and starts asking.
 
-**Ch 27 — THE FIRE (new; placement locked 2026-07-14: before the finale).** An early-winter night;
+**Ch 28 — THE FIRE (new; placement locked 2026-07-14: before the finale).** An early-winter night;
 an ordinary cause the morning never quite settles (a lamp, a dry month, a flue) — the timber barn
 goes, and the cabin with it; Snow and what matters saved; the hill blameless on the page and the
 seeds (she never would settle there) left for the reader's hindsight. THE VILLAGE COMES UP THE HILL
@@ -290,13 +312,13 @@ letters stopped, and one line that closes his throat — the hand shows training
 notation, the kind of closeness that would have required her unguarded rooms in the three years
 they sat unentered before the crating.
 
-**Ch 28 — The Letter.** Grief resolves before the twist, so the twist lands on an open heart.
+**Ch 29 — The Letter.** Grief resolves before the twist, so the twist lands on an open heart.
 Solstice eve, the Study, the fire's smell still in everything he owns: he opens Arielle's mother's
 letter. It is short. It asks him to come in spring, and to bring "whatever of her still lives in
 your keeping." He sits with it until the lumen is the only light in the valley. Then he takes the
 lamp, and the key he has carried for two years, and goes down the cellar stairs.
 
-**Ch 29 — The Needle.** The twist, predawn at the winter solstice, the hill's deepest pulse almost
+**Ch 30 — The Needle.** The twist, predawn at the winter solstice, the hill's deepest pulse almost
 a word. The chest opened at last: wrapped in her scarf, the Planewright's Compass, waking at his
 touch for the first time since her hands last held it. The needle turns once, settles, and points
 straight down. The hill has never been greeting the compass. It has been waiting for someone to

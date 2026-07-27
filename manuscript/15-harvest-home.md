@@ -123,35 +123,3 @@ It was, near enough. A natural pocket in the hill's stone, dry as a bone, perhap
 Ren said, "It's a good place," which was not a builder's remark, and I noticed it, and said nothing, and neither did his father.
 
 We put the hazel back over it and went up.
-
-Now, the money, since I have been promising it and the whole of the rest of this book turns on it.
-
-It was a poor harvest. I had better say that plainly at the start, because I have told it warmly and the warmth was real, and the figures were not.
-
-They were never going to be good. Hal had spent his first year doing what I had told him to do when I set the terms, which was breaking rough ground and cursing me, and a field coming back off a decade of thistle and old couch-grass does not repay that first year's labour; it repays the third. My own acres were the same ground in the same condition and gave the same answer. And the rest of it, the odd strips and forgotten corners of the four dead men's holdings that had a few old souls still scratching along on them when I bought the place, and who were mine now whether any of us liked it, brought in what such tenancies bring in when nobody has looked at the terms in twenty years. Which is to say: little, late, and largely in kind.
-
-I do not want to be misunderstood. The land paid me something that autumn. For the first time since I put my name to anything, the ground under my feet handed money up to the man who owned it, and I felt that, and it mattered. But it was a fraction of what that valley could do, and everybody who looked at it knew as much, and Hal Wray knew it best of all.
-
-Add it up, then, as I added it up at the cabin table with the rain on the window.
-
-The crop money, all of it, mine and the rents together, would not by itself have paid the note. What paid the note was the completion money out of the city, the second half of the price of the house I had never lived in, which arrived that same month, and which I signed over to Penworth practically at the door. Between the two of them the second payment went out in full and on the day, and I did not miss it, and there is no small thing about that: the note has never once caught me late, and if I have any pride in that whole business it is there.
-
-And what was left, when I had swept every corner of it together, came to almost exactly the cost of the materials for the glasshouse. The steel, the glass, the stove, the ducting, the crated fittings, freight included at Penworth's nine per cent under. I paid it all out and watched it go.
-
-That was every liquid coin I had in the world. Not a figure of speech. When the last of it went off to Wainford with Kellard's carter I had, in the box on the shelf where I kept ready money, eleven shillings and some copper, and a lamp order half finished on the bench that would bring in a little more before the frost.
-
-I had a hill, a debt with a hill inside it, a second debt on top of that, eleven shillings, and enough steel and glass lying in crates on my own slope to build the largest building in the valley.
-
-What I did not have, in any form whatever, was one copper toward paying a man to put it up.
-
-I put the pen down and sat with it. Outside the dark came on and the dusk-fail pulse came up through the floor, faithful as it ever was, and entirely unhelpful.
-
-It was Jorin who said it out loud, three days later, standing on the southeast slope with the drawings rolled under his arm and the pegged-out line of the thing running away downhill from us both, longer than the village street, marked in the grass like the outline of a beached whale.
-
-"Steel's bought, then," he said.
-
-"Steel's bought."
-
-He looked down the line of pegs a while, and then at me, with the particular patience of a man waiting for another man to arrive at a subject on his own.
-
-"And who's setting it?"

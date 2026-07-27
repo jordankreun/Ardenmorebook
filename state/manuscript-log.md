@@ -7,8 +7,8 @@
 ## PROGRESS
 
 - Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–**16** + **Interludes I–II** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
-- Word count so far: ~57,000 / ~90,000–100,000 target (full ~28-chapter shape, session-lock #10).
+- Drafted: Prologue + Chapters 1–**17** + **Interludes I–II** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
+- Word count so far: ~61,000 / ~90,000–100,000 target (full ~28-chapter shape, session-lock #10).
 - **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8–9 are Part II (winter → spring, Year 2).
 - **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
   like real novels; short chapters ~1,500–2,500 fine, some longer). Ch 9 is a deliberately shorter
@@ -868,7 +868,7 @@ was cut). And it does the new thing: it "says him back," saying Emlyn's shape in
 its own two ancient risings — "kept company in the dark for the first time in an age." (Renders Ch 14's
 "learning me" in the hill's wordless voice; does NOT state the twist.)
 
-[16] Steel and Glass — Late autumn → winter Yr2 (~20–22 mo). (Was Ch 15; SWAPPED with Harvest Home 2026-07-15.) PART III. **⚠️ RESCALED + EXPANDED 2026-07-15 (author direction: make the greenhouse potentially bankrupting; 3,143→4,020w):** the house is now **160 ft × 5 bays**, up the road on **ELEVEN wagons**, the largest structure in the valley, financed by a **second borrowing secured on the hill** (Penworth's in-person caution moved to Ch 14). The harvest paid the note and the MATERIALS; **LABOUR was unfunded**, which is the problem this chapter now solves: Emlyn goes to Jorin's door to say he cannot afford him, and **JORIN turns it over** — nobody builds in that valley between frost and thaw, but **steel and glass do not care about frost**, so this is the first winter work his crew has ever had ("I have wanted a winter's work for my men for eleven years and you have just walked down my hill and offered me one"). Terms: winter rate, half weekly from lamp money, **half DEFERRED against the glasshouse's first two selling seasons, written and signed**; Ren on a man's wage; Tomas's ironmongery deferred; Kellard's cheap haulage. Jorin on the risk: "I'd sooner have [lost a winter's wages] than watch [you lose your hill] for want of asking." Jorin's verdict at the footings: **"Big for one man."** The GREENHOUSE (1,814w):
+[17] Steel and Glass — Late autumn → winter Yr2 (~21–23 mo). (Was Ch 15, then 16; renumbered 2026-07-15 when The Rent Book was inserted.) PART III. **⚠️ RESCALED + EXPANDED 2026-07-15 (author direction: make the greenhouse potentially bankrupting; 3,143→4,020w):** the house is now **160 ft × 5 bays**, up the road on **ELEVEN wagons**, the largest structure in the valley, financed by a **second borrowing secured on the hill** (Penworth's in-person caution moved to Ch 14). The harvest paid the note and the MATERIALS; **LABOUR was unfunded**, which is the problem this chapter now solves: Emlyn goes to Jorin's door to say he cannot afford him, and **JORIN turns it over** — nobody builds in that valley between frost and thaw, but **steel and glass do not care about frost**, so this is the first winter work his crew has ever had ("I have wanted a winter's work for my men for eleven years and you have just walked down my hill and offered me one"). Terms: winter rate, half weekly from lamp money, **half DEFERRED against the glasshouse's first two selling seasons, written and signed**; Ren on a man's wage; Tomas's ironmongery deferred; Kellard's cheap haulage. Jorin on the risk: "I'd sooner have [lost a winter's wages] than watch [you lose your hill] for want of asking." Jorin's verdict at the footings: **"Big for one man."** The GREENHOUSE (1,814w):
 an enchanted wrought-steel frame up the frontier road on four wagons, warded, glass hung over three
 weeks — the first thing on the hill the valley "could not pretend was ordinary." Meant as "the years'
 bread" (earns from the ground, not the bench), Brenna's trade + Emlyn's craft. Brenna plans the soil
@@ -912,6 +912,28 @@ sale is now two tranches: exchange in Ch 12, completion this autumn), signed str
 Second payment made in full and on the day. What was left = almost exactly the greenhouse MATERIALS.
 After paying it: **eleven shillings and some copper** and a half-finished lamp order. NOTHING for LABOUR. CLOSING (dialogue):
 Jorin on the pegged-out slope, **"And who's setting it?"** prose-lint clean (2 welds split).
+
+[16] The Rent Book — Autumn (October) Yr2 (~20 mo). ⚠️ NEW CHAPTER (author's call 2026-07-15); all
+chapters after it shift +1. 3,314w. Penworth's one-line letter forces Emlyn to find out who is actually
+living on the land he bought eighteen months ago. He reads his own deeds and finds **a jigsaw with
+pieces missing and other men's pieces in the box**: a 3-acre strip through the middle of the Wrays'
+best field, a cottage corner, 2 acres of the NE meadow, ~30 acres of good plough-land unreachable for
+want of a way in. **Eleven days on foot with a notebook; five inherited occupiers** — Ned Pardon
+(cheese and fleece by custom, paid to nobody for eleven years), **Alice Bewick** (three children, no
+husband, the rent counted out and gone hungry for; **Emlyn refuses it** — "a rent that must be starved
+for is not a rent"), the Tolls' widow, Cob Ferris, and **TOBIN HASK**. Arrears are pitiful and nearly
+all uncollectable: he comes home with **a cheese, a fleece, and a notebook**. The consolidation is done
+by DEAL on one publicly announced rule — **nobody is to be worse off** — with Hal Wray consulted first
+("There's ways to make a man deal that aren't asking." / "I know it." / "My last landlord knew a few of
+them."). Bewick trades up to 5 acres and a byre; the widow takes a lifetime's firewood; Ferris swaps
+and thinks he swindled him. **HASK refuses twice; the third time Emlyn brings CAEL up his path** and it
+works, and Hask takes the deal, never works it, goes to a daughter in Wainford and dies there. Emlyn
+does not absolve himself: *"you will have the power to do a small ugly thing for a good reason, and no
+one will ever call you on it."* THE GIFT: **TAM WRAY, 17**, gets **twelve acres in his own name**, seed
+on Emlyn's account; Hal, at the door: **"He's better than me."** Tam joins the glasshouse crew for the
+wage that becomes his seed money. CLOSING (dialogue): Jorin on the pegged slope, **"And who's setting
+it?"** (moved here from Ch 15). NEW FACTS: five named occupiers; the consolidation; Tam's holding;
+"nobody is to be worse off"; the Hask moral debit. prose-lint clean.
 
 PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
 
