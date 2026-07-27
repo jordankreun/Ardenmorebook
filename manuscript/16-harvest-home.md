@@ -62,7 +62,7 @@ Nell was not interested in whether it was fair. She was interested in an answer.
 
 "But not *always*." She sat back. "So what are you *for*, then?"
 
-I want to record that this is the single hardest question anybody put to me in the whole of that year, and that it was put to me by a seven-year-old over a plate of beans, and that I did not answer it well.
+That was the single hardest question anybody put to me in the whole of that year, and it was put to me by a seven-year-old over a plate of beans, and I did not answer it well.
 
 "Nell," said Bess, in a voice with real edge in it now, going red, "that's enough of it."
 
@@ -108,7 +108,7 @@ Hal looked up. "Aye," he said. And then, after a moment, having got the hard par
 
 That was the whole of the speech, and from Hal Wray it was an oration.
 
-I walked back with Jorin and Ren, who had come down for the supper as half the valley had, and who were going my way as far as the hill track. And that is how the storehouse got found, and it is worth setting down, because I have heard it told since as though I dowsed the site out by art, and what actually happened is that a fifteen-year-old wanted a place out of the wind for a piss.
+I walked back with Jorin and Ren, who had come down for the supper as half the valley had, and who were going my way as far as the hill track. And that is how the storehouse got found. I have heard it told since as though I dowsed the site out by art. What actually happened is that a seventeen-year-old wanted a place out of the wind for a piss.
 
 We were coming up the east side in the dark. Ren went off into the scrub on the green shelf where the grass grows a deeper colour than it has any business growing, and did not come back for a while, and then called out, in a strange flat voice, "Da. Come here."
 

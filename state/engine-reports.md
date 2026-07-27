@@ -130,3 +130,27 @@ counts: Ch10 2,432w/48% dialogue; dashes=0; echoes 0; welds=0; receipts clean; w
 kept:   Ch2's Cael line is quoted verbatim in Ch10 as a deliberate callback and is NOT registered in the phrase-registry (registering a callback would create false reuse-FAILs; per SKILL, callbacks go in the registry's comments, not its rows).
 misses: 2026-07-15 the rebuild BROKE a reference I had written the same day: Ch17 said Hal "had stood in my yard on a Sunday," which was true of the version being replaced and false of the walk. Caught by reading the dependent chapter, not by any tool. → this is the restructuring-damage class again, and it is now clear that the rule must be "after editing chapter N, grep every LATER chapter for references to what changed in N," not merely "re-read the neighbours."
         AUDIT RESULT (the property throughline, Ch2→Ch19): COHERENT. The chain is Cael's "four men's idle acres stitched into the one holding" (Ch2, before purchase) → the note and the need for tenants (Ch3) → the money trap (Ch9) → THE WALK, where the stitching turns out to be pen-and-paper only (Ch10) → the meagre harvest that follows from it (Ch16) → the reckoning, "nothing in it I had not been told" (Ch17) → consolidation by trade (Ch18) → labour bought with craft (Ch19). Acreage arithmetic closes: 40 (Wrays) + 3 (Hask, through it) + 2 (Bewick corner) + 2 (Tolls, meadow) + ~30 (four unreachable parcels, of which Tam takes 12 and ~18 stay open). No contradictions found across 19 chapters.
+
+
+## 2026-07-27 — FULL ADVERSARIAL EDITORIAL PASS (Ch 00–19, six parallel editors + whole-book sweep)
+Five span editors (editorial-read charter) + one cross-chapter continuity sweep over ~68k words.
+**Findings: 5 BLOCKER, ~24 MAJOR, ~14 MINOR confirmed after receipt-verification; 2 findings
+rejected on verification** (fleece arithmetic is correct as written: 11 in the loft, current year's
+taken, 10 on the cart; the Tolls-meadow "sold entire" conflict dissolves under the tenancy-roll fix).
+**All confirmed BLOCKERs and MAJORs fixed** across 20 chapter files, including: Ch 10's
+chapter-about-a-house fossil; Ch 19's duplicated Tomas/Kellard settlements; Ch 17's not-mine vs
+five-rents contradiction (tenancy-roll language); Ch 17's mis-dated walk (April same year, not a
+year and a half); Ch 1 letter misquote; Ch 1 buyer/bridge-loan mechanism unified with Ch 3; Ch 3
+opening dedup vs Ch 1–2; Ch 9 pre-introduction of Hal Wray + deep-time trims; memoir-frame breaches
+(set down here / promised you the truth / I want to record / another book) in 05, 06, 11, 14, 15,
+16, 17, 19; interlude POV repairs (07b paste-dup, 15b named feelings + telegraph); Soren-seed
+telegraph cut (14); Tomas confession de-glossed (12); Ren's age (17 at harvest); glass-crates
+timing (18 vs 19); quarter = forty feet (19); Tolls' widow given a voice (17); second-stone
+promise tended (17); spellbook registered in the crate list (13); bolded tenant names stripped
+(17, 18); lamps-refrain echo reduced to Ch 3 only (vouch row retired); Jorin's closing speech cut
+to its first clause (19).
+**Known-remaining (accepted, logged not hidden):** Ch 1 arithmetic-of-magic essay could still lose
+a third (unread tail, deferred); Ch 4 "the way X" simile density and Ch 2 great-deal density remain
+1–2 over budget (WARNs, pre-existing); Ch 7 Soren-revelation refocus deferred (needs a scene-level
+rewrite, not a line fix); Ch 15:33 explanatory middle deferred.
+**Lint: all 22 files zero FAILs; no em dashes; doc-audit clean.**

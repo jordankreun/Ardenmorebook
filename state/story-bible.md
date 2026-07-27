@@ -1282,7 +1282,8 @@ show release. The coarse curve, so no chapter overshoots:
      people's lives grown up through the middle of it like the hawthorn through that wire."*
      Hal does NOT ask him to fix it — he walks him over it so that when the field comes in short,
      Emlyn will know why and cannot lay it at his door. **Emlyn puts it on a list and does not touch
-     it for eighteen months** ("Hal had said people, and I heard paperwork").
+     it for half a year** ("Hal had said people, and I heard paperwork"; the walk is April Yr2, the
+     reckoning October Yr2 — ⚠️ fixed 2026-07-27, the prose previously said "eighteen months").
   5. **Ch 16:** the meagre harvest; he cropped only "as much as I could get a plough to, which was
      less than half of it and not the best half" — a direct consequence of link 4.
   6. **Ch 17 "The Rent Book":** the RECKONING, not a discovery — *"there was nothing in it I had not

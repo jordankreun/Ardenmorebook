@@ -20,13 +20,13 @@ Two words, and then the old silence after them, the silence of a man standing at
 
 It took him a while to come to it. I let it take as long as it wanted.
 
-"I hear it," he said, at last. "Up there. Have done a good while." He was quiet again. "Two year, near enough. Longer, maybe. It's a hard thing to say when a thing began that you spent the first of it telling yourself was nothing."
+"I hear it," he said, at last. "Up there. Have done a good while." He was quiet again. "Two year, near enough. Longer, maybe."
 
 Now here is the place a lesser evening would have gone wrong, and where I might well have gone wrong in it, and did not, and have been glad of the not every day since. I did not tell him he was right. I did not tell him what I knew, which was a good deal more than he was telling me, and older, and which lay awake with me at the very hours he was speaking of. That was mine. I was not ready to hand it to anyone, and in any case a man does not answer another man's hard confession by turning it round to his own. But I did not tell him he was wrong, either, which is the thing men do to one another most, and mean kindly by it, and it is the cruelest thing on offer. I did not tell him he was tired, or lonely, or that a solitary trade breeds queer notions in the quiet.
 
 I said, "At dusk. And again before it's light."
 
-He looked at me then, full on, which he did not do; he was a man who talked to his work and let you watch him do it. And something happened in that big still frame of his that I will not insult by naming, except to say this. A weight a man has held alone for two years changes him in the holding. It sets into his shoulders and his jaw and the way he stands over his own fire. I watched a portion of that go out of him in the space of a single breath, there in the red light of the banked coals, because another living soul had named the second hour before he could. He had not said before dawn. I had. That was how he knew I was not humoring him. You cannot humor a man with a fact he has told to no one.
+He looked at me then, full on, which he did not do; he was a man who talked to his work and let you watch him do it. And something happened in that big still frame of his that I will not insult by naming, except to say this. A weight a man has held alone for two years changes him in the holding. It sets into his shoulders and his jaw and the way he stands over his own fire. I watched a portion of that go out of him in the space of a single breath, there in the red light of the banked coals, because another living soul had named the second hour before he could. He had not said before dawn. I had.
 
 "Then what is it," he said.
 
@@ -46,7 +46,7 @@ He took that in the way he took the weight of a thing before he would lift it, t
 
 And the hammer came down, and the forge took up its steady beat again as though it had never once left off, and I paid him for my collars and finished the wrapping of them myself and rode up my hill in the dark with the ring of his work following me the length of the street until the turn of the track took it.
 
-I did not know, going up, that I had just that evening wound a clock that would keep time in my life for years. But that is what the giving of the word had done. From that night Tomas carried the thing differently, which is to say he no longer carried it by himself, and every time I came down for iron after, he would look up from the work and put the question to me without troubling to say it, only a small lift of the chin toward the hill above the roofs. And every time, for a long while, I gave him the same answer, and it was the only honest one I had, and it was two words, the way so much between the two of us was two words. We kept a slow patient time on it, he and I, the way you count the long gap between the lightning and the thunder, knowing the storm is real, and a distance off, and coming, and that there is nothing to be done in the meantime but count, and wait.
+From that night Tomas carried the thing differently, which is to say he no longer carried it by himself, and every time I came down for iron after, he would look up from the work and put the question to me without troubling to say it, only a small lift of the chin toward the hill above the roofs. And every time, for a long while, I gave him the same answer, and it was the only honest one I had, and it was two words, the way so much between the two of us was two words. We kept a slow patient time on it, he and I, the way you count the long gap between the lightning and the thunder.
 
 He would lift his chin at the hill. And I would shake my head, small, and tell him the truth.
 

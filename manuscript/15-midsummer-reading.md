@@ -6,7 +6,7 @@
 
 I opened the cellar on the thirtieth day, in the flat white heat of the year's middle, and went down into the cold to hear what the stone had heard.
 
-The reading of such a blank is not a dramatic business, whatever a tale would tell you. There is no voice out of the crystal, no light, no shiver up the arm. What there is, is patience, and a quiet room, and a wizard sitting cross-legged on a cold floor with his hands laid flat to either side of a palm of grown quartz, letting the month it had held come up into him slow, the way you let your eyes adjust to a dark room rather than lunging about in it. I had built the thing finer than my own senses on purpose. Now I had to be patient enough to deserve what it had caught.
+The reading of such a blank is not a dramatic business, whatever gets said of it now. There is no voice out of the crystal, no light, no shiver up the arm. What there is, is patience, and a quiet room, and a wizard sitting cross-legged on a cold floor with his hands laid flat to either side of a palm of grown quartz, letting the month it had held come up into him slow, the way you let your eyes adjust to a dark room rather than lunging about in it. I had built the thing finer than my own senses on purpose. Now I had to be patient enough to deserve what it had caught.
 
 It took me the better part of two days, going down morning and evening, and I will give you the shape of what I found, because the shape is what mattered, and because I set it all down that summer in a hand I can still read, in the small brown book that was not the dead woman's but my own, the one I kept for the hill.
 
@@ -34,8 +34,6 @@ I did not decide to. I was on my feet and through the door with the kettle still
 
 I stood out there until my heart came down. Then I went in and took the kettle off and felt an ass, that being the usual end of such moments, and the pulse came again before dawn, and I slept through it, and in the morning it was the hill again and I was myself again and the whole thing had the ridiculous cast that night-fears have by daylight.
 
-I mention it because it happened, and because I have noticed that men who write accounts of their own work leave out the evenings, and their accounts are the poorer and the less true for it.
-
 Penworth came up the road two days after, which I had not looked for.
 
 I had thought, when his letter said he would come himself with the summer's accounting rather than send it, that he meant to meet me at Wainford and turn straight round, Penworth being a man who regarded travel as a tax on the living. Instead he came the whole way up the frontier road and up my track, in a good plain coat gone grey with dust, on a hired horse he sat like a man who would rather have been sitting on a chair, and he drew rein at the edge of the crown and looked at the Study standing grey and square and true on its hill, and at the house below it, and the little green of the bottoms where the Wrays' crop was coming on, and he was quiet a moment longer than Penworth was ever quiet about anything.
@@ -62,7 +60,7 @@ So I showed him the hill, and he came round it at his own pace with his hands be
 
 It was on the southeast slope, on the second afternoon, that I told him what I meant to do.
 
-I had been working up to it since he arrived, in the way a man works up to telling his banker a thing his banker will not care for, and I had chosen the ground on purpose, because the ground was the argument. We stood on the long open slope below the crown that catches the sun from the first of it to the last, a good acre and a half of south-and-east facing hillside doing nothing whatever, and I laid it out for him: a glasshouse. Not a gardener's box. A glasshouse a hundred and sixty feet long and five bays deep, wrought steel and glass, warded frame to footing, with propagation houses at the cold end and a stove to hold the frost off the whole of it through a frontier winter. Something to grow what the valley could not grow, out of the season the valley could not grow it in, at the price such things fetch in a city a week's road away and every mining town between here and here.
+I had been working up to it since he arrived, in the way a man works up to telling his banker a thing his banker will not care for, and I had chosen the ground on purpose, because the ground was the argument. We stood on the long open slope below the crown that catches the sun from the first of it to the last, a good acre and a half of south-and-east facing hillside doing nothing whatever, and I laid it out for him: a glasshouse. Not a gardener's box. A glasshouse a hundred and sixty feet long and five bays deep, wrought steel and glass, warded frame to footing, with propagation houses at the cold end and a stove to hold the frost off the whole of it through a frontier winter. Something to grow what the valley could not grow, out of the season the valley could not grow it in, at the price such things fetch in a city a week's road away and every mining town between here and there.
 
 Penworth heard the whole of it without once interrupting. That is his way of taking a thing seriously. Then he asked what it cost.
 

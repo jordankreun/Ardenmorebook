@@ -4,7 +4,7 @@
 
 ### Chapter Ten: Walking the Bottoms
 
-I have got ahead of myself with the house, which is a thing a man does when he is proud of a piece of work. Go back to the front of that spring, to the thaw and the sums and the hill I could not make pay, and there is one more piece of that year to set down, and it is the piece that mattered most in the end, though it took me a great while to see it.
+I have got ahead of myself with the house, which is a thing a man does when he is proud of a piece of work. Go back to the front of that spring, to the thaw and the sums and the hill I could not make pay, and there is one more piece of that year still to tell.
 
 I could not farm. That was the whole of the difficulty. I had good ground in the bottoms and no notion what to do with it, and a note coming due that the ground was supposed to answer.
 
@@ -50,15 +50,13 @@ Bess Wray looked up from the doorway at that, one quick look, and I saw her and 
 
 They came across a fortnight later, the Wrays, all their world on one borrowed cart, and I did little for them beyond the giving of the ground, for a man breaking in a field does not want a wizard underfoot. But I went down now and again through that spring, drawn by something I did not examine too closely, and stood at the edge of the bottoms and watched a dead field come back to life under one family's hands, the thistle going down before Hal's share and the black earth turning up wet and waiting behind him, Bess and the older children following to pick the stones, and I found that watching it moved me in a way I had not predicted. I had spent my whole working life making things happen by will and by working, reaching into the shape of the world and asking it, politely or otherwise, to be other than it was. And here were two people making a far older and better kind of thing happen by nothing but their own bent backs and the turning of the year, asking the ground for nothing it had not always been ready to give, and it humbled me in a way the hill for all its wonders never quite had.
 
-But this is meant to be a chapter about a house, and I have let it wander off into a field, so let me come back up the hill, where I was building one.
-
-I walked the bottoms with Hal Wray a fortnight after they came across, and that walk turned out to be the important part of that whole spring, though I did not know it while I was doing it.
+I walked the bottoms with Hal Wray a fortnight after they came across.
 
 It was his idea, not mine. He sent word up by the Wednesday boy that if I had a morning he would be obliged to show me something, which is how a careful man says he has found a problem and does not wish to be blamed for it. I went down on a bright cold morning at the front of April with my coat buttoned and no notion whatever that I was about to be taught my own property.
 
 We started at the beck end and walked up.
 
-"That's yours," Hal said, of the first stretch, and it was: eighty-odd acres of good flat ground with a hedge one side and water the other, thistled to the knee and waiting for a plough. He walked me up the middle of it, and about a third of the way along he stopped and stood and said nothing, and let me work it out, which took me an embarrassing length of time.
+"That's yours," Hal said, of the first stretch, and it was: eighty-odd acres of good flat ground with a hedge one side and water the other, the thistle just beginning to go down before his share at the near end and standing to the knee over all the rest. He walked me up the middle of it, and about a third of the way along he stopped and stood and said nothing, and let me work it out, which took me an embarrassing length of time.
 
 There was a change in the ground. Not a fence, not a ditch, nothing a man would notice at speed. A line where the thistle gave way to older, ranker growth, ran along a few dozen paces, and gave back again.
 
@@ -68,7 +66,7 @@ There was a change in the ground. Not a fence, not a ditch, nothing a man would 
 
 "Hask's what?"
 
-"Hask's strip." He said it patiently. "Six acre, near enough. Beck to the hedge. Runs through the middle of your field."
+"Tobin Hask's strip." He said it patiently. "Six acre, near enough. Beck to the hedge. Runs through the middle of your field."
 
 I said something I will not set down.
 
@@ -88,7 +86,7 @@ We came to a corner of the same field with a cottage in it and a garden that sto
 
 "Ten year? Twelve." He shrugged. "There was a falling-out. I couldn't tell you what over. My father might have known."
 
-And beyond that gate, which nobody living could remember the reason for, lay four parcels of good plough-land, sixty acres of it or better, gone entirely back to thistle and scrub and young birch, because the only lane to them ran through the ground of a man who had wired his gate over a quarrel nobody could now recall, and everyone had eventually stopped trying, and the ground had simply been let go.
+And beyond that gate, which nobody living could remember the reason for, lay parcel after parcel of good plough-land, sixty acres of it or better, gone entirely back to thistle and scrub and young birch, because the only lane to them ran through the ground of a man who had wired his gate over a quarrel nobody could now recall, and everyone had eventually stopped trying, and the ground had simply been let go.
 
 I stood at that gate a long while.
 
@@ -106,4 +104,4 @@ I asked him what he wanted done about the strip, and he said nothing at all; he 
 
 I said I would look into it. I remember saying it. It was the sort of thing I said in those days when I meant that a thing had gone onto a list.
 
-And onto the list it went, under the Study and the lamps and the first winter and the note and the lamp trade and the glass, and there it sat for eighteen months while I did not touch it. I have wondered since why, and I have only the one honest answer, and it does me no credit at all. Hal had said *people*, and I had heard *paperwork*. Paperwork can wait. People, as it turned out, had been waiting eleven years already.
+And onto the list it went, under the note and the summer and the lamp trade and the glass, and there it sat for half a year while I did not touch it. I have wondered since why, and I have only the one honest answer, and it does me no credit at all. Hal had said *people*, and I had heard *paperwork*. Paperwork can wait. People, as it turned out, had been waiting eleven years already.

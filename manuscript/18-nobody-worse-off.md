@@ -18,7 +18,7 @@ I put it to Hal Wray first, because he had the most to gain, and because Hal wou
 
 We walked the bottom-field together on a bright cold morning with the stubble crackling under us, and I showed him the plan, and he looked at it a long time, holding it the way a man holds a paper he is not certain he is allowed to disagree with.
 
-"You can read it," I said. "Bess taught you or you taught yourself, I don't much care which. Tell me what's wrong with it."
+"You know this ground better than any paper does," I said. "Tell me what's wrong with it."
 
 He put his thumb on Hask's strip. "That."
 
@@ -46,13 +46,13 @@ He almost smiled.
 
 What we came to, over that autumn, and what Cael put his weight behind when I asked him to, and what Penworth turned into paper that a narrow-minded person could read, was this.
 
-**Ned Pardon** kept his scrub for life, rent as it had always been, cheese and fleece, and I put it in writing that his was the ground and no man could put him off it while he wanted it, which I do not think anybody had ever offered him. He seemed to find the paper faintly insulting and kept it anyway.
+Ned Pardon kept his scrub for life, rent as it had always been, cheese and fleece, and I put it in writing that his was the ground and no man could put him off it while he wanted it, which I do not think anybody had ever offered him. He seemed to find the paper faintly insulting and kept it anyway.
 
-**Alice Bewick** gave up her cottage's corner of the bottom-field, which was four acres and awkward, and took instead the whole of a ten-acre parcel with a sound old byre on it, nearer the lane, better ground, with a spring. Rent free for three years while she got it into heart, then a tenth, on the Wrays' terms, on the Wrays' paper. She read the agreement twice, asked one question about the byre roof, and signed it in a hand like a schoolmistress's. Her son works that ground now. It is one of the better small farms in the valley.
+Alice Bewick gave up her cottage's corner of the bottom-field, which was four acres and awkward, and took instead the whole of a ten-acre parcel with a sound old byre on it, nearer the lane, better ground, with a spring. Rent free for three years while she got it into heart, then a tenth, on the Wrays' terms, on the Wrays' paper. She read the agreement twice, asked one question about the byre roof, and signed it in a hand like a schoolmistress's. Her son would work that ground after her, and it would come to be one of the better small farms in the valley.
 
-**The Tolls' widow** was glad to be rid of that thistled scrap and gladder still to be paid something for it; I had no money, so what she took was a lifetime's firewood off my woodland strip, cut and carted, which cost me nothing but Ren's winter afternoons and which she counted a fortune. That is the whole substance of the deal that gave me the north side of the meadow entire.
+The Tolls' widow was glad to be rid of that thistled scrap and gladder still to be paid something for it; I had no money, so what she took was a lifetime's firewood off my woodland strip, cut and carted, which cost me nothing but Ren's winter afternoons and which she counted a fortune. That is the whole substance of the deal that gave me the north side of the meadow entire.
 
-**Cob Ferris** exchanged his unreachable strip for a nearer one twice its worth, and thought he had swindled me, and told people so for years, and was welcome to it. The nearer strip was one I could not reach either.
+Cob Ferris exchanged his unreachable strip for a nearer one twice its worth, and thought he had swindled me, and told people so for years, and was welcome to it. The nearer strip was one I could not reach either.
 
 That left Hask.
 
@@ -100,7 +100,7 @@ His reply, when it came, was one line again.
 
 By his reckoning it was eleven marks, which is how money talks when it lives in a bank. By mine it was eleven silver and four copper, and the coppers were in my coat and I could not have told you how they got there.
 
-The note was paid. The materials were bought and lying in crates on the southeast slope under canvas, a hundred and sixty feet of steel and four hundred panes of glass. And the whole of the money in the world that I had to put men on it with was the four copper in that coat and eleven silver in a box on a shelf, because the last real hope of a wage bill had been five holdings of arrears, and I had walked eleven days to find out that it did not exist, and had given away most of what did.
+The note was paid. The materials were bought, the steel lying in crates on the southeast slope under canvas, a hundred and sixty feet of it, and the glass paid for and still on the road behind it. And the whole of the money in the world that I had to put men on it with was the four copper in that coat and eleven silver in a box on a shelf, because the last real hope of a wage bill had been five holdings of arrears, and I had walked eleven days to find out that it did not exist, and had given away most of what did.
 
 I sat at my own table on a black November evening and understood, without any particular drama about it, that I had made everything I owned into a bet on one glasshouse and had nothing whatever left over for the building of it.
 

@@ -14,6 +14,6 @@ This weight came and lay down on the crown in the dark and was still, and after 
 
 It knows the edges of the weight a little now. There is a smaller weight that comes with it, quick and grave, that lays a bare hand flat on the stone and goes very still, the way almost nothing goes still. There is a light, lately, on the crown, that drinks the fall-of-light rising and gives it back gentled, so that the hill's own slow risen thing burns now where the weight can see by it. None of this is anything the hill has words for. It has weight, and warmth, and a turning-toward, and that is enough.
 
-Far off across the low ground, past the meadow, the hill feels the old one in the wood, far off across the low ground, turn its long attention toward the crown, and hold there, and wait, as it has always waited.
+Far off across the low ground, past the meadow, the hill feels the old one in the wood turn its long attention toward the crown, and hold there, and wait, as it has always waited.
 
 The hill settles the weight deeper into the good grain and holds it there. Above it in the dark a light burns steady, and the hill turns toward that too. It has waited a long time. It can wait longer. But the grain has changed its lie, the way a slope changes the year the water first finds a new way down it, and it will not change back.

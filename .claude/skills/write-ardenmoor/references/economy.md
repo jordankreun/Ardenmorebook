@@ -310,8 +310,9 @@ carrying **the bridge plus an older debt**, so it **recovers about half.**
 → Emlyn emerges **outright, unencumbered owner of ~5,500 acres.**
 
 **⚠️ THE SIX-MONTH CLEARING GAP IS THE LOAD-BEARING DEVICE.** The money does not arrive at once.
-Two tranches, per existing canon: **exchange ~4,000 gold, spring Yr 2 (Ch 12)**; **completion
-balance ~2,500 gold, autumn Yr 2 (Ch 16)**. Through that window he is committed to money he does not hold.
+Two tranches, AS ON THE PAGE (⚠️ corrected 2026-07-27 to match the prose): **exchange ~4,000 gold
+arrives midsummer Yr 2 (Ch 13) and is SET BY against the midsummer note payment**; **completion
+balance ~2,500 gold, autumn Yr 2 (arrives around the harvest, Ch 16/19)**. Through that window he is committed to money he does not hold.
 
 ---
 
