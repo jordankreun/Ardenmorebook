@@ -158,11 +158,17 @@ other owners and from unclaimed common/parish ground: [PAGE ch2, revised per rea
      draining and had never once been offered it"** (Ch 3). **PAPERWORKED, not bought at market**
      (nominal parish/township price + survey and legal fees; no fencing, no roads).
   **Workable ~400 acres, of which only ~174 is named on the page** (see story-bible); the rest is
-  unnamed reserve for future tenants. **⚠️ LATENT ASSETS (both blocked by remoteness, both unlock
-  with ACCESS):** (1) the moor's **sporting/grouse** value — sporting tenants are city men and the
-  valley is four days past the railhead; (2) ⚠️ **THE RAILWAY CHOKE-HOLD** — as assembled, the
-  holding commands the ground any rail extension past Wainford must cross. **Latent fact, UNSTATED
-  on the page pending the author's call on who knew (see economy.md §7).** → **Ch 20 "Good Roads."**
+  unnamed reserve for future tenants. **⚠️ LATENT ASSETS — BOOKS TWO/THREE, NOT BOOK ONE (all
+  blocked by remoteness, all unlock with ACCESS):** (1) the high ground's **sporting/grouse** value,
+  blocked because sporting tenants are city men and the valley is four days past the railhead; (2)
+  the **woodland timber**, real money the day a road can carry it out; (3) the **undrained reach**;
+  (4) ⚠️ **THE RAILWAY CHOKE-HOLD** — as assembled, the holding commands the ground any rail
+  extension past Wainford must cross. **Latent fact, UNSTATED on the page pending the author's call
+  on who knew (see economy.md §9).**
+  ⚠️ **NO ACCESS ARRIVES IN BOOK ONE.** **Ch 20's cart-road is LOCAL** (hill → his own woodland →
+  the existing main road, plus a village branch), built with quarry stone and bartered labour.
+  Wainford is still four days off afterward and **the estate's economics do not change.** Its
+  village branch has no economic justification at all, which is exactly why Lira notices it.
   Full model: `.claude/skills/write-ardenmoor/references/economy.md`.
 - **The hill** and its slopes. **Cael's to sell** (inherited from his grandmother). [PAGE ch2]
 - **The woodland** along the low road — mixed timber (oak, ash, and a planted **larch stand** a

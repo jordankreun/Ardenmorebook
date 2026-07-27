@@ -47,8 +47,8 @@ grow. Ground is worth what it can carry to a market, and every mile between the 
 price."*
 
 **Cael's version, in his own idiom (Ch 2):** *"Land wants two things, and it's the same two things
-everywhere I've ever heard of. It wants hands and it wants a road. You've bought yourself a great
-deal of land with neither."*
+everywhere I've ever heard of. It wants hands and it wants a road. You've bought yourself a deal
+of land with neither."*
 
 → **Hands and a road.** That is the book's whole economic problem, stated by a farmer in one
 breath, and both halves are solvable. That is what makes this a cozy novel about building rather
@@ -265,21 +265,66 @@ different way, and more interesting.
 
 ---
 
-## 8. LATENT ASSETS (what makes this a build, not a tragedy)
+## 8. ⚠️ WHAT ACTUALLY PAYS IN BOOK ONE (value density, not acreage)
 
-Everything below is **real value Emlyn already owns and cannot yet reach.** They are the payoff
-structure of Books One–Three, and every one of them unlocks with **access**.
+**⚠️ NO ACCESS ARRIVES IN BOOK ONE. NO ROAD TO MARKET GETS BUILT. THE LAND NEVER STARTS PAYING.**
+A man who cannot fund £300 of winter wages cannot build a road to a railhead four days off, and any
+beat implying otherwise is false to the constraint the whole book runs on.
 
-1. **The bottoms.** Good soil. Needs hands, drains, fences. → the tenancy arc.
-2. **The undrained reach north and west.** Wants draining and nothing else. Victorian drainage ran
-   ~£3/acre and there were government drainage loans. → a later-book project.
-3. **The woodland.** Mature oak, ash, a planted larch stand. Standing timber is real money the
-   moment a road can carry it out.
-4. **The high ground / sporting value.** Grouse moors let for serious money by the 1880s; Highland
-   owners converted sheep ground to sporting because it paid better. Blocked because sporting
-   tenants are city men and the valley is four days past the railhead.
+So how does he survive? **He stops trying to move bulk and starts moving value.**
+
+If carriage eats the margin on anything heavy (§1), then the only goods that can cross four days of
+bad road profitably are the ones that are **small, light, and worth a great deal** — or that never
+travel at all. Every income stream in Book One is one of those, and this is not a coincidence:
+
+| Stream | Why it works past the railhead |
+|---|---|
+| **Lumens / the lamp trade** (Ch 8) | Crystalline goods. Enormous value per pound. A saddlebag is a season's income |
+| **Patents and licences** | **Weightless.** Pure information. Crosses the four days for the price of postage and pays quarterly forever |
+| **Wardings, the practice, craft** | Performed on site, paid on site, frequently **in kind**. Carriage never enters into it |
+| **Glasshouse output** | Early and out-of-season produce sold **locally** at a premium; and propagated stock, seed and cuttings, which are **low bulk and high value** |
+| **Timber, grain, wool, livestock** | ⚠️ **These cannot pay.** Too heavy. This is the whole problem |
+
+**⚠️ THIS MAKES THE GLASSHOUSE RATIONAL, NOT RECKLESS — and that is a load-bearing reversal.**
+The valley thinks he is mad to raise a palace of glass in a district that cannot sell its grain.
+He is in fact building **the only large productive asset in that valley whose output can either
+command a premium without leaving, or leave in a saddlebag.** Canon already supports both markets:
+Kellard takes haulage against **first refusal on the early crop** (local), and Jorin's crew defer
+half their wage against **the glasshouse's first two selling seasons** (it sells, and reliably
+enough to be collateral between neighbours).
+
+→ Penworth is right about the **risk** (*"you will lose Ardenmoor. Not embarrassment. The hill."*).
+Emlyn is right about the **strategy**. Both can be true, and the book is better if they are.
+
+### Ch 20 "Good Roads" — ⚠️ NOT an economic unlock
+The cart-road runs **from the hill through Emlyn's OWN woodland to the existing main road**, with a
+branch into the village. It is short, local, entirely on ground he already owns, built with
+**quarry stone and bartered labour** on the same craft economy as the glasshouse. **Wainford is
+still four days away afterward and nothing about the estate's economics changes.**
+
+Its two real justifications:
+1. **It is the last mile of the build he already committed to** — glasshouse output has to come
+   down and materials have to go up.
+2. **The branch to the village has no economic justification whatever.** That is precisely why
+   Lira notices it: *"That's not a path to a wizard's tower. That's a road. To the village."*
+   **It is a gift, and it must cost him something to be one.**
+
+---
+
+## 9. LATENT ASSETS — ⚠️ BOOKS TWO AND THREE, NOT BOOK ONE
+
+Real value Emlyn already owns and **cannot reach within this book.** Naming them is the payoff
+structure of the series; *reaching* any of them in Book One would break the premise.
+
+1. **The bottoms.** Good soil. Needs hands, drains, fences.
+2. **The undrained reach north and west.** Wants draining and nothing else (~£3/acre historically).
+3. **The woodland.** Mature oak, ash, a planted larch stand. Real money **the day a road can carry
+   it out** — and that day is not in Book One.
+4. **The high ground / sporting value.** Grouse let for serious money by the 1880s. Blocked because
+   sporting tenants are city men and the valley is four days past the railhead.
 5. **⚠️ THE RAILWAY CHOKE-HOLD.** As assembled, the holding commands the ground any rail extension
-   past Wainford must cross. **This is the master key: it converts every item above at once.**
+   past Wainford must cross. **The master key: it converts every item above at once** — which is
+   exactly why it cannot turn in Book One.
 
 ### ⚠️ OPEN AUTHOR DECISION — who knew about the railway?
 - **(A) EMERGENT (recommended).** Nobody planned it. Penworth buys elbow room because that is what
@@ -291,11 +336,11 @@ structure of Books One–Three, and every one of them unlocks with **access**.
   thriller. Not recommended.
 
 Until settled, the choke-hold is **latent fact, UNSTATED on the page.** It costs nothing to leave
-unsaid and cannot be un-said. → **Ch 20 "Good Roads" is the natural first unlock.**
+unsaid and cannot be un-said.
 
 ---
 
-## 9. CONTINUITY RULES (check every money beat against these)
+## 10. CONTINUITY RULES (check every money beat against these)
 
 1. **Never write Emlyn as poor.** He is *illiquid*. "No money" always means **no money right now**,
    never "no worth." Ch 19 has the model line: *"I had no money and I had a great deal else."*
