@@ -36,6 +36,15 @@ are reckoned in marks (*"three hundred marks"*). **Nothing else has a special na
 1 gold.** Base twelve, halves at each level. ⚠️ **A reader should never need to do this arithmetic
 and should never be asked to.**
 
+> **BASE TWELVE IS FINAL (author confirmed 2026-07-27, after weighing base 8).** Deciding tests:
+> an agrarian world must divide by thirds (a third of 12 copper is 4; a third of 8 is nothing you
+> can pay); dozens read as *old* money while eights read as *invented* money, and the standing rule
+> is that money stays invisible; and the poverty beat only works in 12 (eleven silver is one short
+> of a half-gold — under base 8 it would be a half-gold and change). Base 8's one real advantage,
+> coins cut for change on a coin-scarce frontier, is stolen without switching: a base-12 silver
+> still cuts cleanly into halves (6 copper) and quarters (3), so cut-coin texture is available any
+> time. **Do not reopen the ratio; the otherworldliness lever is names and mint, never the base.**
+
 > **⚠️ WHAT CHANGED AND WHY.** An earlier draft gave every coin a formal name (veth, mark, grain).
 > That is five new words plus two ratios, which is more bookkeeping than a cozy novel can carry.
 > **Cut to one.** *Vethmark* stays a place name; place names do not require etymologies on the page.
