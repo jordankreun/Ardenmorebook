@@ -110,31 +110,29 @@
   (plough-land in the bottoms)** Emlyn will eventually set to tenant families for rents, plus
   the woodland strip, the NE meadow, and a mill-pond water stake. Emlyn came to view before
   completing. No fate-pull; the narrator explicitly disclaims it.
-- **⚠️ THE COINAGE — LOCKED 2026-07-27. BASE TWELVE, TWO REGISTERS.**
-  | Value | Formal (city/bank/contract) | Vernacular (valley, Emlyn's head) | Worth |
-  |---|---|---|---|
-  | gold | a **veth** | **gold** | 24 marks · 288 grain |
-  | half-gold | a **half-veth** | **a half-gold** | 12 marks |
-  | silver | a **mark** | **silver** | 12 grain |
-  | half-silver | a **half-mark** | **a half-silver** | 6 grain |
-  | copper | a **grain** | **copper / coppers** | 1 |
-  **WHY MARK:** a weight of metal (mercantile money-of-account, **not royal** — right for a
-  council-governed Commonwealth whose seat is a banking city); a **stamped assay sign** (the state
-  guarantees weight, not a ruler's face); and **a boundary** (root of *march*) — which rhymes with
-  the property throughline's thesis that the holding's boundaries exist on paper and never on the
-  ground.
-  **VETHMARK (new canon, etymology was [OPEN]):** the capital is called Vethmark **because it is
-  where the veth and the mark are struck.** The city's name is the coinage split in two.
-  ⚠️ **"GRAIN" IS A DELIBERATE HOMONYM** (a farming valley whose smallest coin is a grain). Kept on
-  purpose; if it ever reads as friction, swap copper to **a mite** — one word, no arithmetic moves.
-  ⚠️ **REGISTER = CHARACTERISATION.** Formal names appear **ONLY** in Penworth's letters, contracts,
-  bank paper and the rent roll. **Everywhere else is metal.** Penworth writes *"eleven marks"*;
-  Emlyn thinks *"eleven silver and four copper."* **The gap is the distance he has travelled.**
-  → **TRACK THE DRIFT:** he arrives counting in marks and veth; by Book Two he should reach for
-  *gold* and *coppers* without noticing, and nobody remarks on it.
-  ⚠️ **THE POVERTY BEAT, EXACT:** eleven marks four grain = **136 grain**; a half-veth = **144**.
-  He is **eight grain short** of the smallest coin a man would produce in company. Not a small sum
-  — a sum that will not add up to a coin.
+- **⚠️ THE COINAGE — LOCKED 2026-07-27 (simplified for reader legibility).**
+  **The reader learns three words they already know and ONE new one.**
+  **gold · half-gold · silver · half-silver · copper** — the halves are self-explanatory and need no
+  teaching. **The one new word: a MARK = one silver piece**, the Commonwealth's unit of account, used
+  by banks, contracts and Penworth's letters the way sterling says *pound*. Nothing else is named.
+  **Behind the scenes only (never for the reader): 12 copper = 1 silver · 24 silver = 1 gold.**
+  ⚠️ A reader must never need this arithmetic and must never be asked for it.
+  *(Supersedes the earlier veth/mark/grain set — five new words was more bookkeeping than a cozy
+  novel can carry. **Vethmark stays a place name**; place names need no etymology on the page.)*
+  **⚠️ TEACH MAGNITUDE, NOT RATIOS — price things consistently and let the reader calibrate:**
+  a loaf **1–2 copper** · a pint **2–3 copper** · a day's labour **3 silver** · **a labouring man's
+  week 20 silver (just under a gold)** · a skilled man's week **36 silver** · Jorin's week **48
+  silver** · a cottage's year's rent **5 gold** · a cow **~12 gold** · a good horse **~30 gold**.
+  **⚠️ THE ANCHOR THAT DOES ALL THE WORK: A GOLD IS ABOUT A WEEK'S WAGES FOR A WORKING MAN.** Land
+  that once, early and in passing, and the reader has the scale forever.
+  → **The poverty beat then needs no explanation:** eleven silver is **half a labouring man's week**.
+  A man holding five thousand acres has half a week's wages.
+  **REGISTER:** metal everywhere, including Emlyn's own head; **marks only** in contracts, bank
+  paper, the rent roll and Penworth's letters. Penworth writes *"eleven marks"*; Emlyn thinks
+  *"eleven silver and four copper."* **The gap is the distance he has travelled**, and it costs the
+  reader one word. → **TRACK THE DRIFT** toward metal by Book Two; nobody remarks on it.
+  ⚠️ **PROSE RULE: one denomination per sentence.** *"Eleven silver and four copper"* is the most
+  mixing a reader should ever meet. **Never make anyone add across units.**
   **Full model:** `references/economy.md` §0.
 - **FINANCES & ORIGINS — THE MONEY IS FINITE (session-locked, 2026-07-11; the purchase is a
   bounded, leveraged transaction, NOT a rich man buying at will).** This constraint is load-bearing
