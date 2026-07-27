@@ -1200,27 +1200,54 @@ show release. The coarse curve, so no chapter overshoots:
   Ch 27 letter (the hand shows *his* school of notation; the closeness required her unguarded rooms).
   ⚠️ The "safe published third" canon is therefore ALSO not yet on the page — establish it when this
   thread opens.
-- **HARVEST HOME — THE LAND PAID (Ch 15; chapters SWAPPED 2026-07-15 so cause precedes effect).**
-  **Land structure clarified on the page:** the Wrays hold the **main bottom-field (~40 acres)** on
-  their own account; **Emlyn kept the REST of the bottoms in his own hand** and put it into **barley**
-  in spring Yr2 with **day labour out of the village**, on Cael's and Hal's advice. The harvest came in
-  over **nine days** with the whole valley turning out (Kellard sent carts; Maret shut the mill; Tomas
-  scythed evenings; **Lira closed the inn at midday**, unprecedented). **THE MONEY (locked):** the crop
-  sold at Wainford **cleared the second note payment IN FULL out of the ground** (the land paid for
-  itself for the first time) and, with a year's lamp money, came to **almost exactly the cost of the
-  greenhouse MATERIALS** (steel, glass, stove, ducting, freight at Penworth's 9% under). It did **NOT**
-  cover **LABOUR** — the chapter ends on Jorin's "And who's setting it?"
-  **THE WRAYS (character canon):** warm but **PUZZLED** by Emlyn on two counts — (1) they have never had
-  a landlord whose terms had no catch, and are still waiting for it to show; (2) they cannot place what
-  he IS ("the word wizard… is not a job. It is a category of person, like a king, or a ghost").
-  **NELL WRAY (~7)** asks the chapter's best question over a plate of beans: "So what are you *for*,
-  then?" Emlyn's answer: he is the one **"allowed to waste a great deal of time being wrong,"** because
-  Hal cannot afford to be. Nell's verdict: **"That's not really a job."** (Comic beat; the table goes up.)
-  **THE TENTH, OFFERED THOUGH NOT OWED:** Hal pays the tenth in their rent-free year — **"I'd rather be
-  owed than obliged"** — and BESS explains it plainly ("he'll not be beholden… let him be your tenant
-  instead of your object of pity"). Emlyn takes it and has it **entered as paid a year early, not as a
-  gift**, "because in twenty years there'll be somebody with your name and somebody with mine sat at
-  this table, and they'll want the paper to be honest."
+- **⚠️ HARVEST HOME — THE HARVEST IS MEAGRE, AND HE BURNS EVERY COIN (Ch 15; REWORKED 2026-07-15 at
+  author's direction; supersedes the earlier "the crop cleared it comfortably" version).**
+  **WHY IT'S POOR (and it must stay poor):** Hal spent his free first year doing exactly what Emlyn's
+  Ch-9 terms said — breaking rough ground off a decade of thistle and couch-grass — and that year
+  repays labour in the THIRD year, not the first. Emlyn's own retained acres were the same ground in
+  the same state. So the crop is a **fraction of the land's potential**, and everyone who looks at it
+  knows, "and Hal Wray knew it best of all."
+  **INHERITED OCCUPIERS (new canon, no retcon needed):** the four dead men's holdings came with **a few
+  old souls still scratching along on odd strips and forgotten corners** (the pre-existing "common/
+  unclaimed ground worked in among the parcels"). They became Emlyn's tenants-at-will on the purchase.
+  Their rents are on **old customary terms nobody has looked at in twenty years** and come in "little,
+  late, and largely in kind." → these are the **other tenants**; the Wrays are the largest but not the
+  only ones. **The Wrays' Ch-9 agreement STANDS unchanged** (free first year, then a tenth, then a
+  fifth); only the inherited occupiers are on old rates.
+  **THE RIVER-HOUSE MONEY IS NOW TWO TRANCHES** (adjusted in Ch 12 and Ch 14 to match): a sum on
+  exchange (Ch 12, went at the note) and the **COMPLETION BALANCE, which arrives this autumn** and is
+  signed straight over to Penworth.
+  **THE ARITHMETIC (locked):** crop + customary rents alone would NOT have paid the note. **Crop +
+  rents + the completion money = the second note payment, in full and on the day** ("the note has never
+  once caught me late, and if I have any pride in that whole business it is there"). **What was left =
+  almost exactly the greenhouse MATERIALS** (steel, glass, stove, ducting, freight at Penworth's 9%
+  under). After paying it he has **ELEVEN SHILLINGS and some copper** in the box, plus a half-finished
+  lamp order. **Nothing whatever toward LABOUR.**
+- **⚠️ THE LABOUR IS BOUGHT WITH CRAFT, NOT COIN (Ch 16; author's direction 2026-07-15) — a
+  load-bearing thematic turn.** Emlyn tells Jorin plainly there is no money and will be none for a
+  year. **Jorin's question, "What have you got, then?"** reframes everything: Emlyn is cash-poor and
+  rich in every other currency. **THE BARGAIN:** Jorin's crew at winter rate; the little lamp coin as
+  it comes; the rest **deferred against the glasshouse's first two selling seasons** at interest,
+  written and signed; **AND Emlyn's hands on EVERY FOOTING Jorin lays for THREE YEARS, on Jorin's own
+  jobs, for his clients, free, whenever asked.**
+  **WHY THAT IS WORTH MORE THAN CASH:** footings are the worst risk in that valley ("half clay and half
+  spring-water and you cannot tell which by looking"); builders price the not-knowing in and go broke
+  on it anyway. Emlyn's actual trade is **ground** ("twenty years learning to command ground") — NOT
+  commanding the earth to obey, but reading the deep grain and persuading it to lie as it is already
+  half inclined to lie; ~a day per footing; doesn't always work; when it works it lasts a lifetime.
+  Jorin watched him do it for the Study (Ch 4). **Emlyn's own verdict: Jorin got the better of him** —
+  three years of certain ground made Jorin unbeatable on any contract for the rest of his working life.
+  "I have never in my life bought anything as cheaply as I bought that winter's labour."
+  **OTHER TRADES (same autumn, same principle):** **TOMAS** took the whole glasshouse ironmongery
+  against a season of Emlyn's work at the forge (warded his stock, hearth and water, and did an
+  unnamed thing to the temper of his best tools); called even in his one word. **KELLARD** took the
+  Wainford haulage against **first refusal on the glasshouse's early crop**. **MARET** wanted a dry
+  corner in a mill damp since his grandfather's time. Closing line of the arc: *"I went into that
+  autumn with eleven shillings. I came out of it owing a great many people a great deal of work, which
+  is a different kind of debt entirely, and one I have always found I sleep better under."*
+  ⚠️ **HOLD THIS:** Emlyn now owes YEARS of craft-debt around the valley (3 yrs of Jorin's footings, a
+  season at Tomas's forge, Kellard's first refusal, Maret's mill corner). That is a live obligation
+  through Book Two, and it is ALSO why the village comes up the hill in Ch 27.
 - **THE STOREHOUSE SITE = A NATURAL CAVE, FOUND BY THE BUILDERS (Ch 15; author's call 2026-07-15 —
   supersedes the outline's "Brenna's counsel finds it").** Walking back from the supper, **REN** went
   into the scrub on the **deeper-green east shelf** (the Ch 2 seed) and found a **low hole screened by

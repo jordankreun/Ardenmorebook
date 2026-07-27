@@ -12,9 +12,9 @@ I want to be honest about what that building was, because it is easy, at this di
 
 I could not buy it. That is the plain fact and Penworth had made me say it out loud on a hillside in the summer. Steel of that length is forged to order and takes months, so the order had to be placed long before any crop was cut, and it was placed against a borrowing secured on the only thing I owned, which was the ground. When the papers were done I did not own a hill with a debt on it. I owned a debt with a hill inside it, and a second debt lying on top of the first, and both of them resting on the same acre and on the proposition that a valley nobody had wanted would grow strawberries in February.
 
-Then the harvest came in, and did what I have already told you it did, and I took every copper of what was left after the note was paid and put it straight against that borrowing, so that by the time the wagons came up the road the materials were very nearly mine and not the bank's. That was the good news, and I was a fortnight enjoying it.
+Then the harvest came in poor, as I have already told you, and the completion money came out of the city behind it, and between them they paid the note and the materials and left me eleven shillings. So the steel was bought and very nearly mine rather than the bank's, and I was about a fortnight enjoying that.
 
-The bad news was the part neither the crop nor the borrowing had ever covered, and it was the part Jorin had put his finger on with five words on the southeast slope. Steel does not set itself. A hundred and sixty feet of frame wants a skilled crew for the better part of a winter, and a crew wants paying every Saturday whatever the weather has done, and I had bought a very great deal of steel and had nothing whatever left to pay a man with.
+What none of it had covered was the part Jorin had put his finger on with five words on the southeast slope. Steel does not set itself. A hundred and sixty feet of frame wants a skilled crew for the better part of a winter, and a crew wants paying every Saturday whatever the weather has done, and I had bought a very great deal of steel and had nothing whatever left to pay a man with.
 
 Penworth's conditions were exact and I met all three. I did not put a spade in until the crop was in and sold and the second payment made out of it, though it cost me a month of good weather and I chafed at every day of it. I took the shipping through him, and it came nine per cent under Kellard's quotation, and Kellard never knew and would have robbed me like a gentleman. And I wrote to him monthly, that autumn and after, whether there was anything in it or not, which turned out to be the condition that mattered.
 
@@ -46,13 +46,41 @@ I said nothing, because I had begun to see it, and a man should not interrupt Jo
 
 "Nobody builds in this valley from the first frost to the thaw," Jorin said. "Nobody has ever built in this valley from the first frost to the thaw, because mortar won't take and the ground's iron and there's not a roof wants raising in the snow. So every winter my crew goes home and does nothing and earns nothing, and I sit by my fire and watch good men get thin, and every spring I lose one or two of them to the towns for good." He shifted. "Steel doesn't care about frost. Glass doesn't care about frost. That great black skeleton of yours is the first job in the history of this valley that can be built in the dead months, and you want to know can I do it cheap." He made a small disgusted noise. "You want to know can I do it *at all*, and the answer is that I have wanted a winter's work for my men for eleven years and you have just walked down my hill and offered me one."
 
-We settled it on the doorstep in about ten minutes, and the terms were these. Winter rate. That is a real rate and not charity, and it is less than half what he would have had off me in June. Half of it paid weekly out of the lamp money. That much I could just carry. The other half deferred against the first two seasons the glasshouse sold anything, at a proper interest, written down and signed, because Jorin would no more take a favour than Hal Wray would.
+It took us another hour to get to how, because wanting the work and being able to pay for it are two different problems, and I still had eleven shillings.
 
-"And if it never sells anything?" I said.
+"I can't pay you in money," I said. "I want that said out loud before we go any further, because I'll not have you finding it out in March. There is no money. There is going to be no money until that house sells something, and that is a year off at the soonest."
+
+Jorin thought about that with his arms folded for a while.
+
+"What have you got, then?"
+
+And that, as it turned out, was the whole question, and I had been too busy counting coins to think of asking it of myself.
+
+Because I had a great deal. I had a hundred and sixty feet of steel lying in crates. I had a hill and the rest of a holding and more idle acres than I could count. And I had, though it had genuinely not occurred to me to put it on a table beside a builder's wage, twenty years of a trade whose entire subject is the behaviour of ground.
+
+I asked him what the worst part of his work was. He did not have to think.
+
+"Footings," said Jorin. "Every time. This valley's half clay and half spring-water and you cannot tell which by looking. I've put walls up that stood forty years and I've put the same wall up two hundred yards off and had it out of true by the second winter, and there's no knowing beforehand, and every builder in this country prices that not-knowing into the job and half of us go broke on it anyway."
+
+"I can tell you beforehand," I said. "And on the ones where it's bad, I can settle it."
+
+I explained what that meant, which took some doing, because the honest version is undramatic. It is not a matter of commanding the earth to obey. It is a long slow business of reading the deep grain of a piece of ground and persuading it to lie in a way it is already half inclined to lie, and it takes me the better part of a day for a single footing, and it does not always work. But when it works, it works for a lifetime. It is the thing I had done for the Study before a stone went down, and Jorin had been standing there when I did it, and had watched his mortar take in three days on ground that had drunk a dead man's walls soft over a season, and had said "Good" and nothing else and thought about it every day since.
+
+So we made the bargain that carried me through that winter, and it had almost no money in it at all.
+
+Jorin's crew, at winter rate, for as long as the steel took. Against it: the little coin the lamp trade brought in, paid over as it came; the rest deferred against the glasshouse's first two selling seasons at a proper interest, written down and signed; and, worth more to him than either, my hands on every footing he laid for the next three years, on his jobs, for his clients, at no charge, whenever he asked.
+
+He got the better of me on that and we both knew it. Three years of certain ground, in a valley where nobody else could offer it, made Jorin unbeatable on any contract he cared to bid for, and it made him so for the whole of the rest of his working life, because a reputation for walls that stand is not a thing a man loses. I would make the same bargain again tomorrow. I have never in my life bought anything as cheaply as I bought that winter's labour, and I did not know it at the time; I thought I was scraping.
+
+"And if it never sells anything?" I said. "The house. If I lose the hill."
 
 "Then I'll have lost a winter's wages I'd not have earned anyway," said Jorin, "and you'll have lost your hill, and I'd sooner have the first of those than watch the second happen for want of asking."
 
-That is how it was done. Not by a wizard's cleverness, and not by anybody's charity. It was done because a man who needed winter work met a man who needed winter labour, and the two of them were standing on the same doorstep, and one of them had the sense to say so out loud.
+That is how it was done. Not by a wizard's cleverness, and not by anybody's charity. It was done because a man who needed winter work met a man who needed winter labour, and each of them had something the other could not buy, and one of them had the sense to ask what was in the other's hands instead of what was in his purse.
+
+It went on like that all autumn, once I had learned the trick of it. I had no money and I had a great deal else, and it turned out the valley ran on the second far more than on the first. Tomas took the whole of the glasshouse ironmongery, hundreds of brackets and clips and ridge-fittings, against a season of my work at his forge: I warded his stock and his hearth and his water, and did a thing to the temper of his best tools that he never spoke of to anyone and that I will not describe here, and we called that even, in the one word he uses for it. Kellard, who had lost the freight to Penworth and knew it, took the haulage from Wainford against the promise of first refusal on the glasshouse's early crop, which cost me nothing I had and gave him something to boast of, and it made us both perfectly happy. Maret wanted a dry corner in a mill that had been damp since his grandfather's time.
+
+I went into that autumn with eleven shillings. I came out of it owing a great many people a great deal of work, which is a different kind of debt entirely, and one I have always found I sleep better under.
 
 Ren came on it as a man's wage rather than a boy's, at his father's insistence and over his own embarrassment. Tomas took the ironmongery on the same deferred terms without being asked twice, and made the ridge-fittings so far beyond what the drawings required that I stopped querying his invoices. Kellard, who had lost the freight and knew it, got the haulage from Wainford at a price that let him tell everyone he had done me a great favour, which he had, and which cost him nothing, the perfect Kellard arrangement, and it made us both happy. And two of Jorin's men came up the hill on the first frosty morning of that winter carrying their own tools and looking a long moment at the black line of pegs running away downhill into the frost, and one of them said, "Well," in the exact voice Cael used, and they got on with it.
 
@@ -92,7 +120,7 @@ The glass came a fortnight later and took three weeks to hang, and I will not gi
 
 It was that same autumn that Essa's bedframe came, and it is a smaller thing than a glasshouse, and I set it here beside the greenhouse on purpose, because the two of them were the same act done in two sizes, and only one of them was easy.
 
-I had lived a year and more in the cabin on a rope bed and a straw tick, which is no hardship to a man who has slept in a tent and worse, and I had told myself I kept it so out of thrift, the money being always tight. That was true, and it was not the whole truth. The whole truth was that a proper bed is a thing you build for a life you mean to live and go on living, and I had not been sure, that first year, that I was building any such thing, and a rope bed asks nothing of you and promises nothing back. But the greenhouse had unsettled something in me, some held breath I had not known I was holding. A man who builds a glasshouse against the winters plainly means to be there for them. So I went down to Essa's shop off the square, where the good smell of cut oak and hide glue lived, and I ordered a bed built, a real one, and a chest of drawers to go with it, from a woman who made furniture the way Tomas made iron, more of herself into it than the thing strictly required.
+I had lived a year and more in the cabin on a rope bed and a straw tick. That is no hardship to a man who has slept in a tent and worse, and I had told myself I kept it so out of thrift, the money being always tight. That was true, and it was not the whole truth. The whole truth was that a proper bed is a thing you build for a life you mean to live and go on living, and I had not been sure, that first year, that I was building any such thing, and a rope bed asks nothing of you and promises nothing back. But the greenhouse had unsettled something in me, some held breath I had not known I was holding. A man who builds a glasshouse against the winters plainly means to be there for them. So I went down to Essa's shop off the square, where the good smell of cut oak and hide glue lived, and I ordered a bed built, a real one, and a chest of drawers to go with it, from a woman who made furniture the way Tomas made iron, more of herself into it than the thing strictly required.
 
 She brought the bed up herself on a borrowed cart when it was done, and she did not come alone, and that is the part of this I did not expect.
 

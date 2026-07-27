@@ -904,8 +904,13 @@ as a cave):** walking back, REN goes into the scrub on the deeper-green east she
 hazel-screened hole; JORIN puts his head in and comes out changed — **"That's not a badger hole. That's
 a room."** ~4 paces × 3, dry, standing height; the storehouse will be built on it, saving "a season and
 a fortune both." Ren: "It's a good place" (BLIND; not a builder's remark; Emlyn notices, says nothing).
-THE MONEY: the crop cleared the second payment IN FULL out of the ground, and the remainder + a year's
-lamp money came to almost exactly the greenhouse MATERIALS — but nothing for LABOUR. CLOSING (dialogue):
+THE MONEY (⚠️ REWORKED 2026-07-15, author direction — the harvest is MEAGRE): the crop was always going
+to be poor (a field coming back off a decade of thistle "repays the third year, not the first"), and the
+inherited occupiers on the odd strips pay old customary rates "little, late, and largely in kind." Crop
++ rents alone would NOT have paid the note; what paid it was the **river-house COMPLETION money** (the
+sale is now two tranches: exchange in Ch 12, completion this autumn), signed straight over to Penworth.
+Second payment made in full and on the day. What was left = almost exactly the greenhouse MATERIALS.
+After paying it: **eleven shillings and some copper** and a half-finished lamp order. NOTHING for LABOUR. CLOSING (dialogue):
 Jorin on the pegged-out slope, **"And who's setting it?"** prose-lint clean (2 welds split).
 
 PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
