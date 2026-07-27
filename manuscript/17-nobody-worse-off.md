@@ -16,8 +16,6 @@ Nobody was to be worse off.
 
 I put it to Hal Wray first, because he had the most to gain, and because Hal would tell me I was being a fool in a way nobody else in that valley would.
 
-I put it to Hal Wray first, because he had the most to gain, and because Hal would tell me I was being a fool in a way nobody else in that valley would.
-
 We walked the bottom-field together on a bright cold morning with the stubble crackling under us, and I showed him the plan, and he looked at it a long time, holding it the way a man holds a paper he is not certain he is allowed to disagree with.
 
 "You can read it," I said. "Bess taught you or you taught yourself, I don't much care which. Tell me what's wrong with it."
@@ -80,7 +78,7 @@ The thirty acres came back into use. Once the strips were straightened and there
 
 "Tam's seventeen," she said.
 
-The eldest Wray boy was seventeen, and big, and had his father's carefulness and his mother's quicker way of getting to the point, and had spent that whole harvest doing a man's work and being paid in nothing but his supper. There was not room for him at home; there rarely is, in a house with more children than land. In the ordinary way of things he would have gone off to sharecrop for a hard man in his turn, exactly as his father had, and that would have been his life.
+There was not room for him at home; there rarely is, in a house with more children than land. In the ordinary way of things he would have gone off to sharecrop for a hard man in his turn, exactly as his father had, and that would have been his life.
 
 So I let him the two best of the four parcels, twelve acres, in his own name, on his own paper, at seventeen years old.
 
@@ -92,9 +90,7 @@ Hal Wray said nothing at all while this was proposed, and Bess watched him not s
 
 "He's better than me," Hal said, which cost him something, and went out.
 
-And Tam Wray, who had been paid in suppers all his life, stood in my cabin with a paper in his hand that said twelve acres and his own name on it, and did not say a single word, and went very red, and had to go and look out of the window for a while.
-
-He came onto the glasshouse crew that winter for a wage, because I needed hands and he needed seed money and neither of us was too proud to say so. He set steel all through the frost with Jorin's men, and every penny of it went into that ground the following spring, I have always thought that the neatest circle I ever managed to close in that valley: the great extravagant house of glass, which everybody said would break me, paying for the first honest acres a Wray ever held in his own name.
+And Tam Wray, who had been paid in suppers all his life, stood in my house with a paper in his hand that said twelve acres and his own name on it, and did not say a single word, and went very red, and had to go and look out of the window for a while.
 
 The schedule went to Penworth in November. Five agreements, four of them new, all of them on the same paper and the same terms, with a plan attached that a narrow-minded person could read.
 

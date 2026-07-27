@@ -46,7 +46,7 @@ Nobody said anything for a while. Somewhere behind her a child was being told to
 
 "Men find reasons," said Bess Wray.
 
-"They do," I said. "I'll put the whole of it in writing, and you'll have your own copy of the paper, and if I ever go looking for a reason you may take that paper to Cael and let him read it out to me in front of the village.""
+"They do," I said. "I'll put the whole of it in writing, and you'll have your own copy of the paper, and if I ever go looking for a reason you may take that paper to Cael and let him read it out to me in front of the village."
 
 Bess Wray looked up from the doorway at that, one quick look, and I saw her and her husband do the thing that married people do without a word passing, the whole of a conversation held in the tilt of a head and the set of a mouth, and then Hal Wray put out one of those big raw hands, and I took it. That was the second bargain I ever shook on in that valley. I have been prouder of very few I ever struck.
 

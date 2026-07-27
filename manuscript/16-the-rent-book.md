@@ -4,13 +4,13 @@
 
 ### Chapter Sixteen: The Rent Book
 
-Penworth's letter came up a week after the harvest and had one line in it that mattered.
+Penworth's letter reached me a week after the harvest, and it had one line in it that mattered.
 
 *You have now owned that land for eighteen months and have never once, so far as I can establish from anything you have sent me, ascertained who is living on it. Kindly do so before the winter, and send me a schedule. I am obliged to describe your security to people who take a narrow view, and at present I am describing it from imagination.*
 
 He was right, and it was worse than he knew, because I had not avoided the thing out of laziness. I had avoided it because I had known, in the vague way a man knows the shape of an unopened letter, that there were people on that ground whose lives I had bought without meeting them, and that sooner or later I would have to go and be their landlord to their faces.
 
-So I got the deeds out, and the plan that came with them, and spread the whole business on the cabin table, and looked properly at what I had bought for the first time.
+So I got the deeds out, and the plan that came with them, and spread the whole business on my own table, and looked properly at what I had bought for the first time.
 
 It was a mess.
 
@@ -26,7 +26,7 @@ I went for the money.
 
 By the time that letter came I had paid the note and bought the steel and the glass, and what I had left in the box on the shelf would not have kept a labouring man in bread for a fortnight, and Jorin's crew wanted paying for a winter I could not pay for. And sitting there on the old rent roll, in a clerk's copperplate from before I was born, were five holdings with rents against them, none collected since the purchase and some not properly collected for a great deal longer. Eighteen months of arrears, on five tenancies, on a holding this size.
 
-I did that sum at the cabin table more than once, the way you keep going back to a cupboard you know is empty. On the old roll's own figures it came to a real amount of money. Not a fortune. Enough. Enough, near enough, laid alongside what the lamps would bring in over the winter, to put men on that steel and keep them there until the glass was in.
+I did that sum at my own table more than once, the way you keep going back to a cupboard you know is empty. On the old roll's own figures it came to a real amount of money. Not a fortune. Enough. Enough, near enough, laid alongside what the lamps would bring in over the winter, to put men on that steel and keep them there until the glass was in.
 
 That is what I believed on the evening I put my boots by the fire and made my list. I want it written down plainly, because it is the last time in that whole business that I believed there was money anywhere, and because a man's hopes are worth recording at their proper size and not at the size they turn out to have been.
 
@@ -78,7 +78,7 @@ She looked at it. Then she looked at me, and her face did a thing I did not enjo
 
 It took me a moment to see what she meant, and when I saw it I was so angry, not at her, that I had to go and look at her garden for a minute before I could answer.
 
-"Mrs Bewick," I said, when I came back in, "I am refusing your rent because you have starved to put it there, and a rent that must be starved for is not a rent. It is a slow way of losing a tenant. I would rather have a woman with a good garden and a full belly on my ground in ten years than nine shillings in my hand in October. That is the whole of it, and it is not a kindness, it is arithmetic, and if you want it in writing you shall have it in writing tomorrow, signed, and you may show it to anyone you like."
+"Mrs Bewick," I said, when I came back in, "I am refusing your rent because you have starved to put it there, and a rent that must be starved for is not a rent. It is a slow way of losing a tenant. I would rather have a woman with a good garden and a full belly on my ground in ten years than a saucer of coin in my hand in October. That is the whole of it, and it is not a kindness, it is arithmetic, and if you want it in writing you shall have it in writing tomorrow, signed, and you may show it to anyone you like."
 
 She was a while answering.
 
@@ -106,7 +106,7 @@ I had thought the problem was money. It was not money. Money was the easy part; 
 
 The money went out of that notebook a holding at a time, and I could feel it going.
 
-It went first at Ned Pardon's, where the rent on the roll was written in shillings and the rent in fact was a cheese and a fleece and had been for three generations. No court in the world would have got anything else out of that corner of scrub, there being nothing else in it. It went again at the Tolls' widow's, where the arrears were real on paper and the woman had nothing whatever, and I stood in her kitchen and understood that I could have had her two thistled acres and her few sticks and it would not have bought a week of a mason's time. It went at Cob Ferris's, who owed me for a strip he had never worked, and who would have paid me eventually, in the way men like Ferris pay: slowly, partly, and with a grievance.
+It went first at Ned Pardon's, where the roll said shillings and the truth said a cheese. It went again at the Tolls' widow's, where the figure was real on paper and there was nothing behind it but a kitchen. It went at Cob Ferris's, who would pay, in his own time, in his own way, and not this year.
 
 By the fifth evening I had stopped adding it up in my head and started subtracting.
 
