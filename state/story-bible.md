@@ -1270,8 +1270,28 @@ show release. The coarse curve, so no chapter overshoots:
     power to do a small ugly thing for a good reason, and no one will ever call you on it, and you will
     remember it long after everyone else has forgotten."* → a permanent moral debit; may resurface.
   **THE RULE (announced publicly so he can be held to it): NOBODY IS TO BE WORSE OFF.**
-  **ARREARS: pitiful and nearly all uncollectable** — eighteen months of customary rents "would not
-  have paid a builder's crew for a fortnight"; he collects **a cheese, a fleece, and a notebook.**
+  **⚠️ THE ARREARS WERE THE PLAN, AND THEY DIED (author's steer 2026-07-15) — this is the nail in the
+  coffin of his ability to raise funds.** Penworth's letter is the respectable reason he goes round;
+  **the real reason is the money.** On the old rent roll's own copperplate figures, eighteen months of
+  arrears across five tenancies came to "a real amount of money. Not a fortune. Enough" — enough,
+  laid beside the winter's lamp income, **to put Jorin's crew on the steel and keep them there until
+  the glass was in.** He does that sum repeatedly at the cabin table, "the way you keep going back to
+  a cupboard you know is empty." It is "the last time in that whole business that I believed there was
+  money anywhere." **The round destroys it holding by holding:** Pardon's shillings are in fact a
+  cheese and a fleece and have been for three generations; the Tolls' widow has nothing; Ferris would
+  pay "slowly, partly, and with a grievance." By the fifth evening he has stopped adding and started
+  subtracting. Total realisable: **would not pay a crew for a FORTNIGHT, let alone a winter** — and the
+  one collectable part is Bewick's coin, which he refuses. He collects **a cheese, a fleece, and a
+  notebook.**
+  **THE CLOSED-DOOR RECKONING (same night, ~an hour):** the hill is **charged twice and cannot be
+  charged a third time** (Penworth said so in the summer, and "Penworth does not say a thing twice");
+  **the old patents are already leant on**; the lamps are the winter's bread, not a wage bill; crop and
+  city house both sold and spent; nothing saleable in the bottoms anyone local could buy. *"There was
+  no money. There was not going to be any money. That was settled that night and it stayed settled,
+  and everything that came after came out of that."* He also notes he closed the last door **himself,
+  from the inside, on purpose** (refusing Bewick's rent, forgiving Hask's), "and could not honestly say
+  he would do differently in the morning." → this is precisely why Ch 17's labour must be bought with
+  CRAFT: there is no cash route left, and the reader has watched every one close.
   **TAM WRAY (NEW; eldest Wray son, 17)** — big, his father's carefulness and his mother's directness;
   worked the whole harvest for his supper; no room for him at home. **Emlyn lets him TWELVE ACRES in
   his own name on his own paper** (3 yrs free → a tenth → a fifth; no debt if he quits in 2 yrs; seed

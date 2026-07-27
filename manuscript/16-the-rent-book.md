@@ -16,9 +16,19 @@ It was a mess.
 
 I do not mean the paper was a mess, though it was. I mean the land was. The four holdings Penworth had bundled together for me had each been dying by inches for thirty years, and in that time bits had been sold and bits had been let and bits had simply been walked onto by whoever wanted them, and nobody had drawn a line on a map since before Cael was born. What I owned, when I finally understood it, was not a farm. It was a jigsaw with pieces missing and other men's pieces in the box.
 
-There was a strip three acres long running clean through the middle of the main bottom-field, from the beck up to the hedge, which was not mine at all. There was a cottage and garden in the far corner of the same field, also not mine. There were two rough acres of the NE meadow held by somebody I had never heard of. There were four separate parcels of good plough-land, together making perhaps thirty acres, that had gone out of cultivation because they could not be reached without crossing ground that belonged to somebody else, and everyone had eventually stopped trying.
+There was a strip three acres long running clean through the middle of the main bottom-field, from the beck up to the hedge, and it was not mine at all. There was a cottage and garden in the far corner of the same field, also not mine. There were two rough acres of the NE meadow held by somebody I had never heard of. There were four separate parcels of good plough-land, together making perhaps thirty acres, that had gone out of cultivation because they could not be reached without crossing ground that belonged to somebody else, and everyone had eventually stopped trying.
 
 And around all of it, in the corners and the awkward angles, in a way no plan in the world showed, were people.
+
+Now I must be honest about why I went, because Penworth's letter is the respectable reason and it was not the whole of it.
+
+I went for the money.
+
+By the time that letter came I had paid the note and bought the steel and the glass, and I had, as I have said, eleven shillings and a lamp order, and Jorin's crew wanted paying for a winter I could not pay for. And sitting there on the old rent roll, in a clerk's copperplate from before I was born, were five holdings with rents against them, none collected since the purchase and some not properly collected for a great deal longer. Eighteen months of arrears, on five tenancies, on a holding this size.
+
+I did that sum at the cabin table more than once, the way you keep going back to a cupboard you know is empty. On the old roll's own figures it came to a real amount of money. Not a fortune. Enough. Enough, near enough, laid alongside what the lamps would bring in over the winter, to put men on that steel and keep them there until the glass was in.
+
+That is what I believed on the evening I put my boots by the fire and made my list. I want it written down plainly, because it is the last time in that whole business that I believed there was money anywhere, and because a man's hopes are worth recording at their proper size and not at the size they turn out to have been.
 
 I went round them over eleven days that October, on foot, with a notebook, and I will not pretend I enjoyed it.
 
@@ -44,13 +54,31 @@ Here is the thing I had not understood before I walked that ground with a notebo
 
 I had thought the problem was money. It was not money. Money was the easy part; there was none of it and everybody could see there was none of it. The problem was that I had the power to fix the land and could not fix it without moving people, and every one of those people was standing on the only certain thing they had.
 
-I did the sums that same week, and they were pitiful. Set against eighteen months of arrears on the old customary terms, I was owed a sum that would not have paid a builder's crew for a fortnight. And of that, exactly one part could actually be collected: Alice Bewick's coin, counted out on a scrubbed table by a woman who had gone hungry to put it there.
+The money went out of that notebook a holding at a time, and I could feel it going.
+
+It went first at Ned Pardon's, where the rent on the roll was written in shillings and the rent in fact was a cheese and a fleece, and had been for three generations, and no court in the world would have got anything else out of that corner of scrub because there was nothing else in it. It went again at the Tolls' widow's, where the arrears were real on paper and the woman had nothing whatever, and I stood in her kitchen and understood that I could have had her two thistled acres and her few sticks and it would not have bought a week of a mason's time. It went at Cob Ferris's, who owed me for a strip he had never worked, and who would have paid me eventually, in the way men like Ferris pay: slowly, partly, and with a grievance.
+
+By the fifth evening I had stopped adding it up in my head and started subtracting.
+
+Set against the eighteen months of arrears I had sat and dreamed over at my own table, what I could actually put my hand on would not have paid a builder's crew for a fortnight. Not for a winter. For a fortnight.
+
+And of that, exactly one part could really be collected. It was lying counted out in coin on a scrubbed table in front of a woman with three children who had gone without to have it there.
 
 I did not take it.
 
 That was not charity and I want to be plain about it, because Bess Wray had taught me the difference in one sentence at a harvest supper and I had learned it. I did not take it because a rent that must be starved for is not a rent, it is a slow way of losing a tenant, and I would rather have a woman with a good garden and a full belly on my land in ten years than a shilling in my hand in October. I told her something like that, badly. She heard the part she needed and cried, which neither of us had wanted, and then she was extremely brisk with me for the rest of the visit as a way of getting even.
 
 So I collected: Ned Pardon's cheese and fleece, which he would have been insulted to have refused, and which I have never eaten or worn without thinking of him. And nothing else. Eleven days on foot and I came home with a cheese, a fleece, and a notebook.
+
+I sat down that night and went looking for money in every direction there was. It took under an hour. There were not many directions.
+
+The hill was charged twice over and could not be charged a third time; Penworth had said so in the summer in the plainest words he had, and Penworth does not say a thing twice. The old patents were already leant on, and had been since before I came to that valley. The lamps would bring in what the lamps brought in, and that was the winter's bread and not a wage bill. The crop was sold and spent. The city house was sold and spent. There was nothing in the bottoms to sell that anybody in that valley had the money to buy, and nothing on the hill I would have sold at any price.
+
+And the arrears, which were the one door I had genuinely believed was still open, and which I had opened on the first day and walked through and found a cheese in.
+
+I am not going to dress that evening up. I had gone out to collect a wage bill and come back with a fleece, and somewhere between the two I had also given away rent I was owed and promised three years of forgiven rent to a man on a doorstep, and I sat in my own kitchen and did the arithmetic of a man who has just closed the last door himself, from the inside, on purpose, and could not honestly say he would do differently in the morning.
+
+There was no money. There was not going to be any money. That was settled that night and it stayed settled, and everything that came after came out of that.
 
 But the notebook was worth more than the arrears, because by then I could see the shape of the thing.
 
@@ -144,7 +172,9 @@ His reply, when it came, was one line again.
 
 By his reckoning it was eleven shillings, and by mine it was eleven shillings and fourpence, and the fourpence was in my coat and I could not have told you how it got there.
 
-The note was paid. The materials were bought and lying in crates on the southeast slope under canvas, a hundred and sixty feet of steel and four hundred panes of glass, and the whole of the money in the world that I had to put men on it with was in that coat pocket, and I sat at my own table on a black November evening and understood, without any particular drama about it, that I had made everything I owned into a bet on one glasshouse and had nothing left over for the building of it.
+The note was paid. The materials were bought and lying in crates on the southeast slope under canvas, a hundred and sixty feet of steel and four hundred panes of glass. And the whole of the money in the world that I had to put men on it with was the fourpence in that coat and eleven shillings in a box on a shelf, because the last real hope of a wage bill had been five holdings of arrears, and I had walked eleven days to find out that it did not exist, and had given away most of what did.
+
+I sat at my own table on a black November evening and understood, without any particular drama about it, that I had made everything I owned into a bet on one glasshouse and had nothing whatever left over for the building of it.
 
 It was Jorin who said it out loud, three days later, standing on the southeast slope with the drawings rolled under his arm and the pegged-out line of the thing running away downhill from us both, longer than the village street, marked in the grass like the outline of a beached whale.
 

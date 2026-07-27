@@ -921,8 +921,20 @@ best field, a cottage corner, 2 acres of the NE meadow, ~30 acres of good plough
 want of a way in. **Eleven days on foot with a notebook; five inherited occupiers** — Ned Pardon
 (cheese and fleece by custom, paid to nobody for eleven years), **Alice Bewick** (three children, no
 husband, the rent counted out and gone hungry for; **Emlyn refuses it** — "a rent that must be starved
-for is not a rent"), the Tolls' widow, Cob Ferris, and **TOBIN HASK**. Arrears are pitiful and nearly
-all uncollectable: he comes home with **a cheese, a fleece, and a notebook**. The consolidation is done
+for is not a rent"), the Tolls' widow, Cob Ferris, and **TOBIN HASK**. ⚠️ **THE ARREARS WERE THE PLAN** (author's steer):
+Penworth's letter is the respectable reason he goes; the real reason is that eighteen months of arrears
+on five tenancies, on the old roll's own figures, came to "a real amount of money. Not a fortune.
+Enough" — enough to put Jorin's crew on the steel. He does that sum repeatedly "the way you keep going
+back to a cupboard you know is empty," and it is "the last time in that whole business that I believed
+there was money anywhere." The round kills it holding by holding (Pardon's shillings are a cheese and a
+fleece by three generations' custom; the widow has nothing; Ferris would pay "slowly, partly, and with
+a grievance"); by the fifth evening he has stopped adding and started subtracting. Realisable total
+**would not pay a crew for a FORTNIGHT**. He comes home with **a cheese, a fleece, and a notebook**.
+**THE CLOSED-DOOR RECKONING:** the hill is charged twice and cannot be charged again, the old patents
+are already leant on, the lamps are the winter's bread not a wage bill, crop and city house both spent.
+*"There was no money. There was not going to be any money. That was settled that night and it stayed
+settled, and everything that came after came out of that."* And he closed the last door himself, from
+the inside, on purpose. The consolidation is done
 by DEAL on one publicly announced rule — **nobody is to be worse off** — with Hal Wray consulted first
 ("There's ways to make a man deal that aren't asking." / "I know it." / "My last landlord knew a few of
 them."). Bewick trades up to 5 acres and a byre; the widow takes a lifetime's firewood; Ferris swaps
