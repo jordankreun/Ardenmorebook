@@ -149,7 +149,7 @@ even a few hundred acres properly is a multi-thousand-pound proposition spread o
 | To improve the land | you need **capital** |
 
 **A lender in the metropole will advance money against the hill and the buildings on it, because
-those are a thing he can picture and sell. He will not advance a shilling against five thousand
+those are a thing he can picture and sell. He will not advance a copper against five thousand
 acres of country he has never seen, that earns nothing, four days past the end of the railway.**
 
 → **This is precisely why Ch 17's doors are shut:** *"The hill was charged twice over and could not

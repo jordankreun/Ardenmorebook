@@ -1318,20 +1318,25 @@ show release. The coarse curve, so no chapter overshoots:
   eleven silver.** Great-landowner acreage, cottager's coin: **that mismatch IS the joke.**
   **ACQUIRED IN TWO DELIBERATELY SEPARATE TRANSACTIONS** so no single suspicious block hits any
   register (full model in `references/economy.md`):
-   • **THE ANCHOR PURCHASE (~2,500 ac, £3,000)** — the hill and its valley. *Parts* are improved (a
-     few working tenant farms, sound outbuildings), so it reads as a respectable gentleman-retiring-
-     to-the-country buy. **Contains essentially ALL the workable ground.**
-   • **THE PARISH BORDER PURCHASE (~3,000 ac, £2,000)** — raw wilderness, **peat bog, marshy
-     lowland**, rough fell, bought quietly through the parish registry. Agriculturally useless,
-     therefore nearly free. ⚠️ **PAPERWORKED, not bought at market** — nominal price plus survey and
-     legal fees, no fencing, no roads.
+   • **THE ANCHOR PURCHASE (~2,500 ac, 3,000 gold)** — the hill and its valley. *Parts* are improved
+     (a few working tenant farms, sound outbuildings), so it reads as a respectable gentleman-
+     retiring-to-the-country buy. **Contains essentially ALL the workable ground.**
+   • **THE PARISH BORDER PURCHASE (~3,000 ac, 2,000 gold)** — good rough country never developed:
+     fell, scrub-wood, old grazing gone back to bracken, and the **undrained wet reach north and
+     west** ("wanted nothing in this world but draining and had never once been offered it," Ch 3),
+     bought quietly through the parish registry. **Undeveloped and unreached, NOT bad land** (see
+     the governing reframe above) — earning nothing, therefore priced at nothing. ⚠️ **PAPERWORKED,
+     not bought at market** — nominal price plus survey and legal fees, no fencing, no roads.
   ⚠️ **THE SECRECY POINTS OUTWARD, NOT AT THE VALLEY.** Cael negotiated for the families in the open
   (Ch 1) and Penworth's agent sat at his table three evenings with a map (Ch 2). Ardenmoor knew.
   The disguise is aimed at **rival speculators and the railway company**. Do NOT retcon Ch 1–2 into
   a covert operation.
-  Cael's frame (Ch 2) still stands: *"You've more land than the squire down at Wainford, on the
-  paper. You've less worth ploughing than one honest family works in a bottom-field. Both of those
-  are true."*
+  Cael's frame (Ch 2, as now on the page): *"You've more land than the squire down at Wainford, on
+  the paper. You've not four hundred acres of it a plough has been over in ten years. Both of those
+  are true"* — followed by the hands-and-a-road speech (*"Land wants two things… It wants hands and
+  it wants a road. You've bought yourself a deal of land with neither"*). ⚠️ The earlier quote
+  ("less worth ploughing than one honest family works in a bottom-field") was superseded by the
+  good-land reframe — do not re-quote it.
   **⚠️ WORKABLE ACREAGE: ~400 TOTAL, ONLY ~174 NAMED ON THE PAGE.** The dramatised parcels below sum
   to ~174; **the remaining ~225 workable acres are deliberately UNNAMED** (other bottoms, other small
   tenants, ground still derelict), licensed by Ch 10's *"Not the whole of the bottoms; there's other
@@ -1402,7 +1407,7 @@ show release. The coarse curve, so no chapter overshoots:
   laid beside the winter's lamp income, **to put Jorin's crew on the steel and keep them there until
   the glass was in.** He does that sum repeatedly at the cabin table, "the way you keep going back to
   a cupboard you know is empty." It is "the last time in that whole business that I believed there was
-  money anywhere." **The round destroys it holding by holding:** Pardon's shillings are in fact a
+  money anywhere." **The round destroys it holding by holding:** Pardon's marks on the roll are in fact a
   cheese and a fleece and have been for three generations; the Tolls' widow has nothing; Ferris would
   pay "slowly, partly, and with a grievance." By the fifth evening he has stopped adding and started
   subtracting. Total realisable (**~8 gold = 192 silver**): **would not pay a crew for a WEEK, let alone a winter** (the crew is **200 silver = 8 gold 8 silver/wk**, so 8 gold falls just short of a single week; the whole winter is **100 gold**, and the paper arrears were almost exactly that: enough to have paid every man in cash, weekly, like a real employer) — and the

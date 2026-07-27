@@ -565,7 +565,7 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   causation BETWEEN them, not in any date or figure. → [HARD] rule + a new pre-draft CAUSAL check.
   (b) **No convenient money.** The author repeatedly hardened the arithmetic (greenhouse rescaled to
   a bet-the-hill second borrowing; harvest made meagre; every liquid coin burned to eleven
-  shillings). → [HARD] "money is never solved by convenience," and the shortfall drives the next
+  silver). → [HARD] "money is never solved by convenience," and the shortfall drives the next
   chapter rather than being absorbed.
   (c) **Close the doors on the page.** The author's steer that the arrears were "the plan" and their
   failure "the nail in the coffin" produced the closed-door reckoning (hill twice-charged, patents

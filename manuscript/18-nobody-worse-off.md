@@ -96,9 +96,9 @@ The schedule went to Penworth in November. Five agreements, four of them new, al
 
 His reply, when it came, was one line again.
 
-*This is a considerably better security than I had been describing, and a considerably worse harvest than I had been hoping for, and I observe that you have contrived to give away a great deal for a man with, by my reckoning, eleven silver.*
+*This is a considerably better security than I had been describing, and a considerably worse harvest than I had been hoping for, and I observe that you have contrived to give away a great deal for a man with, by my reckoning, eleven marks.*
 
-By his reckoning it was eleven silver, and by mine it was eleven silver and four copper, and the coppers were in my coat and I could not have told you how they got there.
+By his reckoning it was eleven marks, which is how money talks when it lives in a bank. By mine it was eleven silver and four copper, and the coppers were in my coat and I could not have told you how they got there.
 
 The note was paid. The materials were bought and lying in crates on the southeast slope under canvas, a hundred and sixty feet of steel and four hundred panes of glass. And the whole of the money in the world that I had to put men on it with was the four copper in that coat and eleven silver in a box on a shelf, because the last real hope of a wage bill had been five holdings of arrears, and I had walked eleven days to find out that it did not exist, and had given away most of what did.
 

@@ -926,7 +926,7 @@ Penworth's letter is the respectable reason he goes; the real reason is that eig
 on five tenancies, on the old roll's own figures, came to "a real amount of money. Not a fortune.
 Enough" — enough to put Jorin's crew on the steel. He does that sum repeatedly "the way you keep going
 back to a cupboard you know is empty," and it is "the last time in that whole business that I believed
-there was money anywhere." The round kills it holding by holding (Pardon's shillings are a cheese and a
+there was money anywhere." The round kills it holding by holding (Pardon's marks on the roll are a cheese and a
 fleece by three generations' custom; the widow has nothing; Ferris would pay "slowly, partly, and with
 a grievance"); by the fifth evening he has stopped adding and started subtracting. Realisable total
 **would not pay a crew for a WEEK**. He comes home with **a cheese, a fleece, and a notebook**.
