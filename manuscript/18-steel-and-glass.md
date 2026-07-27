@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Seventeen: Steel and Glass
+### Chapter Eighteen: Steel and Glass
 
 The greenhouse came up the frontier road in pieces, on eleven wagons across the back end of that autumn, and it was the first thing I built on that hill that the valley could not pretend was ordinary.
 
@@ -123,6 +123,26 @@ She considered that with her whole attention, the way she considered everything,
 "It's not," I said, "but it's enough to build with," and she said, "Aye, it is," with the corner of her mouth, and we got back on our knees and drew.
 
 So I left it. We drew the rest of the beds around the empty north corner and left it bare on the board, and I ran the ducting the long way round to spare it, at a cost of some four days and a quantity of swearing, and I found I did not mind. I have never once been sorry I let a careful person come to a thing by their own road, and I did not start being sorry that autumn. There is a particular comfort in a partner who will hold a line with you standing right on top of it. You know precisely where you are with such a person, which is more than can be said for the agreeable ones.
+
+There was one more thing that winter that I did not pay for and could not have bought. It is the only part of the whole business that still makes me put my pen down.
+
+We had a hard cold snap in the middle of the glazing, three days of it, with a third of the bays still open to the sky and the stove not yet lit and the first of Brenna's stock already potted and standing in the propagation house because there was nowhere else on the hill to put them. Cuttings do not care about a man's schedule. They were going to take the frost and die, and we had no lagging, no straw to spare, and nothing in the barn but tools.
+
+On the second morning a cart came up the track.
+
+It was Ned Pardon, with the pony he had complained about to me for a full quarter of an hour in October, and on the cart, roped down under a sheet, were ten fleeces.
+
+"You'll not want these," he said, before I could say anything at all. "Only they're doing nothing in my loft, and wool's wool, and there's frost in that glass house of yours and green stuff in it."
+
+"Mr Pardon."
+
+"I'll not take money for them," he said, "so you needn't get that out. They're not mine anyhow. They were always yours; I only kept them dry." And then, having got the whole speech out that he had plainly rehearsed the length of the lane, he added, with enormous satisfaction, in the exact words I had refused him with in October, "You'll take the lot."
+
+I took the lot.
+
+We packed the propagation house with eleven years of a proud man's arrears, wool round every pot and wool along the cold side and wool stuffed into the gaps where the bays were still open, and it held, and we lost nothing, not one cutting, out of three days that should have taken all of it. I have built much since with better materials and better money. I do not know that I have ever built anything that worked as well as those fleeces did.
+
+He would not stay for anything but a cup of tea, and drank it standing, and looked round the frame the whole time the way a man looks at a thing he intends to tell people about later, and went down the track with his pony and his empty cart.
 
 The glass came a fortnight later and took three weeks to hang, and I will not give you the whole of it pane by pane, though I could. What I will tell you is that on the evening we set the last light in, Brenna and Ren and I standing back in the blue dusk to look at it, the greenhouse caught the last of the day and the first of the rising lumen-glow off the crown together, and stood there full of held light on a hill that grew nothing, and it was, I thought, the most hopeful thing I had made in that place or any other. A glass house is an act of faith. You build it against every frost that is surely coming, and you fill it with the tender things, and you say to the winter, plainly and in advance: not these. Not this year. I had not said that to a winter in a long time.
 

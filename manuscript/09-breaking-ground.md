@@ -18,7 +18,35 @@ I found him in his yard mending a hurdle in the thin spring sun, and I put it to
 
 That was how I came to be standing, three days later, in the sloped mud of a poor rented field on the far side of the valley, being looked over by Hal Wray, who was younger than I had pictured and built like a man made for exactly this and nothing else, wide and quiet and careful, with big raw hands and a way of not saying a thing until he was sure of it. His wife came out from the low dark house with a child on her hip and two more at her skirts and stood in the doorway not quite in the conversation and not quite out of it. That, I would learn, was Bess Wray's whole manner, and it hid a mind quicker than her husband's, though she would have been the last to say so. They heard me out, the both of them, without a word, and when I had done Hal looked at the ground between us for a while, and then he looked up. "And what would you be asking for it," he said, not quite a question. It was the only one that mattered to a man in his place.
 
-I had thought about that on the ride over, and I had thought about it the way Penworth had taught me to, which is to say honestly and a little further ahead than feels comfortable. "Nothing, the first year," I said. "The ground's rough. You'll spend the first year breaking it and cursing me, and it'll give you little enough back for the labor. So the first year is yours, rent and all, to get it into heart. The second year, a tenth of what it yields. The third year and after, a fifth, which is fair, and less than you're paying now to a man who gives you nothing for it but the privilege." I watched him take that in. "There's a house on it, of a sort. The old place that came with the bottom-land, empty since well before it was mine, wanting a roof in two rooms and a great deal of honest cursing, but the walls are sound stone and the well is good. That's yours too, to mend and live in as long as you work the land, and if you work it well I'll not find a reason to want it back."
+I had thought about that on the ride over, and I had thought about it the way Penworth had taught me to, which is to say honestly and a little further ahead than feels comfortable.
+
+"The main bottom-field," I said. "Forty acres and a bit, along the beck. Not the whole of the bottoms; there's other ground I've not got the measure of yet. That field."
+
+"I know that field." Hal's voice gave nothing away. "It's been under thistle since I was a lad."
+
+"It has."
+
+"There's a year's work in it before it gives you a bushel."
+
+"There's a year's work in it before it gives *you* a bushel," I said, "which is rather my point. Nothing, the first year. Not a penny. You'll spend that year breaking it and cursing me, and it'll give you little enough back for the labour, so the first year is yours entire, rent and all, to get it into heart."
+
+He looked at me for a moment as if checking me for a seam.
+
+"And after?"
+
+"Second year, a tenth of what it yields. Third year and after, a fifth."
+
+"A fifth." That was the wife, from the doorway, and it was the first thing she had said. It was not a question. It was a woman putting a figure down where it could be looked at.
+
+"A fifth," I agreed. "Which is fair, and it is less than you're paying now to a man who gives you nothing for it but the privilege."
+
+Nobody said anything for a while. Somewhere behind her a child was being told to leave something alone.
+
+"There's a house on it, of a sort," I said. "The old place that came with the bottom-land, empty since well before it was mine. It wants a roof in two rooms and a great deal of honest cursing. But the walls are sound stone and the well is good, and that's yours too, to mend and live in as long as you work the land. If you work it well I'll not find a reason to want it back."
+
+"Men find reasons," said Bess Wray.
+
+"They do," I said. "I'll put the whole of it in writing, and you'll have your own copy of the paper, and if I ever go looking for a reason you may take that paper to Cael and let him read it out to me in front of the village.""
 
 Bess Wray looked up from the doorway at that, one quick look, and I saw her and her husband do the thing that married people do without a word passing, the whole of a conversation held in the tilt of a head and the set of a mouth, and then Hal Wray put out one of those big raw hands, and I took it. That was the second bargain I ever shook on in that valley. I have been prouder of very few I ever struck.
 

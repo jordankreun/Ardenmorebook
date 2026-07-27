@@ -270,7 +270,8 @@ if it needs a new one, add it here.
   - **Interlude II** — Yr2, a predawn (hill register; no dated events; the hill "says the shape of him back to the dark").
   - **Ch 15 (HARVEST HOME — swapped into this slot 2026-07-15)** — **Yr2, early autumn** — elapsed ~19 mo (the bottoms come in over nine days; the Wrays' supper; the cave found; the crop sold at Wainford).
   - **Ch 16 (THE RENT BOOK — NEW)** — **Yr2, October** — elapsed ~20 mo (eleven days on foot; the five inherited occupiers; consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth in November).
-  - **Ch 17 (STEEL AND GLASS — was Ch 15, then 16)** — **Yr2, late autumn → into winter** — elapsed ~21–23 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
+  - **Ch 17 (NOBODY WORSE OFF — split from The Rent Book)** — **Yr2, late October → November** — elapsed ~20–21 mo (the consolidation by deal; Hask; Tam's twelve acres; the schedule to Penworth).
+  - **Ch 18 (STEEL AND GLASS — was 15, then 16, then 17)** — **Yr2, late autumn → into winter** — elapsed ~21–23 mo (frame up the road on 11 wagons; Jorin's winter crew set it; glass hung; Brenna's north corner; Essa's bed; the callipers drawer let stay stuck).
   - **PRE-FLIGHT:** the loan grace year (a full turn of seasons from Ch3) is **now up in Yr2**;
     the fire is **early winter Yr2** (~Ch27); the river-house sale closes **spring** (finale/Book Two).
     From Ch10 on the clock SLOWS (session-lock #10) — do not compress a season again without cause.
@@ -1243,7 +1244,7 @@ show release. The coarse curve, so no chapter overshoots:
   almost exactly the greenhouse MATERIALS** (steel, glass, stove, ducting, freight at Penworth's 9%
   under). After paying it he has **ELEVEN SHILLINGS and some copper** in the box, plus a half-finished
   lamp order. **Nothing whatever toward LABOUR.**
-- **THE TENANCY CONSOLIDATION (Ch 16 "The Rent Book"; NEW chapter 2026-07-15) — land, people, and the
+- **THE TENANCY CONSOLIDATION (Ch 16 "The Rent Book" = the round + the money collapse; Ch 17 "Nobody Worse Off" = the settlement; SPLIT 2026-07-15) — land, people, and the
   cost of power.** Forced by Penworth ("I am obliged to describe your security to people who take a
   narrow view, and at present I am describing it from imagination"). **THE HOLDING IS FRAGMENTED:** a
   **3-acre strip through the middle of the Wrays' best field** (Hal loses ~a fifth of the field's
@@ -1303,6 +1304,17 @@ show release. The coarse curve, so no chapter overshoots:
   **Penworth's reply:** *"This is a considerably better security than I had been describing, and a
   considerably worse harvest than I had been hoping for, and I observe that you have contrived to give
   away a great deal for a man with, by my reckoning, eleven shillings."*
+- **NED PARDON'S FLEECES PAY OFF (Ch 18) — the arrears that saved the greenhouse.** During the
+  glazing a **three-day hard frost** hits with a third of the bays still open, the stove unlit, and
+  Brenna's first potted stock already in the propagation house. **Ned Pardon comes up the track with a
+  cart and TEN FLEECES** (the eleven years of unclaimed rent he kept dry in his loft, Ch 16). He will
+  not take money: *"They're not mine anyhow. They were always yours; I only kept them dry."* And he
+  returns Emlyn's own October refusal as a punchline: **"You'll take the lot."** They pack the
+  propagation house with wool and **lose nothing, not one cutting**. Emlyn: "I do not know that I have
+  ever built anything that worked as well as those fleeces did." → the debt kept for nobody becomes
+  the thing that saves the gamble; a high point of the belonging arc, and a model for how this book
+  pays off small human seeds. (One more fleece/wool echo is AVAILABLE for the Ch 28 fire aftermath if
+  wanted; not yet used.)
 - **⚠️ THE LABOUR IS BOUGHT WITH CRAFT, NOT COIN (Ch 16; author's direction 2026-07-15) — a
   load-bearing thematic turn.** Emlyn tells Jorin plainly there is no money and will be none for a
   year. **Jorin's question, "What have you got, then?"** reframes everything: Emlyn is cash-poor and

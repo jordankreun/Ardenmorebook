@@ -60,25 +60,27 @@
 14-midsummer-reading.md|the best disguise you ever wore
 14b-interlude-two.md|it says him back
 14b-interlude-two.md|kept company in the dark
-17-steel-and-glass.md|a cage for weather
-17-steel-and-glass.md|A glass house is an act of faith
-17-steel-and-glass.md|you live in it like you're waiting to be told to leave
-17-steel-and-glass.md|the years' bread
+18-steel-and-glass.md|a cage for weather
+18-steel-and-glass.md|A glass house is an act of faith
+18-steel-and-glass.md|you live in it like you're waiting to be told to leave
+18-steel-and-glass.md|the years' bread
 13-the-well-incident.md|boys are not in the habit of interrogating their own luck
 13-the-well-incident.md|closed the subject the way you close a gate you have decided not to walk through
 13-the-well-incident.md|the most interesting thing in somebody else's room
 13-the-well-incident.md|carrying a thing he did not know he had
-17-steel-and-glass.md|a very expensive black skeleton on a hill
-17-steel-and-glass.md|It's not charity, it's opinion
-17-steel-and-glass.md|a partner who will hold a line with you standing right on top of it
+18-steel-and-glass.md|a very expensive black skeleton on a hill
+18-steel-and-glass.md|It's not charity, it's opinion
+18-steel-and-glass.md|a partner who will hold a line with you standing right on top of it
 15-harvest-home.md|a nine-day argument with the weather conducted at a dead run
 15-harvest-home.md|a category of person, like a king, or a ghost
 15-harvest-home.md|I'd rather be owed than obliged
 15-harvest-home.md|allowed to waste a great deal of time being wrong
-17-steel-and-glass.md|It is a duller profession than the tales allow
-17-steel-and-glass.md|I hold the paper on it
-17-steel-and-glass.md|a different kind of debt entirely
+18-steel-and-glass.md|It is a duller profession than the tales allow
+18-steel-and-glass.md|I hold the paper on it
+18-steel-and-glass.md|a different kind of debt entirely
 16-the-rent-book.md|a jigsaw with pieces missing and other men's pieces in the box
 16-the-rent-book.md|a rent that must be starved for is not a rent
-16-the-rent-book.md|nobody is to be worse off
+17-nobody-worse-off.md|Nobody was to be worse off
 16-the-rent-book.md|a cheese, a fleece, and a notebook
+17-nobody-worse-off.md|the power to do a small ugly thing for a good reason
+18-steel-and-glass.md|They were always yours; I only kept them dry
