@@ -1266,20 +1266,27 @@ show release. The coarse curve, so no chapter overshoots:
   7. **Ch 18 "Nobody Worse Off":** consolidation by trade, on the announced rule; Hask; Tam's
      twenty-four acres (two of the four freed parcels; ~36 acres remain unlet and are a live thread).
   8. **Ch 19:** labour bought with craft, because every money route is closed.
-  **⚠️ THE TOTAL SCALE — LOCKED 2026-07-27 (author: "upper end of gentry like what a rich merchant
-  would do"; fantasy licence to drift off strict history).** On paper the whole holding runs to **a
-  little over three thousand acres**, but **fewer than four hundred of them would ever take a plough.**
-  ~3,000 acres sits at the **CEILING OF BATEMAN'S "SQUIRE" BAND (1,000–3,000)** — i.e. Emlyn is
-  **gentry on paper**, the largest landowner in the district, which is exactly what the era's new
-  commercial money bought. Materially more would tip him into "great landowner," a different social
-  animal: do not.
-  The bulk is **rough upland — fell, heather-moor, scrub-wood, thin common grazing — worth almost
-  nothing per acre**, gathered from the **parish, the township, and the far-country "loose title"**
-  (Ch 2 Cael + Ch 3). ⚠️ The moor is **NOT bought at market; it is PAPERWORKED** — nominal price plus
-  survey/Act/commissioners' fees, no fencing or roads. This *reinforces* the throughline thesis: a
-  lord's map over a smallholder's actual ground. Cael's frame (Ch 2): *"You've more land than the
-  squire down at Wainford, on the paper. You've less worth ploughing than one honest family works in
-  a bottom-field. Both of those are true."*
+  **⚠️ THE TOTAL SCALE — LOCKED 2026-07-27 (author's two-phase "5,500-Acre" plan; fantasy licence to
+  drift off strict history).** On paper the whole holding runs to **something above five thousand
+  acres** (~5,500), but **fewer than four hundred of them would ever take a plough.** By acreage that
+  is past Bateman's squire ceiling; **by INCOME (~£100/yr) he is nobody.** Great-landowner acreage,
+  cottager's cash: **that mismatch IS the joke** and it is the property throughline in one line.
+  **ACQUIRED IN TWO DELIBERATELY SEPARATE TRANSACTIONS** so no single suspicious block hits any
+  register (full model in `references/economy.md`):
+   • **THE ANCHOR PURCHASE (~2,500 ac, £3,000)** — the hill and its valley. *Parts* are improved (a
+     few working tenant farms, sound outbuildings), so it reads as a respectable gentleman-retiring-
+     to-the-country buy. **Contains essentially ALL the workable ground.**
+   • **THE PARISH BORDER PURCHASE (~3,000 ac, £2,000)** — raw wilderness, **peat bog, marshy
+     lowland**, rough fell, bought quietly through the parish registry. Agriculturally useless,
+     therefore nearly free. ⚠️ **PAPERWORKED, not bought at market** — nominal price plus survey and
+     legal fees, no fencing, no roads.
+  ⚠️ **THE SECRECY POINTS OUTWARD, NOT AT THE VALLEY.** Cael negotiated for the families in the open
+  (Ch 1) and Penworth's agent sat at his table three evenings with a map (Ch 2). Ardenmoor knew.
+  The disguise is aimed at **rival speculators and the railway company**. Do NOT retcon Ch 1–2 into
+  a covert operation.
+  Cael's frame (Ch 2) still stands: *"You've more land than the squire down at Wainford, on the
+  paper. You've less worth ploughing than one honest family works in a bottom-field. Both of those
+  are true."*
   **⚠️ WORKABLE ACREAGE: ~400 TOTAL, ONLY ~174 NAMED ON THE PAGE.** The dramatised parcels below sum
   to ~174; **the remaining ~225 workable acres are deliberately UNNAMED** (other bottoms, other small
   tenants, ground still derelict), licensed by Ch 10's *"Not the whole of the bottoms; there's other

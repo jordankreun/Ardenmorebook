@@ -208,31 +208,76 @@ depressed land by the 1890s. **The author's instinct was right.**
 
 ## 7. THE ARDENMOOR MODEL — ⚠️ LOCKED (author's direction 2026-07-27)
 
-**Author's steer:** *"This is a fantasy world so we can drift off historical a little bit. Let's go
-upper end of gentry like what a rich merchant would do. The house is on a land lease or loan so he
-would only recover roughly half of what it would be worth to purchase."*
+**Author's steer:** *"Fantasy world so we can drift off historical a little bit. Upper end of gentry
+like what a rich merchant would do. The house is on a land lease or loan so he would only recover
+roughly half."* Then the **two-phase acquisition** ("The 5,500-Acre Railroad Choke-Hold").
 
-Two decisions follow, and both are deliberate departures from strict period practice:
-- **Scale = TOP OF THE SQUIRE TIER (~3,000 acres).** Bateman's squire band is 1,000–3,000; this
-  sits at its ceiling. That is exactly the target of the era's new commercial money buying into
-  land. Going materially above this tips Emlyn into "great landowner," a different social animal.
-- **The river house returns HALF.** Mechanism: it stands on a **ground lease** he never owned the
-  land under, and carries a **debt signed in a better year.** Both together halve the recovery.
+Deliberate departures from strict period practice, all authorised:
+- **Scale = ~5,500 acres.** Above Bateman's squire ceiling (3,000) in *acreage* — but with ~£100/yr
+  of income he is nowhere near a great landowner in the way that mattered, which required income,
+  not hectares. **That mismatch IS the joke.** Great-landowner acreage, cottager's cash.
+- **Land priced at the absolute FLOOR** of what research supports (see §2). Justified by: depression
+  trough + four days past the railhead + derelict + tangled title + sellers who had given up.
+- **The river house returns HALF** (ground lease + a debt "signed in a better year").
 
 All figures below are for the author's and the engine's consistency. **NONE GO ON THE PAGE.**
 
-### The purchase, ~3,000 acres
+### ⚠️ PHASE 1 — THE STEALTH PURCHASE (Yr 0), financed by a BRIDGE LOAN
 
-| Component | Acres | Basis | ~Cost |
+**£5,000 short-term bridge loan** from a metropolitan bank, secured on the river house. Period-
+correct: private/solicitor mortgages of the era really were short-term, interest-only, principal
+callable — a bridge is the *right* instrument, and it is also the book's **grace year**: nothing
+falls due until the place has had a full turn of the seasons.
+
+Penworth splits it into two deliberately non-obvious transactions so no single suspicious block
+appears on any register:
+
+| | Acres | Allocation | £/acre | What it is |
+|---|---|---|---|---|
+| **The Anchor Purchase** | ~2,500 | **£3,000** | ~£1 4s | The hill and its valley. **Parts** are improved — a few working tenant farms, sound outbuildings — so it reads as a respectable gentleman-retiring-to-the-country buy. Contains essentially ALL the workable ground. |
+| **The Parish Border Purchase** | ~3,000 | **£2,000** | ~13s 4d | Raw wilderness, **peat bog, marshy lowland**, rough fell. Bought quietly through the parish registry. Agriculturally useless, therefore nearly free. |
+| **Total** | **~5,500** | **£5,000** | **~18s 2d blended** | |
+
+**Anchor block internal breakdown** (this is where the ~£3,000 actually goes):
+
+| | Acres | £/acre | £ |
 |---|---|---|---|
-| Workable but derelict poor upland arable | ~400 | £8/acre, depression + remoteness | £3,200 |
-| Woodland (oak, ash, planted larch) | ~200 | standing timber has real value | £2,000 |
-| Rough moor, fell, common, waste | ~2,400 | parish/township at nominal price + survey, Act, commissioners | £1,000 |
-| Title clearing, agent, the elbow-room parcels | — | Penworth's three evenings | £800 |
-| **Total** | **~3,000** | **≈£2 6s/acre blended** | **~£7,000** |
+| Workable but derelict poor upland arable | ~400 | £4 | 1,600 |
+| Woodland (oak, ash, planted larch) | ~200 | £3 | 600 |
+| The hill, its slopes, rough valley sides | ~1,900 | 8s | 760 |
+| **Anchor total** | **~2,500** | | **~£2,960** |
 
-Sanity check: Bamburgh went at £6/acre *with a castle*. Ardenmoor at ~£2 6s — derelict, tangled,
-four days past the railhead, at the trough — is aggressive but defensible.
+Sanity check: Bamburgh went at £6/acre *with a castle*. Ardenmoor's blended 18s 2d is aggressive —
+it sits at the floor of the researched range, where "some land was literally unsellable." Fantasy
+licence, knowingly taken.
+
+**THE DISGUISE:** to the wider market Emlyn is an eccentric city man who bought a nice hill and a
+great deal of useless bog. ⚠️ **Note: the VALLEY is not deceived and was never meant to be** — Cael
+negotiated for the families in the open (Ch 1), and Penworth's agent sat at his table three evenings
+with a map (Ch 2). The secrecy is directed **outward**, at rival speculators and the railway
+company, not at Ardenmoor. Do not retcon Ch 1–2 into a covert operation.
+
+### ⚠️ THE RAILWAY CHOKE-HOLD — SEED, WITH ONE OPEN AUTHOR DECISION
+
+The 5,500 acres, as assembled, **command the ground any railway extension past Wainford would have
+to cross.** That is the long game and the Book Two/Three engine. **OPEN QUESTION — needs the
+author's call before any of this touches prose:**
+
+- **(A) EMERGENT (recommended, preserves cozy).** Nobody planned it. Penworth bought elbow room
+  because that is simply what Penworth does — his own canon line is *"a wise man buys his neighbors'
+  patience before he has done anything to spend it."* Years later it turns out to be a choke-hold.
+  No retcon needed; Ch 1–3 stand exactly as written; Emlyn stays a grieving man who wanted a hill.
+- **(B) PENWORTH KNEW.** He quietly bought his grieving client a fortune and did not say. Rich, and
+  very much in character, but it makes Penworth a speculator acting on undisclosed information and
+  recolours every letter he has written. A genuine late-book reveal.
+- **(C) EMLYN KNEW.** ⚠️ Not recommended. Contradicts Ch 1–3 outright (no epiphany, he just did not
+  want to leave) and converts a cozy slice-of-life opening into a speculation thriller.
+
+Until this is settled, treat the choke-hold as **latent fact, unstated on the page.** It costs
+nothing to leave it unspoken and it cannot be un-said once written.
+
+**Related latent asset (already logged in geography.md):** the moor carries real **sporting/grouse**
+value that remoteness makes unrealisable. Same unlock, smaller scale → **Ch 20 "Good Roads."**
 
 **⚠️ WORKABLE ACREAGE: ~400 TOTAL, OF WHICH ONLY ~174 IS NAMED ON THE PAGE.** The dramatised
 parcels (Wray bottom-field 80 · Hask's strip 6 · Bewick's corner 4 · Tolls'/NE meadow 4+24 ·
@@ -246,23 +291,47 @@ Ratio check: ~13% workable is far below the historical upland norm (30–40% imp
 because Ardenmoor is **abandoned farmland, not virgin moor** — and the depression makes exactly
 that the era's signature.
 
-### The funding
+### ⚠️ PHASE 2 — LIQUIDATING THE HOUSE (Yr 2)
 
-| Source | ~Amount |
+**River house:** grand, a rich merchant's house in a premier metropolis. Freehold-equivalent
+**~£12,000** — but it stands on a **ground lease** and carries the **bridge loan plus an older
+debt**, so it **recovers about half.**
+
+| | £ |
 |---|---|
-| Appreciated holdings (cash down) | £1,000 |
-| Loan secured on already-licensed patents + the promise of the house | £6,000 |
-| **At the table** | **~£7,000** |
+| Net realised on sale | **6,500** |
+| Less: bridge loan principal | (5,000) |
+| Less: transaction fees, solicitors, the lease assignment | (300) |
+| **Surplus — "a bit of runway"** | **~1,200** |
 
-**River house:** grand, a rich merchant's house. On a **ground lease**, and mortgaged.
-Freehold-equivalent **£12,000**; **recovers ~£6,000 — half.** Per existing canon it arrives in
-**TWO TRANCHES**: a sum on exchange (Ch 12, spring Yr 2) and the completion balance (Ch 16,
-autumn Yr 2). Split ~£4,000 / ~£2,000. The exchange tranche goes **straight at the principal**,
-which is *why the first note payment is survivable*; the completion balance joins crop and rents
-to make the second payment in full.
+→ Emlyn emerges **outright, unencumbered owner of ~5,500 acres**, debt to the bank cleared.
 
-→ "Cheap, and it still took very nearly everything I could raise" is literally true, and the
-mid-book house money is genuinely load-bearing rather than a convenience.
+**⚠️ THE HALF-YEAR CLEARING GAP — THIS IS THE LOAD-BEARING DEVICE.** The money does **not** arrive
+at once; paperwork and clearance run roughly **six months**. This maps exactly onto existing canon
+(two tranches): **exchange ~£4,000 in spring Yr 2 (Ch 12)**, **completion balance ~£2,500 in autumn
+Yr 2 (Ch 16)**. Through that window he is committed to money he does not yet hold.
+
+### ⚠️ WHY THE GREENHOUSE STILL BREAKS HIM (the cashflow must survive the surplus)
+
+The ~£1,200 surplus looks like it could nearly fund a £1,200–1,600 glasshouse. It cannot, and here
+is the discipline that keeps that true. **All four must hold:**
+
+1. **The surplus is EARMARKED AND SPENT BEFORE THE GLASSHOUSE EXISTS AS A PLAN.** It goes to
+   *building, taxes, establishment* across Yr 1–2: the house, the timber outbuildings, the well,
+   stock, tools, seed advanced to tenants, living. By the time steel is ordered it is gone. This is
+   already why canon has the tower rising **one careful room at a time**.
+2. **It is not one pot.** It arrives in two tranches six months apart, and the **first tranche is
+   consumed by the bridge loan** — the £1,200 is what is left *after* the completion balance lands
+   in autumn Yr 2, i.e. **after** the glasshouse materials are already committed.
+3. **Materials came from the harvest, not the house.** Canon: crop + rents + completion money = the
+   note payment, and what was left ≈ the glasshouse **materials**. **Nothing whatever toward LABOUR.**
+4. **Every credit door is shut** (canon, Ch 17 reckoning): the hill is **charged twice and cannot be
+   charged a third time**; the patents are already leant on; the lamps are the winter's bread, not a
+   wage bill; crop and city house both sold and spent.
+
+→ **The hole is LABOUR, and only labour.** ~£280–350 of winter wages with no instrument left to
+raise it. That is why Ch 19 must buy labour with **craft** (Jorin's footings-patent bargain), and
+why the arrears mattered so much: they were the plan, and they died.
 
 ### The clock
 
@@ -299,8 +368,9 @@ correctly *bankrupting*.
 paper arrears to this.
 
 **Note on scale and the eleven shillings:** raising the estate does NOT weaken the poverty beat.
-It sharpens it. A man holding three thousand acres and a squire's standing, with eleven shillings
-and some copper in the box, is a better sentence than the same man with two thousand.
+It sharpens it. A man holding five and a half thousand acres, more ground than any squire in the
+district, with eleven shillings and some copper in the box, is a better sentence than the same man
+with two thousand.
 
 The 1845 repeal of the glass excise (and 1851 window tax) is well attested as transformative:
 larger panes became affordable and glasshouses came within reach of the middle classes. **The
