@@ -1222,18 +1222,38 @@ show release. The coarse curve, so no chapter overshoots:
   Ch 27 letter (the hand shows *his* school of notation; the closeness required her unguarded rooms).
   ⚠️ The "safe published third" canon is therefore ALSO not yet on the page — establish it when this
   thread opens.
-- **⚠️ HAL WRAY TOLD HIM ABOUT THE MESS IN SPRING Yr2 (Ch 10) — the set-up the whole tenancy arc pays
-  off (author's direction 2026-07-15).** A fortnight after taking the field, Hal comes up the track on
-  a Sunday with his hat in his hands and reports, flatly, what is actually on Emlyn's land: **Tobin
-  Hask's three-acre strip straight through the middle of the best forty**, a widow's cottage corner,
-  two meadow acres held by a stranger, and **~30 acres gone back to thistle because the only lane runs
-  through a gate somebody wired shut a decade ago over a forgotten quarrel**. He does NOT ask Emlyn to
-  fix it — he comes so that Emlyn cannot later say he ploughed it badly. *"It's a rare mess down
-  there… You've the whole of it in one hand now."* **Emlyn says he will look into it, puts it on a
-  list, and does not touch it for eighteen months.** His own verdict: *"Hal had said people and I heard
-  paperwork, and paperwork can wait, and people, as it turned out, had been waiting eleven years
-  already."* → Ch 17 is therefore a RECKONING, not a discovery: "there was nothing in it I had not been
-  told." Do not write the fragmentation as news to Emlyn again.
+- **⚠️ THE PROPERTY THROUGHLINE — ONE COHERENT LINE (audited 2026-07-15). Its thesis: PENWORTH
+  STITCHED THE HOLDING ON PAPER; NOBODY EVER STITCHED IT ON THE GROUND.**
+  **The chain, in order — do not contradict any link:**
+  1. **Ch 2 (before purchase):** CAEL states it plainly on the crown — *"the good plough-land down in
+     the bottoms is four men's idle acres he's stitched into the one holding that'll bring you a rent,
+     once you've found the right families to put on it."* Emlyn hears "one holding" and "a rent," and
+     is thinking about a hill. This is the seed of the entire arc.
+  2. **Ch 3:** purchase completes; the note; ~a year's grace; the farmland "would have to be got into
+     the hands of tenants."
+  3. **Ch 9:** the money trap. Land does not pay a man for owning it; it pays him for being worked.
+  4. **Ch 10 "Walking the Bottoms" (THE HINGE):** Cael names the Wrays; the tenancy is agreed; and
+     then **HAL WALKS HIM OVER HIS OWN GROUND** and the abstraction becomes physical — the change in
+     the growth where **Hask's 3-acre strip** crosses the field, the **widow's cottage corner**, and
+     the **wired gate** (rust-coated, hawthorn grown through it) beyond which lie **~30 acres** gone
+     back to thistle because the only lane runs through it. Emlyn's realisation, and the arc's thesis:
+     *"Penworth had stitched four dead men's ground into one holding, and he had done it… with a pen,
+     in a room, four days' road away… And on the ground it was four men's ground still, with other
+     people's lives grown up through the middle of it like the hawthorn through that wire."*
+     Hal does NOT ask him to fix it — he walks him over it so that when the field comes in short,
+     Emlyn will know why and cannot lay it at his door. **Emlyn puts it on a list and does not touch
+     it for eighteen months** ("Hal had said people, and I heard paperwork").
+  5. **Ch 16:** the meagre harvest; he cropped only "as much as I could get a plough to, which was
+     less than half of it and not the best half" — a direct consequence of link 4.
+  6. **Ch 17 "The Rent Book":** the RECKONING, not a discovery — *"there was nothing in it I had not
+     been told."* The arrears he was counting on for the glasshouse labour do not exist.
+  7. **Ch 18 "Nobody Worse Off":** consolidation by trade, on the announced rule; Hask; Tam's twelve
+     acres (two of the four freed parcels; ~18 acres remain unlet and are a live thread).
+  8. **Ch 19:** labour bought with craft, because every money route is closed.
+  **THE ACREAGE (locked):** main bottom-field ~40 (Wrays) · Hask's strip 3 (through it) · Bewick's
+  cottage corner 2 (same field) · Tolls' widow 2 (NE meadow) · four unreachable parcels ~30 total,
+  of which **Tam holds 12** and ~18 remain open. Plus the NE meadow (~12) and the hill itself.
+
 - **⚠️ HARVEST HOME — THE HARVEST IS MEAGRE, AND HE BURNS EVERY COIN (Ch 15; REWORKED 2026-07-15 at
   author's direction; supersedes the earlier "the crop cleared it comfortably" version).**
   **WHY IT'S POOR (and it must stay poor):** Hal spent his free first year doing exactly what Emlyn's

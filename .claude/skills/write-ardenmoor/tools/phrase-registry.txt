@@ -84,6 +84,6 @@
 17-the-rent-book.md|a cheese, a fleece, and a notebook
 18-nobody-worse-off.md|the power to do a small ugly thing for a good reason
 19-steel-and-glass.md|They were always yours; I only kept them dry
-10-the-wrays.md|It's a rare mess down there
-10-the-wrays.md|Hal had said people and I heard paperwork
+10-walking-the-bottoms.md|It's a rare mess down there
+10-walking-the-bottoms.md|Hal had said people and I heard paperwork
 09-breaking-ground.md|Man with your money generally hasn't

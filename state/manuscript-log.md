@@ -959,13 +959,12 @@ refuses to absolve himself. THE GIFT: **TAM WRAY, 17**, twelve acres in his own 
 account; Hal: **"He's better than me."** Schedule to Penworth; his one-line reply. CLOSING (dialogue):
 Jorin on the pegged slope, **"And who's setting it?"** prose-lint clean.
 
-[10] The Wrays — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
+[10] Walking the Bottoms — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
 the author's request; ALL later chapters shift +1 (book now ~32 ch). 2,050w, 62% dialogue. Emlyn cannot
 farm, so he goes to CAEL, who names HAL and BESS WRAY. The tenancy negotiation is now the chapter's
 spine as a two-hander (Hal: "There's a year's work in it before it gives you a bushel"; Bess from the
 doorway: "A fifth." and "Men find reasons," answered with the paper and Cael). They come across on one
-borrowed cart. **THEN THE NEW SET-UP MATERIAL (the point of the split):** a fortnight later Hal comes up
-the track on a Sunday with his hat in his hands and tells Emlyn what is actually on his own land — Tobin
+borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"; retitled to rhyme with Ch 2 "Walking the Bounds"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, beck end upward, and shows him rather than tells him — Tobin
 Hask's 3-acre strip through the middle of the best field, a widow's cottage corner, 2 meadow acres held
 by a stranger, and ~30 acres gone back to thistle because the only lane runs through a gate wired shut
 a decade ago over a forgotten quarrel. Hal does not ask him to fix it; he comes so Emlyn cannot later

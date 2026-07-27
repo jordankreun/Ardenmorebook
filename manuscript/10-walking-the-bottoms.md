@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Ten: The Wrays
+### Chapter Ten: Walking the Bottoms
 
 I have got ahead of myself with the house, which is a thing a man does when he is proud of a piece of work. Go back to the front of that spring, to the thaw and the sums and the hill I could not make pay, and there is one more piece of that year to set down, and it is the piece that mattered most in the end, though it took me a great while to see it.
 
@@ -52,44 +52,58 @@ They came across a fortnight later, the Wrays, all their world on one borrowed c
 
 But this is meant to be a chapter about a house, and I have let it wander off into a field, so let me come back up the hill, where I was building one.
 
-That should have been the end of it, and for about a fortnight it was. Then Hal Wray came up my track on a Sunday with his hat in his hand and a question, and the question turned out to be the beginning of a great deal of trouble.
+I walked the bottoms with Hal Wray a fortnight after they came across, and that walk turned out to be the important part of that whole spring, though I did not know it while I was doing it.
 
-"I've been walking it," he said. "The field."
+It was his idea, not mine. He sent word up by the Wednesday boy that if I had a morning he would be obliged to show me something, which is how a careful man says he has found a problem and does not wish to be blamed for it. I went down on a bright cold morning at the front of April with my coat buttoned and no notion whatever that I was about to be taught my own property.
 
-"I'd think less of you if you hadn't."
+We started at the beck end and walked up.
 
-"Aye." He turned the hat round once. He had plainly rehearsed this on the way up and was now discovering that the rehearsal had not covered the actual saying of it. "There's a strip through the middle of it."
+"That's yours," Hal said, of the first stretch, and it was: forty-odd acres of good flat ground with a hedge one side and water the other, thistled to the knee and waiting for a plough. He walked me up the middle of it, and about a third of the way along he stopped and stood and said nothing, and let me work it out, which took me an embarrassing length of time.
 
-"There's a what?"
+There was a change in the ground. Not a fence, not a ditch, nothing a man would notice at speed. A line where the thistle gave way to older, ranker growth, ran along a few dozen paces, and gave back again.
 
-"A strip. Three acre, near enough. Runs from the beck up to the hedge." He watched me take that in, and I could see him deciding how much of my own land to explain to me. "It's not yours."
+"What's this?"
 
-I got the plan out and we spread it on the wall by the barn with a stone on each corner, and Hal put one big finger on the paper, and there it was, if you knew to look: a long thin parcel lying across the middle of my forty acres like a stick dropped across a doorway. I had looked at that plan a dozen times. I had seen a shape and taken it for a boundary of my own.
+"That's Hask's."
 
-"Whose?"
+"Hask's what?"
 
-"Tobin Hask's."
+"Hask's strip." He said it patiently. "Three acre, near enough. Beck to the hedge. Runs through the middle of your field."
+
+I said something I will not set down.
+
+We walked its length, and I looked at it, and I understood what I was looking at, which was a stick dropped across a doorway. To plough my forty acres a man would have to break his run at that line twice on every single pass, turn on the awkward, and go round. Hal had known that since the day he took the ground. He had not mentioned it, because it was not his business to tell a landlord his own land, and because he had assumed, reasonably, that I knew.
 
 "Who is Tobin Hask?"
 
 Hal gave me a look I have had from a good many people in that valley over the years, and which I have come to think of as the look a man gives you when he is deciding whether you are a fool or merely new.
 
-"He's the old fellow with the dog," he said. "On the lane. Been there always."
+"The old fellow on the lane," he said. "With the dog. Been there always."
 
-I asked him how he was to plough around it. He said he would break the run twice on every pass and turn on the awkward, the way the last man had, and the way the man before that had, and that it would cost him something in the working of it, and he said it with no complaint whatever, as a fact about the world he had already accepted before he came up the hill. That was the part that stayed with me. He had not come to ask me to fix it. He had come to make sure I knew, so that I could not afterward say he had ploughed it badly.
+Then he took me round the rest of it, and the rest of it was worse.
 
-"And is there anything else on my ground I don't know about?"
+We came to a corner of the same field with a cottage in it and a garden that stopped me where I stood, because it was three times the garden anyone else in that valley kept and it was kept by somebody who plainly had nothing else. That was not mine either. We went up the east side and along the edge of the wood, and Hal put his hand on a gate, and the gate did not open, because it had been wired shut so long that the wire had grown a coat of rust and the hawthorn had come up through it.
 
-Hal Wray looked at the hill, and at the valley, and back at me.
+"How long?"
 
-"Some," he said.
+"Ten year? Twelve." He shrugged. "There was a falling-out. I couldn't tell you what over. My father might have known."
 
-He gave it me standing there in the yard, in the flat way a man reports a hedge that wants laying: a cottage and garden in the far corner of the same field, a widow's, not mine. Two acres of the meadow held by somebody nobody had seen in years. And beyond that, over toward the wood, ground that had been good ground once and had gone back to thistle because there was no lane to it, and there was no lane to it because the lane went through somebody else's holding, and that somebody had wired the gate shut a decade ago over a quarrel nobody could now recall the cause of.
+And beyond that gate, which nobody living could remember the reason for, lay four parcels of good plough-land, thirty acres of it or better, gone entirely back to thistle and scrub and young birch, because the only lane to them ran through the ground of a man who had wired his gate over a quarrel nobody could now recall, and everyone had eventually stopped trying, and the ground had simply been let go.
 
-"How much of it?"
+I stood at that gate a long while.
 
-"Thirty acre. Might be more." He said the next part carefully, because it was not his place and he knew it was not his place. "It's a rare mess down there. Always has been. Nobody's had the whole of it in one hand since before I was born, and every man that's had a piece of it has fenced what he could reach and let the rest go." He put his hat back on. "You've the whole of it in one hand now."
+Because I had heard all of this before, in a manner of speaking, and had not understood one word of it. Cael had told me, on the crown, before I ever put my name to anything: *the good plough-land down in the bottoms is four men's idle acres he's stitched into the one holding that'll bring you a rent, once you've found the right families to put on it.* I had heard "one holding." I had heard "a rent." I had been thinking about a hill.
 
-I said something at the time about looking into it, which was the sort of thing I said in those days when I meant that a thing had gone onto a list.
+Penworth had stitched four dead men's ground into one holding, and he had done it exactly as a man of business does such things, which is to say with a pen, in a room, four days' road away. On the paper it was one property. Every line on that plan was true.
 
-And it went onto the list, and it stayed there, under the Study and the lamps and the first winter and the money, for a year and a half, and I did not touch it. I have wondered since why. Part of it was simply that a man who owns a great deal of land he has never walked can go on believing it is one shape indefinitely, and the plan on the wall was a good deal more convenient than the ground. But most of it, if I am honest, was that Hal had said *people* and I had heard *paperwork*, and paperwork can wait, and people, as it turned out, had been waiting eleven years already.
+And on the ground it was four men's ground still, with other people's lives grown up through the middle of it like the hawthorn through that wire, and not one thing had actually been joined to anything else.
+
+"It's a rare mess," Hal said, from behind me. He was uncomfortable saying it and said it anyway. "Always has been. Nobody's had the whole of it in one hand since before I was born, and every man that's had a piece has fenced what he could reach and let the rest go." A pause. "You've the whole of it in one hand now."
+
+Which was the sentence, though neither of us knew it that morning.
+
+I asked him what he wanted done about the strip, and he said nothing at all; he would plough round it as the last man had and the man before that, and it would cost him something in the working, and he said that with no complaint whatever, as a fact about the world he had accepted long before he came up my track. That was the part that stayed with me longest. He had not walked me over his own ground to ask me to fix it. He had walked me over it so that when the field came in short, I would know why, and could not lay it at his door.
+
+I said I would look into it. I remember saying it. It was the sort of thing I said in those days when I meant that a thing had gone onto a list.
+
+And onto the list it went, under the Study and the lamps and the first winter and the note and the lamp trade and the glass, and there it sat for eighteen months while I did not touch it. I have wondered since why, and I have only the one honest answer, and it does me no credit at all. Hal had said *people*, and I had heard *paperwork*. Paperwork can wait. People, as it turned out, had been waiting eleven years already.
