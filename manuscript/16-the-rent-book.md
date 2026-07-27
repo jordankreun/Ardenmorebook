@@ -16,7 +16,7 @@ It was a mess.
 
 I do not mean the paper was a mess, though it was. I mean the land was. The four holdings Penworth had bundled together for me had each been dying by inches for thirty years, and in that time bits had been sold and bits had been let and bits had simply been walked onto by whoever wanted them, and nobody had drawn a line on a map since before Cael was born. What I owned, when I finally understood it, was not a farm. It was a jigsaw with pieces missing and other men's pieces in the box.
 
-There was a strip three acres long running clean through the middle of the main bottom-field, from the beck up to the hedge, and it was not mine at all. There was a cottage and garden in the far corner of the same field, also not mine. There were two rough acres of the NE meadow held by somebody I had never heard of. There were four separate parcels of good plough-land, together making perhaps thirty acres, that had gone out of cultivation because they could not be reached without crossing ground that belonged to somebody else, and everyone had eventually stopped trying.
+There was a strip three acres long running clean through the middle of the main bottom-field, from the beck up to the hedge, and it was not mine at all. There was a cottage and garden in the far corner of the same field, also not mine. There were two rough acres of the NE meadow held by somebody I had never heard of. There were four separate parcels of good plough-land, together making perhaps thirty acres, gone out of cultivation because they could not be reached without crossing ground that belonged to somebody else, and everyone had eventually stopped trying.
 
 And around all of it, in the corners and the awkward angles, in a way no plan in the world showed, were people.
 
@@ -32,15 +32,65 @@ That is what I believed on the evening I put my boots by the fire and made my li
 
 I went round them over eleven days that October, on foot, with a notebook, and I will not pretend I enjoyed it.
 
-There were five in the end.
+There were five in the end, and I met every one of them, and it is the meeting I remember and not the ledger.
 
-**Ned Pardon** had a corner of scrub on the north side that he grazed four goats and a bad-tempered pony on, and had done since his father's time. He paid, when anybody asked him to, a cheese at midsummer and a fleece at Michaelmas, which had been the custom in his grandfather's day and which he had gone on paying to nobody in particular for eleven years because there had been nobody in particular to pay. He had them ready when I came. He had been keeping them.
+**Ned Pardon** first, on the north side, where a corner of scrub runs up to the wood.
 
-**Alice Bewick** had the cottage in the corner of the bottom-field, and a garden that was better than any garden I had seen in that valley, and three children and no husband, and she had been terrified of my arrival for eighteen months. She had the rent, in coin, counted out on the table before I had my hat off. She had gone without to have it there.
+He was waiting for me at his gate. I do not mean he happened to be there; he had been told I was coming round, the way everyone in that valley was told everything, and he had put on a coat.
 
-**The Tolls' widow** held the two acres of the NE meadow and did not want them; her sons had gone to Wainford and she had let the ground go back to thistle and could not sell what she had no papers for.
+"You'll be after the rent," he said.
 
-**Cob Ferris**, up the beck, held a strip he had never worked in his life because it was too far from his own place, and had been quietly using it as an excuse not to be asked for anything else.
+"I'm after finding out who's on my land, Mr Pardon, and what the arrangement is."
+
+"Same arrangement as my father had." He said it the way you lay down a card you have been holding for a long time. "Cheese at midsummer. Fleece at Michaelmas. That's what was set and that's what's been paid."
+
+"Paid to whom?"
+
+And there it was: the old man looked away up the hill for a moment, and then back, and said, with tremendous dignity, "That's the difficulty."
+
+The difficulty, when we had got to the bottom of it over the better part of an hour, was that the last man with any right to collect from Ned Pardon had died when I was in the city and Ned Pardon was in his forties, and that in the eleven years since, nobody had come. And Ned Pardon had gone on setting a cheese aside at midsummer and a fleece at Michaelmas, every year, for nobody, because it was owed, and because a man who stops paying a debt merely on the grounds that no one is left to collect it has become, in his own estimation, a different sort of man.
+
+Eleven years of it. He had eaten the cheeses eventually, he admitted, there being a limit. The fleeces he had kept, and they were in his loft, and he took me up to see them, and there they were, eleven fleeces in a stack, rolled and tied, going yellow at the bottom of the pile.
+
+"I'll take this year's," I said, when I could.
+
+"You'll take the lot."
+
+"Mr Pardon, I'll take this year's."
+
+We had a considerable argument about it. He won more of it than I meant him to; I came away with the current fleece and a cheese and an undertaking, extracted from me on his own doorstep and never afterward rescinded, that the arrangement would be the arrangement while he lived. When I sent Penworth the schedule I put Ned Pardon's holding down at a cheese and a fleece a year and let a solicitor in a city four days off make of it what he liked.
+
+**Alice Bewick** had the cottage in the corner of the bottom-field, three children, no husband, and the best garden I have ever seen in a small space.
+
+She had the rent counted out on the table before I got my hat off. Coin, in a saucer, in three little stacks so that it could be seen to be right.
+
+I have thought since that she must have been getting ready for me for eighteen months. She had a landlord she had never met and could not picture, and the only picture the world had ever given her of such a man was one who turns people out, and she had been paying for that picture out of a small garden and whatever she could earn with her needle, and putting it by, and waiting.
+
+"It's all there," she said. "You'll want to count it."
+
+"I'm sure it's right."
+
+"You'll want to count it," she said again, and I understood that she needed me to, so I counted it, and it was right, and I put it back in the saucer and pushed the saucer across the table.
+
+She looked at it. Then she looked at me, and her face did a thing I did not enjoy at all. It closed up. She had been waiting eighteen months to find out what the catch was, and now she believed she had found it.
+
+"I don't take that sort of arrangement," she said, in a voice with a lot of years in it.
+
+It took me a moment to see what she meant, and when I saw it I was so angry, not at her, that I had to go and look at her garden for a minute before I could answer.
+
+"Mrs Bewick," I said, when I came back in, "I am refusing your rent because you have starved to put it there, and a rent that must be starved for is not a rent. It is a slow way of losing a tenant. I would rather have a woman with a good garden and a full belly on my ground in ten years than nine shillings in my hand in October. That is the whole of it, and it is not a kindness, it is arithmetic, and if you want it in writing you shall have it in writing tomorrow, signed, and you may show it to anyone you like."
+
+She was a while answering.
+
+"In writing," she said.
+
+"In writing."
+
+She cried then, briefly and furiously and without any apparent connection to her face, which stayed exactly where it was throughout. Then she was extremely brisk with me for the remainder of the visit as a way of getting even, and made me take away four jars of something and a bunch of sage, and told me at the gate that my thyme was in the wrong place. It was.
+
+**The Tolls' widow** held two thistled acres of the NE meadow and wanted rid of them. Her sons had gone to Wainford; the ground had gone back; there were arrears on the roll that were real on paper, and she stood in her kitchen with her hands in her apron while I read the figure out, and I looked at the room while I was reading it and understood that I could have had the two acres and everything else in that house and it would not have bought a week of a mason's time.
+
+**Cob Ferris**, up the beck, owed me for a strip he had never worked in his life. He gave me twenty minutes on how difficult that strip was to reach, and that was true; on how he had always meant to get to it, and that was not; and on how times were hard, that being the one thing everybody says and everybody means. He would pay eventually. Men like Ferris always pay eventually: slowly, partly, and with a grievance.
 
 And **Tobin Hask** had the three-acre strip through the middle of the Wrays' field.
 
@@ -56,19 +106,15 @@ I had thought the problem was money. It was not money. Money was the easy part; 
 
 The money went out of that notebook a holding at a time, and I could feel it going.
 
-It went first at Ned Pardon's, where the rent on the roll was written in shillings and the rent in fact was a cheese and a fleece, and had been for three generations, and no court in the world would have got anything else out of that corner of scrub because there was nothing else in it. It went again at the Tolls' widow's, where the arrears were real on paper and the woman had nothing whatever, and I stood in her kitchen and understood that I could have had her two thistled acres and her few sticks and it would not have bought a week of a mason's time. It went at Cob Ferris's, who owed me for a strip he had never worked, and who would have paid me eventually, in the way men like Ferris pay: slowly, partly, and with a grievance.
+It went first at Ned Pardon's, where the rent on the roll was written in shillings and the rent in fact was a cheese and a fleece and had been for three generations. No court in the world would have got anything else out of that corner of scrub, there being nothing else in it. It went again at the Tolls' widow's, where the arrears were real on paper and the woman had nothing whatever, and I stood in her kitchen and understood that I could have had her two thistled acres and her few sticks and it would not have bought a week of a mason's time. It went at Cob Ferris's, who owed me for a strip he had never worked, and who would have paid me eventually, in the way men like Ferris pay: slowly, partly, and with a grievance.
 
 By the fifth evening I had stopped adding it up in my head and started subtracting.
 
 Set against the eighteen months of arrears I had sat and dreamed over at my own table, what I could actually put my hand on would not have paid a builder's crew for a fortnight. Not for a winter. For a fortnight.
 
-And of that, exactly one part could really be collected. It was lying counted out in coin on a scrubbed table in front of a woman with three children who had gone without to have it there.
+And of that, exactly one part could really have been collected, and I had pushed it back across a table in a saucer.
 
-I did not take it.
-
-That was not charity and I want to be plain about it, because Bess Wray had taught me the difference in one sentence at a harvest supper and I had learned it. I did not take it because a rent that must be starved for is not a rent, it is a slow way of losing a tenant, and I would rather have a woman with a good garden and a full belly on my land in ten years than a shilling in my hand in October. I told her something like that, badly. She heard the part she needed and cried, which neither of us had wanted, and then she was extremely brisk with me for the rest of the visit as a way of getting even.
-
-So I collected: Ned Pardon's cheese and fleece, which he would have been insulted to have refused, and which I have never eaten or worn without thinking of him. And nothing else. Eleven days on foot and I came home with a cheese, a fleece, and a notebook.
+So the whole of what I brought home from eleven days on the road was Ned Pardon's cheese and Ned Pardon's fleece. He would have been insulted to have either refused. I have never eaten or worn either without thinking of him. A cheese, a fleece, and a notebook.
 
 I sat down that night and went looking for money in every direction there was. It took under an hour. There were not many directions.
 

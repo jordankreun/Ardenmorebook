@@ -237,6 +237,11 @@ When asked to write chapter N:
   one stays blind (unremarked, ordinary temperature, doing a second mundane job); any [OPEN]
   question the chapter brushes that must not be foreclosed; and which signature tics the previous
   chapter leaned on, so this one varies them (the lint's adjacent-echo check is the backstop).
+- **If this chapter turns on money, land, trade, or an institution:** run the **P1b ledger rules**
+  (`references/feedback-engine.md`). Name the people the economics will be delivered through and the
+  two or three transactions to DRAMATIZE; check that every sum respects the *reason* an earlier
+  chapter gave for the state of things; and list the ordinary money routes that must be visibly
+  closed before any unconventional solution is allowed to appear.
 - **Three continuity locates (Tier-2 spines — the arithmetic a per-chapter check can't see):**
   1. **Locate this chapter on the CALENDAR SPINE** (story-bible NUMBERS LEDGER): its season and
      cumulative elapsed. Is the clock honest — does it move forward without skipping a season
@@ -246,6 +251,13 @@ When asked to write chapter N:
      river house) before the Ch27–28 finale — mid-book grief is a threshold, never a release.
   3. **Recall the previous TWO chapters' CLOSING SHAPES** (image vs. line-of-dialogue, and their
      subject) so this close varies from both (craft dial #3 / the lint's Bookend check backstops it).
+  4. **CAUSAL check, not just calendar:** ask what REASON earlier chapters gave for the current state
+     of things (why the ground is poor, why a tenancy is free, why a route is closed), and confirm
+     this chapter's outcome does not quietly contradict it. Each chapter can pass its own canon check
+     while the contradiction lives in the causation between them.
+  5. **Renames:** if a chapter file is renumbered or renamed, rewrite its rows in
+     `tools/phrase-registry.txt` and `tools/vouched.txt` to the new basename, or the lint will throw
+     false reuse-FAILs and stale vouches. (Bitten twice on 2026-07-15.)
 
 **Then draft the prose.** Length follows session-lock #7 (flexible: most chapters ~3,000–5,000,
 short chapters ~1,500–2,500 welcome when that is their natural size, longer when earned; never pad,

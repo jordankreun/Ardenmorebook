@@ -29,6 +29,12 @@ and the story bible, and draft against it:
    against (the two grandmothers, unnamed proper names) so no line forecloses them by accident.
 4. **Tic exposure.** Note which signature constructions the previous chapter leaned on, so this
    one varies instead of echoing (the lint's echo check is the backstop, not the plan).
+5. **If the chapter's subject is money, land, trade or an institution (P1b): name the PEOPLE it will
+   be delivered through, and which two or three transactions will be DRAMATIZED as scenes.** Also
+   name what the earlier chapters have already established as the *reason* for the state of things,
+   so the arithmetic respects it, and list which ordinary routes to money must be visibly closed
+   before any unconventional solution appears. A ledger chapter that cannot name its people in the
+   brief will be written as a catalogue.
 
 Keep the brief to ~6 lines. It is the difference between an engine that grades homework and an
 engine that teaches the writing.
@@ -178,6 +184,52 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   superstition or ordinary explanation first (bad masonry, a failed wall grown into a legend); any
   belief is earned slowly and privately. *Source: Ch2, "have it heard as more of a challenge…
   village superstition and bad building."*
+
+## P1b — MONEY, LAND & INSTITUTIONS (the ledger rules; added 2026-07-15 from the tenancy arc)
+
+This book runs on commerce, and the commerce is a lot of its pleasure. These rules exist because a
+book about a man building an enterprise can drift into being *about the enterprise*, and because the
+author has repeatedly (and rightly) pushed the arithmetic to be harder and more honest.
+
+- **[HARD] Every sum must be causally consistent with its own stated reason.** If a chapter explains
+  WHY a thing is so (rough ground repays the third year, not the first), a later chapter may not
+  quietly rely on the opposite (a bumper first harvest). This is the failure the calendar/numbers
+  spine cannot see: each chapter passes alone; the contradiction lives in the causation BETWEEN them.
+  *Check at pre-draft: what reason did an earlier chapter give, and does my outcome respect it?*
+  *Source: the author's question "why is the Wrays' first year free?" (2026-07-15), which exposed
+  exactly this between Ch 9 and Ch 15.*
+- **[HARD] Money is never solved by convenience.** No windfalls, no round numbers that happen to fit,
+  no unexplained slack. When a sum works out, show the parts. When it doesn't, the shortfall drives
+  the next chapter. Emlyn ends the tenancy arc on **eleven shillings**, and that figure is load-bearing.
+- **[CRAFT] Close the doors on the page.** Before a character solves a money problem an unexpected way,
+  the reader must have watched the ordinary routes close, by name (the hill twice-charged; the patents
+  already leant on; the lamps are bread not a wage bill; the crop and the house sold and spent). A
+  solution the reader could have thought of first is not a solution; it is a plot hole they are being
+  asked to ignore.
+- **[CRAFT] Pay in kind when there is no coin.** This valley is cash-poor and rich in everything else.
+  The most characterful deals are barter of skill, time, land, reprieve, and future work (three years
+  of footings; a season at the forge; first refusal on a crop; a lifetime's firewood; rent-free years
+  instead of an outlay). *Craft-debt is a different kind of debt, and it binds people together where
+  cash would separate them.*
+- **[CRAFT] Both sides must win, and the narrator must be able to say how.** Every bargain in this
+  book is legible from the other party's side (Jorin gets a winter's work AND three years of certain
+  ground; Kellard gets something to boast of; Hal gets to be a tenant rather than an object of pity).
+  A deal the other party would not take is a deal the reader will not believe.
+- **[HARD] PEOPLE FIRST, LEDGER SECOND — the anti-dryness rule.** In any chapter whose subject is
+  money, land, or an institution, the **economics must be delivered THROUGH people in scenes**, not
+  catalogued. Test: could this section be a table? If yes, rewrite it as encounters. A named person
+  standing in their own kitchen while the figure is read out is worth ten lines of accounting.
+  Concretely: **dramatize at least the two or three transactions that cost somebody something**, and
+  give each of them a want, a voice, and a piece of dignity to defend. *Source: the Ch 16 audit
+  (2026-07-15) — the first draft ran 21% dialogue against 56% and 44% in its neighbours because the
+  five tenants were listed rather than met; rewritten to 30% and the chapter came alive.*
+- **[CRAFT] Owning things costs the owner something moral.** Land is people. When consolidation,
+  eviction, or a renegotiation happens, at least one person must be genuinely worse served by the
+  right decision, and the narrator must NOT resolve his own discomfort about it (the Hask beat).
+  Refuse the tidy absolution; leave the two sentences that will not sit together.
+- **[CHECK] The institutional detail is domestic.** Patents, rent rolls, escrow, arrears, tranches and
+  schedules are welcome and are part of the world's texture, but each one arrives attached to a person
+  and a feeling: a widow's saucer of coin, eleven fleeces in a loft, a boy going red at a window.
 
 ## P2 — CHARACTER INTRODUCTION & THE ASIDE DISCIPLINE
 
@@ -329,6 +381,11 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   *Source: "good horse — better introduce"; "and in the matter of what I ought to want — unclear."*
 - **[CHECK] No vague abstraction standing in for a thing.** Prefer the concrete noun. If a phrase
   could mean three things, it means none. *Source: the clarity notes.*
+- **[CHECK] Dialogue-share sanity against the neighbours.** Run the lint's meter and compare with the
+  chapters either side. A chapter far below its neighbours is usually not "interior by design"; it is
+  usually a chapter where people were summarized instead of met. Interior chapters are legitimate and
+  vouchable, but the burden is on the draft to justify it. *Source: the Ch 16 audit, 2026-07-15
+  (21% against neighbours at 56% and 44%).*
 
 ---
 
@@ -500,3 +557,38 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   lightning-thunder tail's over-explaining clause. Lesson: a locked-decision breach is a FAIL class
   the mechanical list must cover phrase-by-phrase; when a lock bans a *family* of phrasing, seed the
   list with every variant the lock names, not just the first.
+- **2026-07-15 — the TENANCY ARC (author-guided rewrite of Ch 9–17) → new P1b MONEY, LAND &
+  INSTITUTIONS section.** Five distinct lessons, all from author pushes, all now rules:
+  (a) **Causal consistency across chapters.** The author asked "why is the Wrays' first year free?"
+  Ch 9's answer (rough ground repays the third year, not the first) logically forbade Ch 15's bumper
+  harvest, but each chapter passed its own CANON check because the contradiction lived in the
+  causation BETWEEN them, not in any date or figure. → [HARD] rule + a new pre-draft CAUSAL check.
+  (b) **No convenient money.** The author repeatedly hardened the arithmetic (greenhouse rescaled to
+  a bet-the-hill second borrowing; harvest made meagre; every liquid coin burned to eleven
+  shillings). → [HARD] "money is never solved by convenience," and the shortfall drives the next
+  chapter rather than being absorbed.
+  (c) **Close the doors on the page.** The author's steer that the arrears were "the plan" and their
+  failure "the nail in the coffin" produced the closed-door reckoning (hill twice-charged, patents
+  leant on, lamps are bread not a wage bill, crop and house spent). → [CRAFT] rule: the reader must
+  watch the ordinary routes close, by name, before an unconventional solution appears.
+  (d) **Pay in kind when there is no coin**, and **both sides must visibly win.** The labour bargain
+  became craft-for-work (3 yrs of footings, a season at the forge, first refusal on a crop). → two
+  [CRAFT] rules; craft-debt binds where cash separates.
+  (e) **PEOPLE FIRST, LEDGER SECOND (the anti-dryness rule).** Author: "make sure it's still focused
+  on people equally with finances so it doesn't read dry." A dialogue-share audit showed Ch 16 at
+  **21%** against neighbours at **56%** and **44%** — the five tenants had been LISTED, not met.
+  Rewritten as encounters (Ned Pardon's eleven unclaimed fleeces in a loft; Alice Bewick's saucer of
+  coin and her "I don't take that sort of arrangement") → 30%, and the chapter came alive. → [HARD]
+  rule ("could this section be a table? then rewrite it as encounters"; dramatize the two or three
+  transactions that cost somebody something) + a new P6 [CHECK] comparing dialogue share against the
+  neighbouring chapters.
+  Also added: [CRAFT] "owning things costs the owner something moral" (the Hask beat — refuse the
+  tidy absolution) and [CHECK] "institutional detail is domestic" (every patent/arrear/tranche
+  arrives attached to a person and a feeling). Process fix in SKILL.md: a chapter RENAME must
+  rewrite its `phrase-registry.txt` and `vouched.txt` rows (bitten twice in one session).
+- **2026-07-15 — author correction: Emlyn's trade is GENERAL WIZARDRY + PATENTS**, not ground-command.
+  I had drifted into writing ground-work as his defining craft and built a bargain on it; corrected in
+  prose and bible, both formulations added to `superseded.txt`, and doc-audit immediately caught a
+  third stale instance I had just written. LESSON (now in the intake protocol's spirit): an invented
+  professional/world detail must be checked against occupation canon BEFORE it propagates — this one
+  reached three files in two turns.
