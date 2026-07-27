@@ -929,7 +929,7 @@ back to a cupboard you know is empty," and it is "the last time in that whole bu
 there was money anywhere." The round kills it holding by holding (Pardon's shillings are a cheese and a
 fleece by three generations' custom; the widow has nothing; Ferris would pay "slowly, partly, and with
 a grievance"); by the fifth evening he has stopped adding and started subtracting. Realisable total
-**would not pay a crew for a FORTNIGHT**. He comes home with **a cheese, a fleece, and a notebook**.
+**would not pay a crew for a WEEK**. He comes home with **a cheese, a fleece, and a notebook**.
 **THE CLOSED-DOOR RECKONING:** the hill is charged twice and cannot be charged again, the old patents
 are already leant on, the lamps are the winter's bread not a wage bill, crop and city house both spent.
 *"There was no money. There was not going to be any money. That was settled that night and it stayed

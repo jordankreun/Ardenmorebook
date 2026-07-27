@@ -1381,7 +1381,7 @@ show release. The coarse curve, so no chapter overshoots:
   money anywhere." **The round destroys it holding by holding:** Pardon's shillings are in fact a
   cheese and a fleece and have been for three generations; the Tolls' widow has nothing; Ferris would
   pay "slowly, partly, and with a grievance." By the fifth evening he has stopped adding and started
-  subtracting. Total realisable: **would not pay a crew for a FORTNIGHT, let alone a winter** — and the
+  subtracting. Total realisable (~£8): **would not pay a crew for a WEEK, let alone a winter** (the crew is £8 6s/wk; the whole winter is **£100**, and the paper arrears were almost exactly that: enough to have paid every man in cash, weekly, like a real employer) — and the
   one collectable part is Bewick's coin, which he refuses. He collects **a cheese, a fleece, and a
   notebook.**
   **THE CLOSED-DOOR RECKONING (same night, ~an hour):** the hill is **charged twice and cannot be

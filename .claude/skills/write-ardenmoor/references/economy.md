@@ -152,17 +152,18 @@ slowly, out of income he does not yet have.
 | Complete farm homestead (house + cottages) | ~£3,900 (1860s) |
 | Glasshouse anchors | Kew Palm House £30,000 (362 ft, monumental); Torquay Winter Gardens £12,783 |
 
-**Derived (my arithmetic): the winter crew.** Eight men (Jorin at ~40s, two skilled fitters at 29s,
-five labourers/Ren/Tam at 17s) = **~£9 3s per week**. Over a 16–24 week winter that is **£150–220
-in total wage value.** ⚠️ But canon (Ch 19) has Jorin take **half weekly, half deferred** against the
-glasshouse's first two selling seasons — so the **CASH requirement is only ~£75–110.**
-*That smaller number is the real hole in Ch 19, and the arrears must be sized to match it.*
+**⚠️ Derived (my arithmetic) — THE WINTER CREW = £100. LOCKED at author's direction 2026-07-27.**
+Seven men: **Jorin at 40s · two skilled fitters at 29s · two labourers at 17s · Ren on a man's wage
+17s · Tam 17s** = **166s = £8 6s per week.** Over a **12-week** build (footings, frame, and the
+three weeks of glazing canon already specifies) that is **£100 exactly.**
+The 12 weeks matter: it is a **tight frost-to-thaw window**, which is why the job exists at all —
+canon has nobody building in that valley in winter, but *steel and glass do not care about frost.*
 
 ### ⚠️ THE LABOUR-TO-LAND RATIO — it should feel absurd, and the book should SAY so
 
-One winter of eight men costs about **£180**. At the blended rate that bought the estate, £180 buys
-roughly **two hundred acres**. A single labourer's annual wage (~£40) buys about **forty-four
-acres** of Ardenmoor, or ten of the developed core.
+One winter of seven men costs **£100**. At the blended rate that bought the estate, £100 buys
+roughly **a hundred and ten acres** — or twenty-five of the developed core. A single labourer's
+annual wage (~£40) buys about **forty-four acres** of Ardenmoor.
 
 **This is not a broken number. It is the defining feature of frontier economics**, and it is why the
 land is cheap in the first place: land without labour earns nothing, so it prices at nothing, while
@@ -172,7 +173,7 @@ work bought over a hundred acres). **Cheap land and dear labour are the same fac
 
 → **Do not hide this. Give it to Emlyn.** The reader's instinct will be that it sounds mad, and the
 correct move is for the narrator to have had the same thought first. He can note, flatly, that he
-could buy two hundred more acres for what it costs to keep eight men through one winter, and that
+could buy a hundred more acres for what it costs to keep seven men through one winter, and that
 this is precisely why nobody in that valley is rich and why the acres were there to be bought at
 all. **It is the whole thesis in one arithmetical shrug**, and it costs one sentence.
 
@@ -256,7 +257,7 @@ book's economic drama. Read down this table before writing any money beat.
 | **Yr 2 sum** | Lamps | **First note payment** | Survivable *because* of the exchange money |
 | **Yr 2 aut** | Harvest (meagre: newly broken ground) + customary rents + **completion ~£2,500** | **Second note payment in full** · then glasshouse **materials** | **ELEVEN SHILLINGS.** Nothing toward labour |
 | **Yr 2 aut** | *Expected: arrears* | — | ⚠️ **The arrears were the labour plan. They collapse (Ch 17).** |
-| **Yr 2 winter** | — | Glasshouse labour: **~£90 cash + ~£90 deferred** | No instrument left → **buy labour with CRAFT (Ch 19)** |
+| **Yr 2 winter** | — | Glasshouse labour **£100**: £50 weekly + £50 deferred | Arrears dead → **half deferred + CRAFT (Ch 19)** |
 
 ### Why the £1,200 surplus does not rescue him — all four must hold
 1. **Earmarked and spent before the glasshouse exists as a plan** — house, timber outbuildings,
@@ -268,19 +269,25 @@ book's economic drama. Read down this table before writing any money beat.
    winter's bread not a wage bill, crop and house sold and spent, and per §2 **no lender will take
    undeveloped remote land**.
 
-→ **The hole is LABOUR and only labour.** Roughly **£90 in cash** that he does not have, against a
-total wage value near £180. Small in absolute terms, and utterly out of reach, which is the point.
+→ **The hole is LABOUR and only labour: £100.** Not a fortune. Roughly what two hundred of his own
+acres cost him. **And utterly out of reach**, because every instrument is spent. That gap between
+how small the sum is and how impossible it is to raise **is the whole of his condition in one
+number**, and it is worth letting him feel the absurdity of it on the page.
 
 ### The arrears collapse (Ch 17) — keep the two numbers
 - **On paper:** 18 months × 5 inherited tenancies, reckoned on the **old rent roll's copperplate
-  figures** — rates set decades ago when those holdings were fully worked and much larger. ≈ **£90–110.**
-  "A real amount of money. Not a fortune. Enough." Enough, **exactly**, for the crew's cash half.
+  figures** — rates set decades ago when those holdings were fully worked and much larger. ≈ **£100.**
+  "A real amount of money. Not a fortune. Enough." ⚠️ **Enough, EXACTLY, to pay the whole crew in
+  cash** — which was the plan: to pay his men properly, weekly, like a real employer.
 - **Realisable:** Pardon pays in kind; the widow has nothing; Ferris pays "slowly, partly, and with
-  a grievance"; Bewick's coin he refuses; Hask he forgives. **≈£8–12.**
+  a grievance"; Bewick's coin he refuses; Hask he forgives. **≈£8.**
 - **The gap between those two numbers IS the chapter.** Match the paper figure to the wage bill.
 
 ### The glasshouse
-160 ft × 5 bays: **materials £800–1,200, labour £150–220, total ~£1,000–1,400.** Against £60–100/yr
+160 ft × 5 bays: **materials £800–1,200, labour £100, total ~£900–1,300.** ⚠️ Labour is only ~10% of
+the project because the frame arrives **prefabricated on eleven wagons** — the cost is steel, glass,
+stove, ducting and freight up the frontier road. Erection is the cheap part, and it is still the part
+he cannot pay for. Against £60–100/yr
 of land income and eleven shillings in the box, correctly *ruinous to attempt* — though note the
 distinction the book must hold: **it would not bankrupt a man with his assets; it would strand
 him.** He can lose everything liquid and still own five thousand acres. That is worse in a
@@ -291,8 +298,8 @@ different way, and more interesting.
 ## 8. ⚠️ WHAT ACTUALLY PAYS IN BOOK ONE (value density, not acreage)
 
 **⚠️ NO ACCESS ARRIVES IN BOOK ONE. NO ROAD TO MARKET GETS BUILT. THE LAND NEVER STARTS PAYING.**
-A man who cannot find ninety pounds in cash for a winter's wages cannot build a road to a railhead
-four days off, and any beat implying otherwise is false to the constraint the whole book runs on.
+A man who cannot find a hundred pounds for a winter's wages cannot build a road to a railhead four
+days off, and any beat implying otherwise is false to the constraint the whole book runs on.
 
 So how does he survive? **He stops trying to move bulk and starts moving value.**
 

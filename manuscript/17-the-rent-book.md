@@ -30,7 +30,7 @@ Now I must be honest about why I went, because Penworth's letter is the respecta
 
 I went for the money.
 
-By the time that letter came I had paid the note and bought the steel and the glass, and what I had left in the box on the shelf would not have kept a labouring man in bread for a fortnight, and Jorin's crew wanted paying for a winter I could not pay for. And sitting there on the old rent roll, in a clerk's copperplate from before I was born, were five holdings with rents against them, none collected since the purchase and some not properly collected for a great deal longer. Eighteen months of arrears, on five tenancies, on a holding this size.
+By the time that letter came I had paid the note and bought the steel and the glass, and what I had left in the box on the shelf would not have paid a labouring man his week, and Jorin's crew wanted paying for a winter I could not pay for. And sitting there on the old rent roll, in a clerk's copperplate from before I was born, were five holdings with rents against them, none collected since the purchase and some not properly collected for a great deal longer. Eighteen months of arrears, on five tenancies, on a holding this size.
 
 I did that sum at my own table more than once, the way you keep going back to a cupboard you know is empty. On the old roll's own figures it came to a real amount of money. Not a fortune. Enough. Enough, near enough, laid alongside what the lamps would bring in over the winter, to put men on that steel and keep them there until the glass was in.
 
@@ -116,7 +116,7 @@ It went first at Ned Pardon's, where the roll said shillings and the truth said 
 
 By the fifth evening I had stopped adding it up in my head and started subtracting.
 
-Set against the eighteen months of arrears I had sat and dreamed over at my own table, what I could actually put my hand on would not have paid a builder's crew for a fortnight. Not for a winter. For a fortnight.
+Set against the eighteen months of arrears I had sat and dreamed over at my own table, what I could actually put my hand on would not have paid a builder's crew for a week. Not for a winter. For a week.
 
 And of that, exactly one part could really have been collected, and I had pushed it back across a table in a saucer.
 
