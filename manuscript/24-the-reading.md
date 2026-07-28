@@ -1,0 +1,47 @@
+# The Tower of Ardenmoor
+
+## Book One
+
+### Chapter Twenty-Four: The Reading
+
+I spent the evenings of those four days with the notebooks, as I had spent a hundred evenings before them, and I want to set the notebooks first, because it matters to what follows that I went down those cellar stairs already carrying somebody else's forty years.
+
+I had been reading them in order, as Brenna required, one volume at a time, each handed over only when she judged the last one had been treated with the seriousness it was owed. There was no arguing with the system and I had stopped trying; her grandmother had earned her records the slow way, a season at a time on a cold hilltop, and Brenna portioned them out the same way, and I have come to believe she was right to. Read all at once, the notebooks would have been a curiosity. Read across two years, at the pace of their making, they had become something else: a correspondence, almost, with a woman I would never meet, who had stood where I stood and heard what I heard and had nothing to work with but patience and a pencil, and who had, with those two tools, got further than I liked to admit.
+
+The volume I had that week was from her late middle years, the pencil pressed harder, the entries shorter. And on the third evening of the four, by the lumen's amber, I came to the place where the whole of her forty years finally stood up and said what it had gathered itself to say.
+
+She wrote: *I have been wrong all this time about one thing. I thought the song was for the tree, and the tree's answering was for the hill, two old things keeping company. It is not so. I have listened long enough now to say it is not so. The song goes to the tree and the tree holds it and passes it on, the way a man at a door takes a coat, and what the song is for has not come yet. That is the whole of it. The song is for something that is not here. It is the patientest thing I ever heard of, and I will not live to see what it is waiting for, and I find I mind that less than I expected. Somebody will.*
+
+I copied the entry out fair into my own working notes, dated it in her year and mine, and sat for a while, and then I banked the fire and went to bed, because the moon was dark the next night, and I meant to be sharp for it.
+
+I went down at the third hour after midnight, into the cold that lives in cut stone, with the lumen in one hand.
+
+Two blanks lay in the cellar floor, set flush in the stone a pace apart. The first had listened for thirty days, two years gone, and I had read it then and got from it the beginnings of everything: the hum's architecture, the two pulses, the first thin evidence that the sound was not weather. The second had lain listening ever since, through the tenants and the harvest and the rent book and the steel and the glass, fourteen months of nights taken down entire while I was busy above it with money. A recording blank does not tire and does not select. It keeps everything, at depth, in the fine lattice of its making, and it gives everything back to a reading hand in the order it was received. There is no droller commentary on a man's year than the patience of his instruments.
+
+The reading of such a stone is done palm to crystal, and it is not mystical, whatever it looks like. It is close work, like assaying, like taking a long column of figures that someone else has kept. You still your own noise as far as your training goes, you set your hand flat, and you let the record come up through the skin in its own order, and you count. I knelt on the folded blanket I keep down there for the purpose, and set my palm to the second stone, and for the better part of three hours, in the dark before the birds of the spring's darkest night, I did the dullest and most demanding thing in my trade. I audited a hill.
+
+I will give the findings as I entered them in my notes that morning, because I have found no better way to give them, and because the plain order of them is the honest record of that night, each one arriving on the heels of the last like a man bringing worse news politely.
+
+The first finding was this: the hum carries my signature.
+
+Not generally. Specifically. Every worked thing takes an impression of its maker; that is elementary, that is why sensitized paper is any use at all. But the hill is not my work, and the impression was not residue. Fourteen months of nights showed my own arcane signature worked into the fine structure of the hum itself, repeated, elaborated, corrected over time, the later renderings truer than the early ones, the way a copyist improves across a long manuscript. The hill has been learning my hand. I wrote that sentence in my notes, looked at it, struck out *learning my hand*, and wrote instead, because precision is a discipline exactly when you least want it: *incorporating my signature with increasing accuracy*. Both sentences were true. One of them I could defend to a committee.
+
+The second finding was this: the predawn pulse has structure now.
+
+It did not use to. Two years ago the pulse was a pulse: one long slow event, regular as breathing, the same each night within the tolerances of any instrument I own. The record showed the change beginning in a small way about the time the Study was finished and accelerating from the winter of the glasshouse: variation inside the pulse, ordered variation, patterned recurrence with systematic differences, elements that repeat and elements that answer. I have spent my working life around signal and structure, and I know what ordered variation against a stable base is generally for, and I sat in that cellar at four in the morning declining, as a professional matter, to use the word for it. I will use it now, at this distance, because you will have arrived at it long before I let myself. The word is grammar. Sound organizing itself the way sound becomes language when a mind wants to be understood.
+
+The third finding took the longest, because I did not believe my own count and ran it four times.
+
+The hum radiates. It always has; that is what a hum is. But inside the general radiation, the record showed a directed component. Oriented. Consistent across fourteen months to a fraction of a degree. I worked the geometry twice on paper, there in the cold with my breath standing in the lumen light, because a bearing means nothing until you lay it against the world. The directed component went upward through the body of the hill, at a rising angle, on a line that passed through the cellar itself. Through the cellar's northeast corner.
+
+I sat back on my heels and looked at the corner. The chest stood there where I had set it two years before, against the wall the hill had kept driest, black wood and old metal, holding what it held.
+
+There was a quality to the directed component that my notation has no proper mark for. I have a mark for hostile, and it was not that, not any part of it. I have a mark for inert, and it was the opposite of that. What it most resembled, in the plain mechanics of it, was the shaped, repeated, patient signal a man makes standing at the foot of a stair with a light in his hand, when he knows someone is up there and does not wish to alarm them: variation, address, and a waiting built into the shape. In my notes I wrote *salutation, sustained*, and I am not able to improve on that this many years later, so I will let it stand.
+
+Three findings, then, in a cold room in the dark: the hill knows my hand; the hill is building a grammar; and the hill is saying something, patiently, over and over, toward the corner where her chest stands.
+
+And under my knees, holding all of it, the stone's long record and the grandmother's short sentence lay against each other like two halves of a broken seal. Forty years of a woman's ears: *the song is for something that is not here.* Thirty days and then fourteen months of my instruments: *salutation, sustained, on a bearing.* Two ways of counting, arriving at the one fact from two sides of a century. I set the two lines one above the other in my notes and drew no conclusion under them, because I had none that I could defend, only a direction, and a direction is not a conclusion. It is an invitation to be wrong at greater length.
+
+What I did next is what my trade does when it does not know: I extended the record. I lifted the second stone, cased it, and set a third blank flush in its place, and keyed it, and gave it no term at all. Let it listen as long as listening takes.
+
+Then I gathered my notes and my lamp and I climbed the stairs, up out of the stone cold into the ordinary cold of a spring morning an hour before dawn, and stood in my own doorway. The valley was dark below, one light burning early down at the forge, where a man who had kept a four-day count for five months was awake with his own patience. The birds had not started. The east had just begun to think about grey. Under my boots, far down, at the hour it had kept since before the village had a name, the hill rose to its pulse, and said what it had been saying all along, to whatever was not here yet, and I stood in the door with two years of mornings behind me and could no longer even pretend that I did not live on top of a word.

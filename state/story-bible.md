@@ -1676,3 +1676,15 @@ show release. The coarse curve, so no chapter overshoots:
   WRITING against patent money (paper says marks; speech stays metal); Series lamp GIFTED (his
   wife's, seam turned away); "Even." closes three years of ledger; ⚠️ THE READING is set for the
   SPRING NEW MOON, four days after Ch 22 (Tomas kept the date from one winter remark) → Ch 24.
+
+- **CH 23–24 NEW FACTS (drafted 2026-07-28):** Conclave letter OPENED Ch 23 (inquiry from his
+  withdrawal year formally closed; "The office remains interested."; unanswered, filed with the
+  licences). Storehouse rear-wall bearing survives Jorin's one question ("For later"). REN: first
+  solo commission (quarry order, half-mark under), "Boy's ready." Ch 24 findings LOCKED: (1) hum
+  incorporates Emlyn's signature, accuracy improving since the Study, accelerating since the
+  glasshouse winter; (2) predawn pulse = GRAMMAR (ordered variation; he writes "salutation,
+  sustained"); (3) directed component on a rising bearing through the cellar NE corner (the chest).
+  Grandmother's full theory now COPIED INTO HIS NOTES (song is for something not yet here; oak
+  holds and passes on). SECOND STONE lifted and cased; THIRD BLANK in the floor, NO term. The
+  two-grandmothers question remains OPEN. Tomas's forge light burning before dawn on reading night
+  (he kept the count) — the telling is Ch 26.

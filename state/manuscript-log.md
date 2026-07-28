@@ -1035,3 +1035,24 @@ paper ("The wife's been wanting one." "She'd not ask."); Tomas turns it a quarte
 since one passing remark at the turn of the year, the date of the spring-dark READING of the
 stones (new moon; Emlyn needed his almanac, Tomas didn't). Sets Ch 24 four days out. CLOSE: the
 file's even strokes, a man counting along with the ground beneath him.
+
+[23] BOY'S READY (spring Yr3, within the four days; ~1,700w) — Jorin reviews the storehouse
+drawings (cave = borrowed ground with a door on it; "It's what I'd have drawn"), finds the inner
+chamber's REAR WALL set true to a bearing and asks once; Emlyn: "For later... I'd sooner the wall
+was ready to be a doorway than fight me for it." Jorin: "Right." (owes him for everything he chose
+not to ask). THE CONCLAVE LETTER OPENED (per author 2a): three sentences; the withdrawal-era
+inquiry formally CLOSED; lumen-patent correspondence "noted"; closes "The office remains
+interested." Filed unanswered ("puts it where he can hear it breathing"). REN'S FIRST SOLO
+COMMISSION: sent to the quarry alone with the stone order ("Boy's ready."), returns half a mark
+under Jorin's expected price. CLOSE: doorway line, "He felt something in that cellar. During the
+build. Hasn't said what." NO reaction on page.
+[24] THE READING (spring new moon, predawn; ~2,400w; DRY INSTRUMENT REGISTER per 8A) — grandmother's
+late volume reaches her FULL THEORY ("The song is for something that is not here... Somebody
+will."), copied fair, dated in her year and his. The cellar reading, palm to crystal, three hours
+("I audited a hill"): FINDING 1 the hum incorporates HIS signature with increasing accuracy;
+FINDING 2 the predawn pulse has GRAMMAR (ordered variation; the word declined professionally, given
+at the telling's distance); FINDING 3 a DIRECTED component, bearing consistent to a fraction of a
+degree, rising through the cellar's NE corner (the chest): notation "salutation, sustained."
+Her forty years and his instruments laid one above the other; NO conclusion drawn. Second stone
+lifted and cased; THIRD BLANK set with NO term. CLOSE: doorway before dawn, forge light burning
+early below, "I live on top of a word."
