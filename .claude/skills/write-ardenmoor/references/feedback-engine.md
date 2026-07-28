@@ -649,3 +649,10 @@ conflict. Check every draft and every editing pass against them.
   reader's newest-wins sync merge propagate the cleared state to every device; deleting entries
   instead would resurrect them from a device's localStorage. The app auto-resolves a tracked change
   whose original paragraph vanished, but notes NEVER auto-resolve, so this step is mandatory.
+
+- **[OPS, standing — 2026-07-28] AUTO-RESOLVE ALL VERIFIED FINDINGS.** Author's directive
+  ("Automatically resolve all"): on any editorial/cold-read pass, verify each finding's receipt
+  against the text, then fix everything that survives — BLOCKER, MAJOR, and MINOR alike — without
+  per-item consultation. Rejected-on-verification findings are logged, not applied. Push the
+  corrected text to the app in the same session. Only findings that would change a LOCKED author
+  decision (canon marked ⚠️ by the author's own choice) are exempt and get surfaced instead.
