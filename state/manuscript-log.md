@@ -1139,3 +1139,34 @@ hand trained in EMLYN'S OWN PRIVATE NOTATION, taught to exactly one person; "It 
 leisure, at a desk... I would look, when you are able to look, at who had leisure in that
 house."). Filed in the STICKING DRAWER with the callipers and the unread inventory pages ("the
 things that are not yet ready to be true").
+
+[31] THE LETTER (solstice eve, winter Yr3, ~1,900w) — the mother's letter (arrived early December,
+unopened in the sticking drawer through the fire); opened by the chair, given WHOLE on the page:
+the house sold, crates under seal; "Come in the spring... it is not work for one person. It never
+was"; "bring whatever of her still lives in your keeping. I know there is something. There is
+always something; I have her mother's spoons"; the garden forgiven; "I will feed you until you are
+sensible." SIGNED **HESPER** (Arielle's mother NAMED). The hinge: grief re-understood, keep held
+as garrison-of-one vs. the letter that KNOCKS ("You do not tell a grief what to be... You ask").
+The last light in the valley = his lumen. THE KEY given true: never metal; one question ("Are you
+ready to be answerable for what you keep?"), carried three years, never once held steady until
+now. Down the stairs; letter laid beside the lamp; both hands flat on the chest; "I asked."
+[32] THE NEEDLE (solstice night → deepest predawn pulse, ~2,000w) — the lock ends "the way a held
+breath ends." The chest: cedar, paper, linen-press air; NOT inventoried ("the inventory of a man's
+sealed grief is his own"); "It had all been alive in there... I had been, it turned out, keeping
+it." Her green scarf with the copper thread, wrapping THE PLANEWRIGHT'S COMPASS: his masterwork,
+built alone over four winters past his published methods; points not at north but at "where is
+the way through"; found two doors in half a year, both charted and walled; given into HER keeping
+("instruments catch chills"); her hands the last. IT WAKES ALREADY WORKING, under load; the hill's
+deepest pulse arrives AS A WORD ("one vast slow syllable shaped by two years of patient practice
+on the learned lines of my own hand"); the needle turns once, settles, POINTS STRAIGHT DOWN. The
+recontextualization, quiet: "the hill had never in all those patient years been greeting the
+compass. It had been waiting for someone to notice the door." FINAL IMAGE (per outline): frost
+flowering at the vent; the apprentice's first lamp burning in the hill-cut dark "as it burns
+tonight"; the needle pointing down, "quivering very slightly, the way a thing quivers when it is
+not finished, but beginning."
+[32b] INTERLUDE IV + CODA (~300w) — the hill: the word comes right; the bright thing answers the
+one way it was ever going to answer: "Down." "*At last.*" THEN the frame's last page ("From the
+same later journal"): the 1B REVEAL in one warm clause — the whole book has been told to SOREN
+("you always stop me when I tell it aloud... your master on his knees"); why it could not begin
+with the door ("the beginning is a bowl of soup"); "Set the kettle on, Soren. The rest wants
+telling by the fire." BOOK ONE COMPLETE.

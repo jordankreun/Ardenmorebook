@@ -1729,3 +1729,20 @@ show release. The coarse curve, so no chapter overshoots:
   person only), letters STOPPED at inquiry's start; her counsel: "look at who had leisure in that
   house" (the three unguarded years pre-crating). Letter kept in the STICKING DRAWER (callipers +
   unread inventory pages). ⚠️ Do not resolve in Book One.
+
+- **⚠️ BOOK ONE COMPLETE (2026-07-28). Ch 31–32 + Coda new canon:** ARIELLE'S MOTHER = **HESPER**
+  (named; letter text on page is canon: crates under seal, spring summons, "her mother's spoons,"
+  the garden forgiven). THE KEY = a QUESTION, never metal ("Are you ready to be answerable for
+  what you keep?"). COMPASS CANON expanded: built alone over four winters beyond the published
+  methods; needle answers "where is the way through"; found exactly TWO doors in half a year of
+  travel, both known/charted/walled a century; hung slack ever after; given into Arielle's keeping,
+  wrapped by her in the green copper-thread scarf ("instruments catch chills"); her hands last to
+  hold it. THE TWIST ON PAGE: woke already working; needle turned once at the solstice's deepest
+  pulse (the pulse arrived "as a word" built from his learned lines) and points STRAIGHT DOWN;
+  "waiting for someone to notice the door." CHEST: opened; contents deliberately NOT inventoried
+  on page (Book 2 latitude), air of the river house sealed in; "buried vs kept" distinction canon.
+  CODA: prologue addressee REVEALED = SOREN ("Set the kettle on, Soren"), frame = the later
+  journal begun at his asking; Soren already calls Emlyn "your master" in frame-time (Book 2+
+  apprenticeship implied, never dated). Reader-superior threads left open on purpose: sticking
+  drawer (Cecily + inventory pages + callipers), Lira's packet, the unsigned hand, Hesper's
+  spring, the stone rebuild, the ~36 unlet acres, the wired gate.

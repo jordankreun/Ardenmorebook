@@ -175,3 +175,12 @@ name for Emlyn is "the foolish and strange wizard"; prologue names Emlyn on the 
 OPEN (author to decide): reframe the prologue as a letter to a later-introduced character (Soren
 suggested). Logged, not implemented — it changes the frame and deserves its own call.
 Lint: zero FAILs; no em dashes; doc-audit clean.
+
+
+## 2026-07-28 — BOOK ONE DRAFT COMPLETE
+Ch 20-32 + Interludes III/IV + Coda drafted in five pushed batches under the P1c fingerprint.
+All chapters lint zero-FAIL at push (three memoir-frame breaches caught post-draft in 27/28/31/32
+and fixed same-session; "this account" now a personal watch-word). Accepted WARNs logged: interior
+chapters 21/24/30 below dialogue floor by design; Ch 30 which-tails/similes at threshold+1.
+OUTSTANDING (queued): full adversarial editorial pass on Ch 20-32 (the 00-19 pass predates them),
+then the whole-book cold read end to end.
