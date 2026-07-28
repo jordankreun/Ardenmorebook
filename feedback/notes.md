@@ -4,6 +4,10 @@
 
 ## Prologue
 
+> From one of the later journals
+
+This needs rework more context needed
+
 > That is who this is about, and I will ask you to go easy
 
 If I were to tell that story that is who it would be about and I would ask you to go easy on him
@@ -11,10 +15,6 @@ If I were to tell that story that is who it would be about and I would ask you t
 > and they are gone now, every one but me.
 
 Not all would be gone as some would also have extended lifespans
-
-> From one of the later journals
-
-Make this mention name of mc also consider am letter to  a later introduced character like Soren
 
 
 ## Chapter One: Ardenmoor
