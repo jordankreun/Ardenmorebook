@@ -1008,3 +1008,30 @@ Wired into SKILL.md + feedback-engine.md; future workflow read/verify prompts in
 - End of Part III (after Ch 22): **Interlude III** — two small weights and the great one; it
   practices a word it has no mouth for.
 - End of Part IV (after Ch 29): **Interlude IV / Coda** — one line: *at last.*
+
+[20] THE WAY DOWN (spring Yr3, ~2,050w) — Emlyn, cash poor (glasshouse coin goes to Jorin's deferred
+wages first), lays a stone FOOTPATH alone down the hill to the lane's foot: Edran's waste flags
+hauled behind Snow, the wet elbow asked for passage (water rerouted by asking, no drain cut), Ren
+sets the ford stones one Saturday unasked, Soren surveys it ("It likes being crossed better than
+being stood in"). Village comedy: the wizard is cobbling his mountain; toll joke. THE TURN: Lira at
+the lane's foot ("That's not a wizard's path up a hill. That's a way down. To the village."), the
+jug refilled unasked, "I'll mention it to Cael" = a vote cast without acknowledging it was a vote.
+CLOSE: the Wednesday boy arrives at a dead run, dry-shod, first traveler. NEW FACTS: glasshouse
+selling small (early salads local; potted stock out via Kellard); deferred wages being paid down.
+[21] LETTERS GOING BOTH WAYS (late spring Yr3, ~1,950w; THIRD-PERSON LIRA, reader-superior) — the
+two ledgers (inn's tall book; the small plain book of the valley incl. the lone entry "The boy.");
+her quarterly report to the office built around "Nothing unusual requires anyone's attention";
+wizard rendered as tradesman's items on purpose. She DRAFTS the well-incident line, deliberately
+inaccurate, then copies the letter fresh WITHOUT it and burns the draft to broken ash: she protects
+the valley by what she omits. Packet of old letters tied in bootlace under the ledger, one bearing
+the office's proper seal, unexplained (Book Two). NEW: mail twice a week now (Wenn the carrier);
+Thursday's bag holds a letter to EMLYN under the office's PROPER seal (tower and open book) —
+reader knows before Emlyn. CLOSE: "Letters going both ways now," entered in the small book.
+[22] EVEN (late spring Yr3, ~1,600w; forge two-hander) — twenty housing sets commissioned IN
+WRITING against the patent money (Penworth's paper says marks and quarter-days; register beat);
+Tomas reads the whole paper, squares it to the bench edge. Emlyn GIFTS a Series lamp, outside all
+paper ("The wife's been wanting one." "She'd not ask."); Tomas turns it a quarter-turn, seam away:
+"Even." — three years of ledger closed in one word. AT THE DOOR: "Four days?" — Tomas has kept,
+since one passing remark at the turn of the year, the date of the spring-dark READING of the
+stones (new moon; Emlyn needed his almanac, Tomas didn't). Sets Ch 24 four days out. CLOSE: the
+file's even strokes, a man counting along with the ground beneath him.

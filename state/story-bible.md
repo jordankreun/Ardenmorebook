@@ -1631,3 +1631,48 @@ show release. The coarse curve, so no chapter overshoots:
 - Interlude / reader-superior POV — RESOLVED (2026-07-11): **Spellmonger hybrid** — interludes and
   other-character scenes are third-person limited; Emlyn's chapters stay first person (told close to
   events, no ancient-chronicler frame). Interlude I is written (`07b-interlude-one.md`).
+
+
+- **⚠️ BACK-HALF DECISIONS — LOCKED 2026-07-28 (author's fork answers for Ch 20–32):**
+  • **PROLOGUE = A LETTER TO AN UNNAMED "YOU" (1B).** The prologue now reads as addressed ("You have
+    asked me, more than once and in your patient way…"). **The addressee is SOREN — BLIND until the
+    Book One coda**, which reveals it in ONE quiet clause (design at Ch 32 drafting; do not spend
+    earlier). Never name him in the frame before that.
+  • **RAILWAY CHOKE-HOLD = EMERGENT (2A).** Nobody planned it. Penworth bought elbow room because
+    that is what Penworth does. Its value is discovered in Book Two. No character in Book One knows.
+  • **TIMELINE (3).** Glasshouse finishes midwinter Yr2→3. Ch 20 thaw = spring Yr 3; Ch 21–29 run
+    spring → early winter Yr 3; FIRE early winter Yr 3; letter solstice eve; needle solstice predawn.
+    Book One spans just under three years.
+  • **⚠️ CH 20 REWORKED (4C, author's words: "it's just from his hill to the village and it's not a
+    road… No more than Emlyn could do on his own. He is cash poor."):** retitled **THE WAY DOWN**.
+    A laid footpath, hill → village, built by Emlyn ALONE over spring evenings: waste stone from
+    Edran's heap hauled a few at a time behind Snow, the boggy elbow asked for passage. No crew, no
+    wages, no petition to anyone. Ch 28's council act becomes the village voting to WIDEN his way
+    into a cart-road at its own charge (the road is the valley's answer, not his ask). Geography's
+    end-state cart-road arrives THAT way.
+  • **LIRA CH 21 (6B):** reader-superior but partial. We watch her write and deliberately OMIT (she
+    drafts the well-incident line and copies the letter fresh without it: she protects the valley by
+    how she reports it). Her debt to the office stays unexplained until Book Two (one object may
+    appear: an old packet of letters under the ledger, unexplained). Emlyn's incoming Conclave
+    letter appears only as a recognized SEAL in her mail bundle: the reader knows before he does,
+    and POV stays clean.
+  • **CH 24 (7, 8A):** the two-grandmothers question STAYS OPEN on the page. The third finding is
+    rendered in dry instrument language; wonder suppressed, fear never named.
+  • **CH 22 (9):** stays a small forge two-hander. "Four days?" = Tomas has kept the count from a
+    remark Emlyn made months ago: the reading is set for the new moon, four days off (sequences
+    directly into Ch 24).
+  • **CH 23 (10):** ends on Jorin's doorway line; Emlyn gives NO on-page reaction.
+
+- **CH 20–22 NEW FACTS (drafted 2026-07-28):** THE WAY (Ch 20): laid footpath, hill to lane's foot,
+  Edran's waste flags, elbow seep re-routed by asking; Soren: "It likes being crossed better than
+  being stood in"; Lira's jug + "I'll mention it to Cael"; glasshouse selling small (early salads
+  local, potted stock via Kellard), deferred wages paid first. LIRA (Ch 21): TWO ledgers (tall
+  inn book + small plain valley book; entry "The boy." from the well summer); quarterly office
+  reports built around "Nothing unusual requires anyone's attention"; drafts-then-burns the
+  well line; bootlace packet of old letters under the ledger incl. one under the office's PROPER
+  seal (unexplained, Book Two); mail now TWICE weekly (Wenn the carrier, new minor name); a letter
+  to EMLYN under the proper seal (tower and open book) sits in Thursday's bag — READER KNOWS FIRST;
+  Emlyn has NOT yet received/read it on page. TOMAS (Ch 22): twenty housing sets commissioned IN
+  WRITING against patent money (paper says marks; speech stays metal); Series lamp GIFTED (his
+  wife's, seam turned away); "Even." closes three years of ledger; ⚠️ THE READING is set for the
+  SPRING NEW MOON, four days after Ch 22 (Tomas kept the date from one winter remark) → Ch 24.

@@ -267,10 +267,15 @@ corner ("Ask me again at the turn of the year"). Grief beat: Essa's bedframe del
 village's unasked contributions (Lira's blankets, Mira's bolster, Kellard's mirror); the callipers
 drawer sticks and is let stay stuck.
 
-**Ch 20 — Good Roads.** The thaw chapter: the cart-road and, because the land allows it, a branch
-into the village. Lira engages for the first time in a year: "That's not a path to a wizard's
-tower. That's a road. To the village." The jug refilled unasked; "I'll mention it to Cael." A vote
-cast without acknowledging it was a vote.
+**Ch 20 — The Way Down (REWORKED 2026-07-28 at author's direction; was "Good Roads").** The thaw
+chapter, spring Yr 3. ⚠️ NOT a road: a laid FOOTPATH, hill to village only, built by EMLYN ALONE
+(he is cash poor; every coin goes to Jorin's deferred wages). Waste stone hauled a few at a time
+behind Snow; the wet elbow asked for passage, not drained by force; weeks of solitary spring
+evenings. The village finds it gently comic (the foolish wizard is cobbling his mountain). Lira
+engages for the first time in a year: "That's not a wizard's path up a hill. That's a way down.
+To the village." The jug refilled unasked; "I'll mention it to Cael." A vote cast without
+acknowledging it was a vote. (The council's Ch 28 act becomes: the village votes to WIDEN the
+wizard's way into a proper cart-road at its own charge; the road is THEIR answer, never his ask.)
 
 **Ch 21 — Letters Going Both Ways (THIRD-PERSON LIRA; the reader-superior chapter).** In Lira's
 head for an evening: the inn's ledger and the other ledger; what she notices; what she owes and to
@@ -306,7 +311,7 @@ means* — and an oath of silence. That night, Soren's unprompted drawing: the h
 unbuilt storehouse and road, captioned *"the hill's good place."* **INTERLUDE III** — *two small
 weights now, and the great one; it practices the shape of a word it has no mouth for.*
 
-## PART IV — YEAR 2, EARLY WINTER → SOLSTICE (Ch 23–29)
+## PART IV — YEAR 3, SPRING → SOLSTICE (Ch 20–29; timeline confirmed 2026-07-28: glasshouse finishes midwinter Yr2→3, thaw = spring Yr3, fire early winter Yr3, needle at solstice Yr3)
 
 **Ch 26 — Keeping the Promise.** Tomas gets the true shape (not everything; the chest and compass
 stay Emlyn's): the hill is aware, it has been learning him, it was waiting before either of them
@@ -320,7 +325,7 @@ wood and stone; the boy chooses for himself, asked plainly. Ren, asked plainly, 
 
 **Ch 28 — The Keeper Plant.** Warm-glow chapter before the dark: the greenhouse alive; Brenna sets
 her grandmother's plant in true ground for the first time in thirty years; by morning its leaves
-have turned — toward the hill. The council approves the village branch. Lira puts a Series lamp in
+have turned — toward the hill. The council votes to widen the wizard's way into a cart-road at the village's own charge. Lira puts a Series lamp in
 her window.
 
 **Ch 29 — The Lab.** The storehouse finished, the hill holding the rear wall like a promise; the
