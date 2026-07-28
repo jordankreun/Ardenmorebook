@@ -1083,3 +1083,23 @@ waiting since before either was born. KEEPS BACK the corner, the chest, the bear
 before a wonder"). Tomas: "Two year I thought it was the iron... Then a year I thought it was me."
 "Waiting for what?" / "I don't know yet. But I'll keep the promise as long as it keeps being
 true." Second handshake in three years. Down the way by lamplight, nothing more said.
+
+[27] THE DELICATE CONVERSATION (front of autumn Yr3, ~2,300w) — Jorin pre-empts at his gate
+("You've come about the boy... Took you a while"), hears the whole case in silence, then THREE
+CONDITIONS in his own grammar: (1) the boy finishes what he builds; (2) never taken out of wood
+and stone ("the day he can't square a frame is the day I've lost a son... not for being handed
+about between men who admire him"); (3) chooses himself, asked plainly, father present. Next
+evening, good coat, family table, mother in the doorway: the plain asking (five-year articles,
+conditions named, no wrong answer). REN: "Yes. I've been answering it for a year. I'd like to
+know what I'm saying." Jorin bows his head over his own table one breath. Ceremony deferred to
+the storehouse's finish (he finishes what he builds); paper to Penworth later.
+[28] THE KEEPER PLANT (first cold of autumn Yr3, ~2,450w) — Brenna's turn-of-year ruling honored
+("held a winter... I'll want a summer too"); house PROVED both ways; Jorin's deferred wages paid
+OUT ENTIRE, first unbracketed figure on Penworth's column. The planting: her grandmother's trowel,
+no words over it; "Plants don't lie. It's why I prefer them." BY MORNING every leaf TURNED, away
+from light and lamp, uphill, on THE bearing ("written in my notes in a dead woman's year and
+mine"). "I mark it." — then the watering-can. NOON: Cael delivers the council's unpetitioned,
+unanimous-less-one-abstention (Lira, conflicting interest) vote: the village will widen the way
+into a CART-ROAD, lane to hilltop, at its own charge, after harvest ("the village won't be
+outbuilt... you'll oblige everybody by not asking"). CLOSE: a Series lamp burning NEW in the
+inn's front window; "Light going both ways now."

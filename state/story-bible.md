@@ -1700,3 +1700,16 @@ show release. The coarse curve, so no chapter overshoots:
   discussed. TOMAS now holds the TRUE SHAPE minus the corner/chest/bearing; "never once been alone
   with it either. Whatever it turns out to be, that part is finished." Hum-knowledge ledger update:
   Tomas = aware hill, learning-him, waiting, temper calm; NOT told: grammar detail, corner, chest.
+
+- **CH 27–28 NEW FACTS (drafted 2026-07-28):** APPRENTICESHIP AGREED: five-year articles, Jorin's
+  three conditions LOCKED (finishes what he builds; never out of wood and stone; chose it himself,
+  asked plainly, parents present). Ren's mother appears (unnamed, one cough, feeds Emlyn). Ceremony
+  deferred to storehouse completion (Ch 29). KEEPER PLANT: planted in the glasshouse's north-corner
+  bed with the grandmother's trowel; by morning ALL leaves turned uphill on the cellar bearing;
+  "I mark it."; the plant's history locked (charge accepted by the grandmother young, origin
+  unlearned; 30 yrs unthriving in cellar dark; three leaves the week Emlyn took the hill). MONEY:
+  Jorin's deferred wages PAID OUT ENTIRE; first clean surplus figure on the quarterly column; the
+  glasshouse is proved (winter + summer). THE ROAD: council votes unpetitioned (one abstention:
+  LIRA, conflict of interest) to widen the way into a cart-road at village charge, after harvest —
+  the Ch 20 rework's payoff; nobody will say what the road is for. LIRA: a Series lamp now burns
+  in the inn's front window (never bought, never asked; first one in that window in three years).

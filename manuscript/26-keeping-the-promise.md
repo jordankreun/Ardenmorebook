@@ -52,7 +52,7 @@ Tomas heard the whole of it the way he read Penworth's contract, straight throug
 
 "You were never mad, Tomas. And you were never wrong, and as of tonight you have never once been alone with it either. Whatever it turns out to be, that part is finished."
 
-He nodded, slow, the beam settling onto the post.
+He nodded, slow.
 
 "Waiting for what?" he said.
 
