@@ -717,6 +717,12 @@
       if(inlineWidget.parentNode) inlineWidget.parentNode.removeChild(inlineWidget);
     }
     inlineWidget=null;
+    // Self-heal: sweep any orphaned popover shells a past code path left behind.
+    var strays=document.querySelectorAll("body > .popover");
+    for(var i=0;i<strays.length;i++){
+      if(strays[i]._teardown) strays[i]._teardown();
+      strays[i].parentNode.removeChild(strays[i]);
+    }
     if(editingP){
       var p=editingP; editingP=null;
       p.contentEditable="false"; p.classList.remove("editingP");
@@ -786,7 +792,14 @@
       }
     }catch(e){}
     p.focus();
-    function teardown(){ if(bar.parentNode) bar.parentNode.removeChild(bar); inlineWidget=null; editingP=null; p.contentEditable="false"; p.classList.remove("editingP"); }
+    function teardown(){
+      // Remove the WHOLE popover shell, not just the button bar inside it;
+      // removing only the bar left an empty white pill floating on the page.
+      if(pop._teardown) pop._teardown();
+      if(pop.parentNode) pop.parentNode.removeChild(pop);
+      if(inlineWidget===pop) inlineWidget=null;
+      editingP=null; p.contentEditable="false"; p.classList.remove("editingP");
+    }
     function save(){
       var v=p.innerText.replace(/\s+$/,"");
       teardown();
