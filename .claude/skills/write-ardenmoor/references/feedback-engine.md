@@ -592,3 +592,50 @@ an engine bug — fix the engine (steps 3–4), not just the line.
   third stale instance I had just written. LESSON (now in the intake protocol's spirit): an invented
   professional/world detail must be checked against occupation canon BEFORE it propagates — this one
   reached three files in two turns.
+
+
+## P1c — THE AUTHOR'S LINE-EDIT FINGERPRINT (from the 2026-07-28 reader pass on Ch 0–3; 26 tracked changes analysed)
+These patterns were extracted from the author's own hand-edits. They outrank house style where they
+conflict. Check every draft and every editing pass against them.
+
+- **[HARD] CUT THE EXPLANATORY TAIL.** When an image is followed by a clause explaining what the
+  image means ("…the smell of a place people go to when they are frightened for someone they
+  love"), cut the tail. The image stands alone. This is the author's most consistent edit.
+- **[HARD] NO FORESHADOW FLAGS.** "I did not know then…", "that came later, and I will get to it",
+  "nor that the two of them had been holding a conversation" — all cut on sight. The narrator may
+  have hindsight; he may not ADVERTISE it. Let later chapters land unannounced.
+- **[HARD] DE-AGE THE CAST.** Cael is late-50s and vigorous: no bad knees, no "the old man's knees
+  at last willing", "a fair way yet from invalid," not "from grey." Jorin has "just the beginning
+  of grey," and is "a big man," never "a big grey man." No infirmity props on anyone the author
+  has not explicitly aged. Age lives in judgment and standing, not joints.
+- **[HARD] POV KNOWLEDGE DISCIPLINE.** The narrator may not use knowledge before he acquires it
+  ("his grandson" before anyone says so — write "the young boy"), and may not explain to a
+  character what that character already knows (Penworth negotiated with Cael; Emlyn's letter does
+  not introduce "an honest man named Cael," just "an honest man").
+- **[CRAFT] ADJECTIVES TRAVEL IN PAIRS AT MOST.** "Clear and crisp," not "clear and cold and
+  washed." A triple stack is a flag.
+- **[CRAFT] HEDGE THE DEAD.** Characters do not speak for the dead with certainty: "someone I
+  suspect she'd have approved of." Certainty about a dead person's mind is presumption; the
+  author softens it every time.
+- **[CRAFT] INSTITUTIONS OVER MYTH.** "The village sent me," "I lead our parish meetings on the
+  rare occasion they're held" — not "the families sent the oldest man they had." The valley has
+  ordinary civic machinery, rendered dryly, with self-deprecation ("could be bothered").
+- **[CRAFT] NO UNINTRODUCED COMPARATORS.** Never measure against a person or place the reader has
+  not met ("more land than the squire down at Wainford" → "more untouched and unused land than one
+  man could ever figure out what to do with").
+- **[CRAFT] LOGISTICS ARE REAL.** Wagons do not climb a roadless hill: goods unload into a corner
+  of the inn's stable, let for the purpose; books go up to the rented room; a camp is a tent, a
+  kettle, and what a horse can carry. The author catches every physically lazy convenience.
+- **[CRAFT] THE VALLEY'S EARLY VIEW OF EMLYN IS GENTLY COMIC.** "The foolish and strange wizard
+  who had bought Cael's hill." Allow the village a little amusement at him; he reports it without
+  defending himself.
+- **[VOICE, small]** "wizardly enough," not "wizard enough" · the holding is "a living," never "a
+  farm" · trim possessive tics ("a great deal of money," not "of your man's money") · direct
+  address in dialogue ("How long would you need," not "would your man of affairs and mine need").
+- **[CANON] THE RIVER-HOUSE MONEY, ON THE PAGE:** it comes "in two lump sums, one the buyer's
+  deposit to secure the sale and one to come at a later date from his lender." The word "halved"
+  is retired from the page (the internal net-of-debt arithmetic in economy.md stands, unstated).
+  The note's menace tail ("begin, quietly and then not quietly, to eat me") is also retired: state
+  the deadline, skip the melodrama.
+- **[CANON] THE CHEST AND ALL GOODS WAIT AT THE INN** (stable corner, oilcloth) until there is a
+  built room to receive them. The chest does not sit in the tent. It comes up when the Study does.

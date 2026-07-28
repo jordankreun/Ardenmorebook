@@ -154,3 +154,24 @@ a third (unread tail, deferred); Ch 4 "the way X" simile density and Ch 2 great-
 1–2 over budget (WARNs, pre-existing); Ch 7 Soren-revelation refocus deferred (needs a scene-level
 rewrite, not a line fix); Ch 15:33 explanatory middle deferred.
 **Lint: all 22 files zero FAILs; no em dashes; doc-audit clean.**
+
+
+## 2026-07-28 — AUTHOR FEEDBACK PASS (reader export: 5 notes, 26 tracked changes on Ch 0-4)
+Engine REDONE: new P1c "Author's line-edit fingerprint" section in feedback-engine.md, distilled
+from the author's own hand-edits (cut explanatory tails; no foreshadow flags; DE-AGE the cast;
+adjective pairs max; hedge the dead; POV knowledge discipline; institutions over myth; no
+unintroduced comparators; real logistics; gently comic early view of Emlyn; two-lump-sum river
+money on the page; chest and goods wait at the inn's stable).
+All 26 tracked changes applied verbatim (typos normalized). All 5 notes implemented: prologue now
+names Emlyn; midday dinner anchored; agent sent ahead of the letter; lodging simplified; wagons
+unload into the inn's stable.
+FINGERPRINT PASS Ch 4-19 (grep-driven): 9 further fixes — the orphaned Ch 11 callback to the cut
+"frightened for someone they love" tail; Ch 5 chest-in-tent (chest now at the stable until the
+Study); Cael's knee-treaty (05) and "old man's face" (14) de-aged; Brenna's stiff knees (11) cut;
+"I did not know then" (06) and "though neither of us knew it" (10) flags cut; "his grandmother
+would have liked" hedged to "might have" (02); "your man's money" trimmed (02).
+NEW CANON: Cael leads the parish meetings on the rare occasion they're held; the valley's first
+name for Emlyn is "the foolish and strange wizard"; prologue names Emlyn on the page.
+OPEN (author to decide): reframe the prologue as a letter to a later-introduced character (Soren
+suggested). Logged, not implemented — it changes the frame and deserves its own call.
+Lint: zero FAILs; no em dashes; doc-audit clean.

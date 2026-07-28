@@ -390,7 +390,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   father's failed shelter (the ground that won't hold). Purchase agreed; Penworth finalizing.
   Also: refused offers to open the north face for **slate** and to mine **tin** beneath (Cael
   turned both down).
-- **ch3** — Purchase complete. Emlyn's goods (2 wagons from Vethmark) carried up; he pitches a
+- **ch3** — Purchase complete. Emlyn's goods (2 wagons from Vethmark) stored in a let corner of the inn's stable (⚠️ revised 2026-07-28: wagons do NOT go up the roadless hill; books to his room; the chest waits at the stable until the Study is built); he takes Snow up and pitches a
   **waxed-canvas camp near the crown** (fire-pit, tent) and lives there, keeping the inn room too.
   The **locked chest** now sits inside the crown tent, apart, unopened (awaits the future cellar's
   NE corner). His books + trade instruments are under oilcloth on the crown. The **hum** is felt

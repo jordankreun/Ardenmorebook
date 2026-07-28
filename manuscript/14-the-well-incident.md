@@ -40,7 +40,7 @@ She was in the doorway of the inn with a cloth in her hand and a table half-wipe
 
 It was Cael who made it hard.
 
-He came across the square while I was helping Kellard, in no hurry, in the way he had of arriving somewhere a good while after he had decided to, and he stood by the well and looked at the wet cobbles and at his grandson's soaked sleeve, and I saw, in the particular set of the old man's face, that he had been closer than I had thought. Not close enough to have seen it. Close enough to have seen something.
+He came across the square while I was helping Kellard, in no hurry, in the way he had of arriving somewhere a good while after he had decided to, and he stood by the well and looked at the wet cobbles and at his grandson's soaked sleeve, and I saw, in the particular set of his face, that he had been closer than I had thought. Not close enough to have seen it. Close enough to have seen something.
 
 "Bucket went over," he said.
 

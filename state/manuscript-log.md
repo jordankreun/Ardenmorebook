@@ -711,7 +711,7 @@ cut) and Ch 3 "lived three years alone in his parents' house… quiet rooms… s
 mother's baking… the one place that never once asked him to be anything more than he was");
 (5) train "a CRUDE, soot-breathing thing" (not "early"); (6) CAEL SPEECH REWRITten: he acts as
 VILLAGE ELDER speaking for the assembled families (why no haggling; "That part's done"), the live
-concern is outsider-buys-so-much suspicion ("sent the oldest man they had to come and look at you"),
+concern is outsider-buys-so-much suspicion ("the village sent me to come and look at you"),
 his personal reservation is the HILL ONLY, and the slate/tin buyers are compressed to one line.
 Engine: intake protocol run — "had had"/"that that" now a lint check; P4 setup rule sharpened
 (revision-orphaned dependents; canon changes sweep the book); gap logged (townhouse mismatch was a

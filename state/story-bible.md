@@ -445,7 +445,7 @@ if it needs a new one, add it here.
   longest"). **This is WHY there is no haggling** — the families settled the price before Emlyn ever
   arrived ("we'll not be bargaining, you and I. That part's done"). The village's live concern is
   **suspicion of an OUTSIDER "nobody in this valley can put a name to" buying "the better part of
-  its idle ground in one hand"** — the families "sent the oldest man they had to come and look at"
+  its idle ground in one hand"** — the village "sent me to come and look at"
   Emlyn; the fields themselves they're glad to see worked. **Cael's personal reservation is about
   the HILL ONLY** (his family's piece): he has refused real money for it more than once (slate men,
   tin men — kept BRIEF on the page, one line) and "sent every one of them back down the road." His
@@ -1332,8 +1332,8 @@ show release. The coarse curve, so no chapter overshoots:
   (Ch 1) and Penworth's agent sat at his table three evenings with a map (Ch 2). Ardenmoor knew.
   The disguise is aimed at **rival speculators and the railway company**. Do NOT retcon Ch 1–2 into
   a covert operation.
-  Cael's frame (Ch 2, as now on the page): *"You've more land than the squire down at Wainford, on
-  the paper. You've not four hundred acres of it a plough has been over in ten years. Both of those
+  Cael's frame (Ch 2, as now on the page): *"You've more untouched and unused land than one man
+  could ever figure out what to do with, on the paper. You've not four hundred acres of it a plough has been over in ten years. Both of those
   are true"* — followed by the hands-and-a-road speech (*"Land wants two things… It wants hands and
   it wants a road. You've bought yourself a deal of land with neither"*). ⚠️ The earlier quote
   ("less worth ploughing than one honest family works in a bottom-field") was superseded by the

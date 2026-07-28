@@ -98,7 +98,7 @@ And on the ground it was four men's ground still, with other people's lives grow
 
 "It's a rare mess," Hal said, from behind me. He was uncomfortable saying it and said it anyway. "Always has been. Nobody's had the whole of it in one hand since before I was born, and every man that's had a piece has fenced what he could reach and let the rest go." A pause. "You've the whole of it in one hand now."
 
-Which was the sentence, though neither of us knew it that morning.
+Which was the sentence.
 
 I asked him what he wanted done about the strip, and he said nothing at all; he would plough round it as the last man had and the man before that, and it would cost him something in the working, and he said that with no complaint whatever, as a fact about the world he had accepted long before he came up my track. That was the part that stayed with me longest. He had not walked me over his own ground to ask me to fix it. He had walked me over it so that when the field came in short, I would know why, and could not lay it at his door.
 
