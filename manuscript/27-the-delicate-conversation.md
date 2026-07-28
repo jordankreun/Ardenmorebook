@@ -44,7 +44,7 @@ I looked at the storehouse door on its trestles, mortised and beaded and hung-re
 
 "Tomorrow," I said. "At your table, if I may. Plainly."
 
-"Aye," said Jorin, and picked up the screw-iron, and that was the treaty concluded; and if you have followed this account at all you will know that the three conditions, laid end to end, were the entire law and testament of a man's fatherhood, given in under a hundred words across a door he had built for me, and that I walked down the way that evening in more awe of him than I have been of archmagi.
+"Aye," said Jorin, and picked up the screw-iron, and that was the treaty concluded; and you will know by now that the three conditions, laid end to end, were the entire law and testament of a man's fatherhood, given in under a hundred words across a door he had built for me, and that I walked down the way that evening in more awe of him than I have been of archmagi.
 
 I came back the next evening, washed, in my good coat, which Jorin noted with one flick of an eyebrow and approved of.
 

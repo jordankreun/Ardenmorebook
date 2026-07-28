@@ -40,7 +40,7 @@ We stood there a long time, the herbalist and I, in the green-smelling half-dark
 
 "I mark it," Brenna said at last, flatly, which was her grandmother's phrase and closed the matter of what either of us would be saying aloud, and then she went and got the watering-can, because whatever else the morning had brought, the work of a house full of growing things does not stand about admiring itself.
 
-The rest of that day insisted, in the way of days, on being ordinary, and I have always been glad it did, because the ordinary part is the half of this chapter I would keep if I could keep only one.
+The rest of that day insisted, in the way of days, on being ordinary. I have always been glad it did. Of the day's two halves, the ordinary one is the half I would keep, if I could keep only one.
 
 Cael came up the way at noon, on his stick, unannounced, with Soren for a shadow, and stood in my yard and looked about himself at the whole of it, the Study and the glasshouse shining down the slope and the storehouse walls rising on the east shelf, and delivered, in the manner of a man reporting weather, the news he had climbed a hill at his age to deliver himself: that the council had met, the proper council, all four of them and the clerk's book; and that it had voted, unpetitioned, unprompted, and unanimous, less one abstention on the grounds of conflicting interest, the abstainer being the owner of the inn at the foot of the way; and that what it had voted was this: the village would take up the wizard's way where it met the lane, and widen the whole of it, lane to hilltop, into a proper cart-road, graded and walled, at the village's own charge, beginning after harvest.
 
