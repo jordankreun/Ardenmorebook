@@ -1,13 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-4 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
-
-## Chapter Two: Walking the Bounds
-
-> The room, that day, was worth the looking at. Ardenmoor at its dinner was
-
-This would be lunch time at around mid day. Given his walk up the hill started in morning
-
+3 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Chapter Three: Under Canvas
 
