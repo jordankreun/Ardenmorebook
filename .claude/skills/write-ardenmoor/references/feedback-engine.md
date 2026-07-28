@@ -641,3 +641,11 @@ conflict. Check every draft and every editing pass against them.
   the deadline, skip the melodrama.
 - **[CANON] THE CHEST AND ALL GOODS WAIT AT THE INN** (stable corner, oilcloth) until there is a
   built room to receive them. The chest does not sit in the tent. It comes up when the Study does.
+
+- **[OPS, standing — 2026-07-28] CLEAR THE REVIEW APP AFTER APPLYING.** Whenever reader feedback is
+  applied to the manuscript, mark those entries `resolved:true` with a FRESH `ts` in
+  feedback/notes.json and feedback/revisions.json (revs: `resolvedVia:"applied"`), and regenerate
+  both .md files (renderers in api/sync.js filter `!resolved`). The fresh ts is what makes the
+  reader's newest-wins sync merge propagate the cleared state to every device; deleting entries
+  instead would resurrect them from a device's localStorage. The app auto-resolves a tracked change
+  whose original paragraph vanished, but notes NEVER auto-resolve, so this step is mandatory.
