@@ -9,14 +9,6 @@
     "resolvedTs": 1785272944281
   },
   {
-    "chap": "Chapter Three: Under Canvas",
-    "snip": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the l",
-    "quote": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the last of the giving-up road with the drivers walking at the horses’ heads over the wo",
-    "text": "The movers need to unload his things into some sort of storeroom or storage he can let in the inn. Under a tarp in the barn or similar.",
-    "ts": 1785259460890,
-    "resolved": false
-  },
-  {
     "chap": "Prologue",
     "snip": "There was only a man at the tired end of a bad few years, with a good deal more skill than sense and",
     "quote": "That is who this is about, and I will ask you to go easy",
@@ -60,5 +52,13 @@
     "ts": 1785272944281,
     "resolved": true,
     "resolvedTs": 1785272944281
+  },
+  {
+    "chap": "Chapter Three: Under Canvas",
+    "snip": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the l",
+    "quote": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the last of the giving-up road with the drivers walking at the horses’ heads over the wo",
+    "text": "The movers need to unload his things into some sort of storeroom or storage he can let in the inn. Under a tarp in the barn or similar.",
+    "ts": 1785259460890,
+    "resolved": false
   }
 ]
