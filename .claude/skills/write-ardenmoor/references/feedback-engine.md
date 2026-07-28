@@ -626,9 +626,11 @@ conflict. Check every draft and every editing pass against them.
 - **[CRAFT] LOGISTICS ARE REAL.** Wagons do not climb a roadless hill: goods unload into a corner
   of the inn's stable, let for the purpose; books go up to the rented room; a camp is a tent, a
   kettle, and what a horse can carry. The author catches every physically lazy convenience.
-- **[CRAFT] THE VALLEY'S EARLY VIEW OF EMLYN IS GENTLY COMIC.** "The foolish and strange wizard
-  who had bought Cael's hill." Allow the village a little amusement at him; he reports it without
-  defending himself.
+- **[CRAFT] THE VALLEY'S EARLY VIEW OF EMLYN IS GENTLY COMIC — CONFIRMED by the author
+  2026-07-28 ("Gently comic is fine").** "The foolish and strange wizard who had bought Cael's
+  hill." Allow the village a little amusement at him, recurring, not once; he reports it without
+  defending himself, and the amusement fades into respect only as the work earns it, never because
+  the narration tires of the joke.
 - **[VOICE, small]** "wizardly enough," not "wizard enough" · the holding is "a living," never "a
   farm" · trim possessive tics ("a great deal of money," not "of your man's money") · direct
   address in dialogue ("How long would you need," not "would your man of affairs and mine need").
