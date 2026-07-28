@@ -6,7 +6,7 @@
 
 There are negotiations a man prepares for with figures, and negotiations he prepares for with sleep, and the one I opened at Jorin's gate on a warm evening at the front of that autumn was the second kind, and I had not prepared well.
 
-I had known it was coming for a year. Longer, if I am honest, since a summer evening on a half-built wall when a boy's corners came out true four times running and his father and I both pretended, for the boy's sake and our own, that we had not both seen what we had seen. The paper in the cellar had only put a date on it. A talent like Ren's does not keep. It grows, tended or not, the way water rises in a lock, and there is a window in which the choosing is still the boy's, and the window does not stand open forever, and every man in this story who loved him knew it, and only one of us had the standing to speak first, and it was not me.
+I had known it was coming for a year. Longer, if I am honest, since a summer evening on a half-built wall when a boy's corners came out true four times running and his father and I both pretended, for the boy's sake and our own, that we had not both seen what we had seen. The paper in the cellar had only put a date on it. A talent like Ren's does not keep. It grows, tended or not, the way water rises in a lock, and there is a window in which the choosing is still the boy's, and the window does not stand open forever, and every man who loved him knew it, and only one of us had the standing to speak first, and it was not me.
 
 It was Jorin, of course, who solved that, the way he solved most things, by being at work on it while the rest of us were arranging our feelings.
 

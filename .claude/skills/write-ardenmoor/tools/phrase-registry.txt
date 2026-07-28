@@ -103,3 +103,8 @@
 27-the-delicate-conversation.md|I'd like to know what I'm saying
 28-the-keeper-plant.md|an invalid queen
 28-the-keeper-plant.md|burning its quiet vote into the dark
+29-the-lab.md|below notice, above price
+29-the-lab.md|the rest is penmanship
+30-the-fire.md|the valley's own blood coming to a wound
+30-the-fire.md|he discovers it, and that is what my hands discovered
+30-the-fire.md|the things that are not yet ready to be true

@@ -1713,3 +1713,19 @@ show release. The coarse curve, so no chapter overshoots:
   LIRA, conflict of interest) to widen the way into a cart-road at village charge, after harvest —
   the Ch 20 rework's payoff; nobody will say what the road is for. LIRA: a Series lamp now burns
   in the inn's front window (never bought, never asked; first one in that window in three years).
+
+- **CH 29–30 NEW FACTS (drafted 2026-07-28):** LAB live (instruments moved down for good; hum
+  NEARER there; rear wall "held like a promise"). APPRENTICESHIP FORMAL: old form done (loaf halves
+  kept: Ren's with salt, Emlyn's half later saved FROM THE FIRE); Soren witnessed (his own sum
+  "coming, walking up its own road" — Book 2 seed). REN'S FIRST LAMP burns unquenched on the lab
+  bench (= Ch 32's final-image glow). THE FIRE: barn + cabin LOST (Essa's bed lost; blankets,
+  drawing, article-loaf, books, strongbox, notes SAVED); cause NEVER settled (green-hay theory
+  given to Penworth "because it asked the least of everyone"); Snow now stabled at Kellard's at a
+  neighbor's rate; Study = winter quarters over the cellar; glasshouse/storehouse/way untouched;
+  surplus re-spoken-for; Penworth: rebuild spring IN STONE ("stone and sorrow" line). Village
+  gift-flood (Cael's hat via Soren). CECILY (new canon, minimal): Penworth's discreet inquiry
+  agent; three dishonest correspondent hands since the patents; two named traced+warned off
+  (finished); UNSIGNED hand untraceable, trained in Emlyn's PRIVATE notation (taught to one
+  person only), letters STOPPED at inquiry's start; her counsel: "look at who had leisure in that
+  house" (the three unguarded years pre-crating). Letter kept in the STICKING DRAWER (callipers +
+  unread inventory pages). ⚠️ Do not resolve in Book One.

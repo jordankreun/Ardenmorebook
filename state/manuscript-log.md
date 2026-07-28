@@ -1103,3 +1103,39 @@ unanimous-less-one-abstention (Lira, conflicting interest) vote: the village wil
 into a CART-ROAD, lane to hilltop, at its own charge, after harvest ("the village won't be
 outbuilt... you'll oblige everybody by not asking"). CLOSE: a Series lamp burning NEW in the
 inn's front window; "Light going both ways now."
+
+[29] THE LAB (equinox, autumn Yr3, ~2,450w) — storehouse finished, REN HANGS THE DOOR (finishes
+what he builds; Jorin: "That's done, then."). The building: cold store (borrowed ground, harvest
+in, "honest wealths"); inner chamber = THE LAB (bench, instruments down from the Study for good;
+the hum NEARER there); the rear wall "the hill holds... the way a man holds a promise." THE OLD
+FORM: master's table (the lab bench), mother's loaf (she declines to watch), salt, articles read
+aloud entire, bread broken, halves kept against the term's end. SOREN STANDS WITNESS (Ren's
+asking, two words) doing "arithmetic... the sum he was working," unsaid, coming. FIRST WORKING:
+Ren pushes (glare with a flinch; the housing's thin unhappy note), told "Stop pushing... ask it
+for passage," lays his will down: the light comes up like morning. "It's holding itself. I
+only... asked." / "That's the trade. The rest is penmanship." THE LAMP LEFT BURNING on the bench
+(→ Ch 32 final image).
+[30] THE FIRE (early winter Yr3, ~2,900w) — dry month, SW wind; wakes to SNOW SCREAMING (four
+years of unease paid off as alarm; hindsight only). Barn goes "like a struck match" (roar not
+crackle); Snow saved at the box (Tomas's bar comes free clean); spark-river uphill takes the
+cabin: warding held (rot/wet/beetle wards shed sparks) but "heat is not a working"; three trips
+in the north door: strongbox+deeds+notes, the shelf of books, then Soren's drawing + the article
+half-loaf + Lira's blankets ("a man in a burning house does not choose what matters, he discovers
+it"). ESSA'S BED LOST (one breath in the doorway; what he said kept). THE VILLAGE COMES UP THE
+WAY — lantern chain at a run, dry-shod (Ch 20 payoff); Jorin reads the wind, Tomas points, Ren+Tam
+turn the rails, buckets pen the margins; Cael up last on his stick; Bess: "Eat it while it's
+warm." CAUSE NEVER SETTLED (flue / tramp / green hay theories; "my own lamps do not burn" said by
+the valley FOR him; the hill blameless ON PAGE, pulse "indifferent, ancient, and cold"). LEFT:
+Study, glasshouse, storehouse+lab (lamp still burning), the way; two black rectangles "as though
+the hill had merely acquired two more hearths." Winters in the Study OVER THE CELLAR ("twelve feet
+over a word... a sentence I set down now and notice, and did not notice then"). MONEY hard again;
+the one clean quarter re-spoken-for; Penworth's four sentences ("in stone, and the difference in
+cost between stone and sorrow is one I am no longer willing to discuss") — laughs once. "In the
+spring, in stone." The village keeps BRINGING THINGS (chair, firewood, mended bolster, Cael's own
+hat via Soren); "never in my life been richer." CECILY'S LETTER (under Penworth's cover, week
+before solstice; history: since the patents, three dishonest hands; two named = traced, warned
+off, finished; the UNSIGNED third = untraceable, letters STOPPED the month inquiry began; the
+hand trained in EMLYN'S OWN PRIVATE NOTATION, taught to exactly one person; "It learned at
+leisure, at a desk... I would look, when you are able to look, at who had leisure in that
+house."). Filed in the STICKING DRAWER with the callipers and the unread inventory pages ("the
+things that are not yet ready to be true").
