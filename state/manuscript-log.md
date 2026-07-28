@@ -1056,3 +1056,30 @@ degree, rising through the cellar's NE corner (the chest): notation "salutation,
 Her forty years and his instruments laid one above the other; NO conclusion drawn. Second stone
 lifted and cased; THIRD BLANK set with NO term. CLOSE: doorway before dawn, forge light burning
 early below, "I live on top of a word."
+
+[25] THE FORK AND THE PAPER (late spring Yr3, ~2,500w) — needing hands that are not his own
+(finding 1 makes his palm a compromised instrument), Emlyn borrows Ren with Jorin's "Ask him."
+REN IN THE CELLAR (carpenter-practical per 1B): "It's built true and it stands other"; the NE
+corner "takes from below... like a post under load, only the load's the wrong way up"; his feet
+never finish turning away from the corner. What he felt during the build, said at last: "Felt like
+working in a stairwell. A room with a below to it." THE FORK struck twice: answer everywhere, but
+"sooner and cleaner" toward the corner. THE PAPER: Ren's signature prints strong and RUNS, branching
+downward-flowing lines toward the bottom edge (a signature with a DIRECTION; none seen before).
+"I don't know yet what it means" said twice, plainly; the oath of silence (not from his father;
+the shape stays in the cellar; Emlyn answers for it). CLOSE: Soren's unprompted drawing under a
+pebble on the doorstone: hill, glasshouse, the way, the storehouse FINISHED, and a TOWER on the
+crown, captioned "the hill's good place."
+[25b] INTERLUDE III (~330w) — the hill knows the two small weights apart (one hears and holds like
+the oak; the root-boy takes the sound down through himself and returns it changed, iron and cut
+timber and a straightness). It answers the small blunt tooth of steel twice over. Nightly, toward
+the dry corner, it practices the shape of a word it has no mouth for, building with the great
+weight's learned lines, and keeps its count.
+[26] KEEPING THE PROMISE (a week after the reading, ~1,900w) — the promise's letter ("when I know
+what it is") vs its truth (company). Emlyn brings TOMAS up the way at the fall of the light, first
+time on the crown; hat off by old habit; the dusk pulse stood inside, together. "Louder up here."
+/ "Cleaner." Emlyn gives the TRUE SHAPE: aware, always was, listening back, learned his hand,
+changing its sound the slow way a thing changes when it wants to be understood, never angry,
+waiting since before either was born. KEEPS BACK the corner, the chest, the bearing ("a grief
+before a wonder"). Tomas: "Two year I thought it was the iron... Then a year I thought it was me."
+"Waiting for what?" / "I don't know yet. But I'll keep the promise as long as it keeps being
+true." Second handshake in three years. Down the way by lamplight, nothing more said.

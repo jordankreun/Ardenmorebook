@@ -1688,3 +1688,15 @@ show release. The coarse curve, so no chapter overshoots:
   holds and passes on). SECOND STONE lifted and cased; THIRD BLANK in the floor, NO term. The
   two-grandmothers question remains OPEN. Tomas's forge light burning before dawn on reading night
   (he kept the count) — the telling is Ch 26.
+
+- **CH 25–26 NEW FACTS (drafted 2026-07-28):** REN canon: signature prints with a DIRECTION
+  (branching, downward-flowing, ran past the sheet's edge; strong); cellar reads to him as "a room
+  with a below to it" (said aloud at last); feet drift toward the NE corner unbidden; oath of
+  silence sworn (scope: the shape of it, the paper, the fork, the corner; explicitly NOT kept from
+  Jorin that something was felt; "not forever"). The FORK (first instrument he made in the valley,
+  tuned to the hill's baseline) answers "sooner and cleaner" toward the corner. SOREN'S DRAWING
+  (kept; on the doorstone under a pebble): hill + glasshouse + the way + storehouse FINISHED +
+  A TOWER with a light in the top, caption "the hill's good place" — quiet seer note, never
+  discussed. TOMAS now holds the TRUE SHAPE minus the corner/chest/bearing; "never once been alone
+  with it either. Whatever it turns out to be, that part is finished." Hum-knowledge ledger update:
+  Tomas = aware hill, learning-him, waiting, temper calm; NOT told: grammar detail, corner, chest.
