@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-11 open tracked changes. Synced from the reader.
+17 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -49,7 +49,43 @@ ORIGINAL:
 > I want to be plain about what I did, because it matters to everything after. I drafted it the way I had drafted a hundred workings before it, the way any competent man in my trade would have drafted it, which is to say I drafted it to win. A reshaping ward is a large and expensive thing, and it does what its name says: it takes hold of the deep layer of a place, the slow shifting stone under the soil that no spade ever reaches, and it tells that layer what shape to keep. You set your anchors at the corners and you feel down for the deep grain and you bind it, and thereafter the ground holds the footing you have given it because it no longer has any say in the matter. It is a fair-mason's working, if a mason could reach that far down. It is exactly what Cael's father did with his four square walls and his stubbornness, only I could reach the layer his mortar never could, and I did not doubt for a moment that I could make it obey.
 
 REVISED:
-> I want to be plain about what I did, because it matters to everything after. I drafted it the way I had drafted a hundred workings before it, the way any competent man in my trade would have drafted it, which is to say I drafted it to win. A reshaping ward is a large and tedious thing, and it does what its name says: it takes hold of the deep layer of a place, the slow shifting stone under the soil that no spade ever reaches, and it tells that layer what shape to keep. You set your anchors at the corners and you feel down for the deep grain and you bind it, and thereafter the ground holds the footing you have given it because it no longer has any say in the matter. It is a fair-mason's working, if a mason could reach that far down. It is exactly what Cael's father did with his four square walls and his stubbornness, only I could reach the layer his mortar never could, and I did not doubt for a moment that I could make it obey.
+> I want to be plain about what I did, because it matters to everything after. I drafted it the way I had drafted a hundred workings before it, the way any competent man in my trade would have drafted it, which is to say I drafted it to win. A reshaping ward is a large and intricate thing, and it does what its name says: it takes hold of the deep layer of a place, the slow shifting stone under the soil that no spade ever reaches, and it tells that layer what shape to keep. You set your anchors at the corners and you feel down for the deep grain and you bind it, and thereafter the ground holds the footing you have given it because it no longer has any say in the matter. It is a fair-mason's working, if a mason could reach that far down. It is exactly what Cael's father did with his four square walls and his stubbornness, only I could reach the layer his mortar never could, and I did not doubt for a moment that I could make it obey.
+
+ORIGINAL:
+> I put it down to tiredness at first, and then to the strangeness of the place, and then, because I am an honest man on paper if nowhere else, I put it down to the truth, which was that I did not think it would work. Or rather I thought it would work exactly as well as such things always work, which is completely and for a while. I would bind the layer, and the footing would hold through the building of it, and I would raise my walls true, and for a year, or two, or five, they would stand. And then some night with no wind the hill would remember that it had a say after all, and it would shrug, the way it had shrugged off every wall in two lifetimes, and I would come down in the morning to a heap of good stone and the particular silence of a valley that had told me so. I did not know how I knew this. I only knew it, the way you know a knot is going to slip before it slips.
+
+REVISED:
+> I put it down to tiredness at first, and then to the strangeness of the place, and then, because I am an honest man on paper if nowhere else, I put it down to the truth, which was that I was not sure it would work. Or rather I thought the working would work exactly as well as such things always work, which is completely. I would bind the layer, and the footing would hold through the building of it, and I would raise my walls true, and for a year, or two, or five, they would stand. And then some night with no wind the hill would remember that it had a say after all, and it would shrug, the way it had shrugged off every wall in two lifetimes, and I would come down in the morning to a heap of good stone and the particular silence of a valley that had told me so. I could set aside the village folks warning from my mind.
+
+ORIGINAL:
+> They had come up from Vethmark with the rest of my life, the books, and among them, because a careful man keeps such things, was a surveyor's compendium a good deal older than I was, a fat foxed volume of tables and methods for the reading and reckoning of ground. I had bought it from the estate of a man I never met, a surveyor dead some sixty years, and I had carried it about for most of my working life and consulted it perhaps twice. Surveyors and men of my trade are cousins who do not much like to admit the relation; they read the ground with rods and chains and I read it with worse-named things, but we are both of us in the business of asking a place what it is before we tell anyone what to do with it. I took the book down that night for its tables on deep-layer behavior, which are as good as any ever made, and I did not find what I was looking for, and I found what I needed instead.
+
+REVISED:
+> Among my books, long forgotten yet held for exactly this rare moment in which it would be required, was a surveyor's compendium a good deal older than I was, a fat foxed volume of tables and methods for the reading and reckoning of ground. I had bought it out of professional curiosity from the estate of a man I never met, a surveyor dead some sixty years, and I had carried it about for most of my working life and consulted it perhaps twice. Surveyors and men of my trade are distant cousins who do not much like to admit the relation; they read the world with rods and chains and I read it with worse-named I took the book down that night for its tables on deep-layer behavior, which are as good as any ever made, and I did not find what I was looking for, and I found what I needed instead.
+
+ORIGINAL:
+> It was in the margin of a page on subsidence, in a third hand, faded to the color of weak tea, cramped into the white space by someone who was not the surveyor and not, by the different ink, the surveyor's own annotator either, but some third reader further down the years who had met this same trouble somewhere and set down what he learned of it where he thought it might be found. Three lines. I have the book yet, and I could copy the very slant of them, but the words are these:
+
+REVISED:
+> It was in the margin of a page on subsidence, in a third hand, faded to the color of weak tea, cramped into the whitespace.
+
+ORIGINAL:
+> *Do not ask for level. Ask for passage. The ground knows the difference.*
+
+REVISED:
+> *When dealing with a particularly challenging site or one that a conventional structure has failed upon. It may be necessary to adapt you plans more closely to the natural features of the given site. Do not ask for level. Ask for passage. The ground knows the difference.*
+
+ORIGINAL:
+> I do not know how long I lay like that. Long enough that the wet had gone through my coat at the knees and the elbows and I had stopped noticing it. The cost of a working like that one is not a thing you can put in a ledger, though I have tried; it is paid out of the same account a long day's honest labor is paid from, and out of a deeper one besides, and I have known men in my trade spend themselves to nothing reaching too far and asking too much. I had reached about as far as I ever had. But it was not only the cost. It was that the ground under my face was different now in a way I had no instrument to measure. It had been ground I stood on. It was ground that had answered me. A man who has spent three years making very sure that nothing in the world required anything of him, or offered him anything either, does not quite know what to do with being answered. I lay there and let it be true a while before I had to get up and be a sensible man about it again.
+
+REVISED:
+> I do not know how long I lay like that. Long enough that the wet had gone through my coat at the knees and the elbows and I had stopped noticing it. The cost of a working like that one is not a thing you can put in a ledger, though I have tried; it is paid out of the same account a long day's honest labor is paid from and I have known men in my trade spend themselves to nothing reaching too far and asking too much. I had reached about as far as I ever had. But it was not only the cost. It was that the ground under my face was different now in a way I had no instrument to measure. It had been ground I stood on. It was ground that had answered me. A man who has spent three years making very sure that nothing in the world required anything of him, or offered him anything either, does not quite know what to do with being answered. I lay there and let it be true a while before I had to get up and be a sensible man about it again.
+
+ORIGINAL:
+> "It said yes," he said.
+
+REVISED:
+> "You’ve started," he said.
 
 
 ## Chapter Five: Good
