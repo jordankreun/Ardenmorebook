@@ -240,3 +240,57 @@ tonal grounds:
 The trims recommended in Ch 17, 18, and 19 are all repetition of *information*, never of feeling:
 the Hask mechanics explained a third time, the holdings re-listed, the Ch 15 loan argument
 re-argued. Every kitchen, every bargain, and the bed stay.
+
+
+---
+
+## APPENDIX — FIXES APPLIED 2026-07-29 (same session as the diagnostic)
+
+**Causal seams repointed (all four calendar entries):**
+- Ch 8 now rules the lamps against the note in two columns that do not meet, naming seed-time as
+  the deadline. Ch 9 opens on those columns wintering with him instead of on the thaw.
+- Ch 9's closing clause no longer names the tenants; the bottoms lie "dark and empty and waiting
+  on me," so Ch 10 delivers them. The chronology inversion is resolved by trim, not by reorder;
+  no chapter moved.
+- Ch 16 opens on Penworth's ultimatum and his spade condition: "the harvest that year was not a
+  season. It was an installment."
+- Ch 29 now leaves the hay in the loft because the cold store's shelves had better claims that
+  week; Ch 30 echoes it ("where the storehouse's filling had left it"). The fire begins in the
+  material the new building's success had queued behind everything else. Ignition stays unexplained.
+
+**Hill blackout closed (fix 1):** three refusal-to-read touches added, in Ch 16 (nine days of
+harvest, the stone counting unattended), Ch 19 (filling all winter while everything else emptied),
+and Ch 20 (three seasons on it; "wanting to is the first sign a record is ready, and the second
+sign is being able to bear it a while longer"). Signal density across 16-23 no longer reads zero.
+
+**Menace thread staged (fix 3):** the third unsigned letter now ARRIVES on the page in Ch 28, with
+the recognition of his own private notation in a trained hand, and his letter to Penworth asking
+for somebody discreet. Ch 31's recalled history is cut accordingly; the "I owe you a little
+history" framing is gone and Cecily's report now opens directly on her findings.
+
+**Both orphans banked:** Ch 21 gives the bootlace packet one deliberate touch and closes it as a
+door kept shut on purpose ("there are drawers a woman keeps for the same reason a man keeps a
+locked chest"). The coda now closes the Tomas promise ("Tomas had it from me the day after, which
+was the promise") and carries the road through to its building.
+
+**Trims:** Ch 2's thesis shaved to a hunch so Ch 4 derives it alone (the two chapters had it
+nearly verbatim). Ch 6's forward-flash to the daylight lamp cut. Ch 7's causal clause promoted
+into the entry and de-duplicated below. Ch 17's mid-chapter re-listing halved and reframed as the
+census rather than a restatement of Ch 10.
+
+**Declined on re-reading:** the Ch 19 recap trim. The diagnostic called it paragraphs re-arguing
+the Ch 15 hillside scene; on inspection it is one clause of pointer plus a new and better framing
+("I did not own a hill with a debt on it. I owned a debt with a hill inside it"). Trimming it
+would cost more than it saved. Ch 18's Hask exposition was also checked and is already only Hal's
+thumb on the map, which is what the diagnostic asked for.
+
+**Not fixed, and deliberately so: the Part IV dialogue collapse.** Ch 28's staged letter adds
+scene, but the underlying finding stands: dialogue share falls from 13-31% across Parts I-III to
+0-2% in Ch 20, 21, 24, 30, 31, 32, and Ch 27 is the last true scene-with-people in the book.
+Repairing it properly means new scene work in the final movement, not clause surgery, and the two
+obvious candidates both resist it. Ch 24 is correctly solitary. Ch 30 has the whole village on the
+hill and one spoken line, and both cold readers called its restraint the point. This is an
+author's call about how much conversation the last movement should carry, and it is the one
+finding in this document still open.
+
+All touched chapters lint zero-FAIL; no em dashes; no chapter reordered, merged, or cut.

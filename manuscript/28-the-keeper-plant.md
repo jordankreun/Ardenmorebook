@@ -42,7 +42,13 @@ We stood there a long time, the herbalist and I, in the green-smelling half-dark
 
 The rest of that day insisted, in the way of days, on being ordinary. I have always been glad it did. Of the day's two halves, the ordinary one is the half I would keep, if I could keep only one.
 
-In the desk drawer the office's letter kept breathing; I had stopped hearing it most days, which is not the same as its stopping.
+The post came up with the bread, and there were three things in it, and two were ordinary.
+
+The third had no signature. It was the third of its kind since the patents went up for licence in the spring, and I had kept the first two out of tidiness rather than suspicion: careful letters, admiring, patient, each of them circling in its own way toward the same small door, my methods, my notation, the unpublished parts, the parts a man keeps. Two other correspondents that year had done the same thing over their own names, and I had thought all of it the ordinary weather of a man who has sold a lamp.
+
+I stood in my doorway with the third one and did not think that any more. It was the hand. Not the words, which were courteous and said almost nothing. The hand had been trained, and I knew the training, because the notation it had learned was mine. Not my trade's. Mine, the private forms I had built for my own working papers half a lifetime ago, and taught to exactly one person, and buried with her, as I had believed, in a sealed house, in an unread inventory.
+
+I read it twice standing up, in the cold, with the bread going hard under my arm, and then I went in and wrote to Penworth and asked him to engage somebody discreet, and I did not say why on paper. In the desk drawer the office's letter kept breathing beside it. I had stopped hearing that one most days, which is not the same as its stopping.
 
 Cael came up the way at noon, on his stick, unannounced, with Soren for a shadow, and stood in my yard and looked about himself at the whole of it, the Study and the glasshouse shining down the slope and the storehouse walls rising on the east shelf, and delivered, in the manner of a man reporting weather, the news he had climbed a hill at his age to deliver himself: that the council had met, the proper council, all four of them and the clerk's book; and that it had voted, unpetitioned, unprompted, and unanimous, less one abstention on the grounds of conflicting interest, the abstainer being the owner of the inn at the foot of the way; and that what it had voted was this: the village would take up the wizard's way where it met the lane, and widen the whole of it, lane to hilltop, into a proper cart-road, graded and walled, at the village's own charge, beginning after harvest.
 

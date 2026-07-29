@@ -4,6 +4,8 @@
 
 ### Chapter Sixteen: Harvest Home
 
+Penworth had said it on the hillside in the summer, with his thumb at the foot of the column: the land had to carry the next payment, and this green I was so pleased with had to come in, and come in sold. He had made it a condition besides. Not a spade into the glasshouse ground until the crop was cut and sold and the money paid over. So the harvest that year was not a season. It was an installment, and it had to be got out of the ground by hand.
+
 The bottoms came in over nine days at the front of autumn, and for nine days I was not a wizard at all. I was a pair of hands that could be told what to do, which is a thing I recommend to anybody who has begun to take himself seriously.
 
 How the land lay by then is worth setting out, because the rest turns on it. The Wrays had the main bottom-field, eighty-odd acres of it, on their own account and their own terms. Of what was left I had put into barley that spring as much as I could get a plough to, which was less than half of it and not the best half, with day labour out of the village, on Cael's advice and Hal Wray's and against my own total ignorance. Why I could not get a plough to the rest of my own land was a question I had not yet troubled to ask. When I finally went and asked it, the asking took me eleven days on foot.
@@ -125,3 +127,5 @@ It was, near enough. A natural pocket in the hill's stone, dry as a bone, perhap
 Ren said, "It's a good place," which was not a builder's remark, and I noticed it, and said nothing, and neither did his father.
 
 We put the hazel back over it and went up.
+
+Under the Study, all nine of those days, the second stone had been keeping its own count of the hill's nights, and I had not been down to it once. There was no time in that fortnight and I would not have taken it if there had been. A record wants leaving alone the way a field wants leaving alone, and besides, a man who has spent nine days carrying other men's barley sleeps when he stops.

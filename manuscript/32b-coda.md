@@ -22,4 +22,6 @@ So there it is, the start of it, as I promised you, and you will notice I have e
 
 You asked me once, in your patient way, why the story could not begin with the door. Now you have your answer: because the door is not the beginning. The beginning is a bowl of soup, and a hill nobody wanted, and every hand that came up a bad road to help build the rest of it. The door comes after, the way it came after, and it can wait, the way it waited under my floor, which it does gladly, having had the practice.
 
+Tomas had it from me the day after, which was the promise, and I will not set down here what he said when he had it, because he said it to me and not to a page. The village had its road up the hill by the summer, walled and graded, the whole of it at their own charge, and would not hear a word of thanks about that either.
+
 Set the kettle on, Soren. The rest wants telling by the fire.

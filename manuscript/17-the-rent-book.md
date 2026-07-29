@@ -22,7 +22,7 @@ It was a mess.
 
 I do not mean the paper was a mess, though it was. I mean the land was. The four holdings Penworth had bundled together for me had each been dying by inches for thirty years, and in that time bits had been sold and bits had been let and bits had simply been walked onto by whoever wanted them, and nobody had drawn a line on a map since before Cael was born. What I owned, when I finally understood it, was not a farm. It was a jigsaw with pieces missing and other men's pieces in the box.
 
-There was a strip six acres long running clean through the middle of the main bottom-field, from the beck up to the hedge, and though it stood on my own roll it was not mine in any way that counted, held on a tenancy older than the paper by a man I had never met. There was a cottage and garden in the far corner of the same field, held the same way. There were four rough acres of the NE meadow held by somebody I had never heard of. There were four separate parcels of good plough-land, together making perhaps sixty acres, gone out of cultivation because they could not be reached without crossing ground another man held, and everyone had eventually stopped trying.
+It was the same mess Hal had walked me through in April, set down this time in my own hand and my own ink, which is a different thing from being told it. Six acres of another man's tenancy straight through the main field. A cottage and garden in the far corner, held the same way. Four rough acres of the northeast meadow belonging to a name I did not know. And sixty acres of good plough-land in four parcels with no lane to any of them.
 
 And around all of it, in the corners and the awkward angles, in a way no plan in the world showed, were people.
 
