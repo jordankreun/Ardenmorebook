@@ -44,7 +44,7 @@ I looked at the storehouse door on its trestles, mortised and beaded and hung-re
 
 "Tomorrow," I said. "At your table, if I may. Plainly."
 
-"Aye," said Jorin, and picked up the screw-iron, and that was the treaty concluded; and you will know by now that the three conditions, laid end to end, were the entire law and testament of a man's fatherhood, given in under a hundred words across a door he had built for me, and that I walked down the way that evening in more awe of him than I have been of archmagi.
+"Aye," said Jorin, and picked up the screw-iron, and that was the treaty concluded. I walked down the way that evening in more awe of him than I have been of archmagi.
 
 I came back the next evening, washed, in my good coat, which Jorin noted with one flick of an eyebrow and approved of.
 
@@ -58,6 +58,6 @@ Ren looked at his hands a moment, flat on the table, big already, scarred alread
 
 "Yes," he said. "I've been answering it for a year. I'd like to know what I'm saying."
 
-And his mother in the doorway made one small sound and turned it into a cough, and Jorin put both hands flat on his table and bowed his head over them a moment, one breath, the way a man does at grace before a meal it took his whole life to grow, and I sat in a joiner's warm kitchen and understood that I had just been trusted with more than the Conclave had ever held of me, and that the trade I had come to that valley to lay down had picked itself back up at that table and reached out its hand, and that nothing on the hill, not the tower to come nor the word under the grass, would ever ask more of my craft than the sixteen words this boy had just answered a life with.
+And his mother in the doorway made one small sound and turned it into a cough, and Jorin put both hands flat on his table and bowed his head over them a moment, one breath, the way a man does at grace before a meal it took his whole life to grow, and I sat very still in a joiner's warm kitchen, and did not trust myself to speak first.
 
 Terms could wait for Penworth's paper, and the old ceremony could wait for the storehouse, because the boy finishes what he builds. That was all as it should be. His mother fed me until I could not stand, and would not hear one word about it.

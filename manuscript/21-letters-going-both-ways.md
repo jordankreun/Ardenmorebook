@@ -4,6 +4,8 @@
 
 ### Chapter Twenty-One: Letters Going Both Ways
 
+*What follows I could not have known that spring. I had it from her much later, in pieces, and I give it here in her order, not mine.*
+
 The inn emptied late, for a spring night. Lira stood at the door while the last of them went, took the goodnights as they were offered and returned them at the same weight, and slid the bar across, and stood a moment in the quiet the way a woman stands in a room she has just got back.
 
 The fire was banked. The girl had done the floors before she went, and done them properly, which had taken two years of teaching and was now worth the two years. The cups were on their shelf. Lira walked the room once, because a room will lie to you from behind the bar, straightened a bench that had wandered, pinched a candle that had no business still burning, and took the day's box to the small table in the snug where the light was good enough and nobody could see her from the lane.
@@ -14,9 +16,9 @@ There were two of them. The first was the inn's, tall and broad-backed and hands
 
 The second book was small, and plain, and lived under the first one, and was not a book of money.
 
-She did not write in it every night. She wrote in it when there was something worth the ink, which in Ardenmoor was not often, and that was precisely as she preferred it. Into the small book, over the years, had gone the weather of the valley: who had married, who had died, what the quarry paid, whether the harvest came in, the small lawful history of a small lawful place. And into it, for three years now, had gone the wizard.
+She did not write in it every night. She wrote in it when there was something worth the ink, which in Ardenmoor was not often, and that was precisely as she preferred it. Into the small book, over the years, had gone the weather of the valley: who had married, who had died, what the quarry paid, whether the harvest came in, the small lawful history of a small lawful place. And into it, these two years and more, had gone the wizard.
 
-She turned back through the pages sometimes, on nights like this one, before she wrote. It was a discipline, like counting a till you already trust. The entries ran spare. *Bought the hill. Paid on the day.* That was the first, three springs gone. Then, in their seasons: *Built on the crown. Wall stood.* And: *A lamp that does not burn. Gave the first to the herb-woman, no charge that I can find out.* And: *Winter. Sells light now. The valley likes him better than it says.* And, from last summer, on a line by itself, in a hand very slightly smaller than the hand around it, as though the ink itself had been asked to keep its voice down: *The boy.*
+She turned back through the pages sometimes, on nights like this one, before she wrote. It was a discipline, like counting a till you already trust. The entries ran spare. *Bought the hill. Paid on the day.* That was the first, two springs gone. Then, in their seasons: *Built on the crown. Wall stood.* And: *A lamp that does not burn. Gave the first to the herb-woman, no charge that I can find out.* And: *Winter. Sells light now. The valley likes him better than it says.* And, from last summer, on a line by itself, in a hand very slightly smaller than the hand around it, as though the ink itself had been asked to keep its voice down: *The boy.*
 
 She sat with that page a while, on this particular night, and she did not add anything to it.
 

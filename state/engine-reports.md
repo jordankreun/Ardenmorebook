@@ -184,3 +184,37 @@ and fixed same-session; "this account" now a personal watch-word). Accepted WARN
 chapters 21/24/30 below dialogue floor by design; Ch 30 which-tails/similes at threshold+1.
 OUTSTANDING (queued): full adversarial editorial pass on Ch 20-32 (the 00-19 pass predates them),
 then the whole-book cold read end to end.
+
+
+## 2026-07-29 — WHOLE-BOOK COLD READ (four agents) + AUTO-RESOLVE
+Four independent reads: quiet span 20-25b, climax 26-32b, whole-book arc, continuity sweep.
+~50 findings triaged; all verified findings fixed under the standing auto-resolve directive.
+ARC VERDICTS kept for the record: the twist is EARNED (inevitable-in-hindsight, fair-play clued);
+the money arc is the book's best-built structure; the plateau was 26-29 (fixed by trimming
+self-commentary and cutting foreshadow flags); Ch 30 was double-loaded (fixed by moving Cecily's
+report out of the fire chapter into Ch 31 and retitling Ch 30 "A Dry Month" — filename unchanged).
+STRUCTURAL FIXES: Ch 30 now opens on the waking (facts-first frame moved into the cause-never-
+settled section as hindsight testimony); Ch 31 carries the compressed Cecily block + an explicit
+arson-considered-and-declined beat; Ch 32 twist decode cut (reader decodes; interlude confirms).
+TIMELINE NORMALIZED: valley residency capped at three winters at the fire; grief arithmetic six
+years everywhere; Ren 18 / Soren 12 in the back half; Cecily window four years; wrapped-scarf
+attribution ("ever wrapped"); chest three feet; Tomas hum-count kept at 3y (2 alone + 1 shared,
+predates nothing — his hearing is his own).
+REJECTED ON VERIFICATION: fleece count (correct as written); Ch 23 bearing precision (nuance:
+cellar-line surveying is not the hum bearing — text de-precisioned anyway); "name Arielle earlier"
+(violates locked unnamed-on-page canon; Ch 31 now says "Her mother." instead).
+Lint pending this session's close; sw bumped to v20 with the push.
+
+## 2026-07-29 — READER FEEDBACK ROUND 3 (5 notes, 17 tracked changes; Prologue + Ch 3-6)
+All applied same-session; review app cleared (fresh-ts resolves).
+NOTE-DRIVEN REWORKS: Prologue epigraph cut and closing frame reverted to the "Perhaps I will set
+the true thing down one day" version (coda header now "From a later journal"); Ch 3 goods stored
+in a LET stable corner at the inn; Ch 5 Jorin no longer asks "Whose corner's that" — he surveys
+the offset corner and confirms it with tools, then "Build there, then"; Ch 6 lamp R&D now runs
+several failures → ambient-follower (the version that wakes, keeps the hill's hours) → cistern +
+collar-ring version (stores the hum, tunable, steady) — the Series daylight lamps of Ch 8 remain
+a separate, later solution and are untouched.
+TRACKED-CHANGE TYPOS smoothed per standing rule: "it the proceeds"→"the proceeds"; "they grey"→
+"the grey"; "you plans"→"your plans"; "worse-named I took"→ restored "things." break; "I could set
+aside the village folks warning" read as intended negative → "I could not set the village folk's
+warning out of my mind"; margin-note fragment joined into period surveyor prose.

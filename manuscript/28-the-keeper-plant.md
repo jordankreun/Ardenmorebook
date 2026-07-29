@@ -16,7 +16,7 @@ I have called it the keeper plant because that is what she called it, on the one
 
 And the week I took the hill, it had put out three leaves.
 
-She did not say, that evening at my door, that it was time. She said, "Well," in a fair imitation of Cael, and took up the handles of the cart, and I walked beside her down the slope to the glasshouse through the first real cold of the year, saying nothing, because there was an order of service to this even if neither of us would have called it that, and my part of it was to open doors and hold my peace.
+She did not say, that evening at my door, that it was time. She took up the handles of the cart, and I walked beside her down the slope to the glasshouse through the first real cold of the year, saying nothing, because there was an order of service to this even if neither of us would have called it that, and my part of it was to open doors and hold my peace.
 
 The glasshouse at evening is a place I will set against any chapel in the Commonwealth. The day's heat rises off the beds slow and green-smelling in the dark, and the panes go from gold to grey to a black shine, and the whole long house ticks and settles around you like a ship at anchor. We came up the center walk between the full beds, past Tam's careful lettuces and the forcing-bays and the propagation benches with their winter stock coming on, all the way north to the bare corner, where the ground had been waiting for a year with nothing asked of it.
 
@@ -42,13 +42,15 @@ We stood there a long time, the herbalist and I, in the green-smelling half-dark
 
 The rest of that day insisted, in the way of days, on being ordinary. I have always been glad it did. Of the day's two halves, the ordinary one is the half I would keep, if I could keep only one.
 
+In the desk drawer the office's letter kept breathing; I had stopped hearing it most days, which is not the same as its stopping.
+
 Cael came up the way at noon, on his stick, unannounced, with Soren for a shadow, and stood in my yard and looked about himself at the whole of it, the Study and the glasshouse shining down the slope and the storehouse walls rising on the east shelf, and delivered, in the manner of a man reporting weather, the news he had climbed a hill at his age to deliver himself: that the council had met, the proper council, all four of them and the clerk's book; and that it had voted, unpetitioned, unprompted, and unanimous, less one abstention on the grounds of conflicting interest, the abstainer being the owner of the inn at the foot of the way; and that what it had voted was this: the village would take up the wizard's way where it met the lane, and widen the whole of it, lane to hilltop, into a proper cart-road, graded and walled, at the village's own charge, beginning after harvest.
 
 "It's a fool's expense," Cael said, comfortably, in the voice he kept for things he had argued for. "Council money, on a road that goes up a hill to one man's gate. I said so at the meeting. Then I said we'd vote, and we voted." He looked at me sideways, sharp and old and entirely pleased with himself. "You laid a way down to us, wizard. Seems the village won't be outbuilt. There's not a man on that council will say what the road's for, mind, so you'll oblige everybody by not asking."
 
 I did not ask. I gave them supper, the old man and the boy, and walked them down at dusk, and at the foot of the way, where the lane began and the village's road would begin its climbing in the spring, I stood a while after they had gone.
 
-The evening was coming on cold and clear. Up the hill behind me the glasshouse held its last light, and somewhere under the crown a corner of dark leaves pointed steadily at a buried word. And below me, in the village, in the window of the inn, where in three years I had never once seen anything but tallow and firelight, there was a new light burning. Steady, unflickering, the colour of deep amber, the colour I would know at the bottom of the sea.
+The evening was coming on cold and clear. Up the hill behind me the glasshouse held its last light, and somewhere under the crown a corner of dark leaves pointed steadily at a buried word. And below me, in the village, in the window of the inn, where in two years and more I had never once seen anything but tallow and firelight, there was a new light burning. Steady, unflickering, the colour of deep amber, the colour I would know at the bottom of the sea.
 
 She had never bought one. She had never asked, and I had never dared. But there it stood in the inn's front window, burning its quiet vote into the dark, and I stood at the foot of my own way in the cold and looked at it for a good deal longer than a sensible man looks at a lamp.
 

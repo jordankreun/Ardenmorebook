@@ -6,7 +6,7 @@
 
 Jorin came up the way on the second evening of those four days, with a roll of my drawings under his arm and the particular walk of a man who has read them and has opinions.
 
-I had drawn the storehouse over the winter, in the evenings the glasshouse left me, which were few and late. It wanted building on the east shelf, into the slope, where the ground had already done half the work: the cave that Ren had found on harvest night sat back in that deeper green like a room the hill had roughed out and left for a tenant, dry, stone-floored, cool the year round. My drawings took it as they found it. Face the mouth, floor it proper, wall the front, roof what stood proud of the slope, and let the hill itself be the cold store's back and sides, the way a good root cellar is mostly borrowed ground with a door on it. The inner chamber I had drawn deeper, smaller, and I had specified its rear wall with a care that stood out of the page a little from the plainness of the rest: set true, dressed both faces, on a bearing I gave to the minute of the compass.
+I had drawn the storehouse over the winter, in the evenings the glasshouse left me, which were few and late. It wanted building on the east shelf, into the slope, where the ground had already done half the work: the cave that Ren had found on harvest night sat back in that deeper green like a room the hill had roughed out and left for a tenant, dry, stone-floored, cool the year round. My drawings took it as they found it. Face the mouth, floor it proper, wall the front, roof what stood proud of the slope, and let the hill itself be the cold store's back and sides, the way a good root cellar is mostly borrowed ground with a door on it. The inner chamber I had drawn deeper, smaller, and I had specified its rear wall with a care that stood out of the page a little from the plainness of the rest: set true, dressed both faces, to a line I had drawn with more care than any store wall wants.
 
 Jorin spread the sheets on my table under the lumen and went through them the way he went through everything, in order, twice, saying nothing the first time. The rain had followed him up and was busy on the window. I poured what I had and let him read.
 
@@ -14,19 +14,17 @@ Jorin spread the sheets on my table under the lumen and went through them the wa
 
 "That's about it."
 
-"It's what I'd have drawn." He said it flat, which from Jorin was a diploma with a seal on it. "Cold store wants the hill at its back. Any fool digs a hole; you've had the sense to use one that was already dug and dry, which is rarer than it ought to be." He set his cup down, square, and squared it again. "One question, then."
+"It's what I'd have drawn." He said it flat, which from Jorin was a diploma with a seal on it. He set his cup down, square, and squared it again. "One question, then."
 
-His finger came down on the rear wall of the inner chamber, on the neat line of figures where I had set down the bearing.
+His finger came down on the rear wall of the inner chamber, on the careful figures of its dressing.
 
-"That," he said. "Dressed both faces, and true to a compass point like a church. A store wall wants one face and no opinions. What's it for?"
+"That," he said. "Dressed both faces, and set truer than a church. A store wall wants one face and no opinions. What's it for?"
 
 I had known he would find it, and I had decided, some weeks before, what I would say when he did, and what I would not.
 
-"For later," I said. "There may come a day I want to go through it. If that day comes, I'd sooner the wall was ready to be a doorway than fight me for it."
+"For later," I said. "A wall dressed proper now is cheaper than a regret in ten years. Call it a habit of my other trade. We build for the drawing we haven't made yet."
 
-"Through it." He looked at the drawing. On the sheet, as on the ground, the far side of that wall was the inside of the hill and nothing else, forty feet of dark stone to anywhere. "Through to what?"
-
-"I don't know yet."
+Jorin looked at the sheet a moment longer. On the sheet, as on the ground, the far side of that wall was the inside of the hill and nothing else, forty feet of dark stone to anywhere.
 
 Jorin looked at me a while. I have said he looked at walls to see whether they were plumb, and I will tell you it is a different thing entirely to stand on the receiving end of it, and that I did not enjoy it, and that I held still under it the way you hold still for a doctor.
 
@@ -38,7 +36,7 @@ I knew the seal before I had the letter out of the boy's hand, and I stood in my
 
 I read it standing. It was three sentences long, which for the office is a kind of shouting.
 
-It informed me, with compliments, that the inquiry opened at the time of my withdrawal from practice, it gave the year, as though I might have mislaid it, had been formally closed by determination of the standing committee, no further submission being required on my part. It thanked me for my correspondence in the matter of the lumen patents, which had been noted. And it closed, above a signature I did not know, in the way of a door left one deliberate inch ajar:
+It informed me, with compliments, that the inquiry opened at the time of my withdrawal from the planewright's practice, it gave the year, as though I might have mislaid it, had been formally closed by determination of the standing committee, no further submission being required on my part. It thanked me for my correspondence in the matter of the lamp patents, which had been noted. And it closed, above a signature I did not know, in the way of a door left one deliberate inch ajar:
 
 *The office remains interested.*
 
@@ -50,13 +48,13 @@ The storehouse wanted stone, good squared block for the front wall and the facin
 
 "Send Ren," Jorin said.
 
-He said it at the site, on the shelf, in the morning, without looking up from the peg he was driving, and for a moment I thought I had misheard him. The boy was sixteen. He had never in his life ordered so much as a hinge on his own word. Across the shelf I saw Ren's hands stop on the line he was holding, and then go on holding it, very carefully, like a man determined not to startle a bird that had landed on him.
+He said it at the site, on the shelf, in the morning, without looking up from the peg he was driving, and for a moment I thought I had misheard him. The boy was eighteen. He had never in his life ordered so much as a hinge on his own word. Across the shelf I saw Ren's hands stop on the line he was holding, and then go on holding it, very carefully, like a man determined not to startle a bird that had landed on him.
 
 "The whole order?" I said.
 
 "Boy knows stone." Jorin struck the peg home. "Knows what the wall wants. Knows what a fair count looks like and what a short one looks like. Edran will try him on the grade, because Edran tries everyone once, and the boy will catch it, and after that Edran will know he catches it, and that will be worth more to him than the wall." He straightened up and looked at his son for the first time in the whole exchange, and delivered the entire commission in two words. "Boy's ready."
 
-Ren went the next morning, up the quarry road alone with the order in his coat and Snow lent under him for the dignity of the thing, sitting his borrowed horse the way you sit an examination. He came back at dusk with the order placed, the price a half-mark under what Jorin had told me to expect, and a new way of coming through a gate, and he made his report to the two of us at the site wall in the falling light, grade and count and delivery day, level as a mason's line, and neither of us smiled until he had gone down the way home, and then neither of us said anything either, because there was nothing to say that the evening had not already said.
+Ren went the next morning, up the quarry road alone with the order in his coat and Snow lent under him for the dignity of the thing, sitting his borrowed horse the way you sit an examination. He came back at dusk with the order placed, the price a half-silver under what Jorin had told me to expect, and a new way of coming through a gate, and he made his report to the two of us at the site wall in the falling light, grade and count and delivery day, level as a mason's line, and neither of us smiled until he had gone down the way home, and then neither of us said anything either, because there was nothing to say that the evening had not already said.
 
 Jorin left last, as he always did, with the drawings under his arm. At the gap in the wall he stopped, and stood a moment, his back half to me, in the blue end of the light.
 

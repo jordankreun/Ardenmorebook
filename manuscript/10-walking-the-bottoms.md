@@ -52,7 +52,7 @@ They came across a fortnight later, the Wrays, all their world on one borrowed c
 
 I walked the bottoms with Hal Wray a fortnight after they came across.
 
-It was his idea, not mine. He sent word up by the Wednesday boy that if I had a morning he would be obliged to show me something, which is how a careful man says he has found a problem and does not wish to be blamed for it. I went down on a bright cold morning at the front of April with my coat buttoned and no notion whatever that I was about to be taught my own property.
+It was his idea, not mine. He sent word up by Soren that if I had a morning he would be obliged to show me something, which is how a careful man says he has found a problem and does not wish to be blamed for it. I went down on a bright cold morning at the front of April with my coat buttoned and no notion whatever that I was about to be taught my own property.
 
 We started at the beck end and walked up.
 

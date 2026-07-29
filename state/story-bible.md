@@ -1746,3 +1746,59 @@ show release. The coarse curve, so no chapter overshoots:
   apprenticeship implied, never dated). Reader-superior threads left open on purpose: sticking
   drawer (Cecily + inventory pages + callipers), Lira's packet, the unsigned hand, Hesper's
   spring, the stone rebuild, the ~36 unlet acres, the wired gate.
+
+
+## CORRECTIONS — 2026-07-29 cold read + feedback round 3 (supersede earlier entries where they conflict)
+- **Ch 30 retitled "A Dry Month"** (filename stays 30-the-fire.md). Opens on the waking to Snow;
+  the dry-month/stove/barn facts now live inside the cause-never-settled paragraph as hindsight.
+  Cecily's report NO LONGER appears in Ch 30; the chapter ends on the village-keeps-bringing-
+  things paragraph.
+- **Cecily's report moved to Ch 31**, compressed: arrives "a week past" (dark of December, after
+  the fire, before solstice eve), under Penworth's cover. Her verbatim finding: rooms stood FOUR
+  years before the crating; the hand learned at leisure; "who had leisure in that house." The
+  unsigned letters STOPPED in high summer, the month her inquiry began. Emlyn considers arson
+  that same night and declines it on the page ("I heard the thought out... and let it go").
+  Report filed in the sticking drawer ("a crowded parish"), not with the licences.
+- **Timeline/age normalizations now on the page:** valley residency = three winters at the fire
+  ("I came... three winters before / ended that third winter"); barn timber two winters dry;
+  wards shed two years of rain; house+barn two springs of building; Snow uneasy from the first
+  night (no year-count); grief arithmetic SIX years everywhere in 31/32 (loss ~3y before arrival);
+  lumen "every dark of three winters"; chest binding woven six years before; chest THREE feet;
+  Soren twelve at the articles witness; Ren eighteen (articles year); promise to Tomas one year
+  old at Ch 26 (his own hearing stays 2y alone + 1y shared = 3y).
+- **Twist decode cut from Ch 32:** the needle points down and the chapter ends on the image; the
+  greeting-was-for-the-compass / waiting-for-the-door decode lines are DELETED (Interlude IV
+  carries the confirmation). Tales-references trimmed throughout 30/32 ("dozen names," "part the
+  tales leave out" cut). Coda: "your master" → "an old fool" (reveal rests on the name alone).
+- **Ch 27 quiet close:** the kitchen scene ends "did not trust myself to speak first" — the
+  Conclave-comparison/tower-foreshadow crescendo is deleted. Treaty gloss ends at "concluded."
+- **Ch 28:** Brenna's crock evening is action-only (no "Well" imitation); the office letter
+  "kept breathing" beat added before Cael's noon visit; inn window "two years and more."
+- **Ch 29:** lab lighting is "a Series lamp hung over the bench" (no lumen-line); "it was earned
+  the slow way"; witness is a twelve-year-old; Ren's one-word curriculum is spoken at eighteen;
+  the loaf-in-drawer foreshadow tail is cut.
+- **PROLOGUE (round-3 feedback):** epigraph line REMOVED; closing frame reverted to "Perhaps I
+  will set the true thing down one day..." (conditional, no direct address). Coda section header
+  is now "From a later journal." The 1B device (told-to-Soren) now rests entirely on the coda.
+- **Ch 3 (round 3):** goods stored in a stable corner LIRA LET HIM at the inn; wagons arrive on
+  a grey wet afternoon and the rain CLEARS by the end (sun breaking through); "a particular
+  kettle I preferred"; river house sits on ground "that carried a debt" (land-lease detail cut).
+- **Ch 4 (round 3):** reshaping ward "large and intricate"; doubt paragraph ends on the village
+  folk's warning (knot-slip line cut); compendium intro is "Among my books, long forgotten yet
+  held for exactly this rare moment"; margin note is a full surveyor's instruction ending in
+  "Do not ask for level. Ask for passage."; deeper-account cost clause cut; **Soren's line at the
+  crown is "You've started."** ("It said yes" is retired; Ch 6 callback now "any more than the
+  boy's had been").
+- **Ch 5 (round 3):** village knew he "was ready to build"; Jorin would "tell me to build
+  anywhere else on my holdings"; NO "Whose corner's that" exchange — Jorin surveys the offset
+  northeast corner with bar and level and says "Build there, then."; the "saying a thing to that
+  family" echo is cut (the coinage lives once, in Ch 3, about Soren).
+- **Ch 6 (round 3) — LAMP R&D CANON:** attempts run: (1) greedy draw — dark glass; (2) fixed-
+  measure ask — one sullen flicker; (3) over-timid — never lit; (4) open-window version — WAKES,
+  follows the hill's hours (this is THE first lumen, never rebuilt, keeps the hill's hours ever
+  after). Later versions (that winter): cistern-under-window working STORES the hum against the
+  dry stretches + Tomas's brass collar-RING tunes the giving — steady, governable light ("the
+  open window and the cistern and the ring"). All later working lights (cellar lumen Ch 25,
+  bench lamps) are the governed pattern. The SERIES lamps (Ch 8) still drink DAYLIGHT and are a
+  separate solution for off-hill sale; unchanged. Tomas's collar: "a lesser maker," not "a
+  tinker."

@@ -6,7 +6,7 @@
 
 A man who has spent three hours reading a hill with his own hand has one problem he cannot get around, and it is his own hand. Every count I had taken, every finding in my notes, had come up through my palm and my training and my particular way of listening, and the first finding said the hill had been studying exactly that. An instrument cannot check itself. If the hum truly carried my signature, then I was the one tool on that hilltop guaranteed to hear myself in it, and all three findings sat under the same quiet doubt, like columns added by a clerk who owns the shop.
 
-What my trade does with that problem is what any honest trade does: it finds a second pair of hands. And the difficulty was that the second pair of hands could not be just any hands; they wanted sensitivity, which is rare, and they wanted innocence of my notes, which ruled out the one man who had earned a look; and they were attached, the only such pair within four days' road, to a boy of sixteen whose father had put him into my keeping with conditions we had never once needed to write down.
+What my trade does with that problem is what any honest trade does: it finds a second pair of hands. And the difficulty was that the second pair of hands could not be just any hands; they wanted sensitivity, which is rare, and they wanted innocence of my notes, which ruled out the one man who had earned a look; and they were attached, the only such pair old enough to be asked within four days' road, to a boy of eighteen whose father had put him into my keeping with conditions we had never once needed to write down.
 
 I thought about it for most of a week. Then I went down to the site and asked Jorin, plainly, whether I might borrow Ren for an afternoon's work in the cellar, of my sort, not his, and Jorin drove the peg he was driving and said, "Ask him," which was both a permission and an entire philosophy of raising sons.
 
@@ -36,7 +36,7 @@ He turned to me then, and his body did the thing I had been watching for since w
 
 "During the build," I said. "Your father says you felt something. He says you never said what."
 
-The frown deepened a degree. "Felt like working in a stairwell," Ren said. "The whole time. A room with a below to it. I kept my count and said nothing, because there's no below. I helped cut the floor. It's hill to the middle of the world under that stone." He looked at the corner again. "Still feels like a stairwell."
+The frown deepened a degree. "Felt like the walls were hanging," Ren said. "The whole time. Off nothing. I kept my count and said nothing, because walls don't hang; they bear. I helped cut that floor. It's hill to the middle of the world under that stone." He looked at the corner again. "Still feels hung."
 
 I took out the fork.
 
@@ -58,9 +58,9 @@ The last thing I did was the paper. I keep sensitized sheets for the trade, clos
 
 Ren laid his hand to the sheet for the slow count of thirty, careful as a man setting a pane, and I lifted it and turned it to the lumen, and stood looking at it a good deal longer than the reading of a signature wants.
 
-It had printed strong, stronger than I had guessed. And it had not spread. It ran. From the palm-shape the pattern went in branching lines all one direction, down the sheet the way water goes down a pane, the way roots go down a bank, dividing and dividing and reaching, every last line of it, toward the bottom edge, as if the paper had been held upright against a flow. I have taken a fair number of signatures. I had never seen one with a direction in it.
+It had printed strong, stronger than I had guessed. And it had not spread. It ran. From the palm-shape the pattern went in branching lines all one direction, across the sheet and clean off its edge, dividing and dividing and reaching, every last line of it, the way roots go through a bank toward water they have already found. I have taken a fair number of signatures. I had never seen one with a direction in it.
 
-He looked at it with me. Being Ren, what he said was, "It's run past the edge," in the tone of a man noting a board cut short, and being sixteen, what he said next, after a silence, was, "Is it wrong?"
+He looked at it with me. Being Ren, what he said was, "It's run past the edge," in the tone of a man noting a board cut short, and being eighteen, what he said next, after a silence, was, "Is it wrong?"
 
 "No," I said, and I made certain he heard the level in it. "It is not wrong. It is strong, and it is yours, and I have not seen its like, and I don't know yet what it means. That is the plain truth, and you'll always have the plain truth from me in this room, so I'll say it again. I don't know yet what it means."
 
@@ -72,7 +72,7 @@ I told him that a talent, seen early, gets reached for; that there are hands in 
 
 "Your father knows, and that's right, and I'll never ask you to keep a thing from your father. The shape of it, though, the paper, the fork, the corner, that stays here. For now. Not forever. There's a difference, and I'll be the one answering for it."
 
-"Aye," said Ren, and put out his hand, and we shook on it over the sensitized sheet, and that was the second oath ever sworn in that cellar, if you count the one the hill had been saying nightly at the corner for two years, which I had begun to.
+"Aye," said Ren, and put out his hand, and we shook on it over the sensitized sheet, and that was the second oath ever sworn in that cellar, if you count the one the hill had been saying nightly at the corner this past year, which I had begun to.
 
 Soren came up the way at dusk, as he did most days, and did not knock, as he never did, and when I came out he was already going back down the flags, a small dark shape against the last light, and on my doorstone, under a pebble the size of an egg, lay a paper of his own.
 
@@ -80,4 +80,4 @@ It was a drawing, done in the hard-pressed pencil of a boy who draws the way oth
 
 Under the whole of it, in the careful letters of a boy who had lately conquered them, was written: **the hill's good place.**
 
-I stood on my doorstone in the failing light with the paper in both hands, and down in the valley the first lamps were coming on, and under my feet, patient as ever, the ground went on saying its one long word toward the corner of my cellar, and I found I had been holding the drawing the way you hold something that has been handed to you to keep, which, as it turned out, is exactly what it was.
+I stood on my doorstone in the failing light with the paper in both hands, and down in the valley the first lamps were coming on, and under my feet, patient as ever, the ground went on saying its one long word toward the corner of my cellar, and I found I had been holding the drawing the way you hold something that has been handed to you to keep.

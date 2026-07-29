@@ -32,16 +32,16 @@ It was Lira. I had not heard her come, which put her in a company of very few. S
 
 "As far as the beck, at least," I said. "The lane's the village's. I'd not presume."
 
-Lira looked at the way a while longer. Then she looked at me, the whole of her attention, which she had given me perhaps three times in three years, and never once wasted.
+Lira looked at the way a while longer. Then she looked at me, the whole of her attention, which she had given me perhaps three times in two years, and never once wasted.
 
-"That's not a wizard's path up a hill," she said. "That's a way down. To the village."
+"It comes to the lane," she said, in the voice she kept for the ledger. "To the village."
 
 I did not answer it, because there was no answer that would not have said more than I was ready to say, and she did not want one anyway. She turned and went back in, and I gathered my tools, and when I came through the inn's door a quarter-hour later, mud to the knee and my hands past apologizing for, my usual place had a jug on it that I had not asked for, and my cup was full, and Lira was at the far end of the bar going through her accounts as though nothing in the room had anything to do with her.
 
 "I'll mention it to Cael," she said, to the ledger, as I sat down.
 
-That was all. Four words to a page of figures. I have sat in rooms where great business was settled with trumpets, and I am telling you that I have never once seen a vote cast and carried as cleanly as it was cast and carried that evening, by a woman refilling a jug she had not been asked to refill, without one word of what any of it meant.
+That was all. Four words to a page of figures.
 
-I walked home up my own way in the last of the light, dry-shod the whole distance for the first time in three years. Behind me the village lamps were coming on. Ahead of me the flags held what the sky had left, going up the dark hill in a pale seam, the way a thing you have given away keeps a little of the light of the giving, and at the top of it my own lamp was burning amber in the Study window, where I had left it to come home to.
+I walked home up my own way in the last of the light, dry-shod the whole distance for the first time in two years. Behind me the village lamps were coming on. Ahead of me the flags held what the sky had left, going up the dark hill in a pale seam, the way a thing you have given away keeps a little of the light of the giving, and at the top of it my own lamp was burning amber in the Study window, where I had left it to come home to.
 
-The Wednesday boy came up the next morning with the bread. I heard him before I saw him, which had never once happened in all the mornings before, because he was not picking his way and swearing his small careful oaths at the mud. He was coming up the flags at a dead run, the way a boy runs when running is free, and he arrived at my door with dry boots and the bread unsquashed and no idea in the world that he was the first traveler on it, and I found that his was exactly the arrival I had built the whole thing for, though I had not known it until I heard him coming.
+Soren came up the next morning with the bread. I heard him before I saw him, which had never once happened in all the mornings before, because he was not picking his way and swearing his small careful oaths at the mud. He was coming up the flags at a dead run, the way a boy runs when running is free, and he arrived at my door with dry boots and the bread unsquashed, and looked back down the long stitched line of it, and then at me, and said nothing, in the particular way he had of saying nothing that was better than most men's speeches.

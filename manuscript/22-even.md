@@ -40,7 +40,7 @@ I had thought about how to say it a good deal on the walk down, and that was the
 
 He nodded, slowly, the way a beam settles onto its post. Then he put one finger to the brass foot, and turned the lamp a quarter-turn on the bench, so that the collar's seam faced away, which is how a maker sets a thing when it is his, and he said, "Even."
 
-One word, and the whole ledger of three years closed in it, every favor and overrun and underbilling on both sides of that bench, weighed off against a light that would burn on his wife's table long after both of us were done arguing about invoices. I have signed papers worth ten times less than that word, and taken longer doing it.
+One word, and the whole ledger of two years closed in it, every favor and overrun and underbilling on both sides of that bench, weighed off against a light that would burn on his wife's table long after both of us were done arguing about invoices. I have signed papers worth ten times less than that word, and taken longer doing it.
 
 We talked the drawings after that, or I talked and he asked his four questions, each one landing on the exact rivet where the work would want deciding, and the morning went the way good mornings at that forge went, warm and slow and mostly quiet, with the rain starting soft on the roof and neither of us minding. I was gathering my coat and the sacking, and the business was done and the visit was done, and I was one step short of the door when he spoke behind me.
 
@@ -50,8 +50,8 @@ I stopped. I will be honest and say that for a breath I did not know what he mea
 
 At the turn of the year, on some black evening with the snow coming down and the two of us watching his fire, I had said, once, in passing, the way you say a thing to fill a silence you trust: that the stones under my Study had been listening a long while now, and that when the spring dark came, the new moon nearest the thaw's end, I meant to go down and hear the whole of what they had gathered. One remark, one evening, five months gone. I had needed my almanac, that very week, to fix the night myself.
 
-Tomas had not needed an almanac. He had carried the date the way he carried the hum itself, silently, exactly, all winter, all spring, under the hammer and the hinges and the twenty sets and the lamp, and he had let me get one step from his door before he asked, because that was as much asking as his dignity would permit, and the question, all of it, everything he had held alone for two years and then not alone for one, fitted into two words with room to spare.
+Tomas had not needed an almanac. He had carried the date the way he carried the hum itself, silently, exactly, all winter, all spring, under the hammer and the hinges and the twenty sets and the lamp, and he had let me get one step from his door before he asked, because that was as much asking as his dignity would permit.
 
 "Four days," I said.
 
-He nodded, and turned back to the bench, and took up the file, and the long patient strokes began again behind me as I stepped out into the rain, keeping their even count, the way they always had, the way I now understood they always would, a man at his work, counting along with the ground beneath him, both of them waiting with more patience than I have ever owned for somebody to finally say what the waiting was for.
+He nodded, and turned back to the bench, and took up the file, and the long patient strokes began again behind me as I stepped out into the rain, keeping their even count, the way they always had, a man at his work, counting along with the ground beneath him.

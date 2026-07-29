@@ -1170,3 +1170,14 @@ same later journal"): the 1B REVEAL in one warm clause — the whole book has be
 ("you always stop me when I tell it aloud... your master on his knees"); why it could not begin
 with the door ("the beginning is a bowl of soup"); "Set the kettle on, Soren. The rest wants
 telling by the fire." BOOK ONE COMPLETE.
+
+
+## CORRECTIONS APPENDIX — 2026-07-29
+Cold read (4 agents) applied in full under the auto-resolve directive; reader feedback round 3
+(Prologue + Ch 3-6) applied same session. Where the recaps above conflict with these entries, the
+entries govern: Ch 30 is "A Dry Month" (opens on the waking; Cecily section relocated); Ch 31
+carries the compressed Cecily block + arson-declined beat + six-year grief arithmetic; Ch 32
+ends undecoded on the needle; coda says "an old fool," header "From a later journal"; prologue
+frame reverted to the conditional "Perhaps" version, epigraph cut; Soren's Ch 4 line is "You've
+started."; Ch 6 lamp development is failures → follower → cistern-and-ring. Ages on the page:
+Ren 18, Soren 12 (articles autumn). See story-bible CORRECTIONS block for the full list.

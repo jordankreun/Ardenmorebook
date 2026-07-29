@@ -656,3 +656,24 @@ conflict. Check every draft and every editing pass against them.
   per-item consultation. Rejected-on-verification findings are logged, not applied. Push the
   corrected text to the app in the same session. Only findings that would change a LOCKED author
   decision (canon marked ⚠️ by the author's own choice) are exempt and get surfaced instead.
+
+- **[P1c ADDITIONS — 2026-07-29 round (Prologue + Ch 3-6):]**
+  - **Cut narrator flourishes about the artifact itself** ("Three lines. I have the book yet, and
+    I could copy the very slant of them"; "because the why is the chapter"). The teller does not
+    admire his own telling or his props' provenance.
+  - **Marginalia and documents read as working trade prose,** not oracle: the reader EXPANDED the
+    surveyor's margin note into practical instruction before its aphorism. In-world text should
+    sound like its genre first and only then land its line.
+  - **Dedupe signature formulations.** "Saying a thing to that boy/family was the surest way to
+    make them careful of it" appears ONCE (Ch 3); the Ch 5 echo was cut. One coinage, one use.
+  - **Side characters observe, they do not oracle.** Soren's "It said yes" became "You've
+    started" — the boy reports what a boy can see; he does not voice the hill for the wizard.
+  - **Jorin (and his kind) confirm with tools, not questions.** Survey, test, verdict. The fewer
+    questions a craftsman asks aloud, the better the scene.
+  - **Weather is allowed to clear.** The reader twice brightened rain-endings (rain clearing, sun
+    breaking through). Don't default to persistent drizzle for mood.
+  - **Magic is engineering:** iterated R&D on the page (several failures, then a working version
+    with a real limitation, then the refinement that removes the limitation). One-failure-then-
+    success reads as fable; the reader wants the development arc.
+  - **The prologue frame stays light:** conditional "Perhaps I will set it down" over direct
+    "You have asked me" — the addressee device is kept latent until the coda.

@@ -66,7 +66,7 @@ But under both of those was the true reason, and the true reason was this. I kne
 
 He did not know. That was the great gift of it, and the great fragility. As long as he did not know, there was nothing in his face for anyone to read, and no story going round the valley, and no letter going anywhere, and the boy got to go on being a boy for another season, doing his chores and thinking his luck was luck.
 
-So I decided to say nothing, and to watch him, and to be near enough that when it happened again, and it would happen again, I would be the one standing there.
+So I decided to say nothing, and to watch him, and to be near enough that if it happened again, I would be the one standing there.
 
 That was the decision. It was made in a market square with a cold loaf under my arm and no ceremony about it whatsoever. I am still not certain whether it was the right one or only the one I could bear.
 

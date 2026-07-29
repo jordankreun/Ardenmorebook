@@ -12,4 +12,4 @@ The great weight goes down to the cold room now on more nights than before. The 
 
 At the fall of the light, and again in the black before the birds, the hill rises and says it. Toward the dry corner of the cut room, where the small closed weight sits in the dark that does not trouble it. The saying is better now. The hill has the great weight's shape to build with, all those learned lines, and it lays them together and turns them and lays them again, patient as frost, practicing the shape of a word it has no mouth for, and each night the shape is nearer, and each night the small closed weight keeps its own counsel, as it has kept it through bones and roots and the slow settling of stone.
 
-The hill is not troubled. The hill has never once been troubled. It settles its long weight over the cut room and the dry corner and the two small weights asleep in the valley below, and keeps its count, and waits for the word to come right.
+The hill is not troubled. The hill has never once been troubled. It settles its long weight over the cut room and the dry corner and the two small weights asleep in the valley below, and keeps its count.
