@@ -6,7 +6,17 @@
 
 The storehouse was finished in the last fair week of that autumn, and it was Ren who hung the door.
 
-That was not sentiment, or not only sentiment; it was the order of the work. His father had made the door and his father hung doors last, when the walls had said their final word about what was square, and the boy had earned the hanging of this one twice over, having set its wall, cut its floor, and ordered its stone on his own name. But every man on that shelf knew what else was being finished when the hinges took the weight and the latch went home the first time, soft as a word ending. The boy finishes what he builds. He stepped back from the hung door with the screw-iron still in his hand, and looked at his father, and Jorin looked at the door and not at him and said, "That's done, then," which anyone in the county could have told you was the closest that man would come, in daylight and company, to opening his arms.
+That was not sentiment, or not only sentiment; it was the order of the work. His father had made the door and his father hung doors last, when the walls had said their final word about what was square, and the boy had earned the hanging of this one twice over, having set its wall, cut its floor, and ordered its stone on his own name. But every man on that shelf knew what else was being finished when the hinges took the weight and the latch went home the first time, soft as a word ending. The boy finishes what he builds. He swung it twice before he was satisfied, and once more with his hand flat on it, feeling the swing rather than watching it.
+
+"Wants a shim under the top strap," he said.
+
+"Does it."
+
+"Half a one." He was already reaching for it. "It'll drop a hair when the frame takes the winter."
+
+"Then shim it."
+
+He shimmed it, and swung it again, and it went to the latch and stopped there without being asked, the way a door does perhaps once in twenty. He stepped back from it with the screw-iron still in his hand, and looked at his father, and Jorin looked at the door and not at him and said, "That's done, then," which anyone in the county could have told you was the closest that man would come, in daylight and company, to opening his arms.
 
 I will give you the building itself, because it was earned the slow way, wall by wall, and because I have come to love it out of all proportion to its purpose. From without it is nothing: a low stone front set into the green shelf, turf-roofed where it stands proud of the slope, a door and two deep windows, the whole of it looking less built than uncovered, as though the shelf had always had a house in it and somebody had finally cleared the bracken back. Within, it is two rooms and the truth is that the hill made both of them. The outer room is the cold store, floored and shelved, half its walls the living stone, holding the harvest at the one temperature all year the way only borrowed ground can. We filled it that same week: Wray barley in the bins, the glasshouse's winter stock in crates and clamps, cheeses from three farms on the slate shelves, Pardon's fleece on a peg, and the smell of it with the door shut, apples and stone and clean straw, is one of the honest wealths of my life, and I have been in treasuries that moved me less. The hay we left where it lay. It keeps as well in a dry loft as under a hill, and the cold store's shelves had better claims on them that week, so the barn kept the winter's fodder and the storehouse took everything that could be sold or eaten.
 
@@ -20,9 +30,31 @@ The old form is small and it is domestic and that is the whole of its power. No 
 
 We did it in the lab, on the long bench cleared to the wood, on an evening with the first real frost making up its mind outside. Jorin stood by the door with his hat off. Ren's mother had baked the loaf and sent it up wrapped in the cloth she meant us to keep, and had not come, in the way of women of that country, who will build the whole of a ceremony and then decline to watch it, holding, I believe, that some things go better witnessed thin. And Soren stood witness.
 
+The form wants the witness asked out loud, in front of the parties, and I asked him.
+
+"Soren. Will you stand witness to this, and say what you saw if you are ever asked?"
+
+"Yes."
+
+"You're not kin to him and not sworn to me?"
+
+"No," he said, and thought about it, and added, "not yet," and Ren laughed once, which is the only laugh anybody got out of that room all evening.
+
 That was Ren's asking, not mine. The form wants a witness who is neither kin to the prentice nor sworn to the master, and there was exactly one soul on that hill who fitted, and Ren asked him at the glasshouse door with two words and Soren nodded with one, and so it was that a twelve-year-old stood at the end of my bench through the whole of the reading with his back straight as a plumb-line and his face grave as a churchwarden's, listening to the terms of another boy's future with an attention that went past manners into arithmetic. I watched him do it. I read the articles aloud, five years of them, duties and keepings and the three conditions written in where Penworth had, to his credit, made them sound like law, and the whole time Soren stood computing, plain as figures on a slate: the term's years counted against his own, the door this opened measured for width, the distance from witness to the end of that bench taken and taken again. He caught me seeing it and did not look away, and I kept my face as grave as his, because a boy's arithmetic is his own, and mine at his age had been no different, and both of us knew the sum he was working, and neither of us said it, and it was not the night for it.
 
-Ren signed. I signed. Jorin made his mark as father, pressing hard enough to be read from the far side of the paper. We broke the loaf, the boy's two hands and mine on it, and it came apart the way good bread does, unwilling and then all at once, and I gave him the salt to keep and took my half of the bread, and Jorin put his hat back on, which closed the proceedings as formally as any gavel.
+Ren signed. I signed. Jorin made his mark as father, pressing hard enough to be read from the far side of the paper.
+
+"The salt's yours to keep," I said, and set the dish in front of him. "Not to use."
+
+"How long do I keep it?"
+
+"Till the term's out. Then as long as you like."
+
+Jorin spoke from the door for the first time that evening. "Loaf's my wife's," he said. "She'll want the cloth back."
+
+"She'll have it."
+
+"She won't ask for it." He looked at the wrapped bread and not at his son. "Ask her yourself, at the term's end, and she'll tell you she never sent one." We broke the loaf, the boy's two hands and mine on it, and it came apart the way good bread does, unwilling and then all at once, and I gave him the salt to keep and took my half of the bread, and Jorin put his hat back on, which closed the proceedings as formally as any gavel.
 
 And then, because it was that kind of evening and no other kind would ever be its equal, I set my apprentice his first working.
 
@@ -33,6 +65,14 @@ He did what every strong prentice does the first time, which is the thing I had 
 "Ren," I said. "Stop pushing."
 
 He stopped. The glare died back to a sullen flicker. He stood breathing over it, hands flat on the bench, a boy who had never yet met the job that did not yield to doing it harder, meeting it.
+
+"It went crooked," he said.
+
+"It went where you put it. That's the trouble."
+
+"I had it square."
+
+"You had it clamped."
 
 "You're commanding it," I said. "You learned that from stone and it has served you well, and with stone it is honest, because stone wants holding. This is not stone. Nothing you will ever touch in this trade is stone, even when it is stone." I came a half-step nearer and put it the only way it has ever been put, the way the margin of an old book put it to me on a rainy night when everything I now stand on hung by it. "You do not tell a light what to be. You ask it for passage. Ask what it wants. Then get out of the way earlier than you think you ought."
 
@@ -45,5 +85,15 @@ Ren looked at it a long time. Then he looked at his hands, the way men of his li
 "It wasn't me holding it," he said, working it through. "It's holding itself. I only... " He hunted for it, and found it, eighteen years old, in one word, the whole curriculum. "Asked."
 
 "That's the trade," I said. "The rest is penmanship."
+
+"It's the same as the wall," he said slowly. "You said that in the cellar. I didn't have it then."
+
+"You had it. You had it in your hands and not in your mouth, which is the better of the two places to keep a thing and the worse for a master trying to find out whether you know it."
+
+"Da says that about me."
+
+"Your da," I said, "is right about most things, and I am learning to find it less annoying."
+
+From the door, Jorin said, "You'll not learn that in five years," and that was the whole of his contribution to the ceremony, and it was worth the rest of it.
 
 Jorin came and looked at his son's lamp, longer than he had looked at the door, which is the highest I can put it, and Soren stood on the other side of the bench with the light in his grave eyes, adding it, I have no doubt, to the sum. We left the lamp burning on the bench when we banked the place for the night; a first light should burn itself in, and besides, none of us, I think, could have quite borne to put it out. It stands there yet, burning down there now, under the hill, behind the door, beside the wall that waits, small and steady in the dark, the way the good things on that hill have always burned: below notice, above price.

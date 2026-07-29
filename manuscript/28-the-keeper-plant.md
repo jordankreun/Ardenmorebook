@@ -22,6 +22,14 @@ The glasshouse at evening is a place I will set against any chapel in the Common
 
 She had brought her grandmother's trowel. I saw it come out of the cart-basket and I understood the size of the evening entire.
 
+"You'll want to say something over it," I said. "Most people would."
+
+"Most people talk to fill a hole they've dug themselves." She turned the trowel once in her hand, checking the haft the way she checked everything, by use. "It's a plant. It doesn't hear me."
+
+"Your grandmother said nothing either?"
+
+"My gran said the date. Out loud, once, to nobody. Then she wrote it down twice, in the book and on the crock. She held that a word said and not written was a word wasted." She looked at the bare ground a moment, and then at me. "You can stand out of my light. I'm not as young as the last time I dug in the dark."
+
 I offered no working and she asked for none. She dug the hole herself, kneeling, by the light of the one Series lamp hung at that end of the house, cutting the sides square the way she measured everything, and then we tipped the crock together, the two of us, one on each handle, and the old rootball slid out into her hands with a dry sound like a held breath let go, thirty years of cellar dark in a net of white roots, and she set it in the ground of my hill and firmed it down with her knuckles, and sat back on her heels, and that was all. No word over it. Her grandmother had been a woman of exact observances and no ceremonies, and the granddaughter buried the charge the same way, with clean edges and shut mouth, and the lamp burned amber over the two of us, and out in the dark beyond the glass the hill lay all around, holding, as it holds everything, its one long patient note.
 
 "Thirty years I've watered a thing that wasn't thirsty," she said at last, on her heels, looking at it. "Fed it what it didn't want. Kept it out of every light it turned from. My gran said keep it, so it was kept. She never said it would tell me when it was done being kept. I had to work that out." She stood, and knocked the soil from her knees, and looked down the long dark house toward the south glass, where the valley's few lights stood small and warm in the black. "We'll see by morning," she said. "Plants don't lie. It's why I prefer them."
@@ -36,7 +44,17 @@ The plant stood in its new ground exactly where her knuckles had firmed it. And 
 
 Not toward the south glass, where the light was coming up. Not toward the lamp, still burning amber above the bed. Away from both, all the dark little leaves lifted and laid over at the one same angle like iron filings on a sheet of paper, uphill, through the blank north wall of the glasshouse and the ground beyond it, toward the crown, toward the Study, toward the cellar under the Study, on a bearing I did not need any instrument on earth to take, because I had taken it already, four times, on my knees in the cold, and had it written in my notes in a dead woman's year and mine.
 
-We stood there a long time, the herbalist and I, in the green-smelling half-dark, neither of us saying what we were both looking at.
+We stood there a long time, the herbalist and I, in the green-smelling half-dark, neither of us saying what we were both looking at. The house went on around us the way it does at that hour, the vents ticking as the glass warmed, a drip somewhere off the propagation bench, the beds letting up their slow green breath into the cold.
+
+"Wind?" she said.
+
+"There's no wind in here."
+
+"No." She crouched, and put one finger under a leaf, and lifted it, and let it go, and it went back to its angle like a needle. "Light, then. Say it's light."
+
+"The lamp's the wrong way. So is the morning."
+
+"I know where the lamp is." She stayed down there a while. "I wanted you to say it first."
 
 "I mark it," Brenna said at last, flatly, which was her grandmother's phrase and closed the matter of what either of us would be saying aloud, and then she went and got the watering-can, because whatever else the morning had brought, the work of a house full of growing things does not stand about admiring itself.
 
@@ -52,7 +70,19 @@ I read it twice standing up, in the cold, with the bread going hard under my arm
 
 Cael came up the way at noon, on his stick, unannounced, with Soren for a shadow, and stood in my yard and looked about himself at the whole of it, the Study and the glasshouse shining down the slope and the storehouse walls rising on the east shelf, and delivered, in the manner of a man reporting weather, the news he had climbed a hill at his age to deliver himself: that the council had met, the proper council, all four of them and the clerk's book; and that it had voted, unpetitioned, unprompted, and unanimous, less one abstention on the grounds of conflicting interest, the abstainer being the owner of the inn at the foot of the way; and that what it had voted was this: the village would take up the wizard's way where it met the lane, and widen the whole of it, lane to hilltop, into a proper cart-road, graded and walled, at the village's own charge, beginning after harvest.
 
-"It's a fool's expense," Cael said, comfortably, in the voice he kept for things he had argued for. "Council money, on a road that goes up a hill to one man's gate. I said so at the meeting. Then I said we'd vote, and we voted." He looked at me sideways, sharp and old and entirely pleased with himself. "You laid a way down to us, wizard. Seems the village won't be outbuilt. There's not a man on that council will say what the road's for, mind, so you'll oblige everybody by not asking."
+"It's a fool's expense," Cael said, comfortably, in the voice he kept for things he had argued for. "Council money, on a road that goes up a hill to one man's gate. I said so at the meeting. Then I said we'd vote, and we voted."
+
+"Four of you," I said. "And it carried."
+
+"Three and an abstention, and I'd have had the fourth if she didn't let rooms to carters." He settled both hands on his stick, enjoying himself. "You'll want to know how long it took. Everybody wants to know how long it took."
+
+"How long did it take?"
+
+"The clerk had the ink stopper off and back on again." He tipped his head at the boy without turning. "Soren. How many carts came up this way in the summer?"
+
+"Thirty-one," Soren said.
+
+"Thirty-one," said Cael, "and that's a boy who counts what he sees and not what he'd like. Widen it and it's sixty. That was the whole of my argument and it took a minute." He looked at me sideways, sharp and old and entirely pleased with himself. "You laid a way down to us, wizard. Seems the village won't be outbuilt. There's not a man on that council will say what the road's for, mind, so you'll oblige everybody by not asking."
 
 I did not ask. I gave them supper, the old man and the boy, and walked them down at dusk, and at the foot of the way, where the lane began and the village's road would begin its climbing in the spring, I stood a while after they had gone.
 
