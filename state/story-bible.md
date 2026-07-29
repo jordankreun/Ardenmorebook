@@ -1802,3 +1802,31 @@ show release. The coarse curve, so no chapter overshoots:
   bench lamps) are the governed pattern. The SERIES lamps (Ch 8) still drink DAYLIGHT and are a
   separate solution for off-hill sale; unchanged. Tomas's collar: "a lesser maker," not "a
   tinker."
+
+## NEW CANON — 2026-07-29 richness pass (Ch 22-32)
+- **Tomas has a wife.** Unnamed, seen only at their door in Ch 26 ("said three words in at it"). Consistent
+  with Ch 30's "walked out of his house toward the glow without one word to anyone."
+- **A Series lamp sells for a half-gold** (12 silver), established Ch 22 in Ned Pardon's street exchange.
+  First price ever put on a lamp on the page.
+- **Tomas's pattern wall:** anything he makes twice gets a pattern (bent iron strip or cut board) on a nail.
+  Emlyn's three hang low at the end: collar profile, foot, bracket arm, alteration years scratched small.
+- **The glass gauge:** the city glass house sold up; the new cutter cuts a half-hair thicker, so Tomas files
+  two slotted scrap-iron gauges, year scribed on each, one for the forge and one for the hill. The old fifty
+  lamps get their seats reamed at Emlyn's cost if they come back.
+- **Storehouse spec (Ch 23):** three vents not two, floor fall one in sixty, single-leaf door wide enough for
+  a barrel on a barrow, stone lintel, front wall carried in a foot at the east end for the lintel bearing.
+  Stone ordered at four gold delivered. Edran tried Ren on weathered top-course stock; Ren caught it.
+- **Ch 24 method:** first pass for shape only, tallies in fives, findings tested against residue / wishful
+  reading / the crystal itself; bearing taken four times (including left palm) and constructed twice.
+  Third blank set with NO term, entered in the register as *open*.
+- **Ch 25 method:** the blind-check rules written in advance, including a written description of a null
+  result. Ren re-tested after being turned about with eyes shut; second signature taken from the LEFT hand
+  on a quarter-turned sheet. Ren's word for tuning the fork: a **scribe line**.
+- **Ch 27:** Jorin's yard, the swept-yard courtesy, Ren's mother (unnamed) who sits in the doorway and never
+  puts a stitch in the mending; Jorin's "He was four when he first came out here to me... fourteen year";
+  "I'm not giving him to you. I'm letting him choose." His one-word verdict on the yes: "Right."
+- **Ch 32 backstory:** the instrument took **eleven housings** before one held; ten failures kept on the bench.
+  A scratch in the face glass from the second winter, never mended, because a maker's own scratch is a date.
+  The case is quartered oak with a brass catch, made by Emlyn after the instrument. Two chest objects named:
+  a book of paper samples with one corner turned down (the river house's bare east rooms), and a taped bundle
+  of her letters, left unopened.
