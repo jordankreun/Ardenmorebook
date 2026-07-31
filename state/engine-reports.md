@@ -647,3 +647,62 @@ Recommendation to the author: if Part I feels long, the cause is not over-explan
 The remaining density flags (Ch 3 at 132 w/para, Ch 4 at 125) are structural — summary standing
 in for scene in the two chapters deliberately vouched as solitary — and converting them is
 developmental work with a real cost to the book's quietest passages.
+
+## REST OF BOOK PASS — Ch 8-32b (2026-07-31)
+
+82,463 words, 28 files. **WARNs 35 -> 25.** revision-diff clean on all six changed chapters.
+Part I untouched. Book total 111,837 -> 111,762 (-75 words).
+
+### The diagnostic first, and it changed the plan
+
+**14 of 28 files came back with ZERO WARNs.** The back half of the book is markedly cleaner than
+Part I, and for a legible reason: it is scene-led. Speech-bearing paragraph share runs 29-59%
+across Ch 9-29, against Part I's 0-52%. So this pass is targeted, not uniform — applying Part I's
+treatment across 82,000 words would have been work for its own sake.
+
+The load concentrated in five places, and that is where the work went.
+
+### 1. Ch 8 — the densest chapter in the book
+
+187 words/paragraph, worst of the 37 files, with a 399-word paragraph sitting one word under the
+wall threshold. Broken at natural joints: the shelf paragraph into three movements (going to the
+shelves / the gap / what the gap means), and the remaining 240w+ blocks at their sentence
+midpoints. **Density 187 -> 142. Zero words changed.** The new paragraph openings were checked by
+eye and land on real turns: *"And I had to tell him no."*, *"And my eye stopped"*,
+*"But all that was ahead."*
+
+### 2. Five interior chapters vouched, not fixed
+
+Ch 21, 24, 31, 32 and the coda run 0% dialogue and were firing the dialogue-share WARN. They are
+the book's endgame in documents and solitude: a third-person Lira chapter whose whole device is
+watching her write, forty years of notebooks read alone, the letter, a needle turning in an empty
+cellar, and a coda addressed to one person. **Adding speech to any of them would spend the thing
+they are for.** Recorded in `tools/vouched.txt` under the same VOUCH-INTERIOR convention as
+Ch 3/4.
+
+### 3. A weld the engine found four times
+
+`", and I have never…"` appeared in Ch 24 (twice), Ch 25 and Ch 30 — the same construction welding
+an aphorism onto the end of a sentence, across three chapters and two parts. Split into separate
+sentences in all four. This is the kind of cross-chapter habit that no per-chapter read catches
+and that the author would not have thought to look for.
+
+### 4. Similes over budget in the finale
+
+Ch 31 at **15** (worst in the book), Ch 32 at 12, Ch 25 at 11, against a threshold of 8. The cuts
+went to bare manner-phrases carrying no image (*"the way it does"*, *"the way it always does"*);
+the rest were converted to *as*, which keeps the image and clears the construction.
+**`"the way a held breath ends"` was protected** — storycraft names it as the model for dilation
+at a threshold.
+
+### 5. Tails and one stacked perfect
+
+Ch 31 carried a doubled *which* in a single sentence (*"which was the hill's, which in December
+is…"*); Ch 24 two more. Ch 32's *"She had had it"* became *"She had kept it"*.
+
+### What this pass did NOT do
+
+No compression: **-75 words on 82,463.** As with Part I stage 1b, the prose did not turn out to be
+carrying redundant interpretation once read. The back half earns its length more clearly than the
+front does, and the only genuine structural finding was Ch 8's density, which was fixed by
+rhythm rather than by cutting.

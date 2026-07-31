@@ -20,7 +20,7 @@ I thought about it for most of a week. Then I went down to the site and asked Jo
 
 Ren came up on the Saturday. I had put away my notes, cased the instruments whose readings might show, and left the cellar as bare as it honestly got: the stone floor with its one flush crystal, the shelf, the lumen, and the chest in its corner, which I could no more hide than I could hide the hill, and which he had helped build a room around without ever once asking about, because he was his father's son.
 
-I swept it, too, and caught myself sweeping it, and went on sweeping it, and I have never settled whether that was hospitality or nerves. The sensitized sheets went into the under-drawer of the shelf in their case, face down and unmentioned. The fork went in my coat. The notebook was a fresh one, because a page with old figures on the back of it is a leading question with a hinge in it.
+I swept it, too, and caught myself sweeping it, and went on sweeping it. I have never settled whether that was hospitality or nerves. The sensitized sheets went into the under-drawer of the shelf in their case, face down and unmentioned. The fork went in my coat. The notebook was a fresh one, because a page with old figures on the back of it is a leading question with a hinge in it.
 
 Above ground it was the best sort of day that country gives, the kind that comes in the first true week of the spring and gets spent almost entirely on people who are indoors. The thorn was out along the way. A warm wind was coming up the valley with the smell of turned ground in it, and the glasshouse was throwing the noon back down the southeast slope, and I stood on my own crown listening to a lark going up over the north wood, thinking about how I meant to spend a fine Saturday afternoon taking a boy down a hole in the ground to ask him careful questions.
 
@@ -34,7 +34,7 @@ He thought about it the way he thought about a cut list.
 
 "Aye," he said, and rubbed his palms down his trousers, which was the whole of his ceremony, and went down the stair ahead of me.
 
-The cold met him four treads down, the way it meets everybody, and he stopped on the fifth with his hand flat on the wall.
+The cold met him four treads down, as it meets everybody, and he stopped on the fifth with his hand flat on the wall.
 
 "Forgot how it holds it."
 
@@ -160,7 +160,7 @@ He took that with nothing at all in his face, and I have thought about that sile
 
 He nodded, slowly, taking that the way he took a load figure, and I told him the other thing, the thing I had been turning over since before he ever came down the stair.
 
-I told him that a talent, seen early, gets reached for; that there are hands in the world that take up a gifted child the way a man takes up a dropped tool, and do not ask the child much about it; that I had my reasons, old ones, paid for, to want no letter written and no visit paid on his account; and that until he was older and the choosing could be all his, I wanted what had happened in this cellar to stay between the two of us and the stone. I did not dress it as a lesson or a secret society. I said it the way you say a thing to a man you respect, and he heard it that way.
+I told him that a talent, seen early, gets reached for; that there are hands in the world that take up a gifted child as a man takes up a dropped tool, and do not ask the child much about it; that I had my reasons, old ones, paid for, to want no letter written and no visit paid on his account; and that until he was older and the choosing could be all his, I wanted what had happened in this cellar to stay between the two of us and the stone. I did not dress it as a lesson or a secret society. I said it as you say a thing to a man you respect, and he heard it that way.
 
 "Da knows I felt something," he said. Scrupulous, even now.
 

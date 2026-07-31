@@ -24,3 +24,12 @@
 # is the subject. Their density and wall-paragraph WARNs are still live and were fixed.
 03-chapter-three.md|VOUCH-INTERIOR|dialogue share 0%|deliberately solitary; the chapter is one man learning a hill
 04-ask-for-passage.md|VOUCH-INTERIOR|dialogue share 3%|the thesis is discovered alone; company would spend it
+# The finale's interior chapters (2026-07-31). Same VOUCH-INTERIOR convention as Ch 3/4.
+# These four carry the book's endgame in documents and solitude by design: a grandmother's
+# notebooks read alone, a letter, a needle turning in an empty cellar, and a coda addressed to
+# one person. Adding speech to any of them would spend the thing they are for.
+24-the-reading.md|VOUCH-INTERIOR|dialogue share 0%|forty years of notebooks read alone; the grandmother speaks only on the page
+31-the-letter.md|VOUCH-INTERIOR|dialogue share 0%|the letter chapter; the whole beat is a man alone with paper
+32-the-needle.md|VOUCH-INTERIOR|dialogue share 0%|the revelation happens in an empty cellar; company would spend it
+32b-coda.md|VOUCH-INTERIOR|dialogue share 0%|frame piece, addressed to the narratee
+21-letters-going-both-ways.md|VOUCH-INTERIOR|dialogue share 0%|third-person Lira; the reader-superior device is watching her write, not hearing her
