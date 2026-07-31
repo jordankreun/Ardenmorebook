@@ -596,3 +596,54 @@ accumulation, one wall paragraph, one played beat.
 So Part I stands as: structurally improved, mechanically clean, and **not yet compressed.** The
 coda pass over Ch 2-7 is the next unit of work and should be run on its own, with revision-diff
 expecting -11 to -16% per chapter rather than the -0.2% recorded here.
+
+## PART I PASS — stage 1b, the coda pass (2026-07-31)
+
+Scope Ch 2-7. **23,748 -> 23,624 (-124 words, -0.5%).** Against the pre-stage-1a original:
+23,671 -> 23,624, **-47 words (-0.2%)**. revision-diff clean on all six; WARNs 16 -> 15.
+
+### What was cut
+
+**Five of the six chapter-closes were the prohibited four-beat run** and were trimmed:
+
+- **Ch 2** ended on *"the first evening in three years that I had wanted the morning to come"* and
+  then restated it as an aphorism (*"A man has to start his way back from somewhere..."*). Cut;
+  the chapter now ends on its real sentence, and the `", and a man has to"` weld went with it.
+- **Ch 3** glossed its own blunt line. *"I did not."* is protected and kept; the sentence
+  explaining it (*"I have never been any good at unknowing a thing once I have known it"*) went,
+  and the concrete part (two slow beats felt in the teeth) stayed.
+- **Ch 4** stacked two metaphors on one job; the more precise survived.
+- **Ch 5**'s roll-call became a colon-list. **The callback-closer *"see what the morning would
+  bring"* is untouched** — plotted, per style-guide:160.
+- **Ch 6** carried two images for one feeling and a generalisation; kept the precise image, made
+  the generalisation personal (*"I could carry only so much at once"*).
+- **Ch 7 KEPT** under licensed condition 1: *"I was not the one teaching in that house, and had
+  not been from the start"* is older Emlyn reading the scene differently from younger Emlyn. That
+  is the chapter's turn, not a restatement of it.
+
+Plus three **aside-openers** in Ch 4 that pointed at the telling rather than the scene:
+*"I want to be plain about what I did"*, *"I have said I meant to..."*, and a hedge about what
+*"a man should probably admit"*.
+
+### The band was not reached, and forcing it would have cost the book
+
+Target was -11 to -16%. Actual is **-0.5%**. This is a finding, not a shortfall, and the plan
+required reporting what the pass did rather than cutting to reach a number.
+
+Having now read every chapter-close and every reflection-heavy paragraph in Ch 2-7:
+**Part I's reflection is largely earned.** The genuine offenders were the six closes and the
+three aside-openers, and they are gone. The mid-chapter paragraphs that the coda heuristic
+flagged — Ch 5's *"It was one word, from a hard old builder in the rain"*, Ch 4's two words from
+a nine-year-old, Ch 3's second thought under the first — are each doing work the scene cannot do
+alone, which is exactly the licensed exception.
+
+**Why the fixture's -13.8% does not transfer.** The golden pair is Prologue + Ch 1: the two
+chapters carrying the most backstory, setup and world-explanation in the book, and the ones the
+author personally judged over-explained. Ch 2-7 are scene-led (Ch 2 is 52% speech-bearing
+paragraphs, Ch 7 41%, Ch 5 37%) and simply do not hold the same freight. **The band describes
+the chapters it was measured on, not the book.**
+
+Recommendation to the author: if Part I feels long, the cause is not over-explanation in Ch 2-7.
+The remaining density flags (Ch 3 at 132 w/para, Ch 4 at 125) are structural — summary standing
+in for scene in the two chapters deliberately vouched as solitary — and converting them is
+developmental work with a real cost to the book's quietest passages.
