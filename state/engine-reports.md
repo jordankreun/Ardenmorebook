@@ -541,3 +541,58 @@ LOCATES:      calendar: Yr 4 spring, ~34 months elapsed · grief: post-Ch 28, th
 
 Every line came from CARD.md (the block itself), the thread-ledger (seed states), the bible spine
 (calendar, grief stage, speech rules) and the coda. No file outside the DRAFT profile was opened.
+
+## PART I PASS — stage 1a (2026-07-31)
+
+Scope Ch 2-7 (23,671w). Prologue, Ch 1 and Interlude I untouched by author decision: the approved
+revision passed over them today and Ch 1 is the golden fixture.
+
+| ch | mode | words | WARNs before -> after |
+|---|---|---|---|
+| 2 | moderate | 4,429 -> 4,419 | 4 -> 2 |
+| 3 | moderate | 4,359 -> 4,358 | 4 -> 3 |
+| 4 | moderate | 3,517 -> 3,505 | 6 -> 5 |
+| 5 | moderate | 3,444 -> 3,436 | 2 -> 1 |
+| 6 | **developmental** | 3,731 -> 3,848 | **9 -> 2** |
+| 7 | moderate | 4,189 -> 4,180 | 4 -> 3 |
+| | | **23,671 -> 23,748 (+77)** | **29 -> 16** |
+
+revision-diff: **zero FAILs on all six** — no invented named entities, no dialogue lost, no
+registered coinage lost. Ch 6 diffed at developmental, the rest at moderate.
+
+### The licensed exception, as declared in the plan
+
+**Ch 6's first lighting is now played.** The instant the lumen takes runs as real-time scene
+(hands, the cold room, counting to a hundred and twenty, the pulse arriving through the boots),
+with the narration around it intact. That is developmental work inside a moderate pass, declared
+in advance and diffed accordingly. It is why Ch 6 GAINED 117 words while every other chapter lost
+a few. Density 155 -> 133 w/para as a side effect, and the chapter went from the worst-flagged in
+the book (9 WARNs) to 2.
+
+### Span work
+
+`"I understood"` thinned from **7 of 7 chapters to 4 of 7** — the conclusion-verb tic. Where it
+merely confirmed what the scene had shown, the verb was varied or dropped; the two earned uses
+(Ch 4's thesis discovery, Ch 7's cold recognition) were kept. Ch 3's wall paragraph (498 words of
+finance) broken at four natural joints, **zero words cut**. Ch 3 and Ch 4 vouched in
+`tools/vouched.txt` as deliberately interior, so the dialogue-share WARN stops reading as a
+finding on the book's two solitary chapters.
+
+### A tic introduced while fixing tics
+
+Ch 6's `", which is/was"` count went 9 -> 11 during the rewrite: the new played beat contained
+"which is what my hands did" and "which is what I do instead of hoping". prose-lint caught it on
+the next run and both were re-cast. Worth recording because it is the exact failure the tool
+exists for, and it happened to the person holding the tool.
+
+### WHAT THIS PASS DID NOT DO — the main event is still outstanding
+
+**+77 words net is not a revision; it is a tune-up.** The 11-16% chapter-scale band comes almost
+entirely from the **scene-ending coda protocol** — classifying the final three paragraphs of every
+scene and cutting interpretation that only restates what the scene showed. That pass was planned
+and **was not run**. What was done instead is the mechanical layer: tic budgets, span
+accumulation, one wall paragraph, one played beat.
+
+So Part I stands as: structurally improved, mechanically clean, and **not yet compressed.** The
+coda pass over Ch 2-7 is the next unit of work and should be run on its own, with revision-diff
+expecting -11 to -16% per chapter rather than the -0.2% recorded here.

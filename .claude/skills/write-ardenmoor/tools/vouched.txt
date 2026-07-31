@@ -15,3 +15,12 @@
 03-chapter-three.md|04-ask-for-passage.md|the failing of the light|2026-07-14 canonical name for the hill's dusk pulse-hour (established Ch3; recurs by necessity, not accident)
 05-good.md|06-first-light.md|the northeast corner where the chest|2026-07-14 the NE-corner/chest motif, deliberately triple-seeded twist groundwork (story bible: "DO NOT EXPLAIN"; pays off Ch20/28)
 18-nobody-worse-off.md|19-steel-and-glass.md|a hundred and sixty feet of|2026-07-15 the greenhouse's canonical dimension; it recurs across the harvest chapter's money reckoning and the build chapter by necessity, not accident
+
+# ---- DELIBERATELY INTERIOR CHAPTERS (author decision, 2026-07-31) ----
+# Format note: these are not echo-pairs. They record that a chapter's LOW DIALOGUE SHARE is a
+# choice, so the prose-lint dialogue-share WARN is expected and reviewed, not a finding.
+# Ch 3 (Under Canvas) and Ch 4 (Ask for Passage) are the book's two solitary chapters: Emlyn
+# alone on the hill learning it, and the chapter in which the thesis is discovered. The silence
+# is the subject. Their density and wall-paragraph WARNs are still live and were fixed.
+03-chapter-three.md|VOUCH-INTERIOR|dialogue share 0%|deliberately solitary; the chapter is one man learning a hill
+04-ask-for-passage.md|VOUCH-INTERIOR|dialogue share 3%|the thesis is discovered alone; company would spend it
