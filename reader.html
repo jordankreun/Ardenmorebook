@@ -101,6 +101,8 @@
   .diff-del{color:var(--danger);text-decoration:line-through;text-decoration-thickness:1px;opacity:.85}
   .diff-ins{color:var(--edit);background:var(--editbg);border-radius:3px;padding:0 .06em}
   p.isDeleted{opacity:.7}
+  /* read mode: a paragraph whose tracked change deletes it leaves the page entirely */
+  p.isCut{display:none !important}
 
   /* ---------- selection toolbar (Note · Edit · Bookmark) ---------- */
   #selTools{position:absolute;z-index:55;transform:translate(-50%,-118%);display:none;gap:.25rem;white-space:nowrap;
@@ -634,7 +636,23 @@
     var ps=book.querySelectorAll("p[data-snip]");
     ps.forEach(function(p){
       var chap=p.dataset.chap, s=p.dataset.snip, orig=p.dataset.text||"";
-      if(readMode){ p.classList.remove("hasNote","hasEdit","isDeleted"); p.innerHTML=inline(orig); return; }
+      if(readMode){
+        /* Read mode shows the book AS EDITED: any tracked change the author has
+           made is applied to the text, clean, with no diff markup and no marks.
+           findRev() already excludes resolved revisions, and a resolved revision
+           is one that has been written into the manuscript itself, so its text is
+           already in `orig` and must not be applied twice. A revision with an
+           empty replacement is a deletion: the paragraph leaves the page. */
+        p.classList.remove("hasNote","hasEdit","isDeleted","isCut");
+        var rRead=findRev(chap,s);
+        if(rRead){
+          var revText=(rRead.revised||"").trim();
+          if(!revText){ p.classList.add("isCut"); p.innerHTML=""; return; }
+          p.innerHTML=inline(revText);
+          return;
+        }
+        p.innerHTML=inline(orig); return;
+      }
       var rev=findRev(chap,s), note=findNote(chap,s);
       if(rev){
         p.classList.add("hasEdit");
@@ -1264,8 +1282,14 @@
   });
 
   /* ---------- read-aloud (Web Speech; on-device, works offline) ---------- */
+  /* Read-aloud is switched off at the author's request. Routing through the
+     existing unsupported path hides both the floating control and the whole
+     Settings section, and returns the same stub the rest of the page already
+     handles, so no neural model is fetched and nothing else needs to change.
+     Set TTS_ENABLED back to true to restore it. */
+  var TTS_ENABLED=false;
   var TTS=(function(){
-    var supported=("speechSynthesis" in window)&&("SpeechSynthesisUtterance" in window);
+    var supported=TTS_ENABLED&&("speechSynthesis" in window)&&("SpeechSynthesisUtterance" in window);
     var el=document.getElementById("tts"), btnPlay=document.getElementById("ttsPlay"),
         btnStop=document.getElementById("ttsStop"), btnRate=document.getElementById("ttsRate"),
         voiceSel=document.getElementById("voiceSelect"),
@@ -1513,7 +1537,10 @@
       var h=document.getElementById("bookHint");
       if(!h) return;
       var w=bookWordCount();
-      h.textContent = BOOK_MD.length+" chapters, "+w.toLocaleString()+" words. The .md is the manuscript verbatim; the PDF uses your browser's print dialog.";
+      var openRevs=0; try{ openRevs=getRevs().filter(function(r){return !r.resolved;}).length; }catch(e){}
+      h.textContent = BOOK_MD.length+" chapters, "+w.toLocaleString()+" words. The .md is the source manuscript; "
+        + "the PDF prints what you see, so it includes your tracked changes"
+        + (openRevs ? " ("+openRevs+" applied)" : "") + ".";
     })();
     if(location.hash&&document.getElementById(location.hash.slice(1))){
       document.getElementById(location.hash.slice(1)).scrollIntoView();
