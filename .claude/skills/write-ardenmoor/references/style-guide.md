@@ -135,6 +135,14 @@ The kettle (domestic time; interruption and welcome). Frost and its lifting (tha
 
 ## SCENE CRAFT DIALS (locked 2026-07-14 — the author's four standing pushes; write toward these from the first line)
 
+> **SCOPE: DRAFTING AND DEVELOPMENTAL WORK ONLY** (scoped 2026-07-31; the lock's content is
+> unchanged, only where it applies is now stated). **Dials 1, 2 and 4 instruct additions** — more
+> dialogue, summary converted to played scene, a comic beat — and `modes/revise-moderate.md` and
+> `modes/revise-light.md` forbid exactly those. This file is a revision mode's primary prose
+> authority, so without this banner the two documents give opposite orders on the same page.
+> **Dial 3 (vary the bookends) stays live in every mode**: it is diagnostic, not additive, and a
+> revision can act on it by varying what is already there.
+
 1. **More dialogue.** The book's most alive passages are its talkiest (Cael at the inn, Jorin's
    "Good"). Let load-bearing exchanges PLAY OUT IN VOICES: negotiations, confessions, teases,
    bargains happen as talk on the page, not as the narrator's recounting of talk. Every chapter

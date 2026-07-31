@@ -14,6 +14,9 @@ rubric only gets sharper.
 
 ## THE PRE-DRAFT BRIEF (run BEFORE drafting — the engine's forward pass)
 
+> **SCOPE: `modes/draft.md` only.** This section plans a chapter that does not exist yet. It is
+> not loaded by the revision modes and must not be run against finished prose.
+
 The audit below catches failures after they're written; this step prevents them from being written.
 As part of the chapter plan (the scratch block in `modes/draft.md`), assemble a short **brief** from this file
 and the story bible, and draft against it:
@@ -42,6 +45,9 @@ engine that teaches the writing.
 ---
 
 ## HOW TO RUN THE PASS
+
+> **SCOPE: drafting and developmental work.** The sequence below assumes a chapter has just been
+> drafted and state updated. Revision modes run their own POST-FLIGHT; see `modes/`.
 
 Run this **after** the chapter is drafted and state is updated, and **before** presenting the draft
 or telling the author it's ready. It is a distinct pass, not a vibe: reread the finished chapter
@@ -195,6 +201,11 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   village superstition and bad building."*
 
 ## P1b — MONEY, LAND & INSTITUTIONS (the ledger rules; added 2026-07-15 from the tenancy arc)
+
+> **SCOPE: drafting and developmental work.** This section directs which transactions to
+> DRAMATIZE and which people to deliver the economics through — that is invention, and
+> `revise-moderate` and `revise-light` forbid it. Use it to judge economics already on the page;
+> never to add a scene during a revision.
 
 This book runs on commerce, and the commerce is a lot of its pleasure. These rules exist because a
 book about a man building an enterprise can drift into being *about the enterprise*, and because the

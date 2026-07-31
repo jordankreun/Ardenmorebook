@@ -245,6 +245,17 @@ for f in "$@"; do
   # author's OWN approved Prologue+Ch 1 revision cut 2 of its 3 instances. 26 of 37 chapters
   # use it; median 2, max 5. A budget of 3 fires on ~14% of chapters, under the noise ceiling.
   budget_check "$f" '"the whole of it"' 'the whole of it' 3
+  # GENERALISATION — Emlyn converting his experience into what "a man" does. The single most
+  # distinctive habit of this narrator, and until 2026-07-31 the engine had doctrine about it
+  # (the author's revision brief §6.2) and no measure.
+  # The pattern is deliberately NOT a raw "a man" count. Raw, it is 286 across the book, median 9
+  # per chapter, and no threshold separates signal from noise: it conflates "a man came up the
+  # road" (a noun) with "a man does not argue with weather" (the aphorism). Requiring a
+  # generalising verb or modal after it isolates the aphorism: 63 across the book, median 2, and
+  # a budget of 3 fires on 9% of chapters where the raw count could not get under 28%.
+  # Keep it PERSONAL where it is decorative: "I mistook this" over "a man mistakes this".
+  budget_check "$f" '"a man does/has/never…" (generalisation)' \
+    'a man \(does\|do\|has\|have\|had\|will\|would\|must\|cannot\|can\|ought\|never\|always\|is\|was\|knows\|learns\|takes\|gets\|wants\|needs\|sees\|finds\|makes\|goes\|comes\|lives\|dies\)\b' 3
   budget_check "$f" '"which by then"' 'which by then' 1
   budget_check "$f" '"of course"' 'of course' 2
   budget_check "$f" '"particular" (adj)' 'particular' 6

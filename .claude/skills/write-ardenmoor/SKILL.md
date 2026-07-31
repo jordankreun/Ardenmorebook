@@ -77,7 +77,7 @@ every task alike before the modes existed:
 | revise-light | ~6,300 | 9% |
 | continuity-repair | ~15,400 | 22% |
 | developmental | ~18,400 | 26% |
-| revise-moderate | ~18,900 | 27% |
+| revise-moderate | ~16,900 | 24% |
 | draft | ~36,800 | 53% |
 
 Method: words in the files a mode's LOAD block names, plus an allowance for the target text and
@@ -99,7 +99,8 @@ Paths are relative to the REPO ROOT.
   `geography.md` · `thread-ledger.md` (setups: PAID / BANKED / OPEN) · `engine-reports.md`
   (append-only, on demand) · `structural-diagnostic.md`
 - `tools/` — `prose-lint.sh` (the line) · `craft-check.sh` (the chapter's shape) ·
-  `span-check.sh` (cross-chapter damage) · `chapter-check.sh` (delivery receipt) ·
+  `span-check.sh` (cross-chapter damage) · **`revision-diff.sh` (source vs candidate — the only
+  tool that can see what a revision DID)** · `chapter-check.sh` (delivery receipt) ·
   `state-check.sh` (state freshness) · `doc-audit.sh` (retired rules still stated as live) ·
   `phrase-registry.txt` · `vouched.txt` · `superseded.txt`
 - `manuscript/` — one file per chapter, `NN-slug.md`, listed in `manifest.json`

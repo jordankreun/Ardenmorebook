@@ -9,11 +9,20 @@ that stays.
 
 ## LOAD
 
-**Measured load: ~18,900 words.** See the router for the baseline and the method.
+**Measured load: ~16,900 words.** See the router for the baseline and the method.
 
 - `references/session-locks.md` (always, first)
-- `references/style-guide.md` — the primary prose authority in this mode
-- `references/feedback-engine.md` — the author's accumulated preferences
+- `references/style-guide.md` — the primary prose authority in this mode. **Its SCENE CRAFT DIALS
+  1, 2 and 4 do not apply here.** They instruct additions — more dialogue, summary converted to
+  played scene, a comic beat — which are on this mode's FORBID list. Dial 3 (vary the bookends)
+  does apply, being diagnostic rather than additive.
+- `references/feedback-engine.md` — **named sections only, not the whole file.** In order:
+  **P1c** (the author's line-edit fingerprint, extracted from 26 of their own tracked changes;
+  the most relevant section in the engine for this mode), then **P0, P1, P2, P3, P4, P5, P6**.
+  **Do NOT load** the PRE-DRAFT BRIEF or HOW TO RUN THE PASS (both are drafting instructions and
+  say so), **P1b** (it directs which transactions to *dramatize*, which is invention), or the
+  intake protocol. Loading the file whole puts ~2,158 words of drafting instruction inside a mode
+  that forbids drafting.
 - the target passage, and enough of the chapter around it to hear the rhythm it sits in
 - `state/story-bible.md` — **only** the spine (SESSION-LOCKED, LOCKED CANON, CAST, NUMBERS
   LEDGER) plus the `ESTABLISHED ON THE PAGE` block for this chapter
@@ -44,6 +53,26 @@ Everything that carries the story's architecture:
 - changing the scene's outcome, or what a character knows at the end of it
 - reaching for structure. If the real problem is structural, **stop and say so** rather than
   solving it here.
+
+## THE WORKFLOW — FIVE STEPS, IN THIS ORDER
+
+Do not begin at the sentence. "Improve the prose" is not a pass, and starting with polish is how a
+revision quietly becomes a rewrite.
+
+1. **Inventory.** Before changing a word, name the passage's scene function, immediate objective,
+   obstacle, change, cost, dialogue exchanges, objects, and any foreshadowing. This is the list of
+   what must survive; everything below is constrained by it.
+2. **Find duplicated meaning.** Mark where the narrator explains what an image, action or silence
+   already showed. This is the primary target and the section below defines it.
+3. **Tighten internally before deleting anything whole.** Shorten clauses and transitions first.
+   A digression is cut only after internal tightening has failed, and never merely for being a
+   digression.
+4. **Control sentence load.** Trim or split only sentences that continue past their natural
+   landing point. Length is not the defect.
+5. **Restore texture, then check for invention.** After cutting, verify that humour, material
+   detail, reflective breadth and emotional indirection all survived. Then remove anything the
+   revision introduced that was not in the source — a fact, a motive, a named entity, an effect.
+   `tools/revision-diff.sh` runs this step mechanically; step 5 is not done until it has.
 
 ## WHAT THE WORK ACTUALLY IS
 
@@ -164,6 +193,15 @@ continuity note for anything that cannot be resolved from the source.
 
 ## POST-FLIGHT
 
+- **`tools/revision-diff.sh <source> <candidate> moderate`** — the mechanical half of this mode's
+  contract, and the only tool in the engine that can see what a revision *did*. FAILs on an
+  invented named entity, on dialogue removed, and on a registered coinage lost. Run it before the
+  lint: if preservation broke, the line-level state of the prose does not matter yet. Get the
+  source from git (`git show HEAD:manuscript/NN-slug.md > /tmp/src.md`).
+- **The phrase registry.** If the diff reports a lost coinage, either restore the wording or
+  update that row in `tools/phrase-registry.txt` to the new phrasing. Do neither and the row goes
+  stale silently — `prose-lint` cannot detect an *absence*, and this has already happened once,
+  in the author's own approved Ch 1 revision.
 - `tools/prose-lint.sh` on the file. Zero FAILs. Review every WARN.
 - `tools/craft-check.sh` if the revision touched a whole chapter, as a shape sanity check only.
 - **Do NOT update state when no facts changed.** A prose revision that alters no canon, no
