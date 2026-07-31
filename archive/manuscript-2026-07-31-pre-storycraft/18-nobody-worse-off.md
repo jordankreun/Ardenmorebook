@@ -1,0 +1,141 @@
+# The Tower of Ardenmoor
+
+## Book One
+
+### Chapter Eighteen: Nobody Worse Off
+
+What I did about it took the rest of that autumn, and the first thing to understand about it is what I could not do.
+
+I could not pay a single person to move. Not one. There was no sum in the world available to me that October, and a landlord without money who wants his land rearranged has exactly two instruments left, and both of them are bad: he can lean on people, or he can trade. Leaning is quicker. Every man who had ever held that ground before me had leaned, and the results were on my own plan in front of me, in the shape of a valley full of people holding onto six acres with both hands because six acres was what was left after the last one leaned.
+
+So it had to be trade, and the only currency I had was land itself, and time, and the forgiving of rents that were not being paid anyway.
+
+And I made one rule before I began, and said it out loud to every one of them, in those words, so that they could hold me to it afterward.
+
+Nobody was to be worse off.
+
+I put it to Hal Wray first, because he had the most to gain, and because Hal would tell me I was being a fool in a way nobody else in that valley would.
+
+We walked the bottom-field together on a bright cold morning with the stubble crackling under us, and I showed him the plan, and he looked at it a long time, holding it the way a man holds a paper he is not certain he is allowed to disagree with.
+
+"You know this ground better than any paper does," I said. "Tell me what's wrong with it."
+
+He put his thumb on Hask's strip. "That."
+
+"Yes."
+
+"And that." His thumb moved to the four unreachable parcels. "There's sixty acre there doing nothing since I was a boy. Good ground. My father cut hay off the far one for a man who's been dead twenty year." He looked up. "You mean to have it all in one piece."
+
+"I mean to have it in pieces that make sense. That's not the same thing and I want you to hear the difference. I'm not going to sweep this valley into one field and put a wall round it. I've seen that done in other places and I'll not be that man. But I can't have six acres of somebody else's ground through the middle of your working, and I can't have sixty acres lying idle because there's no way in, and both of those are fixable if the people on them will deal."
+
+"And if they won't?"
+
+"Then mostly they won't, and it stays as it is, and I lose the use of it, and that's my lookout for buying a jigsaw."
+
+Hal thought about that for a while, walking.
+
+"There's ways to make a man deal," he said at last, "that aren't asking."
+
+"I know it."
+
+"My last landlord knew a few of them."
+
+"I know that too," I said. "That's rather why I'm asking you and not a lawyer."
+
+He almost smiled.
+
+What we came to, over that autumn, and what Cael put his weight behind when I asked him to, and what Penworth turned into paper that a narrow-minded person could read, was this.
+
+Ned Pardon kept his scrub for life, rent as it had always been, cheese and fleece, and I put it in writing that his was the ground and no man could put him off it while he wanted it, which I do not think anybody had ever offered him. He seemed to find the paper faintly insulting and kept it anyway.
+
+Alice Bewick gave up her cottage's corner of the bottom-field, which was four acres and awkward, and took instead the whole of a ten-acre parcel with a sound old byre on it, nearer the lane, better ground, with a spring. Rent free for three years while she got it into heart, then a tenth, on the Wrays' terms, on the Wrays' paper. She read the agreement twice, asked one question about the byre roof, and signed it in a hand like a schoolmistress's. Her son would work that ground after her, and it would come to be one of the better small farms in the valley.
+
+The Tolls' widow was glad to be rid of that thistled scrap and gladder still to be paid something for it; I had no money, so what she took was a lifetime's firewood off my woodland strip, cut and carted, which cost me nothing but Ren's winter afternoons and which she counted a fortune. That is the whole substance of the deal that gave me the north side of the meadow entire.
+
+Cob Ferris exchanged his unreachable strip for a nearer one twice its worth, and thought he had swindled me, and told people so for years, and was welcome to it. The nearer strip was one I could not reach either.
+
+That left Hask.
+
+I went to him three times.
+
+The first time I laid out the exchange, and it was a good one and everybody who heard it afterward said so: ten acres for his six, nearer his cottage, better drained, with the hedging done at my cost and the rent forgiven for life. He heard me out on his doorstep with his dog against his knee and said, "No."
+
+The second time I brought the plan and showed him what his strip did to the field, because I thought if he saw the working of it he would see the sense. He looked at it politely. Then he said, "My father ploughed that. And his father. It's not about the sense of it."
+
+The third time I did the thing I am least proud of in the whole of that business, which was to bring Cael.
+
+I did not ask Cael to lean on him. I want that understood, and I said as much at the time, and Cael, who was nobody's instrument, would not have done it. But I knew what it meant in that valley for the elder to come up a man's path with the landlord, and I knew Hask would know, and I brought him anyway. I told myself it was so Hask would have someone of his own in the room. That was even partly true. It was not the whole truth, and I knew it going up the lane, and I went up the lane.
+
+It was a bright hard morning and he was out at his gate mending a hurdle that did not need mending, which is a thing a man of that age does with his hands when he has been told the day before that somebody is coming. He straightened when he saw the two of us on the lane together, and he did not look at me at all. He looked at Cael, and he went on looking at him the whole way up the path, and something went out of his face that I have never since been able to put a name to, though the nearest I can get to it is the look of a man doing a sum he already knows the answer to.
+
+Cael was as good as his word and better than mine. He said good morning. He asked after the dog, which was old. Then he put his hands behind his back and let me do the whole of the talking, and when I had done it he said the only sentence he said on that path.
+
+"It's Tobin's ground," he said. "He'll do as he likes with it."
+
+Which was true, and kindly meant, and did the opposite of what it said, because there was no version of that morning in which the elder of Ardenmoor stood at a man's gate and said a thing like that and it weighed nothing. Hask heard it weigh. I watched him hear it.
+
+He looked at the hurdle a while.
+
+"Ten acres," he said.
+
+"Ten. And the hedging at my cost, and no rent while you live."
+
+"And you'll have your field."
+
+"I'll have my field."
+
+"Aye." And then, still to the hurdle, in the flat voice a man keeps for the plainest thing he has said all year, "You've brought Cael up my path."
+
+I did not answer him. There was no answer that was not worse than the silence, and I have had years to find one and have not. Cael said nothing either, and I have wondered since whether those two understood one another better in that half minute than either of them ever understood me.
+
+"Well," Hask said at last. "It's a good offer."
+
+And he wiped his hands down his coat and put one out, and I took it, and it was dry and light and there was almost nothing in it.
+
+He took the ten acres and the forgiven rent, and then he did not work them, and in the spring he let his cottage and went to Wainford to live with a daughter he had not seen in six years, and he died there the winter after, and I heard about it in a letter three weeks late.
+
+I am not going to tell you that I ruined him, because I do not believe I did; he was old and finished with the ground before I ever came, and the strip had been a fiction he was keeping up out of pride, and everyone in the valley including Hask knew it. Nor am I going to tell you I did wrong by him in the terms of the thing, because the terms were generous and I would make the same offer today.
+
+What I will tell you is that I brought the elder of the village up a proud old man's path to make it hard for him to say no, and that it worked, and that I have never once been able to make those two sentences sit comfortably beside each other. That is what owning land is, I discovered. It is not the rents. It is that you will have the power to do a small ugly thing for a good reason, and that no one will ever call you on it, and that you will remember it long after everyone else has forgotten.
+
+The rest went better, and one part of it went well enough to be worth the whole.
+
+The sixty acres came back into use. Once the strips were straightened and there was a way in, four parcels that had been thistle since before Ren was born were plough-land again, and I had no money to work them and no wish to hire day labour on ground I would not be watching. So I did the only thing that made sense, and it was Bess Wray who put it in my head, in the way she put things in your head, which was by saying it aloud to her husband while I happened to be in the room.
+
+"Tam's seventeen," she said.
+
+There was not room for him at home; there rarely is, in a house with more children than land. In the ordinary way of things he would have gone off to sharecrop for a hard man in his turn, exactly as his father had, and that would have been his life.
+
+So I let him the two best of the four parcels, twenty-four acres, in his own name, on his own paper, at seventeen years old.
+
+Terms: three years free while he broke them in, then a tenth, then a fifth, the same as his father, with a clause that if he threw it up in the first two years there was no debt and no ill feeling. I gave him the use of his father's tools and his father's advice, both freely offered, and a note to Kellard for seed against next autumn's crop, which is a debt I took onto my own account because no man in this world lends money to a seventeen-year-old.
+
+Hal Wray said nothing at all while this was proposed, and Bess watched him not saying it, and afterward, at the door, he shook my hand and did not let go of it for slightly too long, and said, "He'll not let you down."
+
+"I know that."
+
+"He's better than me," Hal said, which cost him something, and went out.
+
+And Tam Wray, who had been paid in suppers all his life, stood in my house with a paper in his hand that said twenty-four acres and his own name on it, and did not say a single word, and went very red, and had to go and look out of the window for a while.
+
+The schedule went to Penworth in November. Five agreements, four of them new, all of them on the same paper and the same terms, with a plan attached that a narrow-minded person could read.
+
+His reply, when it came, was one line again.
+
+*This is a considerably better security than I had been describing, and a considerably worse harvest than I had been hoping for, and I observe that you have contrived to give away a great deal for a man with, by my reckoning, eleven marks.*
+
+By his reckoning it was eleven marks, which is how money talks when it lives in a bank. By mine it was eleven silver and four copper, and the coppers were in my coat and I could not have told you how they got there.
+
+The note was paid. The materials were bought, the steel lying in crates on the southeast slope under canvas, a hundred and sixty feet of it, and the glass paid for and still on the road behind it. And the whole of the money in the world that I had to put men on it with was the four copper in that coat and eleven silver in a box on a shelf, because the last real hope of a wage bill had been five holdings of arrears, and I had walked eleven days to find out that it did not exist, and had given away most of what did.
+
+I sat at my own table on a black November evening and understood, without any particular drama about it, that I had made everything I owned into a bet on one glasshouse and had nothing whatever left over for the building of it.
+
+It was Jorin who said it out loud, three days later, standing on the southeast slope with the drawings rolled under his arm and the pegged-out line of the thing running away downhill from us both, longer than the village street, marked in the grass like the outline of a beached whale.
+
+"Steel's bought, then," he said.
+
+"Steel's bought."
+
+He looked down the line of pegs a while, and then at me, with the particular patience of a man waiting for another man to arrive at a subject on his own.
+
+"And who's setting it?"
