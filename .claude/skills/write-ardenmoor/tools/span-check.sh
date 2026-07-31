@@ -151,6 +151,7 @@ fi
 # "that was all" 37%  |  "I have thought since" 25%, "a thing worth" 12%, "it was not much" 6%.
 # The gap between 37% and 25% is where mannerism stops and ordinary voice begins.
 for phr in "the whole of it" "the way a man" "which is to say" "that was all" \
+           "I understood" "I have thought" "it came to me" \
            "I have thought since" "a thing worth" "it was not much"; do
   hits=0
   for f in "$@"; do

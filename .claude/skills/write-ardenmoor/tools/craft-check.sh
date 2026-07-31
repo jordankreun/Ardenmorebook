@@ -118,6 +118,26 @@ for f in "$@"; do
     warned=1
   fi
 
+  # ---- 3b. LYRIC RUN (contrast; added 2026-07-31) ----
+  # "A single lyrical paragraph is powerful. Five in a row flatten each other." A paragraph is
+  # counted as WORKED when it carries a simile, an as-though construction, or a narratorial
+  # conclusion. The check is not about how many there are — 36-48% of a healthy chapter is worked,
+  # and 55% of the book's paragraphs are already plain — it is about how many run CONSECUTIVELY
+  # without an ordinary paragraph between them.
+  # Measured over the finished book: median longest run 3; >4 fires on 3 of 32 chapters (9%),
+  # >3 would fire on 37%. The threshold sits exactly where the author put it.
+  # The fix is never to strip the lyric paragraphs. It is to let a plain one stand between them:
+  # logistics, motion, dialogue, a thing done. Ordinary competence is what makes the worked
+  # paragraphs land.
+  run=$(prose_lines "$f" | awk '
+    { w = ($0 ~ /the way |like a |like the |as though|I understood|I have thought|which is to say|the whole of it/) ? 1 : 0
+      if (w) { r++; if (r > m) m = r } else r = 0 }
+    END { print m+0 }')
+  if [ "${run:-0}" -gt 4 ]; then
+    echo "  WARN  lyric run: ${run} consecutive worked paragraphs (simile / as-though / conclusion) with no plain one between (>4) — beauty stops registering when it is unbroken; put an ordinary paragraph in the run, do not thin the lyric ones. (storycraft.md Module 8 (description & setting))"
+    warned=1
+  fi
+
   # ---- 4. SIZE DRIFT (relative; no absolute target — see header) ----
   med="$(prev_median "$base")"
   if [ -n "$med" ] && [ "$med" -gt 0 ]; then

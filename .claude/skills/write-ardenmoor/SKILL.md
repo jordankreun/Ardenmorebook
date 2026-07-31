@@ -86,6 +86,38 @@ its **spine (5,397w)** rather than in full (27,572w). Re-measure and update this
 LOAD block changes; a stale figure here is how the modes quietly drift back toward loading
 everything.
 
+## STEP 4 — THE TOOLS ARE A BACKSTOP, NEVER A TARGET
+
+This engine has eight tools and about a dozen thresholds. Every one of them exists to catch drift
+that is invisible from inside a draft. **None of them can tell whether a page is alive**, and a
+book written to satisfy them would be correct and dead. That failure has a name and it is the one
+to watch for: *writing toward the lint*.
+
+Four standing licences, binding in every mode:
+
+1. **The ear outranks the tool.** When a WARN and your judgment disagree, judgment wins. Keep the
+   line, and log the disagreement in the engine report — that is what the report is for. A
+   sentence kept against a tool with a stated reason is a decision; a sentence changed to silence
+   a tool is damage.
+2. **Every chapter may break a budget on purpose.** Deliberate excess is a technique: three
+   similes in a row when the narrator is overwhelmed, a run-on when the day ran on, a coda that
+   *is* the point. Name it and it stands. `tools/vouched.txt` exists for exactly this on
+   cross-chapter echoes; the same principle governs everything else.
+3. **Contrast is a deliverable, not slack.** Not every paragraph should be memorable. Ordinary
+   competence — logistics, motion, a thing done, plain dialogue — is what makes the worked
+   paragraphs land. Five lyric paragraphs in a row flatten each other, and `craft-check.sh` now
+   says so. **The fix is always to add a plain paragraph, never to thin the lyric ones.**
+4. **The narrator is allowed not to know.** Older Emlyn currently explains younger Emlyn with near
+   total confidence: across 111,837 words the manuscript contains **two** admissions of
+   uncertainty. Real memory is messier than that. *"I was not sure why."* / *"I understood that
+   only later."* / *"I have never settled it."* should appear far more often than they do. This is
+   the engine's one **additive** rule — everything else it knows how to ask for is subtraction.
+
+**A note on what the thresholds are for.** They mark where a habit has become a tic *at the scale
+the tool can see*. They do not describe good prose, they cannot see rhythm, and they are silent on
+everything that makes a page worth reading. Treat a clean run as the absence of known drift, never
+as evidence the writing is good.
+
 ## THE REPOSITORY
 
 Paths are relative to the REPO ROOT.

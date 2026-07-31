@@ -126,6 +126,45 @@ where it reveals his worldview, his avoidance of first-person confession, a beli
 challenges, or older Emlyn turning private pain into usable knowledge. Where it is decorative
 wisdom, make it personal: *I mistook this* over *a man mistakes this*.
 
+## THE FOUR PATTERNS UNDER THE CODA
+
+The coda is the visible form. These are the shapes it takes, and each has its own fix.
+
+- **The doubled conclusion.** observation → reflection → conclusion → general truth → *second*
+  conclusion → aphorism. The reader was finished at step two or three. Cut from the back until
+  the paragraph stops repeating itself.
+- **The untrusted image.** *I saw X → X was like Y → which meant Z → and perhaps that says
+  something about life.* The first two earn the moment; the last two spend it. **Keep the image
+  and stop.** Where two metaphors do the same work, keep the more precise one and delete the
+  other outright — do not blend them.
+- **Landing, then continuing.** At every scale. The clause arrives and another follows; the beat
+  lands and an explanatory paragraph follows; the scene finishes and a page reinforces it. Almost
+  none of these additions are bad, which is why they survive. They are simply unnecessary. Ask of
+  every ending: *could this stop one beat earlier?*
+- **The over-written transition.** house → thought about the house → why he thought about it →
+  which reminded him → new topic. **One bridge sentence is enough**; readers infer the rest.
+
+## THE ADDITIVE HALF — WHAT TO PUT IN
+
+Everything above removes. Three things this mode is allowed, and expected, to **add**, because
+each is an absence rather than an excess:
+
+- **Uncertainty.** Where older Emlyn explains younger Emlyn with total confidence and the
+  confidence is not earned, convert it: *I was not sure why, then.* / *I understood that only
+  later.* Two such admissions exist in the whole manuscript. This is the single highest-value
+  addition available in a revision, and it costs nothing structurally.
+- **A plain paragraph inside a lyric run.** When `craft-check.sh` reports a lyric run, the fix is
+  to let an ordinary paragraph stand between the worked ones — logistics, motion, a thing done.
+  **Never thin the lyric paragraphs to satisfy it.**
+- **Delay, where the world arrives before the curiosity.** Good fantasy lets the reader ask *how
+  does this work?* before answering. Where an explanation precedes the question it answers, move
+  the question earlier or the answer later. This reorders; it does not cut, and it is the one
+  reordering this mode may do.
+
+**Demonstrate the restraint, do not describe it.** The book's defining quality is Emlyn's
+reticence, and it weakens every time the narration explains that he was being reticent. Let it
+show in what he notices, what he declines to say, and what he does with his hands instead.
+
 ## LENGTH — TWO SCOPED EXPECTATIONS, NOT ONE BAND
 
 Compression is an **outcome of removing duplicated meaning, never a target to hit.** But how much
