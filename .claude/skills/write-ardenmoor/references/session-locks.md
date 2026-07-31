@@ -6,6 +6,23 @@
 
 ## SESSION-LOCKED DECISIONS (supersede the reference docs wherever they differ)
 
+*(Craft and process locks live here; locked WORLD FACTS live in `state/story-bible.md`. The two
+lists once duplicated four locks; the split was made 2026-07-31 — this file is HOW to write, the
+bible is WHAT is true.)*
+
+- **EM DASH PERMITTED (2026-07-31) — reverses the old zero-tolerance rule.** Not open licence but
+  a *deliberateness* rule: `prose-lint.sh` WARNs on every em dash so each is justified in the
+  engine report, and FAILs above **2.0 per 1,000 words**. Default punctuation preference is
+  unchanged (comma, period, semicolon, colon, parentheses, varied). **Not retroactive** — finished
+  prose is not re-punctuated to add dashes. **En dashes and ` -- ` remain a hard FAIL.**
+- **Organic character introductions.** Do NOT line the cast up and tag each with their future
+  significance on sight ("she would become one of the truest friends I ever made"). People are
+  SEEN first and named LATER, as interaction earns it; a name may arrive through dialogue rather
+  than a narrator label. Forward-looking "I would come to…" asides very sparingly.
+- **Narratorial asides interrupt flow — use them sparingly.** Sentences that step out of the scene
+  to wink at the reader ("I did not know then that…", editorialising parentheticals) break the
+  read. Keep them RARE and only when one clearly earns its place; default to staying in the scene.
+
 These were decided with the author during drafting and are binding. The reference docs
 predate some of them; where a reference says otherwise, THIS list wins.
 
@@ -62,7 +79,7 @@ predate some of them; where a reference says otherwise, THIS list wins.
    letter holds — Emlyn meets nothing he *recognises*, and the text supplies a mundane
    explanation on the spot — but "entirely unmet" was too absolute for what is on the page, and
    the wording is corrected here rather than left to disagree with the manuscript. The beat is a
-   **live blind seed**, logged in PENDING PAYOFFS and `state/thread-ledger.md`. This does NOT
+   **live blind seed**, logged in `state/thread-ledger.md`. This does NOT
    reopen Ch 1 to further strangeness: it is one beat, deliberately deniable, and the deferral
    otherwise stands.
 6. **Soren's age at arrival:** about nine — his tenth birthday lands in autumn, per canon.

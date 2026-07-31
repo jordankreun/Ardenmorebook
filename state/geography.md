@@ -212,7 +212,7 @@ what's fixed is which places exist and who holds them.
 | **Kellard's yard** (dry-goods store) | **Kellard** | The store that is also "the bank and the post and the parliament of the village"; has a **back storeroom** (flour, salt, good candles) where a wrongness-**cold-spot** had settled over a buried grief until Emlyn talked it out (Ch7). Kellard extends Emlyn **credit against the spring**. | [PAGE ch7] |
 | **The square** | — | Village common; market mornings; the well/pump (village well, distinct from the hill spring). | [OPEN placement] |
 | **Essa's joiner shop** | **Essa** | A furniture-maker's shop **off the square**; fine inlay / true-fitted drawers / small boxes. Essa is past fifty with failing eyes; buys one of the first Series lamps. | [PAGE ch8] |
-| **The wash-house** | shared | Down by the **beck**; communal laundry. (REVISED 2026-07-31: no longer tied to Soren's household; Wednesday is the day Cael KEEPS for parish business, not a weekly court.) | [PAGE ch7] |
+| **The wash-house** | shared | Down by the **beck**; communal laundry. | [PAGE ch7] |
 | **The church / churchyard** | — | Cael's grandmother is "forty years in the churchyard." | [PAGE ch1 (mentioned)] |
 
 **On-page village facts:** riding in, Emlyn passed the smithy (top of street) → Brenna's house →
@@ -301,7 +301,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   This was the other kind.", Ch 3). The region is nearly untapped (Ardenmoor one of few small villages
   in a large wild area). **Stays PRE-INDUSTRIAL/cozy** (the trains belong to the metropole). [CANON +
   PAGE ch3]
-- **DISTANCE & TRAVEL (REVISED 2026-07-11 — ~a week):** Vethmark ↔ Ardenmoor = **3 days by TRAIN**
+- **DISTANCE & TRAVEL:** Vethmark ↔ Ardenmoor = **3 days by TRAIN**
   (to the railhead, "the last station") **+ 4 days' RIDE** into roadless frontier past it ≈ **a week**.
   ON THE PAGE: Ch 1 "the railway had set me down four days back, at the last station"; Ch 3 "a week of
   road and rail away" / "three days on the railway… then four days more on horseback"; Ch 8 "a city a
@@ -333,7 +333,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 - Village ↔ hill crown: a walk of a good while up a long (not steep) track. [PAGE ch2]
 - Quarry round trip: **one day**. [CANON / style guide]
-- **To Vethmark / the city: ~A WEEK'S TRAVEL (REVISED 2026-07-11):** **3 days by TRAIN** (Vethmark →
+- **To Vethmark / the city: ~A WEEK'S TRAVEL:** **3 days by TRAIN** (Vethmark →
   the railhead, "the last station" where the line gives out) **+ 4 days' RIDE** on horseback through
   the roadless frontier past the railhead. ON THE PAGE: Ch 1 "the railway had set me down four days
   back, at the last station"; Ch 3 "a week of road and rail away" / "three days on the railway… then
@@ -426,7 +426,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   site reserved). Emlyn moves into the cabin; the **Study becomes his workroom** (chest stays Study NE
   corner). New offstage: **Maret's sister's place** (where the Wrays sharecropped before). No new
   village-interior geometry.
-- **ch9 RETCON (2026-07-13) — WOOD-FIRST arc:** the hill's homestead **outbuildings are now TIMBER, not
+- **ch9 RETCON — WOOD-FIRST arc:** the hill's homestead **outbuildings are now TIMBER, not
   stone.** Added a **timber BARN** on the lower SW shoulder (Snow/cart/stores; Snow uneasy in it at the
   hill's hours). The **CABIN is now timber** (Maret's oak; "poor cheerful cousin" of the grey stone
   Study). **The STUDY stays STONE** (Ch5 untouched). These wood buildings are on a pending **BURN →

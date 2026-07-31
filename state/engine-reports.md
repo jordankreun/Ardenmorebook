@@ -418,3 +418,54 @@ rather than rewritten in place, and the bible keeps a dense per-chapter fact dig
 pointer. Nothing is paraphrased out of existence; if a digest line is ever doubted, the original
 sits in archive/ with its full context.
 
+
+## Phase 1 — state compaction (result)
+
+| file | before | after |
+|---|---|---|
+| story-bible.md | 1,921 | **635** (target <=800) |
+| manuscript-log.md | 1,262 | **1,022** (target <=400 — NOT met, see below) |
+| geography.md | 434 | 434 (already clean of dated annotations) |
+| structural-diagnostic.md | 296 | archived |
+| **state total** | **4,336** | **2,576** |
+
+Verification: zero SUPERSEDED / "REVISED 20" / renamed hits in the bible; ten canon facts
+spot-checked and present (Emlyn past forty, Penworth's decade, Soren's mother dead before page
+one and unnamed, 12 copper = 1 silver, MARK = one silver, chest in the NE corner, Wednesday =
+the boy's day, Nerys, "no thread of fate", the inn's three storeys). state-check, doc-audit and
+prose-lint green; manuscript untouched.
+
+### Conservative judgment calls (directive 6)
+
+1. **The manuscript-log recap ledger was NOT paraphrased, so the <=400 target is missed by ~620
+   lines.** The 37 recaps are ~25 lines each of dense per-chapter canon — land structure, who
+   said what, sums, blind seeds, closing images. Compressing them means paraphrasing canon, which
+   is exactly the drift the acceptance criteria forbid ("zero canon drift"). What WAS removed:
+   the pass narratives, the correction appendix, the part-planning notes (all archived), and the
+   dated drafting annotations inside the recaps. **To finish this properly** the recaps need a
+   per-chapter pass with each compressed line verified against its chapter — a separate job with
+   its own verification, not a side-effect of a compaction run.
+2. **The bible's ESTABLISHED blocks were digested, not rewritten in place**, and the originals
+   are archived verbatim. A digest line that is ever doubted can be checked against the original
+   with full context.
+3. **Two rules were found in genuine conflict and resolved, not silently.** The bible's
+   SESSION-LOCKED section contained BOTH "EM DASH PERMITTED (2026-07-31)" and, twelve lines
+   below, "Punctuation (HARD house rule): never use em dashes (—) anywhere". The later author
+   decision wins; the stale ban is deleted. `doc-audit` had missed it because `superseded.txt`
+   held the wording "never use the em dash", not "never use em dashes".
+4. **The two lock lists were duplicating four locks.** `references/session-locks.md` and the
+   bible's SESSION-LOCKED section both carried natural-interaction, the name, away-threads and
+   the arrival. Split on a clean line: **session-locks = HOW to write, the bible = WHAT is true.**
+   Process locks moved to session-locks.md; world-fact locks stayed in the bible.
+5. **Ch 20–32 canon was misfiled.** It sat inside OPEN QUESTIONS under "NEW FACTS" headings —
+   settled fact filed as an open question. Relocated to ESTABLISHED ON THE PAGE.
+6. **PENDING PAYOFFS (524 lines) deleted per the brief**, with every reference in the repo
+   repointed to `state/thread-ledger.md` (draft.md, feedback-engine.md, the golden delta).
+
+### A defect this phase caused and the guard caught
+
+The first rebuild of the log dropped recaps [20]–[32b]: the recap ledger was not contiguous, and
+later recaps had been appended *after* the PART BOUNDARIES heading, so a section-boundary
+extraction lost fourteen chapters. `state-check.sh` FAILed naming every missing file, and the
+recaps were recovered from the archive. This is the second time this run that a guard written
+earlier today caught an error made later the same day.

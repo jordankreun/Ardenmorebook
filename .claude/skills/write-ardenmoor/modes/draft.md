@@ -14,7 +14,7 @@ Then, in this order:
 - `references/style-guide.md` (full), `references/voice-rothfuss-mancour.md` (full)
 - `references/feedback-engine.md` (full) — write *toward* it from the first line
 - `state/story-bible.md` — the **spine**: STATUS, SESSION-LOCKED block, LOCKED CANON, CAST,
-  WHO KNOWS WHAT, PENDING PAYOFFS, NUMBERS LEDGER. Plus the `ESTABLISHED ON THE PAGE` blocks for
+  WHO KNOWS WHAT, NUMBERS LEDGER. Plus the `ESTABLISHED ON THE PAGE` blocks for
   the two or three chapters adjacent to this one. Not the whole file.
 - `state/geography.md`, `state/thread-ledger.md`
 - `state/manuscript-log.md` — the target's neighbours and the last few entries, not all of it
@@ -91,7 +91,7 @@ When asked to write chapter N:
 - The last image of the previous chapter, so you open in continuity with it.
 - **The engine's PRE-DRAFT BRIEF** (see the top of `references/feedback-engine.md`): the 3–4
   engine rules this chapter's material is most at risk of breaking; which ACTIVE BLIND SEEDS
-  (story-bible PENDING PAYOFFS) the chapter touches or deliberately RESTS, and how each touched
+  (`state/thread-ledger.md`) the chapter touches or deliberately RESTS, and how each touched
   one stays blind (unremarked, ordinary temperature, doing a second mundane job); any [OPEN]
   question the chapter brushes that must not be foreclosed; and which signature tics the previous
   chapter leaned on, so this one varies them (the lint's adjacent-echo check is the backstop).
@@ -104,7 +104,7 @@ When asked to write chapter N:
   1. **Locate this chapter on the CALENDAR SPINE** (story-bible NUMBERS LEDGER): its season and
      cumulative elapsed. Is the clock honest — does it move forward without skipping a season
      un-bridged or running backward? Add its row after drafting.
-  2. **Locate it on the GRIEF-THAW CURVE** (story-bible PENDING PAYOFFS): what stage of grief is
+  2. **Locate it on the GRIEF-THAW CURVE** (`state/thread-ledger.md`): what stage of grief is
      allowed here. Confirm no beat lets go of a sealed thing (letter, chest, Arielle's name, the
      river house) before the Ch27–28 finale — mid-book grief is a threshold, never a release.
   3. **Recall the previous TWO chapters' CLOSING SHAPES** (image vs. line-of-dialogue, and their
@@ -206,7 +206,7 @@ what the pass flagged, what it changed, and anything you deliberately kept and w
 a chapter as ready until this pass has run.
 
 **Run the BLIND-SEED FALSIFICATION PROBE if the chapter planted or watered an active seed** (check
-the pre-draft brief / bible PENDING PAYOFFS). Spawn a fresh sub-agent given ONLY the manuscript
+the pre-draft brief / `state/thread-ledger.md`). Spawn a fresh sub-agent given ONLY the manuscript
 through this chapter — blind to the bible, outline, and payoffs — and ask it the single question in
 `feedback-engine.md` P1 [PROBE]: does anything here read as deliberately set up to matter later? If
 it names an active seed by its real function, the seed is telegraphing; replant it flatter and

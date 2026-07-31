@@ -1,23 +1,81 @@
-# MANUSCRIPT LOG — status and the recap ledger
+# MANUSCRIPT LOG & RECAP LEDGER
+### One line per drafted chapter. The draft reads this to maintain continuity across sessions.
+### Format per chapter: [NN] Title — one-sentence summary. CLOSING IMAGE: ... . NEW FACTS: ... .
 
-### One recap line per chapter, in reading order. This is the per-chapter canon record.
-### Pass narratives, correction appendices and the part-planning notes were moved to
-### `archive/state-compaction-2026-07-31/manuscript-log-history.md` on 2026-07-31.
+---
 
 ## PROGRESS
 
 - Drafted: **BOOK ONE COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III** (37 files,
- `00-prologue.md` … `32b-coda.md`). The book ran past the ~28-chapter suggested shape, as the
- outline's own scaffolding-not-law note allows.
-- Word count: **111,837** (prose lines only; blank lines and `#`-headers excluded). Every length
- target is retired (session-lock #7, `tools/superseded.txt`).
-- **All four parts are drafted.** Current work is revision. The storycraft pass runs
- part by part; Part I is complete. Keep this bullet current — `tools/state-check.sh` FAILs when
- it falls behind `manuscript/manifest.json`.
-- Part boundaries: I = Prologue–Ch 7 + Interlude I · II = Ch 8–15 + Interlude II ·
- III = Ch 16–25 + Interlude III · IV = Ch 26–32 + coda.
-- Standing conventions that remain operative live in `references/session-locks.md`; world facts
- live in `state/story-bible.md`; setups live in `state/thread-ledger.md`.
+  `00-prologue.md` … `32b-coda.md`). The book ran past the ~28-chapter suggested shape, as the
+  outline's own scaffolding-not-law note allows.
+- Word count: **111,837** (prose lines only; blank lines and `#`-headers excluded). The old
+  ~90,000–100,000 target is retired along with every other length target (session-lock #7,
+  `tools/superseded.txt`).
+- **MODERATE REVISION APPLIED to Prologue + Ch 1 (2026-07-31, author-approved).** 6,056w to
+  5,223w (**-13.8%**; Prologue -18.1%, Ch 1 -13.3%). Scene order, dialogue, the two-houses
+  backstory, the railway/scarcity exposition and the village morning all preserved; the cuts are
+  duplicated interpretation, repeated conclusions about being tired or alone, and sentence tails
+  restating their own landing. ONE developmental addition, flagged by the author's own style doc
+  and not to be generalized: the first-night basin-water beat at the inn (now a live blind seed;
+  session-lock #5 amended). Source and approved text are the golden fixture at
+  `references/golden/prologue-ch1/`, which now calibrates `modes/revise-moderate.md`.
+- **ALL FOUR PARTS ARE DRAFTED.** Current work is revision, not continuation — the storycraft pass
+  (2026-07-31) is running part by part, Part I complete. Keep this bullet current:
+  `tools/state-check.sh` FAILs when it falls behind `manuscript/manifest.json`.
+- **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
+  like real novels; short chapters ~1,500–2,500 fine, some longer). Ch 9 is a deliberately shorter
+  chapter (2,944). See session-lock #7 / feedback-engine.
+- **✅ POV RESOLVED → SPELLMONGER HYBRID (2026-07-11):** Emlyn's chapters stay first person but told
+  **close to the events** (deep-time / ancient-chronicler / famous-legend / memoir framing removed);
+  other characters' chapters and the four interludes are **third-person limited**. Interlude I is
+  written in that mode. See the POV-REWRITE note in the ledger below and session-lock #1.
+- **⏱ CALENDAR NOTE:** the manuscript compressed the seasons: arrival spring Yr1 → Study summer's end
+  → lumen/Wednesdays autumn → lamp business edge of winter → **Ch 9 = the first winter passes, THAW into
+  spring Yr2.** The **loan grace year is nearly up** (note comes due this year), which drives Ch 9's
+  tenants. SUPERSEDED 2026-07-14: Book One now runs the FULL ~28-chapter shape and the clock SLOWS from Ch 10 (Year 2 breathes; session-lock #10); the outline's calendar needs re-mapping to the two-year span.
+- **AUTHOR DIRECTION LOCKED (2026-07-14, via story-fork Q&A):** (a) **Book One = full ~28 chapters,
+  slow the clock** (session-lock #10); (b) **Ch 10–12 lean into the UNDERCURRENT via Brenna**;
+  (c) **whole-book READ-THROUGH pass comes BEFORE drafting Ch 10** (cold front-to-back read, prioritized
+  findings list to the author); (d) **pre-chapter author forks are now standing process** (session-lock
+  #11); (e) **the wood-buildings FIRE lands at the END of Book One** (bible updated); (f) **Lira reveal
+  moved to Part III** (was outline Ch 12); (g) **Ch 10 candor level: PARTIAL** — Emlyn owns to interest,
+  asks real questions, keeps the hum itself private (Brenna may sense the held-back thing);
+  (h) name slates for Commonwealth/capital/academy proposed to the author (pending pick).
+- **ENGINE BUILD (2026-07-15, "Tier 1 + all of Tier 2"):** lint gained a dialogue-share meter,
+  echo-run dedup, and a vouch ledger (`tools/vouched.txt`); seed-telegraph false-positives 4→0.
+  Bible gained a **CALENDAR SPINE** and a **GRIEF-THAW CURVE** (Ch1–10 back-filled) so cross-chapter
+  arithmetic and the grief clock are checkable up front — three new pre-draft-brief locates enforce
+  them. New `state/engine-reports.md` archives each pass's claims (silent-miss vs conscious-keep).
+  Full detail in the feedback-engine ENGINE CHANGELOG. doc-audit clean; no new lint FAILs.
+- **ENGINE BUILD, Tier 3 (2026-07-15, "build 3"):** the three optional items, each as the audit's
+  narrow half. (a) **Blind-seed falsification PROBE** (P1 [PROBE]): a bible-blind sub-agent reads the
+  book through chapter N and is asked only "is anything set up to matter later?"; a seed it names by
+  function failed the [HARD] test → replant. (b) **Delivery receipt** `tools/chapter-check.sh`:
+  existence-only end-of-drafting gate (in manifest? has registry row? has log recap?) — verified
+  PASS on all 13 drafted files, FAIL on an unwired file. (c) **De-escalation discipline** folded into
+  intake step 4: prune noisy WARNs when you add one (budget-0 tripwires exempt). One roadmap item
+  stays REJECTED (repeat-family escalation — premature). Roadmap now fully resolved.
+- **Ch 11 ("What Tomas Carried") DRAFTED 2026-07-15** (1,908w; a deliberately tight two-hander confession). Forge, dusk, early summer Yr2. Tomas confesses ~2 years' solitary hearing; Emlyn confirms belief by naming the pre-dawn hour, gives the STANDING PROMISE ("when I know what it is, you will know… first"), holds his own listening private; Tomas closes with "Even." The "metronome" begins (chin-at-hill → "Not yet"). Pre-chapter forks: the question tool failed in-session, so per session-lock #11 the outline defaults were taken and logged — POV Emlyn 1st-person (default; keeps Tomas rendered from outside, true to his stillness); confession OBLIQUE (Tomas's spare voice; undercurrent stays weather); Emlyn HOLDS HIS OWN COUNSEL (consistent with Ch10's just-locked partial candor). Lint fully clean (incl. the new dialogue meter). **AUTHOR-CONFIRMED 2026-07-15** (collaborative pass, fork "A and spare"): reciprocity stays cautious/reserved (no mutual confession, Tomas does not see through him) and Tomas stays oblique/spare. Kept as drafted, no changes.
+- **Ch 12 ("The Listening Stone") DRAFTED 2026-07-15** (1,876w; a deliberately interior chapter — dig, chest, instrument, grief, all solitary; dialogue-share WARN is a conscious keep). Early–mid summer Yr2. Cellar cut beneath the Study; Ren "a moment longer than his habit" at the NE corner (BLIND, de-staged after the probe); chest carried down to the cellar NE corner; recording blank set for a 30-day read (Deep Grammar Phase One begins). River house SOLD — money to principal, her things crated under seal, inventory filed UNREAD in the sticking drawer (grief sealed). BLIND-SEED PROBE run: caught the first draft STAGING the keystone seed (Ren/NE) — replanted flat (see engine-reports). Forks: outline defaults (question tool down). CLOSING: image — the new stone listening in the dark cellar. prose-lint clean (one interior WARN).
+- **Ch 13 ("The Well Incident") DRAFTED 2026-07-15** (2,301w; dialogue-live, varies from Ch 12). Mid-summer Yr2. Soren's talent slips at the square well (water climbs against the rope; a heartbeat of wrongness in the square); Emlyn covers with a wizard's misdirection ("dry rot in the windlass"); Lira sees the truth and says nothing (BLIND — feeds her Conclave reveal Ch 18; the draft's "before I understood why" telegraph was cut). On the wall after, Emlyn teaches Soren to hide it ("you keep it close, like the hill"); obliquely admits he too was a noticed talent who paid a cost (no specifics). CLOSING (dialogue): "I'll be quiet. Like the hill. It's loud all the time and nobody hears it. I can do that." NEW: square well (geography); Soren now knows he's not like others + the protection pact; Lira saw. Fixed 1 em-dash FAIL. prose-lint clean.
+- **Ch 14 ("Midsummer Reading") + INTERLUDE II DRAFTED 2026-07-15** (2,537w + 597w). Mid–late summer Yr2. Emlyn reads the 30-day blank: two hours confirmed, storm-sensitivity, a changed dusk pulse the night he stood at the oak, a 30-day WARMING ("the hill was learning me") — read with a skeptic's unease. Penworth comes the whole way up (first sees the hill; "You built it"); does the money first — first loan payment MADE, tight, on lamps + the last of the river-house money (land must carry the next). The mail: two scholars probing the papers + one UNSIGNED "the interior architecture is beautiful" (BLIND → Ch 26); Penworth engages Cecily. Canon: the "safe published third." INTERLUDE II (hill register): the hill "says his shape back to the dark" (kept veiled — first draft over-decoded the NE-corner twist, cut). CLOSING (image): a great deal arrived in one week; he sets it down and works, knowing it won't stay a summer. prose-lint clean (fixed 1 adjacent echo). **PART II COMPLETE** (Ch 8–14 + Interlude II).
+- **Ch 16 ("Steel and Glass") DRAFTED 2026-07-15 (renumbered from 15)** (1,814w). PART III opens. Late summer → early autumn Yr2. The GREENHOUSE rises (enchanted steel frame up via Wainford on 4 wagons, glass hung over 3 weeks; SE slope) — "the years' bread," Brenna's trade + Emlyn's craft under one roof. Brenna plans the soil WITH him (partnership formalized; he's "the junior partner in a trade I'd thought was mine"); she reserves the cool north corner unspoken ("leave it, I'll tell you when" — BLIND, for the keeper plant). GRIEF beat: the greenhouse "unsettled" him into meaning to stay → he commissions Essa a real BED + chest (furnishes the monk's-cell bedchamber = a step toward living); but the sticking desk drawer (callipers + the unread inventory) he lets stay stuck ("I could have freed it… I let it stay stuck" — grief HELD, not released; callipers = "another book, not this one"). CLOSING (image+reflection): the greenhouse full of faith; "It was enough, that autumn, to have built the bed. The drawer could keep… so, I was learning, slowly, and late, and against my own grain, could I be." Fixed an over-decode close (enumerate-and-promise, cut). Fixed a stale geography fact (chest Study→cellar). prose-lint clean. **REVISED 2026-07-15 (author forks B/B/B, 1,814→2,840w):** (1) the greenhouse is now a REAL GAMBLE — a year's margin spent with one payment behind him and no reserve, against the prudent course; **Penworth's letter is on the page** ("You will do as you think best; you always have… I have therefore confined myself to arranging the shipping, which will cost you nine per cent less… Write to me when the crop is in"), and the downside is stated plainly ("a very expensive black skeleton on a hill"). (2) Emlyn PRESSES Brenna about the north corner and is REFUSED — she gives specs only ("Cool. Shaded. Dry, not damp. No ducting") and holds the reason ("I've been the only one keeping it for thirty years. Ask me again at the turn of the year"); he reroutes the ducting the long way to spare it. (3) the bed becomes COMMUNAL — Essa brings Ren to carry and the cart also holds blankets from Lira (no message), a bolster from Mira, a jar from Brenna, a mirror from Kellard; the village has been discussing his housekeeping for a year. Essa: "It's not charity, it's opinion." New grief beat: he turns the mirror to the wall the first night and stands it round the second ("harder than the greenhouse").
+- **⚠️ GREENHOUSE RESCALED TO A BANKRUPTING GAMBLE (2026-07-15, author direction) + AN ORDERING ISSUE TO RESOLVE.**
+  The greenhouse is now **160 ft × 5 bays** (largest structure in the valley, 11 wagons), financed by a
+  **SECOND borrowing secured on the hill** — if it fails, the note takes Ardenmoor. **Penworth now
+  cautions IN PERSON on the southeast slope in Ch 14** (makes Emlyn say the number twice and the stake
+  aloud: "you will lose Ardenmoor. Not embarrassment. The hill."), sets **three conditions**, and
+  arranges the money anyway. Ch 15 rescaled to match (Jorin: "Big for one man").
+  **⚠️ OPEN STRUCTURAL QUESTION:** Penworth's condition #1 is *no spade in the ground until the crop is
+  in and SOLD and the second payment made from it* — so the greenhouse BUILD now happens
+  chronologically AFTER the harvest, but "Harvest Home" is currently Ch 16, i.e. after "Steel and
+  Glass" (Ch 15). Options: (a) SWAP the two chapters (harvest becomes Ch 15, greenhouse Ch 16 — cause
+  before effect, recommended); (b) keep the order and soften the condition; (c) split Ch 15 (decision +
+  ordering now, glass going up after the harvest). **Awaiting author's call before drafting Ch 16.**
+- Next to write: **Chapter 17, "Good Roads"** (outline Ch 17): the thaw chapter — the cart-road up the hill and, because the land allows it, a BRANCH into the village; Lira engages for the first time in a year ("That's not a path to a wizard's tower. That's a road. To the village."), the jug refilled unasked, "I'll mention it to Cael" — a vote cast without acknowledging it was a vote. ⚠️ AUTHOR-GUIDED: put the outline beat + 3 forks to the author BEFORE drafting.
+
+---
 
 ## RECAP LEDGER
 
@@ -103,14 +161,14 @@ myself" [the exact framing the author cut from the prologue] and is now first pe
 phrase gone. The hum's "I did not hear anything" opener was reviewed and KEPT: here it does
 necessary work distinguishing felt-through-bone from heard, unlike the Ch2 crown anticlimax.)
 
-READABILITY / CONCISION PASS across Ch 1–3: trimmed genuine verbosity (doubled
+READABILITY / CONCISION PASS (2026-07-06) across Ch 1–3: trimmed genuine verbosity (doubled
 clauses, over-qualification, tautological asides, theme-explaining tails) while holding the voice,
 canon, no-em-dash rule, and the 3,500 floor. Counts after: Ch1 4002, Ch2 4285, Ch3 3562. Notable
 CONTINUITY FIX: Ch2's "I would keep my promise and tell her" (Lira) was cut — that promise was
 removed from Ch1 in an earlier revision, so it was a dangling reference. New durable rule recorded
 in the feedback engine (P5 "Concision: cut verbosity, keep the voice").
 
-RUN-ON PASS + VOICE RE-WEIGHT across Ch 1–3: (a) split ~13 genuine run-ons (4+
+RUN-ON PASS + VOICE RE-WEIGHT (2026-07-06) across Ch 1–3: (a) split ~13 genuine run-ons (4+
 "and"-chained independent clauses; one comma-splice/semicolon) into cleaner sentences, preserving
 the deliberate cumulative lines. (b) TONE SHIFT toward **Terry Mancour**: the teller's register is
 now wry/plainspoken/practical with Rothfuss lyricism demoted to a spare grace note (Le Guin floor
@@ -122,7 +180,7 @@ discipline), voice-rothfuss-mancour.md (VOICE RE-WEIGHT block), style-guide.md (
 "Run-ons" rule), feedback-engine.md (run-on rule + Mancour-register check), and the skill
 description. Counts after: Ch1 3995, Ch2 4282, Ch3 3550 (all above floor); no em dashes.
 
-MANCOUR RE-VOICE — "SPLIT THE DIFFERENCE": a moderate re-voicing pass (between the
+MANCOUR RE-VOICE — "SPLIT THE DIFFERENCE" (2026-07-06): a moderate re-voicing pass (between the
 prior light nudge and a full flatten). Plained the incidental ornament, concentrated in Ch1 (most
 lyric) and Ch2, while KEEPING the earned lyric moments (the Ch3 hum scene, key thresholds). Sample
 swaps: "a sky the pale scrubbed blue of something just laundered" → "a pale, scrubbed-blue sky";
@@ -146,7 +204,7 @@ switched." Restored two lines I had over-flattened last pass so the everyday nar
 undertone: the sky ("a pale sky the scrubbed blue of fresh-washed linen") and Lira's regard ("she
 kept her regard the way she kept her good glasses"). Ch1 count ~3985.
 
-FULL REWRITE IN THE BLENDED VOICE: at the author's request ("do a whole rewrite in
+FULL REWRITE IN THE BLENDED VOICE (2026-07-06): at the author's request ("do a whole rewrite in
 that tone"), rewrote Prologue + Ch1–3 top to bottom in the single settled voice (Mancour surface,
 Rothfuss undertone throughout, Le Guin floor). All beats, canon, character dialogue, and locked
 wordings preserved (verified: "It is a perfectly fine hill... I would build on it"; "for reasons I
@@ -305,6 +363,184 @@ out-of-strict-chronology placement of the Brenna gift (flagged in-voice as the t
 account). Do NOT preempt: the three probing correspondents (Ch 14/26) are NOT yet mentioned — only
 the existence/location of the unpublished work.
 
+[I1] Interlude I (between Ch 7 and Ch 8) — FIRST interlude, **third person, the hill's wordless
+POV** (504 words). The hill "does not keep years"; it keeps the slow grain and its two risings
+(dusk + predawn). Weights have crossed its crown before: rain, beasts, and once "a weight that
+pushed" (Cael's father's stone) which it loosened with frost and gave back "over a season" ("neither
+triumph nor sorrow, only the grain having its way"). THIS weight (Emlyn) is different: it did not
+push, it **asked**, and the hill "had not been asked in longer than the old one in the wood has
+stood," and it "turned toward it, the way roots turn toward water." It knows the weight's edges now:
+a smaller grave weight that lays a bare hand on the stone (Soren) and "goes very still"; a light that
+"drinks the fall-of-light rising and gives it back gentled" (the lumen). The old oak, far off, "feels
+the hill go quiet in a new way, and holds still, and waits, as it has always waited." CLOSING: the
+hill settles the weight deeper and holds it; "the grain has changed its lie… and it will not change
+back." NO twist stated; no named emotions; fragments allowed (interlude license). Reader-superior:
+we see the hill notice/turn-toward, which Emlyn only suspects. Do NOT let later interludes state the
+door/compass twist (reserved for the Ch-28 payoff + Interlude IV coda "at last").
+
+POV REWRITE — SPELLMONGER HYBRID (2026-07-11): at the author's request ("more in line with Terry
+Mancour's Spellmonger… follows the main character but isn't wholly in his voice… changes perspective
+per chapter… we can do interludes"), converted the book's POV doctrine. **Emlyn 1st person / others
++ interludes 3rd person**, chosen by the author; rewrite-all chosen. Applied a **framing pass to the
+Prologue + Ch 1–8**: kept first person, the blended voice, every beat/canon/line of dialogue, and the
+no-em-dash rule; REMOVED the ancient-chronicler / immortal-deep-time / famous-legend / self-conscious-
+memoir framing (softened "in a long life"→"in my time / over the years"; cut "the tellers have hung
+on that morning," "I have promised you an honest accounting," "work that shook kingdoms"→"work that
+clever men still argue over," "before the account gets loud"→"before things get loud," "in this
+account"→"that happened to me on that hill," "the furniture of the tales"→"the furniture a story
+would give it"). KEPT Mancour's ordinary near-hindsight ("I did not know then," "for reasons I will
+come to") and the faint younger-than-his-years hint (Ch 1). The **Prologue was rewritten** lean and
+immediate (459→213 words): drops the "I've reached the age to write things down / everyone is gone /
+not a man they sing about / half-myth tales" memoir apparatus; keeps "no wonder, no boy, only a man
+at the tired end of a bad few years," adds a warm forward close ("how a hill nothing would stand on
+came to hold a tower, and how the man who built it there got, without ever quite meaning to, a life
+back"). General "magic is less flashy than the stories" asides ("whatever the tales tell you") were
+KEPT (they don't invoke Emlyn's personal legend). All 8 chapters still clear the 3,500 floor; 0 em
+dashes. Skill files updated: SESSION-LOCKED #1 & #3, style-guide POV section + interludes, voice guide
+(POV/frame blocks), feedback-engine P5 (new POV check), outline POV & Structure, and this log.
+
+FINANCE & ORIGIN CONSTRAINT (2026-07-11): at the author's request, added a load-bearing economic
+constraint so Emlyn is NOT infinitely rich and cannot just buy everything. New canon (see the
+FINANCES & ORIGINS session-lock in the story bible): **only child; father an architect (owned a
+small firm); Emlyn trained as a draftsman before his talent** (funded his schooling; roots his eye
+for structure). **Two Vethmark homes:** the inherited **family townhouse** (kept; = the "dust-
+sheeted" house of Ch 1) and the grander **wedding-gift "river house"** (his fiancée's; the untouched
+"her rooms"), which **Penworth forces him to sell** as the primary capital. Purchase is **finite & leveraged**:
+river-house sale (down payment) + a **loan on old licensed patents** + appreciated investments; he
+comes out "with little behind me and a note to answer twice a year," so the **farmland tenancies
+and the practice must make the place pay** (the real engine behind building one room at a time).
+Talent-slowed aging now explains **parents-gone-but-he-looks-young** (offstage). The river-house sale
+COMPLETES in **spring** (grief deferred → finale/Book Two: clear her rooms, retrieve the third
+spellbook). SEEDED into the manuscript: **Ch 1** gained a paragraph (father "drew houses," Emlyn
+"learned the drawing at his elbow," the inherited family house vs the untouched river house, Penworth
+pressing the sale, the money aimed at "a hill"); **Ch 3** gained a paragraph (the purchase finite &
+leveraged: cheap land, sale + patent-loan + grown holdings, and the grief-thaw button "for the first
+time in three years, interested").
+
+REFINEMENT (2026-07-11, same day): **RELATIONSHIP RE-LOCKED to ENGAGED, not married** (author reversed
+the earlier "married/widower"). Arielle was his **FIANCÉE**; the **river house was his WEDDING GIFT**,
+chosen together ahead of the wedding; **she died before the wedding**, so he **never lived there** —
+a grand, half-made, never-inhabited house he can neither enter nor sell, dead capital and pure grief,
+until Penworth (a friend) forces the sale to pull him out of the slump. Also added a **LOAN GRACE
+PERIOD**: nothing falls due for ~the first year (a full turn of seasons), which is the book's
+**economic clock** — he must get **tenants into the bottoms** and the **practice earning** before the
+note comes due (placing tenants is now a live mid-book to-do); the spring river-house sale pays down
+principal. PROSE UPDATED: Ch 1's river-house lines rewritten to fiancée / wedding-gift / never-lived-in
+/ dead-capital (discreet, no name); Ch 3's financing rewritten to the grace-period/tenants clock
+(replaced "a note twice a year" with "a debt I would begin to answer for in a year's time… I would
+need this hill to be earning… tenants… the trade would have to come"). The PAGE never said
+wife/married (stayed discreet), so the reversal cost no other prose. No existing beat broken; 0 em
+dashes. State re-updated: story-bible (session-lock, ledger, cast, locked-canon) + outline + geography
+all now say fiancée / wedding-gift / grace period.
+
+REFINEMENT 2 (2026-07-11, same day — the firm & the two houses' rhyme): (a) **Emlyn RETAINS his late
+father's share of the architecture firm** the father founded, which still operates — a modest steady
+income he doesn't run (borrowable against; Penworth-managed). Does NOT sell it. (b) **The river house
+was designed by that same firm**, which Emlyn commissioned as a **grander, costlier echo of the
+family townhouse his father had designed for his MOTHER** ("the same lines… swollen to twice the
+scale and three times the cost, ornament laid on ornament") — this is WHY it's so ornate/overstated,
+and it makes the two houses RHYME (the modest real one his father made for his mother, now Emlyn's
+lived-in refuge; the grand never-lived-in one Emlyn made for his fiancée). (c) **The river house is a
+money pit** — "a small fortune a year in the bare keeping of a grand thing that nobody used," the
+drain especially galling because unoccupied; **Penworth pushes the sale for BOTH reasons** (the purse
+AND, mainly, the emotional weight of a never-used monument). PROSE: Ch 1's seed split into TWO
+paragraphs and enriched (father's firm still standing + Emlyn's share; the family home the father made
+for the mother; the river house a grander echo commissioned from the firm; the upkeep drain; Penworth
+pushing "for the sake of my purse and… the rest of me"). Ch 3's income list gained "my father's firm
+that went on quietly paying its small partner's share into an account I never opened." State: story-
+bible (finances session-lock, ledger, pending payoffs) updated.
+
+SETTING & POLITY (2026-07-11): established the world frame (see the SETTING & POLITY block in the
+story bible). **The realm is a COMMONWEALTH governed by a ruling council** (not a monarchy — the page
+has no king/crown/lord; confirmed), politics kept light/offstage (cozy). Remote land held under **old
+commons / parish / allodial "old land"** (the precedent for the cheaply-assembled Ardenmoor holding).
+**VETHMARK = the dense urban magical-academic center** (the University/Academy where Emlyn trained &
+published; **seat of the Conclave**; banking seat; his origin) — **NOT the political capital** (which
+is elsewhere, offstage). **ARDENMOOR = a deep, remote, undeveloped forest/agricultural frontier of the
+Commonwealth** — the reason the land is cheap and the region untapped. DISTANCE: kept the page's
+**4 days' ride** (Ch 3/Ch 8), framed as far frontier (a fortnight for wagons/foot — consistent with the
+established fortnight wagon-wait); **magical travel-acceleration exists** as canon (costly art of the
+well-connected; the fast way; how Emlyn makes the spring journey) but is NOT retro-fit into the mundane
+Ch 1 arrival ("I let Snow set the pace, which was slow" — the slow way by choice). PROSE: Ch 3's cheap-
+land sentence expanded to seed the remoteness + old-commons tenure + names **"the Commonwealth"** once
+on the page. Proper names for the Commonwealth, its capital, and the academy are **[OPEN]** for the
+author. State updated: story-bible (new SETTING & POLITY section + Conclave/academy cross-ref),
+geography (Beyond the Valley rewritten + distances + OPEN names + change log), outline (canon appendix).
+⚠️ Flagged to author: preserved the 4-day figure to protect the Ch 1 arrival; can lengthen the literal
+distance with light Ch 1/3/8 edits if wanted.
+
+MAGIC RARITY + VETHMARK RE-FRAME (2026-07-11): **Magic is now canonically RARE.** Practitioners are
+uncommon and getting rarer — **major talents (Emlyn) very rare**, **minor talents (Penworth) uncommon**
+but a real professional EDGE (why a minor talent like Penworth is so formidable). So magic is a **rare,
+PRIZED craft practiced by very few** (a country wizard is a marvel; the lumens are wonders) — the
+Mancour/Spellmonger "real commercial practice" stays, but it is precious, NOT commonplace. Because
+magic is rare, the **academy/Conclave is SMALL** and there is essentially **one center of magical study
+for the whole continent.** ⚠️ This **REVISES** the earlier "Vethmark built around the academy": **Vethmark
+is now a major city of commerce/industry and a regional seat of power** (a principal Commonwealth city,
+the banking seat, Emlyn's origin), big because of trade — that HOSTS the one small continental academy +
+the Conclave's seat, located there **because Vethmark is a major hub** ("why they chose this one spot").
+NOT the political capital. Distance RE-EVALUATED: the 4-day ride still holds and reads even better now
+as "a great city and its far frontier backwater." NO prose changes needed (nothing on the page called
+Vethmark an academy town or implied common magic; the village's wary "you'll be the wizard, then" fits
+rare magic and is reinforced). State updated: story-bible (MAGIC IS RARE bullet + Vethmark bullet
+rewritten + Magic-rules + Penworth cast + distance note), geography (Vethmark entry), outline (canon
+appendix), voice guide ("rare & prized" qualifier on the commercial-practice note).
+
+RAILWAYS + DISTANCE REVISION (2026-07-11, supersedes the "4 days' ride to Vethmark"): the world now
+has **RAILWAYS** (the developed Commonwealth is industrializing; Vethmark is on the network). **Vethmark
+↔ Ardenmoor is now ~A WEEK'S TRAVEL: 3 days by TRAIN to the railhead ("the last station," where the
+line gives out) + 4 days' RIDE on horseback through roadless frontier past it.** Ardenmoor lies
+**BEYOND THE END OF THE RAILWAY** — now the deepest reason the land is cheap/undeveloped ("Land the
+rails have reached is land somebody wants. This was the other kind."). The **village stays
+pre-industrial/cozy** (trains belong to the metropole Emlyn left); tech split = industrializing
+metropole ↔ pre-industrial frontier. **Magical travel-acceleration (added earlier same day) is
+RETIRED** — with magic rare + railways, the train is the fast way. PROSE REVISED on the page: **Ch 1**
+gained "The railway had set me down four days back, at the last station on a line that gave out… exactly
+where the paying traffic did, and from there I had gone on by horse into a country the rails had never
+troubled to reach" (arrival = rail + 4-day horse leg, placed a few paras in so the pastoral opening
+holds); **Ch 3** "four days' ride away" → "a week of road and rail away," and the cheap-land seed
+rebuilt on the beyond-the-rails model ("three days on the railway to the end of the line… then four days
+more on horseback"); **Ch 8** "a city four days off" → "a city a week's road and rail away." The
+"four days" now on the page = the horse leg from the railhead (not the Vethmark distance). Goods still
+come by wagon up the frontier road (rail → railhead → wagons; the fortnight goods-wait holds). Counts:
+Ch 1 4455, Ch 3 4190, Ch 8 4050; 0 em dashes. State updated: story-bible (RAILWAYS bullet + revised
+DISTANCE bullet + retired acceleration + ledger), geography (Vethmark rail + new railhead entry +
+DISTANCES + Beyond-the-Valley bullet + OPEN names + change log), outline (canon appendix). The
+**railhead town** is [OPEN] (unnamed on the page: "the last station").
+
+WAINFORD (the railhead town) + TECH CLARIFIED (2026-07-11): named and built the railhead town —
+**WAINFORD** (wain = farm wagon + ford = river crossing): the **terminus where the rail ends at the
+edge of settled country, 4 days' ride from Ardenmoor**, a **rail port for agriculture** (grain/cattle
+onto trains), on a **river** (supports a future barge service). **TECH CLARIFIED: the world runs on
+STEAM + a SMALL amount of ARTIFICE** (rare magical devices; magic is rare, so artifice is a prized
+niche — Emlyn's lumens live here). Wainford is the Ch 1 "last station." **Its recurring/future role
+(seeded, not opened):** where Emlyn **meets Penworth** (Penworth rails out to the railhead, sparing
+the frontier ride); where he **returns to collect furniture/items shipped from Vethmark** and ship out
+lumens; where he will **buy a warehouse** (Book Two+); and later possible **rail-extension / river-barge
+service** investments. NAMED ON THE PAGE: **Ch 1** now "set me down four days back at Wainford, the
+last station… a raw, busy, cheerful sort of town that existed to move the country's grain and cattle
+onto trains"; **Ch 3** "the end of the line at Wainford… The road, past Wainford, worsened by the mile."
+Rename-able (alternates Draymere / Marchford). State updated: story-bible (TECH+RAILWAYS bullet, new
+Wainford bullet, distance/arrival naming, pending payoffs), geography (full Wainford entry, map exit
+arrow, OPEN names), outline (canon appendix). Ch 1 ~4490, Ch 3 ~4190; 0 em dashes.
+
+CH 1 JOURNEY RECOUNT + TECH REFINEMENT (2026-07-11): **Expanded Ch 1 to recount the whole journey**
+(the user's ask): **3 days by rail** out of Vethmark in a **crude, early, "barely arcane" steam train**
+("rattled the teeth… let the cold in at every seam"; "next to nothing of the arcane in it") → detrain
+at **Wainford** (the grain-and-cattle railhead) → **Snow out of the horse-box** → **4 more days on
+horseback** "into the green silence" → the village. Ch 1 now 4835 words (in band); 0 em dashes. **TECH
+REFINED on the page + in canon:** magic is **too rare to power infrastructure** — "magic does not come
+by the ton, it comes by the thimble, and dearly," so railways run on brute iron/coal with almost no
+magic; **artifice stays confined to small, precious, hand-made devices** (lumens). **Emlyn's
+device-making GIFT established:** an engineer-wizard (major talent + draftsman training) who makes far
+**better/smaller/refined** steam-and-artifice devices than the crude world-norm ("a man who cannot let
+a made thing alone"; "how much smaller and quieter and cleverer the whole of it could have been built,
+if the world had only had the magic to spare") — the lumen is the exemplar; limited only by the world's
+scarce magic. CONSISTENCY: the village/frontier chapters (Ch 2–7) are pre-industrial and already
+consistent — no rewrite needed (rare magic + no metropole tech on the page). State updated: story-bible
+(TECH bullet refined + new DEVICE-MAKING GIFT session-lock + cast + Ch 1 established record), geography
+(Wainford tech = crude/barely-arcane), outline (canon appendix).
+
 [09] Breaking Ground — **The first winter passes** (a brief bridge: the long white quiet, the lumen
 against the nights, Emlyn realizing his loneliness has quietly changed from hiding-from-a-life to the
 plain solitude of a man with work waiting) → **the THAW into spring Yr2**, and with it the money worry
@@ -347,7 +583,7 @@ not "next spring"); dropped "Old Harrow's place" (Harrow owned WOODLAND not bott
 farmhouse); softened Jorin so he doesn't name the grief outright (narrator infers); trimmed an unplanned
 "someone I loved" future-romance whisper to apprentice/guest (matches author's spec).
 
-PROLOGUE RE-REWRITTEN AS A POETIC JOURNAL NOTE: at the author's request ("make the
+PROLOGUE RE-REWRITTEN AS A POETIC JOURNAL NOTE (2026-07-11): at the author's request ("make the
 prologue a note from a later journal… keep it closer to earlier versions… it can be more poetic"),
 reverted the lean 213-word trim CLOSER to the earlier fuller version and reframed it as **"a note from
 one of the later journals"** (italic frame line) — a reflective, looking-back journal entry, now 542
@@ -365,7 +601,7 @@ bible) so it is NOT trimmed back toward the immediate-chapter voice in a future 
 a light touch even here ("in my old age," "when I go"). State updated: story-bible (POV lock + prologue
 ESTABLISHED description), SKILL #1.
 
-PROFESSIONAL-POLISH PASS: a line-edit pass over the whole manuscript at the author's
+PROFESSIONAL-POLISH PASS (2026-07-12): a line-edit pass over the whole manuscript at the author's
 request ("make sure the tone is at a professional author level — Terry Mancour-esque, following the
 guides"). Diagnosis: the voice's signature constructions had drifted from voice into MANNERISM by
 sheer frequency (measured: ", which is/was…" appositive tails 8–16 per chapter; "a good/great deal /
@@ -384,7 +620,7 @@ pretend ≤1 per chapter with distinct function. NEW DURABLE RULE added to the f
 **"Ration the signature tics"** with per-chapter ceilings, so future drafts self-catch. 0 em dashes;
 all counts in band.
 
-PROSE GUARDS BUILT INTO THE SKILL: converted the polish pass into standing controls so
+PROSE GUARDS BUILT INTO THE SKILL (2026-07-12): converted the polish pass into standing controls so
 it never needs repeating. **(1) `tools/prose-lint.sh`** — a mechanical guard run on every chapter
 before delivery (now a MANDATORY post-flight step in SKILL.md + checklist): **FAILs** (exit 1) on em/en
 dashes, memoir-frame phrases in chapters ("this account," "the tellers," "in a long life," etc. —
@@ -403,7 +639,7 @@ note). PROVEN ON FIRST RUN: the registry caught a real echo I'd missed ("grew st
 in both Ch3 and Ch9 — Ch9's varied to "had never grown a saleable thing in its life"). Full-manuscript
 lint now exits 0 with no FAILs.
 
-READER-FEEDBACK PASS: applied 5 reader notes + 1 tracked change from the app. PROLOGUE:
+READER-FEEDBACK PASS (2026-07-12): applied 5 reader notes + 1 tracked change from the app. PROLOGUE:
 (a) conditional reframe — "If I were to tell it true… That is who it would be about, and I would ask
 you to go easy on him"; (b) cut the essayistic "here is the truth / the shape is the thing" closing
 (tracked change; auto-resolved once the paragraph was gone); (c) "they are gone now, every one but me"
@@ -421,47 +657,122 @@ notes were anchored to superseded/lean text; intent mapped onto current versions
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
-[10] Walking the Bottoms — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
-the author's request; ALL later chapters shift +1 (book now ~32 ch). 2,050w, 62% dialogue. Emlyn cannot
-farm, so he goes to CAEL, who names HAL and BESS WRAY. The tenancy negotiation is now the chapter's
-spine as a two-hander (Hal: "There's a year's work in it before it gives you a bushel"; Bess from the
-doorway: "A fifth." and "Men find reasons," answered with the paper and Cael). They come across on one
-borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"; retitled to rhyme with Ch 2 "Walking the Bounds"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, beck end upward, and shows him rather than tells him — Tobin
-Hask's 6-acre strip through the middle of the best field, a widow's cottage corner, 4 meadow acres held
-by a stranger, and ~60 acres gone back to thistle because the only lane runs through a gate wired shut
-a decade ago over a forgotten quarrel. Hal does not ask him to fix it; he comes so Emlyn cannot later
-say he ploughed it badly. "It's a rare mess down there… You've the whole of it in one hand now." Emlyn
-says he'll look into it, puts it on a list, and DOES NOT TOUCH IT FOR EIGHTEEN MONTHS: "Hal had said
-people and I heard paperwork, and paperwork can wait, and people, as it turned out, had been waiting
-eleven years already." → Ch 17 (The Rent Book) rewritten to be a RECKONING rather than a discovery
-("there was nothing in it I had not been told"). Ch 9 keeps winter/thaw/money/barn/house and its Jorin
-house scene was opened out into dialogue (7%→36%). prose-lint clean.
+[01] The Hill Is Sold — Emlyn arrives with two wagons and a locked chest handled more carefully
+than anything else; Cael sells the hill with unseemly speed; first night on the crown, something
+below hearing hums. CLOSING IMAGE: the chest set against the cellar's northeast wall in lamplight,
+its lock untouched. NEW FACTS: spelling locked as [Ren/Wren]; Emlyn's arrival season = spring;
+Cael's unreadable expression flagged as a seed.
+-->
 
-PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
+---
 
-REFINE PASS 2 — COMPLETE (2026-07-14, verified fleet: cold reads Ch 6-10 + interlude + 3 cross-audits,
-adversarial verify on every finding; 40 raw → 36 confirmed, 4 refuted). ALL 36 APPLIED. Prose: Ch 6
-(2 seed-telegraphs cut incl. the Tomas + oak flags; clarity; 2 welds); Ch 7 (Kellard dup deduped;
-"the tales, when they mention the boy" memoir-frame recast; a parse fix); Interlude (premature
-"voices" reveal softened to protect Ch 10; oak head-hop → hill FEELS the oak; lamp-echo trim; footing
-sequence canon); Ch 8 (JOINER SCENE dramatized in dialogue; OPENING recast mid-scene to kill the
-Ch7-water-figure echo; 2 memoir trims; 2 welds; fortnight→month distance); Ch 9 (thesis-on-Wrays
-throughline cut; Jorin named-emotion cut; HAL WRAY given a line; handshake weld); Ch 10 (forty→thirty
-timeline; "this whole account turns on" memoir-frame recast; the "I would come to understand"
-telegraph paragraph tightened; referent-muddle clarity; keeper-leaf timing "in the autumn"→"a year
-they've been coming"; a weld). Canon-in-prose: Ch 4 thirty→twenty years commanding ground (+ ledger
-note); Ch 3 road no longer "gave up pretending to be a road". Docs: geography + bible townhouse text
-de-staled (modest/fond, not large/bleak); log Ren 17→16, interlude part-boundaries renumbered,
-next-to-write → Ch 11. OUTLINE (big): booked the buried theory SPINE's on-page delivery into Ch 21;
-made Ch 12 the CELLAR CUT (the cellar+chest were presupposed by Ch 20/21/22/28/29+logline+geography
-but never built) and added it to arc A. prose-lint: 0 FAILs; doc-audit clean.
+REVISION (2026-07-12 — Ch 1 river-house consolidation): the river-house material (which had grown
+to a glancing stopgap digression + a later "practical burden" return = told twice) is now **one
+consolidated passage**. It lands the plot beat sharply: **Penworth had already found a real buyer**
+"in the thaw" (closing set for spring) and **withheld it from his letter**, offering Emlyn the **hill
+instead** — the hill-errand being Penworth's **forcing lever** to get the unsellable, grief-laden
+house sold "out from under" Emlyn while he's away. Emlyn gave **"a yes to the looking and no better
+than half a yes to the rest,"** half-sees the maneuver, and doesn't mind being "pried loose." Kept the
+draftsman line ("I had drawn a good part of it myself…"). Story-bible updated (new BUYER & FORCING
+LEVER canon note + consolidated rendering note); buyer exists from Ch 1, closing lands next spring
+(economic/grief clock), only the *emotional clearing* is deferred. prose-lint: 0 FAILs.
 
-EDITORIAL-READ SKILL ADDITION (2026-07-14 — author: "when doing the adversarial read, act as an
-editor would; create a new skill portion for it"): added references/editorial-read.md — the editor
-persona + developmental read (does a scene earn its place, is the turn earned, where the reader
-disengages) that the mechanical rubric cannot see, plus the adversarial-verify-as-editor protocol
-(refute taste AND the rubber-stamp; bring the editor's own fix; flag what the finder missed).
-Wired into SKILL.md + feedback-engine.md; future workflow read/verify prompts invoke it.
+REVISION (2026-07-12 — Ch 1 father's house): the family townhouse Emlyn stays in is now framed as an
+**early work** — his father drew it before the firm took off ("more hope than trade"), a modest little
+house in a then-**unfashionable quarter** that has since **gentrified around it** ("gone dear and
+grand," fine houses rising to either side), so it's now "worth many times what it cost to raise" — "an
+honest word in an ornate sentence." It's small/modest but on now-valuable ground; the word "large" is
+dropped from its description. Story-bible townhouse note updated. prose-lint: 0 FAILs.
+
+REVISION (2026-07-13 — WOOD-FIRST obstacle arc, Ch 9): new author obstacle — the homestead
+outbuildings start in **TIMBER**, the hill pushes back as **ambiguous bad luck**, and the wood will
+**eventually burn** (timing TBD, "decide later") → **rebuild in stone.** Reconciliation chosen (Ch 5
+"Good" protected): the **Study stays STONE** (the hard-won room he did right), and the **barn + the Ch 9
+guest cabin are the WOOD builds** — cheap/fast under the loan note, against his own stone lesson (richer:
+he knew better). Ch 9 edits: added a **timber BARN** on the lower SW shoulder (with the ambiguous seed —
+**Snow never settles in it, uneasy at the hill's two hours**); the **cabin is now Maret's oak**, "the
+poor cheerful cousin" of the grey stone Study (no longer "looks kin"); Ren's gift shown in oak joinery
+"no more troubled by oak than by granite"; softened the future-role line to "a house on that shoulder
+ever since" (rebuild-safe). Latent irony already on the page: Ch 8's lumen "could not catch a barn afire." Hill stays
+**benevolent** (different axis from Cael's-father's masonry, which Emlyn solved by *asking*; wood simply
+doesn't endure / burns by ill luck). prose-lint: 0 FAILs, all tic budgets met. State updated
+(story-bible OBSTACLE ARC + PENDING PAYOFF; geography barn/cabin/build-arc + change-log).
+
+REVISION (2026-07-13 — SCARCITY RE-LOCK: talent, not magic; author: "Magic in this world is not
+lacking; the number of talented people are"): supersedes the "magic by the thimble" substance-scarcity
+framing wherever it appeared. New canon precision: **magic itself has no shortage and never has; the
+scarcity is PEOPLE born with the talent** (born, not made; the Academy sharpens but cannot create it).
+All world-economics consequences unchanged (crude barely-arcane trains, prized artifice, small Academy)
+but now caused by practitioner-count and practitioner-time. Ch 1 rail paragraph rewritten: "There is no
+shortage of magic in this world… What the world is short of is people who can work it"; "no sane man
+spends a wizard where a stoker will serve"; "if the world had only had the hands to spare for it."
+State re-locked: story-bible (bullet retitled TALENT IS RARE, NOT MAGIC + tech/device-gift/rarity-note
+lines), outline canon appendix, geography travel note, phrase-registry ("by the thimble" retired →
+"spends a wizard where a stoker will serve"). prose-lint: no new flags.
+
+FEEDBACK PASS (2026-07-14 export — 6 notes + 6 tracked changes, Prologue/Ch 1, all applied):
+TRACKED (verbatim): prologue "story of myself last night" (drop "again") + "They HAD made me…/the
+man they MADE"; Ch 1 stopgap drops "and nothing grander"; the inn is "the ONLY one in Ardenmoor to
+stand so tall"; Lira drops "a week" ("eating out of his saddlebags"); Cael intro sentence split
+("…older and grander in my head. He was a solid man…"). NOTES (drafted): (1) prologue "not on a boy"
+now SET UP — the legend paragraph gains the tale-boys passage ("They gave him a boyhood to match…
+No wizard in a taproom tale is ever allowed to have been merely a child"); (2) Penworth "had had"
+fixed ("the running of my whole tangled life had been his"); (3) townhouse-size mismatch swept —
+Ch 1 ¶13 now "a quiet Vethmark townhouse with the spare rooms closed and sheeted" (big-house wording
+cut) and Ch 3 "lived three years alone in his parents' house… quiet rooms… sheeted and still"
+(replaces "too large / great rooms"); (4) family home remembered FONDLY ("drawing-ink and my
+mother's baking… the one place that never once asked him to be anything more than he was");
+(5) train "a CRUDE, soot-breathing thing" (not "early"); (6) CAEL SPEECH REWRITten: he acts as
+VILLAGE ELDER speaking for the assembled families (why no haggling; "That part's done"), the live
+concern is outsider-buys-so-much suspicion ("the village sent me to come and look at you"),
+his personal reservation is the HILL ONLY, and the slate/tin buyers are compressed to one line.
+Engine: intake protocol run — "had had"/"that that" now a lint check; P4 setup rule sharpened
+(revision-orphaned dependents; canon changes sweep the book); gap logged (townhouse mismatch was a
+missed retro-sweep on the 07-12 modest-house retcon). prose-lint: prologue clean; Ch 1 which-tails
+DOWN 9→8 ("which is fair" removed); no new flags.
+
+SKILL + ENGINE REWORK & OUTLINE OVERHAUL (2026-07-14 — author: "audit the skill… rework the skill
+and self-learning engine… critical pass on outline"): (1) AUDIT found SKILL.md's drafting section
+still commanding the retired hard floor (fixed), plus live strays the new doc-audit caught in the
+bible and geography. (2) SELF-LEARNING MECHANIZED for the rulebook itself: tools/superseded.txt
+(registry of retired rule formulations, grown on every supersession) + tools/doc-audit.sh (greps
+all skill+state docs; run after any lock/canon change) — now part of the durable-feedback protocol.
+(3) OUTLINE FULLY REWRITTEN to the TWO-YEAR map (author answers): Parts II–IV re-seasoned onto Year
+2; ~29-chapter shape; Ch 1–9 marked drafted; SALE = money mid-book (~Ch 12), her things crated under
+Penworth's seal, clearing deferred to Book Two; FIRE = Ch 27, two before the finale (village
+rallies; winters back in the Study beside the chest; Cecily's letter in the aftermath; stone rebuild
+= Book Two); LIRA chapter = Ch 18 (Part III); tenants/harvest/note-payment beats added; ages span
+two years (Soren 9→11, Ren 16→18); Emlyn/fiancée naming corrected. (4) CRAFT DIALS locked (author
+picked all four): more dialogue, scene over summary, varied openings, one comic beat per chapter —
+style-guide SCENE CRAFT DIALS section + four new engine rules + SKILL.md drafting step. Name slates
+for Commonwealth/capital/academy delivered to the author (pick pending).
+
+NAMING LOCK (2026-07-14 — the author): the continent's single institution of magic is **THE
+CONCLAVE** — everyday shorthand "the Conclave," **formal long name "the Conclave of the Arts
+Arcane"** (documents, seals, letters). It is SCHOOL AND GOVERNING BODY IN ONE, seated in Vethmark;
+the separate "Academy" is MERGED into it and retired (superseded.txt grown; doc-audit clean).
+On-page: Ch 1's "The Academy sharpens it" → "The Conclave sharpens it." Emlyn trained and published
+at the Conclave; Drace is its official; Lira's letters go to its contact. Remaining [OPEN] names:
+the Commonwealth + its capital only.
+
+REFINE PASS — PARTIAL (2026-07-14, verified-fleet run hit the session usage cap after 6 of 44
+agents): the completed cold reads (Prologue + Ch 1-5) yielded 30 findings; I self-verified each
+against live text and applied 18 (the high-confidence, rule-aligned ones), skipped taste-level and
+canon-touching ones pending a verified pass. APPLIED: Prologue "my own legend"→"my own story"
+(not-famous canon). Ch 1: Soren-face telegraph planted blind ("there and gone"); "for reasons I
+will come to" cut; grief-letter logic fixed ("never had to open a second time"); hill throughline
+telegraph softened; "a board of my own"→"drafting work at a board of my own." Ch 2: oak telegraph +
+"I would not find those words for weeks" + "bless that spring a hundred times" all de-flagged;
+had-had cleared. Ch 3: memoir-frame "It is time I told you about the chest" cut; "I want that set
+down…" recast; had-had cleared. Ch 4: "can only half give you now" telegraph cut; thesis telegraph
+"the only idea that has ever mattered to me"→"and found one"; a run-on split. Ch 5: Ren-gift
+telegraph "frightened me… first time I saw it plainly" cut; "not for the last time" cut.
+✅ COMPLETED 2026-07-14 (verified fleet re-run, 48/49 agents; 40 findings, 36 confirmed, 4 refuted; all 36 applied — see REFINE PASS 2 below). [former pending:] cold reads of Ch 6, 7,
+07b, 8, 9; the three CROSS audits (continuity, outline-vs-draft, doc-consistency); adversarial
+verification of ALL findings (the 18 applied were self-verified, not fleet-verified). SKIPPED this
+round pending verification: prologue echo/purple/plural-grounding; Ch2 explained-silence (Lira) +
+Cael-clarity; Ch3 dramatize-quarryman-dialogue + Soren-name-bind; Ch4 dramatize-rain-rumor +
+oak-echo; Ch5 "boy's two words" callback (flagged high/canon — check the referent exists).
 
 [11] The Listener and the Singer — Late spring Yr2. Emlyn finally goes DOWN to Brenna's cottage
 (first villager's home the book enters) to read her grandmother's notebooks, spurred by the
@@ -477,7 +788,7 @@ beat on the walk back. CLOSING IMAGE: the first brown notebook set closed by the
 the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on Emlyn's north sill
 (dark red, fist-shaped, 3 weeks); Brenna's cottage interior + cold cellar established; keeper plant
 SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
-device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open). **REVISED 2026-07-15 : Brenna CALLS HIM OUT as shaken in the cellar** ("you've gone grey as that wall… I'll not be told it's nothing"); Emlyn stays cautious/silent, she respects the boundary but won't accept the lie, and he's glad of "the one person who will not let you get away with yourself." Candor stays PARTIAL/cautious.
+device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open). **REVISED 2026-07-15 (author fork): Brenna CALLS HIM OUT as shaken in the cellar** ("you've gone grey as that wall… I'll not be told it's nothing"); Emlyn stays cautious/silent, she respects the boundary but won't accept the lie, and he's glad of "the one person who will not let you get away with yourself." Candor stays PARTIAL/cautious.
 
 [12] What Tomas Carried — Early summer Yr2 (~15 mo elapsed). The CONFESSION chapter, a tight
 two-hander (1,908w). Emlyn comes to Tomas's forge at dusk for four brass lamp-collars (the lamp
@@ -516,7 +827,7 @@ cellar-NE; recording blank in cellar floor; river house sold (money mid-book, cr
 the hill asking nothing, letting him sleep (varies from Ch 11's dialogue close). BLIND-SEED PROBE: the
 keystone Ren/NE seed was STAGED in draft 1 (simile + triple-witness + "corner like the other three"
 false-reassurance) and REPLANTED flat; the overt instrument (blank) + the sold-house payoff correctly
-judged fine. Engine report archived. prose-lint: clean (one interior dialogue WARN, conscious keep). **REVISED 2026-07-15 :** (1) the DIG is now PEOPLED and warm — Ren protests the digging is too easy ("it's coming up like a cut cake"), Jorin rules "it's a dry crown," a fortnight of the best company Emlyn has kept in years, Jorin's history of every wall he built twice, beer on the crown at the end ("it's a hole" / "it's a very good hole"); the interior dialogue WARN is gone. (2) the SALE now LANDS before he shuts it away — the buyer's survey notes the upper east rooms unfinished, plaster only, because Arielle couldn't choose the paper one bright afternoon and said she'd know it when she saw it; "the better part of five years that plaster had stood bare"; he sits in the dark a good while, then signs. (3) Ren's NE pause is now slightly VISIBLE — Jorin looks up, a builder's look that "rested on the boy a beat past the length of the pause itself," then "Good," and nothing else comes of it (still unremarked by the narrator; seed stays blind). Fixed a canon slip introduced in revision ("nine years"→"the better part of five years").
+judged fine. Engine report archived. prose-lint: clean (one interior dialogue WARN, conscious keep). **REVISED 2026-07-15 (author forks B/B/B, 1,876→2,626w):** (1) the DIG is now PEOPLED and warm — Ren protests the digging is too easy ("it's coming up like a cut cake"), Jorin rules "it's a dry crown," a fortnight of the best company Emlyn has kept in years, Jorin's history of every wall he built twice, beer on the crown at the end ("it's a hole" / "it's a very good hole"); the interior dialogue WARN is gone. (2) the SALE now LANDS before he shuts it away — the buyer's survey notes the upper east rooms unfinished, plaster only, because Arielle couldn't choose the paper one bright afternoon and said she'd know it when she saw it; "the better part of five years that plaster had stood bare"; he sits in the dark a good while, then signs. (3) Ren's NE pause is now slightly VISIBLE — Jorin looks up, a builder's look that "rested on the boy a beat past the length of the pause itself," then "Good," and nothing else comes of it (still unremarked by the narrator; seed stays blind). Fixed a canon slip introduced in revision ("nine years"→"the better part of five years").
 
 [14] The Well Incident — Mid-summer Yr2 (~17 mo). ⚠️ FULLY REWRITTEN 2026-07-15 to the author's
 fork (make the talent LESS noticeable; Soren should NOT realize he has it). 2,220w. Kellard's near
@@ -570,6 +881,23 @@ was cut). And it does the new thing: it "says him back," saying Emlyn's shape in
 its own two ancient risings — "kept company in the dark for the first time in an age." (Renders Ch 14's
 "learning me" in the hill's wordless voice; does NOT state the twist.)
 
+[19] Steel and Glass — Late autumn → winter Yr2 (~21–23 mo). (Was 15, then 16, then 17.) PART III. **FLEECE PAYOFF ADDED 2026-07-15:** a three-day frost mid-glazing with bays still open and Brenna's stock already potted; **Ned Pardon comes up with a cart and ten fleeces** (the eleven years of unclaimed rent from Ch 16), refuses money ("They were always yours; I only kept them dry") and returns Emlyn's own refusal as a punchline ("You'll take the lot"); they pack the propagation house with wool and lose not one cutting. **⚠️ RESCALED + EXPANDED 2026-07-15 (author direction: make the greenhouse potentially bankrupting; 3,143→4,020w):** the house is now **160 ft × 5 bays**, up the road on **ELEVEN wagons**, the largest structure in the valley, financed by a **second borrowing secured on the hill** (Penworth's in-person caution moved to Ch 14). The harvest paid the note and the MATERIALS; **LABOUR was unfunded**, which is the problem this chapter now solves: Emlyn goes to Jorin's door to say he cannot afford him, and **JORIN turns it over** — nobody builds in that valley between frost and thaw, but **steel and glass do not care about frost**, so this is the first winter work his crew has ever had ("I have wanted a winter's work for my men for eleven years and you have just walked down my hill and offered me one"). Terms: winter rate, half weekly from lamp money, **half DEFERRED against the glasshouse's first two selling seasons, written and signed**; Ren on a man's wage; Tomas's ironmongery deferred; Kellard's cheap haulage. Jorin on the risk: "I'd sooner have [lost a winter's wages] than watch [you lose your hill] for want of asking." Jorin's verdict at the footings: **"Big for one man."** The GREENHOUSE (1,814w):
+an enchanted wrought-steel frame up the frontier road on four wagons, warded, glass hung over three
+weeks — the first thing on the hill the valley "could not pretend was ordinary." Meant as "the years'
+bread" (earns from the ground, not the bench), Brenna's trade + Emlyn's craft. Brenna plans the soil
+with him ("a cage for weather"; he feels "the junior partner in a trade I'd thought was mine") and
+reserves the cool north corner UNSPOKEN ("leave it, I'll tell you when" — BLIND, the keeper plant).
+"A glass house is an act of faith… you say to the winter: not these." GRIEF: the greenhouse unsettles
+a held breath → Emlyn commissions ESSA a real bed + chest and furnishes the bare bedchamber (a step
+toward staying); Essa: "you live in it like you're waiting to be told to leave." But the sticking desk
+drawer (the dimensional callipers + the unread river-house inventory) he LETS STAY STUCK ("I could have
+freed it… I let it stay stuck"; the callipers "another book, not this one" — RESERVED, opens Ch 27).
+CLOSING (image): the greenhouse full of faith; "It was enough, that autumn, to have built the bed. The
+drawer could keep." NEW FACTS: greenhouse built (geography, SE slope; north corner reserved); Brenna
+partnership formalized; Essa bed/chest (bedchamber furnished); callipers grief-object touched + held.
+Self-caught + cut an enumerate-and-promise close (twist-motif over-telegraph). Fixed a stale geography
+fact (chest Study→cellar). prose-lint clean.
+
 [16] Harvest Home — Early autumn Yr2 (~19 mo). ⚠️ NEW CHAPTER, and Ch 15/16 SWAPPED (2026-07-15,
 author's call) so cause precedes effect: Penworth's condition is no spade until the crop is sold, so
 the harvest must come before the build. 3,128w. The bottoms come in over NINE DAYS with the whole
@@ -584,7 +912,8 @@ great deal of time being wrong," because Hal cannot afford to be) → her verdic
 a job,"** and the table goes up. **THE TENTH PAID THOUGH NOT OWED:** Hal, in his rent-free year — "I'd
 rather be owed than obliged" — with Bess explaining it ("he'll not be beholden… let him be your tenant
 instead of your object of pity"); Emlyn enters it as paid early, NOT a gift, "because in twenty years…
-they'll want the paper to be honest." **THE CAVE FOUND :** walking back, REN goes into the scrub on the deeper-green east shelf and finds a low
+they'll want the paper to be honest." **THE CAVE FOUND (author's call: by the BUILDERS, and it starts
+as a cave):** walking back, REN goes into the scrub on the deeper-green east shelf and finds a low
 hazel-screened hole; JORIN puts his head in and comes out changed — **"That's not a badger hole. That's
 a room."** ~4 paces × 3, dry, standing height; the storehouse will be built on it, saving "a season and
 a fortune both." Ren: "It's a good place" (BLIND; not a builder's remark; Emlyn notices, says nothing).
@@ -597,7 +926,7 @@ Second payment made in full and on the day. What was left = almost exactly the g
 After paying it: **eleven silver and some copper** and a half-finished lamp order. NOTHING for LABOUR. CLOSING (dialogue):
 Jorin on the pegged-out slope, **"And who's setting it?"** prose-lint clean (2 welds split).
 
-[17] The Rent Book — Autumn (October) Yr2 (~20 mo). ⚠️ NEW CHAPTER ; all
+[17] The Rent Book — Autumn (October) Yr2 (~20 mo). ⚠️ NEW CHAPTER (author's call 2026-07-15); all
 chapters after it shift +1. 3,314w. Penworth's one-line letter forces Emlyn to find out who is actually
 living on the land he bought eighteen months ago. He reads his own deeds and finds **a jigsaw with
 pieces missing and other men's pieces in the box**: a 6-acre strip through the middle of the Wrays'
@@ -632,7 +961,7 @@ it?"** (moved here from Ch 15). NEW FACTS: five named occupiers; the consolidati
 "nobody is to be worse off"; the Hask moral debit. prose-lint clean.
 
 [18] Nobody Worse Off — Late October → November Yr2 (~20–21 mo). SPLIT from The Rent Book 2026-07-15
-; 2,253w. The notebook proves worth more than the arrears. With **no money to buy anyone
+(author's call); 2,253w. The notebook proves worth more than the arrears. With **no money to buy anyone
 out**, the only currencies are land, time and forgiven rents, so Emlyn makes one rule and says it aloud
 to everyone so they can hold him to it: **nobody is to be worse off.** Hal Wray consulted first
 ("There's ways to make a man deal that aren't asking." / "My last landlord knew a few of them.").
@@ -643,22 +972,55 @@ refuses to absolve himself. THE GIFT: **TAM WRAY, 17**, twenty-four acres in his
 account; Hal: **"He's better than me."** Schedule to Penworth; his one-line reply. CLOSING (dialogue):
 Jorin on the pegged slope, **"And who's setting it?"** prose-lint clean.
 
-[19] Steel and Glass — Late autumn → winter Yr2 (~21–23 mo). (Was 15, then 16, then 17.) PART III. **FLEECE PAYOFF ADDED 2026-07-15:** a three-day frost mid-glazing with bays still open and Brenna's stock already potted; **Ned Pardon comes up with a cart and ten fleeces** (the eleven years of unclaimed rent from Ch 16), refuses money ("They were always yours; I only kept them dry") and returns Emlyn's own refusal as a punchline ("You'll take the lot"); they pack the propagation house with wool and lose not one cutting. **⚠️ RESCALED + EXPANDED 2026-07-15 :** the house is now **160 ft × 5 bays**, up the road on **ELEVEN wagons**, the largest structure in the valley, financed by a **second borrowing secured on the hill** (Penworth's in-person caution moved to Ch 14). The harvest paid the note and the MATERIALS; **LABOUR was unfunded**, which is the problem this chapter now solves: Emlyn goes to Jorin's door to say he cannot afford him, and **JORIN turns it over** — nobody builds in that valley between frost and thaw, but **steel and glass do not care about frost**, so this is the first winter work his crew has ever had ("I have wanted a winter's work for my men for eleven years and you have just walked down my hill and offered me one"). Terms: winter rate, half weekly from lamp money, **half DEFERRED against the glasshouse's first two selling seasons, written and signed**; Ren on a man's wage; Tomas's ironmongery deferred; Kellard's cheap haulage. Jorin on the risk: "I'd sooner have [lost a winter's wages] than watch [you lose your hill] for want of asking." Jorin's verdict at the footings: **"Big for one man."** The GREENHOUSE (1,814w):
-an enchanted wrought-steel frame up the frontier road on four wagons, warded, glass hung over three
-weeks — the first thing on the hill the valley "could not pretend was ordinary." Meant as "the years'
-bread" (earns from the ground, not the bench), Brenna's trade + Emlyn's craft. Brenna plans the soil
-with him ("a cage for weather"; he feels "the junior partner in a trade I'd thought was mine") and
-reserves the cool north corner UNSPOKEN ("leave it, I'll tell you when" — BLIND, the keeper plant).
-"A glass house is an act of faith… you say to the winter: not these." GRIEF: the greenhouse unsettles
-a held breath → Emlyn commissions ESSA a real bed + chest and furnishes the bare bedchamber (a step
-toward staying); Essa: "you live in it like you're waiting to be told to leave." But the sticking desk
-drawer (the dimensional callipers + the unread river-house inventory) he LETS STAY STUCK ("I could have
-freed it… I let it stay stuck"; the callipers "another book, not this one" — RESERVED, opens Ch 27).
-CLOSING (image): the greenhouse full of faith; "It was enough, that autumn, to have built the bed. The
-drawer could keep." NEW FACTS: greenhouse built (geography, SE slope; north corner reserved); Brenna
-partnership formalized; Essa bed/chest (bedchamber furnished); callipers grief-object touched + held.
-Self-caught + cut an enumerate-and-promise close (twist-motif over-telegraph). Fixed a stale geography
-fact (chest Study→cellar). prose-lint clean.
+[10] Walking the Bottoms — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
+the author's request; ALL later chapters shift +1 (book now ~32 ch). 2,050w, 62% dialogue. Emlyn cannot
+farm, so he goes to CAEL, who names HAL and BESS WRAY. The tenancy negotiation is now the chapter's
+spine as a two-hander (Hal: "There's a year's work in it before it gives you a bushel"; Bess from the
+doorway: "A fifth." and "Men find reasons," answered with the paper and Cael). They come across on one
+borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"; retitled to rhyme with Ch 2 "Walking the Bounds"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, beck end upward, and shows him rather than tells him — Tobin
+Hask's 6-acre strip through the middle of the best field, a widow's cottage corner, 4 meadow acres held
+by a stranger, and ~60 acres gone back to thistle because the only lane runs through a gate wired shut
+a decade ago over a forgotten quarrel. Hal does not ask him to fix it; he comes so Emlyn cannot later
+say he ploughed it badly. "It's a rare mess down there… You've the whole of it in one hand now." Emlyn
+says he'll look into it, puts it on a list, and DOES NOT TOUCH IT FOR EIGHTEEN MONTHS: "Hal had said
+people and I heard paperwork, and paperwork can wait, and people, as it turned out, had been waiting
+eleven years already." → Ch 17 (The Rent Book) rewritten to be a RECKONING rather than a discovery
+("there was nothing in it I had not been told"). Ch 9 keeps winter/thaw/money/barn/house and its Jorin
+house scene was opened out into dialogue (7%→36%). prose-lint clean.
+
+PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
+
+REFINE PASS 2 — COMPLETE (2026-07-14, verified fleet: cold reads Ch 6-10 + interlude + 3 cross-audits,
+adversarial verify on every finding; 40 raw → 36 confirmed, 4 refuted). ALL 36 APPLIED. Prose: Ch 6
+(2 seed-telegraphs cut incl. the Tomas + oak flags; clarity; 2 welds); Ch 7 (Kellard dup deduped;
+"the tales, when they mention the boy" memoir-frame recast; a parse fix); Interlude (premature
+"voices" reveal softened to protect Ch 10; oak head-hop → hill FEELS the oak; lamp-echo trim; footing
+sequence canon); Ch 8 (JOINER SCENE dramatized in dialogue; OPENING recast mid-scene to kill the
+Ch7-water-figure echo; 2 memoir trims; 2 welds; fortnight→month distance); Ch 9 (thesis-on-Wrays
+throughline cut; Jorin named-emotion cut; HAL WRAY given a line; handshake weld); Ch 10 (forty→thirty
+timeline; "this whole account turns on" memoir-frame recast; the "I would come to understand"
+telegraph paragraph tightened; referent-muddle clarity; keeper-leaf timing "in the autumn"→"a year
+they've been coming"; a weld). Canon-in-prose: Ch 4 thirty→twenty years commanding ground (+ ledger
+note); Ch 3 road no longer "gave up pretending to be a road". Docs: geography + bible townhouse text
+de-staled (modest/fond, not large/bleak); log Ren 17→16, interlude part-boundaries renumbered,
+next-to-write → Ch 11. OUTLINE (big): booked the buried theory SPINE's on-page delivery into Ch 21;
+made Ch 12 the CELLAR CUT (the cellar+chest were presupposed by Ch 20/21/22/28/29+logline+geography
+but never built) and added it to arc A. prose-lint: 0 FAILs; doc-audit clean.
+
+EDITORIAL-READ SKILL ADDITION (2026-07-14 — author: "when doing the adversarial read, act as an
+editor would; create a new skill portion for it"): added references/editorial-read.md — the editor
+persona + developmental read (does a scene earn its place, is the turn earned, where the reader
+disengages) that the mechanical rubric cannot see, plus the adversarial-verify-as-editor protocol
+(refute taste AND the rubber-stamp; bring the editor's own fix; flag what the finder missed).
+Wired into SKILL.md + feedback-engine.md; future workflow read/verify prompts invoke it.
+
+## PART BOUNDARIES (insert interludes here when reached)
+
+- End of Part I (after Ch 7): **Interlude I** — the hill feels a weight settle on its crown.
+- End of Part II (after Ch 14): **Interlude II** — the hill says the shape of him back to the dark.
+- End of Part III (after Ch 22): **Interlude III** — two small weights and the great one; it
+  practices a word it has no mouth for.
+- End of Part IV (after Ch 29): **Interlude IV / Coda** — one line: *at last.*
 
 [20] THE WAY DOWN (spring Yr3, ~2,050w) — Emlyn, cash poor (glasshouse coin goes to Jorin's deferred
 wages first), lays a stone FOOTPATH alone down the hill to the lane's foot: Edran's waste flags
@@ -669,7 +1031,6 @@ the lane's foot ("That's not a wizard's path up a hill. That's a way down. To th
 jug refilled unasked, "I'll mention it to Cael" = a vote cast without acknowledging it was a vote.
 CLOSE: the Wednesday boy arrives at a dead run, dry-shod, first traveler. NEW FACTS: glasshouse
 selling small (early salads local; potted stock out via Kellard); deferred wages being paid down.
-
 [21] LETTERS GOING BOTH WAYS (late spring Yr3, ~1,950w; THIRD-PERSON LIRA, reader-superior) — the
 two ledgers (inn's tall book; the small plain book of the valley incl. the lone entry "The boy.");
 her quarterly report to the office built around "Nothing unusual requires anyone's attention";
@@ -679,7 +1040,6 @@ the valley by what she omits. Packet of old letters tied in bootlace under the l
 the office's proper seal, unexplained (Book Two). NEW: mail twice a week now (Wenn the carrier);
 Thursday's bag holds a letter to EMLYN under the office's PROPER seal (tower and open book) —
 reader knows before Emlyn. CLOSE: "Letters going both ways now," entered in the small book.
-
 [22] EVEN (late spring Yr3, ~1,600w; forge two-hander) — twenty housing sets commissioned IN
 WRITING against the patent money (Penworth's paper says marks and quarter-days; register beat);
 Tomas reads the whole paper, squares it to the bench edge. Emlyn GIFTS a Series lamp, outside all
@@ -699,7 +1059,6 @@ interested." Filed unanswered ("puts it where he can hear it breathing"). REN'S 
 COMMISSION: sent to the quarry alone with the stone order ("Boy's ready."), returns half a mark
 under Jorin's expected price. CLOSE: doorway line, "He felt something in that cellar. During the
 build. Hasn't said what." NO reaction on page.
-
 [24] THE READING (spring new moon, predawn; ~2,400w; DRY INSTRUMENT REGISTER per 8A) — grandmother's
 late volume reaches her FULL THEORY ("The song is for something that is not here... Somebody
 will."), copied fair, dated in her year and his. The cellar reading, palm to crystal, three hours
@@ -723,13 +1082,11 @@ downward-flowing lines toward the bottom edge (a signature with a DIRECTION; non
 the shape stays in the cellar; Emlyn answers for it). CLOSE: Soren's unprompted drawing under a
 pebble on the doorstone: hill, glasshouse, the way, the storehouse FINISHED, and a TOWER on the
 crown, captioned "the hill's good place."
-
 [25b] INTERLUDE III (~330w) — the hill knows the two small weights apart (one hears and holds like
 the oak; the root-boy takes the sound down through himself and returns it changed, iron and cut
 timber and a straightness). It answers the small blunt tooth of steel twice over. Nightly, toward
 the dry corner, it practices the shape of a word it has no mouth for, building with the great
 weight's learned lines, and keeps its count.
-
 [26] KEEPING THE PROMISE (a week after the reading, ~1,900w) — the promise's letter ("when I know
 what it is") vs its truth (company). Emlyn brings TOMAS up the way at the fall of the light, first
 time on the crown; hat off by old habit; the dusk pulse stood inside, together. "Louder up here."
@@ -749,7 +1106,6 @@ evening, good coat, family table, mother in the doorway: the plain asking (five-
 conditions named, no wrong answer). REN: "Yes. I've been answering it for a year. I'd like to
 know what I'm saying." Jorin bows his head over his own table one breath. Ceremony deferred to
 the storehouse's finish (he finishes what he builds); paper to Penworth later.
-
 [28] THE KEEPER PLANT (first cold of autumn Yr3, ~2,450w) — Brenna's turn-of-year ruling honored
 ("held a winter... I'll want a summer too"); house PROVED both ways; Jorin's deferred wages paid
 OUT ENTIRE, first unbracketed figure on Penworth's column. The planting: her grandmother's trowel,
@@ -772,7 +1128,6 @@ Ren pushes (glare with a flinch; the housing's thin unhappy note), told "Stop pu
 for passage," lays his will down: the light comes up like morning. "It's holding itself. I
 only... asked." / "That's the trade. The rest is penmanship." THE LAMP LEFT BURNING on the bench
 (→ Ch 32 final image).
-
 [30] THE FIRE (early winter Yr3, ~2,900w) — dry month, SW wind; wakes to SNOW SCREAMING (four
 years of unease paid off as alarm; hindsight only). Barn goes "like a struck match" (roar not
 crackle); Snow saved at the box (Tomas's bar comes free clean); spark-river uphill takes the
@@ -808,7 +1163,6 @@ as garrison-of-one vs. the letter that KNOCKS ("You do not tell a grief what to 
 The last light in the valley = his lumen. THE KEY given true: never metal; one question ("Are you
 ready to be answerable for what you keep?"), carried three years, never once held steady until
 now. Down the stairs; letter laid beside the lamp; both hands flat on the chest; "I asked."
-
 [32] THE NEEDLE (solstice night → deepest predawn pulse, ~2,000w) — the lock ends "the way a held
 breath ends." The chest: cedar, paper, linen-press air; NOT inventoried ("the inventory of a man's
 sealed grief is his own"); "It had all been alive in there... I had been, it turned out, keeping
@@ -823,7 +1177,6 @@ compass. It had been waiting for someone to notice the door." FINAL IMAGE (per o
 flowering at the vent; the apprentice's first lamp burning in the hill-cut dark "as it burns
 tonight"; the needle pointing down, "quivering very slightly, the way a thing quivers when it is
 not finished, but beginning."
-
 [32b] INTERLUDE IV + CODA (~300w) — the hill: the word comes right; the bright thing answers the
 one way it was ever going to answer: "Down." "*At last.*" THEN the frame's last page ("From the
 same later journal"): the 1B REVEAL in one warm clause — the whole book has been told to SOREN
@@ -831,192 +1184,79 @@ same later journal"): the 1B REVEAL in one warm clause — the whole book has be
 with the door ("the beginning is a bowl of soup"); "Set the kettle on, Soren. The rest wants
 telling by the fire." BOOK ONE COMPLETE.
 
-[I1] Interlude I (between Ch 7 and Ch 8) — FIRST interlude, **third person, the hill's wordless
-POV** (504 words). The hill "does not keep years"; it keeps the slow grain and its two risings
-(dusk + predawn). Weights have crossed its crown before: rain, beasts, and once "a weight that
-pushed" (Cael's father's stone) which it loosened with frost and gave back "over a season" ("neither
-triumph nor sorrow, only the grain having its way"). THIS weight (Emlyn) is different: it did not
-push, it **asked**, and the hill "had not been asked in longer than the old one in the wood has
-stood," and it "turned toward it, the way roots turn toward water." It knows the weight's edges now:
-a smaller grave weight that lays a bare hand on the stone (Soren) and "goes very still"; a light that
-"drinks the fall-of-light rising and gives it back gentled" (the lumen). The old oak, far off, "feels
-the hill go quiet in a new way, and holds still, and waits, as it has always waited." CLOSING: the
-hill settles the weight deeper and holds it; "the grain has changed its lie… and it will not change
-back." NO twist stated; no named emotions; fragments allowed (interlude license). Reader-superior:
-we see the hill notice/turn-toward, which Emlyn only suspects. Do NOT let later interludes state the
-door/compass twist (reserved for the Ch-28 payoff + Interlude IV coda "at last").
 
-POV REWRITE — SPELLMONGER HYBRID: at the author's request ("more in line with Terry
-Mancour's Spellmonger… follows the main character but isn't wholly in his voice… changes perspective
-per chapter… we can do interludes"), converted the book's POV doctrine. **Emlyn 1st person / others
-+ interludes 3rd person**, chosen by the author; rewrite-all chosen. Applied a **framing pass to the
-Prologue + Ch 1–8**: kept first person, the blended voice, every beat/canon/line of dialogue, and the
-no-em-dash rule; REMOVED the ancient-chronicler / immortal-deep-time / famous-legend / self-conscious-
-memoir framing (softened "in a long life"→"in my time / over the years"; cut "the tellers have hung
-on that morning," "I have promised you an honest accounting," "work that shook kingdoms"→"work that
-clever men still argue over," "before the account gets loud"→"before things get loud," "in this
-account"→"that happened to me on that hill," "the furniture of the tales"→"the furniture a story
-would give it"). KEPT Mancour's ordinary near-hindsight ("I did not know then," "for reasons I will
-come to") and the faint younger-than-his-years hint (Ch 1). The **Prologue was rewritten** lean and
-immediate (459→213 words): drops the "I've reached the age to write things down / everyone is gone /
-not a man they sing about / half-myth tales" memoir apparatus; keeps "no wonder, no boy, only a man
-at the tired end of a bad few years," adds a warm forward close ("how a hill nothing would stand on
-came to hold a tower, and how the man who built it there got, without ever quite meaning to, a life
-back"). General "magic is less flashy than the stories" asides ("whatever the tales tell you") were
-KEPT (they don't invoke Emlyn's personal legend). All 8 chapters still clear the 3,500 floor; 0 em
-dashes. Skill files updated: SESSION-LOCKED #1 & #3, style-guide POV section + interludes, voice guide
-(POV/frame blocks), feedback-engine P5 (new POV check), outline POV & Structure, and this log.
+## CORRECTIONS APPENDIX — 2026-07-29
+Cold read (4 agents) applied in full under the auto-resolve directive; reader feedback round 3
+(Prologue + Ch 3-6) applied same session. Where the recaps above conflict with these entries, the
+entries govern: Ch 30 is "A Dry Month" (opens on the waking; Cecily section relocated); Ch 31
+carries the compressed Cecily block + arson-declined beat + six-year grief arithmetic; Ch 32
+ends undecoded on the needle; coda says "an old fool," header "From a later journal"; prologue
+frame reverted to the conditional "Perhaps" version, epigraph cut; Soren's Ch 4 line is "You've
+started."; Ch 6 lamp development is failures → follower → cistern-and-ring. Ages on the page:
+Ren 18, Soren 12 (articles autumn). See story-bible CORRECTIONS block for the full list.
 
-FINANCE & ORIGIN CONSTRAINT: at the author's request, added a load-bearing economic
-constraint so Emlyn is NOT infinitely rich and cannot just buy everything. New canon (see the
-FINANCES & ORIGINS session-lock in the story bible): **only child; father an architect (owned a
-small firm); Emlyn trained as a draftsman before his talent** (funded his schooling; roots his eye
-for structure). **Two Vethmark homes:** the inherited **family townhouse** (kept; = the "dust-
-sheeted" house of Ch 1) and the grander **wedding-gift "river house"** (his fiancée's; the untouched
-"her rooms"), which **Penworth forces him to sell** as the primary capital. Purchase is **finite & leveraged**:
-river-house sale (down payment) + a **loan on old licensed patents** + appreciated investments; he
-comes out "with little behind me and a note to answer twice a year," so the **farmland tenancies
-and the practice must make the place pay** (the real engine behind building one room at a time).
-Talent-slowed aging now explains **parents-gone-but-he-looks-young** (offstage). The river-house sale
-COMPLETES in **spring** (grief deferred → finale/Book Two: clear her rooms, retrieve the third
-spellbook). SEEDED into the manuscript: **Ch 1** gained a paragraph (father "drew houses," Emlyn
-"learned the drawing at his elbow," the inherited family house vs the untouched river house, Penworth
-pressing the sale, the money aimed at "a hill"); **Ch 3** gained a paragraph (the purchase finite &
-leveraged: cheap land, sale + patent-loan + grown holdings, and the grief-thaw button "for the first
-time in three years, interested").
+## PASS 5 APPLIED — 2026-07-31 (fix document + Soren-household author fork)
 
-REFINEMENT (2026-07-11, same day): **RELATIONSHIP RE-LOCKED to ENGAGED, not married** (author reversed
-the earlier "married/widower"). Arielle was his **FIANCÉE**; the **river house was his WEDDING GIFT**,
-chosen together ahead of the wedding; **she died before the wedding**, so he **never lived there** —
-a grand, half-made, never-inhabited house he can neither enter nor sell, dead capital and pure grief,
-until Penworth (a friend) forces the sale to pull him out of the slump. Also added a **LOAN GRACE
-PERIOD**: nothing falls due for ~the first year (a full turn of seasons), which is the book's
-**economic clock** — he must get **tenants into the bottoms** and the **practice earning** before the
-note comes due (placing tenants is now a live mid-book to-do); the spring river-house sale pays down
-principal. PROSE UPDATED: Ch 1's river-house lines rewritten to fiancée / wedding-gift / never-lived-in
-/ dead-capital (discreet, no name); Ch 3's financing rewritten to the grace-period/tenants clock
-(replaced "a note twice a year" with "a debt I would begin to answer for in a year's time… I would
-need this hill to be earning… tenants… the trade would have to come"). The PAGE never said
-wife/married (stayed discreet), so the reversal cost no other prose. No existing beat broken; 0 em
-dashes. State re-updated: story-bible (session-lock, ledger, cast, locked-canon) + outline + geography
-all now say fiancée / wedding-gift / grace period.
+**Soren's household (canon revision).** Mira removed from the book entirely (verified: zero
+occurrences). Soren's mother, Cael's only daughter, died the night he was born and is UNNAMED on the
+page; his father is unknown/gone, closed by the valley long before Emlyn arrived; Cael has been the
+sole household from the first hour. Ch 14's "Gets that off his mother" KEPT verbatim, now Cael of his
+dead daughter. Ch 19/30 bolster reassigned to Bess Wray, sent UP with Tam (the Wrays are below the
+hill; the drafted "sent down" was a direction error).
 
-REFINEMENT 2 (2026-07-11, same day — the firm & the two houses' rhyme): (a) **Emlyn RETAINS his late
-father's share of the architecture firm** the father founded, which still operates — a modest steady
-income he doesn't run (borrowable against; Penworth-managed). Does NOT sell it. (b) **The river house
-was designed by that same firm**, which Emlyn commissioned as a **grander, costlier echo of the
-family townhouse his father had designed for his MOTHER** ("the same lines… swollen to twice the
-scale and three times the cost, ornament laid on ornament") — this is WHY it's so ornate/overstated,
-and it makes the two houses RHYME (the modest real one his father made for his mother, now Emlyn's
-lived-in refuge; the grand never-lived-in one Emlyn made for his fiancée). (c) **The river house is a
-money pit** — "a small fortune a year in the bare keeping of a grand thing that nobody used," the
-drain especially galling because unoccupied; **Penworth pushes the sale for BOTH reasons** (the purse
-AND, mainly, the emotional weight of a never-used monument). PROSE: Ch 1's seed split into TWO
-paragraphs and enriched (father's firm still standing + Emlyn's share; the family home the father made
-for the mother; the river house a grander echo commissioned from the firm; the upkeep drain; Penworth
-pushing "for the sake of my purse and… the rest of me"). Ch 3's income list gained "my father's firm
-that went on quietly paying its small partner's share into an account I never opened." State: story-
-bible (finances session-lock, ledger, pending payoffs) updated.
+⚠️ **Wednesday is NOT a weekly court.** The drafted fork made it a standing noon-to-dark session,
+which contradicts Cael's own locked Ch 1 line, "on the rare occasion they're held I lead our parish
+meetings." Resolved as the day he KEEPS for the parish, used when there is business: "Not that the
+parish always wanted him; whole months went by with nothing brought at all."
 
-SETTING & POLITY: established the world frame (see the SETTING & POLITY block in the
-story bible). **The realm is a COMMONWEALTH governed by a ruling council** (not a monarchy — the page
-has no king/crown/lord; confirmed), politics kept light/offstage (cozy). Remote land held under **old
-commons / parish / allodial "old land"** (the precedent for the cheaply-assembled Ardenmoor holding).
-**VETHMARK = the dense urban magical-academic center** (the University/Academy where Emlyn trained &
-published; **seat of the Conclave**; banking seat; his origin) — **NOT the political capital** (which
-is elsewhere, offstage). **ARDENMOOR = a deep, remote, undeveloped forest/agricultural frontier of the
-Commonwealth** — the reason the land is cheap and the region untapped. DISTANCE: kept the page's
-**4 days' ride** (Ch 3/Ch 8), framed as far frontier (a fortnight for wagons/foot — consistent with the
-established fortnight wagon-wait); **magical travel-acceleration exists** as canon (costly art of the
-well-connected; the fast way; how Emlyn makes the spring journey) but is NOT retro-fit into the mundane
-Ch 1 arrival ("I let Snow set the pace, which was slow" — the slow way by choice). PROSE: Ch 3's cheap-
-land sentence expanded to seed the remoteness + old-commons tenure + names **"the Commonwealth"** once
-on the page. Proper names for the Commonwealth, its capital, and the academy are **[OPEN]** for the
-author. State updated: story-bible (new SETTING & POLITY section + Conclave/academy cross-ref),
-geography (Beyond the Valley rewritten + distances + OPEN names + change log), outline (canon appendix).
-⚠️ Flagged to author: preserved the 4-day figure to protect the Ch 1 arrival; can lengthen the literal
-distance with light Ch 1/3/8 edits if wanted.
+**Fix document, applied with three modifications:**
+- FIX 1 (Hask's third visit staged, ~430w) — applied. "Thirty years" softened to an unfixed distance
+  ("I have never since been able", "I have had years to find one"), because the book never fixes the
+  frame distance and "thirty years" already carries Brenna's notebooks and the keeper plant.
+- FIX 2 (Ch 30's 634-word block re-broken) — applied, and the flourish in the drafted ratifying
+  clause was trimmed to "and I set it down here in the order it came." Breaking it surfaced a
+  SECOND wall paragraph (470w, the cause-never-settled block, created in the 2026-07-29 restructure);
+  broken at its two joints. Ch 30 now passes craft-check clean.
+- FIX 3a/3b/3c (terse-word glosses rationed) — applied as drafted. "I have never improved on it" now
+  belongs to Ch 24 alone.
+- FIX 4 (plant the name at the midpoint) — applied, but NOT in Nell's line. "Emlyn" goes to Bess
+  Wray at the same supper: "So take it, Emlyn, and let him be your tenant instead of your object of
+  pity." Keeps the book's most quotable line intact and lands the name at the reciprocity beat,
+  in the mouth of the character who cuts ceremony.
+- FIX 5 (bank the unsigned hand in the coda) — applied with a continuity correction: the drafted
+  line put the LETTERS in the sticking drawer, but they went to Cecily for tracing. It is her REPORT
+  that Ch 31 puts in that drawer, so the coda now says so.
 
-MAGIC RARITY + VETHMARK RE-FRAME: **Magic is now canonically RARE.** Practitioners are
-uncommon and getting rarer — **major talents (Emlyn) very rare**, **minor talents (Penworth) uncommon**
-but a real professional EDGE (why a minor talent like Penworth is so formidable). So magic is a **rare,
-PRIZED craft practiced by very few** (a country wizard is a marvel; the lumens are wonders) — the
-Mancour/Spellmonger "real commercial practice" stays, but it is precious, NOT commonplace. Because
-magic is rare, the **academy/Conclave is SMALL** and there is essentially **one center of magical study
-for the whole continent.** ⚠️ This **REVISES** the earlier "Vethmark built around the academy": **Vethmark
-is now a major city of commerce/industry and a regional seat of power** (a principal Commonwealth city,
-the banking seat, Emlyn's origin), big because of trade — that HOSTS the one small continental academy +
-the Conclave's seat, located there **because Vethmark is a major hub** ("why they chose this one spot").
-NOT the political capital. Distance RE-EVALUATED: the 4-day ride still holds and reads even better now
-as "a great city and its far frontier backwater." NO prose changes needed (nothing on the page called
-Vethmark an academy town or implied common magic; the village's wary "you'll be the wizard, then" fits
-rare magic and is reinforced). State updated: story-bible (MAGIC IS RARE bullet + Vethmark bullet
-rewritten + Magic-rules + Penworth cast + distance note), geography (Vethmark entry), outline (canon
-appendix), voice guide ("rare & prized" qualifier on the commercial-practice note).
+Book: 112,623 words. Zero lint FAILs, zero em dashes across all 37 files.
 
-RAILWAYS + DISTANCE REVISION (2026-07-11, supersedes the "4 days' ride to Vethmark"): the world now
-has **RAILWAYS** (the developed Commonwealth is industrializing; Vethmark is on the network). **Vethmark
-↔ Ardenmoor is now ~A WEEK'S TRAVEL: 3 days by TRAIN to the railhead ("the last station," where the
-line gives out) + 4 days' RIDE on horseback through roadless frontier past it.** Ardenmoor lies
-**BEYOND THE END OF THE RAILWAY** — now the deepest reason the land is cheap/undeveloped ("Land the
-rails have reached is land somebody wants. This was the other kind."). The **village stays
-pre-industrial/cozy** (trains belong to the metropole Emlyn left); tech split = industrializing
-metropole ↔ pre-industrial frontier. **Magical travel-acceleration (added earlier same day) is
-RETIRED** — with magic rare + railways, the train is the fast way. PROSE REVISED on the page: **Ch 1**
-gained "The railway had set me down four days back, at the last station on a line that gave out… exactly
-where the paying traffic did, and from there I had gone on by horse into a country the rails had never
-troubled to reach" (arrival = rail + 4-day horse leg, placed a few paras in so the pastoral opening
-holds); **Ch 3** "four days' ride away" → "a week of road and rail away," and the cheap-land seed
-rebuilt on the beyond-the-rails model ("three days on the railway to the end of the line… then four days
-more on horseback"); **Ch 8** "a city four days off" → "a city a week's road and rail away." The
-"four days" now on the page = the horse leg from the railhead (not the Vethmark distance). Goods still
-come by wagon up the frontier road (rail → railhead → wagons; the fortnight goods-wait holds). Counts:
-Ch 1 4455, Ch 3 4190, Ch 8 4050; 0 em dashes. State updated: story-bible (RAILWAYS bullet + revised
-DISTANCE bullet + retired acceleration + ledger), geography (Vethmark rail + new railhead entry +
-DISTANCES + Beyond-the-Valley bullet + OPEN names + change log), outline (canon appendix). The
-**railhead town** is [OPEN] (unnamed on the page: "the last station").
+## STORYCRAFT PASS — PART I (Ch 00-07b), 2026-07-31
+Mode: revision in place. Story latitude: fully open (no structural change proved necessary in
+Part I; none made). Covenants: strong guidance, unlocked.
 
-WAINFORD (the railhead town) + TECH CLARIFIED: named and built the railhead town —
-**WAINFORD** (wain = farm wagon + ford = river crossing): the **terminus where the rail ends at the
-edge of settled country, 4 days' ride from Ardenmoor**, a **rail port for agriculture** (grain/cattle
-onto trains), on a **river** (supports a future barge service). **TECH CLARIFIED: the world runs on
-STEAM + a SMALL amount of ARTIFICE** (rare magical devices; magic is rare, so artifice is a prized
-niche — Emlyn's lumens live here). Wainford is the Ch 1 "last station." **Its recurring/future role
-(seeded, not opened):** where Emlyn **meets Penworth** (Penworth rails out to the railhead, sparing
-the frontier ride); where he **returns to collect furniture/items shipped from Vethmark** and ship out
-lumens; where he will **buy a warehouse** (Book Two+); and later possible **rail-extension / river-barge
-service** investments. NAMED ON THE PAGE: **Ch 1** now "set me down four days back at Wainford, the
-last station… a raw, busy, cheerful sort of town that existed to move the country's grain and cattle
-onto trains"; **Ch 3** "the end of the line at Wainford… The road, past Wainford, worsened by the mile."
-Rename-able (alternates Draymere / Marchford). State updated: story-bible (TECH+RAILWAYS bullet, new
-Wainford bullet, distance/arrival naming, pending payoffs), geography (full Wainford entry, map exit
-arrow, OPEN names), outline (canon appendix). Ch 1 ~4490, Ch 3 ~4190; 0 em dashes.
+MODULE 14 AUDIT — the two genuine indictments, both landing in Ch 7:
+- **MODULE 7 VIOLATED (the iterative).** The Wednesday template was narrated entirely in summary
+  and then VARIED twice (the level test, the hum reveal) without ever having been played once as
+  a scene. Module 7 requires the template established in full scene first, then varied, so the
+  break lands as event. FIXED: the first Wednesday is now a scene — the knock he never repeated,
+  "Grandda says I'm to be no trouble," the chair refused for the floor, "Same next week?" — and
+  the iterative generalization now follows it instead of standing in for it.
+- **MODULE 9 VIOLATED (the ensemble web).** Part I had no spoke-less beat anywhere: no two
+  villagers relating to each other with the narrator only watching. FIXED in Ch 7: Maret buys salt
+  he cannot pay for and Kellard arranges a favour, entirely in the valley's oblique grammar, while
+  Emlyn stands with his hat in his hands and understands he is listening to a language he does not
+  yet speak. Also serves Module 4A (membership told from inside) and Module 6 (the oblique refusal).
 
-CH 1 JOURNEY RECOUNT + TECH REFINEMENT: **Expanded Ch 1 to recount the whole journey**
-(the user's ask): **3 days by rail** out of Vethmark in a **crude, early, "barely arcane" steam train**
-("rattled the teeth… let the cold in at every seam"; "next to nothing of the arcane in it") → detrain
-at **Wainford** (the grain-and-cattle railhead) → **Snow out of the horse-box** → **4 more days on
-horseback** "into the green silence" → the village. Ch 1 now 4835 words (in band); 0 em dashes. **TECH
-REFINED on the page + in canon:** magic is **too rare to power infrastructure** — "magic does not come
-by the ton, it comes by the thimble, and dearly," so railways run on brute iron/coal with almost no
-magic; **artifice stays confined to small, precious, hand-made devices** (lumens). **Emlyn's
-device-making GIFT established:** an engineer-wizard (major talent + draftsman training) who makes far
-**better/smaller/refined** steam-and-artifice devices than the crude world-norm ("a man who cannot let
-a made thing alone"; "how much smaller and quieter and cleverer the whole of it could have been built,
-if the world had only had the magic to spare") — the lumen is the exemplar; limited only by the world's
-scarce magic. CONSISTENCY: the village/frontier chapters (Ch 2–7) are pre-industrial and already
-consistent — no rewrite needed (rare magic + no metropole tech on the page). State updated: story-bible
-(TECH bullet refined + new DEVICE-MAKING GIFT session-lock + cast + Ch 1 established record), geography
-(Wainford tech = crude/barely-arcane), outline (canon appendix).
+NOT INDICTED, checked and cleared:
+- Module 1's try-fail ration: Part I is all-yes, but storycraft explicitly licenses the opening
+  movement to run warmer ("let the reader fall for the world before the plot asks anything").
+- Module 5's emotional range: shame (the sabotaged level), pride (the cold-spot), and being
+  unaccountably happy are all present. Three of the six, which is the floor.
+- Ch 4's density is inherent — the solitary thesis chapter, protected by Module 4A.
+- Ch 3's 498-word nocturne block, exempted by the pass-5 fix document and left alone.
 
-## PART BOUNDARIES
+ALSO DONE: Ch 6 broken at four beat joints (Module 8, rhythm enacts content; the first lighting
+was arriving inside a 284-word block). 177 -> 155 words/paragraph. Ch 7: 146 -> 104, now clear.
 
-All four are drafted; the interludes are in place (`07b`, `15b`, `25b`, and Interlude IV inside
-`32b-coda.md`). The original part-planning notes are in the archive.
-
-## PASS HISTORY
-
-The correction appendix (2026-07-29 cold read), the Pass-5 fix-document application, and the
-storycraft Part I pass narratives are in
-`archive/state-compaction-2026-07-31/manuscript-log-history.md`. Their outcomes are already in
-the manuscript and in the recap lines above.
+STILL OPEN IN PART I: Ch 6 remains above the density threshold at 155. Closing it needs the
+Brenna scene or the first lighting re-gearing from narration to scene, which is a rewrite rather
+than a revision and is held for the author's call.

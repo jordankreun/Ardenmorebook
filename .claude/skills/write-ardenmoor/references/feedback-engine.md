@@ -25,7 +25,7 @@ and the story bible, and draft against it:
    drift, scale; an emotional chapter → forced epiphany, named emotions, purple; a new-character
    chapter → roll-call, significance tags; a seed-touching chapter → invisible setups. Name the
    3–4 rules this chapter is most likely to break, so they're live while writing, not after.
-2. **ACTIVE BLIND SEEDS in play.** From the bible's PENDING PAYOFFS: which live seeds does this
+2. **ACTIVE BLIND SEEDS in play.** From the `state/thread-ledger.md`: which live seeds does this
    chapter touch (or deliberately rest)? For each, note HOW it stays blind this time. Seeds the
    chapter doesn't touch are also a decision — write it down ("resting Snow/barn this chapter").
 3. **OPEN questions that must not close.** List anything marked [OPEN] the chapter brushes
@@ -175,10 +175,10 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   they read the seed as load-bearing because they know it is. The only uncontaminated instrument is
   a **fresh, bible-blind sub-agent** who has never seen the payoff. Protocol:
   1. Spawn a sub-agent given **only the manuscript through this chapter** (no bible, no outline, no
-     PENDING PAYOFFS, no pre-draft brief — genuinely blind to what pays off later).
+     the thread ledger, no pre-draft brief — genuinely blind to what pays off later).
   2. Ask it exactly one question: *"Reading this as a first-time reader, is anything here being
      deliberately set up to matter later? List anything that reads as planted, and say why."*
-  3. **Cross-check its list against the bible's PENDING PAYOFFS.** If it names an active blind seed
+  3. **Cross-check its list against the `state/thread-ledger.md`.** If it names an active blind seed
      **by its real function** (not just "this object was mentioned" — it must clock the *setup*),
      that seed FAILED the [HARD] test: it is telegraphing. Replant it flatter and re-probe.
      A seed the blind reader files as ordinary life has passed. Log a fail + the replant in the

@@ -65,5 +65,4 @@ Two consequences were handled when this shipped, and both must survive future ed
    letter survives — he meets nothing he *recognises*, and the text supplies a mundane
    explanation — but the reader now has a first-night anomaly the lock did not anticipate. The
    lock was amended rather than left to disagree silently with the page.
-2. It is a **live blind seed** and is logged in the bible's PENDING PAYOFFS and in
-   `state/thread-ledger.md`. An unlogged seed is an orphaned setup.
+2. It is a **live blind seed** and is logged in `state/thread-ledger.md`. An unlogged seed is an orphaned setup.
