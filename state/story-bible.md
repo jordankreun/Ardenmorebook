@@ -18,9 +18,10 @@
   II. The Study is built (Ch 5); the LUMEN is bound (Ch 6); the domestic rhythm and Soren's lifelong
   hearing established (Ch 7); the Series lamp / commerce and the shelf-gap grief object (Ch 8).
 - Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2, Ch 5).
-- ✅ **NAMING COLLISION RESOLVED (2026-07-11):** **Mira** is the page name for **Cael's daughter /
-  Soren's mother** (Ch 7, locked). **Penworth's daughter was renamed Mira → NERYS** (she has not
-  appeared yet; Book Two seed). No two Miras.
+- ✅ **NAMING COLLISION RESOLVED (2026-07-11); SUPERSEDED 2026-07-31:** Soren's mother is now
+  **dead before page one and UNNAMED on the page** (died the night of his birth; author fork) and
+  **the name Mira has left the manuscript entirely** (verified: zero occurrences). Ch 7 rewritten to
+  Cael; the Ch 19/30 bolster reassigned to **Bess Wray**. **Penworth's daughter remains NERYS**.
 
 ## SESSION-LOCKED AUTHOR DECISIONS (binding; supersede references where they differ)
 
@@ -717,9 +718,20 @@ if it needs a new one, add it here.
   formality — "burned by cleverer men than me") and **three days later sends candles up with the
   lie that they came in damaged** (a kindness; "the account had turned over some invisible line" —
   the village has decided to keep him).
-- **WEDNESDAY = THE BOY'S DAY.** His mother **Mira** (Cael's daughter; see ages ledger) has the
-  **wash-house day down by the beck** (noon to dark); Soren spends the afternoon on the Study floor
-  by the hearth with a slate his grandfather gave him.
+- **WEDNESDAY = THE BOY'S DAY (REVISED 2026-07-31, author fork).** Wednesday is **the day Cael
+  KEEPS for the parish** — set aside and known to be set aside, so a man with a strayed ewe or a
+  moved boundary-stone knows which afternoon to walk up his path. ⚠️ **It is NOT a weekly court.**
+  "Whole months went by with nothing brought at all," because Cael says in Ch 1 that he leads the
+  parish meetings **"on the rare occasion they're held"** and that line is locked. Rather than have
+  the boy sit through his neighbours' quarrels, it is let be understood he may spend the afternoon
+  up the hill.
+- **SOREN'S HOUSEHOLD (canon, 2026-07-31):** Cael's daughter's son; his mother **died the night he
+  was born** (unnamed on the page); his father **unknown/gone, a subject the valley finished with
+  long before Emlyn came** ("a kind of masonry"); Cael raised him **from the first hour**.
+  ⚠️ **GUARD: the loss must NEVER explain his solemnity.** Ch 7 states it outright — "He had never
+  in his life had less than the whole of one old man's heart... He was solemn the way deep water is
+  still, by nature and not by weather." Soren spends the afternoon on the Study floor with a slate
+  his grandfather gave him.
 - **TEACHING:** Emlyn teaches him **letters** (no one had; they never fully take — "words were not
   where the boy lived") and **figures** (a comfortable country to him), and **to look at ground**
   (the first door of the trade, "open to anyone"). Explicitly does NOT teach him the trade proper
@@ -732,9 +744,11 @@ if it needs a new one, add it here.
   craftsman's eye.)
 - **THE BOY'S SOLEMNITY:** the gravest child Emlyn has known; takes everything at full weight. On
   his **10th birthday** (deep autumn) Emlyn gives him a **folding knife**; he opens/closes it and
-  says **"This is a serious thing to give a person."** Mira "loved him without understanding him,
-  which is the harder kind of loving and the truer." (Corrects the tales that make the boy "a merry
-  imp.")
+  says **"This is a serious thing to give a person."** The laugh-worry conversation belongs to
+  **CAEL** (revised 2026-07-31): he "loved the boy without altogether understanding him, which is the
+  harder kind of loving and the truer," and had carried the worry alone for ten years. Ch 14's
+  **"Gets that off his mother" is KEPT VERBATIM** — Cael speaking lightly of his dead daughter; do
+  not decorate it. (Corrects the tales that make the boy "a merry imp.")
 - **CLOSING (major canon):** at the end of one Wednesday, as the lumen comes up amber at the dusk
   pulse, the boy says without weight, **"The hill sounds different when you're working"** —
   **"warmer, like it's paying attention."** Emlyn realizes the boy has **HEARD THE HUM HIS WHOLE
@@ -1570,7 +1584,7 @@ show release. The coarse curve, so no chapter overshoots:
   such a person, which is more than can be said for the agreeable ones."
 - **THE VILLAGE FURNISHED HIM (Ch 15, fork 3b) — belonging canon.** Essa delivered the bed with REN to
   carry, and the cart also held: **wool blankets from LIRA** (sent with no message, "precisely how Lira
-  sends a thing"), **a bolster from MIRA** (Cael's daughter; Emlyn has spoken ~40 words to her),
+  sends a thing"), **a bolster from BESS WRAY** (sent UP with Tam — the Wrays are in the bottoms, below the hill; hem mended better than new; reassigned 2026-07-31),
   **a jar from BRENNA** with tied instructions, and **a mirror from KELLARD** ("had by him"; in fact
   ordered from Wainford on a whim and never sold). The village had been quietly discussing his
   housekeeping FOR A YEAR. Essa: **"It's not charity, it's opinion. You'll find there's a deal more of

@@ -1181,3 +1181,37 @@ ends undecoded on the needle; coda says "an old fool," header "From a later jour
 frame reverted to the conditional "Perhaps" version, epigraph cut; Soren's Ch 4 line is "You've
 started."; Ch 6 lamp development is failures → follower → cistern-and-ring. Ages on the page:
 Ren 18, Soren 12 (articles autumn). See story-bible CORRECTIONS block for the full list.
+
+## PASS 5 APPLIED — 2026-07-31 (fix document + Soren-household author fork)
+
+**Soren's household (canon revision).** Mira removed from the book entirely (verified: zero
+occurrences). Soren's mother, Cael's only daughter, died the night he was born and is UNNAMED on the
+page; his father is unknown/gone, closed by the valley long before Emlyn arrived; Cael has been the
+sole household from the first hour. Ch 14's "Gets that off his mother" KEPT verbatim, now Cael of his
+dead daughter. Ch 19/30 bolster reassigned to Bess Wray, sent UP with Tam (the Wrays are below the
+hill; the drafted "sent down" was a direction error).
+
+⚠️ **Wednesday is NOT a weekly court.** The drafted fork made it a standing noon-to-dark session,
+which contradicts Cael's own locked Ch 1 line, "on the rare occasion they're held I lead our parish
+meetings." Resolved as the day he KEEPS for the parish, used when there is business: "Not that the
+parish always wanted him; whole months went by with nothing brought at all."
+
+**Fix document, applied with three modifications:**
+- FIX 1 (Hask's third visit staged, ~430w) — applied. "Thirty years" softened to an unfixed distance
+  ("I have never since been able", "I have had years to find one"), because the book never fixes the
+  frame distance and "thirty years" already carries Brenna's notebooks and the keeper plant.
+- FIX 2 (Ch 30's 634-word block re-broken) — applied, and the flourish in the drafted ratifying
+  clause was trimmed to "and I set it down here in the order it came." Breaking it surfaced a
+  SECOND wall paragraph (470w, the cause-never-settled block, created in the 2026-07-29 restructure);
+  broken at its two joints. Ch 30 now passes craft-check clean.
+- FIX 3a/3b/3c (terse-word glosses rationed) — applied as drafted. "I have never improved on it" now
+  belongs to Ch 24 alone.
+- FIX 4 (plant the name at the midpoint) — applied, but NOT in Nell's line. "Emlyn" goes to Bess
+  Wray at the same supper: "So take it, Emlyn, and let him be your tenant instead of your object of
+  pity." Keeps the book's most quotable line intact and lands the name at the reciprocity beat,
+  in the mouth of the character who cuts ceremony.
+- FIX 5 (bank the unsigned hand in the coda) — applied with a continuity correction: the drafted
+  line put the LETTERS in the sticking drawer, but they went to Cecily for tracing. It is her REPORT
+  that Ch 31 puts in that drawer, so the coda now says so.
+
+Book: 112,623 words. Zero lint FAILs, zero em dashes across all 37 files.

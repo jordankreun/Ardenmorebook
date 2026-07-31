@@ -66,7 +66,33 @@ The third time I did the thing I am least proud of in the whole of that business
 
 I did not ask Cael to lean on him. I want that understood, and I said as much at the time, and Cael, who was nobody's instrument, would not have done it. But I knew what it meant in that valley for the elder to come up a man's path with the landlord, and I knew Hask would know, and I brought him anyway. I told myself it was so Hask would have someone of his own in the room. That was even partly true. It was not the whole truth, and I knew it going up the lane, and I went up the lane.
 
-Hask took the offer. He took the ten acres and the forgiven rent, and then he did not work them, and in the spring he let his cottage and went to Wainford to live with a daughter he had not seen in six years, and he died there the winter after, and I heard about it in a letter three weeks late.
+It was a bright hard morning and he was out at his gate mending a hurdle that did not need mending, which is a thing a man of that age does with his hands when he has been told the day before that somebody is coming. He straightened when he saw the two of us on the lane together, and he did not look at me at all. He looked at Cael, and he went on looking at him the whole way up the path, and something went out of his face that I have never since been able to put a name to, though the nearest I can get to it is the look of a man doing a sum he already knows the answer to.
+
+Cael was as good as his word and better than mine. He said good morning. He asked after the dog, which was old. Then he put his hands behind his back and let me do the whole of the talking, and when I had done it he said the only sentence he said on that path.
+
+"It's Tobin's ground," he said. "He'll do as he likes with it."
+
+Which was true, and kindly meant, and did the opposite of what it said, because there was no version of that morning in which the elder of Ardenmoor stood at a man's gate and said a thing like that and it weighed nothing. Hask heard it weigh. I watched him hear it.
+
+He looked at the hurdle a while.
+
+"Ten acres," he said.
+
+"Ten. And the hedging at my cost, and no rent while you live."
+
+"And you'll have your field."
+
+"I'll have my field."
+
+"Aye." And then, still to the hurdle, in the flat voice a man keeps for the plainest thing he has said all year, "You've brought Cael up my path."
+
+I did not answer him. There was no answer that was not worse than the silence, and I have had years to find one and have not. Cael said nothing either, and I have wondered since whether those two understood one another better in that half minute than either of them ever understood me.
+
+"Well," Hask said at last. "It's a good offer."
+
+And he wiped his hands down his coat and put one out, and I took it, and it was dry and light and there was almost nothing in it.
+
+He took the ten acres and the forgiven rent, and then he did not work them, and in the spring he let his cottage and went to Wainford to live with a daughter he had not seen in six years, and he died there the winter after, and I heard about it in a letter three weeks late.
 
 I am not going to tell you that I ruined him, because I do not believe I did; he was old and finished with the ground before I ever came, and the strip had been a fiction he was keeping up out of pride, and everyone in the valley including Hask knew it. Nor am I going to tell you I did wrong by him in the terms of the thing, because the terms were generous and I would make the same offer today.
 

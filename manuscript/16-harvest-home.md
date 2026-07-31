@@ -80,7 +80,7 @@ Then Nell said, "That's not really a job," and the entire table went up, Hal lau
 
 "It isn't," I agreed. "It isn't remotely a job. You've caught me out."
 
-"Right," said Nell, satisfied at last, and went back to her beans having settled the matter. I have thought about that verdict of hers a great deal more than I have thought about many longer arguments. I have never improved on it.
+"Right," said Nell, satisfied at last, and went back to her beans having settled the matter.
 
 It was after they had cleared, and the small ones had been dealt with, and Hal had got out something better than the brother-in-law's beer, that he did the thing he had plainly been working himself up to all evening.
 
@@ -96,7 +96,7 @@ Bess said, from the other end of the table, without looking up from her mending,
 
 "Bess."
 
-"Well, you'll be an hour getting to it." She snapped a thread. "He'll take charity from no man, and he can't square it in his head that we've had a year's ground and a house and no rent asked, and it's been eating at him since the thaw, and if you make him keep that money he'll not sleep the winter. So take it, and let him be your tenant instead of your object of pity, and we'll all be a deal more comfortable."
+"Well, you'll be an hour getting to it." She snapped a thread. "He'll take charity from no man, and he can't square it in his head that we've had a year's ground and a house and no rent asked, and it's been eating at him since the thaw, and if you make him keep that money he'll not sleep the winter. So take it, Emlyn, and let him be your tenant instead of your object of pity, and we'll all be a deal more comfortable."
 
 There was a silence of a rather different quality.
 

@@ -110,7 +110,7 @@ I had thought about how to say it a good deal on the walk down, and that was the
 
 He nodded, slowly, the way a beam settles onto its post. Then he put one finger to the brass foot, and turned the lamp a quarter-turn on the bench, so that the collar's seam faced away, which is how a maker sets a thing when it is his, and he said, "Even."
 
-One word, and the whole ledger of two years closed in it, every favor and overrun and underbilling on both sides of that bench, weighed off against a light that would burn on his wife's table long after both of us were done arguing about invoices. I have signed papers worth ten times less than that word, and taken longer doing it.
+One word, and the whole ledger of two years closed in it, every favor and overrun and underbilling on both sides of that bench, weighed off against a light that would burn on his wife's table long after both of us were done arguing about invoices.
 
 We talked the drawings after that, or I talked and he asked his four questions, each one landing on the exact rivet where the work would want deciding, and the morning went the way good mornings at that forge went, warm and slow and mostly quiet, with the rain starting soft on the roof and neither of us minding.
 

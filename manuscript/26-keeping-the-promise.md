@@ -86,7 +86,7 @@ The cold came up out of the ground and into us both. Somewhere below a door went
 
 "Than the sound."
 
-Three years of hearing an edge of a thing through a stone floor with a village in between, and he had built himself a picture off that edge the way you build a horse off a hoofprint, and the picture had been honest and careful and far too small, and he set the whole of it down in three words without one grain of complaint that it had been wrong. Then he asked his question, the only one, the one he had been walking beside for three years, and he asked it the way he did everything, without preamble and straight through the middle.
+Three years of hearing an edge of a thing through a stone floor with a village in between, and he had built himself a picture off that edge the way you build a horse off a hoofprint, and it had been honest and careful and far too small, and he set it down in three words and did not complain once that it had been wrong. Then he asked his question, the only one, the one he had been walking beside for three years, and he asked it the way he did everything, without preamble and straight through the middle.
 
 "What is it?"
 

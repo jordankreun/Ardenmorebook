@@ -24,4 +24,6 @@ You asked me once, in your patient way, why the story could not begin with the d
 
 Tomas had it from me the day after, which was the promise, and I will not set down here what he said when he had it, because he said it to me and not to a page. The village had its road up the hill by the summer, walled and graded, the whole of it at their own charge, and would not hear a word of thanks about that either.
 
+The hand that wrote to me in my own notation never wrote again after that summer, and Cecily never put a name to it, and neither have I, though I have had the years for it. Her report is in the sticking drawer with the callipers, and it can stay there, and if a name ever wants finding it will keep as well as the door has.
+
 Set the kettle on, Soren. The rest wants telling by the fire.
