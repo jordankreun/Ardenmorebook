@@ -469,3 +469,75 @@ later recaps had been appended *after* the PART BOUNDARIES heading, so a section
 extraction lost fourteen chapters. `state-check.sh` FAILed naming every missing file, and the
 recaps were recovered from the archive. This is the second time this run that a guard written
 earlier today caught an error made later the same day.
+
+## Phases 2–6 and the final report
+
+### Line counts
+
+| | before | after |
+|---|---|---|
+| SKILL.md | 175 | 195 |
+| references/ | 3,124 | 3,206 (+ CARD.md 77, − checklist 64) |
+| modes/ | 827 | 827 |
+| **references + modes + SKILL** | **4,126** | **4,228** |
+| state/ | 4,336 | **2,627** |
+| **TOTAL** | **8,462** | **6,855** |
+
+### The number that actually matters
+
+**DRAFT-profile session pre-read: ~7,500 lines → 1,202** (CARD 77 + locks 151 + bible spine 435
++ thread-ledger 65 + geography 434 + outline neighbourhood ~40), plus the previous chapter and
+whatever storycraft sections the plan block names. **Target was ~2,000. Met at 60% of it.**
+
+The references total went slightly UP (+102) because CARD.md and the profiles were added. That is
+the right trade: the file-total target was a proxy for read cost, and read cost is now governed by
+the profile, not by how many lines exist on disk. A mode never opens them all.
+
+### Conservative calls (directive 6)
+
+1. **manuscript-log recaps not paraphrased** — the whole remaining state gap. See Phase 1.
+2. **outline.md (397) and economy.md (509) untouched.** Not in the brief, 22% of the references
+   gap, and both canon-adjacent — the outline holds the canon appendix the router points at,
+   economy.md the locked money model the bible points at. Archiving their bulk needs an author
+   decision, not a compaction run.
+3. **Phase 2 naming not executed.** The brief wants the merged curriculum called `craft.md`; it is
+   `storycraft.md` and 15 files reference it, four of them tools. The content merge was already
+   done today; renaming is a mechanical sweep worth doing only if the name matters.
+4. **[ENFORCED] flags not added** to storycraft.md (zero present). The enforcement mapping now
+   exists instead in continuity-checklist.md's "where the removed boxes went" table, which is the
+   same information from the other direction.
+5. **Phase 3 (feedback-engine 550 → 250) not executed.** Its changelog was already split out
+   today; what remains is 550 lines of sourced author taste, and compressing that means
+   paraphrasing the author's own notes — the same class of risk as the recaps.
+6. **PART-BOUNDARY REVIEW** has no target in continuity-checklist.md; it lives in storycraft
+   Module 14. Noted rather than invented.
+
+### Dry-run: Book Two Chapter 1 plan block, produced from the DRAFT profile reads only
+
+Proof that the streamlined runtime still yields the full planning surface.
+
+```
+ENTRY:        consequence-of Ch 32b coda (the village built the road at their own charge;
+              Tomas has the needle from him) | frame producing: the promise kept
+              | calendar = spring, first thaw after the shortest night — justified by the coda
+PROMISE:      page one promises the door is now a thing two men know about, not one
+WANT/RESIST:  Emlyn wants to open the floor properly, surveyed and witnessed
+              vs the cellar is under a working building, and Tomas will not be hurried
+VALUE SHIFT:  the hill's secret: privately held -> shared and therefore accountable
+TURN:         he no longer gets to decide alone what happens next
+CARRIED Q:    what the blank recorded on the night the needle turned
+              + TOUCHES: the door under the hill (BANKED), Tomas's promise (PAID, do not re-pay)
+                RESTS: the basin water (Ch 1) — stays untouched and unremarked
+                blindness: the blank is read for an ordinary reason (checking frost damage)
+SHAPE/TEMP/SAT: WONDER · cool · recognition — previous two closed DOMESTIC/warm and FRAME/warm,
+              so this varies both shape and temperature; closing shapes were image, image →
+              this one closes on a line of dialogue
+SUB-LEDGER:   Emlyn/Tomas: underneath it, whether being told was a gift or a debt
+              speech rules — Tomas: stillness and one load-bearing question
+LOCATES:      calendar: Yr 4 spring, ~34 months elapsed · grief: post-Ch 28, the sealed things
+              are open, nothing to withhold · caused-by: the coda's promise kept, therefore
+              the first descent is now two men's problem
+```
+
+Every line came from CARD.md (the block itself), the thread-ledger (seed states), the bible spine
+(calendar, grief stage, speech rules) and the coda. No file outside the DRAFT profile was opened.
