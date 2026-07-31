@@ -1880,4 +1880,6 @@ show release. The coarse curve, so no chapter overshoots:
 - **Cadence: part by part, with a gate.** Push and stop for the author's read before the next part.
 - **Content covenants (Module 0): STRONG GUIDANCE, not locked canon.** Recorded in storycraft.md as
   the house register; deliberately NOT added to the locked-canon list and NOT machine-checked.
-- **Precedence:** session locks > feedback-engine (author notes) > storycraft > craft.md.
+- **Precedence:** session locks > feedback-engine (author notes) > storycraft. **Three tiers, not
+  four** (2026-07-31): craft.md was folded into storycraft.md and retired, so there is no longer a
+  craft-versus-storycraft collision to adjudicate.

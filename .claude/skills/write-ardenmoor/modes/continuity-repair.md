@@ -9,9 +9,7 @@ fact. It is not a licence to improve the sentence the error was living in.
 
 ## LOAD
 
-**Measured load: ~15,300 words (21% of the old always-on startup, which was 69,556 words in every mode regardless of the task).** records only, no prose-craft docs. The story bible is read as its
-**spine** (5,370w) rather than in full (27,395w); that substitution is most of the saving
-and applies to every mode.
+**Measured load: ~15,400 words.** See the router for the baseline and the method.
 
 - `references/session-locks.md` (always, first)
 - `state/story-bible.md` — the spine, plus every `ESTABLISHED ON THE PAGE` block that touches the

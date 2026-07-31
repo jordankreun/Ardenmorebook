@@ -42,7 +42,7 @@
 #     back half ~1,800, every chapter passing its own review).
 #
 # Prologue and interludes are exempt from all three, matching prose-lint.
-# See references/craft.md for the principles these measure.
+# See references/storycraft.md for the principles these measure.
 
 set -u
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -99,7 +99,7 @@ for f in "$@"; do
   if [ "${paras:-0}" -gt 0 ]; then
     wpp=$(( words / paras ))
     if [ "$wpp" -gt 120 ]; then
-      echo "  WARN  scene density: ${wpp} words/paragraph over ${paras} paragraphs (>120) — long blocks are the signature of summary standing in for scene; is a load-bearing beat being reported rather than played? (craft.md §2)"
+      echo "  WARN  scene density: ${wpp} words/paragraph over ${paras} paragraphs (>120) — long blocks are the signature of summary standing in for scene; is a load-bearing beat being reported rather than played? (storycraft.md Module 2 (scene design))"
       warned=1
     fi
   fi
@@ -114,7 +114,7 @@ for f in "$@"; do
   # sits under it.
   maxp=$(prose_lines "$f" | awk '{n=NF; if(n>m)m=n} END{print m+0}')
   if [ "${maxp:-0}" -ge 400 ]; then
-    echo "  WARN  wall paragraph: longest is ${maxp} words (>=400) — a block that size is an essay inside a chapter; look for the place it should break. (craft.md §2)"
+    echo "  WARN  wall paragraph: longest is ${maxp} words (>=400) — a block that size is an essay inside a chapter; look for the place it should break. (storycraft.md Module 2 (scene design))"
     warned=1
   fi
 
@@ -123,7 +123,7 @@ for f in "$@"; do
   if [ -n "$med" ] && [ "$med" -gt 0 ]; then
     half=$(( med / 2 ))
     if [ "$words" -lt "$half" ]; then
-      echo "  WARN  size drift: ${words}w against a ${med}w median for the 3 preceding chapters (under half) — not a floor, a TREND flag; sustained thinning is invisible chapter-by-chapter. (craft.md §9)"
+      echo "  WARN  size drift: ${words}w against a ${med}w median for the 3 preceding chapters (under half) — not a floor, a TREND flag; sustained thinning is invisible chapter-by-chapter. (storycraft.md Module 8 (description & setting))"
       warned=1
     fi
   fi

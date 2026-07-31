@@ -23,9 +23,9 @@ LIST="$DIR/superseded.txt"
 FILES="$DIR/../SKILL.md $DIR/../references/outline.md $DIR/../references/style-guide.md \
        $DIR/../references/voice-rothfuss-mancour.md $DIR/../references/continuity-checklist.md \
        $DIR/../references/feedback-engine.md $ROOT/state/story-bible.md $ROOT/state/geography.md \
-       $DIR/../references/craft.md $DIR/../references/storycraft.md $DIR/../references/exemplars.md \
+       $DIR/../references/storycraft.md $DIR/../references/storycraft.md $DIR/../references/exemplars.md \
        $DIR/../references/economy.md $DIR/../references/editorial-read.md \
-       $DIR/../references/session-locks.md \
+       $DIR/../references/session-locks.md $DIR/../references/engine-changelog.md \
        $ROOT/state/thread-ledger.md"
 # The mode files (added 2026-07-31 when SKILL.md became a router). Globbed rather than listed so
 # a new mode is audited the day it is written; an unaudited mode file is exactly where a retired
@@ -47,22 +47,29 @@ while IFS= read -r pat; do
   done
 done < "$LIST"
 
-# STRUCTURAL GUARDS on craft.md. That file exists precisely because every craft
-# rule in this engine had decayed into an author-sourced taste rule. Two assertions
-# keep it from becoming a second feedback-engine.md:
-#   (a) it stays small enough to justify its seat in the startup read;
+# STRUCTURAL GUARDS on storycraft.md. Inherited from craft.md when that file was
+# retired into this one (2026-07-31); the reasoning transfers unchanged, because
+# it was never about which file held the rules. Every craft-shaped rule in this
+# engine had once decayed into an author-sourced taste rule, and two assertions
+# keep the curriculum from becoming a second feedback-engine.md:
+#   (a) it stays small enough to justify its seat in the drafting read;
 #   (b) it carries NO "*Source:*" tag — that tag is the taste-ledger signature.
-CRAFT="$DIR/../references/craft.md"
-if [ -f "$CRAFT" ]; then
-  cl=$(wc -l < "$CRAFT" | tr -d ' ')
-  if [ "$cl" -gt 520 ]; then
-    echo "  craft.md is ${cl} lines (>520) — it sits in the startup read; move depth into references/exemplars.md"
+#       Taste belongs in feedback-engine.md, sourced to the note that produced it;
+#       storycraft.md must stay TRANSFERABLE craft that would hold for another book.
+# Ceiling raised 520 -> 680 on the merge: the file absorbed 921 words of craft.md
+# (the OVERRULED table, the diction domains, the authority of the specific) and now
+# stands at 600 lines. 680 leaves room to revise without licensing another doubling.
+CURRIC="$DIR/../references/storycraft.md"
+if [ -f "$CURRIC" ]; then
+  cl=$(wc -l < "$CURRIC" | tr -d ' ')
+  if [ "$cl" -gt 680 ]; then
+    echo "  storycraft.md is ${cl} lines (>680) — it is read in full when drafting; move depth into references/exemplars.md"
     status=1
   fi
   # Only a real annotation counts: the tag at the start of a line. A prose mention
-  # in backticks (craft.md explains what the tag IS) must not fire.
-  if grep -qE '^[[:space:]]*[*]Source:[*]' "$CRAFT"; then
-    echo "  craft.md contains a *Source:* tag — craft.md must stay transferable craft; put the author note in feedback-engine.md instead"
+  # in backticks (a doc explaining what the tag IS) must not fire.
+  if grep -qE '^[[:space:]]*[*]Source:[*]' "$CURRIC"; then
+    echo "  storycraft.md contains a *Source:* tag — the curriculum must stay transferable craft; put the author note in feedback-engine.md instead"
     status=1
   fi
 fi

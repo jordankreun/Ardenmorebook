@@ -1,6 +1,6 @@
 # EXEMPLARS — worked examples from the book itself
 
-**Purpose.** `craft.md` states the principles. This file shows them working, using passages from this
+**Purpose.** `storycraft.md` states the principles. This file shows them working, using passages from this
 manuscript, so drafting has in-house models rather than abstract rules. Every entry names the
 *mechanism*, not the effect: "this is good" teaches nothing; "this works because the answer changes
 the question" is portable.
@@ -11,7 +11,7 @@ locates, the passage was edited; re-find it or retire the entry.
 
 ---
 
-## SCENE AND SUMMARY (craft.md §2)
+## SCENE AND SUMMARY (storycraft.md Module 2 (scene design))
 
 ### Summary used correctly, as transit — Ch 19
 > search: *"came up the frontier road in pieces, on eleven wagons"*
@@ -36,7 +36,7 @@ on watering: the refusal is the cheapest legitimate form.
 
 ---
 
-## THE TURN (craft.md §3)
+## THE TURN (storycraft.md Module 2 (the turn))
 
 ### The weighing given its own beat — Ch 27
 > search: *"He did not answer that at once. He took the door up off the trestles instead"*
@@ -53,7 +53,7 @@ means to hear. The reader performs the subtraction, which is the whole pleasure.
 
 ---
 
-## DIALOGUE AS ACTION (craft.md §4)
+## DIALOGUE AS ACTION (storycraft.md Module 6 (dialogue & subtext))
 
 ### The answer that changes the question — Ch 27
 > search: *"I'm not giving him to you"*
@@ -92,12 +92,12 @@ situation. In a crisis, competent people do not explain; the compression *is* th
 ### Comic beat that is also characterization — Ch 28
 > search: *"Plants don't lie. It's why I prefer them."*
 
-Brenna's humour is never a garnish; it is her worldview stated flatly. Per craft.md §1, humour in this
+Brenna's humour is never a garnish; it is her worldview stated flatly. Per storycraft.md Module 11 (the OVERRULED table), humour in this
 register is load-bearing, not decorative.
 
 ---
 
-## CAUSALITY AND MOMENTUM (craft.md §5)
+## CAUSALITY AND MOMENTUM (storycraft.md Module 2 (cause before effect))
 
 ### Consequence opening, strong form — Ch 18
 > search: *"What I did about it took the rest of that autumn"*
@@ -114,7 +114,7 @@ The repair invented nothing. **This is the model for every calendar opening you 
 
 ---
 
-## SETUP AND PAYOFF (craft.md §6)
+## SETUP AND PAYOFF (storycraft.md Module 1 (promise/progress/payoff))
 
 ### Banking, stated twice and meant — Ch 25
 > search: *"I don't know yet what it means"*
@@ -137,7 +137,7 @@ prove her partly right. The best payoffs cost the protagonist something.
 
 ---
 
-## INFORMATION MANAGEMENT (craft.md §7)
+## INFORMATION MANAGEMENT (storycraft.md Module 10 (mystery cadence))
 
 ### Dramatic irony without a threat — Ch 21
 
@@ -147,7 +147,7 @@ the strongest tension device available to a low-conflict book.**
 
 ---
 
-## POV AS INSTRUMENT (craft.md §8)
+## POV AS INSTRUMENT (storycraft.md Module 4A (the witness position))
 
 ### Hindsight used for judgment, not foreshadowing — Ch 10
 > search: *"Paperwork can wait. People, as it turned out, had been waiting eleven years already."*
@@ -164,7 +164,7 @@ credible.
 
 ---
 
-## THE AUTHORITY OF THE SPECIFIC (craft.md §10)
+## THE AUTHORITY OF THE SPECIFIC (storycraft.md Module 8 (the authority of the specific))
 
 ### A tolerance nobody can draw — Ch 22
 > search: *"\"Gauge,\" he said."*
@@ -184,7 +184,7 @@ one that worked.
 
 Writing down beforehand what a null result would look like, because *"a man who has not written his
 own disappointment down beforehand will not recognise it when it arrives."* Competence displayed is
-the cozy contract's primary engine (craft.md §1).
+the cozy contract's primary engine (storycraft.md Module 11 (the OVERRULED table)).
 
 ### The principle stated once, then never again — Ch 8
 > search: *"the same manners work on daylight as on grief"*
@@ -223,7 +223,7 @@ installment that must be cut by hand.
 
 **Was:** a clause noting that the lamps he came to sell *"drink another well entirely."*
 **Defect:** pre-announces the daylight invention that Ch 8 spends its whole middle discovering,
-converting a discovery into an appointment (craft.md §8).
+converting a discovery into an appointment (storycraft.md Module 4A (the witness position)).
 **Fix:** clause cut; the iterative R&D arc it sat inside was kept intact.
 **Lesson:** a forward-flash is nearly always deletable without loss, because it adds nothing the
 later chapter will not deliver better.
@@ -253,5 +253,6 @@ line.
 **Defect:** dialogue share fell from 13–31% across Parts I–III to 0–2%, and chapter size from ~3,900
 words to ~1,800, across the entire final movement. Every one of those chapters passed its own review.
 **Fix:** the span was expanded and re-voiced; median chapter size now matches the front half.
-**Lesson:** no per-chapter tool can see this. Run `tools/span-check.sh` across any run of three or
-more chapters before delivery.
+**Lesson:** no per-chapter tool can see this, which is what `tools/span-check.sh` exists for. When
+it runs is set by the mode (`modes/developmental.md` makes it mandatory after any restructure);
+this file only shows why it is needed.

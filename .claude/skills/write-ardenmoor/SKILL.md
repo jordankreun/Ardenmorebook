@@ -69,6 +69,23 @@ Three routing rules, and they are the point of this file:
 State the chosen mode in one short line before starting, so a wrong route can be corrected
 cheaply.
 
+**Measured loads**, against a baseline of **69,556 words** — what the engine read at startup for
+every task alike before the modes existed:
+
+| mode | load | of baseline |
+|---|---|---|
+| revise-light | ~6,300 | 9% |
+| continuity-repair | ~15,400 | 22% |
+| developmental | ~18,400 | 26% |
+| revise-moderate | ~18,900 | 27% |
+| draft | ~36,800 | 53% |
+
+Method: words in the files a mode's LOAD block names, plus an allowance for the target text and
+excerpts. The largest single saving is common to every mode — `state/story-bible.md` is read as
+its **spine (5,397w)** rather than in full (27,572w). Re-measure and update this table whenever a
+LOAD block changes; a stale figure here is how the modes quietly drift back toward loading
+everything.
+
 ## THE REPOSITORY
 
 Paths are relative to the REPO ROOT.
@@ -76,8 +93,8 @@ Paths are relative to the REPO ROOT.
 - `references/` — `session-locks.md` (binding, always) · `storycraft.md` (story curriculum) ·
   `style-guide.md` (the sentences) · `voice-rothfuss-mancour.md` (the voice) ·
   `feedback-engine.md` (the author's accumulated preferences, each sourced) ·
-  `continuity-checklist.md` · `outline.md` · and on demand `craft.md`, `exemplars.md`,
-  `editorial-read.md`, `economy.md`
+  `continuity-checklist.md` · `outline.md` · and on demand `exemplars.md`,
+  `editorial-read.md`, `economy.md`, `engine-changelog.md`
 - `state/` — `story-bible.md` (what is TRUE now) · `manuscript-log.md` (recap ledger) ·
   `geography.md` · `thread-ledger.md` (setups: PAID / BANKED / OPEN) · `engine-reports.md`
   (append-only, on demand) · `structural-diagnostic.md`

@@ -66,3 +66,12 @@ the whole of the grief in this chapter
 the business of the next chapter
 2,000–3,200 words
 2,000-3,200 words
+
+# craft.md (retired 2026-07-31: folded into storycraft.md; its 3 unique sections became
+# Modules 11, 6 and 8). These catch a doc reinstating it as a live, separate authority.
+references/craft.md
+craft.md is the
+craft.md (the curriculum
+> `craft.md`
+storycraft > craft.md
+craft.md §

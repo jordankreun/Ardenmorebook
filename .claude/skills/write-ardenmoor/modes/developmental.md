@@ -9,13 +9,11 @@ get agreement first. That handoff is the router's second rule and the reason the
 
 ## LOAD
 
-**Measured load: ~17,400 words (25% of the old always-on startup, which was 69,556 words in every mode regardless of the task).** storycraft + spine, no feedback-engine or voice note. The story bible is read as its
-**spine** (5,370w) rather than in full (27,395w); that substitution is most of the saving
-and applies to every mode.
+**Measured load: ~18,400 words.** See the router for the baseline and the method.
 
 - `references/session-locks.md` (always, first)
 - `references/storycraft.md` (full) — Modules 1–4A are the structural law this mode works under
-- `references/craft.md` — §5 causality, §2 scene, the OVERRULED table
+- `references/storycraft.md` — §5 causality, §2 scene, the OVERRULED table
 - `references/editorial-read.md` — how to read a draft as an editor rather than a rule-matcher
 - `references/exemplars.md` — worked models, when a technique is at risk
 - `state/story-bible.md` spine + the `ESTABLISHED ON THE PAGE` blocks for every chapter in scope

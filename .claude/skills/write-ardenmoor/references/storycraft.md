@@ -334,6 +334,31 @@ Baxter's law: the scene's real subject is the one nobody names. Working rules:
 
 ---
 
+### Diction domains — how to make voices distinct without dialect
+
+Give each recurring character a **domain of metaphor** drawn from their work, and let them reach for
+it under pressure. This is the cheapest and most durable characterization device available, and it
+never reads as an accent.
+
+- **Jorin** measures. Load, bearing, plumb, square, what a thing will carry. His verdicts are
+  single words because a measurement does not need a sentence.
+- **Ren** thinks in frames and loads, but he is learning a second vocabulary; his best lines are the
+  moment his old domain reaches something new ("it's built true and it stands other").
+- **Tomas** works in heat and tolerance. He answers in three words or fewer, and his real answers are
+  physical: a hammer that pauses half a beat, an arm out straight.
+- **Brenna** grows things. She measures in seasons and in what a living thing will tolerate. Flat,
+  exact, no ceremony.
+- **Penworth** accounts. Columns, dates, liabilities, the sentence eleven lines long. His warmth
+  arrives disguised as scolding.
+- **Cael** governs. He speaks in precedent, procedure, and the management of other people's opinions.
+- **Lira** weighs. She gives nothing unpaid-for, and her diction is the ledger's: what a thing costs,
+  what it is worth, what is owed.
+- **Soren** counts. He is a child who reports observations and withholds inference.
+
+*(Folded in from the retired `storycraft.md`, 2026-07-31.)*
+
+---
+
 ## MODULE 7 — TIME: SCENE, SUMMARY, AND THE ITERATIVE
 
 Three gears, each with a job:
@@ -373,6 +398,30 @@ Three gears, each with a job:
   → greeting → word); so does the village (receipt-warmth → neighborhood → the lantern
   chain); so does the tower itself (tent → Study → the lit valley). Track their arcs in
   the bible like people. Setting beats can carry a chapter's turn.
+
+---
+
+### The authority of the specific
+
+The reason this book can carry an aware hill is that it can carry a glass gauge.
+
+A reader extends trust earned on verifiable ground to unverifiable ground. When the mortar cures in
+three days, the fall on a cold-store floor is one in sixty, and a lamp costs a half-gold, the reader
+concludes that this narrator knows things — and then accepts the hum on the same credit. Specificity
+is not decoration; it is the collateral on which the fantasy borrows.
+
+**Practical rules.**
+
+- Prefer the exact to the evocative. "Eleven fleeces" beats "a quantity of wool."
+- The specific must be *load-bearing*, not merely present. A number nobody acts on is set-dressing.
+- Errors are expensive in both directions: a wrong specific costs more trust than a vague statement
+  would have, because it was offered as a credential.
+- Logistics are real. Wagons do not climb roadless hills; goods unload somewhere; somebody paid the
+  carriage.
+- When inventing a process, invent its *failures* too. The eleven housings before the one that held
+  do more for credibility than any description of the one that held.
+
+*(Folded in from the retired `storycraft.md`, 2026-07-31.)*
 
 ---
 
@@ -458,6 +507,28 @@ The genre's working canon, read as craft, yields harder rules than "low stakes":
   genre furniture; protect it in every revision.
 - **Friction without villainy; sweetness with a held-back tenth** (v1 §1 and §7 stand,
   promoted to contract terms).
+
+---
+
+### OVERRULED — standard advice, and what this book does instead
+
+| Standard advice | Why it is standard | What this book does |
+|---|---|---|
+| Every scene needs conflict | Conflict guarantees a scene has a reason to exist | Every scene needs **change**. Name what changed: a fact, a relationship, an understanding, or the temperature. Conflict is one way to change something; it is not the only way. |
+| Escalate stakes each act | Rising stakes counteract reader fatigue | Stakes stay **village-sized**. What grows is **implication** — the same small thing meaning more because more is attached to it. A burned barn matters because of who comes up the hill for it. |
+| Open with a hook, in medias res | Buys attention before it is earned | Open on **consequence** (Module 2). The hook is the narrator's voice and the reader's trust in it. A hook that outruns the register is a promise the book will not keep. |
+| Cut anything that doesn't advance plot | Prevents flab | Atmosphere **is** the product. Cut the **empty** chapter — one that neither moves nor deepens anything — never the quiet one. A chapter whose work is texture earns its place if the attention is alive on the page. |
+| The protagonist must drive the action | Passive protagonists bore | This book's problems are solved by **patience and other people**. That is the thesis, not a defect. Emlyn's competence is in *asking*; the plot is the valley answering. |
+| Increase try/fail cycles | Manufactures tension | Increase **cost and reciprocity**. The failure that matters is not "he tried and failed" but "he got it and it cost someone something." |
+| Give the antagonist page time | Externalises the conflict | There is no villain on stage. The pressures are money, weather, distance, and grief. Keep the distant institutions as **weather**, not as enemies. |
+
+**The test that replaces the conflict test:** at the end of a chapter, can you say in one sentence
+what is different now that was not different before, and does at least one person feel it? If yes, the
+chapter is doing its job however quiet it is.
+
+---
+
+*(Folded in from the retired `storycraft.md`, 2026-07-31.)*
 
 ---
 

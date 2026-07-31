@@ -20,7 +20,7 @@
 #
 # Run it at every part boundary, before delivering three or more chapters, and
 # after ANY renumber or restructure. Everything is a WARN; exit is 0 unless a
-# file is missing. See references/craft.md §9.
+# file is missing. See references/storycraft.md Module 8 (description & setting).
 
 set -u
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -86,7 +86,7 @@ for i in $(seq 0 $((n-1))); do
   fi
 done
 if [ "$best" -ge 3 ]; then
-  echo "  WARN  dialogue run: ${best} consecutive chapters under the 15% floor, from ${names[$beststart]} — a single quiet chapter is a choice; a RUN is a drift the per-chapter check cannot see. (craft.md §9)"
+  echo "  WARN  dialogue run: ${best} consecutive chapters under the 15% floor, from ${names[$beststart]} — a single quiet chapter is a choice; a RUN is a drift the per-chapter check cannot see. (storycraft.md Module 8 (description & setting))"
   warned=1
 fi
 
@@ -102,7 +102,7 @@ for i in $(seq 0 $((n-1))); do
   fi
 done
 if [ "$best" -ge 2 ]; then
-  echo "  WARN  summary run: ${best} consecutive chapters over 120 w/paragraph, from ${names[$beststart]} — consecutive summary-heavy chapters compound; the reader feels narrated at. (craft.md §2)"
+  echo "  WARN  summary run: ${best} consecutive chapters over 120 w/paragraph, from ${names[$beststart]} — consecutive summary-heavy chapters compound; the reader feels narrated at. (storycraft.md Module 2 (scene design))"
   warned=1
 fi
 
@@ -114,7 +114,7 @@ if [ "$n" -ge 6 ]; then
   for i in $(seq $((n-third)) $((n-1))); do b=$(( b + words[i] )); done
   amean=$(( a / third )); bmean=$(( b / third ))
   if [ "$amean" -gt 0 ] && [ "$bmean" -lt $(( amean * 2 / 3 )) ]; then
-    echo "  WARN  sustained thinning: span opens at ~${amean}w/chapter and closes at ~${bmean}w/chapter (down over a third) — chapters getting shorter across a span reads as acceleration where this register wants lingering. (craft.md §9)"
+    echo "  WARN  sustained thinning: span opens at ~${amean}w/chapter and closes at ~${bmean}w/chapter (down over a third) — chapters getting shorter across a span reads as acceleration where this register wants lingering. (storycraft.md Module 8 (description & setting))"
     warned=1
   fi
 fi
@@ -132,7 +132,7 @@ for i in $(seq 0 $((n-1))); do
   prev="$s"
 done
 if [ "$best" -ge 3 ]; then
-  echo "  WARN  cadence: ${best} consecutive chapters closing on the same shape (${bestsig}) — the cozy close is the register's birthright, but a third in a row depreciates it; vary time of day, who is present, or whether anyone speaks. (craft.md §9, style-guide dial 3)"
+  echo "  WARN  cadence: ${best} consecutive chapters closing on the same shape (${bestsig}) — the cozy close is the register's birthright, but a third in a row depreciates it; vary time of day, who is present, or whether anyone speaks. (storycraft.md Module 8 (description & setting), style-guide dial 3)"
   warned=1
 fi
 
@@ -149,7 +149,7 @@ if [ -f "$LEDGER" ]; then
       if grep -qiF "$(echo "$thread" | sed 's/^ *//;s/ *$//' | cut -d' ' -f1-2)" "$f" 2>/dev/null; then hit=1; break; fi
     done
     if [ "$hit" -eq 0 ]; then
-      echo "  note  thread untouched across this span: $(echo "$thread" | sed 's/^ *//;s/ *$//') (OPEN since ${planted// /}) — fine if resting; a long silence is how a setup becomes an orphan. (craft.md §6)"
+      echo "  note  thread untouched across this span: $(echo "$thread" | sed 's/^ *//;s/ *$//') (OPEN since ${planted// /}) — fine if resting; a long silence is how a setup becomes an orphan. (storycraft.md Module 1 (promise/progress/payoff))"
     fi
   done < "$LEDGER"
 fi

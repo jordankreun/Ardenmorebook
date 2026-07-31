@@ -9,9 +9,7 @@ that stays.
 
 ## LOAD
 
-**Measured load: ~20,900 words (30% of the old always-on startup, which was 69,556 words in every mode regardless of the task).** feedback-engine (9,009w) is the bulk and is kept deliberately: it is the record of author taste, which is precisely what a revision calibrates to. The story bible is read as its
-**spine** (5,370w) rather than in full (27,395w); that substitution is most of the saving
-and applies to every mode.
+**Measured load: ~18,900 words.** See the router for the baseline and the method.
 
 - `references/session-locks.md` (always, first)
 - `references/style-guide.md` — the primary prose authority in this mode
@@ -22,9 +20,9 @@ and applies to every mode.
 - `state/engine-reports.md` — this chapter's block, if one exists. It tells a silent miss from a
   conscious keep, which changes what a note means.
 
-**Do NOT load** `storycraft.md`, `craft.md`, `outline.md`, `exemplars.md`, or the drafting
-curriculum. Those govern what a chapter IS. This mode is not permitted to change what a chapter
-is, so loading them only invites the escalation the router forbids.
+**Do NOT load** `storycraft.md`, `outline.md`, or `exemplars.md`. Those govern what a chapter IS.
+This mode is not permitted to change what a chapter is, so loading them only invites the
+escalation the router forbids.
 
 ## PRESERVE
 

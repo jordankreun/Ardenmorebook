@@ -90,8 +90,9 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
   looked at, and FAILs above 2.0 per 1,000 words, where the mark stops reading as a choice and
   starts reading as the machine tic the ban existed to prevent. Default still favors the comma,
   the period, the semicolon, the colon, and parentheses, varied so no one mark becomes a tic.
-  This is NOT retroactive: the 37 drafted files hold zero em dashes and are not to be re-punctuated
-  to use them. *Source: "never use em dash, make writing feel human" (2026-07-11), reversed by the
+  This is NOT retroactive: finished prose is not to be re-punctuated to add dashes. The manuscript
+  held zero until the author's approved Prologue+Ch 1 revision (2026-07-31) introduced 6, all in
+  Ch 1, at 1.2 per 1,000 words — the worked example of what deliberate use looks like. *Source: "never use em dash, make writing feel human" (2026-07-11), reversed by the
   author 2026-07-31.*
 - **[HARD] No en dashes (–) and no ` -- `.** The reversal above named the em dash only; these stay
   a prose-lint FAIL, and ` -- ` is nearly always a mistyped em dash.
@@ -238,6 +239,90 @@ author has repeatedly (and rightly) pushed the arithmetic to be harder and more 
 - **[CHECK] The institutional detail is domestic.** Patents, rent rolls, escrow, arrears, tranches and
   schedules are welcome and are part of the world's texture, but each one arrives attached to a person
   and a feeling: a widow's saucer of coin, eleven fleeces in a loft, a boy going red at a window.
+
+## P1c — THE AUTHOR'S LINE-EDIT FINGERPRINT (from the 2026-07-28 reader pass on Ch 0–3; 26 tracked changes analysed)
+These patterns were extracted from the author's own hand-edits. They outrank house style where they
+conflict. Check every draft and every editing pass against them.
+
+- **[HARD] CUT THE EXPLANATORY TAIL.** When an image is followed by a clause explaining what the
+  image means ("…the smell of a place people go to when they are frightened for someone they
+  love"), cut the tail. The image stands alone. This is the author's most consistent edit.
+- **[HARD] NO FORESHADOW FLAGS.** "I did not know then…", "that came later, and I will get to it",
+  "nor that the two of them had been holding a conversation" — all cut on sight. The narrator may
+  have hindsight; he may not ADVERTISE it. Let later chapters land unannounced.
+- **[HARD] DE-AGE THE CAST.** Cael is late-50s and vigorous: no bad knees, no "the old man's knees
+  at last willing", "a fair way yet from invalid," not "from grey." Jorin has "just the beginning
+  of grey," and is "a big man," never "a big grey man." No infirmity props on anyone the author
+  has not explicitly aged. Age lives in judgment and standing, not joints.
+- **[HARD] POV KNOWLEDGE DISCIPLINE.** The narrator may not use knowledge before he acquires it
+  ("his grandson" before anyone says so — write "the young boy"), and may not explain to a
+  character what that character already knows (Penworth negotiated with Cael; Emlyn's letter does
+  not introduce "an honest man named Cael," just "an honest man").
+- **[CRAFT] ADJECTIVES TRAVEL IN PAIRS AT MOST.** "Clear and crisp," not "clear and cold and
+  washed." A triple stack is a flag.
+- **[CRAFT] HEDGE THE DEAD.** Characters do not speak for the dead with certainty: "someone I
+  suspect she'd have approved of." Certainty about a dead person's mind is presumption; the
+  author softens it every time.
+- **[CRAFT] INSTITUTIONS OVER MYTH.** "The village sent me," "I lead our parish meetings on the
+  rare occasion they're held" — not "the families sent the oldest man they had." The valley has
+  ordinary civic machinery, rendered dryly, with self-deprecation ("could be bothered").
+- **[CRAFT] NO UNINTRODUCED COMPARATORS.** Never measure against a person or place the reader has
+  not met ("more land than the squire down at Wainford" → "more untouched and unused land than one
+  man could ever figure out what to do with").
+- **[CRAFT] LOGISTICS ARE REAL.** Wagons do not climb a roadless hill: goods unload into a corner
+  of the inn's stable, let for the purpose; books go up to the rented room; a camp is a tent, a
+  kettle, and what a horse can carry. The author catches every physically lazy convenience.
+- **[CRAFT] THE VALLEY'S EARLY VIEW OF EMLYN IS GENTLY COMIC — CONFIRMED by the author
+  2026-07-28 ("Gently comic is fine").** "The foolish and strange wizard who had bought Cael's
+  hill." Allow the village a little amusement at him, recurring, not once; he reports it without
+  defending himself, and the amusement fades into respect only as the work earns it, never because
+  the narration tires of the joke.
+- **[VOICE, small]** "wizardly enough," not "wizard enough" · the holding is "a living," never "a
+  farm" · trim possessive tics ("a great deal of money," not "of your man's money") · direct
+  address in dialogue ("How long would you need," not "would your man of affairs and mine need").
+- **[CANON] THE RIVER-HOUSE MONEY, ON THE PAGE:** it comes "in two lump sums, one the buyer's
+  deposit to secure the sale and one to come at a later date from his lender." The word "halved"
+  is retired from the page (the internal net-of-debt arithmetic in economy.md stands, unstated).
+  The note's menace tail ("begin, quietly and then not quietly, to eat me") is also retired: state
+  the deadline, skip the melodrama.
+- **[CANON] THE CHEST AND ALL GOODS WAIT AT THE INN** (stable corner, oilcloth) until there is a
+  built room to receive them. The chest does not sit in the tent. It comes up when the Study does.
+
+- **[OPS, standing — 2026-07-28] CLEAR THE REVIEW APP AFTER APPLYING.** Whenever reader feedback is
+  applied to the manuscript, mark those entries `resolved:true` with a FRESH `ts` in
+  feedback/notes.json and feedback/revisions.json (revs: `resolvedVia:"applied"`), and regenerate
+  both .md files (renderers in api/sync.js filter `!resolved`). The fresh ts is what makes the
+  reader's newest-wins sync merge propagate the cleared state to every device; deleting entries
+  instead would resurrect them from a device's localStorage. The app auto-resolves a tracked change
+  whose original paragraph vanished, but notes NEVER auto-resolve, so this step is mandatory.
+
+- **[OPS, standing — 2026-07-28] AUTO-RESOLVE ALL VERIFIED FINDINGS.** Author's directive
+  ("Automatically resolve all"): on any editorial/cold-read pass, verify each finding's receipt
+  against the text, then fix everything that survives — BLOCKER, MAJOR, and MINOR alike — without
+  per-item consultation. Rejected-on-verification findings are logged, not applied. Push the
+  corrected text to the app in the same session. Only findings that would change a LOCKED author
+  decision (canon marked ⚠️ by the author's own choice) are exempt and get surfaced instead.
+
+- **[P1c ADDITIONS — 2026-07-29 round (Prologue + Ch 3-6):]**
+  - **Cut narrator flourishes about the artifact itself** ("Three lines. I have the book yet, and
+    I could copy the very slant of them"; "because the why is the chapter"). The teller does not
+    admire his own telling or his props' provenance.
+  - **Marginalia and documents read as working trade prose,** not oracle: the reader EXPANDED the
+    surveyor's margin note into practical instruction before its aphorism. In-world text should
+    sound like its genre first and only then land its line.
+  - **Dedupe signature formulations.** "Saying a thing to that boy/family was the surest way to
+    make them careful of it" appears ONCE (Ch 3); the Ch 5 echo was cut. One coinage, one use.
+  - **Side characters observe, they do not oracle.** Soren's "It said yes" became "You've
+    started" — the boy reports what a boy can see; he does not voice the hill for the wizard.
+  - **Jorin (and his kind) confirm with tools, not questions.** Survey, test, verdict. The fewer
+    questions a craftsman asks aloud, the better the scene.
+  - **Weather is allowed to clear.** The reader twice brightened rain-endings (rain clearing, sun
+    breaking through). Don't default to persistent drizzle for mood.
+  - **Magic is engineering:** iterated R&D on the page (several failures, then a working version
+    with a real limitation, then the refinement that removes the limitation). One-failure-then-
+    success reads as fable; the reader wants the development arc.
+  - **The prologue frame stays light:** conditional "Perhaps I will set it down" over direct
+    "You have asked me" — the addressee device is kept latent until the coda.
 
 ## P2 — CHARACTER INTRODUCTION & THE ASIDE DISCIPLINE
 
@@ -433,7 +518,7 @@ DURABLE" in `references/session-locks.md`), run this full protocol. A note that 
    step 4 is the sweep tool). Fix instances where the change is surgical; where a fix would alter
    a beat the author has read and liked, flag it to the author instead of silently changing it.
    A rule that only governs future chapters leaves the shipped book inconsistent with it.
-6. **Log it.** Append a dated line to the ENGINE CHANGELOG below: the note (short), the rule
+6. **Log it.** Append a dated line to `references/engine-changelog.md`: the note (short), the rule
    added/changed, whether a lint pattern was added, and the retro-sweep result. The changelog is
    the audit trail that proves learning happened, and rereading it is how repeat families get
    noticed (step 3's escalation depends on it).
@@ -446,242 +531,9 @@ an engine bug — fix the engine (steps 3–4), not just the line.
 
 ---
 
-## ENGINE CHANGELOG (audit trail — append, never rewrite)
+## ENGINE CHANGELOG
 
-- **2026-07-13 — "Make it not obvious it's a set up."** New P1 [HARD] "Setups are invisible —
-  plant seeds blind." Gap analysis: P1 telegraph + P2 significance-tags existed but were scoped to
-  the throughline and to characters; plot seeds were uncovered — third member of one family, hence
-  [HARD] on arrival. Lint: seed-telegraph WARN list added (review-every-instance, budget 0).
-  Retro-sweep: fixed Ch 9 (barn confessional frame, closing moral, cabin self-deception flag),
-  Ch 5 (Tomas hammer: "a good deal turned on him later… I have the key now" → unremarked + "A
-  man's hammer is his own affair"), Ch 6 (grandmothers: "the answer… was not the one I expected.
-  But that comes later" → "I let the question keep" — which also un-forecloses an OPEN question).
-- **2026-07-13 — "Review how the engine learns; make more robust."** Rewrote this intake protocol
-  from 3 advisory steps to 6 mandatory ones: added gap analysis with mandatory escalation,
-  same-day mechanization, an operational retro-sweep step, this changelog, and the pass-tally
-  requirement in engine reports.
-- **2026-07-13 — "But the feedback engine for going forward."** Forward pass added: the engine now
-  runs BEFORE drafting too. New PRE-DRAFT BRIEF section (at-risk rules, active blind seeds
-  touched/rested, [OPEN] questions not to foreclose, previous chapter's tic exposure), wired into
-  SKILL.md's plan block. New P1 [CRAFT] "Water a blind seed rarely" (frequency is also a
-  telegraph; cadence + variation + second-mundane-job). Lint: mechanized the adjacent-chapter echo
-  rule (5-word shingles vs the previous manifest entry, WARN). Sweep on arrival found real echoes
-  ("lowered himself onto the bench" Ch1↔Ch2; "every wall in two lifetimes" Ch4↔Ch5) — left for a
-  dedicated polish pass, flagged to the author. Bible's PENDING PAYOFFS header now carries the
-  blind-seed handling rules at the point of use.
-- **2026-07-14 — "when you do the adversarial read, act as an editor would."** New reference doc
-  `references/editorial-read.md`: the fiction-editor persona, the FOUR-LEVEL read (developmental /
-  scene / line / copy) with the developmental layer a rule-lint cannot reach, the note-vs-nitpick
-  bar, and the "adversarial verify AS AN EDITOR" protocol (skeptical of taste AND of the
-  rubber-stamp; when confirming, owe the author the editor's own best fix; look up from the
-  finding for what the finder missed). Wired into SKILL.md's reference list and this file's
-  HOW-TO-RUN block; cold-read and verifier sub-agent prompts must now invoke that persona.
-- **2026-07-14 — skill + engine REWORK (author: "audit the skill… rework the skill and self
-  learning engine").** (a) Fixed a live self-contradiction: SKILL.md's drafting section still
-  commanded the retired 3,500 hard floor against session-lock #7 — the rulebook itself needed the
-  retro-sweep discipline. (b) Mechanized that class: new `tools/superseded.txt` (registry of
-  retired rule formulations) + `tools/doc-audit.sh` (greps ALL skill+state docs for retired rules
-  still stated as live; run after any lock/canon change). First run caught two more live strays
-  (a hard-floor line in the bible; a magic-scarcity line in geography, both now reworded). (c) OUTLINE fully rewritten
-  to the two-year map with all locks (28–30 ch, fire at Ch 27 pre-finale, Lira chapter Part III,
-  sale money mid-book with rooms crated under seal, tenants/harvest/note-payment beats, ages
-  spanning two years, Emlyn/fiancée naming). (d) Four CRAFT DIALS locked (dialogue share, scene
-  over summary, opening variety, one comic beat) — style guide section + the four rules above.
-- **2026-07-14 — "sentences like this that could read better broken up into two" (the action+aphorism weld).** New P0 [CRAFT] rule "Break the action-plus-aphorism weld" + a lint review-list (WARN, budget 0) for the weld markers. Gap analysis: session-lock #9 / the run-on rule governed 4+-clause chains and comma splices but NOT the two-clause "concrete action, and general aphorism" weld, which is a distinct rhythm fault; added it. Applied 11 breaks across Ch 2-10; deliberately KEPT the prologue close, the "Good" payoff, and the Ch 1 triad (the lint surfaces that triad for review and it is vouched). 
-- **2026-07-14 — feedback export (6 notes + 6 tracked changes, Prologue/Ch 1).** Gap analysis:
-  two notes were engine misses. (1) The prologue "not on a boy" payoff had its setup cut in an
-  earlier prologue rewrite — P4 "set up before you pay off" was drafted for within-chapter facts,
-  not revision-orphaned dependents; rule sharpened to re-check dependents after every revision.
-  (2) The townhouse-size mismatch was a **retro-sweep miss**: the modest-house retcon (2026-07-12)
-  changed canon without sweeping Ch 1 ¶13/Ch 3 for stale "large house" facts — the intake
-  protocol's step 5 existed and was skipped for a canon-only change; canon changes sweep the
-  book, same as note-driven rules. Mechanized: lint now flags "had had"/"that that" (stacked
-  perfects read as typos; source: "the double had is at issue"). Diction: trains are "crude,"
-  not "early." Canon recorded in the bible: Cael negotiates as VILLAGE ELDER for the assembled
-  families (why no haggling), hill-only reservation, outsider-buying-so-much suspicion; the inn
-  is the ONLY three-storey building; the family townhouse is remembered FONDLY.
-- **2026-07-15 — engine ROADMAP build (author: "Tier 1 + all of Tier 2"), from the 6-lens
-  self-improvement audit.** Tier 1: (a) **dialogue-share meter** in the lint — WARN below a ~15%
-  floor (prose lines with a quote mark ÷ total), prologue+interludes exempt, deliberately-interior
-  chapters vouchable; surfaces the single highest-leverage dial (craft dial #1). It fires on Ch3
-  (0%) and Ch4 (3%), both genuinely interior (arrival, first working) and left as designed. (b)
-  **Echo dedup via merge_runs** — overlapping 5-word shingles now merge into maximal runs before
-  reporting, killing the triple-count noise. (c) **VOUCH LEDGER** `tools/vouched.txt` — deliberate
-  cross-chapter motifs (the valley-evening "lamps one window at a time" refrain; "the failing of
-  the light"; the NE-corner/chest twist groundwork) are suppressed per file-pair and PRINTED as
-  "VOUCHED (n)" so it stays auditable; a new echo still fires. (d) Pruned the seed-telegraph
-  patterns to require the actual hindsight tail (bare "I would learn" → "I would learn later" etc.),
-  taking the book's false-positive count 4→0. (e) P5 tic rule reworded to a three-level gradient
-  (AIM / RATION / THRESHOLD) — the docs had falsely conflated "lint budget" with "hard ration."
-  Tier 2: (f) **CALENDAR SPINE** + (g) **GRIEF-THAW CURVE** added to the bible (the two cross-chapter
-  arithmetic axes a per-chapter CANON check is blind to — the exact source of the Ch10 forty-vs-thirty
-  and keeper-leaf slips), each with a PRE-FLIGHT line; back-filled Ch1–10 onto both. Three new
-  pre-draft-brief LOCATES wired into SKILL.md (locate on the calendar / is-the-clock-honest; locate
-  on the thaw / not-healed-early; recall the last two closing shapes). (h) **`state/engine-reports.md`**
-  — append-only archive of what each pass CLAIMED at ship time (NOT a startup read), so intake
-  gap-analysis can tell a **silent miss** (engine claimed clean; note later caught a real defect →
-  sharpen the rule) from a **conscious keep** (engine flagged + vouched; author still disliked →
-  judgment bar was wrong); intake step 3 and the revise-flow now read it first. (i) [CHECK] Speaker
-  trackability + widened [CHECK] Bookend variety (openings AND closes) in P4; editorial-read level-2
-  gained speaker-trackability; style-guide dial #3 widened to "vary the bookends." doc-audit clean;
-  full lint shows no new FAILs.
-- **2026-07-15 — engine ROADMAP build (author: "build 3" = Tier 3), the three optional items, each
-  built as the AUDIT'S NARROW HALF (the over-built half of each was explicitly rejected).** (j)
-  **Blind-seed falsification PROBE** — new P1 [PROBE] instrument: when a chapter plants/waters an
-  active seed, spawn a fresh *bible-blind* sub-agent given only the manuscript through that chapter
-  and ask the ONE question — does anything read as deliberately set up to matter later? — then
-  cross-check its list against PENDING PAYOFFS; a seed named by function failed the [HARD] test and
-  is replanted. This is the only uncontaminated test of the blind-seed rule (every knowing reviewer
-  already sees the payoff). *Rejected half:* the four-question skim/confusion/expectation reader —
-  an LLM confabulates a skim-map and "what did you expect that never came" would false-alarm against
-  the book's DELIBERATE withholdings (the surname, the twist, the sealed grief). Wired into SKILL.md
-  post-flight (conditional on a live seed). (k) **Delivery receipt** `tools/chapter-check.sh` —
-  existence-only gate run at end of drafting: re-runs the lint and asserts the chapter is plumbed in
-  (in `manifest.json` — else invisible to `reader.html`; has a phrase-registry row; has a log recap
-  line). One PASS/FAIL line each; exit 1 on any FAIL. *Rejected half:* the front-matter-keys check
-  (would FAIL all existing files; the header spec is a dead letter), the gameable "bible modified or
-  N/A" self-assertions, and above all a tracked git pre-commit hook (can't tell a new-chapter commit
-  from this repo's constant revision commits, so it only trains `--no-verify`). Verified: PASS on the
-  wired Ch1–11 + interlude, FAIL on an unwired file. Wired into SKILL.md as the final mechanical
-  gate. (l) **De-escalation discipline note** — folded into intake step 4 (Mechanize): whenever you
-  ADD a lint pattern, in the same breath review whether any existing WARN ever neared a real catch
-  and retire the pure-noise ones (log it, add to `superseded.txt`) — the prune reflex fires when the
-  add reflex does, so the lint can't silently accrete false-friends. Caveat codified: a budget-0
-  deterrent tripwire (seed-telegraph, welds, `had had`) is SUPPOSED to almost never fire; retire a
-  WARN only when it fires *and is wrong*, never merely because it is quiet. **One roadmap item stays
-  REJECTED** (not built): mechanizing repeat-family escalation — premature at this changelog depth;
-  manual family-spotting has worked. Roadmap now fully resolved (Tier 1 + 2 + 3 built; one reject).
-- **2026-07-15 — review pass on Ch 11 (author: "take a pass at the book's review"), the new
-  instruments' first live run.** The blind-seed PROBE (bible-blind reader) passed the strict test:
-  it decoded NO active seed by function (Emlyn's hidden listening + the twist both stayed invisible);
-  its extra "significance-telegraphing" flags on the metronome/opening were adjudicated by the
-  editorial read as earned/intended, so left. The EDITORIAL read caught one CONFIRMED **silent miss**:
-  "I set this down…" (Ch11 ¶9) tripped session-lock #1's banned scribe framing — the drafting engine
-  claimed clean and the lint's memoir-frame FAIL list was scoped too narrowly (had 'this account',
-  not the 'set this down' variant). Gap analysis (intake step 3): SILENT MISS → SHARPEN. Mechanized:
-  added 'set this down'/'setting this down' to the memoir-frame FAIL list (step 4), regression-tested
-  0 false positives on Ch1–10. Two further review improvements applied (not misses, craft): surfaced
-  Emlyn's "I don't know" as a spoken line (scene-over-summary on the pivot); trimmed the
-  lightning-thunder tail's over-explaining clause. Lesson: a locked-decision breach is a FAIL class
-  the mechanical list must cover phrase-by-phrase; when a lock bans a *family* of phrasing, seed the
-  list with every variant the lock names, not just the first.
-- **2026-07-15 — the TENANCY ARC (author-guided rewrite of Ch 9–17) → new P1b MONEY, LAND &
-  INSTITUTIONS section.** Five distinct lessons, all from author pushes, all now rules:
-  (a) **Causal consistency across chapters.** The author asked "why is the Wrays' first year free?"
-  Ch 9's answer (rough ground repays the third year, not the first) logically forbade Ch 15's bumper
-  harvest, but each chapter passed its own CANON check because the contradiction lived in the
-  causation BETWEEN them, not in any date or figure. → [HARD] rule + a new pre-draft CAUSAL check.
-  (b) **No convenient money.** The author repeatedly hardened the arithmetic (greenhouse rescaled to
-  a bet-the-hill second borrowing; harvest made meagre; every liquid coin burned to eleven
-  silver). → [HARD] "money is never solved by convenience," and the shortfall drives the next
-  chapter rather than being absorbed.
-  (c) **Close the doors on the page.** The author's steer that the arrears were "the plan" and their
-  failure "the nail in the coffin" produced the closed-door reckoning (hill twice-charged, patents
-  leant on, lamps are bread not a wage bill, crop and house spent). → [CRAFT] rule: the reader must
-  watch the ordinary routes close, by name, before an unconventional solution appears.
-  (d) **Pay in kind when there is no coin**, and **both sides must visibly win.** The labour bargain
-  became craft-for-work (3 yrs of footings, a season at the forge, first refusal on a crop). → two
-  [CRAFT] rules; craft-debt binds where cash separates.
-  (e) **PEOPLE FIRST, LEDGER SECOND (the anti-dryness rule).** Author: "make sure it's still focused
-  on people equally with finances so it doesn't read dry." A dialogue-share audit showed Ch 16 at
-  **21%** against neighbours at **56%** and **44%** — the five tenants had been LISTED, not met.
-  Rewritten as encounters (Ned Pardon's eleven unclaimed fleeces in a loft; Alice Bewick's saucer of
-  coin and her "I don't take that sort of arrangement") → 30%, and the chapter came alive. → [HARD]
-  rule ("could this section be a table? then rewrite it as encounters"; dramatize the two or three
-  transactions that cost somebody something) + a new P6 [CHECK] comparing dialogue share against the
-  neighbouring chapters.
-  Also added: [CRAFT] "owning things costs the owner something moral" (the Hask beat — refuse the
-  tidy absolution) and [CHECK] "institutional detail is domestic" (every patent/arrear/tranche
-  arrives attached to a person and a feeling). Process fix in SKILL.md: a chapter RENAME must
-  rewrite its `phrase-registry.txt` and `vouched.txt` rows (bitten twice in one session).
-- **2026-07-15 — author correction: Emlyn's trade is GENERAL WIZARDRY + PATENTS**, not ground-command.
-  I had drifted into writing ground-work as his defining craft and built a bargain on it; corrected in
-  prose and bible, both formulations added to `superseded.txt`, and doc-audit immediately caught a
-  third stale instance I had just written. LESSON (now in the intake protocol's spirit): an invented
-  professional/world detail must be checked against occupation canon BEFORE it propagates — this one
-  reached three files in two turns.
-
-
-## P1c — THE AUTHOR'S LINE-EDIT FINGERPRINT (from the 2026-07-28 reader pass on Ch 0–3; 26 tracked changes analysed)
-These patterns were extracted from the author's own hand-edits. They outrank house style where they
-conflict. Check every draft and every editing pass against them.
-
-- **[HARD] CUT THE EXPLANATORY TAIL.** When an image is followed by a clause explaining what the
-  image means ("…the smell of a place people go to when they are frightened for someone they
-  love"), cut the tail. The image stands alone. This is the author's most consistent edit.
-- **[HARD] NO FORESHADOW FLAGS.** "I did not know then…", "that came later, and I will get to it",
-  "nor that the two of them had been holding a conversation" — all cut on sight. The narrator may
-  have hindsight; he may not ADVERTISE it. Let later chapters land unannounced.
-- **[HARD] DE-AGE THE CAST.** Cael is late-50s and vigorous: no bad knees, no "the old man's knees
-  at last willing", "a fair way yet from invalid," not "from grey." Jorin has "just the beginning
-  of grey," and is "a big man," never "a big grey man." No infirmity props on anyone the author
-  has not explicitly aged. Age lives in judgment and standing, not joints.
-- **[HARD] POV KNOWLEDGE DISCIPLINE.** The narrator may not use knowledge before he acquires it
-  ("his grandson" before anyone says so — write "the young boy"), and may not explain to a
-  character what that character already knows (Penworth negotiated with Cael; Emlyn's letter does
-  not introduce "an honest man named Cael," just "an honest man").
-- **[CRAFT] ADJECTIVES TRAVEL IN PAIRS AT MOST.** "Clear and crisp," not "clear and cold and
-  washed." A triple stack is a flag.
-- **[CRAFT] HEDGE THE DEAD.** Characters do not speak for the dead with certainty: "someone I
-  suspect she'd have approved of." Certainty about a dead person's mind is presumption; the
-  author softens it every time.
-- **[CRAFT] INSTITUTIONS OVER MYTH.** "The village sent me," "I lead our parish meetings on the
-  rare occasion they're held" — not "the families sent the oldest man they had." The valley has
-  ordinary civic machinery, rendered dryly, with self-deprecation ("could be bothered").
-- **[CRAFT] NO UNINTRODUCED COMPARATORS.** Never measure against a person or place the reader has
-  not met ("more land than the squire down at Wainford" → "more untouched and unused land than one
-  man could ever figure out what to do with").
-- **[CRAFT] LOGISTICS ARE REAL.** Wagons do not climb a roadless hill: goods unload into a corner
-  of the inn's stable, let for the purpose; books go up to the rented room; a camp is a tent, a
-  kettle, and what a horse can carry. The author catches every physically lazy convenience.
-- **[CRAFT] THE VALLEY'S EARLY VIEW OF EMLYN IS GENTLY COMIC — CONFIRMED by the author
-  2026-07-28 ("Gently comic is fine").** "The foolish and strange wizard who had bought Cael's
-  hill." Allow the village a little amusement at him, recurring, not once; he reports it without
-  defending himself, and the amusement fades into respect only as the work earns it, never because
-  the narration tires of the joke.
-- **[VOICE, small]** "wizardly enough," not "wizard enough" · the holding is "a living," never "a
-  farm" · trim possessive tics ("a great deal of money," not "of your man's money") · direct
-  address in dialogue ("How long would you need," not "would your man of affairs and mine need").
-- **[CANON] THE RIVER-HOUSE MONEY, ON THE PAGE:** it comes "in two lump sums, one the buyer's
-  deposit to secure the sale and one to come at a later date from his lender." The word "halved"
-  is retired from the page (the internal net-of-debt arithmetic in economy.md stands, unstated).
-  The note's menace tail ("begin, quietly and then not quietly, to eat me") is also retired: state
-  the deadline, skip the melodrama.
-- **[CANON] THE CHEST AND ALL GOODS WAIT AT THE INN** (stable corner, oilcloth) until there is a
-  built room to receive them. The chest does not sit in the tent. It comes up when the Study does.
-
-- **[OPS, standing — 2026-07-28] CLEAR THE REVIEW APP AFTER APPLYING.** Whenever reader feedback is
-  applied to the manuscript, mark those entries `resolved:true` with a FRESH `ts` in
-  feedback/notes.json and feedback/revisions.json (revs: `resolvedVia:"applied"`), and regenerate
-  both .md files (renderers in api/sync.js filter `!resolved`). The fresh ts is what makes the
-  reader's newest-wins sync merge propagate the cleared state to every device; deleting entries
-  instead would resurrect them from a device's localStorage. The app auto-resolves a tracked change
-  whose original paragraph vanished, but notes NEVER auto-resolve, so this step is mandatory.
-
-- **[OPS, standing — 2026-07-28] AUTO-RESOLVE ALL VERIFIED FINDINGS.** Author's directive
-  ("Automatically resolve all"): on any editorial/cold-read pass, verify each finding's receipt
-  against the text, then fix everything that survives — BLOCKER, MAJOR, and MINOR alike — without
-  per-item consultation. Rejected-on-verification findings are logged, not applied. Push the
-  corrected text to the app in the same session. Only findings that would change a LOCKED author
-  decision (canon marked ⚠️ by the author's own choice) are exempt and get surfaced instead.
-
-- **[P1c ADDITIONS — 2026-07-29 round (Prologue + Ch 3-6):]**
-  - **Cut narrator flourishes about the artifact itself** ("Three lines. I have the book yet, and
-    I could copy the very slant of them"; "because the why is the chapter"). The teller does not
-    admire his own telling or his props' provenance.
-  - **Marginalia and documents read as working trade prose,** not oracle: the reader EXPANDED the
-    surveyor's margin note into practical instruction before its aphorism. In-world text should
-    sound like its genre first and only then land its line.
-  - **Dedupe signature formulations.** "Saying a thing to that boy/family was the surest way to
-    make them careful of it" appears ONCE (Ch 3); the Ch 5 echo was cut. One coinage, one use.
-  - **Side characters observe, they do not oracle.** Soren's "It said yes" became "You've
-    started" — the boy reports what a boy can see; he does not voice the hill for the wizard.
-  - **Jorin (and his kind) confirm with tools, not questions.** Survey, test, verdict. The fewer
-    questions a craftsman asks aloud, the better the scene.
-  - **Weather is allowed to clear.** The reader twice brightened rain-endings (rain clearing, sun
-    breaking through). Don't default to persistent drizzle for mood.
-  - **Magic is engineering:** iterated R&D on the page (several failures, then a working version
-    with a real limitation, then the refinement that removes the limitation). One-failure-then-
-    success reads as fable; the reader wants the development arc.
-  - **The prologue frame stays light:** conditional "Perhaps I will set it down" over direct
-    "You have asked me" — the addressee device is kept latent until the coda.
+Moved to `references/engine-changelog.md` on 2026-07-31. It is an append-only audit trail, it was
+38% of this file by word count, and it sat between P1b and P1c so that every reader crossed 3,435
+words of history to reach a live rule. **Consult on demand; do not load it to draft or revise.**
+New entries still go there, per step 6 of the intake protocol above.

@@ -5,9 +5,7 @@ not yet exist. Never selected for an edit to existing prose (see `revise-moderat
 
 ## LOAD
 
-**Measured load: ~39,000 words (56% of the old always-on startup, which was 69,556 words in every mode regardless of the task).** the only mode that loads the full story curriculum. The story bible is read as its
-**spine** (5,370w) rather than in full (27,395w); that substitution is most of the saving
-and applies to every mode.
+**Measured load: ~36,800 words.** See the router for the baseline and the method.
 
 Always, before anything else: `references/session-locks.md`.
 
@@ -24,9 +22,9 @@ Then, in this order:
 - the previous chapter's file in `manuscript/`, in full
 - `feedback/notes.md` and `feedback/revisions.md`
 
-On demand only: `references/craft.md` (when a `craft-check.sh` WARN cites it),
-`references/exemplars.md`, `references/editorial-read.md`, `references/economy.md`,
-`state/engine-reports.md`.
+On demand only: `references/exemplars.md` (when a `craft-check.sh` WARN cites a module and you
+want a worked model), `references/editorial-read.md`, `references/economy.md`,
+`state/engine-reports.md`, `references/engine-changelog.md`.
 
 ## PRESERVE / FORBID
 
@@ -66,9 +64,9 @@ follows is the guidance those reads carry, which the LOAD list cannot express:
   reveals a preference that should generalize, record that convention too.
 
 **Precedence when documents disagree:** `references/session-locks.md` > `feedback-engine.md` (the
-author's own accumulated notes, each sourced) > `storycraft.md` > `craft.md` (retained for the
-three things storycraft does not cover: the OVERRULED table of conflict-driven orthodoxy, the
-per-character diction domains, and the authority of the specific). Log any collision you resolve.
+author's own accumulated notes, each sourced) > `storycraft.md` (the story curriculum). Three
+tiers, not four: `craft.md` was retired into storycraft on 2026-07-31, so there is no longer a
+craft-versus-storycraft collision to adjudicate. Log any collision you do resolve.
 
 Only then begin drafting.
 
@@ -117,7 +115,7 @@ When asked to write chapter N:
      only true answer is "time passed," you have found the chapter that needs work — and the cause is
      nearly always already on the page a chapter or two back, unclaimed. This line goes into the
      chapter's `engine-reports.md` block as `caused-by:`, and `chapter-check.sh` asserts it exists.
-     See `references/craft.md` §5.
+     See `references/storycraft.md` Module 2 (cause before effect).
    - **CAUSAL check, not just calendar:** ask what REASON earlier chapters gave for the current state
      of things (why the ground is poor, why a tenancy is free, why a route is closed), and confirm
      this chapter's outcome does not quietly contradict it. Each chapter can pass its own canon check
@@ -178,7 +176,7 @@ Guards the chapter's SHAPE where the prose lint guards its line. Everything it e
 nothing it emits is automatically wrong: a WARN means look. Run it BEFORE the feedback-engine pass so
 its findings are inputs to that judgment rather than an afterthought. Anything kept is justified in
 the engine report, exactly as with the lint. The principles behind each check are in
-`references/craft.md`; worked models are in `references/exemplars.md`.
+`references/storycraft.md`; worked models are in `references/exemplars.md`.
 
 **Run the SPAN CHECK at part boundaries, before delivering three or more chapters, and after ANY
 renumber, split, merge, or reorder:**

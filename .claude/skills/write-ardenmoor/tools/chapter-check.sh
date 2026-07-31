@@ -18,7 +18,7 @@
 #   4. a recap line exists in state/manuscript-log.md (the "[NN] …" ledger entry,
 #      or an "Interlude" line for an interlude file).
 #   5. a "caused-by:" line exists for this chapter in state/engine-reports.md —
-#      the MOMENTUM-causality declaration (references/craft.md §5). Prologue,
+#      the MOMENTUM-causality declaration (references/storycraft.md Module 2 (cause before effect)). Prologue,
 #      interludes and the coda are exempt: they are frame instruments.
 #
 # Deliberately NOT checked (rejected in the engine roadmap, Tier 3): a
@@ -97,7 +97,7 @@ else
 fi
 
 # 5. a declared causal parent in the engine report
-# MOMENTUM-CAUSALITY (references/craft.md §5). The engine has always tested
+# MOMENTUM-CAUSALITY (references/storycraft.md Module 2 (cause before effect)). The engine has always tested
 # causality as CONTINUITY ("does this contradict an earlier reason?"). It has
 # never tested it as MOMENTUM ("does this chapter exist BECAUSE of a named prior
 # event, or merely after it?"). Four of Book One's chapters opened on a calendar
@@ -123,7 +123,7 @@ NUM5="$(printf '%s' "${BASE%%-*}" | sed 's/^0*//')"
        ' "$REPORTS" 2>/dev/null | grep -q yes; then
       pass "engine-reports.md declares a caused-by: for $BASE"
     else
-      fail "engine-reports.md has NO caused-by: line for $BASE — name the prior event this chapter happens because of (craft.md §5)"
+      fail "engine-reports.md has NO caused-by: line for $BASE — name the prior event this chapter happens because of (storycraft.md Module 2 (cause before effect))"
     fi
     ;;
 esac

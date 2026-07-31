@@ -4,7 +4,7 @@
 introduced with enough weight that a reader will remember it. Weight is the operative word: a
 mentioned chair is not a setup; a chair somebody refuses to sit in is.
 
-**The three states** (see `references/craft.md` §6):
+**The three states** (see `references/storycraft.md` Module 1 (promise/progress/payoff)):
 
 - **PAID** — discharged on the page.
 - **BANKED** — explicitly acknowledged as still open, on the page. A craft act, not an evasion.
