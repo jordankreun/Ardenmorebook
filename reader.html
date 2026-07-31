@@ -972,25 +972,58 @@
      single combined file that is noise, so we keep the title once at the top and
      carry only each chapter's own "###" heading through. Nothing else is touched:
      the export is the manuscript verbatim, not the reader's rendering of it. */
-  function bookMarkdown(){
+  function bookMarkdown(applyEdits){
     if(!BOOK_MD.length) return "";
-    var out=["# The Tower of Ardenmoor","","## Book One",""];
+    /* Unresolved revisions only. A RESOLVED revision is one already written into
+       the manuscript, so its text is in BOOK_MD and applying it again would
+       double it. Read mode uses the same rule (findRev filters on !resolved). */
+    var pending=[];
+    if(applyEdits){ try{ pending=getRevs().filter(function(r){ return !r.resolved; }); }catch(e){ pending=[]; } }
+    var applied=0;
+    var body=[];
     for(var i=0;i<BOOK_MD.length;i++){
-      var lines=String(BOOK_MD[i]).split(/\r?\n/), kept=[], seenHead=false;
+      var lines=String(BOOK_MD[i]).split(/\r?\n/), kept=[], seenHead=false, chapTitle="";
       for(var j=0;j<lines.length;j++){
         var L=lines[j];
         if(!seenHead){
           if(/^#\s+The Tower of Ardenmoor\s*$/.test(L)) continue;
           if(/^##\s+Book One\s*$/.test(L)) continue;
-          if(/^###\s+/.test(L)){ seenHead=true; kept.push(L); continue; }
+          if(/^###\s+/.test(L)){ seenHead=true; chapTitle=L.slice(4).trim(); kept.push(L); continue; }
           if(!L.trim()) continue;          // blank lines inside the front matter
+        }
+        /* The chapter title is captured from the very "###" line that opens the
+           chapter, and it equals data-chap, so a revision's (chap, original) pair
+           can be matched here without any lookup table. Match on `original` (the
+           whole paragraph), never on `snip` (a 100-char prefix) — same authority
+           origStillPresent() uses. data-text is byte-identical to a raw line, so
+           normText on both sides is exact. */
+        if(pending.length && seenHead && L.trim()){
+          var hit=null, key=normText(L);
+          for(var k=0;k<pending.length;k++){
+            if(pending[k].chap===chapTitle && normText(pending[k].original)===key){ hit=pending[k]; break; }
+          }
+          if(hit){
+            applied++;
+            var rep=String(hit.revised||"").replace(/\s+/g," ").trim();
+            if(!rep){
+              /* Deletion: drop the paragraph AND the blank line after it, or the
+                 export keeps a paragraph-sized hole. The tidy-up at the end
+                 collapses 4+ newlines to three, not two, so it cannot fix this. */
+              if(j+1<lines.length && !lines[j+1].trim()) j++;
+              continue;
+            }
+            kept.push(rep);
+            continue;
+          }
         }
         kept.push(L);
       }
       while(kept.length && !kept[kept.length-1].trim()) kept.pop();
-      out.push(kept.join("\n"), "");
+      body.push(kept.join("\n"), "");
     }
-    return out.join("\n").replace(/\n{4,}/g,"\n\n\n")+"\n";
+    var out=["# The Tower of Ardenmoor","","## Book One",""];
+    if(applied) out.push("*Includes "+applied+" tracked change"+(applied===1?"":"s")+" not yet in the source manuscript.*","");
+    return out.concat(body).join("\n").replace(/\n{4,}/g,"\n\n\n")+"\n";
   }
 
   function bookWordCount(){
@@ -1002,7 +1035,7 @@
   document.getElementById("btnBookPdf").innerHTML=svg("download")+"Save as PDF";
 
   document.getElementById("btnBookMd").addEventListener("click", function(){
-    var md=bookMarkdown();
+    var md=bookMarkdown(true);
     if(!md){ toast("The book is still loading"); return; }
     download("the-tower-of-ardenmoor.md", md);
     toast("Downloaded the whole book");
@@ -1013,13 +1046,23 @@
      the PDF. Works offline, needs no external script (the CSP blocks those), and
      the reader keeps the browser's page-size and margin controls. */
   document.getElementById("btnBookPdf").addEventListener("click", function(){
-    if(!BOOK_MD.length){ toast("The book is still loading"); return; }
+        if(!BOOK_MD.length){ toast("The book is still loading"); return; }
     closeAll();
+    /* Print the READ-MODE rendering whatever mode we are in. In review mode a
+       deleted paragraph is still in the DOM as struck-through .diff-del text,
+       and the print stylesheet removes the strikethrough — so printing from
+       review would set cut words as ordinary prose. applyMode() re-runs
+       decorate(), so this reuses the existing render path. */
+    var prevMode=mode;
+    if(prevMode!=="read") applyMode("read");
     document.body.classList.add("printing");
-    toast("Choose “Save as PDF” in the print dialog");
+    toast("Choose \u201cSave as PDF\u201d in the print dialog");
     setTimeout(function(){
       window.print();
-      setTimeout(function(){ document.body.classList.remove("printing"); }, 500);
+      setTimeout(function(){
+        document.body.classList.remove("printing");
+        if(prevMode!=="read") applyMode(prevMode);
+      }, 500);
     }, 350);
   });
 
@@ -1538,9 +1581,10 @@
       if(!h) return;
       var w=bookWordCount();
       var openRevs=0; try{ openRevs=getRevs().filter(function(r){return !r.resolved;}).length; }catch(e){}
-      h.textContent = BOOK_MD.length+" chapters, "+w.toLocaleString()+" words. The .md is the source manuscript; "
-        + "the PDF prints what you see, so it includes your tracked changes"
-        + (openRevs ? " ("+openRevs+" applied)" : "") + ".";
+      h.textContent = BOOK_MD.length+" chapters, "+w.toLocaleString()+" words. "
+        + (openRevs
+            ? "Both exports include your "+openRevs+" tracked change"+(openRevs===1?"":"s")+"."
+            : "Both exports carry any tracked changes you make.");
     })();
     if(location.hash&&document.getElementById(location.hash.slice(1))){
       document.getElementById(location.hash.slice(1)).scrollIntoView();
