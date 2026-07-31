@@ -74,11 +74,12 @@ predate some of them; where a reference says otherwise, THIS list wins.
      the later journals," reflective and more poetic**, written years after the events. It is the ONE
      retrospective/looking-back piece; it does NOT govern the chapters. Keep it lyrical and journal-
      framed; do NOT trim it back toward the immediate-chapter voice. (Longevity light even here.)
-   This supersedes every "third limited on Opus / pure first person" instruction in the references.
+   This supersedes every "third limited on Emlyn / pure first person" instruction in the references.
    The Le Guin restraint floor still governs both modes.
-2. **Protagonist's name:** **Emlyn Ambrose**. "Opus" in the reference docs is the campaign
-   name — read every "Opus" as Emlyn. On the page only "Emlyn" has been given; the surname
-   Ambrose is deliberately withheld from the reader until the author chooses to reveal it.
+2. **Protagonist's name:** **Emlyn Ambrose**, everywhere and without exception. On the page
+   only "Emlyn" has been given; the surname Ambrose is deliberately withheld from the reader
+   until the author chooses to reveal it. Never introduce an alternative name for him in the
+   manuscript, the state files, or these references.
 3. **Away-threads and other-POV (updated 2026-07-11, supersedes "pure first person"):** the book
    MAY now leave Emlyn for a third-person-limited chapter or interlude when a scene the reader needs
    happens where Emlyn is not. Use it for the hill's four seasonal **INTERLUDES** (third person, the
@@ -171,7 +172,7 @@ appendix** in `references/outline.md` (the fixed world, magic, people, geography
 `state/story-bible.md` (everything earlier chapters have already made true). Hold the book's
 load-bearing **destinations** too — the thesis (*ask for passage*), grief resolving in the order
 letter-then-chest, the compass pointing down at the close, the Part IV apprenticeship
-convergence, and the reader learning of Lira's letters before Opus does. When in doubt, stop and
+convergence, and the reader learning of Lira's letters before Emlyn does. When in doubt, stop and
 check. A single broken fact — a character's eyes, a building's location, who knows the secret —
 costs the reader their trust in the whole book.
 

@@ -37,9 +37,9 @@ voice like this:
   **first person, past tense**, told at a near remove (close to the events, ordinary hindsight),
   **not** as an ancient chronicler recording legends decades on. Other characters' chapters and the
   four interludes are **third-person limited** on one character (the hill, for interludes), same
-  blended voice. Read every "third-limited on Opus" and every "ancient narrator / longer than
+  blended voice. Read every "third-limited on Emlyn" and every "ancient narrator / longer than
   kingdoms / this account" line below as stale: keep the intimacy and the wry hindsight, drop the
-  deep-time chronicler frame. "Opus" = Emlyn throughout.
+  deep-time chronicler frame.
 - **Sentence length (run-on discipline):** the wry-plain register runs on *shorter, cleaner*
   sentences. Do not chain four or five independent clauses with "and, and, and"; break them. No
   comma splices. A long cumulative sentence is allowed occasionally, on purpose, for rhythm, but it
@@ -114,12 +114,12 @@ once or twice a chapter — at a threshold, a small grief, a moment of wonder �
 lengthen and sing, using rhythm, a turn of repetition, a well-placed fragment. Earn these; never
 let the book go purple. The music lands because the surrounding prose is plain.
 
-**The pleasure of a story well-told.** Opus values a thing done properly, including a thing
+**The pleasure of a story well-told.** Emlyn values a thing done properly, including a thing
 *said* properly. Let the narration take quiet pleasure in its own well-made sentences without
 ever winking at the reader. Storytelling itself is part of the book's warmth.
 
 **Naming and the weight of the true word.** Naming is quietly powerful here, obliquely: the hill
-learning Opus's "shape," the predawn pulse becoming "almost a word," Brenna's grandmother naming
+learning Emlyn's "shape," the predawn pulse becoming "almost a word," Brenna's grandmother naming
 the Singer and the Listener. Keep it numinous. Never systematize it into a spell-list.
 
 **Room to digress, briefly.** Rothfuss trusts a short detour — a memory, a small philosophy, the
@@ -137,7 +137,7 @@ neighbors to the work, dealing in magic as a real trade with real customers and 
 Render it with relish — the building is much of the book's warmth and most of its plot at the
 domestic scale.
 
-**Magic as a real, commercial practice — but a RARE and prized one.** Opus is a planewright running
+**Magic as a real, commercial practice — but a RARE and prized one.** Emlyn is a planewright running
 a growing concern: the LUMEN made and sold as a line, housings commissioned from Tomas, a labor crew,
 deliveries from the quarry, credit extended and earned, apprentices taken on. Show the trade. The
 pleasure of watching a competent professional diagnose, price, make, and deliver is real, and it
@@ -183,7 +183,7 @@ whole chapter if the attention is alive.
 
 **Dialogue stays plain; the narration carries any music.** Never let characters speak lyrically
 (except, sparingly, Brenna channeling her grandmother). Jorin says "Even it runs north. Slight."
-The beauty is in how Opus hears it.
+The beauty is in how Emlyn hears it.
 
 **Restraint over abundance.** The book's power is in what it withholds. This is the Le Guin
 floor and it is never overruled: name no emotion the reader can infer, explain no silence, and
@@ -209,7 +209,7 @@ If you ever find yourself deciding a percentage, stop and just listen to the par
 ## GUARDRAILS
 
 **The Rothfuss risk, now that he leads:** self-admiring sentences, digression that forgets to
-return, a protagonist who is effortlessly the best at everything. Counter: Opus is competent but
+return, a protagonist who is effortlessly the best at everything. Counter: Emlyn is competent but
 grief-slowed, occasionally wrong, and the book's problems are solved by patience and other
 people, not by his brilliance. Cut any sentence that admires itself. Keep detours short and
 earned. Lyricism is a spice, not the meal.

@@ -82,7 +82,7 @@
   decade ago**; a career man of affairs (long general career, ~10 yrs of it with Emlyn). He is
   also a **minor magical talent** and thus slightly long-lived / slow-aging — but this is NOT
   to be stated directly or dwelt on yet; faintest indirection at most. (Overrides the campaign's
-  "thirty years of service to Opus.") **Rarity note (2026-07-11):** in a world where working talent is rare,
+  "thirty years of service to Emlyn.") **Rarity note (2026-07-11):** in a world where working talent is rare,
   even Penworth's minor gift is a genuine EDGE — part of why he is so formidable and effective an
   agent (and slightly long-lived). Emlyn, a MAJOR talent, is very rare indeed. (See SETTING & POLITY /
   Magic rules.)
@@ -96,9 +96,11 @@
   gone / every one but me"** (that phrasing was cut from the prologue). The grief of long life is
   outliving *most*, and watching the ordinary go while a few of his own kind remain — a subtler,
   truer note. He is long-alone, not utterly the last.
-- **Name:** the protagonist is **Emlyn Ambrose** in the novel ("Opus" = campaign name in the
-  reference docs; read as Emlyn). Only "Emlyn" given on the page so far; **Ambrose withheld**
-  until the author chooses to reveal it.
+- **Name:** the protagonist is **Emlyn Ambrose**, and that is the only name for him anywhere
+  in this repo (2026-07-31: the campaign name was retired and every reference doc converted;
+  the one surviving mention is the rejected-names rule in `references/feedback-engine.md`,
+  which records the author rejecting it and must keep its wording). Only "Emlyn" has been
+  given on the page so far; **Ambrose withheld** until the author chooses to reveal it.
 - **Away-threads & other-POV — RESOLVED (2026-07-11, Spellmonger hybrid):** the book MAY leave
   Emlyn for a third-person-limited chapter or interlude when the reader needs a scene where he is
   not. The four hill **INTERLUDES** are third person (the hill's wordless perception); the **Lira
@@ -985,7 +987,7 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
 
 ## LOCKED CANON (never contradict; see outline canon appendix for full detail)
 
-**Protagonist.** Opus / Emlyn — planewright wizard. Precise, patient, dry humor, grief-slowed.
+**Protagonist.** Emlyn Ambrose — planewright wizard. Precise, patient, dry humor, grief-slowed.
 Only child of a Vethmark architect; trained as a draftsman before his talent developed. **Fiancée
 Arielle** (engaged, not married; she died ~3 yrs ago **before their wedding**) is dead before the
 story opens; she appears ONLY through objects, never in flashback. Four grief-objects: the locked
@@ -997,7 +999,7 @@ fund the hill but cannot clear until spring — see FINANCES & ORIGINS).
 **The hill.** Hums sub-harmonically; pulses at dusk and predawn; responds to storms; cooperates
 with workings that ask rather than command; defeated every prior building attempt (Cael's
 father, 40 years ago). In conversation with the old oak (north wood) longer than living memory.
-Per the Deep Grammar readings: carries Opus's specific shape; predawn pulse developing
+Per the Deep Grammar readings: carries Emlyn's specific shape; predawn pulse developing
 structure; transmits a *greeting* toward the cellar's NE corner. TWIST (Ch 28 only): the
 Planewright's Compass, when finally used, points straight DOWN — the hill is adjacent to an
 existing potential plane and has been waiting for someone to notice the door.
@@ -1011,7 +1013,7 @@ binds function into prepared objects. LUMEN lamps = crystalline blanks in three 
 architecture, sensitivity lattice, binding) housed in metal fittings; the original LUMEN drinks
 hill-song, the Series drinks ambient light. Sensitivity manifests as hearing / feeling / seeing
 (don't always correlate). Sensitized paper records an arcane signature (imprint). A resonance fork
-tuned to the hill's baseline calls an answer. Planewright work = architecture of planes; Opus
+tuned to the hill's baseline calls an answer. Planewright work = architecture of planes; Emlyn
 **trained and published at the Conclave in Vethmark** (the continent's one institution of magic;
 his "school of notation"); his published papers omit ~70% of his demiplane working because extending
 it incomplete causes lethal interior collapse. The Planewright's
@@ -1030,7 +1032,7 @@ trace the three.
 
 ## CAST — FIXED TRAITS & SPEECH RULES
 
-- **Opus / Emlyn** — dry, courteous, self-deprecating; teaches by question and demonstration;
+- **Emlyn** — dry, courteous, self-deprecating; teaches by question and demonstration;
   observes his own grief like a flaw he isn't ready to repair. **Only child of a Vethmark architect;
   trained as a draftsman before his talent developed** (funded his schooling); lost his **fiancée
   Arielle ~3 yrs ago, before their wedding** (engaged, not married); comfortable but LEVERAGED, not
@@ -1046,14 +1048,14 @@ trace the three.
 - **Jorin** — master builder; single freighted words ("Good." "Even." "Boy's ready."); aligns
   objects to edges; >2 sentences = major moment.
 - **Tomas** — blacksmith; stillness, long pauses, one load-bearing question; "Even." closes
-  deals; heard the hum alone for months before Opus and told no one; standing promise: he will
-  know when Opus knows.
+  deals; heard the hum alone for months before Emlyn and told no one; standing promise: he will
+  know when Emlyn knows.
 - **Brenna** — herbalist; considers then speaks completely; inherits her grandmother's 40 years
   of notebooks on the Singer (hill) and Listener (oak); custodian of the keeper plant; the only
-  voice that matches Opus's register.
+  voice that matches Emlyn's register.
 - **Lira** — tavern keeper; neutral ledger-facts, warmth only through service (refilled jug,
   lamp in window); slowest thaw in the book; writes to a Conclave contact.
-- **Cael** — elder; oblique; sold Opus the hill his father failed on.
+- **Cael** — elder; oblique; sold Emlyn the hill his father failed on.
 - **Penworth** — man of affairs; dry, formal, impeccable logistics; letters are miniature essays
   of understatement; **~Emlyn's age**, has run Emlyn's affairs **~a decade** (NOT "old," NOT
   "thirty years with him"); a minor magical talent / slightly long-lived (kept indirect);
@@ -1076,7 +1078,7 @@ trace the three.
 Tower on the hill's crown; cellar beneath (recording blank in floor, chest in NE corner);
 stable; greenhouse (enchanted wrought-steel frame + glass) on the SE slope; storehouse cut into
 the shelf below the cellar, rear wall on compass bearing (for a future cellar connection);
-cart-road to the main road through Opus's woodland strip, branching to the village; the old oak
+cart-road to the main road through Emlyn's woodland strip, branching to the village; the old oak
 in the north wood; village below — tavern (Lira), smithy (Tomas), mill (Maret), quarry road
 (Edran), Kellard's yard, Brenna's cottage at the lane's end by the birches.
 
@@ -1085,7 +1087,7 @@ in the north wood; village below — tavern (Lira), smithy (Tomas), mill (Maret)
 ## KEEPER PLANT
 
 Brenna's grandmother's charge; ~30 years unkillable-but-unthriving in a dark cellar; put out
-three new leaves the week Opus took the hill. Comes to ground in the greenhouse's shaded north
+three new leaves the week Emlyn took the hill. Comes to ground in the greenhouse's shaded north
 zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 
 ---
@@ -1094,14 +1096,14 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 
 | Secret | Known by (at seed) |
 |---|---|
-| Opus is grieving Arielle | Opus; Penworth (implied); reader learns through objects |
-| The hill hums / is aware | Opus; **Tomas — now SHARED OPENLY with Opus (Ch 11 confession): Tomas has heard it ~2 yrs alone; Opus confirmed belief by naming the pre-dawn hour, gave the STANDING PROMISE ("when I know what it is, you will know") but did NOT confess his own listening**; **Soren (has heard it his WHOLE LIFE, natively — revealed Ch 7; never thought it strange)**; Brenna's grandmother (dead); **Brenna (via her gran's notebooks, believes it now, Ch 6)**; Cael (suspects) |
-| The hill AND the old oak are "the talking pair" | Brenna's grandmother (dead); Brenna (Ch 6); Opus (told Ch 6, half-believes) |
-| Soren's talent | **Opus (SAW it plainly, Ch 13, and told no one)**; **Cael — half-saw and is in DENIAL** (measured the arithmetic, found a small wrongness, and closed the gate: "Boy's quick"); **Soren himself DOES NOT KNOW** (⚠️ REVISED 2026-07-15 — the slip was deniable and he registered it as catching the bucket; there is NO protection pact yet); **Lira watched the WELL when the whole square watched the horse** (Ch 13; what she saw is unstated); the square noticed NOTHING (the commotion covered it) |
-| Ren's talent | Opus; Jorin (sensed it); Ren (after his assessment) |
-| The compass exists | Opus only |
-| The three correspondents / incomplete papers | Opus; Penworth; Cecily (offstage) |
-| Lira reports to the Conclave | Lira; the reader (reveal MOVED to Part III, author 2026-07-14; was outline Ch 12); NOT Opus until later |
+| Emlyn is grieving Arielle | Emlyn; Penworth (implied); reader learns through objects |
+| The hill hums / is aware | Emlyn; **Tomas — now SHARED OPENLY with Emlyn (Ch 11 confession): Tomas has heard it ~2 yrs alone; Emlyn confirmed belief by naming the pre-dawn hour, gave the STANDING PROMISE ("when I know what it is, you will know") but did NOT confess his own listening**; **Soren (has heard it his WHOLE LIFE, natively — revealed Ch 7; never thought it strange)**; Brenna's grandmother (dead); **Brenna (via her gran's notebooks, believes it now, Ch 6)**; Cael (suspects) |
+| The hill AND the old oak are "the talking pair" | Brenna's grandmother (dead); Brenna (Ch 6); Emlyn (told Ch 6, half-believes) |
+| Soren's talent | **Emlyn (SAW it plainly, Ch 13, and told no one)**; **Cael — half-saw and is in DENIAL** (measured the arithmetic, found a small wrongness, and closed the gate: "Boy's quick"); **Soren himself DOES NOT KNOW** (⚠️ REVISED 2026-07-15 — the slip was deniable and he registered it as catching the bucket; there is NO protection pact yet); **Lira watched the WELL when the whole square watched the horse** (Ch 13; what she saw is unstated); the square noticed NOTHING (the commotion covered it) |
+| Ren's talent | Emlyn; Jorin (sensed it); Ren (after his assessment) |
+| The compass exists | Emlyn only |
+| The three correspondents / incomplete papers | Emlyn; Penworth; Cecily (offstage) |
+| Lira reports to the Conclave | Lira; the reader (reveal MOVED to Part III, author 2026-07-14; was outline Ch 12); NOT Emlyn until later |
 
 ---
 

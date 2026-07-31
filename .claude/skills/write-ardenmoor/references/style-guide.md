@@ -73,13 +73,13 @@ his confession beat, no hill-interior that states the twist.
 
 General law: nobody in this book explains themselves at length. Subtext over text. Conversations carry freight in what is *not* said. Attribution stays simple — said, asked; action beats over adverbs.
 
-**Opus** — precise, courteous, quietly funny; humor is dry and self-deprecating ("what's the point of being a big mysterious wizard if I can't make roads appear"). Teaches by question and demonstration. Never lectures on grief.
+**Emlyn** — precise, courteous, quietly funny; humor is dry and self-deprecating ("what's the point of being a big mysterious wizard if I can't make roads appear"). Teaches by question and demonstration. Never lectures on grief.
 
 **Jorin** (builder) — single words carrying paragraphs: "Good." "Even it runs north. Slight. You feel it." "Boy's ready." When he says more than two sentences, the moment is major. He aligns objects with table edges.
 
 **Tomas** (smith) — stillness. Speaks in short complete sentences with long silences between. Asks single load-bearing questions ("Waiting for what?"). His "Even." closes deals. Never uses two words where the pause will do.
 
-**Brenna** (herbalist) — precise and unhurried; considers before speaking, then speaks completely. Channels her grandmother in counsel ("I'd ask the hill. Walk the property line."). Comfortable with silence; the only character who matches Opus's register.
+**Brenna** (herbalist) — precise and unhurried; considers before speaking, then speaks completely. Channels her grandmother in counsel ("I'd ask the hill. Walk the property line."). Comfortable with silence; the only character who matches Emlyn's register.
 
 **Lira** (tavern keeper) — ledger-speak: facts offered neutrally, watched for reaction ("Edran's been routing the quarry deliveries through Maret's yard."). Warmth expressed only through service — the refilled jug, the lamp in the window — never through words. Her almost-smile is a chapter-level event.
 
@@ -129,7 +129,7 @@ The kettle (domestic time; interruption and welcome). Frost and its lifting (tha
 
 ## LEXICON (use these terms exactly)
 
-**The LUMEN** — the original lamp in the Study, drinking hill-song. **LUMEN Series** — the sellable line drinking ambient light; three layers (photonic architecture, sensitivity lattice, binding) set into crystalline blanks, then housed in Tomas's metal fittings. **Deep Grammar** — Opus's recording program; **blanks** are the crystalline recorders; readings are done palm-to-crystal. **Reshaping ward** — excavation/leveling working. **The Singer / the Listener** — the grandmother's names for hill and oak. **Keeper plant** — her thirty-year charge. **Planewright** — Opus's discipline; **the Planewright's Compass** — his hidden instrument that finds existing potential planes. **The Conclave** — the distant magical authority; **Drace** — its interested official. **Sensitized paper**, **resonance fork**, **the hum**, **the pulses** (dusk and predawn). Spelling: **Ren** (or "Wren" if the author prefers — choose once, hold throughout).
+**The LUMEN** — the original lamp in the Study, drinking hill-song. **LUMEN Series** — the sellable line drinking ambient light; three layers (photonic architecture, sensitivity lattice, binding) set into crystalline blanks, then housed in Tomas's metal fittings. **Deep Grammar** — Emlyn's recording program; **blanks** are the crystalline recorders; readings are done palm-to-crystal. **Reshaping ward** — excavation/leveling working. **The Singer / the Listener** — the grandmother's names for hill and oak. **Keeper plant** — her thirty-year charge. **Planewright** — Emlyn's discipline; **the Planewright's Compass** — his hidden instrument that finds existing potential planes. **The Conclave** — the distant magical authority; **Drace** — its interested official. **Sensitized paper**, **resonance fork**, **the hum**, **the pulses** (dusk and predawn). Spelling: **Ren** (or "Wren" if the author prefers — choose once, hold throughout).
 
 ---
 

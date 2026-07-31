@@ -644,10 +644,10 @@ notes were anchored to superseded/lean text; intent mapped onto current versions
 <!--
 EXAMPLE of the line format to append (delete this comment once real entries exist):
 
-[01] The Hill Is Sold — Opus arrives with two wagons and a locked chest handled more carefully
+[01] The Hill Is Sold — Emlyn arrives with two wagons and a locked chest handled more carefully
 than anything else; Cael sells the hill with unseemly speed; first night on the crown, something
 below hearing hums. CLOSING IMAGE: the chest set against the cellar's northeast wall in lamplight,
-its lock untouched. NEW FACTS: spelling locked as [Ren/Wren]; Opus's arrival season = spring;
+its lock untouched. NEW FACTS: spelling locked as [Ren/Wren]; Emlyn's arrival season = spring;
 Cael's unreadable expression flagged as a seed.
 -->
 

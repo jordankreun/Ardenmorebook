@@ -13,7 +13,18 @@ does not want short chapters
 
 # POV: the ancient-chronicler frame (retired by session-lock #1)
 pure first-person ancient
+third-limited on Emlyn throughout
 third-limited on Opus throughout
+
+# the campaign name (retired 2026-07-31: the protagonist is Emlyn Ambrose everywhere, and no
+# doc may reintroduce a second name for him or a rule for translating between the two).
+# The ONE licensed survivor is the rejected-names rule in references/feedback-engine.md, which
+# records the author rejecting "Opus" and needs the word to mean anything; its wording is
+# deliberately not matched by these patterns.
+read every "Opus" as Emlyn
+"Opus" = Emlyn
+Opus / Emlyn
+= campaign name
 
 # scarcity: magic-as-substance framing (re-locked 2026-07-13: talent is rare, not magic)
 magic is too rare
