@@ -1844,3 +1844,14 @@ show release. The coarse curve, so no chapter overshoots:
   The case is quartered oak with a brass catch, made by Emlyn after the instrument. Two chest objects named:
   a book of paper samples with one corner turned down (the river house's bare east rooms), and a taped bundle
   of her letters, left unopened.
+
+## STORYCRAFT REDRAFT — DECISIONS (2026-07-31)
+- **Mode: revision pass IN PLACE.** The existing prose is kept wherever it still serves; storycraft
+  changes what a module actually indicts. Every sentence the author has approved survives unless a
+  module names a defect in it.
+- **Story latitude: FULLY OPEN, including the outline.** Events, order and beats may change where a
+  module demands it. ⚠️ Every structural change is FLAGGED to the author, not assumed.
+- **Cadence: part by part, with a gate.** Push and stop for the author's read before the next part.
+- **Content covenants (Module 0): STRONG GUIDANCE, not locked canon.** Recorded in storycraft.md as
+  the house register; deliberately NOT added to the locked-canon list and NOT machine-checked.
+- **Precedence:** session locks > feedback-engine (author notes) > storycraft > craft.md.

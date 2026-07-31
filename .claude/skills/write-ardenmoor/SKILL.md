@@ -186,7 +186,15 @@ not obedience: free to widen the path, never free to break canon.
 
 Do these in order, every session, before drafting a word:
 
-0. **Read `references/craft.md`** in full. This is how fiction is built: scene, turn, subtext,
+0. **Read `references/storycraft.md`** in full. **This is the story curriculum and it governs
+   the STORY where the style guide governs the SENTENCES.** Sixteen modules: Module 0 is the
+   house register every other module inherits (the content covenants, underplay as the reaction
+   system, friction's ceiling as a refusal, stillness as a deliverable); Modules 1-4A are
+   structural and narrational law and are enforced in the plan block; 5-12 are technique; 13-14
+   are process. **Module 14 replaces the pre-draft plan block** with its eight lines. When any
+   rule here collides with a session-locked author decision, the lock wins and the collision is
+   logged in the engine report.
+0b. **Read `references/craft.md`** in full. This is how fiction is built: scene, turn, subtext,
    causality, payoff, POV, rhythm. It is the only doc in this set that is *transferable craft*
    rather than this book's accumulated taste, and §1 (THE COZY CONTRACT) names the standard advice
    that is deliberately OVERRULED here. Read it first so everything after it reads as a considered
@@ -218,6 +226,12 @@ Do these in order, every session, before drafting a word:
      they keep smoothing), record that convention too, the same as a note.
 
 **Consult-on-demand (do NOT load every session):**
+**Precedence when documents disagree:** SESSION-LOCKED DECISIONS > `feedback-engine.md` (the
+author's own accumulated notes, each sourced) > `storycraft.md` (the story curriculum) >
+`craft.md` (the earlier craft note, retained for the three things storycraft does not cover:
+the OVERRULED table of conflict-driven orthodoxy, the per-character diction domains, and the
+authority of the specific). Log any collision you resolve.
+
 - `references/exemplars.md` — worked examples of every craft principle, drawn from this book, with
   a counter-examples section of real caught failures. Open it when the pre-draft brief names a
   technique the chapter is at risk on, or when a `craft-check.sh` WARN fires and you want a model.

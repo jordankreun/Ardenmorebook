@@ -1215,3 +1215,35 @@ parish always wanted him; whole months went by with nothing brought at all."
   that Ch 31 puts in that drawer, so the coda now says so.
 
 Book: 112,623 words. Zero lint FAILs, zero em dashes across all 37 files.
+
+## STORYCRAFT PASS — PART I (Ch 00-07b), 2026-07-31
+Mode: revision in place. Story latitude: fully open (no structural change proved necessary in
+Part I; none made). Covenants: strong guidance, unlocked.
+
+MODULE 14 AUDIT — the two genuine indictments, both landing in Ch 7:
+- **MODULE 7 VIOLATED (the iterative).** The Wednesday template was narrated entirely in summary
+  and then VARIED twice (the level test, the hum reveal) without ever having been played once as
+  a scene. Module 7 requires the template established in full scene first, then varied, so the
+  break lands as event. FIXED: the first Wednesday is now a scene — the knock he never repeated,
+  "Grandda says I'm to be no trouble," the chair refused for the floor, "Same next week?" — and
+  the iterative generalization now follows it instead of standing in for it.
+- **MODULE 9 VIOLATED (the ensemble web).** Part I had no spoke-less beat anywhere: no two
+  villagers relating to each other with the narrator only watching. FIXED in Ch 7: Maret buys salt
+  he cannot pay for and Kellard arranges a favour, entirely in the valley's oblique grammar, while
+  Emlyn stands with his hat in his hands and understands he is listening to a language he does not
+  yet speak. Also serves Module 4A (membership told from inside) and Module 6 (the oblique refusal).
+
+NOT INDICTED, checked and cleared:
+- Module 1's try-fail ration: Part I is all-yes, but storycraft explicitly licenses the opening
+  movement to run warmer ("let the reader fall for the world before the plot asks anything").
+- Module 5's emotional range: shame (the sabotaged level), pride (the cold-spot), and being
+  unaccountably happy are all present. Three of the six, which is the floor.
+- Ch 4's density is inherent — the solitary thesis chapter, protected by Module 4A.
+- Ch 3's 498-word nocturne block, exempted by the pass-5 fix document and left alone.
+
+ALSO DONE: Ch 6 broken at four beat joints (Module 8, rhythm enacts content; the first lighting
+was arriving inside a 284-word block). 177 -> 155 words/paragraph. Ch 7: 146 -> 104, now clear.
+
+STILL OPEN IN PART I: Ch 6 remains above the density threshold at 155. Closing it needs the
+Brenna scene or the first lighting re-gearing from narration to scene, which is a rewrite rather
+than a revision and is held for the author's call.

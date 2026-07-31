@@ -12,6 +12,8 @@ Then the kettle. Then the work. My days that autumn were full of the small hones
 
 The cold-spot at Kellard's is worth the telling, because it was the first work I did in that valley that anyone but the boy saw me do, and because it shows the shape of the thing better than any amount of my saying so. Kellard kept the dry-goods store that was also, in the way of such places, the bank and the post and the parliament of the village, and he had a storeroom off the back where the flour and the salt and the good candles lived, and in the corner of it, that autumn, a cold had settled in that had no business being there. It was not the honest cold of a north wall. It was a wrongness, a patch of air three paces across that stayed at the temperature of a January midnight no matter what the season did outside it, and it was spoiling his stores from the inside, sweating the salt and freezing the tallow and putting a rime on the flour-sacks that turned them sour, and he had tried everything an honest tradesman tries: moved the goods, stuffed the chinks, cursed at it. None of it had answered.
 
+I waited a while in the front of the store before he could take me through, and the waiting was worth more than the job. Maret came in for salt and did not have the money for salt, and the two of them conducted the whole of that business without either of them once saying so. Kellard weighed out the salt. Maret observed that the wheel had been running rough since the wet spell, and that a man could hear it from the bridge. Kellard said he had heard it from a good deal further off than the bridge. Maret said the shaft would want looking at before the frosts, and that it was a two-man lift, and that he supposed he would find somebody. Kellard wrote something short in his book, and pushed the salt across, and remarked that he closed at six on a Thursday. Maret said he knew what time Kellard closed. And he took his salt and went out, and not one word of money or work or the favour that had just been arranged had been spoken in front of me, and I stood there with my hat in my hands and understood that I had been listening to a language I did not yet speak.
+
 I stood in that storeroom a long while with my hands in my pockets, which is most of what my trade is, whatever the tales tell you. A cold-spot like that is not put there. It grows, the way a knot grows in a tree, around a small original wrongness, some old grief in the ground or the stone that has been feeding on the ordinary cold of winters for longer than the store had stood, and the work of it is not to fight the cold, a fool's errand that only makes the thing dig in, but to find the small wrongness at the heart of it and give it, if you can, the thing it has been wanting all this time. Most often that is only to be noticed. I found it in the floor, under the third board from the corner, a place where something had been buried once, long before Kellard, long before the store, in grief or in haste, and had been asking about it ever since in the only voice it had, which was cold. I will not tell you what was under the board. It was a small sad thing and it was not mine to make a show of. I gave it what attention it wanted, and stood the way that work asks a man to stand, and closed the ground back over it gently, the way you draw a blanket up over someone who has finally gone to sleep. The cold went out of the corner between one breath and the next. By the time Kellard came back through with his lamp the storeroom was only a storeroom, and the air in it was the plain cool of an autumn afternoon, and he stood in the doorway and put his hand out into the place where the wrongness had been and could not find it, and looked at me with an expression I had seen before on men who have watched me work and did not fully want to have.
 
 He paid me in credit against the spring, with the wary formality of a man who has been burned by cleverer men than me and means not to be again, and he wrote it in his book in a careful hand, and neither of us made anything of it. But he sent his boy up the hill with a sack of the good candles three days later with word that they had come in damaged and were no use to him, which was a lie, and a kindness, and the first of many, and that was the afternoon I understood that the account had turned over some invisible line and that I was, whether I had meant to be or not, a man the village had decided to keep. I have been given the keys of a city with less ceremony and meant less by it.
@@ -24,7 +26,35 @@ I have been speaking of a grandfather and no one else, and that is because there
 
 A stranger would want to build the boy's gravity out of that, and the stranger would be wrong. He had never in his life had less than the whole of one old man's heart, and it showed. He was not solemn the way a bereaved child is solemn. He was solemn the way deep water is still, by nature and not by weather.
 
-He would come up after his dinner and settle himself on the floor by the hearth with a slate his grandfather had given him, and he would be there, quiet as the light moving across the floor, for the whole of the afternoon, and the room was better for his being in it in a way I could not have told you and did not try to.
+The first of them I remember whole.
+
+He came up at about two with the wind behind him and knocked, which he never did again, and stood on the doorstone with his cap in his hand like a man come about a job.
+
+"Grandda says I'm to be no trouble."
+
+"You'll be no trouble."
+
+He thought about that, and appeared to find it insufficiently binding. "He says if I am, I'm to come home, and not to be asked twice."
+
+"Then we understand each other."
+
+He came in. He looked at the room the way I have since watched him look at every room he ever entered, which is to say entirely, in one unhurried sweep, the walls and the beams and the boards and the corner where the chest stood, and he did not ask about any of it. Then he sat down on the floor by the hearth, and not in the chair I had pushed out with my foot, and took a slate out of his coat and set it on his knees, and waited.
+
+"You may talk, you know," I said.
+
+"I know," he said, and did not.
+
+So I went back to my bench, having a housing to file and no attention to spare for the entertaining of a child, which turned out to be exactly as much attention as the child wanted. The fire moved. The light came across the boards in the long autumn way. Twice he got up without being asked and mended the fire and sat down again. Once he turned a lamp-collar over on the bench and set it back at a different angle, and I looked at it afterward and could not say he had been wrong.
+
+At four he stood and put the slate inside his coat.
+
+"Same next week?"
+
+"Same next week."
+
+"All right," he said, and went down the track, and did not look back, and I stood in the door a while after he had gone.
+
+After that he would come up following his dinner and settle himself on the floor by the hearth without knocking or being greeted, and he would be there, quiet as the light moving across the floor, for the whole of the afternoon, and the room was better for his being in it in a way I could not have told you and did not try to.
 
 I taught him his letters on that slate, that autumn, because it turned out no one had, and because a boy that sharp going unlettered offended me the way a good tool left to rust offends a craftsman. He learned them fast enough, and his figures faster, for numbers were plainly a comfortable country to him, but I will be honest and say that the letters never took the way I hoped. He could read, by winter, well enough for the valley's purposes and better than his grandfather. But words on a slate were not where the boy lived, and I stopped, after a while, trying to move him into them, because a man should teach a child toward the thing the child is and not away from it, and the thing that boy was had nothing to do with letters.
 
