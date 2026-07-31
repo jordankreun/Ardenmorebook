@@ -108,12 +108,13 @@ must not become Emlyn's emotional salvation.
 **The covenants still bind** (Module 0). Soren's "impulsive risk" is a *social* risk, never
 physical jeopardy; no cruelty is added to manufacture conflict; no villain acquires a body.
 
-## TWO STANDING STRUCTURAL QUESTIONS
+## ONE STANDING STRUCTURAL QUESTION
 
-**The destiny model is unresolved and the book currently implies both answers.** See the flagged
-entry at the top of the bible's OPEN QUESTIONS. Do not settle it silently in either direction, and
-until it is settled no hill interlude may simply confirm that Emlyn is special or that the hill
-waited.
+*(This section briefly held two. The destiny model was recorded here as unresolved on 2026-07-31
+and resolved the same day, once the passages were actually read: **the hill waited for a question,
+not for a man**, and the book says so in five places. It needs no structural work. The full
+evidence is in the bible's OPEN QUESTIONS entry, along with the standing Book Two rule that the
+hill may never be revealed to have waited for Emlyn personally.)*
 
 **The ending enacts too little.** Book One closes on revelation — the chest, the letter, the
 needle pointing down — with the response deferred. The revelation may stay unresolved; **Emlyn's
