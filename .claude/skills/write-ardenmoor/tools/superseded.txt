@@ -43,3 +43,5 @@ a trade whose entire subject is the behaviour of ground
 # retired 2026-07-15: the narrator must never refer to the book's own structure (lock #1 scribe framing)
 the whole of the grief in this chapter
 the business of the next chapter
+2,000–3,200 words
+2,000-3,200 words

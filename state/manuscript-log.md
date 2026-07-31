@@ -761,7 +761,7 @@ round pending verification: prologue echo/purple/plural-grounding; Ch2 explained
 Cael-clarity; Ch3 dramatize-quarryman-dialogue + Soren-name-bind; Ch4 dramatize-rain-rumor +
 oak-echo; Ch5 "boy's two words" callback (flagged high/canon — check the referent exists).
 
-[10] The Listener and the Singer — Late spring Yr2. Emlyn finally goes DOWN to Brenna's cottage
+[11] The Listener and the Singer — Late spring Yr2. Emlyn finally goes DOWN to Brenna's cottage
 (first villager's home the book enters) to read her grandmother's notebooks, spurred by the
 soldier's-heart flowering in deep winter on his sill. Brenna takes him to the cold CELLAR and shows
 him the KEEPER PLANT; he sees the THREE NEW LEAVES (delivered as her flat report; started "the week
@@ -777,7 +777,7 @@ the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on 
 SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
 device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open). **REVISED 2026-07-15 (author fork): Brenna CALLS HIM OUT as shaken in the cellar** ("you've gone grey as that wall… I'll not be told it's nothing"); Emlyn stays cautious/silent, she respects the boundary but won't accept the lie, and he's glad of "the one person who will not let you get away with yourself." Candor stays PARTIAL/cautious.
 
-[11] What Tomas Carried — Early summer Yr2 (~15 mo elapsed). The CONFESSION chapter, a tight
+[12] What Tomas Carried — Early summer Yr2 (~15 mo elapsed). The CONFESSION chapter, a tight
 two-hander (1,908w). Emlyn comes to Tomas's forge at dusk for four brass lamp-collars (the lamp
 trade "runs on iron" — repeat business has made him a fixture there). Tomas sets down the hammer,
 banks the fire, and finally goes down the stair he stopped at in Ch 6: **"That hill,"** → he has
@@ -797,7 +797,7 @@ BLIND-SEED status: Ch5 hammer-pause + Ch6 "That hill," PAID; Emlyn's own listeni
 hum's nature stays OPEN (twist Ch 28). Forks: outline defaults taken (question tool down) — see
 PROGRESS note. Engine report archived to state/engine-reports.md. prose-lint: all checks clear.
 
-[12] The Listening Stone — Early–mid summer Yr2 (~16 mo). A deliberately interior chapter (1,876w).
+[13] The Listening Stone — Early–mid summer Yr2 (~16 mo). A deliberately interior chapter (1,876w).
 Emlyn digs a CELLAR under the Study — half for turnips/cold storage, half (the larger part) to set an
 INSTRUMENT below where the hum is strongest. The hill gives up its earth easily (cooperating, as with
 the Study footing). During the dig Ren is "a moment longer than his habit" laying the NE-corner stone
@@ -816,7 +816,7 @@ keystone Ren/NE seed was STAGED in draft 1 (simile + triple-witness + "corner li
 false-reassurance) and REPLANTED flat; the overt instrument (blank) + the sold-house payoff correctly
 judged fine. Engine report archived. prose-lint: clean (one interior dialogue WARN, conscious keep). **REVISED 2026-07-15 (author forks B/B/B, 1,876→2,626w):** (1) the DIG is now PEOPLED and warm — Ren protests the digging is too easy ("it's coming up like a cut cake"), Jorin rules "it's a dry crown," a fortnight of the best company Emlyn has kept in years, Jorin's history of every wall he built twice, beer on the crown at the end ("it's a hole" / "it's a very good hole"); the interior dialogue WARN is gone. (2) the SALE now LANDS before he shuts it away — the buyer's survey notes the upper east rooms unfinished, plaster only, because Arielle couldn't choose the paper one bright afternoon and said she'd know it when she saw it; "the better part of five years that plaster had stood bare"; he sits in the dark a good while, then signs. (3) Ren's NE pause is now slightly VISIBLE — Jorin looks up, a builder's look that "rested on the boy a beat past the length of the pause itself," then "Good," and nothing else comes of it (still unremarked by the narrator; seed stays blind). Fixed a canon slip introduced in revision ("nine years"→"the better part of five years").
 
-[13] The Well Incident — Mid-summer Yr2 (~17 mo). ⚠️ FULLY REWRITTEN 2026-07-15 to the author's
+[14] The Well Incident — Mid-summer Yr2 (~17 mo). ⚠️ FULLY REWRITTEN 2026-07-15 to the author's
 fork (make the talent LESS noticeable; Soren should NOT realize he has it). 2,220w. Kellard's near
 horse bolts and the cart wheel clips the well's coping; the full bucket goes off the stone, and as
 Soren turns and reaches, late, **it moves about four inches sideways, against the line of its own
@@ -838,7 +838,7 @@ nobody had noticed, and I let him." NEW/CHANGED FACTS: **no protection pact** (d
 less deniable surfacing); Soren ignorant; Cael in denial; the square noticed nothing; Lira's watching
 unexplained. Cut an aphorism-weld that doubled as a significance-tag. prose-lint clean.
 
-[14] Midsummer Reading — Mid–late summer Yr2 (~18 mo). ⚠️ REVISED 2026-07-15 to author forks
+[15] Midsummer Reading — Mid–late summer Yr2 (~18 mo). ⚠️ REVISED 2026-07-15 to author forks
 (1 split a+b, 2c, 3b; 2,537→3,244w). Emlyn reads the 30-day blank: the two hours proven in numbers;
 storm-sensitivity; a CHANGED dusk pulse the night he stood at the OAK; and a 30-day baseline WARMING
 — "the hill was learning me" — taken with a skeptic's unease. **NEW (fork 1, split): the evening he
@@ -868,7 +868,7 @@ was cut). And it does the new thing: it "says him back," saying Emlyn's shape in
 its own two ancient risings — "kept company in the dark for the first time in an age." (Renders Ch 14's
 "learning me" in the hill's wordless voice; does NOT state the twist.)
 
-[18] Steel and Glass — Late autumn → winter Yr2 (~21–23 mo). (Was 15, then 16, then 17.) PART III. **FLEECE PAYOFF ADDED 2026-07-15:** a three-day frost mid-glazing with bays still open and Brenna's stock already potted; **Ned Pardon comes up with a cart and ten fleeces** (the eleven years of unclaimed rent from Ch 16), refuses money ("They were always yours; I only kept them dry") and returns Emlyn's own refusal as a punchline ("You'll take the lot"); they pack the propagation house with wool and lose not one cutting. **⚠️ RESCALED + EXPANDED 2026-07-15 (author direction: make the greenhouse potentially bankrupting; 3,143→4,020w):** the house is now **160 ft × 5 bays**, up the road on **ELEVEN wagons**, the largest structure in the valley, financed by a **second borrowing secured on the hill** (Penworth's in-person caution moved to Ch 14). The harvest paid the note and the MATERIALS; **LABOUR was unfunded**, which is the problem this chapter now solves: Emlyn goes to Jorin's door to say he cannot afford him, and **JORIN turns it over** — nobody builds in that valley between frost and thaw, but **steel and glass do not care about frost**, so this is the first winter work his crew has ever had ("I have wanted a winter's work for my men for eleven years and you have just walked down my hill and offered me one"). Terms: winter rate, half weekly from lamp money, **half DEFERRED against the glasshouse's first two selling seasons, written and signed**; Ren on a man's wage; Tomas's ironmongery deferred; Kellard's cheap haulage. Jorin on the risk: "I'd sooner have [lost a winter's wages] than watch [you lose your hill] for want of asking." Jorin's verdict at the footings: **"Big for one man."** The GREENHOUSE (1,814w):
+[19] Steel and Glass — Late autumn → winter Yr2 (~21–23 mo). (Was 15, then 16, then 17.) PART III. **FLEECE PAYOFF ADDED 2026-07-15:** a three-day frost mid-glazing with bays still open and Brenna's stock already potted; **Ned Pardon comes up with a cart and ten fleeces** (the eleven years of unclaimed rent from Ch 16), refuses money ("They were always yours; I only kept them dry") and returns Emlyn's own refusal as a punchline ("You'll take the lot"); they pack the propagation house with wool and lose not one cutting. **⚠️ RESCALED + EXPANDED 2026-07-15 (author direction: make the greenhouse potentially bankrupting; 3,143→4,020w):** the house is now **160 ft × 5 bays**, up the road on **ELEVEN wagons**, the largest structure in the valley, financed by a **second borrowing secured on the hill** (Penworth's in-person caution moved to Ch 14). The harvest paid the note and the MATERIALS; **LABOUR was unfunded**, which is the problem this chapter now solves: Emlyn goes to Jorin's door to say he cannot afford him, and **JORIN turns it over** — nobody builds in that valley between frost and thaw, but **steel and glass do not care about frost**, so this is the first winter work his crew has ever had ("I have wanted a winter's work for my men for eleven years and you have just walked down my hill and offered me one"). Terms: winter rate, half weekly from lamp money, **half DEFERRED against the glasshouse's first two selling seasons, written and signed**; Ren on a man's wage; Tomas's ironmongery deferred; Kellard's cheap haulage. Jorin on the risk: "I'd sooner have [lost a winter's wages] than watch [you lose your hill] for want of asking." Jorin's verdict at the footings: **"Big for one man."** The GREENHOUSE (1,814w):
 an enchanted wrought-steel frame up the frontier road on four wagons, warded, glass hung over three
 weeks — the first thing on the hill the valley "could not pretend was ordinary." Meant as "the years'
 bread" (earns from the ground, not the bench), Brenna's trade + Emlyn's craft. Brenna plans the soil
@@ -885,7 +885,7 @@ partnership formalized; Essa bed/chest (bedchamber furnished); callipers grief-o
 Self-caught + cut an enumerate-and-promise close (twist-motif over-telegraph). Fixed a stale geography
 fact (chest Study→cellar). prose-lint clean.
 
-[15] Harvest Home — Early autumn Yr2 (~19 mo). ⚠️ NEW CHAPTER, and Ch 15/16 SWAPPED (2026-07-15,
+[16] Harvest Home — Early autumn Yr2 (~19 mo). ⚠️ NEW CHAPTER, and Ch 15/16 SWAPPED (2026-07-15,
 author's call) so cause precedes effect: Penworth's condition is no spade until the crop is sold, so
 the harvest must come before the build. 3,128w. The bottoms come in over NINE DAYS with the whole
 valley out (Kellard's carts; Maret shuts the mill; Tomas scythes evenings; **Lira closes the inn at
@@ -913,7 +913,7 @@ Second payment made in full and on the day. What was left = almost exactly the g
 After paying it: **eleven silver and some copper** and a half-finished lamp order. NOTHING for LABOUR. CLOSING (dialogue):
 Jorin on the pegged-out slope, **"And who's setting it?"** prose-lint clean (2 welds split).
 
-[16] The Rent Book — Autumn (October) Yr2 (~20 mo). ⚠️ NEW CHAPTER (author's call 2026-07-15); all
+[17] The Rent Book — Autumn (October) Yr2 (~20 mo). ⚠️ NEW CHAPTER (author's call 2026-07-15); all
 chapters after it shift +1. 3,314w. Penworth's one-line letter forces Emlyn to find out who is actually
 living on the land he bought eighteen months ago. He reads his own deeds and finds **a jigsaw with
 pieces missing and other men's pieces in the box**: a 6-acre strip through the middle of the Wrays'
@@ -947,7 +947,7 @@ wage that becomes his seed money. CLOSING (dialogue): Jorin on the pegged slope,
 it?"** (moved here from Ch 15). NEW FACTS: five named occupiers; the consolidation; Tam's holding;
 "nobody is to be worse off"; the Hask moral debit. prose-lint clean.
 
-[17] Nobody Worse Off — Late October → November Yr2 (~20–21 mo). SPLIT from The Rent Book 2026-07-15
+[18] Nobody Worse Off — Late October → November Yr2 (~20–21 mo). SPLIT from The Rent Book 2026-07-15
 (author's call); 2,253w. The notebook proves worth more than the arrears. With **no money to buy anyone
 out**, the only currencies are land, time and forgiven rents, so Emlyn makes one rule and says it aloud
 to everyone so they can hold him to it: **nobody is to be worse off.** Hal Wray consulted first

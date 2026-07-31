@@ -22,7 +22,10 @@ LIST="$DIR/superseded.txt"
 
 FILES="$DIR/../SKILL.md $DIR/../references/outline.md $DIR/../references/style-guide.md \
        $DIR/../references/voice-rothfuss-mancour.md $DIR/../references/continuity-checklist.md \
-       $DIR/../references/feedback-engine.md $ROOT/state/story-bible.md $ROOT/state/geography.md"
+       $DIR/../references/feedback-engine.md $ROOT/state/story-bible.md $ROOT/state/geography.md \
+       $DIR/../references/craft.md $DIR/../references/exemplars.md \
+       $DIR/../references/economy.md $DIR/../references/editorial-read.md \
+       $ROOT/state/thread-ledger.md"
 
 status=0
 while IFS= read -r pat; do
@@ -38,6 +41,26 @@ while IFS= read -r pat; do
     fi
   done
 done < "$LIST"
+
+# STRUCTURAL GUARDS on craft.md. That file exists precisely because every craft
+# rule in this engine had decayed into an author-sourced taste rule. Two assertions
+# keep it from becoming a second feedback-engine.md:
+#   (a) it stays small enough to justify its seat in the startup read;
+#   (b) it carries NO "*Source:*" tag — that tag is the taste-ledger signature.
+CRAFT="$DIR/../references/craft.md"
+if [ -f "$CRAFT" ]; then
+  cl=$(wc -l < "$CRAFT" | tr -d ' ')
+  if [ "$cl" -gt 520 ]; then
+    echo "  craft.md is ${cl} lines (>520) — it sits in the startup read; move depth into references/exemplars.md"
+    status=1
+  fi
+  # Only a real annotation counts: the tag at the start of a line. A prose mention
+  # in backticks (craft.md explains what the tag IS) must not fire.
+  if grep -qE '^[[:space:]]*[*]Source:[*]' "$CRAFT"; then
+    echo "  craft.md contains a *Source:* tag — craft.md must stay transferable craft; put the author note in feedback-engine.md instead"
+    status=1
+  fi
+fi
 
 [ $status -eq 0 ] && echo "doc-audit: clean — no retired rule survives as live text."
 exit $status

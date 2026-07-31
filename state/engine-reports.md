@@ -218,3 +218,121 @@ TRACKED-CHANGE TYPOS smoothed per standing rule: "it the proceeds"→"the procee
 "the grey"; "you plans"→"your plans"; "worse-named I took"→ restored "things." break; "I could set
 aside the village folks warning" read as intended negative → "I could not set the village folk's
 warning out of my mind"; margin-note fragment joined into period surveyor prose.
+
+## BOOK ONE CAUSAL SPINE — seeded 2026-07-29
+Momentum-causality declarations (references/craft.md §5), one per chapter. Seeded retroactively from
+state/structural-diagnostic.md's entry-move analysis and from the repairs made 2026-07-29, so that
+`chapter-check.sh` check 5 has a spine to assert against. Book Two declares these BEFORE drafting.
+
+Read this as the book's momentum map: where a line reads "the season," that chapter is carried by
+the calendar and was, or should be, repointed at a named cause.
+
+## [01] chapter-one — 2026-07-29
+caused-by: Penworth's letter and the unsellable river house (backstory, named in ¶2)
+## [02] chapter-two — 2026-07-29
+caused-by: Ch 1's closing bargain with Cael, "walk up in the morning"
+## [03] chapter-three — 2026-07-29
+caused-by: Ch 2's handshake on the crown
+## [04] ask-for-passage — 2026-07-29
+caused-by: Ch 3's first contact with the hum and the resolve it produced
+## [05] good — 2026-07-29
+caused-by: Ch 4's readied ground and its closing errand to find a builder
+## [06] first-light — 2026-07-29
+caused-by: Ch 5's finished Study ("a new room wants a light in it")
+## [07] wednesdays — 2026-07-29
+caused-by: the lumen's fame bringing trade up the hill (Ch 6); repointed into the entry 2026-07-29
+## [08] the-lamp-business — 2026-07-29
+caused-by: the lumen's visible fame and its non-portability (Ch 6-7)
+## [09] breaking-ground — 2026-07-29
+caused-by: Penworth's two columns ruling lamps against the note (Ch 8); repointed 2026-07-29
+## [10] walking-the-bottoms — 2026-07-29
+caused-by: the note's deadline requiring the ground to pay; deliberate rewind frame
+## [11] the-listener-and-the-singer — 2026-07-29
+caused-by: the soldier's-heart flowering in the dark of the year (Brenna's cutting, Ch 6)
+## [12] what-tomas-carried — 2026-07-29
+caused-by: the lamp trade running on iron, returning him to the forge (Ch 8)
+## [13] the-listening-stone — 2026-07-29
+caused-by: a year of body-listening reaching its ceiling (Ch 4-11)
+## [14] the-well-incident — 2026-07-29
+caused-by: none — chance, anchored to Ch 13's thirty-day count. The span's deliberate contrast beat.
+## [15] midsummer-reading — 2026-07-29
+caused-by: the thirtieth day of Ch 13's stone falling due
+## [16] harvest-home — 2026-07-29
+caused-by: Penworth's Ch 15 ultimatum and spade condition; repointed 2026-07-29
+## [17] the-rent-book — 2026-07-29
+caused-by: Penworth's letter after the harvest, and the wage bill for steel already bought (Ch 15)
+## [18] nobody-worse-off — 2026-07-29
+caused-by: Ch 17's verdict that there was no money to be had
+## [19] steel-and-glass — 2026-07-29
+caused-by: Jorin's closing question in Ch 18, "And who's setting it?"
+## [20] the-way-down — 2026-07-29
+caused-by: the build year's traffic destroying the track, and deferred wages forbidding hired labour
+## [21] letters-going-both-ways — 2026-07-29
+caused-by: the completion of the way (Ch 20), which is the entry she writes
+## [22] even — 2026-07-29
+caused-by: the patents maturing into paper that owed Tomas a visit
+## [23] boys-ready — 2026-07-29
+caused-by: the four-day count set in Ch 22, and the cave found on harvest night (Ch 16)
+## [24] the-reading — 2026-07-29
+caused-by: the four days of Ch 22 falling due on the dark of the moon
+## [25] the-fork-and-the-paper — 2026-07-29
+caused-by: Ch 24's finding that the measurer is himself in the way
+## [26] keeping-the-promise — 2026-07-29
+caused-by: the reading (Ch 24) and the promise's standing wording (Ch 12)
+## [27] the-delicate-conversation — 2026-07-29
+caused-by: the signature paper in the cellar putting a date on it (Ch 25)
+## [28] the-keeper-plant — 2026-07-29
+caused-by: Brenna's standing ruling at the turn of the year, the house now tried both ways
+## [29] the-lab — 2026-07-29
+caused-by: the storehouse finished (Ch 23) under Jorin's "finishes what he builds" condition (Ch 27)
+## [30] the-fire — 2026-07-29
+caused-by: the storehouse's filling leaving the hay in the loft (Ch 29). The IGNITION is deliberately
+uncaused and stays so; the seam is not.
+## [31] the-letter — 2026-07-29
+caused-by: the fire spending the winter's excuse, and the solstice ending it
+## [32] the-needle — 2026-07-29
+caused-by: continuous scene from Ch 31; the asking at the chest
+
+## 2026-07-29 — CRAFT LAYER ADDED + BOOK ONE RE-AUDIT
+Built: references/craft.md (the curriculum, in the startup read), references/exemplars.md (worked
+models + counter-examples, consult-on-demand), tools/craft-check.sh (per-chapter structure),
+tools/span-check.sh (cross-chapter), state/thread-ledger.md (setup/payoff states).
+The gap it closes: every craft-shaped rule in this engine carried a *Source:* tag pointing at an
+author note, i.e. it was a taste ledger with craft names attached. editorial-read.md taught how to
+READ but nothing taught how to BUILD. Only one structural property (dialogue share) was measured.
+
+VALIDATION AGAINST KNOWN ANSWERS. span-check.sh, run over the pre-repair manuscript (da648e7),
+independently reproduced all three diagnosed failures: the Part IV dialogue run, the Ch 6-8 summary
+run, and the sustained thinning (3,411w/chapter opening to 1,858w/chapter closing). craft-check.sh
+flags exactly the five known summary-heavy chapters (3, 6, 7, 8, 30) and stays silent on the five
+known scene-heavy ones (10, 16, 18, 22, 23). Firing rates across the book: scene density 19%,
+wall paragraph 9%, size drift 3% — all under the 25% noise ceiling.
+
+REJECTED ON MEASUREMENT: past-habitual marker density as a summary proxy. It is INVERTED on the two
+chapters it must separate (Ch 7, the deliberately iterative chapter, 2.9/1k; Ch 12, a two-hander
+scene, 7.8/1k) because "would" is this narrator's hindsight verb. Documented in craft-check.sh's
+header as DO NOT REBUILD.
+
+DEFECTS FOUND BY THE RE-AUDIT (all fixed):
+ 1. Ch 21 POV BREACH, shipped 2026-07-29 in the bootlace-banking insertion: "and I have never asked
+    her, and I am not going to start in a book" — first-person intrusion into the book's only
+    third-person-limited chapter, AND a memoir-frame breach. prose-lint missed it because its FAIL
+    list had "this book" but not "in a book". Pattern widened; the widened pattern catches the old
+    text. This is the un-mechanized POV slip logged as a candidate on 2026-07-17 and never built.
+ 2. manuscript-log.md NUMBERING ROT: entries [10]-[14] and [15]-[18] were never renumbered after
+    "Walking the Bottoms" was split out as a new Ch 10 on 2026-07-15. Two [10] entries existed, and
+    chapters 11-19 were labelled one low. chapter-check.sh's recap assertion was SILENTLY PASSING
+    against the wrong entries for nine chapters. Renumbered; all 37 receipts now pass.
+ 3. style-guide.md still stated "Chapters usually run 2,000-3,200 words" (superseded by lock #7) and
+    "Ch 28, which ends on the needle" (the needle is Ch 32). Both fixed; the word range added to
+    superseded.txt so it cannot return.
+ 4. continuity-checklist.md pointed at the dead path chapters/ch-NN-slug.md.
+ 5. economy.md, editorial-read.md and the new craft docs were outside doc-audit's scope. Added.
+
+ACCEPTED, NOT FIXED: the Ch 6-8 summary run and the three wall paragraphs (Ch 1, 3, 30) are real
+findings on a finished book; they are logged for the author's call, not silently revised.
+
+NEW GUARDS: doc-audit.sh now asserts craft.md stays under 520 lines and carries no *Source:* tag —
+the mechanized boundary that stops the craft text decaying into a second taste ledger.
+caused-by: the four calendar openings, the back-half thinning, the Part IV dialogue collapse and the
+orphaned bootlace packet all being found AFTER the book was written rather than during it.

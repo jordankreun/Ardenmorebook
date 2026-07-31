@@ -77,4 +77,4 @@
 **State updated**
 - [ ] Recap line appended to manuscript-log.md.
 - [ ] Story bible updated with newly-true facts, moved objects, shifted relationships.
-- [ ] Chapter saved as chapters/ch-NN-slug.md with front matter.
+- [ ] Chapter saved as manuscript/NN-slug.md with front matter.

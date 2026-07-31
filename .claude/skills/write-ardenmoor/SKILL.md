@@ -34,6 +34,8 @@ This skill lives inside the book's repository. Paths are relative to the REPO RO
 - `.claude/skills/write-ardenmoor/tools/prose-lint.sh` — the MECHANICAL voice guard: run it on every chapter before delivery (hard rules FAIL, tic budgets WARN); see the post-flight step
 - `.claude/skills/write-ardenmoor/tools/phrase-registry.txt` — distinctive one-use phrases and their home chapters; the lint fails any reuse; append each new chapter's best coinages
 - `.claude/skills/write-ardenmoor/tools/vouched.txt` — the VOUCH LEDGER: the deliberate cross-chapter echoes (motifs, callbacks, canonical terms) the lint's adjacent-echo check should stop re-flagging for a specific file-pair; a NEW echo still fires
+- `.claude/skills/write-ardenmoor/tools/craft-check.sh` — the STRUCTURE guard (companion to the prose lint, which guards the line): scene density, wall paragraphs, size drift. All WARN, never FAIL; craft is judgment
+- `.claude/skills/write-ardenmoor/tools/span-check.sh` — the CROSS-CHAPTER guard: dialogue runs, summary runs, sustained thinning, cadence depreciation, untouched threads. Per-chapter tools cannot see restructuring damage by construction; this one can
 - `.claude/skills/write-ardenmoor/tools/chapter-check.sh` — the end-of-drafting DELIVERY RECEIPT: runs the lint and asserts the new chapter is actually wired into the plumbing (in `manifest.json`, has a phrase-registry row, has a log recap line); one PASS/FAIL line each, existence-only
 - `state/story-bible.md` — the LIVING continuity record; you read and update it every chapter
 - `state/engine-reports.md` — append-only archive of what the pre-delivery engine pass CLAIMED per chapter (counts + deliberate keeps); NOT read at startup — consulted on demand at intake gap-analysis and when revising to a note, to tell a silent miss from a conscious keep
@@ -184,6 +186,11 @@ not obedience: free to widen the path, never free to break canon.
 
 Do these in order, every session, before drafting a word:
 
+0. **Read `references/craft.md`** in full. This is how fiction is built: scene, turn, subtext,
+   causality, payoff, POV, rhythm. It is the only doc in this set that is *transferable craft*
+   rather than this book's accumulated taste, and §1 (THE COZY CONTRACT) names the standard advice
+   that is deliberately OVERRULED here. Read it first so everything after it reads as a considered
+   exception to a known baseline rather than as free-floating law.
 1. **Read `references/style-guide.md`** in full. Internalize the register.
 2. **Read `references/voice-rothfuss-mancour.md`** in full. This is the specific voice.
 2b. **Read `references/feedback-engine.md`** in full. This is the distilled rubric of every
@@ -209,6 +216,17 @@ Do these in order, every session, before drafting a word:
      made, not a suggestion to weigh; only pause if it would break canon, and then say so. If a
      revision reveals a preference that should generalize (a word the author dislikes, a rhythm
      they keep smoothing), record that convention too, the same as a note.
+
+**Consult-on-demand (do NOT load every session):**
+- `references/exemplars.md` — worked examples of every craft principle, drawn from this book, with
+  a counter-examples section of real caught failures. Open it when the pre-draft brief names a
+  technique the chapter is at risk on, or when a `craft-check.sh` WARN fires and you want a model.
+- `references/editorial-read.md` — how to *read* a draft. The diagnostic twin of `craft.md`. Load
+  for cold reads, editorial passes, and adversarial verification.
+- `references/economy.md` — the locked money model (coinage, land values, wages, the cashflow
+  calendar). Load whenever a chapter turns on money, land, trade, or an institution.
+- `state/thread-ledger.md` — every setup and its state (PAID / BANKED / OPEN). Read at plan time;
+  update in post-flight, every chapter.
 
 Only then begin drafting.
 
@@ -251,7 +269,14 @@ When asked to write chapter N:
      river house) before the Ch27–28 finale — mid-book grief is a threshold, never a release.
   3. **Recall the previous TWO chapters' CLOSING SHAPES** (image vs. line-of-dialogue, and their
      subject) so this close varies from both (craft dial #3 / the lint's Bookend check backstops it).
-  4. **CAUSAL check, not just calendar:** ask what REASON earlier chapters gave for the current state
+  4. **DECLARE THE CAUSAL PARENT (momentum, not just continuity).** Write the line: *this chapter
+     happens because of ____.* Name a prior chapter or a named prior event. The honest connective
+     between consecutive chapters should be **therefore** or **but**, almost never *and then*. If the
+     only true answer is "time passed," you have found the chapter that needs work — and the cause is
+     nearly always already on the page a chapter or two back, unclaimed. This line goes into the
+     chapter's `engine-reports.md` block as `caused-by:`, and `chapter-check.sh` asserts it exists.
+     See `references/craft.md` §5.
+   - **CAUSAL check, not just calendar:** ask what REASON earlier chapters gave for the current state
      of things (why the ground is poor, why a tenancy is free, why a route is closed), and confirm
      this chapter's outcome does not quietly contradict it. Each chapter can pass its own canon check
      while the contradiction lives in the causation between them.
@@ -302,6 +327,24 @@ chapter done. If any check fails, fix the prose, not the checklist.
 ```
 .claude/skills/write-ardenmoor/tools/prose-lint.sh manuscript/NN-slug.md
 ```
+
+**Run the CRAFT CHECK (mandatory, mechanical):**
+```
+.claude/skills/write-ardenmoor/tools/craft-check.sh manuscript/NN-slug.md
+```
+Guards the chapter's SHAPE where the prose lint guards its line. Everything it emits is a WARN and
+nothing it emits is automatically wrong: a WARN means look. Run it BEFORE the feedback-engine pass so
+its findings are inputs to that judgment rather than an afterthought. Anything kept is justified in
+the engine report, exactly as with the lint. The principles behind each check are in
+`references/craft.md`; worked models are in `references/exemplars.md`.
+
+**Run the SPAN CHECK at part boundaries, before delivering three or more chapters, and after ANY
+renumber, split, merge, or reorder:**
+```
+.claude/skills/write-ardenmoor/tools/span-check.sh manuscript/2*.md
+```
+This is the answer to the engine's oldest documented failure: *a per-chapter pass CANNOT see
+restructuring damage, because every chapter passes in isolation.* Do not skip it after a restructure.
 - A **FAIL** (em dashes, memoir-frame phrases, a registry phrase reused outside its home chapter)
   must be fixed in the prose, no exceptions.
 - A **WARN** means a signature tic is over its per-chapter budget: review every instance; dialogue

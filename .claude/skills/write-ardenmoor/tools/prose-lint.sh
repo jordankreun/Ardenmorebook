@@ -100,7 +100,7 @@ for f in "$@"; do
     for p in 'this account' 'set this down' 'setting this down' 'the tellers' \
              'shook kingdoms' 'in a long life' 'half myth' 'everyone I knew is gone' \
              'longer than most kingdoms' 'an honest accounting' \
-             'this chapter' 'next chapter' 'these pages' 'this book'; do
+             'this chapter' 'next chapter' 'these pages' 'this book' 'in a book'; do
       n=$(count "$p" "$f")
       if [ "$n" -gt 0 ]; then echo "  FAIL  memoir-frame phrase \"$p\": $n (chapters stay immediate)"; status=1; fi
     done
