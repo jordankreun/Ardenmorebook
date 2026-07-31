@@ -1,6 +1,15 @@
 [
   {
     "chap": "Prologue",
+    "snip": "*From one of the later journals*",
+    "quote": "From one of the later journals",
+    "text": "This needs rework more context needed",
+    "ts": 1785272944281,
+    "resolved": true,
+    "resolvedTs": 1785272944281
+  },
+  {
+    "chap": "Prologue",
     "snip": "There was only a man at the tired end of a bad few years, with a good deal more skill than sense and",
     "quote": "That is who this is about, and I will ask you to go easy",
     "text": "If I were to tell that story that is who it would be about and I would ask you to go easy on him",
@@ -45,13 +54,14 @@
     "resolvedTs": 1785272944281
   },
   {
-    "chap": "Prologue",
-    "snip": "*From one of the later journals*",
-    "quote": "From one of the later journals",
-    "text": "This needs rework more context needed",
-    "ts": 1785272944281,
+    "chap": "Chapter Three: Under Canvas",
+    "snip": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the l",
+    "quote": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the last of the giving-up road with the drivers walking at the horses’ heads over the wo",
+    "text": "The movers need to unload his things into some sort of storeroom or storage he can let in the inn. Under a tarp in the barn or similar.",
+    "ts": 1785361536455,
     "resolved": true,
-    "resolvedTs": 1785272944281
+    "resolvedTs": 1785361536455,
+    "resolvedVia": "applied-2026-07-29"
   },
   {
     "chap": "Prologue",
@@ -94,13 +104,35 @@
     "resolvedVia": "applied-2026-07-29"
   },
   {
-    "chap": "Chapter Three: Under Canvas",
-    "snip": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the l",
-    "quote": "The wagons came up on a grey soft afternoon with rain not far off, groaning and lurching along the last of the giving-up road with the drivers walking at the horses’ heads over the wo",
-    "text": "The movers need to unload his things into some sort of storeroom or storage he can let in the inn. Under a tarp in the barn or similar.",
-    "ts": 1785361536455,
-    "resolved": true,
-    "resolvedTs": 1785361536455,
-    "resolvedVia": "applied-2026-07-29"
+    "chap": "Chapter Seven: Wednesdays",
+    "snip": "I taught him his letters on that slate, that autumn, because it turned out no one had, and because a",
+    "quote": "but I will be honest and say that the letters never took the way I hoped. He could read, by winter, well enough for the valley’s purposes and better than his grandfather. But words on a slate were not where the boy lived, and I stopped, after a while, trying to move him into them, because a man should teach a child toward the thing the child is and not away from it, and the thing that boy was had nothing to do with letters",
+    "text": "Make him slower but competent at letters. Quick to pick it up but not a savant like numbers.",
+    "ts": 1785382246608,
+    "resolved": false
+  },
+  {
+    "chap": "Chapter Seven: Wednesdays",
+    "snip": "I tested it once, that gift of his, though I am not proud of the testing. There was a Wednesday in t",
+    "quote": "tested",
+    "text": "Make wizards tools more like tinkerers tools less like surveyors",
+    "ts": 1785382731828,
+    "resolved": false
+  },
+  {
+    "chap": "Chapter Eight: The Lamp Business",
+    "snip": "And I had to stand in her shop, with my new brackets in my hand and the good clean smell of shaved o",
+    "quote": "The light I burn drinks something that lives only under my particular hill. On your bench it would sit as dark as a dead coal.",
+    "text": "He wouldn’t volunteer this information. Rewrite more vague",
+    "ts": 1785383075384,
+    "resolved": false
+  },
+  {
+    "chap": "Chapter Eight: The Lamp Business",
+    "snip": "That was the whole idea, and like most whole ideas it was simple to say and a month of evenings to d",
+    "quote": "sill,",
+    "text": "Add comedic note here. Blinded him and he fell and knocked the thing to bits or similar",
+    "ts": 1785383229974,
+    "resolved": false
   }
 ]
