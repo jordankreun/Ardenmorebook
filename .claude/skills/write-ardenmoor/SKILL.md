@@ -28,9 +28,10 @@ machinery exists only to keep the book whole across a long draft. **Book One is 
 
 ## STEP 1 — ALWAYS, IN EVERY MODE
 
-Read **`references/session-locks.md`** before anything else. It holds the session-locked author
-decisions and the protocol that makes author feedback durable. It binds every mode and supersedes
-the reference docs wherever they differ.
+Read **`references/CARD.md`** (77 lines) and then **`references/session-locks.md`**, before
+anything else. The CARD carries the house register, the covenants, the plan block, the
+precedence order and where truth lives; the locks bind every mode and supersede the reference
+docs wherever they differ.
 
 ## STEP 2 — THE ONE RULE ABOVE ALL
 
@@ -86,7 +87,25 @@ its **spine (5,397w)** rather than in full (27,572w). Re-measure and update this
 LOAD block changes; a stale figure here is how the modes quietly drift back toward loading
 everything.
 
-## STEP 4 — THE TOOLS ARE A BACKSTOP, NEVER A TARGET
+
+## STEP 4 — READ PROFILES (what a session actually opens)
+
+The mode says what work this is; the profile says what to read. **Every profile starts with the
+CARD and the locks.**
+
+**DRAFT** — CARD · locks · `state/story-bible.md` (spine) · `state/thread-ledger.md` ·
+`state/geography.md` · the previous chapter **in full** · the outline neighbourhood ·
+`feedback/notes.md` + `feedback/revisions.md`. Then **targeted `storycraft.md` sections named in
+the plan block, with a reason** — not the whole curriculum.
+*Full `storycraft.md` re-read is required only at a part boundary, or after a 7-day gap.*
+
+**REVISE / PASS** — CARD · locks · the files the pass touches · the named `feedback-engine.md`
+sections for the mode (see `modes/revise-moderate.md`) · relevant craft sections only.
+
+**APPLY-FEEDBACK** — CARD · locks · `feedback/notes.md` + `feedback/revisions.md` · the touched
+chapters. Nothing else: a tracked change is a decision already made, not a question to research.
+
+## STEP 5 — THE TOOLS ARE A BACKSTOP, NEVER A TARGET
 
 This engine has eight tools and about a dozen thresholds. Every one of them exists to catch drift
 that is invisible from inside a draft. **None of them can tell whether a page is alive**, and a
@@ -117,6 +136,7 @@ Four standing licences, binding in every mode:
 the tool can see*. They do not describe good prose, they cannot see rhythm, and they are silent on
 everything that makes a page worth reading. Treat a clean run as the absence of known drift, never
 as evidence the writing is good.
+
 
 ## THE REPOSITORY
 

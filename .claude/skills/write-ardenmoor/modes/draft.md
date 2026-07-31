@@ -165,12 +165,12 @@ chapter done. If any check fails, fix the prose, not the checklist.
 
 **Run the PROSE LINT (mandatory, mechanical):**
 ```
-.claude/skills/write-ardenmoor/tools/prose-lint.sh manuscript/NN-slug.md
+.claude/skills/write-ardenmoor/tools/check.sh chapter manuscript/NN-slug.md
 ```
 
 **Run the CRAFT CHECK (mandatory, mechanical):**
 ```
-.claude/skills/write-ardenmoor/tools/craft-check.sh manuscript/NN-slug.md
+# (folded into check.sh chapter)
 ```
 Guards the chapter's SHAPE where the prose lint guards its line. Everything it emits is a WARN and
 nothing it emits is automatically wrong: a WARN means look. Run it BEFORE the feedback-engine pass so
@@ -181,7 +181,7 @@ the engine report, exactly as with the lint. The principles behind each check ar
 **Run the SPAN CHECK at part boundaries, before delivering three or more chapters, and after ANY
 renumber, split, merge, or reorder:**
 ```
-.claude/skills/write-ardenmoor/tools/span-check.sh manuscript/2*.md
+.claude/skills/write-ardenmoor/tools/check.sh span manuscript/2*.md
 ```
 This is the answer to the engine's oldest documented failure: *a per-chapter pass CANNOT see
 restructuring damage, because every chapter passes in isolation.* Do not skip it after a restructure.
@@ -223,7 +223,7 @@ on demand at intake gap-analysis and whenever revising a chapter to a note.
 
 **Run the DELIVERY RECEIPT (the final mechanical gate).** After all state wiring is done, run:
 ```
-.claude/skills/write-ardenmoor/tools/chapter-check.sh manuscript/NN-slug.md
+# (folded into check.sh chapter)
 ```
 It re-runs the lint and asserts the chapter is actually plumbed in — listed in `manifest.json` (or
 it is invisible to `reader.html`), has a `phrase-registry.txt` row, and has a log recap line. Any

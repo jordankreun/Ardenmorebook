@@ -1,82 +1,70 @@
-# CONTINUITY CHECKLIST
-### Run the pre-flight before drafting and the post-flight before declaring a chapter done.
+# CONTINUITY CHECKLIST — human judgment only
+
+### Everything mechanical moved to `tools/check.sh` on 2026-07-31 (39 boxes → 18). What is left
+### is what a script cannot decide. If a box here could be automated, automate it and delete it.
+### Reading is governed by the profile in `SKILL.md` STEP 4; planning by the plan block in
+### `references/CARD.md`. Neither is repeated here.
 
 ---
 
-## PRE-FLIGHT (before writing)
+## PRE-FLIGHT (before writing) — 6
 
-- [ ] I have read the style guide, the voice note, the story bible, the **geography map**, and
-      the manuscript log.
-- [ ] I have read the previous chapter in full and know its closing image and emotional temperature.
-- [ ] I have read the outline around this chapter as **inspiration, not a script**, and noted which
-      load-bearing beats and canon facts it touches.
-- [ ] I know which of the four threads are alive in this chapter (follow the live ones; no quota).
-- [ ] I have listed every canon fact this chapter will touch and confirmed each against the bible.
-- [ ] I have checked every age, date, duration, and relationship-length I intend to state against
-      the story bible's **NUMBERS, AGES & DURATIONS LEDGER** (and will add any new figure to it).
-- [ ] Any place, direction, distance, or landmark I use agrees with `state/geography.md`
-      (anything marked [OPEN] I may invent, then log).
-- [ ] I know the season, day, place, and task that will anchor the opening paragraph.
-- [ ] I know this chapter's turn (if it has one) and its closing image.
-- [ ] For every character appearing, I have recalled their fixed speech rule.
+- [ ] **The plan block is written** (`CARD.md`), and `caused-by:` names a real prior event rather
+      than "time passed."
+- [ ] I know **which of the four threads are alive here** — following the live ones, not filling a
+      quota. A chapter whose real work is atmosphere or one relationship is a whole chapter.
+- [ ] I have listed **every canon fact this chapter will touch** and checked each against the
+      bible, the NUMBERS LEDGER, and `geography.md`. Anything `[OPEN]` stays open.
+- [ ] I know the **anchor** (season, day, place, task), the **turn**, and the **closing image** —
+      and the closing shape differs from the previous two chapters'.
+- [ ] For every character who will speak, I have recalled their **fixed speech rule**.
+- [ ] I know which **live seeds** this chapter touches or deliberately rests, and how each touched
+      one stays blind.
 
-## POST-FLIGHT (before done)
+## POST-FLIGHT (before done) — 12
 
-**Continuity**
-- [ ] No fact contradicts the outline's canon appendix or the story bible.
-- [ ] Load-bearing destinations are still reachable (nothing here forecloses the letter-then-chest
-      resolution, the Part IV convergence, or the Ch-28 compass-points-down twist).
-- [ ] Timeline is honest: travel took time, construction took the weeks it takes.
-- [ ] Every stated number, age, duration, and relationship-length agrees with the story bible's
-      Numbers Ledger; no vague phrasing ("longer than I can recall") that contradicts a fixed
-      figure (e.g., Penworth ≈ a decade with Emlyn and ≈ Emlyn's age — never "thirty years"/"old").
-- [ ] Places, directions, distances, and landmarks match `state/geography.md`; the two oaks are
-      kept distinct (roadside approach oak ≠ the Old Oak / Listener in the north wood).
-- [ ] Anyone who "knows" a secret was actually shown learning it (or already knew per the bible).
-- [ ] Objects are where the bible says they are; anything moved is logged.
-- [ ] Season/day/light are consistent with the previous chapter's timeline.
+- [ ] **`tools/check.sh chapter manuscript/NN-slug.md` has run, and every WARN is either fixed or
+      justified in the engine report.** This box replaces sixteen mechanical ones.
+- [ ] **Nothing contradicts locked canon**, and the load-bearing destinations are still reachable
+      (letter-then-chest, the compass down at the close, the Part IV convergence).
+- [ ] **The timeline is honest**: travel took time, construction took the weeks it takes, the
+      season agrees with the previous chapter.
+- [ ] **Anyone who "knows" a secret was shown learning it** (or already knew, per the bible), and
+      objects are where the bible says they are.
+- [ ] **POV is correct** (session-lock #1): first person for an Emlyn chapter, third-limited for
+      another character or an interlude, one POV throughout.
+- [ ] **Every character's dialogue obeys their speech rule**, and no line is modern, techspeak, or
+      fake-archaic.
+- [ ] **No abstraction without a physical anchor; no named emotion the reader could infer**; the
+      biggest beat is the quietest on the page.
+- [ ] **No sentence admires itself**, and any digression came back with something gained.
+- [ ] **The craft is legible** — a reader learns how the working works through action, not
+      lecture — and the practice has not hardened into a spreadsheet.
+- [ ] **The chapter moves or deepens something real.** A quiet chapter passes this if its
+      attention is alive; an empty one does not.
+- [ ] **The undercurrent is weather, not storm** (until Part IV), and the twist's mechanism was
+      not revealed early.
+- [ ] **State is updated**: recap line, bible facts, `thread-ledger.md` for any seed planted,
+      watered or paid, and `geography.md` if a place moved.
 
-**Voice**
-- [ ] POV correct for the chapter (Spellmonger hybrid, session-lock #1): an **Emlyn chapter** is
-      **first person, past tense**, told close to the events, with NO ancient-chronicler / deep-time /
-      famous-legend / "this account" memoir framing (Mancour near-hindsight like "I didn't know it
-      yet" is fine). An **other-character chapter or interlude** is **third-person limited** on one
-      head (the hill, for interludes), same blended voice, no first-person slips, no head-hopping, no
-      POV that spends a mystery early.
-- [ ] **`tools/prose-lint.sh manuscript/NN-slug.md` has RUN** — zero FAILs (em dashes,
-      memoir-frame phrases, registry-phrase reuse); every WARN reviewed instance-by-instance and
-      any kept overage justified in the engine report. The chapter's 3–5 most distinctive
-      coinages have been APPENDED to `tools/phrase-registry.txt`.
-- [ ] **Every em dash (—) is a deliberate choice** — the zero-tolerance rule was retired by the
-      author on 2026-07-31. prose-lint WARNs on each one (justify it in the engine report) and
-      FAILs above 2.0 per 1,000 words. Asides and pauses still default to commas, periods
-      (favored), semicolons, colons, or parentheses, varied for natural flow; ellipsis for a
-      trailing or cut-off line. **No en dashes (–) and no ` -- `** — those remain a hard FAIL.
-- [ ] Every character's dialogue obeys their fixed speech rule.
-- [ ] No modern idiom, no techspeak, no fake-archaic incantation.
-- [ ] At least one earned lyric sentence; no purple paragraphs; the biggest beat is the quietest.
-- [ ] No sentence admires itself; any digression returned with something gained.
-- [ ] Craft scenes are legible (a reader learns how the working works through action), and any
-      commerce is also character — the built practice never hardened into a spreadsheet.
-- [ ] No abstraction without a physical anchor; no named emotion the reader could infer.
+---
 
-**Structure**
-- [ ] Length serves the material (RELAXED guidance, no hard floor: most chapters ~3,000–5,000, short
-      chapters ~1,500–2,500 fine for a single tight beat, some longer; vary like real novels). Not
-      padded to a number, not stretched or cut to hit one.
-- [ ] Follows the anchor → work/encounter → turn → settle rhythm, or departs from it for a reason.
-- [ ] Opens in continuity with the previous chapter's last image.
-- [ ] Ends on an image or single line of dialogue (not a question/cliffhanger; Ch 28 excepted).
-- [ ] The chapter moves or deepens something real. A quiet or atmosphere-led chapter is fine if
-      its attention is alive; only the empty chapter — moving and deepening nothing — is cut.
-- [ ] Undercurrent handled correctly (weather, not storm — unless Part IV).
+## WHERE THE REMOVED BOXES WENT
 
-**Payoffs**
-- [ ] Any seed planted is logged to "pending payoff" with a target chapter.
-- [ ] Any payoff due this chapter (per the pending list) was delivered or consciously deferred.
-- [ ] The twist's mechanism (compass points down) was NOT revealed early.
+Twenty-one boxes were deleted, none of them lost:
 
-**State updated**
-- [ ] Recap line appended to manuscript-log.md.
-- [ ] Story bible updated with newly-true facts, moved objects, shifted relationships.
-- [ ] Chapter saved as manuscript/NN-slug.md with front matter.
+| removed | now enforced by |
+|---|---|
+| read style guide / voice / bible / geography / previous chapter / outline | `SKILL.md` STEP 4 read profiles |
+| know the anchor · the turn · threads · speech rules · seeds touched | the plan block, `CARD.md` |
+| prose-lint has run · zero FAILs · registry row appended | `check.sh chapter` |
+| every em dash is deliberate | `prose-lint` WARN + density FAIL |
+| ends on an image, not a question | `check.sh chapter` (migrated) |
+| recap line appended · chapter in manifest · front matter | `chapter-check.sh` |
+| seed logged with a target chapter · payoff delivered | `state/thread-ledger.md` + `span-check` |
+| length serves the material | retired — no length target exists (session-lock #7) |
+| no purple paragraphs / one earned lyric sentence | `craft-check.sh` lyric-run WARN |
+| anchor → work → turn → settle rhythm | plan block SHAPE line; a tendency, not a mould |
+
+**Part-boundary review** is not here and never was: it lives in `storycraft.md` Module 14, and
+`check.sh span` is its mechanical half.
