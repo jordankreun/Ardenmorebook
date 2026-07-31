@@ -356,3 +356,65 @@ amended; seed logged in PENDING PAYOFFS and thread-ledger.md with no target chap
 registry: removed a stale row ("allowed to have been merely a child", already 0 occurrences before
 this revision); re-worded "never once asked him to be anything more than he was" to the approved
 "never asked me to be anything more than I was".
+
+---
+
+# STREAMLINING — runtime compaction (2026-07-31)
+
+## Phase 0 baseline (wc -l)
+
+| file | lines |
+|---|---|
+| SKILL.md | 175 |
+| references/storycraft.md | 600 |
+| references/feedback-engine.md | 550 |
+| references/economy.md | 509 |
+| references/outline.md | 397 |
+| references/exemplars.md | 258 |
+| references/style-guide.md | 168 |
+| references/engine-changelog.md | 160 |
+| references/editorial-read.md | 146 |
+| references/session-locks.md | 134 |
+| references/voice-rothfuss-mancour.md | 120 |
+| references/continuity-checklist.md | 82 |
+| modes/ (5 files) | 827 |
+| **references + modes + SKILL** | **4,126** |
+| state/story-bible.md | 1,921 |
+| state/manuscript-log.md | 1,262 |
+| state/geography.md | 434 |
+| state/engine-reports.md | 358 |
+| state/structural-diagnostic.md | 296 |
+| state/thread-ledger.md | 65 |
+| **state** | **4,336** |
+| **TOTAL** | **8,462** |
+
+All six tools green on manuscript/22 before any change, so later failures are attributable.
+
+## Brief premises that were already satisfied (directive 6 — flagged, not stalled)
+
+The task brief was written against an earlier build. Three of its targets were met before
+this run began, and saying so is cheaper than pretending to hit them again:
+
+- **SKILL.md is 175 lines, not ~700.** The Phase 4 target of <=350 was already met at 2x margin
+  when SKILL.md became a router (commit 51d9afa). Phase 4 therefore delivers CARD.md and the
+  three profiles, which do not yet exist, and leaves SKILL.md near its current size.
+- **craft.md no longer exists.** It was folded into storycraft.md earlier today (e55faeb): its
+  three non-duplicated sections became Modules 11, 6 and 8, and ~20 section citations were
+  repointed. Phase 2's "merge 922 lines into 550" is therefore mostly done; storycraft.md stands
+  at 600. What remains is the naming (the brief wants the merged file called craft.md) and the
+  [ENFORCED] flagging.
+- **feedback-engine.md is 550, not 679** — its 3,435-word changelog was split out today (e55faeb).
+
+## Where the real win is
+
+story-bible.md is 1,921 lines and **1,552 of them (81%) are ESTABLISHED ON THE PAGE blocks**.
+Those blocks mix three things: canon facts (keep), drafting narrative ("was CUT here", "per the
+organic-introduction rule" — history), and forward instructions ("must be met in a later
+chapter") that the finished manuscript has since satisfied. The compaction is therefore a
+fact-extraction, not a deletion.
+
+**Conservative choice under directive 6:** the full ESTABLISHED blocks are archived VERBATIM
+rather than rewritten in place, and the bible keeps a dense per-chapter fact digest plus a
+pointer. Nothing is paraphrased out of existence; if a digest line is ever doubted, the original
+sits in archive/ with its full context.
+
