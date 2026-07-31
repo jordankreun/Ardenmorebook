@@ -15,7 +15,7 @@ rubric only gets sharper.
 ## THE PRE-DRAFT BRIEF (run BEFORE drafting — the engine's forward pass)
 
 The audit below catches failures after they're written; this step prevents them from being written.
-As part of the chapter plan (SKILL.md's scratch block), assemble a short **brief** from this file
+As part of the chapter plan (the scratch block in `modes/draft.md`), assemble a short **brief** from this file
 and the story bible, and draft against it:
 
 1. **Rules most at risk for THIS chapter's material.** A build chapter → world-logic, spreadsheet
@@ -54,7 +54,7 @@ chapter for violations.
    surrounding lines for the same class of issue (problems cluster).
 3. Keep a short internal tally of what fired and what you changed.
 4. Re-run the two mechanical hard-fails (P0) one last time after edits, because fixes can
-   introduce an em dash or drop the word count.
+   introduce a stray dash or drop the word count.
 5. Deliver, then give the author a 2–4 line **engine report**: what the pass flagged, what it
    changed, and anything you deliberately left (with why). Short. It proves the pass ran and
    surfaces judgment calls without making the author re-review the whole chapter. **Then archive it:**
@@ -84,9 +84,17 @@ Any cold-read or verifier sub-agent prompt must invoke that persona.
 
 ## P0 — MECHANICAL HARD-FAILS (scan first and last)
 
-- **[HARD] No em dashes. None.** Search the chapter for `—`. Replace every one with a comma,
-  semicolon, colon, full stop, or parentheses as the sentence wants. *Source: "never use em dash,
-  make writing feel human."*
+- **[CRAFT] The em dash is permitted, deliberately (author reversal, 2026-07-31).** The old rule
+  was zero-tolerance; it is retired. What replaces it is not permission to reach for the mark, but
+  a requirement to *choose* it: `tools/prose-lint.sh` WARNs on every occurrence so each one is
+  looked at, and FAILs above 2.0 per 1,000 words, where the mark stops reading as a choice and
+  starts reading as the machine tic the ban existed to prevent. Default still favors the comma,
+  the period, the semicolon, the colon, and parentheses, varied so no one mark becomes a tic.
+  This is NOT retroactive: the 37 drafted files hold zero em dashes and are not to be re-punctuated
+  to use them. *Source: "never use em dash, make writing feel human" (2026-07-11), reversed by the
+  author 2026-07-31.*
+- **[HARD] No en dashes (–) and no ` -- `.** The reversal above named the em dash only; these stay
+  a prose-lint FAIL, and ` -- ` is nearly always a mistyped em dash.
 - **[CRAFT] Length fits the material (RELAXED — no hard floor).** Vary chapter length like real
   novels: most chapters substantial (~3,000–5,000), **short chapters (~1,500–2,500) are fine** for a
   single tight scene/turn/beat, and some run longer when earned. **Never pad to a number and never
@@ -391,8 +399,8 @@ author has repeatedly (and rightly) pushed the arithmetic to be harder and more 
 
 ## Keeping the engine learning (the intake protocol — run ALL six steps on every note)
 
-When the author gives new feedback, after applying it to the prose (per SKILL.md "AUTHOR FEEDBACK
-IS DURABLE"), run this full protocol. A note that only fixes the one line has NOT been learned.
+When the author gives new feedback, after applying it to the prose (per "AUTHOR FEEDBACK IS
+DURABLE" in `references/session-locks.md`), run this full protocol. A note that only fixes the one line has NOT been learned.
 
 1. **Generalize.** Ask: *what is the class of failure behind this specific note?* Phrase it as a
    checkable failure pattern + a fix pattern, not as the one line.

@@ -31,7 +31,8 @@ voice like this:
   the money, the building, the competence — rendered with relish and humor, not veiled in lyricism.
   A paragraph about how something was done is welcome and does not need a poetic finish.
 - **Keep, unchanged:** the Le Guin restraint floor (name no emotion, explain no silence, go quieter
-  at the biggest moments), canon, and the no-em-dash rule.
+  at the biggest moments) and canon. (The old no-em-dash rule was retired by the author 2026-07-31;
+  see the style guide's punctuation entry for what replaced it.)
 - **POV (Spellmonger hybrid — session-lock #1, 2026-07-11; supersedes both the "third-limited" and
   the "pure-first-person ancient-teller" language elsewhere in this doc):** Emlyn's chapters are
   **first person, past tense**, told at a near remove (close to the events, ordinary hindsight),

@@ -7,16 +7,20 @@
 
 ## STATUS
 
-- Chapters drafted: **Prologue + Chapters 1–8 + Interlude I** (`00-prologue.md` … `08-the-lamp-
-  business.md`; Interlude I is `07b-interlude-one.md`, between Ch 7 and Ch 8).
+- Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III**
+  (`00-prologue.md` … `32b-coda.md`; 37 files, all listed in `manuscript/manifest.json`).
+  Interludes are `07b-interlude-one.md`, `15b-interlude-two.md`, `25b-interlude-three.md`.
+  **112,670 words** (prose lines only: blank lines and `#`-headers excluded; `tools/state-check.sh`
+  documents the same counting method). Keep this bullet current — it is the first thing the startup
+  read treats as true, and `tools/state-check.sh` FAILs when it falls behind the manifest.
 - **POV = SPELLMONGER HYBRID (2026-07-11):** Emlyn's chapters first person (told close to events, no
-  ancient-chronicler frame); other characters' chapters + the four interludes third-person limited.
-  The Prologue + Ch 1–8 were given a framing pass to strip the old deep-time/legend/memoir framing;
-  Interlude I is the first third-person hill's-POV passage. See session-lock #1 and the POV-REWRITE
-  note in the manuscript log.
-- Current manuscript position: **Part I complete** (Prologue, Ch 1–7, Interlude I); Ch 8 opens Part
-  II. The Study is built (Ch 5); the LUMEN is bound (Ch 6); the domestic rhythm and Soren's lifelong
-  hearing established (Ch 7); the Series lamp / commerce and the shelf-gap grief object (Ch 8).
+  ancient-chronicler frame); other characters' chapters + the interludes third-person limited.
+  The whole manuscript has had the framing pass that strips the old deep-time/legend/memoir framing.
+  See session-lock #1 and the POV-REWRITE note in the manuscript log.
+- Current manuscript position: **the draft is finished and under revision.** Work now is revision,
+  not continuation: the storycraft pass (2026-07-31) is proceeding part by part, Part I done. Part
+  boundaries: I = Prologue–Ch 7 + Interlude I · II = Ch 8–15 + Interlude II · III = Ch 16–25 +
+  Interlude III · IV = Ch 26–32 + coda.
 - Spelling decision: **LOCKED as "Ren"** (used on the page in Ch 2, Ch 5).
 - ✅ **NAMING COLLISION RESOLVED (2026-07-11); SUPERSEDED 2026-07-31:** Soren's mother is now
   **dead before page one and UNNAMED on the page** (died the night of his birth; author fork) and
@@ -25,6 +29,15 @@
 
 ## SESSION-LOCKED AUTHOR DECISIONS (binding; supersede references where they differ)
 
+- **EM DASH PERMITTED (2026-07-31) — reverses the old zero-tolerance rule.** The author's
+  original lock ("never use em dash, make writing feel human", 2026-07-11) is retired and now
+  lives in `tools/superseded.txt`; no live doc may restate it as a ban. What replaces it is a
+  *deliberateness* rule, not open licence: `tools/prose-lint.sh` WARNs on every em dash so each
+  is justified in the engine report, and FAILs above **2.0 per 1,000 words**. The default
+  punctuation preference is unchanged (comma, period, semicolon, colon, parentheses, varied).
+  **Not retroactive:** the drafted manuscript holds **zero** em dashes across 112,670 words and
+  must not be re-punctuated to add them; this governs new and revised prose only. **En dashes (–)
+  and ` -- ` remain a hard FAIL** — the reversal named the em dash alone.
 - **Natural interaction over outline (standing rule):** always prioritize the living
   back-and-forth of a scene over hitting an outline beat. The outline is a pantry, not a
   schedule; follow the scene, keep only canon and continuity as fences.

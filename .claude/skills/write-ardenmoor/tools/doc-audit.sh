@@ -25,7 +25,12 @@ FILES="$DIR/../SKILL.md $DIR/../references/outline.md $DIR/../references/style-g
        $DIR/../references/feedback-engine.md $ROOT/state/story-bible.md $ROOT/state/geography.md \
        $DIR/../references/craft.md $DIR/../references/storycraft.md $DIR/../references/exemplars.md \
        $DIR/../references/economy.md $DIR/../references/editorial-read.md \
+       $DIR/../references/session-locks.md \
        $ROOT/state/thread-ledger.md"
+# The mode files (added 2026-07-31 when SKILL.md became a router). Globbed rather than listed so
+# a new mode is audited the day it is written; an unaudited mode file is exactly where a retired
+# rule would survive, since the modes are what actually get read now.
+for m in "$DIR"/../modes/*.md; do [ -f "$m" ] && FILES="$FILES $m"; done
 
 status=0
 while IFS= read -r pat; do

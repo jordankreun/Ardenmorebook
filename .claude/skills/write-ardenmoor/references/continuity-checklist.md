@@ -47,9 +47,11 @@
       memoir-frame phrases, registry-phrase reuse); every WARN reviewed instance-by-instance and
       any kept overage justified in the engine report. The chapter's 3–5 most distinctive
       coinages have been APPENDED to `tools/phrase-registry.txt`.
-- [ ] **NO EM DASHES (—) anywhere** — prose, dialogue, or chapter titles (hard house rule).
-      Asides/pauses use commas, periods (favored), semicolons, colons, or parentheses, varied for
-      natural flow; ellipsis for a trailing/cut-off line. Grep the file to be sure.
+- [ ] **Every em dash (—) is a deliberate choice** — the zero-tolerance rule was retired by the
+      author on 2026-07-31. prose-lint WARNs on each one (justify it in the engine report) and
+      FAILs above 2.0 per 1,000 words. Asides and pauses still default to commas, periods
+      (favored), semicolons, colons, or parentheses, varied for natural flow; ellipsis for a
+      trailing or cut-off line. **No en dashes (–) and no ` -- `** — those remain a hard FAIL.
 - [ ] Every character's dialogue obeys their fixed speech rule.
 - [ ] No modern idiom, no techspeak, no fake-archaic incantation.
 - [ ] At least one earned lyric sentence; no purple paragraphs; the biggest beat is the quietest.

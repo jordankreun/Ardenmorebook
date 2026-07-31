@@ -11,6 +11,16 @@ does not want short chapters
 70,000 target
 ~70,000
 
+# the em-dash ban (retired 2026-07-31 by author reversal; the mark is now permitted but every
+# use is deliberate, WARNed by prose-lint, and FAILs above 2.0 per 1,000 words). These patterns
+# catch a doc restating the old ABSOLUTE prohibition as live. The en-dash ban is NOT retired, so
+# nothing here may match a sentence that only forbids en dashes.
+no em dashes. none
+never use the em dash
+NO EM DASHES (—) anywhere
+the no-em-dash rule
+em dash (house rule: zero)
+
 # POV: the ancient-chronicler frame (retired by session-lock #1)
 pure first-person ancient
 third-limited on Emlyn throughout

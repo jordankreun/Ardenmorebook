@@ -66,7 +66,7 @@ right by them in the author's own voice.
    strong sentence; clarity (every sentence parses on first read); the tic and the weld the mechanical
    lint budgets but a human still weighs in context.
 4. **Copy / proof** — names, ages, dates, directions, distances, continuity of fact; punctuation
-   (the house rules: no em dashes, etc.); typos. Most of this is the lint's and the continuity
+   (the house rules: em dashes deliberate and under the density ceiling, no en dashes, etc.); typos. Most of this is the lint's and the continuity
    checklist's job; confirm, do not re-derive.
 
 ---
@@ -89,7 +89,7 @@ For each finding, in order:
    *supposed* to read as ordinary life; a mystery deliberately withheld). Refute the cosmetic.
 3. **Does the fix serve the book — and is there a better one?** A confirmed defect with a bad fix is
    still a fail. When you confirm, you owe the author the *editor's* fix: the lightest change that
-   solves the real problem in the author's own voice, obeying every hard rule (no em dashes, no
+   solves the real problem in the author's own voice, obeying every hard rule (no en dashes, no
    broken canon, no un-blinded seed). Improve the suggested wording if you can; if the honest fix is
    "cut it," say cut it.
 4. **Stake your name.** Confirm only what you would defend to the author's face. Mark your

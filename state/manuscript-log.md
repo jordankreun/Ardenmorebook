@@ -6,10 +6,15 @@
 
 ## PROGRESS
 
-- Chapters as a suggested shape: ~28 (+ 4 interludes between parts); widen where the book wants it.
-- Drafted: Prologue + Chapters 1–**19** + **Interludes I–II** (`07b-interlude-one.md`, between Ch 7 and Ch 8).
-- Word count so far: ~61,000 / ~90,000–100,000 target (full ~28-chapter shape, session-lock #10).
-- **PART I IS COMPLETE** (Prologue, Ch 1–7, Interlude I). Ch 8–9 are Part II (winter → spring, Year 2).
+- Drafted: **BOOK ONE COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III** (37 files,
+  `00-prologue.md` … `32b-coda.md`). The book ran past the ~28-chapter suggested shape, as the
+  outline's own scaffolding-not-law note allows.
+- Word count: **112,670** (prose lines only; blank lines and `#`-headers excluded). The old
+  ~90,000–100,000 target is retired along with every other length target (session-lock #7,
+  `tools/superseded.txt`).
+- **ALL FOUR PARTS ARE DRAFTED.** Current work is revision, not continuation — the storycraft pass
+  (2026-07-31) is running part by part, Part I complete. Keep this bullet current:
+  `tools/state-check.sh` FAILs when it falls behind `manuscript/manifest.json`.
 - **CHAPTER LENGTH RELAXED (2026-07-11):** the ~3,500 hard floor is retired → flexible guidance (vary
   like real novels; short chapters ~1,500–2,500 fine, some longer). Ch 9 is a deliberately shorter
   chapter (2,944). See session-lock #7 / feedback-engine.

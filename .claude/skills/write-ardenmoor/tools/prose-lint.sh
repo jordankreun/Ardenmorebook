@@ -3,7 +3,7 @@
 #
 # Usage:  tools/prose-lint.sh manuscript/NN-slug.md [more files...]
 #
-# Run on every chapter BEFORE delivery (mandatory post-flight step in SKILL.md).
+# Run on every chapter BEFORE delivery (mandatory post-flight step in every mode; see modes/).
 # Findings:
 #   FAIL — hard rule broken (em dashes, memoir-frame phrases in a chapter,
 #          registry-phrase reuse). Exit code 1. Fix the prose, always.
@@ -92,8 +92,33 @@ for f in "$@"; do
   is_interlude=0; case "$base" in *interlude*) is_interlude=1;; esac
 
   # ---- HARD RULES ----
-  n=$(grep -o '—\|–\| -- ' "$f" | wc -l | tr -d ' ')
-  if [ "$n" -gt 0 ]; then echo "  FAIL  em/en dashes: $n (house rule: zero)"; status=1; fi
+  # EM DASH — permitted deliberately (author decision 2026-07-31, reversing the
+  # old zero-tolerance rule). Two-tier, because "deliberate" is a real constraint
+  # and not a synonym for "unlimited":
+  #   WARN on every occurrence, so each one is SEEN and justified in the engine
+  #        report. That visibility is the whole content of "deliberate."
+  #   FAIL above 2.0 per 1,000 words, which is the density at which the mark
+  #        stops reading as a choice and starts reading as the machine tic the
+  #        original ban existed to prevent.
+  # NOT RETROACTIVE. All 37 manuscript files were written under the ban and hold
+  # zero em dashes; this reversal permits the author's future use, it does not
+  # license inserting dashes into finished prose.
+  em=$(grep -o '—' "$f" | wc -l | tr -d ' ')
+  if [ "$em" -gt 0 ] && [ "${words:-0}" -gt 0 ]; then
+    r=$(( em * 10000 / words ))          # tenths of an occurrence per 1,000 words
+    if [ "$r" -ge 20 ]; then
+      echo "  FAIL  em dashes: $em ($((r/10)).$((r%10)) per 1,000 words, ceiling 2.0) — at that density the mark is a tic, not a choice; re-punctuate most of them"
+      status=1
+    else
+      echo "  WARN  em dashes: $em ($((r/10)).$((r%10)) per 1,000 words) — permitted since 2026-07-31, but each is a deliberate choice: justify it in the engine report or re-punctuate"
+      warned=1
+    fi
+  fi
+
+  # EN DASH and hyphen-built dashes stay banned outright. The author's reversal
+  # named the em dash only; ' -- ' in particular is nearly always a typo for one.
+  n=$(grep -o '–\| -- ' "$f" | wc -l | tr -d ' ')
+  if [ "$n" -gt 0 ]; then echo "  FAIL  en dashes / ' -- ': $n (house rule: zero; the em-dash reversal did not extend to these)"; status=1; fi
 
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then
