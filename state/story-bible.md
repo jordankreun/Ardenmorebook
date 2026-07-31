@@ -1664,6 +1664,24 @@ show release. The coarse curve, so no chapter overshoots:
 
 ## OPEN QUESTIONS / AUTHOR DECISIONS
 
+- **⚠️ THE DESTINY MODEL — UNRESOLVED, AND THE BOOK CURRENTLY IMPLIES BOTH (raised 2026-07-31).**
+  Did the hill *wait* for Emlyn, or did contact between them make something neither had before?
+  The book's thesis rejects fate ("no thread of fate in it, whatever a story would want", Ch 1),
+  and the interludes plus the coda's **`*At last.*`** (`32b-coda.md:15`) read as recognition of
+  someone awaited. That is a genuine contradiction, not a subtlety, and it is the author's to
+  settle. Two coherent resolutions:
+  - **Model A, emergent relationship.** The hill did not select him; it answered because he asked
+    differently, and became more articulate through contact. "At last" is removed or made
+    ambiguous. Thematic weight stays on reciprocity.
+  - **Model B, denied destiny.** The hill did wait, and Emlyn's anti-fate insistence is a
+    *defensive belief* the book knows is defensive. Then the contradiction must be deliberate and
+    on the page: older Emlyn confronts that his anti-legendary account is itself selective, and
+    the hill's choosing carries obligation and danger, never only affirmation.
+  Do not resolve this silently in either direction while revising. Until it is settled, hill
+  interludes must not confirm that Emlyn is special or that the hill is waiting; each must reveal
+  a perception he cannot reach, complicate the reader's understanding, introduce danger, or show
+  the hill itself changing.
+
 - Ren vs. Wren spelling — RESOLVED: **Ren** (locked, used Ch 2).
 - Twist configuration — primary (compass points down + handwriting hook) recommended; alternates
   in the outline if the author prefers Drace's visit or Lira's confession as the closing pressure.

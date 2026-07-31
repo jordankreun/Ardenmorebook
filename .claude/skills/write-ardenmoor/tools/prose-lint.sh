@@ -241,6 +241,10 @@ for f in "$@"; do
   budget_check "$f" '"I will not pretend/tell you"' 'I will not pretend\|I will not tell you\|I will not make more' 1
   budget_check "$f" '"in the end"' 'in the end' 2
   budget_check "$f" '"which is to say"' 'which is to say' 2
+  # Added 2026-07-31 from the author's revision-skill brief, and kept only because the
+  # author's OWN approved Prologue+Ch 1 revision cut 2 of its 3 instances. 26 of 37 chapters
+  # use it; median 2, max 5. A budget of 3 fires on ~14% of chapters, under the noise ceiling.
+  budget_check "$f" '"the whole of it"' 'the whole of it' 3
   budget_check "$f" '"which by then"' 'which by then' 1
   budget_check "$f" '"of course"' 'of course' 2
   budget_check "$f" '"particular" (adj)' 'particular' 6

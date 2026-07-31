@@ -58,6 +58,45 @@ Movement comes from subtraction and sentence control, not added activity:
   landing is.
 - Let concrete action and objects carry the emotion without a second explanatory paragraph.
 
+## THE SCENE-ENDING CODA — THE PRIMARY TARGET
+
+The book's most repeated structural habit is the **interpretive coda**: a scene lands, and then the
+narrator steps in beside it to explain the workmanship. Where the LENGTH table below says the
+words come from, this says which words.
+
+For each scene ending, take the **final three paragraphs** and mark every sentence as one of:
+action · image · new fact · character judgment · retrospective complication · thematic
+interpretation · **repetition**. Then apply the one test:
+
+> If the final interpretive paragraph is removed, does the scene still carry its emotional and
+> thematic meaning?
+
+When the answer is yes, cut the paragraph or keep only its strongest sentence.
+
+**Interpretation earns its place only when it does one of six things**, and merely confirming what
+the reader already understood is not among them:
+
+1. shows older Emlyn understanding the event differently from younger Emlyn;
+2. adds information unavailable in the scene;
+3. complicates the apparent meaning rather than restating it;
+4. creates irony between the remembered event and its consequences;
+5. connects to a theme the scene cannot carry alone;
+6. establishes a meaningful **misreading** by the narrator.
+
+**Vary the endings.** The prohibited default is the four-beat run: concrete emotional event →
+retrospective explanation → general truth → lyrical restatement. Reserve that for a genuine
+turning point. Otherwise end on an unanswered question, an object, a changed gesture, an
+interruption, a practical consequence, a line of dialogue, a silence, a sensory detail, a
+contradiction, a promise, a mistake not yet recognised, or an image left unglossed.
+
+**Protect blunt lines.** After "The wool owed me nothing.", "I will not make the fire beautiful.",
+"And pointed straight down." — add nothing. The explanation is what would weaken them.
+
+**Generalisation discipline.** Emlyn converts experience into what "a man" does. Keep it only
+where it reveals his worldview, his avoidance of first-person confession, a belief the plot later
+challenges, or older Emlyn turning private pain into usable knowledge. Where it is decorative
+wisdom, make it personal: *I mistook this* over *a man mistakes this*.
+
 ## LENGTH — TWO SCOPED EXPECTATIONS, NOT ONE BAND
 
 Compression is an **outcome of removing duplicated meaning, never a target to hit.** But how much
@@ -79,6 +118,14 @@ is the specific failure this table exists to prevent.
 If a passage already says each thing once, the right revision may keep its length or lengthen it.
 Report what the length did. Never cut to reach a number, and never treat a target as a reason to
 remove necessary material.
+
+**A whole-manuscript target is a third scope, and it is not this mode's.** The author's revision
+brief sets a book-level goal of 12–16% (roughly 12,000–18,000 words), distributed across opening
+compression, scene-ending codas, repeated technical procedure, repeated thematic formulations and
+line-level tightening. That is a **campaign** across many chapters, run as a sequence of scoped
+passes — not a percentage to apply to whatever passage is in front of you. Taking a book-level
+figure to a single paragraph is the same over-cutting error as taking the chapter figure there,
+one scope further out.
 
 ## THE STYLE REFERENCE — READ IT FOR THIS MODE
 

@@ -136,6 +136,35 @@ if [ "$best" -ge 3 ]; then
   warned=1
 fi
 
+# ---- 4b. ONCE-PER-CHAPTER ACCUMULATION (the class per-chapter lint cannot see) ----
+# Added 2026-07-31 from the author's revision-skill brief. Its priority-phrase list mixes two
+# different problems, and only one of them is a per-chapter tic:
+#   "the whole of it"      26 chapters, up to 5 in one -> a tic; prose-lint budgets it.
+#   "that was all"         12 chapters, exactly 1 each -> INVISIBLE to prose-lint by construction,
+#   "I have thought since"  8 chapters, exactly 1 each    because no per-chapter budget can fire
+#                                                          on a count of one.
+# A construction used once per chapter for twelve chapters is a mannerism the reader feels and no
+# per-file tool can report. That is this script's whole remit, so it belongs here. Threshold: the
+# Threshold: the phrase appears in at least a THIRD of the span's chapters, minimum 4 so a short
+# span cannot trip on two hits. Measured over the finished book (32 chapters), the spread separates
+# cleanly at that line: "the whole of it" 75%, "the way a man" 68%, "which is to say" 40%,
+# "that was all" 37%  |  "I have thought since" 25%, "a thing worth" 12%, "it was not much" 6%.
+# The gap between 37% and 25% is where mannerism stops and ordinary voice begins.
+for phr in "the whole of it" "the way a man" "which is to say" "that was all" \
+           "I have thought since" "a thing worth" "it was not much"; do
+  hits=0
+  for f in "$@"; do
+    case "$(basename "$f")" in 00-prologue.md|*interlude*|*coda*) continue ;; esac
+    [ -f "$f" ] || continue
+    c=$(grep -oiF "$phr" "$f" | wc -l | tr -d ' ')
+    [ "${c:-0}" -gt 0 ] && hits=$(( hits + 1 ))
+  done
+  if [ "$hits" -ge 4 ] && [ $(( hits * 3 )) -ge "$n" ]; then
+    echo "  WARN  once-per-chapter accumulation: \"$phr\" appears in ${hits} of ${n} chapters in this span — a construction used once per chapter is invisible to the per-chapter lint and still reads as a mannerism. Thin it across the span, do not delete it everywhere. (storycraft.md Module 8 (description & setting))"
+    warned=1
+  fi
+done
+
 # ---- 5. THREAD SILENCE (optional; needs the ledger) ----
 if [ -f "$LEDGER" ]; then
   while IFS='|' read -r thread planted watered state target; do
