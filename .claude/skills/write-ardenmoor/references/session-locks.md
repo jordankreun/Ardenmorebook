@@ -54,9 +54,17 @@ predate some of them; where a reference says otherwise, THIS list wins.
    before completing the purchase; Cael expected him via the winter's correspondence. No
    mystery letter, no fate-pull. A Prologue (`manuscript/00-prologue.md`) establishes the
    ancient teller before Chapter One.
-5. **Register:** slow build. The hill's strangeness is deferred — Chapter One ends at the
-   foot of the hill with the hum entirely unmet by Emlyn; it exists only secondhand
-   (Cael's grandmother's "hearing," passed on as fond family foolishness).
+5. **Register:** slow build. The hill's strangeness is deferred; Chapter One still ends at the
+   foot of the hill, and the hum is never named, explained, or knowingly met by Emlyn. It exists
+   secondhand (Cael's grandmother's "hearing," passed on as fond family foolishness).
+   **AMENDED 2026-07-31, with the approved moderate revision:** Ch 1 now carries one unexplained
+   first-night beat at the inn (the floorboards, then the basin water moving once). The lock's
+   letter holds — Emlyn meets nothing he *recognises*, and the text supplies a mundane
+   explanation on the spot — but "entirely unmet" was too absolute for what is on the page, and
+   the wording is corrected here rather than left to disagree with the manuscript. The beat is a
+   **live blind seed**, logged in PENDING PAYOFFS and `state/thread-ledger.md`. This does NOT
+   reopen Ch 1 to further strangeness: it is one beat, deliberately deniable, and the deferral
+   otherwise stands.
 6. **Soren's age at arrival:** about nine — his tenth birthday lands in autumn, per canon.
 7. **Chapter length — RELAXED to flexible guidance (2026-07-11; supersedes the old "~3,500 hard
    floor / no short chapters"):** length is **general guidance, not a strict rule.** Vary it the way

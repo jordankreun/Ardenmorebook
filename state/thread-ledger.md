@@ -62,3 +62,4 @@ Format: `thread | planted | last watered | state | note`
     one grandmother or two               | Ch 6  | Ch 24 | OPEN   | "some questions keep better than they answer"
     the third blank, no term             | Ch 24 | Ch 24 | OPEN   | set with no term, entered in the register as open
     Penworth's daughter Nerys            | --    | --    | OPEN   | seeded in the outline only; not yet on the page
+    the basin water at the inn           | Ch 1  | --    | OPEN   | added 2026-07-31 with the approved revision; first-night anomaly, dismissed on the page as timber in the cold. Deliberately deniable; NO target chapter set. If it is never paid, it must be formally BANKED rather than left to rot.

@@ -9,9 +9,17 @@
 - Drafted: **BOOK ONE COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III** (37 files,
   `00-prologue.md` … `32b-coda.md`). The book ran past the ~28-chapter suggested shape, as the
   outline's own scaffolding-not-law note allows.
-- Word count: **112,670** (prose lines only; blank lines and `#`-headers excluded). The old
+- Word count: **111,837** (prose lines only; blank lines and `#`-headers excluded). The old
   ~90,000–100,000 target is retired along with every other length target (session-lock #7,
   `tools/superseded.txt`).
+- **MODERATE REVISION APPLIED to Prologue + Ch 1 (2026-07-31, author-approved).** 6,056w to
+  5,223w (**-13.8%**; Prologue -18.1%, Ch 1 -13.3%). Scene order, dialogue, the two-houses
+  backstory, the railway/scarcity exposition and the village morning all preserved; the cuts are
+  duplicated interpretation, repeated conclusions about being tired or alone, and sentence tails
+  restating their own landing. ONE developmental addition, flagged by the author's own style doc
+  and not to be generalized: the first-night basin-water beat at the inn (now a live blind seed;
+  session-lock #5 amended). Source and approved text are the golden fixture at
+  `references/golden/prologue-ch1/`, which now calibrates `modes/revise-moderate.md`.
 - **ALL FOUR PARTS ARE DRAFTED.** Current work is revision, not continuation — the storycraft pass
   (2026-07-31) is running part by part, Part I complete. Keep this bullet current:
   `tools/state-check.sh` FAILs when it falls behind `manuscript/manifest.json`.

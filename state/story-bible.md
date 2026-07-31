@@ -10,7 +10,7 @@
 - Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III**
   (`00-prologue.md` … `32b-coda.md`; 37 files, all listed in `manuscript/manifest.json`).
   Interludes are `07b-interlude-one.md`, `15b-interlude-two.md`, `25b-interlude-three.md`.
-  **112,670 words** (prose lines only: blank lines and `#`-headers excluded; `tools/state-check.sh`
+  **111,837 words** (prose lines only: blank lines and `#`-headers excluded; `tools/state-check.sh`
   documents the same counting method). Keep this bullet current — it is the first thing the startup
   read treats as true, and `tools/state-check.sh` FAILs when it falls behind the manifest.
 - **POV = SPELLMONGER HYBRID (2026-07-11):** Emlyn's chapters first person (told close to events, no
@@ -35,7 +35,7 @@
   *deliberateness* rule, not open licence: `tools/prose-lint.sh` WARNs on every em dash so each
   is justified in the engine report, and FAILs above **2.0 per 1,000 words**. The default
   punctuation preference is unchanged (comma, period, semicolon, colon, parentheses, varied).
-  **Not retroactive:** the drafted manuscript holds **zero** em dashes across 112,670 words and
+  **Not retroactive:** the reversal does not license re-punctuating finished prose to add dashes. The manuscript held zero across 112,670 words until the author's approved Prologue+Ch 1 revision (2026-07-31) introduced 6, all in Ch 1, at 1.2 per 1,000 words. It
   must not be re-punctuated to add them; this governs new and revised prose only. **En dashes (–)
   and ` -- ` remain a hard FAIL** — the reversal named the em dash alone.
 - **Natural interaction over outline (standing rule):** always prioritize the living
@@ -1139,6 +1139,17 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
   question UNTOUCHED and still OPEN.
 
 ## PENDING PAYOFFS (seed → target chapter)
+
+- **THE BASIN WATER AT THE INN (Ch 1) — seeded 2026-07-31 with the approved moderate revision.**
+  On Emlyn's first night, before he has ever climbed the hill, the floorboards give and the water
+  in the washstand basin moves once with nothing in the room to move it. He dismisses it on the
+  spot ("an inn is an old animal, and timber shifts in the cold"), which is what keeps it blind.
+  **No target chapter is set.** It is deniable by construction and must stay that way: do not
+  refer back to it, do not let a later chapter identify it, and do not water it. If Book One ends
+  without paying it, BANK it formally in `state/thread-ledger.md` with its closure named for a
+  later book rather than leaving it to rot. Session-lock #5 was amended for it; see
+  `references/golden/prologue-ch1/delta.md` for why it must not be generalized into a revision
+  technique.
 
 **⚠️ These are BLIND SEEDS — handling rules (engine P1, 2026-07-13):** on the page every seed is
 rendered as ordinary life: unremarked, deniable, at ordinary narrative temperature, usually doing a

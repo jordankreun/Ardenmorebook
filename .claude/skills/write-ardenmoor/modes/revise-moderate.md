@@ -60,30 +60,62 @@ Movement comes from subtraction and sentence control, not added activity:
   landing is.
 - Let concrete action and objects carry the emotion without a second explanatory paragraph.
 
-## LENGTH — NO COMPRESSION TARGET, AND THIS IS MEASURED
+## LENGTH — TWO SCOPED EXPECTATIONS, NOT ONE BAND
 
-There is deliberately **no compression band** in this mode, and any instruction to hit one should
-be treated as a defect in the instruction.
+Compression is an **outcome of removing duplicated meaning, never a target to hit.** But how much
+it should come to depends entirely on the unit of work, and getting that wrong is the most
+expensive mistake available in this mode.
 
-An external brief proposed calibrating this mode to 11–16% compression. The repo holds 60
-author-approved before/after pairs in `feedback/revisions.json` — the author's own tracked
-changes, which are the only real evidence of what an approved revision looks like here. Measured
-across the 59 rewrites:
+Both numbers below are measured from the author's own approved work.
 
-| author's own edits | share |
-|---|---|
-| within ±3% of source length | **51%** |
-| cut more than 10% | 25% |
-| grew | 8% |
-| **aggregate across all 59** | **−4.4%** |
+| unit of work | expect | evidence |
+|---|---|---|
+| a paragraph or a passage | **≈ neutral** (±3%) | 60 approved tracked changes, `feedback/revisions.json`: aggregate −4.4%, median ratio 0.991, 51% within ±3%, 8% *grew* |
+| a whole chapter | **11–16%** | the golden fixture: Prologue −18.1%, Ch 1 −13.3%, −13.8% together |
 
-Median ratio 0.991. **The author's demonstrated edit is substitution, not compression.** Cutting
-to a percentage would systematically over-cut against the author's revealed preference.
+They do not conflict. A paragraph-level edit is **substitution** — the author swaps wording and
+keeps length. A chapter-level pass is **compression**, because duplicated interpretation is only
+visible across a chapter. **Applying the chapter number to a paragraph is over-cutting**, and it
+is the specific failure this table exists to prevent.
 
-So: compression is *one legitimate move among several*, and it happens where the prose is
-genuinely duplicating itself. If a passage is already saying each thing once, the right revision
-may change its wording and keep its length, or lengthen it. Report what the length did; never aim
-at a number.
+If a passage already says each thing once, the right revision may keep its length or lengthen it.
+Report what the length did. Never cut to reach a number, and never treat a target as a reason to
+remove necessary material.
+
+## THE STYLE REFERENCE — READ IT FOR THIS MODE
+
+`references/golden/prologue-ch1/` holds the author's approved source/revision pair, a measured
+`delta.md`, and **`moderate-revision-style.docx`, the author's own operational style reference,
+which governs this mode wherever it and this file disagree.** Its §9 carries three worked
+examples, including a deliberate *non*-example: a reflective passage left untouched, because
+reflection that adds meaning the gesture does not contain is not a compression target.
+
+Its governing sentence, and the best single test available here:
+
+> The revision should feel as though the original author stopped one sentence earlier in the
+> places where the prose was over-explaining, not as though a different author rewrote the
+> chapter.
+
+Its named shortcuts, all forbidden: adding action to make a chapter move; adding dialogue or
+comedy to satisfy a quota; stripping technical exposition; converting the prose to short modern
+sentences; cutting a digression merely for being one; adding a magical hint or plot hook;
+explaining a strong blunt line afterward.
+
+## THE HARD BOUNDARY — WHAT THE FIXTURE MUST NOT TEACH
+
+The approved revision added one beat that is **not** in its source: the floorboards and the basin
+water, in Ch 1. The style doc flags it itself as *"a developmental choice, not a normal feature of
+the revision style."*
+
+**Do not generalize from it.** A moderate revision that invents a beat, a hint, or a piece of
+foreshadowing has left this mode without saying so, which is exactly what the router forbids. If
+a passage genuinely needs one, stop and say so.
+
+## OUTPUT CONTRACT
+
+Return, in this order: a short diagnosis of what is slowing the passage; the revised passage; a
+change log separating cuts from anything developmental that was explicitly requested; and a
+continuity note for anything that cannot be resolved from the source.
 
 ## POST-FLIGHT
 

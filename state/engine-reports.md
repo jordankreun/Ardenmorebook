@@ -336,3 +336,23 @@ NEW GUARDS: doc-audit.sh now asserts craft.md stays under 520 lines and carries 
 the mechanized boundary that stops the craft text decaying into a second taste ledger.
 caused-by: the four calendar openings, the back-half thinning, the Part IV dialogue collapse and the
 orphaned bootlace packet all being found AFTER the book was written rather than during it.
+
+## [01] moderate revision pass — 2026-07-31 (author-approved fixture)
+
+caused-by: the author's approved moderate revision of Prologue + Ch 1, applied verbatim.
+
+counts: 6,056w -> 5,223w (-13.8%; Prologue -18.1%, Ch 1 -13.3%). prose-lint: 0 FAIL, 2 WARN.
+craft-check: clear. chapter-check: clean.
+
+deliberate keeps (both in the author's own approved text, kept unchanged):
+- em dashes x6 in Ch 1, 1.2 per 1,000 words. Under the 2.0 ceiling set by the same-day reversal.
+  These are the first em dashes in the manuscript and serve as the worked example of deliberate use.
+- aphorism-weld ", and a man has to" x1 ("I was tired, it was spring, and a man has to be sent
+  somewhere."). Author-written; the weld is the joke's timing.
+
+developmental addition, logged not generalized: the first-night basin-water beat. Session-lock #5
+amended; seed logged in PENDING PAYOFFS and thread-ledger.md with no target chapter.
+
+registry: removed a stale row ("allowed to have been merely a child", already 0 occurrences before
+this revision); re-worded "never once asked him to be anything more than he was" to the approved
+"never asked me to be anything more than I was".
