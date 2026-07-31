@@ -192,6 +192,8 @@
   .bmrow button[disabled]{color:var(--muted);cursor:default}
   .bmrow button[disabled] .ic{color:var(--muted)}
 
+  #bookPanel{border-top:1px solid var(--rule);margin-top:.6rem;padding-top:.4rem}
+  #bookPanel .bookHint{font-size:.74rem;opacity:.6;margin:.15rem .2rem .3rem;line-height:1.35}
   #feedbackPanel{border-top:1px solid var(--rule);margin-top:.6rem;padding-top:.4rem}
   .tabs{display:flex;gap:.3rem;margin:.6rem 1.2rem 1rem}
   .tabs button{flex:1;font:inherit;font-size:.8rem;cursor:pointer;border-radius:8px;padding:.4rem;border:1px solid var(--rule);background:var(--bg);color:var(--muted)}
@@ -255,6 +257,39 @@
   #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
   #status{max-width:38rem;margin:3rem auto;padding:0 1.4rem;color:var(--muted);text-align:center}
   code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.85em}
+
+  /* ---------- PRINT / SAVE AS PDF ----------
+     The browser's print dialog is the PDF engine: no bundled library, nothing
+     fetched (the CSP forbids external scripts), and the reader keeps control of
+     paper size and margins. Everything that is interface disappears; what is
+     left is the manuscript. */
+  @media print{
+    @page{ margin:18mm 16mm; }
+    html,body{background:#fff !important;color:#000 !important;height:auto !important;overflow:visible !important}
+    #bar,#drawer,#scrim,#settings,#tts,#selTools,#sheetWrap,#ticks,#progress,#toast,
+    #btnMenu,#btnMode,#btnSettings{display:none !important}
+    main#book{max-width:none !important;margin:0 !important;padding:0 !important;
+              font-size:11.5pt !important;line-height:1.5 !important}
+    .titlepage{text-align:center;page-break-after:always;padding-top:32vh}
+    .titlepage h1{font-size:28pt !important}
+    section.chapter{page-break-before:always}
+    section.chapter:first-of-type{page-break-before:avoid}
+    h2.chap{page-break-after:avoid;font-size:16pt !important;margin-top:0 !important}
+    h2.chap .kicker{display:block;font-size:10pt;letter-spacing:.08em;text-transform:uppercase;opacity:.65}
+    p{orphans:3;widows:3;margin:0 0 .55em !important;text-align:justify}
+    /* Review furniture must never reach paper. These are the real class names in
+       this reader: margin bars are ::before/::after on p.hasNote / p.hasEdit, the
+       inline affordances are .noteDot / .editDot, and applied rewrites are shown
+       as .diff-ins / .diff-del. A printed book shows none of it. */
+    .noteDot,.editDot,.popover,#toast{display:none !important}
+    p.hasNote::before,p.hasEdit::after,p.hasNote.hasEdit::after{display:none !important;content:none !important}
+    p.hasNote,p.hasEdit,p.editingP{background:none !important;outline:0 !important;
+      box-shadow:none !important;color:inherit !important}
+    .diff-ins,.diff-del{color:inherit !important;background:none !important;
+      text-decoration:none !important;padding:0 !important}
+    mark{background:none !important;color:inherit !important}
+    a{color:inherit !important;text-decoration:none !important}
+  }
 </style>
 </head>
 <body>
@@ -284,6 +319,15 @@
     <button id="bmSet" aria-label="Bookmark the current spot"></button>
     <button id="bmGo" aria-label="Go to your bookmark"></button>
   </div>
+  <section id="bookPanel" aria-label="Download the book">
+    <div class="fbHead"><span>The book</span></div>
+    <div class="fbActions">
+      <button id="btnBookMd" class="primary">Download .md</button>
+      <button id="btnBookPdf">Save as PDF</button>
+    </div>
+    <p class="bookHint" id="bookHint"></p>
+  </section>
+
   <section id="feedbackPanel" aria-label="Feedback and export">
     <div class="sectLbl">Feedback</div>
     <div class="tabs">
@@ -352,6 +396,7 @@
 (function(){
   "use strict";
   var MANIFEST="manuscript/manifest.json", DIR="manuscript/";
+  var BOOK_MD=[];   // raw chapter markdown, retained for the book export
   var KEY_PROGRESS="ardenmoor.progress.v1", KEY_BOOKMARK="ardenmoor.bookmark.v1",
       KEY_FS="ardenmoor.fontsize.v1", KEY_THEME="ardenmoor.theme.v1", KEY_NOTES="ardenmoor.comments.v1",
       KEY_REVS="ardenmoor.revisions.v1", KEY_SECRET="ardenmoor.sync.secret.v1",
@@ -903,6 +948,63 @@
     var a=document.createElement("a"); a.href=url; a.download=name; document.body.appendChild(a); a.click();
     setTimeout(function(){ document.body.removeChild(a); URL.revokeObjectURL(url); },0);
   }
+  /* ---------- BOOK EXPORT (.md and print-to-PDF) ----------
+     Every chapter file repeats the same two-line front matter ("# The Tower of
+     Ardenmoor" / "## Book One") because each is a standalone document. For a
+     single combined file that is noise, so we keep the title once at the top and
+     carry only each chapter's own "###" heading through. Nothing else is touched:
+     the export is the manuscript verbatim, not the reader's rendering of it. */
+  function bookMarkdown(){
+    if(!BOOK_MD.length) return "";
+    var out=["# The Tower of Ardenmoor","","## Book One",""];
+    for(var i=0;i<BOOK_MD.length;i++){
+      var lines=String(BOOK_MD[i]).split(/\r?\n/), kept=[], seenHead=false;
+      for(var j=0;j<lines.length;j++){
+        var L=lines[j];
+        if(!seenHead){
+          if(/^#\s+The Tower of Ardenmoor\s*$/.test(L)) continue;
+          if(/^##\s+Book One\s*$/.test(L)) continue;
+          if(/^###\s+/.test(L)){ seenHead=true; kept.push(L); continue; }
+          if(!L.trim()) continue;          // blank lines inside the front matter
+        }
+        kept.push(L);
+      }
+      while(kept.length && !kept[kept.length-1].trim()) kept.pop();
+      out.push(kept.join("\n"), "");
+    }
+    return out.join("\n").replace(/\n{4,}/g,"\n\n\n")+"\n";
+  }
+
+  function bookWordCount(){
+    var md=bookMarkdown();
+    return md ? (md.replace(/^#{1,6} .*$/gm,"").match(/\S+/g)||[]).length : 0;
+  }
+
+  document.getElementById("btnBookMd").innerHTML=svg("download")+"Download .md";
+  document.getElementById("btnBookPdf").innerHTML=svg("download")+"Save as PDF";
+
+  document.getElementById("btnBookMd").addEventListener("click", function(){
+    var md=bookMarkdown();
+    if(!md){ toast("The book is still loading"); return; }
+    download("the-tower-of-ardenmoor.md", md);
+    toast("Downloaded the whole book");
+  });
+
+  /* PDF without a bundled library: the print stylesheet hides every piece of UI
+     and re-sets the book for paper, then the browser's own print dialog writes
+     the PDF. Works offline, needs no external script (the CSP blocks those), and
+     the reader keeps the browser's page-size and margin controls. */
+  document.getElementById("btnBookPdf").addEventListener("click", function(){
+    if(!BOOK_MD.length){ toast("The book is still loading"); return; }
+    closeAll();
+    document.body.classList.add("printing");
+    toast("Choose “Save as PDF” in the print dialog");
+    setTimeout(function(){
+      window.print();
+      setTimeout(function(){ document.body.classList.remove("printing"); }, 500);
+    }, 350);
+  });
+
   document.getElementById("btnCopy").innerHTML=svg("copy")+"Copy for Claude";
   document.getElementById("btnDownload").innerHTML=svg("download")+"Download .md";
   document.getElementById("btnCopy").addEventListener("click", function(){
@@ -1405,7 +1507,14 @@
     var files=JSON.parse(txt);
     return Promise.all(files.map(function(f){ return fetchText(DIR+f); }));
   }).then(function(texts){
+    BOOK_MD = texts.slice();
     render(texts);
+    (function(){
+      var h=document.getElementById("bookHint");
+      if(!h) return;
+      var w=bookWordCount();
+      h.textContent = BOOK_MD.length+" chapters, "+w.toLocaleString()+" words. The .md is the manuscript verbatim; the PDF uses your browser's print dialog.";
+    })();
     if(location.hash&&document.getElementById(location.hash.slice(1))){
       document.getElementById(location.hash.slice(1)).scrollIntoView();
     } else {
