@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-2 open tracked changes. Synced from the reader.
+3 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -17,3 +17,12 @@ ORIGINAL:
 
 REVISED:
 > I tested it once, that gift of his, though I am not proud of the testing. There was a Wednesday in the middle of the autumn when I had my trade instruments out on the bench, the whole nested case of them, the calipers and the trueing-square and the small brass scale and the plumb and the dividers, because I had been truing the surveyor's set and my own alongside it, and I did a thing I should not have done. I took the good level, the one I had carried twenty years and trusted with my life on more than one bad night, and knocked it out of true a hair with my thumb, so small a wrongness that I could barely feel it myself, and set it back in the case among its fellows, and said nothing. The boy came up that afternoon and settled by the fire, and after a while, in the idle way he had, he asked might he look at the instruments, and I said he might, the way you say a thing you have arranged the answer to, and I was ashamed of myself even as I said it and did it anyway, because a man wants to know the edges of a wonder even when the wanting is a small meanness.
+
+
+## Chapter One: Ardenmoor
+
+ORIGINAL:
+> I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boots while my own went up across the river; and my own was to be a wonder, or a warning, depending on when you asked. It was grander than anything my father would have put his name to, taller, flashier, altogether more foolish: his clean lines swollen to thrice the scale and as many times the cost, a great bright gesture ahead of a wedding. I drew much of it myself in the good years, when I still supposed I knew what I was building toward. There was no wedding. I never lived in the house. For three years it stood across the water as a reminder of a life that had not happened, costing a small fortune to keep empty, and I could no more sell it than cross its threshold. Penworth spent that winter trying, with a delicacy that cost him something, to talk me round to letting it go, for the sake of my purse and, though he was too careful to say it, the rest of me. I did not answer.
+
+REVISED:
+> I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boots while my own went up across the river; and my own was to be a wonder, or a warning, depending on when you asked. It was grander than anything my father would have put his name to, taller, flashier, altogether more foolish: his clean lines swollen to thrice the scale and as many times the cost, a great bright gesture ahead of a wedding. I drew a small part of it myself in the good years, when I still supposed I knew what I was building toward. There was no wedding. I never lived in the house. For three years it stood across the water as a reminder of a life that had not happened, costing a small fortune to keep empty, and I could no more sell it than cross its threshold. Penworth spent that winter trying, with a delicacy that cost him something, to talk me round to letting it go, for the sake of my purse and, though he was too careful to say it, the rest of me. I did not answer.
