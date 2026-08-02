@@ -412,6 +412,7 @@ zone in Part IV; by morning its leaves turn toward the hill, not the glass.
 | The compass exists | Emlyn only |
 | The three correspondents / incomplete papers | Emlyn; Penworth; Cecily (offstage) |
 | Lira reports to the Conclave | Lira; the reader (reveal MOVED to Part III, author 2026-07-14; was outline Ch 12); NOT Emlyn until later |
+| What Emlyn's silence has cost other people | the reader (Ch 21); **Emlyn knows the SHAPE from Ch 28 and never the MECHANISM** — he grasps that the valley's not-asking is repeated choosing, not weather, and that he can neither thank nor repay it without naming the thing being declined; he does not learn of the reports, the office, or the packet in Book One |
 
 ---
 
@@ -605,6 +606,14 @@ headings. It is settled fact, not an open question.
 3. **Cael's father's failed shelter — RESOLVED / PLANTED (Ch 2):** now on the page, told by
    Cael on the crown. No conflict with the grandmother material (grandmother = listener/hearer;
    father = failed builder). Payoff at the twist.
+4. **⚠️ CHAPTER NUMBERS IN THE MIDDLE OF THIS FILE RUN ONE LOW (found 2026-08-02, NOT fixed).**
+   The manuscript's own headings are authoritative and agree with the filenames: the well incident
+   is **Chapter Fourteen** (`14-the-well-incident.md`), Tomas's confession is **Chapter Twelve**
+   (`12-what-tomas-carried.md`), the Listener/Singer chapter is **Chapter Eleven**. Several entries
+   here call them Ch 13, Ch 11 and "CH 10" respectively. The drift appears to run through the Ch
+   10–15 region. Left as found per this section's rule; a sweep needs an author decision because
+   the same numbers appear in `manuscript-log.md` recaps and in `outline.md`. Nothing in the
+   manuscript is wrong — only the references to it.
 
 ---
 
@@ -633,3 +642,15 @@ headings. It is settled fact, not an open question.
   difference" (one played moment inside the narration). **Not yet executed.**
 - **The ending enacts too little** — Book One closes on revelation with Emlyn's response deferred.
   See `modes/developmental.md`.
+- **✅ THE FALLIBILITY INSTANCE — DELIVERED (2026-08-02).** The structural audit's standing demand
+  (Emlyn substantively wrong, another person carrying part of the cost, not repaired by one good
+  conversation) is now on the page across four chapters. **The error is not the silence about
+  Soren**, which Ch 14 argues well and which stands. It is the second, unexamined half of the same
+  decision: Emlyn banks Lira's silence as costless — his tally ends *"and no letter going
+  anywhere"* — and never asks what a silence costs the person keeping it. Ch 20 he reads her
+  service as thaw. Ch 21 shows the reader the price: her omissions now have a shape, she cannot
+  stop without the stopping being its own signal, and there is no one to tell. Ch 28 he understands
+  the SHAPE and not the mechanism, and finds it unrepayable — to thank them he would have to name
+  what they are declining to name, and the naming would spend it. **Locks:** he must never learn of
+  the reports, the office or the packet in Book One; Lira's own knowledge of the well stays partial
+  (the valley's version has the wrong person, and Ch 21 keeps it that way).

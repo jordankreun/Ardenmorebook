@@ -61,5 +61,6 @@ Format: `thread | planted | last watered | state | note`
     the keeper plant's original charge   | Ch 11 | Ch 28 | OPEN   | "a keeping I never learned the start of"
     one grandmother or two               | Ch 6  | Ch 24 | OPEN   | "some questions keep better than they answer"
     the third blank, no term             | Ch 24 | Ch 24 | OPEN   | set with no term, entered in the register as open
-    Penworth's daughter Nerys            | --    | --    | OPEN   | seeded in the outline only; not yet on the page
+    Lira's spent discretion              | Ch 14 | Ch 28 | BANKED | Emlyn banks her silence as costless ("no letter going anywhere"); Ch 20 he reads her service as thaw; Ch 21 shows the reader the price and that she cannot stop; Ch 28 he grasps the SHAPE (people have carried his quiet) but never the mechanism. Deliberately unrepairable: naming it would spend it. The mechanism is Book Two's.
+    Penworth's daughter Nerys            | Ch 28 | Ch 28 | BANKED | one offstage line in a Penworth letter (finished school, "better at the work than he had been at her age"); never on the page in Book One, per author decision 2026-08-02
     the basin water at the inn           | Ch 1  | --    | OPEN   | added 2026-07-31 with the approved revision; first-night anomaly, dismissed on the page as timber in the cold. Deliberately deniable; NO target chapter set. If it is never paid, it must be formally BANKED rather than left to rot.

@@ -539,6 +539,13 @@ foot, goes up to his grandfather's smoke, "carrying a thing he did not know he h
 nobody had noticed, and I let him." NEW/CHANGED FACTS: **no protection pact** (deferred to the later,
 less deniable surfacing); Soren ignorant; Cael in denial; the square noticed nothing; Lira's watching
 unexplained. Cut an aphorism-weld that doubled as a significance-tag. prose-lint clean.
+⚠️ WIDENED 2026-08-02 (fallibility pass, 2,187→2,372w): two additions plant the book's error. At the
+Lira beat Emlyn reads her quiet as the valley's local discretion and is pleased with the reading —
+"I put her quiet down as weather. It cost me nothing to have, and I did not ask what it cost her to
+keep, then or after." At the tally he treats *"no letter going anywhere"* as a settled account and
+audits the square's faces to prove it: "I went over the morning's faces the way you go over a column
+you already know adds up. It added up." **Lira is deliberately absent from that list.** The Soren
+argument is untouched; the new material reads as confidence, and Ch 21 collects the bill.
 
 [15] Midsummer Reading — Mid–late summer Yr2 (~18 mo). ⚠️ REVISED 2026-07-15 to author forks
 (1 split a+b, 2c, 3b; 2,537→3,244w). Emlyn reads the 30-day blank: the two hours proven in numbers;
@@ -669,6 +676,10 @@ the lane's foot ("That's not a wizard's path up a hill. That's a way down. To th
 jug refilled unasked, "I'll mention it to Cael" = a vote cast without acknowledging it was a vote.
 CLOSE: the Wednesday boy arrives at a dead run, dry-shod, first traveler. NEW FACTS: glasshouse
 selling small (early salads local; potted stock out via Kellard); deferred wages being paid down.
+⚠️ WIDENED 2026-08-02 (fallibility pass, 2,118→2,152w): one sentence after "Four words to a page of figures"
+— "I took it for the thaw it was, and did not think to wonder why, in two years of sitting at that
+bar, she had never once asked me a question about the hill." The warmth is real and stays real; a
+reader arriving from Ch 21 also sees the discipline. Module 10: the beat means MORE, not different.
 
 [21] LETTERS GOING BOTH WAYS (late spring Yr3, ~1,950w; THIRD-PERSON LIRA, reader-superior) — the
 two ledgers (inn's tall book; the small plain book of the valley incl. the lone entry "The boy.");
@@ -679,6 +690,20 @@ the valley by what she omits. Packet of old letters tied in bootlace under the l
 the office's proper seal, unexplained (Book Two). NEW: mail twice a week now (Wenn the carrier);
 Thursday's bag holds a letter to EMLYN under the office's PROPER seal (tower and open book) —
 reader knows before Emlyn. CLOSE: "Letters going both ways now," entered in the small book.
+⚠️ WIDENED 2026-08-02 (fallibility pass, 2,076→2,509w; the pass's largest addition). The burned
+sheet becomes the visible instance of a practice she cannot leave. NEW: the omissions began at the
+well ("her own square, a horse loose in the shafts, a bucket going over the well coping, and herself
+in her own doorway with a cloth in her hand, looking the wrong way at the wrong moment"); the gap
+between the small book and the letters now "has a shape," and she is exact about the word — "A secret
+is a thing a person holds, and can put down. A shape is a thing a person makes, once a quarter, in
+ink, and posts." THE TRAP: she cannot stop. "Years of *nothing unusual requires anyone's attention*
+is a wall," and one thin quarter puts a door in it. "She had made herself dull in order to be left
+alone." And at the mail stack, the beat that prices it: he will read his letter and file it, "and
+nothing in his life in this valley had ever happened in such a way as to put it into his head to
+wonder what went out of it the other way… She did not hold that against him. It was the whole object
+of the exercise, and she had built it herself, line by line, out of wool prices. There was nobody to
+say so to." **Her knowledge of the well stays partial** — the valley's version still has the wrong
+person, and nothing here corrects it. The packet and her debt remain unexplained (Book Two lock).
 
 [22] EVEN (late spring Yr3, ~1,600w; forge two-hander) — twenty housing sets commissioned IN
 WRITING against the patent money (Penworth's paper says marks and quarter-days; register beat);
@@ -760,6 +785,18 @@ unanimous-less-one-abstention (Lira, conflicting interest) vote: the village wil
 into a CART-ROAD, lane to hilltop, at its own charge, after harvest ("the village won't be
 outbuilt... you'll oblige everybody by not asking"). CLOSE: a Series lamp burning NEW in the
 inn's front window; "Light going both ways now."
+⚠️ WIDENED 2026-08-02 (fallibility pass, 2,575→2,855w). THE ACKNOWLEDGMENT, sited at "I did not ask"
+so the ending is untouched: Emlyn does "a piece of arithmetic I had never thought to do." Three years
+of a valley that does not ask him things, taken for weather — "Weather is nobody's doing. A question
+set down is somebody's, every time it happens." He counts four: Cael's hand on his grandson's
+shoulder at the well; Jorin looking at a compass-line wall bearing and saying *for later*; four
+councillors who will not say what the road is for; the abstention entered on the grounds of letting
+rooms to carters. "I had thanked nobody, because I had never seen it being done." **NOT FIXED, and
+the reason is structural:** "To thank them I should have had to name the thing they were declining to
+name, and the naming would have spent it… I have not found the way to pay it since." He learns the
+SHAPE, never the mechanism — no reports, no office, no packet. ALSO: **Nerys** gets her one offstage
+line, in the Penworth page among the morning's two ordinary letters (finished her school, "better at
+the work than he had been at her age"). Never on the page in Book One.
 
 [29] THE LAB (equinox, autumn Yr3, ~2,450w) — storehouse finished, REN HANGS THE DOOR (finishes
 what he builds; Jorin: "That's done, then."). The building: cold store (borrowed ground, harvest

@@ -40,7 +40,7 @@ I did not answer it, because there was no answer that would not have said more t
 
 "I'll mention it to Cael," she said, to the ledger, as I sat down.
 
-That was all. Four words to a page of figures.
+That was all. Four words to a page of figures. I took it for the thaw it was, and did not think to wonder why, in two years of sitting at that bar, she had never once asked me a question about the hill.
 
 I walked home up my own way in the last of the light, dry-shod the whole distance for the first time in two years. Behind me the village lamps were coming on. Ahead of me the flags held what the sky had left, going up the dark hill in a pale seam, the way a thing you have given away keeps a little of the light of the giving, and at the top of it my own lamp was burning amber in the Study window, where I had left it to come home to.
 

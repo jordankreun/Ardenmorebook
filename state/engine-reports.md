@@ -706,3 +706,99 @@ No compression: **-75 words on 82,463.** As with Part I stage 1b, the prose did 
 carrying redundant interpretation once read. The back half earns its length more clearly than the
 front does, and the only genuine structural finding was Ch 8's density, which was fixed by
 rhythm rather than by cutting.
+
+---
+
+## THE FALLIBILITY PASS — Ch 14, 20, 21, 28 (2026-08-02)
+
+**Mode: developmental.** Author brief: widen existing chapters, no new chapter files; the cost falls
+on Lira, via the well; the flaw is secrecy; acknowledged in Part IV and not fixed, the unpaid part
+carried into Book Two; Nerys gets one offstage mention.
+
+caused-by: the structural audit in `modes/developmental.md` has demanded since 2026-07-28 an instance
+where Emlyn is substantively wrong and another person carries part of the cost, not repaired by one
+good conversation. The book did not have one. Ch 18 (Hask) is the nearest thing and is not it: Emlyn
+says *"I would make the same offer today."* That is a moral compromise knowingly taken, not an error.
+
+### What the pass found before it wrote anything
+
+The error was already half-drafted and did not need inventing. Two sentences carry it:
+
+- Ch 14, at the Lira beat: he marks her watching the well instead of the horse, then **"and I let it go."**
+- Ch 14, tallying what his silence buys, the last item: **"and no letter going anywhere"** — counted
+  as a thing that simply did not happen.
+
+Ch 21 already showed the reader it was neither free nor a non-event, and already named the permanent
+harm: *"somewhere a person she had never met read what she chose not to write, and of the two
+documents the second was by a distance the more informative, and only she would ever hold it."*
+
+So the pass is a widening, not a construction. **The error is not the silence about Soren**, which
+Ch 14 argues carefully and well and which was left alone. It is the unexamined half of the same
+decision: he banked another person's discretion without asking for it, and never learned he spent it.
+
+### Deltas
+
+| file | before | after | delta | paragraphs |
+|---|---|---|---|---|
+| `14-the-well-incident.md` | 2,187 | 2,372 | **+8.4%** | 39 → 42 |
+| `20-the-way-down.md` | 2,118 | 2,152 | **+1.6%** | 22 → 22 |
+| `21-letters-going-both-ways.md` | 2,076 | 2,509 | **+20.8%** | 27 → 31 |
+| `28-the-keeper-plant.md` | 2,575 | 2,855 | **+10.8%** | 45 → 48 |
+| **total** | 8,956 | 9,888 | **+932 words** | |
+
+`revision-diff.sh … developmental` clean on all four: no dialogue lost (13/5/0/20 preserved exactly),
+no registered coinage lost, no invented entities. Paragraph-count changes are the mode's business and
+every one is a deliberate insertion, named above.
+
+### WARNs, kept and justified
+
+- **Ch 21 dialogue share 0% of 31 paragraphs.** Kept, and the existing `VOUCH-INTERIOR` row stands.
+  The chapter's whole device is watching Lira write; speech would spend it. The pass added 433 words
+  to a 0%-dialogue chapter and deliberately did not add a voice.
+- **Ch 28 adjacent-chapter echo vs Ch 27, "the study and the glasshouse".** Pre-existing, not
+  introduced here, and it is an inventory of his buildings rather than a figure. Left.
+- **Span accumulation WARNs** (`"the whole of it"` 13/16, `"the way a man"` 13/16, `"that was all"`
+  7/16, `"I have thought"` 6/16) are unchanged: none of the four additions uses any of those
+  constructions, and phrases at their per-chapter budget were routed around while drafting.
+
+### A tic caught inside the pass
+
+The Ch 21 addition first shipped *"Not a secret, which is a thing a person holds… but a shape, which
+is a thing a person makes…"* — two `", which is"` tails in one sentence, pushing the chapter to 8
+against a threshold of 7. This is the **third** time this pass-shape has introduced that exact
+construction while fixing something else. Recast to *"A secret is a thing a person holds, and can put
+down. A shape is a thing a person makes, once a quarter, in ink, and posts."* Flatter, more Lira,
+and the WARN cleared.
+
+### The additive rule
+
+Four uncertainty admissions were added against the engine's standing additive licence, all in
+Emlyn's chapters: *"I did not ask what it cost her to keep, then or after"*, *"did not think to
+wonder why"*, *"I had never seen it being done"*, *"I have not found the way to pay it since."*
+
+### Preserved on purpose
+
+- Lira's knowledge of the well stays **partial**. Ch 21's existing text has the valley suspecting
+  *"the man who happened to be crossing the square"* — the wrong person. Nothing added corrects it,
+  so she may be shielding Emlyn from a report about something Emlyn did not do.
+- The mechanism stays invisible to Emlyn: no reports, no office, no packet, in Book One.
+- Ch 28's ending (`"Light going both ways now."` → the closing line) is untouched. The acknowledgment
+  was sited 20 paragraphs earlier at *"I did not ask"* precisely so the close was not re-stacked.
+- Lira is **absent by design** from Ch 14's list of faces that had no reason to write.
+
+### A continuity defect found and NOT fixed
+
+`state/story-bible.md` calls the well incident **Ch 13**, Tomas's confession **Ch 11**, and the
+Listener/Singer chapter **CH 10**. The manuscript's own headings say Fourteen, Twelve and Eleven, and
+agree with the filenames. The drift runs through the Ch 10–15 region and also touches `outline.md`
+and some `manuscript-log.md` recaps. Recorded as DRIFT FLAG 4 rather than swept, per that section's
+standing rule. **Nothing in the manuscript is wrong; only the references to it.**
+
+### What this pass did NOT do
+
+The other gaps surveyed for the author remain open and were named to them rather than silently
+dropped: Part II has no chapter away from Emlyn (the wheel problem); no recurring character is
+skeptical of his methods for rational reasons; the office has no face; Hesper's journey is promised
+and untaken; the oak goes quiet from Ch 11 to Interlude III; Edran, Maret, Kellard and Essa are
+functions rather than people; the threads never interfere. **Soren's drift toward oracle** sits
+adjacent to Ch 14 and Ch 20 and is the natural next pass.

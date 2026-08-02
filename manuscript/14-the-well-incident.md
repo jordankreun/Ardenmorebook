@@ -36,7 +36,11 @@ I have thought about that a great deal since. He did not know. There was not the
 
 I was still standing there with my hand on the windlass frame when I understood that Lira had not been watching the horse.
 
-She was in the doorway of the inn with a cloth in her hand and a table half-wiped behind her, and every other face in that square was turned to Kellard and the cart, which is where a sensible face goes when there is a horse loose in a market. Hers was turned to the well. I could not tell you what she had seen or whether she had seen anything. I only know that when the whole square looked one way, she looked the other, and that when she caught me noticing it she gave me the ordinary nod, measured and neutral as a line in a ledger, and went back to her table without hurry. Anyone else would have said something. *Near thing, that.* Something. She only finished her table and carried the cloth inside, and I marked it the way you mark a quiet where you had braced for a noise, and then Kellard wanted a hand with the tailgate, and I let it go.
+She was in the doorway of the inn with a cloth in her hand and a table half-wiped behind her, and every other face in that square was turned to Kellard and the cart, which is where a sensible face goes when there is a horse loose in a market. Hers was turned to the well. I could not tell you what she had seen or whether she had seen anything. I only know that when the whole square looked one way, she looked the other, and that when she caught me noticing it she gave me the ordinary nod, measured and neutral as a line in a ledger, and went back to her table without hurry. Anyone else would have said something. *Near thing, that.* Something. She only finished her table and carried the cloth inside, and I marked it the way you mark a quiet where you had braced for a noise.
+
+What I made of it, with my hand still on the windlass, was that the valley was closer than I had given it credit for. Ardenmoor did not talk about things it had decided not to talk about, and I was pleased to have found that out, in the small proprietary way you are pleased when a place you have chosen turns out to hold the virtues you hoped for. I put her quiet down as weather. It cost me nothing to have, and I did not ask what it cost her to keep, then or after.
+
+Then Kellard wanted a hand with the tailgate, and I let it go.
 
 It was Cael who made it hard.
 
@@ -65,6 +69,8 @@ I will not pretend the reason I said nothing was a noble one, or that I had work
 But under both of those was the true reason, and the true reason was this. I knew exactly what happens to a child who is found early. There are hands in this world that reach for a talent the way a man reaches for a dropped tool, briskly, as a matter of course, because it is useful and it is there, and the child at the end of that reach is not asked a great deal about it. I had my own opinions on the subject, arrived at the slow way, and paid for by better people than me. It is enough to say that I had spent a good part of my life learning what it costs to be the most interesting thing in somebody else's room, and that I would not have that begin for Soren on an ordinary Tuesday, in a market square, over a bucket, before anyone had so much as asked the boy what he wanted.
 
 He did not know. That was the great gift of it, and the great fragility. As long as he did not know, there was nothing in his face for anyone to read, and no story going round the valley, and no letter going anywhere, and the boy got to go on being a boy for another season, doing his chores and thinking his luck was luck.
+
+I had that last item down as a certainty and would have argued it in front of anybody. There was nobody in that square with a reason to write and nobody to write to. The egg-woman had her eggs, Kellard had his horse, and Cael had walked back from the thought with his eyes open and would go on walking back from it, being the kind who could. I went over the morning's faces the way you go over a column you already know adds up. It added up.
 
 So I decided to say nothing, and to watch him, and to be near enough that if it happened again, I would be the one standing there.
 

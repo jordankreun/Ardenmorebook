@@ -60,7 +60,7 @@ We stood there a long time, the herbalist and I, in the green-smelling half-dark
 
 The rest of that day insisted, in the way of days, on being ordinary. I have always been glad it did. Of the day's two halves, the ordinary one is the half I would keep, if I could keep only one.
 
-The post came up with the bread, and there were three things in it, and two were ordinary.
+The post came up with the bread, and there were three things in it, and two were ordinary. A bill from Kellard's yard. A page from Penworth on the quarter's figures, with one line at the foot of it in the tone he kept for anything that was not business, to say that his daughter Nerys had finished at her school and was proving, he was sorry to report, better at the work than he had been at her age.
 
 The third had no signature. It was the third of its kind since the patents went up for licence in the spring, and I had kept the first two out of tidiness rather than suspicion: careful letters, admiring, patient, each of them circling in its own way toward the same small door, my methods, my notation, the unpublished parts, the parts a man keeps. Two other correspondents that year had done the same thing over their own names, and I had thought all of it the ordinary weather of a man who has sold a lamp.
 
@@ -84,7 +84,13 @@ Cael came up the way at noon, on his stick, unannounced, with Soren for a shadow
 
 "Thirty-one," said Cael, "and that's a boy who counts what he sees and not what he'd like. Widen it and it's sixty. That was the whole of my argument and it took a minute." He looked at me sideways, sharp and old and entirely pleased with himself. "You laid a way down to us, wizard. Seems the village won't be outbuilt. There's not a man on that council will say what the road's for, mind, so you'll oblige everybody by not asking."
 
-I did not ask. I gave them supper, the old man and the boy, and walked them down at dusk, and at the foot of the way, where the lane began and the village's road would begin its climbing in the spring, I stood a while after they had gone.
+I did not ask.
+
+But I stood in my own yard while he said it and did a piece of arithmetic I had never thought to do. Three years I had lived in a valley that did not ask me things, and I had taken the not-asking for weather. Weather is nobody's doing. A question set down is somebody's, every time it happens. Cael at the well with his hand on his grandson's shoulder. Jorin looking at a wall bearing laid on a compass line and saying *for later* and leaving it there. Four councillors voting money onto a road and not one of them willing to say aloud what the road was for. An abstention entered in a clerk's book on the grounds of letting rooms to carters. Every one of those was somebody choosing, and choosing again, and I had thanked nobody, because I had never seen it being done.
+
+Nor could I have. To thank them I should have had to name the thing they were declining to name, and the naming would have spent it, and they would have had to answer me, and then it would be finished. So I held my tongue. It was the only courtesy on the table, it cost me nothing whatever, and I have not found the way to pay it since.
+
+I gave them supper, the old man and the boy, and walked them down at dusk, and at the foot of the way, where the lane began and the village's road would begin its climbing in the spring, I stood a while after they had gone.
 
 The evening was coming on cold and clear. Up the hill behind me the glasshouse held its last light, and somewhere under the crown a corner of dark leaves pointed steadily at a buried word. And below me, in the village, in the window of the inn, where in two years and more I had never once seen anything but tallow and firelight, there was a new light burning. Steady, unflickering, the colour of deep amber, the colour I would know at the bottom of the sea.
 
