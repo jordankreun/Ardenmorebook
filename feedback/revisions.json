@@ -1,55 +1,5 @@
 [
   {
-    "chap": "Chapter Two: Walking the Bounds",
-    "snip": "\"I made it a fine hill with a fine view,\" I said, \"and a great deal too much quiet to leave alone. I",
-    "original": "\"I made it a fine hill with a fine view,\" I said, \"and a great deal too much quiet to leave alone. I mean to build on it.\"",
-    "revised": "\"It is a perfectly fine hill with a fine view,\" I said, \"and a great deal too much quiet to leave alone. I would build on it.”",
-    "ts": 1783299095345,
-    "resolved": true,
-    "resolvedTs": 1783299095345,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter Two: Walking the Bounds",
-    "snip": "We walked the whole of it, that afternoon, the long slow way round, the way you walk a thing you mea",
-    "original": "We walked the whole of it, that afternoon, the long slow way round, the way you walk a thing you mean to be answerable for. Cael went at the pace his knees allowed and I was glad of it, because it was the right pace for the ground, slow enough to see. He showed me the spring that came up cold and clear out of the hill's south face and had never once, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right, and I would have cause to bless that spring a hundred times in the years after. He showed me the woodland strip, good mixed timber, oak and ash and a stand of larch a former owner had planted and not lived to cut. He showed me where the grade eased along the eastern slope into a shelf of deeper, greener grass, and I felt something about that shelf that I had not the knowledge yet to name and did not mention, and Cael did not mention it either, though I caught him watching me not mention it. And all the while the boy Soren went ahead of us and to the side, quiet as weather, stopping now and then to crouch over some particular patch of ground with the total absorption of a child at his real work, and once, near the crown, he stood for a long moment with his bare hand flat on a stone, and then took it off, and came on, and said nothing, and I thought nothing of it, which is a thing I would give a good deal to go back and un-think.",
-    "revised": "We walked the whole of it, that afternoon, the long slow way round, the way you walk a thing you mean to be answerable for. Cael went at the pace his knees allowed and I was glad of it, because it was the right pace for the ground, slow enough to see. He showed me the spring that came up cold and clear out of the hill's south face and had never once, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right, and I would have cause to bless that spring a hundred times in the years after. He showed me the woodland, good mixed timber, oak and ash and a stand of larch a former owner had planted and not lived to cut. He showed me where the grade eased along the eastern slope into a shelf of deeper, greener grass, and I felt something about that shelf that I had not the knowledge yet to name and did not mention, and Cael did not mention it either, though I caught him watching me not mention it. And all the while the boy Soren went ahead of us and to the side, quiet as weather, stopping now and then to crouch over some particular patch of ground with the total absorption of a child at his real work, and once, near the crown, he stood for a long moment with his bare hand flat on a stone, and then took it off, and came on, and said nothing, and I thought nothing of it, which is a thing I would give a good deal to go back and un-think.",
-    "ts": 1783299095345,
-    "resolved": true,
-    "resolvedTs": 1783299095345,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Prologue",
-    "snip": "And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear",
-    "original": "And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear a story told that I half recognize, the way you might recognize your own coat on a stranger three sizes too large for it. There are not many of them. I am not, whatever you may have been led to expect, a man they sing about; I took a good deal of quiet care, over the years, that it should stay so. But a few tales got loose all the same, and time and retelling have warped them so far out of true that the man in them is half myth and half plain nonsense, and I would not know him to nod to in the road, and, if I am honest, do not much care for him. I hold the tellers no grudge; a good story is a kind of coin, and it is meant to be spent. It only seems a poor thing to leave nothing behind but those few, and so, if only so that the truth of it should exist somewhere, in one place, I mean to set down what actually happened. Or near enough. I will not pretend the years have warmed no words nor softened any faces; fondness does that, and I was fond of very nearly all of them, and they are gone now, every one of them, but me. Still, the shape of it is true, and the shape is the thing that matters.",
-    "revised": "And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear a story told that I half recognize, the way you might recognize your own coat on a stranger three sizes too large for it. There are not many of them. I am not, whatever you may have been led to expect, a man they sing about; I took a good deal of quiet care, over the years, that it should stay so. But a few tales got loose all the same, and time and retelling have warped them so far out of true that the man in them is half myth and half plain nonsense, and, if I am honest, do not much care for him. I hold the tellers no grudge; a good story is a kind of coin, and it is meant to be spent. It only seems a poor thing to leave nothing behind but those few, and so, if only to ensure the truth of it should exist somewhere, I mean to set down what actually happened. Or near enough. I will not pretend the years have warmed no words nor softened any faces; fondness does that, and I was fond of very nearly all of them, and they are gone now, every one of them, but me. Still, the shape of it is true, and the shape is the thing that matters.",
-    "ts": 1783313023679,
-    "resolved": true,
-    "resolvedTs": 1783313023679,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Prologue",
-    "snip": "I will not pretend the years have warmed no words or softened no faces in the telling, for I was fon",
-    "original": "I will not pretend the years have warmed no words or softened no faces in the telling, for I was fond of very nearly all of them. But the shape of it is true, and the shape is the thing that lasts. So here it is, the true version, or near enough: how a hill that nothing would stand on came at last to hold a tower, and how the man who built it there got, without ever quite meaning to, a life back.",
-    "revised": "",
-    "ts": 1783833823941,
-    "resolved": true,
-    "resolvedTs": 1783833823941,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Prologue",
-    "snip": "The stories about that hill, on the rare occasions anyone tells them, like to begin on a wonder, or ",
-    "original": "The stories about that hill, on the rare occasions anyone tells them, like to begin on a wonder, or on a boy. They get it wrong from the first word. I never wanted to be a man anyone sang about, and I was not one. There was no wonder in it at the start. There was no boy yet either.",
-    "revised": "The stories they tell about me, on the rare occasions anyone tells them, like to begin on a wonder, or on a boy. They get it wrong from the first word. I never wanted to be a man anyone sang about, and I was not one. There was no wonder in it at the start. There was no boy either.",
-    "ts": 1783833823941,
-    "resolved": true,
-    "resolvedTs": 1783833823941,
-    "resolvedVia": "applied"
-  },
-  {
     "chap": "Prologue",
     "snip": "I heard the story of myself again last night, told across a crowded taproom by a man who had no noti",
     "original": "I heard the story of myself again last night, told across a crowded taproom by a man who had no notion he was telling it to the one it belonged to, and I have been turning it over ever since, the way you turn a stone you picked up without meaning to and now cannot quite bring yourself to set down.",
@@ -130,73 +80,53 @@
     "resolvedVia": "applied"
   },
   {
-    "chap": "Prologue",
-    "snip": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I w",
-    "original": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was in those days was wiser or gentler or one whit less of a fool than the figure in the story. God knows I had a great deal more to learn than I yet had the sense to know I was missing, and I learned the most of it the slow way, and late, and at a cost to better people than myself. But he was a man, at least, and not a monument. And if I am to leave one true thing behind me when I go, I would sooner it were him than the bright bronze figure the years have cast up in his place.",
-    "revised": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was in those days was wiser or gentler or one whit less of a fool than the figure in the story. God knows I had a great deal more to learn than I yet had the sense to know I was missing, and I learned the most of it the slow way, and late, and at a cost to better people than myself. But he was a man, at least, and not a monument. And if I am to leave one true thing behind me when I go, I would sooner it were him than the bright bronze figure these storytellers have cast up in his place.",
-    "ts": 1785274975557,
+    "chap": "Chapter Two: Walking the Bounds",
+    "snip": "\"I made it a fine hill with a fine view,\" I said, \"and a great deal too much quiet to leave alone. I",
+    "original": "\"I made it a fine hill with a fine view,\" I said, \"and a great deal too much quiet to leave alone. I mean to build on it.\"",
+    "revised": "\"It is a perfectly fine hill with a fine view,\" I said, \"and a great deal too much quiet to leave alone. I would build on it.”",
+    "ts": 1783299095345,
     "resolved": true,
-    "resolvedTs": 1785274975557,
+    "resolvedTs": 1783299095345,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Two: Walking the Bounds",
+    "snip": "We walked the whole of it, that afternoon, the long slow way round, the way you walk a thing you mea",
+    "original": "We walked the whole of it, that afternoon, the long slow way round, the way you walk a thing you mean to be answerable for. Cael went at the pace his knees allowed and I was glad of it, because it was the right pace for the ground, slow enough to see. He showed me the spring that came up cold and clear out of the hill's south face and had never once, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right, and I would have cause to bless that spring a hundred times in the years after. He showed me the woodland strip, good mixed timber, oak and ash and a stand of larch a former owner had planted and not lived to cut. He showed me where the grade eased along the eastern slope into a shelf of deeper, greener grass, and I felt something about that shelf that I had not the knowledge yet to name and did not mention, and Cael did not mention it either, though I caught him watching me not mention it. And all the while the boy Soren went ahead of us and to the side, quiet as weather, stopping now and then to crouch over some particular patch of ground with the total absorption of a child at his real work, and once, near the crown, he stood for a long moment with his bare hand flat on a stone, and then took it off, and came on, and said nothing, and I thought nothing of it, which is a thing I would give a good deal to go back and un-think.",
+    "revised": "We walked the whole of it, that afternoon, the long slow way round, the way you walk a thing you mean to be answerable for. Cael went at the pace his knees allowed and I was glad of it, because it was the right pace for the ground, slow enough to see. He showed me the spring that came up cold and clear out of the hill's south face and had never once, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right, and I would have cause to bless that spring a hundred times in the years after. He showed me the woodland, good mixed timber, oak and ash and a stand of larch a former owner had planted and not lived to cut. He showed me where the grade eased along the eastern slope into a shelf of deeper, greener grass, and I felt something about that shelf that I had not the knowledge yet to name and did not mention, and Cael did not mention it either, though I caught him watching me not mention it. And all the while the boy Soren went ahead of us and to the side, quiet as weather, stopping now and then to crouch over some particular patch of ground with the total absorption of a child at his real work, and once, near the crown, he stood for a long moment with his bare hand flat on a stone, and then took it off, and came on, and said nothing, and I thought nothing of it, which is a thing I would give a good deal to go back and un-think.",
+    "ts": 1783299095345,
+    "resolved": true,
+    "resolvedTs": 1783299095345,
     "resolvedVia": "applied"
   },
   {
     "chap": "Prologue",
-    "snip": "Perhaps I will set the true thing down one day. The wanting to has come over me lately, quiet and fr",
-    "original": "Perhaps I will set the true thing down one day. The wanting to has come over me lately, quiet and from behind, the way most of my worse ideas have arrived. And when I turn my mind to how it would have to go, I find I know at least where it would not begin. Not on a wonder, and not on a boy. There is no boy in it, whatever the tellers would prefer, and no wonder either, not at the start of it. I think I would begin with the man himself, such as he was in those days: at the tired end of a bad few years, with far more skill than he had sense and nowhere in all the wide world that he needed to be. And I think, before I let him take a single step, I would ask you to go easy on him. He did not yet know how any of it would turn out.",
-    "revised": "Perhaps I will set the true thing down one day. The wanting to has come over me lately, quiet and from behind, the way most of my best and worst ideas have arrived. And when I turn my mind to how it would have to go, I find I know at least where it would not begin. Not on a wonder, and not on a boy. There is no boy in it, whatever the tellers would prefer, and no wonder either, not at the start of it. I think I would begin with the man himself, such as he was in those days: at the tired end of a bad few years, with far more skill than he had sense and nowhere in all the wide world that he needed to be. And I think, before I let him take a single step, I would ask you to go easy on him. He did not yet know how any of it would turn out.",
-    "ts": 1785274975557,
+    "snip": "And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear",
+    "original": "And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear a story told that I half recognize, the way you might recognize your own coat on a stranger three sizes too large for it. There are not many of them. I am not, whatever you may have been led to expect, a man they sing about; I took a good deal of quiet care, over the years, that it should stay so. But a few tales got loose all the same, and time and retelling have warped them so far out of true that the man in them is half myth and half plain nonsense, and I would not know him to nod to in the road, and, if I am honest, do not much care for him. I hold the tellers no grudge; a good story is a kind of coin, and it is meant to be spent. It only seems a poor thing to leave nothing behind but those few, and so, if only so that the truth of it should exist somewhere, in one place, I mean to set down what actually happened. Or near enough. I will not pretend the years have warmed no words nor softened any faces; fondness does that, and I was fond of very nearly all of them, and they are gone now, every one of them, but me. Still, the shape of it is true, and the shape is the thing that matters.",
+    "revised": "And there is this, besides. Once in a great while, in some inn a long way from anywhere, I will hear a story told that I half recognize, the way you might recognize your own coat on a stranger three sizes too large for it. There are not many of them. I am not, whatever you may have been led to expect, a man they sing about; I took a good deal of quiet care, over the years, that it should stay so. But a few tales got loose all the same, and time and retelling have warped them so far out of true that the man in them is half myth and half plain nonsense, and, if I am honest, do not much care for him. I hold the tellers no grudge; a good story is a kind of coin, and it is meant to be spent. It only seems a poor thing to leave nothing behind but those few, and so, if only to ensure the truth of it should exist somewhere, I mean to set down what actually happened. Or near enough. I will not pretend the years have warmed no words nor softened any faces; fondness does that, and I was fond of very nearly all of them, and they are gone now, every one of them, but me. Still, the shape of it is true, and the shape is the thing that matters.",
+    "ts": 1783313023679,
     "resolved": true,
-    "resolvedTs": 1785274975557,
+    "resolvedTs": 1783313023679,
     "resolvedVia": "applied"
   },
   {
-    "chap": "Chapter One: Ardenmoor",
-    "snip": "Penworth was my man of affairs, and the running of my whole tangled life had been his for something ",
-    "original": "Penworth was my man of affairs, and the running of my whole tangled life had been his for something over a decade by then. He kept the letters, the monies, and the small steady mountain of paper any working life throws off whether a man attends to it or not. He was a spare, precise, exceedingly formal gentleman out of Vethmark, near enough my own age and a good deal tidier about the wearing of it, and he had a particular genius, earned across a long career spent in the disorder of other men's affairs, for finding me things before I knew I wanted them, and for quietly buying the ground under a thing while I was still making up my mind about the thing itself. His letter had reached me at the turn of the year, and I had carried it about ever since, folded twice and gone soft at the creases from a season in my coat. It was a small marvel of its kind: three close pages to tell me he had come across a piece of country he believed would suit me, *a hill of no agricultural worth and considerable quiet*; that he had taken the liberty of securing it provisionally, along with a good breadth of the workable land about it, the sort you could set to honest tenants and thereafter forget you owned; and that he would count it a personal kindness if I would go and look at what I had nearly purchased before he made me finish the purchasing.",
-    "revised": "Penworth was my man of affairs, and the running of my whole tangled life had been his for something over a decade by then. He kept the letters, the monies, and the small steady mountain of paper any working life throws off whether a man attends to it or not. He was a spare, precise, exceedingly formal gentleman out of Vethmark, near enough my own age and a good deal tidier about the wearing of it, and he had a particular genius, earned across a career spent in the disorder of other men's affairs, for finding me things before I knew I wanted them, and for quietly buying the ground under a thing while I was still making up my mind about the thing itself. His letter had reached me at the turn of the year, and I had carried it about ever since, folded twice and gone soft at the creases from a season in my coat. It was a small marvel of its kind: three close pages to tell me he had come across a piece of country he believed would suit me, *a hill of no agricultural worth and considerable quiet*; that he had taken the liberty of securing it provisionally, along with a good breadth of the workable land about it, the sort you could set to honest tenants and thereafter forget you owned; and that he would count it a personal kindness if I would go and look at what I had nearly purchased before he made me finish the purchasing.",
-    "ts": 1785274975557,
+    "chap": "Prologue",
+    "snip": "I will not pretend the years have warmed no words or softened no faces in the telling, for I was fon",
+    "original": "I will not pretend the years have warmed no words or softened no faces in the telling, for I was fond of very nearly all of them. But the shape of it is true, and the shape is the thing that lasts. So here it is, the true version, or near enough: how a hill that nothing would stand on came at last to hold a tower, and how the man who built it there got, without ever quite meaning to, a life back.",
+    "revised": "",
+    "ts": 1783833823941,
     "resolved": true,
-    "resolvedTs": 1785274975557,
+    "resolvedTs": 1783833823941,
     "resolvedVia": "applied"
   },
   {
-    "chap": "Chapter One: Ardenmoor",
-    "snip": "The townhouse I had wintered in was my father's before it was mine, and my father had been an archit",
-    "original": "The townhouse I had wintered in was my father's before it was mine, and my father had been an architect, which is to say a man who drew the houses that other men then lived their whole lives inside of. He had built up a small firm about the doing of it, a good and unglamorous one that outlived him and stands drawing houses yet, and I hold his share in it still, though I have not troubled it in years and it has had the grace not to trouble me. I had learned the drawing at his elbow as a boy, and paid my own way through my schooling with drafting work at a board of my own, before I ever took up any stranger trade.",
-    "revised": "The townhouse I had wintered in was my father's before it was mine, and my father had been an architect, which is to say a man who drew the houses, shops, and buildings that other men then lived their whole lives inside of. He had built up a small firm about the doing of it, a respected one that outlived him and stands yet, and I hold his share in it still. I had learned drawing at his elbow as a boy, and paid my own way through my schooling with drafting work at a board of my own, before I ever took up any stranger trade.",
-    "ts": 1785274975558,
+    "chap": "Prologue",
+    "snip": "The stories about that hill, on the rare occasions anyone tells them, like to begin on a wonder, or ",
+    "original": "The stories about that hill, on the rare occasions anyone tells them, like to begin on a wonder, or on a boy. They get it wrong from the first word. I never wanted to be a man anyone sang about, and I was not one. There was no wonder in it at the start. There was no boy yet either.",
+    "revised": "The stories they tell about me, on the rare occasions anyone tells them, like to begin on a wonder, or on a boy. They get it wrong from the first word. I never wanted to be a man anyone sang about, and I was not one. There was no wonder in it at the start. There was no boy either.",
+    "ts": 1783833823941,
     "resolved": true,
-    "resolvedTs": 1785274975558,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter One: Ardenmoor",
-    "snip": "The house he kept for himself he had drawn years before, for my mother, early, when the firm was sti",
-    "original": "The house he kept for himself he had drawn years before, for my mother, early, when the firm was still more hope than trade and he built as much for the love of the thing as for the money in it. It was the finest small thing he ever set his hand to, and it stood in what had then been a quiet, unfashionable quarter of the city, the sort of street a young man of modest means could still afford a corner of. The quarter had not stayed unfashionable. The town had grown up around it in the years since, gone dear and grand, tall bright houses rising to either side until my father's modest little place sat among them like an honest word in an ornate sentence, worth many times over what it had cost him to raise and not a coin of that worth for anything he would have troubled to count. When the two of them were gone it came to me, and I had grown up in those rooms and been happy in them, in the years when the house smelled of drawing-ink and my mother's baking and the windows stood open on the garden half the year, and I came back to them, after everything, the way a man goes back to the one place that never once asked him to be anything more than he was.",
-    "revised": "The house he kept for himself he had drawn years before, for my mother, early, when the firm was still more hope than trade and he built as much for the love of the thing as for the money in it. It was the finest small thing he ever set his hand to, and it stood in what had then been a quiet, unfashionable quarter of the city, the sort of street a young man of modest means could still afford a corner of. The quarter had not stayed unfashionable. The town had grown up around it in the years since, gone dear and grand, tall bright houses rising to either side until my father's modest little place sat among them like an honest word in an ornate sentence, worth many times over what it had cost him to raise and not a coin of that worth for anything he would have troubled to count. I had grown up in those rooms and been happy in them, in the years when the house smelled of drawing-ink and my mother's baking and the windows stood open on the garden half the year. When the two of them were gone it came to me and I came back to it, after everything, the way a man goes back to the one place that never once asked him to be anything more than he was.",
-    "ts": 1785274975558,
-    "resolved": true,
-    "resolvedTs": 1785274975558,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter One: Ardenmoor",
-    "snip": "The line gave out, as such lines do, exactly where the paying traffic did, at a raw and cheerful tow",
-    "original": "The line gave out, as such lines do, exactly where the paying traffic did, at a raw and cheerful town called Wainford that lived to pour the country's grain and cattle into railway cars and held no higher opinion of itself. There the rails simply stopped, and the country they had never troubled to reach began. I got Snow down out of the horse-box, the two of us equally glad to be quit of the noise, and from there we went on the old way, by horse and by road, four more days into the green silence.",
-    "revised": "The line gave out, as such lines do, exactly where sufficient paying traffic did, at a raw and cheerful town called Wainford that once lived to pour the country's grain and cattle onto river barges and now did so into railway cars. There the rails simply stopped, and the country they had never troubled to reach began. I got Snow down out of the horse-box, the two of us equally glad to be quit of the noise, and from there we went on the old way, by horse and by road, four more days into the green silence.",
-    "ts": 1785274975558,
-    "resolved": true,
-    "resolvedTs": 1785274975558,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter One: Ardenmoor",
-    "snip": "There was a hill to the north of the village and a little east of it, rounded and green and crowned ",
-    "original": "There was a hill to the north of the village and a little east of it, rounded and green and crowned with nothing but weather. I marked it the way you mark any rise of ground you have ridden a long way to look at. *That will be the one*, I thought, and thought no more of it than that. It was a hill. I had seen a thousand hills. Whatever it had to say for itself, it was keeping to itself, and I was glad enough of the quiet.",
-    "revised": "There was a hill to the north of the village and a little east of it, rounded and green and crowned with nothing but weather. *That will be the one*, I thought, and thought no more of it than that. It was a hill. I had seen a thousand hills. Whatever it had to say for itself, it was keeping to itself, and I was glad enough of the quiet.",
-    "ts": 1785274975558,
-    "resolved": true,
-    "resolvedTs": 1785274975558,
+    "resolvedTs": 1783833823941,
     "resolvedVia": "applied"
   },
   {
@@ -450,43 +380,73 @@
     "resolvedVia": "applied"
   },
   {
-    "chap": "Chapter Three: Under Canvas",
-    "snip": "I had sent for it the day the handshake was dry, and there was not much of it. A man who has lived t",
-    "original": "I had sent for it the day the handshake was dry, and there was not much of it. A man who has lived three years alone in his parents' house learns exactly how little of it he actually touches. I had left the quiet rooms of that Vethmark house as I had kept them, sheeted and still and full of the furniture of a life I no longer led, and I had sent Penworth's carters through it with a short list, and what came up the valley road was the short list and nothing more: my books, which were many; the tools and instruments of my trade, which were fewer but more particular; a bed, a chair, a chest of clothes, a kettle, the plain machinery of one man keeping himself alive. And one thing more, which rode alone.",
-    "revised": "I had sent for it the day the handshake was dry, and there was not much of it. A man who has lived three years alone in his parents' house learns exactly how little of it he actually touches. I had left the quiet rooms of that Vethmark house as I had kept them, sheeted and still and full of the furniture of a life I no longer led, and I had sent Penworth's carters through it with a short list, and what came up the valley road was the short list and nothing more: my books, which were many; the tools and instruments of my trade, which were fewer but more particular; a bed, a chair, a chest of clothes, a particular kettle I preferred, the plain machinery of one man keeping himself alive. And one thing more, which rode alone.",
-    "ts": 1785361922847,
+    "chap": "Prologue",
+    "snip": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I w",
+    "original": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was in those days was wiser or gentler or one whit less of a fool than the figure in the story. God knows I had a great deal more to learn than I yet had the sense to know I was missing, and I learned the most of it the slow way, and late, and at a cost to better people than myself. But he was a man, at least, and not a monument. And if I am to leave one true thing behind me when I go, I would sooner it were him than the bright bronze figure the years have cast up in his place.",
+    "revised": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was in those days was wiser or gentler or one whit less of a fool than the figure in the story. God knows I had a great deal more to learn than I yet had the sense to know I was missing, and I learned the most of it the slow way, and late, and at a cost to better people than myself. But he was a man, at least, and not a monument. And if I am to leave one true thing behind me when I go, I would sooner it were him than the bright bronze figure these storytellers have cast up in his place.",
+    "ts": 1785274975557,
     "resolved": true,
-    "resolvedTs": 1785361922847,
+    "resolvedTs": 1785274975557,
     "resolvedVia": "applied"
   },
   {
-    "chap": "Chapter Three: Under Canvas",
-    "snip": "The books had come up to my room in crates I trusted to no one else, the better part of a lifetime's",
-    "original": "The books had come up to my room in crates I trusted to no one else, the better part of a lifetime's reading and a fair share of its writing, and I stacked them in no order at all and knew already the long good evenings I would spend giving them one. My instruments I was more careful of. They are fewer than folk imagine and stranger, the fine-drawn things a man in my line uses to feel for what is already in a place before ever he asks it for anything: gauges and glasses and lengths of drawn wire that mean nothing to the eye and a great deal to the hand, each wrapped in its own cloth against the jolting of the road. I laid them out under cover and ran my hands over them in the failing light, taking their count, and it came to me that I had not opened most of these cases in three years. Their original destination, the grand study I had made for myself in another life, they had never reached.",
-    "revised": "The books had come up to my room in crates I trusted to no one else, the better part of a lifetime's reading and a fair share of its writing. I stacked them in no order at all and knew already the long good evenings I would spend giving them one. My instruments I was more careful of. They are fewer than folk imagine and stranger, the fine-drawn things a man in my line uses to feel for what is already in a place before ever he asks it for anything: gauges and glasses and lengths of drawn wire that mean nothing to the eye and a great deal to the hand, each wrapped in its own cloth against the jolting of the road. I laid them out under cover and ran my hands over them in the failing light, taking their count, and it came to me that I had not opened most of these cases in three years. Their original destination, the grand study I had made for myself in another life, they had never reached.",
-    "ts": 1785361922847,
+    "chap": "Prologue",
+    "snip": "Perhaps I will set the true thing down one day. The wanting to has come over me lately, quiet and fr",
+    "original": "Perhaps I will set the true thing down one day. The wanting to has come over me lately, quiet and from behind, the way most of my worse ideas have arrived. And when I turn my mind to how it would have to go, I find I know at least where it would not begin. Not on a wonder, and not on a boy. There is no boy in it, whatever the tellers would prefer, and no wonder either, not at the start of it. I think I would begin with the man himself, such as he was in those days: at the tired end of a bad few years, with far more skill than he had sense and nowhere in all the wide world that he needed to be. And I think, before I let him take a single step, I would ask you to go easy on him. He did not yet know how any of it would turn out.",
+    "revised": "Perhaps I will set the true thing down one day. The wanting to has come over me lately, quiet and from behind, the way most of my best and worst ideas have arrived. And when I turn my mind to how it would have to go, I find I know at least where it would not begin. Not on a wonder, and not on a boy. There is no boy in it, whatever the tellers would prefer, and no wonder either, not at the start of it. I think I would begin with the man himself, such as he was in those days: at the tired end of a bad few years, with far more skill than he had sense and nowhere in all the wide world that he needed to be. And I think, before I let him take a single step, I would ask you to go easy on him. He did not yet know how any of it would turn out.",
+    "ts": 1785274975557,
     "resolved": true,
-    "resolvedTs": 1785361922847,
+    "resolvedTs": 1785274975557,
     "resolvedVia": "applied"
   },
   {
-    "chap": "Chapter Three: Under Canvas",
-    "snip": "Near the end, when the light was going and the first of the rain had begun to come down in the fine ",
-    "original": "Near the end, when the light was going and the first of the rain had begun to come down in the fine sifting way that means to keep on, the drivers brought up the last thing between them, slung on a plank because neither would carry it alone, and set it down where I told them and stepped back from it a little more quickly than its weight accounted for.",
-    "revised": "Near the end, when the light was going and the last of the rain had begun to clear up, the drivers brought up the last thing between them, slung on a plank because neither would carry it alone, and set it down where I told them and stepped back from it a little more quickly than its weight accounted for.",
-    "ts": 1785361922848,
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "Penworth was my man of affairs, and the running of my whole tangled life had been his for something ",
+    "original": "Penworth was my man of affairs, and the running of my whole tangled life had been his for something over a decade by then. He kept the letters, the monies, and the small steady mountain of paper any working life throws off whether a man attends to it or not. He was a spare, precise, exceedingly formal gentleman out of Vethmark, near enough my own age and a good deal tidier about the wearing of it, and he had a particular genius, earned across a long career spent in the disorder of other men's affairs, for finding me things before I knew I wanted them, and for quietly buying the ground under a thing while I was still making up my mind about the thing itself. His letter had reached me at the turn of the year, and I had carried it about ever since, folded twice and gone soft at the creases from a season in my coat. It was a small marvel of its kind: three close pages to tell me he had come across a piece of country he believed would suit me, *a hill of no agricultural worth and considerable quiet*; that he had taken the liberty of securing it provisionally, along with a good breadth of the workable land about it, the sort you could set to honest tenants and thereafter forget you owned; and that he would count it a personal kindness if I would go and look at what I had nearly purchased before he made me finish the purchasing.",
+    "revised": "Penworth was my man of affairs, and the running of my whole tangled life had been his for something over a decade by then. He kept the letters, the monies, and the small steady mountain of paper any working life throws off whether a man attends to it or not. He was a spare, precise, exceedingly formal gentleman out of Vethmark, near enough my own age and a good deal tidier about the wearing of it, and he had a particular genius, earned across a career spent in the disorder of other men's affairs, for finding me things before I knew I wanted them, and for quietly buying the ground under a thing while I was still making up my mind about the thing itself. His letter had reached me at the turn of the year, and I had carried it about ever since, folded twice and gone soft at the creases from a season in my coat. It was a small marvel of its kind: three close pages to tell me he had come across a piece of country he believed would suit me, *a hill of no agricultural worth and considerable quiet*; that he had taken the liberty of securing it provisionally, along with a good breadth of the workable land about it, the sort you could set to honest tenants and thereafter forget you owned; and that he would count it a personal kindness if I would go and look at what I had nearly purchased before he made me finish the purchasing.",
+    "ts": 1785274975557,
     "resolved": true,
-    "resolvedTs": 1785361922848,
+    "resolvedTs": 1785274975557,
     "resolvedVia": "applied"
   },
   {
-    "chap": "Chapter Three: Under Canvas",
-    "snip": "The drivers took their wagons away before the light was wholly gone, glad, I think, to be quit of th",
-    "original": "The drivers took their wagons away before the light was wholly gone, glad, I think, to be quit of the tiny village and the rain and the chest, and Soren went off down the track to his grandfather's fire. And I stood in the late of the afternoon, the wet just breaking, and stared at my hill with everything I owned in the world stacked in oilcloth behind me, and found that I did not, after all, want to go into the inn.",
-    "revised": "The drivers took their wagons away before the light was wholly gone, glad, I think, to be quit of the tiny village and the rain and the chest, and Soren went off down the track to his grandfather's fire. And I stood in the late of the afternoon, the sun just breaking through they grey, and stared at my hill with everything I owned in the world stacked in oilcloth behind me, and found that I did not, after all, join my books and rest of my possessions back in the inn.",
-    "ts": 1785361922848,
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "The townhouse I had wintered in was my father's before it was mine, and my father had been an archit",
+    "original": "The townhouse I had wintered in was my father's before it was mine, and my father had been an architect, which is to say a man who drew the houses that other men then lived their whole lives inside of. He had built up a small firm about the doing of it, a good and unglamorous one that outlived him and stands drawing houses yet, and I hold his share in it still, though I have not troubled it in years and it has had the grace not to trouble me. I had learned the drawing at his elbow as a boy, and paid my own way through my schooling with drafting work at a board of my own, before I ever took up any stranger trade.",
+    "revised": "The townhouse I had wintered in was my father's before it was mine, and my father had been an architect, which is to say a man who drew the houses, shops, and buildings that other men then lived their whole lives inside of. He had built up a small firm about the doing of it, a respected one that outlived him and stands yet, and I hold his share in it still. I had learned drawing at his elbow as a boy, and paid my own way through my schooling with drafting work at a board of my own, before I ever took up any stranger trade.",
+    "ts": 1785274975558,
     "resolved": true,
-    "resolvedTs": 1785361922848,
+    "resolvedTs": 1785274975558,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "The house he kept for himself he had drawn years before, for my mother, early, when the firm was sti",
+    "original": "The house he kept for himself he had drawn years before, for my mother, early, when the firm was still more hope than trade and he built as much for the love of the thing as for the money in it. It was the finest small thing he ever set his hand to, and it stood in what had then been a quiet, unfashionable quarter of the city, the sort of street a young man of modest means could still afford a corner of. The quarter had not stayed unfashionable. The town had grown up around it in the years since, gone dear and grand, tall bright houses rising to either side until my father's modest little place sat among them like an honest word in an ornate sentence, worth many times over what it had cost him to raise and not a coin of that worth for anything he would have troubled to count. When the two of them were gone it came to me, and I had grown up in those rooms and been happy in them, in the years when the house smelled of drawing-ink and my mother's baking and the windows stood open on the garden half the year, and I came back to them, after everything, the way a man goes back to the one place that never once asked him to be anything more than he was.",
+    "revised": "The house he kept for himself he had drawn years before, for my mother, early, when the firm was still more hope than trade and he built as much for the love of the thing as for the money in it. It was the finest small thing he ever set his hand to, and it stood in what had then been a quiet, unfashionable quarter of the city, the sort of street a young man of modest means could still afford a corner of. The quarter had not stayed unfashionable. The town had grown up around it in the years since, gone dear and grand, tall bright houses rising to either side until my father's modest little place sat among them like an honest word in an ornate sentence, worth many times over what it had cost him to raise and not a coin of that worth for anything he would have troubled to count. I had grown up in those rooms and been happy in them, in the years when the house smelled of drawing-ink and my mother's baking and the windows stood open on the garden half the year. When the two of them were gone it came to me and I came back to it, after everything, the way a man goes back to the one place that never once asked him to be anything more than he was.",
+    "ts": 1785274975558,
+    "resolved": true,
+    "resolvedTs": 1785274975558,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "The line gave out, as such lines do, exactly where the paying traffic did, at a raw and cheerful tow",
+    "original": "The line gave out, as such lines do, exactly where the paying traffic did, at a raw and cheerful town called Wainford that lived to pour the country's grain and cattle into railway cars and held no higher opinion of itself. There the rails simply stopped, and the country they had never troubled to reach began. I got Snow down out of the horse-box, the two of us equally glad to be quit of the noise, and from there we went on the old way, by horse and by road, four more days into the green silence.",
+    "revised": "The line gave out, as such lines do, exactly where sufficient paying traffic did, at a raw and cheerful town called Wainford that once lived to pour the country's grain and cattle onto river barges and now did so into railway cars. There the rails simply stopped, and the country they had never troubled to reach began. I got Snow down out of the horse-box, the two of us equally glad to be quit of the noise, and from there we went on the old way, by horse and by road, four more days into the green silence.",
+    "ts": 1785274975558,
+    "resolved": true,
+    "resolvedTs": 1785274975558,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "There was a hill to the north of the village and a little east of it, rounded and green and crowned ",
+    "original": "There was a hill to the north of the village and a little east of it, rounded and green and crowned with nothing but weather. I marked it the way you mark any rise of ground you have ridden a long way to look at. *That will be the one*, I thought, and thought no more of it than that. It was a hill. I had seen a thousand hills. Whatever it had to say for itself, it was keeping to itself, and I was glad enough of the quiet.",
+    "revised": "There was a hill to the north of the village and a little east of it, rounded and green and crowned with nothing but weather. *That will be the one*, I thought, and thought no more of it than that. It was a hill. I had seen a thousand hills. Whatever it had to say for itself, it was keeping to itself, and I was glad enough of the quiet.",
+    "ts": 1785274975558,
+    "resolved": true,
+    "resolvedTs": 1785274975558,
     "resolvedVia": "applied"
   },
   {
@@ -497,46 +457,6 @@
     "ts": 1785361922848,
     "resolved": true,
     "resolvedTs": 1785361922848,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter Five: Good",
-    "snip": "The whole village knew I meant to build before I had told a soul but the boy, which is the way of vi",
-    "original": "The whole village knew I meant to build before I had told a soul but the boy, which is the way of villages, and the whole village knew it was a foolishness, which was the way of this one in particular. So I did not go down expecting to be believed. I went down to hire Jorin, and I went down knowing that the sensible half of him would refuse me and the other half was the reason I wanted him.",
-    "revised": "The whole village knew I was ready to build before I had told a soul but the boy, which is the way of villages, and the whole village knew it was a foolishness, which was the way of this one in particular. So I did not go down expecting to be believed. I went down to hire Jorin, and I went down knowing that the sensible half of him would refuse me, tell me to build anywhere else on my holdings, and the other half was the reason I wanted him.",
-    "ts": 1785361922848,
-    "resolved": true,
-    "resolvedTs": 1785361922848,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter Five: Good",
-    "snip": "It was a plain enough thing on the face of it. We were setting the northeast corner, the hill's corn",
-    "original": "It was a plain enough thing on the face of it. We were setting the northeast corner, the hill's corner, and the course had to come true off a footing that ran a hair proud of level there, the hill's own doing, and it is a finicking business, coaxing a wall up plumb off a base that is a hair out, and it usually wants a deal of measuring and shimming and swearing. Ren did not measure it. He took up the corner stone and turned it once in his hands, feeling the faces of it the way I had seen his father smell the soil, and he set it down, and it was true. Not near true. True, to the string and to the level both, as though the stone had told him where it wanted to sit and he had merely not argued. Jorin saw it. I saw Jorin see it. Neither of them said a word, and the work went on, and I laid the next stone myself off the true one the boy had set, and I did not say anything either, because I had already learned that saying a thing to that family was the surest way to make them careful of it, and because I did not yet understand what I had seen, and a man should be slow to name a thing he does not understand, especially a gift, and most especially a gift in someone else's son.",
-    "revised": "It was a plain enough thing on the face of it. We were setting the northeast corner, the hill's corner, and the course had to come true off a footing that ran a hair proud of level there, the hill's own doing, and it is a finicking business, coaxing a wall up plumb off a base that is a hair out, and it usually wants a deal of measuring and shimming and swearing. Ren did not measure it. He took up the corner stone and turned it once in his hands, feeling the faces of it the way I had seen his father smell the soil, and he set it down, and it was true. Not near true. True, to the string and to the level both, as though the stone had told him where it wanted to sit and he had merely not argued. Jorin saw it. I saw Jorin see it. Neither of them said a word, and the work went on, and I laid the next stone myself off the true one the boy had set, and I did not say anything either because I did not yet understand what I had seen, and a man should be slow to name a thing he does not understand, especially a gift, and most especially a gift in someone else's son.",
-    "ts": 1785361922848,
-    "resolved": true,
-    "resolvedTs": 1785361922848,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter Six: First Light",
-    "snip": "The collar was Tomas's, and the man deserves more than a word here. Most smithies are a racket, and ",
-    "original": "The collar was Tomas's, and the man deserves more than a word here. Most smithies are a racket, and a good part of the racket is put on for the customer, the way a market-seller cries his wares; a smith who lets you watch him work is half performing, and the work suffers for it. Tomas did not perform. When I brought him the drawing of the collar he looked at it a long while and said nothing, and then he looked at me the same way, and asked the one real question of the whole commission. \"What's it to hold?\" I told him a light that did not burn. He took that in with no more surprise than if I had said a candle, and he made the thing, and it took him the better part of a week for a piece of brass a tinker would have knocked out in an afternoon, and when it was done it was so exactly the shape the glass wanted and no other that I understood he had made it not to my drawing but to the thing the drawing was reaching for, which is a gift I have met only a handful of times, and never in a man who spoke so little. He named a fair price and I paid it, and as I gathered it up he said one more thing, or the start of one. \"That hill,\" he said, banking his fire and not looking at me. And then he stopped, the way a man stops at the head of a stair he has decided not to go down, and said only, \"Comes on to winter early, up there. Mind it does,\" which was true, and was not, I thought, quite what he had begun to say. I said I would, and carried the collar home.",
-    "revised": "The collar was Tomas's, and the man deserves more than a word here. Most smithies are a racket, and a good part of the racket is put on for the customer, the way a market-seller cries his wares; a smith who lets you watch him work is half performing, and the work suffers for it. Tomas did not perform. When I brought him the drawing of the collar he looked at it a long while and said nothing, and then he looked at me the same way, and asked the one real question of the whole commission. \"What's it to hold?\" I told him a light that did not burn. He took that in with no more surprise than if I had said a candle, and he made the thing, and it took him the better part of a week for a piece of brass a lesser maker would have knocked out in an afternoon, and when it was done it was so exactly the shape the glass wanted and no other that I understood he had made it not to my drawing but to the thing the drawing was reaching for, which is a gift I have met only a handful of times, and never in a man who spoke so little. He named a fair price and I paid it, and as I gathered it up he said one more thing, or the start of one. \"That hill,\" he said, banking his fire and not looking at me. And then he stopped, the way a man stops at the head of a stair he has decided not to go down, and said only, \"Comes on to winter early, up there. Mind it does,\" which was true, and was not, I thought, quite what he had begun to say. I said I would, and carried the collar home.",
-    "ts": 1785361922848,
-    "resolved": true,
-    "resolvedTs": 1785361922848,
-    "resolvedVia": "applied"
-  },
-  {
-    "chap": "Chapter Six: First Light",
-    "snip": "It was not, quite, a question, any more than the boy's *it said yes* had been. I have been asked for",
-    "original": "It was not, quite, a question, any more than the boy's *it said yes* had been. I have been asked for a great many things over the years, and given away most of them, and taken back fewer than I should have. There is a particular weight to being handed a thing that someone has carried, unwanted and unregarded, for thirty years, in the hope that it might at last have come to the one person who would not laugh. I did not answer at once. I looked at the woman, and at the basket of living things she had thought to bring a man she barely knew, and I thought about a hill I had been told was dead that had answered me when I asked, and I thought, not for the first time and not for the last, that I had come into a valley a great deal deeper than the one I had bought.",
-    "revised": "It was not, quite, a question, any more than the boy's had been. I have been asked for a great many things over the years, and given away most of them, and taken back fewer than I should have. There is a particular weight to being handed a thing that someone has carried, unwanted and unregarded, for thirty years, in the hope that it might at last have come to the one person who would not laugh. I did not answer at once. I looked at the woman, and at the basket of living things she had thought to bring a man she barely knew, and I thought about a hill I had been told was dead that had answered me when I asked, and I thought, not for the first time and not for the last, that I had come into a valley a great deal deeper than the one I had bought.",
-    "ts": 1785361922849,
-    "resolved": true,
-    "resolvedTs": 1785361922849,
     "resolvedVia": "applied"
   },
   {
@@ -600,6 +520,86 @@
     "resolvedVia": "applied"
   },
   {
+    "chap": "Chapter Three: Under Canvas",
+    "snip": "I had sent for it the day the handshake was dry, and there was not much of it. A man who has lived t",
+    "original": "I had sent for it the day the handshake was dry, and there was not much of it. A man who has lived three years alone in his parents' house learns exactly how little of it he actually touches. I had left the quiet rooms of that Vethmark house as I had kept them, sheeted and still and full of the furniture of a life I no longer led, and I had sent Penworth's carters through it with a short list, and what came up the valley road was the short list and nothing more: my books, which were many; the tools and instruments of my trade, which were fewer but more particular; a bed, a chair, a chest of clothes, a kettle, the plain machinery of one man keeping himself alive. And one thing more, which rode alone.",
+    "revised": "I had sent for it the day the handshake was dry, and there was not much of it. A man who has lived three years alone in his parents' house learns exactly how little of it he actually touches. I had left the quiet rooms of that Vethmark house as I had kept them, sheeted and still and full of the furniture of a life I no longer led, and I had sent Penworth's carters through it with a short list, and what came up the valley road was the short list and nothing more: my books, which were many; the tools and instruments of my trade, which were fewer but more particular; a bed, a chair, a chest of clothes, a particular kettle I preferred, the plain machinery of one man keeping himself alive. And one thing more, which rode alone.",
+    "ts": 1785361922847,
+    "resolved": true,
+    "resolvedTs": 1785361922847,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Three: Under Canvas",
+    "snip": "The books had come up to my room in crates I trusted to no one else, the better part of a lifetime's",
+    "original": "The books had come up to my room in crates I trusted to no one else, the better part of a lifetime's reading and a fair share of its writing, and I stacked them in no order at all and knew already the long good evenings I would spend giving them one. My instruments I was more careful of. They are fewer than folk imagine and stranger, the fine-drawn things a man in my line uses to feel for what is already in a place before ever he asks it for anything: gauges and glasses and lengths of drawn wire that mean nothing to the eye and a great deal to the hand, each wrapped in its own cloth against the jolting of the road. I laid them out under cover and ran my hands over them in the failing light, taking their count, and it came to me that I had not opened most of these cases in three years. Their original destination, the grand study I had made for myself in another life, they had never reached.",
+    "revised": "The books had come up to my room in crates I trusted to no one else, the better part of a lifetime's reading and a fair share of its writing. I stacked them in no order at all and knew already the long good evenings I would spend giving them one. My instruments I was more careful of. They are fewer than folk imagine and stranger, the fine-drawn things a man in my line uses to feel for what is already in a place before ever he asks it for anything: gauges and glasses and lengths of drawn wire that mean nothing to the eye and a great deal to the hand, each wrapped in its own cloth against the jolting of the road. I laid them out under cover and ran my hands over them in the failing light, taking their count, and it came to me that I had not opened most of these cases in three years. Their original destination, the grand study I had made for myself in another life, they had never reached.",
+    "ts": 1785361922847,
+    "resolved": true,
+    "resolvedTs": 1785361922847,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Three: Under Canvas",
+    "snip": "Near the end, when the light was going and the first of the rain had begun to come down in the fine ",
+    "original": "Near the end, when the light was going and the first of the rain had begun to come down in the fine sifting way that means to keep on, the drivers brought up the last thing between them, slung on a plank because neither would carry it alone, and set it down where I told them and stepped back from it a little more quickly than its weight accounted for.",
+    "revised": "Near the end, when the light was going and the last of the rain had begun to clear up, the drivers brought up the last thing between them, slung on a plank because neither would carry it alone, and set it down where I told them and stepped back from it a little more quickly than its weight accounted for.",
+    "ts": 1785361922848,
+    "resolved": true,
+    "resolvedTs": 1785361922848,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Three: Under Canvas",
+    "snip": "The drivers took their wagons away before the light was wholly gone, glad, I think, to be quit of th",
+    "original": "The drivers took their wagons away before the light was wholly gone, glad, I think, to be quit of the tiny village and the rain and the chest, and Soren went off down the track to his grandfather's fire. And I stood in the late of the afternoon, the wet just breaking, and stared at my hill with everything I owned in the world stacked in oilcloth behind me, and found that I did not, after all, want to go into the inn.",
+    "revised": "The drivers took their wagons away before the light was wholly gone, glad, I think, to be quit of the tiny village and the rain and the chest, and Soren went off down the track to his grandfather's fire. And I stood in the late of the afternoon, the sun just breaking through they grey, and stared at my hill with everything I owned in the world stacked in oilcloth behind me, and found that I did not, after all, join my books and rest of my possessions back in the inn.",
+    "ts": 1785361922848,
+    "resolved": true,
+    "resolvedTs": 1785361922848,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Five: Good",
+    "snip": "The whole village knew I meant to build before I had told a soul but the boy, which is the way of vi",
+    "original": "The whole village knew I meant to build before I had told a soul but the boy, which is the way of villages, and the whole village knew it was a foolishness, which was the way of this one in particular. So I did not go down expecting to be believed. I went down to hire Jorin, and I went down knowing that the sensible half of him would refuse me and the other half was the reason I wanted him.",
+    "revised": "The whole village knew I was ready to build before I had told a soul but the boy, which is the way of villages, and the whole village knew it was a foolishness, which was the way of this one in particular. So I did not go down expecting to be believed. I went down to hire Jorin, and I went down knowing that the sensible half of him would refuse me, tell me to build anywhere else on my holdings, and the other half was the reason I wanted him.",
+    "ts": 1785361922848,
+    "resolved": true,
+    "resolvedTs": 1785361922848,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Five: Good",
+    "snip": "It was a plain enough thing on the face of it. We were setting the northeast corner, the hill's corn",
+    "original": "It was a plain enough thing on the face of it. We were setting the northeast corner, the hill's corner, and the course had to come true off a footing that ran a hair proud of level there, the hill's own doing, and it is a finicking business, coaxing a wall up plumb off a base that is a hair out, and it usually wants a deal of measuring and shimming and swearing. Ren did not measure it. He took up the corner stone and turned it once in his hands, feeling the faces of it the way I had seen his father smell the soil, and he set it down, and it was true. Not near true. True, to the string and to the level both, as though the stone had told him where it wanted to sit and he had merely not argued. Jorin saw it. I saw Jorin see it. Neither of them said a word, and the work went on, and I laid the next stone myself off the true one the boy had set, and I did not say anything either, because I had already learned that saying a thing to that family was the surest way to make them careful of it, and because I did not yet understand what I had seen, and a man should be slow to name a thing he does not understand, especially a gift, and most especially a gift in someone else's son.",
+    "revised": "It was a plain enough thing on the face of it. We were setting the northeast corner, the hill's corner, and the course had to come true off a footing that ran a hair proud of level there, the hill's own doing, and it is a finicking business, coaxing a wall up plumb off a base that is a hair out, and it usually wants a deal of measuring and shimming and swearing. Ren did not measure it. He took up the corner stone and turned it once in his hands, feeling the faces of it the way I had seen his father smell the soil, and he set it down, and it was true. Not near true. True, to the string and to the level both, as though the stone had told him where it wanted to sit and he had merely not argued. Jorin saw it. I saw Jorin see it. Neither of them said a word, and the work went on, and I laid the next stone myself off the true one the boy had set, and I did not say anything either because I did not yet understand what I had seen, and a man should be slow to name a thing he does not understand, especially a gift, and most especially a gift in someone else's son.",
+    "ts": 1785361922848,
+    "resolved": true,
+    "resolvedTs": 1785361922848,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Six: First Light",
+    "snip": "The collar was Tomas's, and the man deserves more than a word here. Most smithies are a racket, and ",
+    "original": "The collar was Tomas's, and the man deserves more than a word here. Most smithies are a racket, and a good part of the racket is put on for the customer, the way a market-seller cries his wares; a smith who lets you watch him work is half performing, and the work suffers for it. Tomas did not perform. When I brought him the drawing of the collar he looked at it a long while and said nothing, and then he looked at me the same way, and asked the one real question of the whole commission. \"What's it to hold?\" I told him a light that did not burn. He took that in with no more surprise than if I had said a candle, and he made the thing, and it took him the better part of a week for a piece of brass a tinker would have knocked out in an afternoon, and when it was done it was so exactly the shape the glass wanted and no other that I understood he had made it not to my drawing but to the thing the drawing was reaching for, which is a gift I have met only a handful of times, and never in a man who spoke so little. He named a fair price and I paid it, and as I gathered it up he said one more thing, or the start of one. \"That hill,\" he said, banking his fire and not looking at me. And then he stopped, the way a man stops at the head of a stair he has decided not to go down, and said only, \"Comes on to winter early, up there. Mind it does,\" which was true, and was not, I thought, quite what he had begun to say. I said I would, and carried the collar home.",
+    "revised": "The collar was Tomas's, and the man deserves more than a word here. Most smithies are a racket, and a good part of the racket is put on for the customer, the way a market-seller cries his wares; a smith who lets you watch him work is half performing, and the work suffers for it. Tomas did not perform. When I brought him the drawing of the collar he looked at it a long while and said nothing, and then he looked at me the same way, and asked the one real question of the whole commission. \"What's it to hold?\" I told him a light that did not burn. He took that in with no more surprise than if I had said a candle, and he made the thing, and it took him the better part of a week for a piece of brass a lesser maker would have knocked out in an afternoon, and when it was done it was so exactly the shape the glass wanted and no other that I understood he had made it not to my drawing but to the thing the drawing was reaching for, which is a gift I have met only a handful of times, and never in a man who spoke so little. He named a fair price and I paid it, and as I gathered it up he said one more thing, or the start of one. \"That hill,\" he said, banking his fire and not looking at me. And then he stopped, the way a man stops at the head of a stair he has decided not to go down, and said only, \"Comes on to winter early, up there. Mind it does,\" which was true, and was not, I thought, quite what he had begun to say. I said I would, and carried the collar home.",
+    "ts": 1785361922848,
+    "resolved": true,
+    "resolvedTs": 1785361922848,
+    "resolvedVia": "applied"
+  },
+  {
+    "chap": "Chapter Six: First Light",
+    "snip": "It was not, quite, a question, any more than the boy's *it said yes* had been. I have been asked for",
+    "original": "It was not, quite, a question, any more than the boy's *it said yes* had been. I have been asked for a great many things over the years, and given away most of them, and taken back fewer than I should have. There is a particular weight to being handed a thing that someone has carried, unwanted and unregarded, for thirty years, in the hope that it might at last have come to the one person who would not laugh. I did not answer at once. I looked at the woman, and at the basket of living things she had thought to bring a man she barely knew, and I thought about a hill I had been told was dead that had answered me when I asked, and I thought, not for the first time and not for the last, that I had come into a valley a great deal deeper than the one I had bought.",
+    "revised": "It was not, quite, a question, any more than the boy's had been. I have been asked for a great many things over the years, and given away most of them, and taken back fewer than I should have. There is a particular weight to being handed a thing that someone has carried, unwanted and unregarded, for thirty years, in the hope that it might at last have come to the one person who would not laugh. I did not answer at once. I looked at the woman, and at the basket of living things she had thought to bring a man she barely knew, and I thought about a hill I had been told was dead that had answered me when I asked, and I thought, not for the first time and not for the last, that I had come into a valley a great deal deeper than the one I had bought.",
+    "ts": 1785361922849,
+    "resolved": true,
+    "resolvedTs": 1785361922849,
+    "resolvedVia": "applied"
+  },
+  {
     "chap": "Chapter Seven: Wednesdays",
     "snip": "Then the kettle. Then the work. My days that autumn were full of the small honest labor of a practic",
     "original": "Then the kettle. Then the work. My days that autumn were full of the small honest labor of a practice getting itself onto its feet, and I found, to a surprise that shames me a little to remember, that I was glad of the work in a way I had not been glad of anything in years. Where the wall had brought the villagers up to watch a thing fail, the light brought them up to ask for something. It could not be had, not yet, though it would be, and I told them so honestly, and in the telling I found myself doing the plain work of my trade for people who needed it: a ward mended on a barn that took the damp, a set of drawing-instruments trued for the surveyor two valleys over who had heard there was a man at Ardenmoor who understood ground, a cold-spot in Kellard's storeroom talked out of the corner it had settled in. It was not grand work. It was the work of a country wizard in a small valley, and I did it well, and I was paid fairly for it, and every job of it was also, without exception, the slow business of a village deciding a man was a neighbor and not a rumor. I have done work that clever men still argue over. I am prouder of the cold-spot in Kellard's storeroom.",
@@ -613,6 +613,32 @@
     "original": "I tested it once, that gift of his, though I am not proud of the testing. There was a Wednesday in the middle of the autumn when I had my trade instruments out on the bench, the whole nested case of them, the calipers and the trueing-square and the small brass level and the plumb and the dividers, because I had been truing the surveyor's set and my own alongside it, and I did a thing I should not have done. I took the good level, the one I had carried twenty years and trusted with my life on more than one bad night, and knocked it out of true a hair with my thumb, so small a wrongness that I could barely feel it myself, and set it back in the case among its fellows, and said nothing. The boy came up that afternoon and settled by the fire, and after a while, in the idle way he had, he asked might he look at the instruments, and I said he might, the way you say a thing you have arranged the answer to, and I was ashamed of myself even as I said it and did it anyway, because a man wants to know the edges of a wonder even when the wanting is a small meanness.",
     "revised": "I tested it once, that gift of his, though I am not proud of the testing. There was a Wednesday in the middle of the autumn when I had my trade instruments out on the bench, the whole nested case of them, the calipers and the trueing-square and the small brass scale and the plumb and the dividers, because I had been truing the surveyor's set and my own alongside it, and I did a thing I should not have done. I took the good level, the one I had carried twenty years and trusted with my life on more than one bad night, and knocked it out of true a hair with my thumb, so small a wrongness that I could barely feel it myself, and set it back in the case among its fellows, and said nothing. The boy came up that afternoon and settled by the fire, and after a while, in the idle way he had, he asked might he look at the instruments, and I said he might, the way you say a thing you have arranged the answer to, and I was ashamed of myself even as I said it and did it anyway, because a man wants to know the edges of a wonder even when the wanting is a small meanness.",
     "ts": 1785382322811,
+    "resolved": false
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boo",
+    "original": "I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boots while my own went up across the river; and my own was to be a wonder, or a warning, depending on when you asked. It was grander than anything my father would have put his name to, taller, flashier, altogether more foolish: his clean lines swollen to thrice the scale and as many times the cost, a great bright gesture ahead of a wedding. I drew much of it myself in the good years, when I still supposed I knew what I was building toward. There was no wedding. I never lived in the house. For three years it stood across the water as a reminder of a life that had not happened, costing a small fortune to keep empty, and I could no more sell it than cross its threshold. Penworth spent that winter trying, with a delicacy that cost him something, to talk me round to letting it go, for the sake of my purse and, though he was too careful to say it, the rest of me. I did not answer.",
+    "revised": "I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boots while my own went up across the river; and my own was to be a wonder, or a warning, depending on when you asked. It was grander than anything my father would have put his name to, taller, flashier, altogether more foolish: his clean lines swollen to thrice the scale and as many times the cost, a great bright gesture ahead of a wedding. I drew a small part of it myself in the good years, when I still supposed I knew what I was building toward. There was no wedding. I never lived in the house. For three years it stood across the water as a reminder of a life that had not happened, costing a small fortune to keep empty, and I could no more sell it than cross its threshold. Penworth spent that winter trying, with a delicacy that cost him something, to talk me round to letting it go, for the sake of my purse and, though he was too careful to say it, the rest of me.",
+    "ts": 1785545737674,
+    "resolved": false,
+    "resolvedTs": 0,
+    "resolvedVia": ""
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "The first and easier part I came by rail: three days out of Vethmark in a carriage that rattled the ",
+    "original": "The first and easier part I came by rail: three days out of Vethmark in a carriage that rattled the teeth in a man's head and let the cold in at every seam. The railways were new, and it showed. The engine was a crude, soot-breathing thing, all iron and steam and appetite. Many called the train magical, though there was nothing arcane in it. You may put a working into a machine—I have put a good many into a good many—but a working must be fed, tended, and coaxed into existence. One large enough to shoulder a train up a grade would then have eaten more in the making and keeping than a lifetime of coal. That is the arithmetic people get backwards about my trade. There is no shortage of magic in the world; it is short of people who can work it. Coal the world has by the mountain, iron by the shire, stokers by the thousand. Of those born able to set a lasting working into iron it has a scattered handful, every one wanted in six places at once. Put them all to nursing locomotives and you might keep one railway arcane, while nothing else was warded, mended, or lit. So no sane man spends a wizard where a stoker will serve. The railways ran on fire, water, and brute iron cleverness. I spent much of those three days watching the engine labor at the watering-stops and thinking how much smaller and quieter it might have been. That was the first hard fact of my trade, and the trains were a great smoking monument to it: crude iron doing loudly what a little good artifice could have done well, had there been enough good artifice to go around.",
+    "revised": "The first and easier part I came by rail: three days out of Vethmark in a carriage that rattled the teeth in a man's head and let the cold in at every seam. The railways were new, and it showed. The engine was a crude, soot-breathing thing, all iron and steam and appetite. Many called the train magical, though there was nothing arcane in it. You may put a working into a machine—I have put a good many into a good many—but a working must be fed, tended, and coaxed into existence. One large enough to shoulder a train up a grade would then have eaten more in the making than a lifetime of coal. That is the arithmetic people get backwards about my trade. There is no shortage of magic in the world; it is short of people who can work it. Coal the world has by the mountain, iron by the shire, stokers by the thousand. Of those born able to set a lasting working into iron it has a scattered handful, every one wanted in six places at once. Put them all to nursing locomotives and you might keep one railway arcane, while nothing else was warded, mended, or lit. So no sane man spends a wizard where a stoker will serve. The railways ran on fire, water, and brute iron cleverness. I spent much of those three days watching the engine labor at the watering-stops and thinking how much smaller and quieter it might have been. That was the first hard fact of my trade, and the trains were a great smoking monument to it: crude iron doing loudly what a little good artifice could have done well, had there been enough good artifice to go around.",
+    "ts": 1785555896431,
+    "resolved": false
+  },
+  {
+    "chap": "Chapter Four: Ask for Passage",
+    "snip": "What I was after, under all the walking and the lying still, was a plain enough thing, and it was th",
+    "original": "What I was after, under all the walking and the lying still, was a plain enough thing, and it was this: I meant to build, and you cannot build on ground that will not hold. That was the whole of Cael's father's trouble, and the whole of the valley's forty years of certainty. It was not that the hill was steep, for the crown is flat as a table and always has been. It was that nothing set on it stayed set. Foundations that went down true came up crooked in a season. Mortar that cured hard everywhere else in the country stayed soft here for a month and then let go. Walls came down in the night with no wind to blame. I had heard it from Cael on the crown in the gold light, and I had felt, in the weeks since, exactly the quality of ground he meant. It was not dead ground. Dead ground is honest; it takes what you give it and keeps it. This ground was awake, and it had been throwing off everything set upon it for longer than the village had a name, shrugging off a blanket it had never asked for.",
+    "revised": "What I was after, under all the walking and the lying still, was a plain enough thing, and it was this: I meant to build, and you cannot build on ground that will not hold. That was the whole of Cael's father's trouble, and the whole of the valley's forty years of certainty. It was not that the hill was steep, for the crown is flat enough and always has been. It was that nothing set on it stayed set. Foundations that went down true came up crooked in a season. Mortar that cured hard everywhere else in the country stayed soft here for a month and then let go. Walls came down in the night with no wind to blame. I had heard it from Cael on the crown in the gold light, and I had felt, in the weeks since, exactly the quality of ground he meant. It was not dead ground. Dead ground is honest; it takes what you give it and keeps it. This ground was awake, and it had been throwing off everything set upon it for longer than the village had a name, shrugging off a blanket it had never asked for.",
+    "ts": 1785600853387,
     "resolved": false
   }
 ]

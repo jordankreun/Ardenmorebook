@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-4 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
+5 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Chapter Seven: Wednesdays
 
@@ -22,3 +22,10 @@ He wouldn’t volunteer this information. Rewrite more vague
 > sill,
 
 Add comedic note here. Blinded him and he fell and knocked the thing to bits or similar
+
+
+## Chapter Four: Ask for Passage
+
+> had ever been written about a hill like this one
+
+No the magic books were all about pushing change onto world. Conventional magic was to assert a will on the world through workings. Emlyns approach is more listening and negotiating which is different
