@@ -52,6 +52,7 @@ abrupt; "stranger's house" → "strange roof" [he is at an inn]; morning walk ad
 near the inn + dairymaid + thatcher [no full bakery; stops repeating the evening's two shops];
 the road is modest/poorly-marked but real [not petering into grass]; the unformed "who I do not
 believe slept at all" aside CUT.)
+⚠️ TRACKED CHANGES APPLIED 2026-08-02: "I drew much of it myself" → "I drew a small part of it myself" (the river house was his father's firm's work, not his design); the closing "I did not answer." cut; and in the railway arithmetic "eaten more in the making and keeping" → "eaten more in the making" — which SETS CANON: the wizard's cost is in the MAKING, and a set working does not thereafter feed on its maker, though it may draw on an external source (the LUMEN drinks the hill).
 
 [02] Walking the Bounds — Emlyn climbs the crown alone mid-morning (NO epiphany, reframed: not a
 grand moment, "neither let down nor carried away," just a view and a great sweeping quiet, one
@@ -173,6 +174,7 @@ builder who might believe him. NEW FACTS: THESIS discovered & earned (ask, don't
 first working SUCCEEDS by asking; crown now readied/sound; NE-corner motif seeded (anchor + footing
 offset NE); storm-sensitivity of the pulse established (canon groundwork); "attention vs appetite"
 lesson; Soren hears the working ("It said yes"). No LUMEN/Brenna yet.
+⚠️ REVISED 2026-08-02 (reader note 5 + one tracked change; 3,457→3,546w). THE TWO-MODE REFRAME. The books-paragraph previously gave the wrong reason for their uselessness (that none had been written about a hill like this). The real reason is now stated: every book of the trade, "from the first primer to the papers I had put my own name to, was a book about making the world do a thing… There is a whole fine literature of that and I had spent my life in it, and there is not a page in the whole of it about ground that answers you back." The drafted-it-to-win paragraph already enacted this and is untouched; the surveyor's-compendium paragraph already draws the trade line and is kept as an asset. ALSO: a canon error found and fixed — "the way I had been taught to use them" became "the way I had come round to using them" (he arrived at listening ALONE). Tracked change: "the crown is flat as a table" → "flat enough".
 
 [05] Good — Emlyn hires Jorin (against village advice) at his tidy yard; Jorin will build on no
 man's word and comes up to TEST the ground himself (drives a bar, digs a shoulder-deep hole, smells
@@ -263,6 +265,7 @@ as feeling ("this one's sad") and sorts by an imperceptible quality; **Mira** na
 wash-house Wednesdays); **Soren's 10th birthday** + the folding knife; the practice is a going
 concern (Kellard credit, the cold-spot, the surveyor's set, a warded barn); the village has decided
 Emlyn is a neighbor; grandfather gave Soren the slate (offstage). No em dashes; 3,506 words.
+⚠️ REVISED 2026-08-02 (reader notes 1–2 + two tracked changes; 4,180→4,309w). SOREN'S LETTERS INVERTED per the author: he no longer fails at them. He learns them fast, reads anything by winter and writes a fair plain hand "better than his grandfather's and better than half the men who signed Kellard's book" — and that is where it stops, and the stopping is the point. His figures do not stop. "There is a difference between a boy who is good at a thing and a boy the thing is a door for." **Rule: a child's gift is SPECIFIC, not general; do not manufacture a deficit to make a talent legible.** THE KIT RETOOLED to an artificer's: calipers, fine files, small brass scale, jeweller's glass, levels — with the surveyor's set he is truing alongside it named as "not the same kind of tools at all." Tracked change: "the work of a country wizard in a small valley" → "the work available to a wizard".
 
 [08] The Lamp Business — Word of the lumen has spread and the practice becomes a real commercial
 concern. The problem: the lumen drinks the **hill's song** (which runs only under Emlyn's acre), so
@@ -304,6 +307,7 @@ warmed (first Series lamp). No em dashes; 4,047 words. Two feedback-engine judgm
 out-of-strict-chronology placement of the Brenna gift (flagged in-voice as the teller arranging his
 account). Do NOT preempt: the three probing correspondents (Ch 14/26) are NOT yet mentioned — only
 the existence/location of the unpublished work.
+⚠️ REVISED 2026-08-02 (reader notes 3–4; 4,119→4,266w). EMLYN STOPS EXPLAINING: he had given Essa the full mechanism across a shop counter; he now gives "the truth. Some of the truth" — "It won't leave my hill. I'm at work on why. When I have it, you'll not need to come up and ask." The reader loses nothing, because the narration already delivered the mechanism eighteen paragraphs earlier. **Rule: the outcome from his mouth, the mechanism from the narration.** THE PRATFALL added at the first failed lamp: the useless flare catches him with his nose a hand's breadth from the glass, he goes over backward off the stool, takes the bench with his elbow and brings the lamp down in pieces — "nothing hurt but the lamp and my opinion of myself, and after a while I got the broom."
 
 [09] Breaking Ground — **The first winter passes** (a brief bridge: the long white quiet, the lumen
 against the nights, Emlyn realizing his loneliness has quietly changed from hiding-from-a-life to the
@@ -724,6 +728,7 @@ interested." Filed unanswered ("puts it where he can hear it breathing"). REN'S 
 COMMISSION: sent to the quarry alone with the stone order ("Boy's ready."), returns half a mark
 under Jorin's expected price. CLOSE: doorway line, "He felt something in that cellar. During the
 build. Hasn't said what." NO reaction on page.
+⚠️ WIDENED 2026-08-02 (Conclave standing; 3,409→3,598w). One paragraph before "I read it standing" names what the office ever wanted with him, and it is NOT the size of the talent: it is the notation. He published "a way of setting a working down on paper that was not the way anyone else sets one down," carrying "marks for what a thing was already doing on its own before you ever laid a hand on it" — a mark a discipline of pure will has no use for. "I had built a grammar with a listening in it, alone, over a good many years, out of no tradition I could have pointed to." This deepens the unsigned hand at no cost (someone trained in his notation learned to listen) and resolves nothing. **The three-sentence letter and "*The office remains interested.*" are untouched.**
 
 [24] THE READING (spring new moon, predawn; ~2,400w; DRY INSTRUMENT REGISTER per 8A) — grandmother's
 late volume reaches her FULL THEORY ("The song is for something that is not here... Somebody

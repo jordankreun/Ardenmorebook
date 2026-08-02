@@ -4,7 +4,7 @@
    the markdown with a ?v= cache-buster and cache:"no-store"; we normalize the
    URL (strip the query) for the cache key so offline lookups still hit. The
    /api/ sync endpoint is never cached (it is dynamic and authenticated). */
-const VERSION = "ardenmoor-v31";
+const VERSION = "ardenmoor-v32";
 const SHELL = [
   "/", "/reader.html", "/manifest.webmanifest",
   "/icon-192.png", "/icon-512.png", "/apple-touch-icon.png"

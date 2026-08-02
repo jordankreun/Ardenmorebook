@@ -802,3 +802,115 @@ skeptical of his methods for rational reasons; the office has no face; Hesper's 
 and untaken; the oak goes quiet from Ch 11 to Interlude III; Edran, Maret, Kellard and Essa are
 functions rather than people; the threads never interfere. **Soren's drift toward oracle** sits
 adjacent to Ch 14 and Ch 20 and is the natural next pass.
+
+---
+
+## READER-FEEDBACK PASS — 10 open records applied, 6 rules added (2026-08-02)
+
+**Mode: developmental** for Ch 4, 7, 8, 23 (two of the notes are canon-level); **revise-light** for
+the Ch 1 tracked changes.
+
+caused-by: 10 records were open in `feedback/` — 5 tracked changes and 5 notes. Two of the notes
+were canon-level rather than line-level, and `session-locks.md` §AUTHOR FEEDBACK IS DURABLE requires
+each be distilled to its general rule and filed where startup will re-read it.
+
+### Tracked changes, applied verbatim
+
+| # | file | change |
+|---|---|---|
+| TC1 | Ch 7 | "the work of a country wizard in a small valley" → "the work available to a wizard in a small valley" |
+| TC2 | Ch 7 | "the small brass level" → "the small brass scale" (folded into the kit retool) |
+| TC3 | Ch 1 | "I drew much of it myself" → "I drew a small part of it myself"; closing "I did not answer." cut |
+| TC4 | Ch 1 | "eaten more in the making and keeping" → "eaten more in the making" |
+| TC5 | Ch 4 | "the crown is flat as a table" → "the crown is flat enough" |
+
+### Notes, applied
+
+- **N5, Ch 4 — the two-mode reframe.** The chapter gave the wrong reason for the books' uselessness
+  ("no book of my trade had ever been written about a hill like this one"). It now gives the real
+  one: every book of the trade is about making the world do a thing. **This was a codification, not
+  a retrofit** — see the sweep below.
+- **N1, Ch 7 — Soren's letters inverted.** He no longer fails. He learns them fast and properly and
+  simply does not go further, and the *stopping* is what tells Emlyn what the boy is.
+- **N2, Ch 7 — the kit retooled** to an artificer's, with the customer's surveying set named as the
+  contrast.
+- **N3, Ch 8 — Emlyn stops explaining.** He had handed a joiner the full mechanism across a shop
+  counter. He now gives the outcome and withholds the how. **The reader loses nothing**: the
+  narration delivers the mechanism eighteen paragraphs earlier.
+- **N4, Ch 8 — the pratfall.** The failed lamp's flare, the stool, the elbow, the pieces, the broom.
+
+### The Conclave standing (the author's chosen scope)
+
+Ch 23 gains one paragraph, placed **before** "I read it standing" so the three-sentence letter and
+`*The office remains interested.*` land exactly as written. What the office wants is the **notation**,
+not the size of the talent: a grammar with a listening in it, built alone, published under his own
+name, and left lying in the literature. It deepens the unsigned hand for free and resolves nothing.
+
+### The sweep, and its actual finding
+
+Grepped every description of a working across all 37 chapters. **Exactly one contradiction existed**,
+and it was in the chapter already being revised: Ch 4's *"the way I had been taught to use them"* —
+he was never taught the listening. Fixed to *"the way I had come round to using them."*
+
+Everything else already agrees, because **the two-mode distinction was already the book's spine**:
+Ch 4 *"I drafted it to win… it no longer has any say in the matter"* · Ch 4 *"a thing that has never
+once been asked"* · Ch 7 and Ch 20 *"most of what my trade is"* · and decisively Ch 29, where Emlyn
+teaches Ren the distinction out loud: **"You're commanding it. You learned that from stone and it has
+served you well."** Only the Ch 4 explanation was wrong.
+
+Listed for a possible follow-up, not changed: Ch 20's *"a kind of surveying"* for what Soren does
+walking the way (it is the boy, not the trade, and Ch 20 was revised the same day).
+
+### Deltas
+
+| file | before | after | delta |
+|---|---|---|---|
+| `01-chapter-one.md` | 4,731 | 4,727 | −4 |
+| `04-ask-for-passage.md` | 3,457 | 3,546 | +89 |
+| `07-wednesdays.md` | 4,180 | 4,309 | +129 |
+| `08-the-lamp-business.md` | 4,119 | 4,266 | +147 |
+| `23-boys-ready.md` | 3,409 | 3,598 | +189 |
+
+`revision-diff` clean on all five. Dialogue preserved everywhere; Ch 8 gained one dialogue paragraph
+(allowed in this mode) because a refusal replaced an explanation.
+
+### Three tics introduced by this pass and caught by the lint
+
+Ch 7 went to 8 `", which is"` tails, 9 similes and 4 generalisations — **all three from my own new
+sentences**: *"which is a lesson a teacher gets handed once"*, *"the way a man learns to shoe a
+horse"*, and *"which are not the same kind of tools"*. Ch 8 added a fourth (*"which was not the same
+as giving her all of it"*). All four recast; every chapter returned to its baseline WARN set. **This
+is the fourth pass in a row in which the `which`-tail has appeared while fixing something else.** It
+is now the engine's most reliable self-inflicted defect and is worth a standing pre-commit habit
+rather than a per-pass catch.
+
+### Rules added, and where they landed
+
+| rule | filed in |
+|---|---|
+| THE TWO MODES (+ 4 locks: alone, not destiny, the grandmother preserved, method-not-talent) | `state/story-bible.md` LOCKED CANON; `references/outline.md` canon appendix |
+| The wizard's cost is in the making; a set working draws externally, never on him | `state/story-bible.md`; `outline.md` |
+| Emlyn does not volunteer the mechanism of his own workings | bible cast (Emlyn); `style-guide.md`; engine P1d |
+| His instruments are an artificer's, never a surveyor's | bible cast; `style-guide.md` LEXICON; engine P1d |
+| Soren's gift is specific, not general | bible cast (Soren); engine P1d |
+| No diminishing self-labels for the practice | engine P1d |
+| The register wants a physical comic beat at the wizard's expense | engine P1d |
+
+`tools/superseded.txt` gained four retired formulations. **One of them needed care:** a bare
+"country wizard" pattern would have flagged `outline.md`'s *"a country wizard is a marvel"*, which is
+correct and says the opposite — so the pattern is the exact self-diminishing formulation only. Two
+further false positives appeared in the new P1d text, which quotes the retired wordings in order to
+retire them; both were reworded so `doc-audit`'s retirement-exclusion catches them. `check.sh docs`
+green.
+
+### An assumption stated for the author to overturn
+
+TC4 sets that a working's cost is in the making. The LUMEN drinks the hill continuously, so the two
+are reconciled as: **the maker's cost is in the making; a set working may draw on an external source
+thereafter, but never on him.** If the intent was that workings genuinely need no source at all, the
+LUMEN and the Series both need a different account.
+
+### Not done
+
+`feedback/*.json` is untouched — the reader app and the sync-bot own resolution state. All ten
+records stay open and are named above so they can be closed in the reader in one batch.

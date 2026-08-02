@@ -335,6 +335,42 @@ conflict. Check every draft and every editing pass against them.
   - **The prologue frame stays light:** conditional "Perhaps I will set it down" over direct
     "You have asked me" — the addressee device is kept latent until the coda.
 
+## P1d — THE 2026-08-02 READER PASS (5 notes on Ch 4, 7, 8; each distilled to its class)
+
+Same standing as P1c: extracted from the author's own notes, and they outrank house style where
+they conflict.
+
+- **[HARD] EMLYN DOES NOT EXPLAIN HIS WORKINGS.** He gave a joiner the full mechanism of the lumen
+  across a shop counter — *"drinks something that lives only under my particular hill."* He would
+  not. To a customer, a neighbour, or anyone who has not earned it, he gives the **outcome** and
+  withholds the **how**. The reader still gets the mechanism, **from the narration**. Check every
+  scene where he answers a question about his trade: if the sentence would work equally well in the
+  narrator's voice, it does not belong in his mouth.
+- **[HARD] NO DIMINISHING SELF-LABELS FOR THE PRACTICE.** The retired formulation was "the work of a
+  country wizard in a small valley" → "the work **available** to a wizard in a small valley." (The
+  bare phrase "country wizard" is fine and stays: the outline's "a country wizard is a marvel" says
+  the opposite and is correct.) He is a rare major talent doing
+  the work a small valley has to offer. Scarcity of *work* is never scarcity of *ability*, and the
+  narrator does not run himself down by class.
+- **[HARD] MAGIC HAS TWO MODES AND YOU MUST KNOW WHICH YOU ARE WRITING.** Conventional practice
+  asserts a will; Emlyn listens and negotiates. He arrived at it alone — no teacher, no tradition,
+  and never phrased as destiny. Any line saying he was *taught* to listen is a canon error. (One was
+  found and fixed in Ch 4, where the retired wording "the way I had been taught to use them" became
+  "the way I had come round to using them".) Full rule in `state/story-bible.md` under THE TWO MODES.
+- **[CRAFT] A CHILD'S GIFT IS SPECIFIC, NOT GENERAL.** Soren was written as *failing* at letters so
+  that his real gift would stand out; the author's correction is that he learns them fast and
+  properly and simply does not go further. **Do not manufacture a deficit to make a talent legible,
+  and do not let quickness at one thing spread into quickness at all things.** The sibling rule is
+  "Soren is a child, not an oracle" (`modes/developmental.md`).
+- **[CRAFT] THE REGISTER WANTS A PHYSICAL COMIC BEAT AT THE WIZARD'S OWN EXPENSE.** A failed
+  experiment reported in summary was asked to become a pratfall: flare, blinded, over backward off
+  the stool, the lamp in pieces, nothing hurt but his dignity. When a failure is narrated rather
+  than played, ask whether the scene wants a body in it. Covenant-safe by construction: the wizard
+  is the only casualty.
+- **[CRAFT] HIS INSTRUMENTS ARE AN ARTIFICER'S.** Calipers, fine files, a small brass scale, a
+  jeweller's glass, levels, gauges, drawn wire — not a surveyor's rods, chains, plumbs and
+  trueing-squares. Customers' surveying sets stay surveying sets; the contrast is the point.
+
 ## P2 — CHARACTER INTRODUCTION & THE ASIDE DISCIPLINE
 
 - **[CRAFT] Introduce people organically, as ambience before acquaintance.** No roll-call, no

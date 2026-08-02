@@ -208,7 +208,33 @@ structure; transmits a *greeting* toward the cellar's NE corner. TWIST (Ch 28 on
 Planewright's Compass, when finally used, points straight DOWN — the hill is adjacent to an
 existing potential plane and has been waiting for someone to notice the door.
 
-**Magic rules.** **Magic is RARE (2026-07-11): practitioners are uncommon and getting rarer — major
+**⚠️ THE TWO MODES — the deepest rule about magic in this book (author, 2026-08-02).**
+**Conventional practice asserts a will on the world through workings.** You find the grain of a
+thing, take hold of it, and tell it what to be, and thereafter it has no say. That is what a working
+*is*, it is the whole of the literature from the first primer up, and it is the discipline Emlyn
+trained in, published in, and withdrew from. **Emlyn's approach is to listen and negotiate** — find
+what a thing already wants and get out of its way earlier than anyone thought to (Ch 20 states it
+plainly; Ch 29 dramatizes it when he tells Ren *"You're commanding it"*). Four locks on this:
+  • **He arrived at it ALONE.** No book taught it, no teacher gave it, no tradition holds it. That is
+    exactly why the literature was useless to him on the hill and why the hill had gone unasked for
+    an age. Never give him a master, a school, or a lineage for the listening.
+  • **It must not become destiny.** The standing Book Two rule is unchanged: the hill waited for **a
+    question**, never for Emlyn personally. He is first to ask because he invented asking, and
+    anyone might have invented it. Contingent, never chosen.
+  • **Brenna's grandmother is NOT overwritten.** She *listened* for forty years — that is perception,
+    and it is hers. Emlyn *negotiates* — that is working. The two are different acts, and the
+    distinction protects her notebooks and her forty years entire.
+  • **The office's interest is in the METHOD, not the size of the talent** (Ch 23). His published
+    notation carries marks for what a thing is doing on its own before you touch it — a mark a
+    discipline of pure will has no use for. This is what makes "the office remains interested"
+    mean what it means, and it deepens the unsigned hand at no cost: someone trained in his notation
+    is someone who learned to listen.
+
+**Magic rules.** **The wizard's cost is in the MAKING** (2026-08-02, from the Ch 1 tracked change
+"eaten more in the making than a lifetime of coal"): a working is expensive to *set* and does not
+thereafter feed on its maker. A set working may still draw on an external source — the LUMEN drinks
+the hill, the Series drinks ambient light — and that is the drawing, not a cost to Emlyn.
+**Magic is RARE (2026-07-11): practitioners are uncommon and getting rarer — major
 talents (Emlyn) very rare, minor talents (Penworth) uncommon; even a slight gift is a real advantage.
 So magic is a rare, PRIZED craft practiced by very few, the Conclave is small, and there is
 exactly one institution of magic, the Conclave, in Vethmark — no rival schools, no secondary academies anywhere (see SETTING & POLITY).** Workings
@@ -350,8 +376,23 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   (magic is rare; see Magic rules), and an **engineer-wizard who makes far better/smaller/refined
   steam-and-artifice devices than the crude world-norm** ("cannot let a made thing alone"; the lumen
   is the exemplar) — limited only by the scarcity of working talent (his own two hands included).
+  **He does NOT volunteer the mechanism of his own workings** (2026-08-02). To a customer, a
+  neighbour, or anyone who has not earned it, he gives the outcome and withholds the how — *"It won't
+  leave my hill. I'm at work on why."* The reader still gets the mechanism, from the NARRATION, never
+  from his mouth. This is the same trait the fallibility arc costs him (Ch 14/21/28); the book now
+  carries both its charm and its price, and neither may be written away.
+  **His own instruments are an ARTIFICER'S, not a surveyor's** (2026-08-02): calipers, fine files, a
+  small brass scale, a jeweller's glass, levels, gauges, drawn wire. Customers' surveying sets stay
+  surveying sets — the contrast is doing work, and Ch 4 states it (*"distant cousins who do not much
+  like to admit the relation; they read the world with rods and chains"*). His draughting schooling
+  is unchanged canon: he was trained to draw buildings and became a man who makes instruments.
 - **Soren**, 10 — village elder's grandson; HEARS the hum; solemn, structural, whole-attention;
   asks questions like "Is that why the Study doesn't fall?"; child logic with dignity, never cute.
+  **His gift is SPECIFIC, not general** (author, 2026-08-02): a savant at numbers and at hearing, and
+  ordinarily competent at everything else. He learned his letters FAST and reads and writes a fair
+  plain hand — better than his grandfather — and that is where it stops, and the stopping is the
+  point. Never let quickness at one thing spread into quickness at all things. (This is the same rule
+  `modes/developmental.md` states as "Soren is a child, not an oracle," now with a worked instance.)
 - **Ren**, 16 — builder's son; FEELS magic through his hands; honest to the grain, distinguishes
   what he knows from what merely sounds right; building metaphors.
 - **Jorin** — master builder; single freighted words ("Good." "Even." "Boy's ready."); aligns
