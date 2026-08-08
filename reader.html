@@ -136,6 +136,19 @@
   .inlineBar .row{margin-top:0}
   .inlineBar .hint{margin:.35rem 0 0}
 
+  /* ---------- direct inline editing (tablet and wider) ----------
+     On a big screen the select -> toolbar -> Edit dance is friction with no
+     purpose: the paragraph is simply editable where it sits. The gate is width
+     AND height, because a phone in landscape is ~900px wide and is the one place
+     this would be worst. Phones are untouched. */
+  :root[data-inline="on"] #book p[data-snip]{cursor:text}
+  :root[data-inline="on"] #book p[data-snip]:not(.editingP):hover{
+    background:var(--editbg);border-radius:4px;
+    box-shadow:0 0 0 6px var(--editbg)}
+  #inlineRow,#inlineHint{display:none}
+  :root[data-inline-avail="1"] #inlineRow{display:flex}
+  :root[data-inline-avail="1"] #inlineHint{display:block}
+
   /* ---------- anchored floating popover: annotate WITHOUT moving the page ----------
      The composer floats over the layout, anchored beside the passage. It is
      position:fixed, so the document never reflows and the scroll position never
@@ -359,6 +372,13 @@
       <button class="segbtn" data-theme-set="dark" aria-label="Dark theme"></button>
     </div>
   </div>
+  <div class="setRow" id="inlineRow"><span class="lbl">Inline editing</span>
+    <div class="seg">
+      <button class="segbtn" data-inline-set="on" aria-label="Inline editing on">On</button>
+      <button class="segbtn" data-inline-set="off" aria-label="Inline editing off">Off</button>
+    </div>
+  </div>
+  <p class="setHint" id="inlineHint">Click any paragraph to edit it where it sits. Saved as a tracked change.</p>
   <div id="ttsSettings">
     <div class="setLbl">Read aloud</div>
     <div class="setRow"><span class="lbl">Speed</span>
@@ -402,7 +422,8 @@
   var KEY_PROGRESS="ardenmoor.progress.v1", KEY_BOOKMARK="ardenmoor.bookmark.v1",
       KEY_FS="ardenmoor.fontsize.v1", KEY_THEME="ardenmoor.theme.v1", KEY_NOTES="ardenmoor.comments.v1",
       KEY_REVS="ardenmoor.revisions.v1", KEY_SECRET="ardenmoor.sync.secret.v1",
-      KEY_MODE="ardenmoor.mode.v1", KEY_RATE="ardenmoor.tts.rate.v1", KEY_VOICE="ardenmoor.tts.voice.v1";
+      KEY_MODE="ardenmoor.mode.v1", KEY_RATE="ardenmoor.tts.rate.v1", KEY_VOICE="ardenmoor.tts.voice.v1",
+      KEY_INLINE="ardenmoor.inlineedit.v1", KEY_INLINE_HINT="ardenmoor.inlineedit.hint.v1";
 
   /* ---------- inline lucide icons (same paths lucide-react ships, 2px stroke) ---------- */
   var ICON={
@@ -706,7 +727,8 @@
      Now: "Edit" turns the paragraph itself editable in place (your selected phrase
      stays selected, ready to retype); "Note" opens a small card directly beneath the
      paragraph. Nothing overlays the text and the scroll position is preserved. */
-  var inlineWidget=null, editingP=null;
+  var inlineWidget=null, editingP=null, editorSave=null;
+  function commitEditor(){ if(editorSave){ var f=editorSave; editorSave=null; f(); } }
   function placeAfter(p, el){ p.parentNode.insertBefore(el, p.nextSibling); }
   function redecorateStable(p){ // re-render without the page appearing to move
     var top=p.getBoundingClientRect().top;
@@ -826,8 +848,54 @@
     });
   }
 
+  /* ---------- caret transfer: rendered click point -> raw-text offset ----------
+     The click lands on RENDERED text (inline() has turned *x* into <em>x</em>, and a
+     revised paragraph renders as a diff carrying deleted words). The editor then
+     replaces all of that with the RAW text, so a plain character offset would drift.
+     So the click is carried as a short context string plus a positional ratio: the
+     context re-finds the spot exactly, and the ratio is the fallback when it cannot
+     (which is mainly the diffed paragraphs, where an approximate caret is accepted). */
+  function caretContextAt(p, x, y){
+    var node=null, off=null;
+    if(document.caretRangeFromPoint){ var r=document.caretRangeFromPoint(x,y); if(r){ node=r.startContainer; off=r.startOffset; } }
+    else if(document.caretPositionFromPoint){ var c=document.caretPositionFromPoint(x,y); if(c){ node=c.offsetNode; off=c.offset; } }
+    var full=p.textContent||"";
+    if(node==null||off==null||!full) return {before:"", ratio:0};
+    var acc=0, found=false;
+    (function walk(n){
+      if(found) return;
+      if(n===node){
+        if(n.nodeType===3) acc+=off;
+        else for(var j=0;j<off&&j<n.childNodes.length;j++) acc+=(n.childNodes[j].textContent||"").length;
+        found=true; return;
+      }
+      if(n.nodeType===3){ acc+=n.nodeValue.length; return; }
+      for(var i=0;i<n.childNodes.length;i++){ walk(n.childNodes[i]); if(found) return; }
+    })(p);
+    if(!found) return {before:"", ratio:0};
+    return { before: full.slice(Math.max(0,acc-18), acc), ratio: acc/full.length };
+  }
+  function placeCaret(p, raw, caret){
+    var node=p.firstChild; if(!node) return;
+    var idx=-1;
+    if(caret&&caret.before){
+      var probe=caret.before;
+      while(probe.length>=4&&idx<0){ idx=raw.indexOf(probe); if(idx<0) probe=probe.slice(1); }
+      if(idx>=0) idx+=probe.length;
+    }
+    if(idx<0&&caret&&caret.ratio>0) idx=Math.round(raw.length*caret.ratio);
+    idx=Math.max(0,Math.min(raw.length,idx<0?0:idx));
+    try{
+      var sel=window.getSelection(), r=document.createRange();
+      r.setStart(node,idx); r.collapse(true);
+      sel.removeAllRanges(); sel.addRange(r);
+    }catch(e){}
+  }
+
   /* ---------- track-changes editor (same data logic; the paragraph edits in place) ---------- */
-  function openEditor(p, seedQuote){
+  function openEditor(p, seedQuote, opts){
+    opts=opts||{};
+    var auto=!!opts.auto;
     closeComposers();
     var chap=p.dataset.chap, s=p.dataset.snip, orig=p.dataset.text||"", existing=findRev(chap,s);
     var raw=existing?(existing.revised||""):orig;
@@ -838,14 +906,18 @@
     p.contentEditable="true"; p.spellcheck=true;
     var bar=document.createElement("div"); bar.className="composer edit";
     bar.contentEditable="false";
-    bar.innerHTML="<div class=\"row\"><button class=\"primary save\">Save revision</button><button class=\"cancel\">Cancel</button>"+
+    bar.innerHTML="<div class=\"row\"><button class=\"primary save\">"+(auto?"Done":"Save revision")+"</button><button class=\"cancel\">Cancel</button>"+
       (existing?"<button class=\"del\">Revert</button>":"")+"</div>"+
-      "<p class=\"hint\">Edit the paragraph right where it sits; clear it out to cut the passage. Saved as a tracked change.</p>";
+      "<p class=\"hint\">"+(auto
+        ? "Click anywhere else to keep it, Esc to discard. Clear it out to cut the passage."
+        : "Edit the paragraph right where it sits; clear it out to cut the passage. Saved as a tracked change.")+"</p>";
     var pop=openPopover(p, bar, "editBar");
     // the paragraph grows/shrinks as it is typed; keep the toolbar anchored to it.
     p.addEventListener("input", function(){ if(inlineWidget===pop) positionPopover(pop, p); });
-    // Put the caret exactly where the reader was: re-select the phrase they chose.
-    try{
+    // Put the caret exactly where the reader was: re-select the phrase they chose,
+    // or (auto mode) drop it at the character they clicked.
+    if(auto) placeCaret(p, raw, opts.caret);
+    else try{
       var node=p.firstChild, sel=window.getSelection(), r=document.createRange();
       if(node){
         var idx=(seedQuote&&seedQuote.length>2)?raw.indexOf(seedQuote):-1;
@@ -861,11 +933,15 @@
       if(pop._teardown) pop._teardown();
       if(pop.parentNode) pop.parentNode.removeChild(pop);
       if(inlineWidget===pop) inlineWidget=null;
-      editingP=null; p.contentEditable="false"; p.classList.remove("editingP");
+      editingP=null; editorSave=null; p.contentEditable="false"; p.classList.remove("editingP");
     }
     function save(){
       var v=p.innerText.replace(/\s+$/,"");
+      var untouched=(v===raw);
       teardown();
+      // Auto mode commits on a click elsewhere, so "clicked in, clicked straight
+      // out" must leave no trace at all: no record, no toast, nothing to undo.
+      if(auto&&untouched){ redecorateStable(p); return; }
       if(v.trim()===orig.trim()){
         if(existing){ deleteRev(chap,s); buildEditsList(); }
         redecorateStable(p); toast("No change from the original"); return;
@@ -873,6 +949,8 @@
       upsertRev(chap,s,orig,v); redecorateStable(p); buildEditsList();
       toast(v.trim()?"Revision saved":"Marked for deletion");
     }
+    // Published so a click elsewhere on the page can commit this editor (auto mode).
+    editorSave=save;
     bar.querySelector(".save").addEventListener("click", save);
     bar.querySelector(".cancel").addEventListener("click", closeInline);
     var del=bar.querySelector(".del");
@@ -909,6 +987,71 @@
   document.addEventListener("touchend", function(){ setTimeout(onSelect,10); });
   selTools.addEventListener("mousedown", function(e){ e.preventDefault(); });
   function consumeSel(){ var p=pendingSel?pendingSel.p:null, q=pendingSel?pendingSel.quote:""; selTools.classList.remove("show"); if(window.getSelection) window.getSelection().removeAllRanges(); return {p:p,q:q}; }
+  /* ---------- direct inline editing (tablet and wider) ----------
+     Click a paragraph and you are editing it; click anywhere else and what you
+     typed is a tracked change. A DRAG-select still belongs to the toolbar above,
+     so notes and bookmarks are untouched: the two are told apart by whether the
+     selection is collapsed. Gated on height as well as width, because a phone in
+     landscape is ~900px wide and is the one place this would be worst. */
+  var MQ_INLINE=window.matchMedia?window.matchMedia("(min-width: 768px) and (min-height: 600px)")
+                                 :{matches:false};
+  var inlinePref=(function(){ try{ return localStorage.getItem(KEY_INLINE)==="off"?"off":"on"; }catch(e){ return "on"; } })();
+  function inlineActive(){ return !!MQ_INLINE.matches && inlinePref==="on" && mode==="review"; }
+  function applyInline(){
+    var avail=!!MQ_INLINE.matches;
+    // The gate can close under an open editor (window narrowed, switched to Read).
+    // Committing beats discarding: the reader typed those words on purpose.
+    if(editingP && !(avail && inlinePref==="on" && mode==="review")) commitEditor();
+    document.documentElement.setAttribute("data-inline-avail", avail?"1":"0");
+    document.documentElement.setAttribute("data-inline", inlineActive()?"on":"off");
+    Array.prototype.forEach.call(document.querySelectorAll("[data-inline-set]"), function(b){
+      b.classList.toggle("active", b.getAttribute("data-inline-set")===inlinePref); });
+    if(inlineActive()){
+      try{
+        if(!localStorage.getItem(KEY_INLINE_HINT)){
+          localStorage.setItem(KEY_INLINE_HINT,"1");
+          setTimeout(function(){ toast("Click any paragraph to edit it — changes are tracked"); }, 1200);
+        }
+      }catch(e){}
+    }
+  }
+  if(MQ_INLINE.addEventListener) MQ_INLINE.addEventListener("change", applyInline);
+  else if(MQ_INLINE.addListener) MQ_INLINE.addListener(applyInline);
+  Array.prototype.forEach.call(document.querySelectorAll("[data-inline-set]"), function(b){
+    b.addEventListener("click", function(){
+      inlinePref=b.getAttribute("data-inline-set")==="off"?"off":"on";
+      try{ localStorage.setItem(KEY_INLINE, inlinePref); }catch(e){}
+      applyInline();
+      toast(inlinePref==="on"?"Inline editing on":"Inline editing off");
+    });
+  });
+
+  var pendingInline=null;
+  /* Capture phase, registered before any popover's own outside-click handler, so the
+     ordering is deterministic: commit the open editor first, then open the new one. */
+  document.addEventListener("pointerdown", function(e){
+    if(!inlineActive()) return;
+    var t=e.target;
+    // The editor's own bar must reach its buttons (Cancel has to still discard).
+    if(t&&t.closest&&(t.closest(".popover")||t.closest("#selTools"))) return;
+    // Resolve by coordinates, not e.target: committing an edit re-renders paragraph
+    // innards, which can detach the node the event was dispatched on.
+    var el=document.elementFromPoint(e.clientX, e.clientY);
+    var p=(el&&el.closest)?el.closest("#book p[data-snip]"):null;
+    if(p&&t&&t.closest&&(t.closest(".noteDot")||t.closest(".editDot"))) p=null;  // dots own their clicks
+    // Read the caret BEFORE committing anything: committing reflows the page.
+    var caret=(p&&p!==editingP)?caretContextAt(p, e.clientX, e.clientY):null;
+    if(editingP&&p!==editingP) commitEditor();
+    pendingInline=(p&&p!==editingP)?{p:p, caret:caret}:null;
+  }, true);
+  document.addEventListener("click", function(){
+    var q=pendingInline; pendingInline=null;
+    if(!q||!inlineActive()||editingP===q.p||!q.p.isConnected) return;
+    var sel=window.getSelection();
+    if(sel&&sel.rangeCount&&!sel.isCollapsed) return;   // a drag-select belongs to the toolbar
+    openEditor(q.p, "", {auto:true, caret:q.caret});
+  });
+
   document.getElementById("btnAddNote").innerHTML=svg("note")+"<span>Note</span>";
   document.getElementById("btnAddEdit").innerHTML=svg("pen")+"<span>Edit</span>";
   document.getElementById("btnAddBookmark").innerHTML=svg("bookmark")+"<span>Mark</span>";
@@ -1275,6 +1418,7 @@
     if(mode==="read"){ btnMode.innerHTML=svg("book")+"<span>Read</span>"; btnMode.setAttribute("aria-label","Reading mode. Switch to review mode."); }
     else { btnMode.innerHTML=svg("pen")+"<span>Review</span>"; btnMode.setAttribute("aria-label","Review mode. Switch to reading mode."); }
     if(mode==="read"){ closeComposers(); selTools.classList.remove("show"); }
+    applyInline();
     if(chapters.length) decorate();
   }
   btnMode.addEventListener("click", function(){ applyMode(mode==="read"?"review":"read"); toast(mode==="read"?"Reading mode":"Review mode"); });
