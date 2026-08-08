@@ -175,6 +175,7 @@ first working SUCCEEDS by asking; crown now readied/sound; NE-corner motif seede
 offset NE); storm-sensitivity of the pulse established (canon groundwork); "attention vs appetite"
 lesson; Soren hears the working ("It said yes"). No LUMEN/Brenna yet.
 ⚠️ REVISED 2026-08-02 (reader note 5 + one tracked change; 3,457→3,546w). THE TWO-MODE REFRAME. The books-paragraph previously gave the wrong reason for their uselessness (that none had been written about a hill like this). The real reason is now stated: every book of the trade, "from the first primer to the papers I had put my own name to, was a book about making the world do a thing… There is a whole fine literature of that and I had spent my life in it, and there is not a page in the whole of it about ground that answers you back." The drafted-it-to-win paragraph already enacted this and is untouched; the surveyor's-compendium paragraph already draws the trade line and is kept as an asset. ALSO: a canon error found and fixed — "the way I had been taught to use them" became "the way I had come round to using them" (he arrived at listening ALONE). Tracked change: "the crown is flat as a table" → "flat enough".
+⚠️ WIDENED 2026-08-08 (the grain, seeded; 3,546→3,617w). The books-paragraph now sets the ORDINARY case before the strange one: "Every place has one; that is not a remarkable claim, it is the first page of the first primer. A field has a grain and a quarry has a grain and the floor of the sea has a grain, and in all of them it lies still under the hand and takes the shape it is given and makes nothing of it, there being nothing there to make anything of anything." The trade already used "the grain of a place" for what a working grips; this establishes that it is inert everywhere else, which is what makes this hill inferable as a convergence without anyone saying so.
 
 [05] Good — Emlyn hires Jorin (against village advice) at his tidy yard; Jorin will build on no
 man's word and comes up to TEST the ground himself (drives a bar, digs a shoulder-deep hole, smells
@@ -482,6 +483,7 @@ the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on 
 (dark red, fist-shaped, 3 weeks); Brenna's cottage interior + cold cellar established; keeper plant
 SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
 device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open). **REVISED 2026-07-15 : Brenna CALLS HIM OUT as shaken in the cellar** ("you've gone grey as that wall… I'll not be told it's nothing"); Emlyn stays cautious/silent, she respects the boundary but won't accept the lie, and he's glad of "the one person who will not let you get away with yourself." Candor stays PARTIAL/cautious.
+⚠️ WIDENED 2026-08-08 (the grain, seeded; 4,139→4,238w). THE KEYSTONE OF THE PASS. The grandmother had names for both endpoints and none for the medium; she now has one, in her own register and placed BEFORE the Singer/Listener quote so Brenna's echo of that quote is untouched: "the sound did not sit in the hill the way water sits in a bowl. It lay along something… She called it the grain. She wrote of listening along the grain and across it, and of the sound coming truer one way than the other, as a countrywoman speaks of a board or a cut of cloth." With that word in place, Ch 15's oak night and Ch 24's bearing become evidence of one thing instead of two oddities.
 
 [12] What Tomas Carried — Early summer Yr2 (~15 mo elapsed). The CONFESSION chapter, a tight
 two-hander (1,908w). Emlyn comes to Tomas's forge at dusk for four brass lamp-collars (the lamp
@@ -572,6 +574,7 @@ on: **"You have not been hiding here. You have been living here… I should have
 last of the city money). CLOSING (image+reflection): he sets a SECOND blank beside the first and gets
 on with Kellard's collars — "A man can carry a wonder and a deadline at the same time." Fixed a POV
 slip ("a man Emlyn's own age" → "my own age") and trimmed 4 which-tails. prose-lint clean.
+⚠️ WIDENED 2026-08-08 (the grain, seeded; 4,117→4,217w). The thirty-day drift read as being about Emlyn; the skeptic now says the flat version aloud: "there was nothing in those figures about me. Ground that leans toward a sleeping man would lean toward any sleeping man… if Cael's father had lain up on that crown for thirty nights with an instrument in his hands instead of a trowel, he might have carried down the same column of numbers." **This is what keeps the destiny lock airtight** — the reactivity is a property of the place, not a preference for the man. "The hill was learning me" is untouched.
 
 [Interlude II] — Predawn, hill register (597w). The hill has met, in the recording blank, a thing that
 KEEPS its risings (less alone in the dark). It holds the new small closed weight (the chest) in the
@@ -740,6 +743,7 @@ degree, rising through the cellar's NE corner (the chest): notation "salutation,
 Her forty years and his instruments laid one above the other; NO conclusion drawn. Second stone
 lifted and cased; THIRD BLANK set with NO term. CLOSE: doorway before dawn, forge light burning
 early below, "I live on top of a word."
+⚠️ WIDENED 2026-08-08 (the grain, seeded; 4,252→4,368w). After the bearing lands on the northeast corner, one paragraph sets the dead woman's ear beside the instrument and stops there: "A line. Not a spreading, not a swelling… I thought while I sat there of a dead woman with no instrument but her own ears writing that the sound lay along something… calling it the grain because she had needed a word and that was the word to hand. She had heard the direction of it forty years before I measured the angle of it. I set that down beside my figures without comment, which is where it belongs and where I have left it." **Evidence stacked, conclusion refused** — the same posture as the chapter's existing "declining, as a professional matter, to use the word for it."
 
 [25] THE FORK AND THE PAPER (late spring Yr3, ~2,500w) — needing hands that are not his own
 (finding 1 makes his palm a compromised instrument), Emlyn borrows Ren with Jorin's "Ask him."

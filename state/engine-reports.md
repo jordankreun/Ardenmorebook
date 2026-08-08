@@ -914,3 +914,97 @@ LUMEN and the Series both need a different account.
 
 `feedback/*.json` is untouched — the reader app and the sync-bot own resolution state. All ten
 records stay open and are named above so they can be closed in the reader in one batch.
+
+---
+
+## THE GRAIN AND THE KNOT — seeding the mechanism (2026-08-08)
+
+**Mode: developmental.** Author brief: what is under the hill is a convergence of the lines magic
+lies along; the term grows from the book's own word, **the grain**, with **a knot** for the
+convergence; Book One carries **evidence only, never the conclusion**; seed it properly.
+
+caused-by: the author settled the mechanism behind the Book One twist. The compass points down
+because the hill is a knot — a point where the grain converges, hypersensitive and reactive to
+workings, which is both why nothing ever stayed built on that crown and why a door is possible there.
+A phenomenon, not a being.
+
+### The finding that sized the job
+
+**The book had already written most of it**, not by plan but because the drafting was consistent.
+Before proposing a single change:
+
+- Ch 24 already ties the reactivity to the work done there — *"the change beginning in a small way
+  about the time the Study was finished and accelerating from the winter of the glasshouse"* — and
+  already has Emlyn *"declining, as a professional matter, to use the word for it."* The requested
+  posture was the posture he already held.
+- Ch 24 already rendered the record as *"pressure and grain under the skin"*; Ch 4 already had *"You
+  find the grain of a place, and you take hold of it, and you tell it what to be"*; Ch 15 already had
+  *"a skeptic by trade and by the grain of me."* The term was native three ways over.
+- Ch 15 already measured a run between two points (the oak night).
+- Interlude I already carried the past instability as reactivity to imposition.
+- **The three interludes were already phenomenon, not being** — *"It does not know what they are"*,
+  *"neither triumph nor sorrow"*, *"The hill does not understand this. It does not need to"*, *"The
+  hill is not troubled."* **They needed no rewriting**, which was the whole risk in this decision.
+
+So "seed it properly" wanted surgery in four places, not thirty.
+
+### The four additions
+
+| file | before | after | what it adds |
+|---|---|---|---|
+| `04-ask-for-passage.md` | 3,546 | 3,617 | the ordinary case: every place has a grain, and everywhere else it is inert |
+| `11-the-listener-and-the-singer.md` | 4,139 | 4,238 | **the keystone** — the grandmother's word for the medium |
+| `15-midsummer-reading.md` | 4,117 | 4,217 | the reactivity is the place's, not the man's |
+| `24-the-reading.md` | 4,252 | 4,368 | her ear laid beside his bearing, conclusion refused |
+| **total** | 16,054 | 16,440 | **+386 words** |
+
+Ch 11 is the keystone because she had names for both endpoints (Singer, Listener) and none for what
+the song ran along. It is placed **before** the Singer/Listener quote so Brenna's spoken echo of that
+quote is untouched.
+
+Ch 15's addition is the one that protects the destiny lock: *"Ground that leans toward a sleeping man
+would lean toward any sleeping man."* A knot is an accident of place; anyone might have asked.
+
+### Held to
+
+- **"Knot" is never used of the hill.** Ch 7's cold-spot simile stays the book's only use and is now
+  the quiet plant. Nothing points at it.
+- **No conclusion anywhere.** Ch 24's new paragraph ends *"I set that down beside my figures without
+  comment, which is where it belongs and where I have left it."*
+- No maps, no measured power, no systematisation (Module 0).
+- The interludes and `*At last.*` untouched.
+
+### WARNs
+
+Every touched file holds its **baseline** WARN set exactly: Ch 4 unchanged (8 tails, 9 similes, 3%
+dialogue; density 122→124 from the added words), Ch 11 and Ch 15 clean before and after, Ch 24
+unchanged (0% dialogue vouched, one pre-existing aphorism-weld). Adjacent-chapter echoes on Ch 4 and
+Ch 24 are pre-existing phrases, verified not introduced here. **No new tics** — the first pass in five
+where the `", which is"` tail did not appear in my own new sentences.
+
+### Two live contradictions found and fixed
+
+1. **`outline.md` Ch 26 beat said "the hill is aware, it has been learning him, it was waiting before
+   either of them came."** Under phenomenon-canon that is wrong on two counts. Reworded to what the
+   two men have actually observed, with a note that neither has the mechanism.
+2. **The SERIES PREMISE** called the hill "old, aware" and Emlyn "the only living person with the
+   architecture of mind to open it" — a chosen-one formulation one drift from breaking the destiny
+   lock. Now "old, reactive", and the only person who has built the instrument that can find a door.
+
+Both patterns went into `superseded.txt`, which then caught my own retirement notes quoting the dead
+wordings; reworded so `doc-audit`'s exclusion sees them. `check.sh docs` green.
+
+### Two carried items closed in the same pass
+
+- **The sourcing rule.** The bible and outline still said a set working draws externally "but never on
+  him" — wrong, flagged as an assumption at the time, and overturned by the author. Both now carry the
+  real rule: making costs the maker; running needs a source, either **the wielder** (so a working needs
+  a talent to run at all, which is why artifice rarely reaches ordinary hands) or **something
+  external**, which predates Emlyn and is rare and unpopular because the rich sources are alive and can
+  only be given, not taken. The LUMEN is bound to one hill because it drinks a knot; the Series is
+  portable because daylight is everywhere.
+- **The meal convention.** Dinner is the midday meal, supper the evening one; "lunch" does not exist.
+  The manuscript was already fully consistent (zero uses of "lunch"; Ch 2 states it on the page; all
+  6 `dinner` and 12 `supper` uses obey), but the rule was written nowhere. Now in the style guide's
+  LEXICON **and enforced**: a new `prose-lint` FAIL, proven to fire on a planted "lunch" and to leave
+  all 37 chapters clean.

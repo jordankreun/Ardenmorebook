@@ -32,9 +32,12 @@ Everything else is **open**. Treat the beats as a well-stocked pantry, not a rec
 
 A grieving wizard buys a hill no one has ever managed to build on and slowly raises a tower there,
 not as a fortress but as a home. Each book covers a stretch of the tower's growth and the deepening
-mystery of the hill beneath it, which is old, aware, and was waiting for something before he ever
-arrived. The series arc: the hill is adjacent to a door, an existing potential plane, and the
-wizard is the only living person with the architecture of mind to open it. The cozy register never
+mystery of the hill beneath it, which is old, reactive, and had been answering nothing in particular
+long before he arrived. The series arc: the hill is a knot in the grain and so sits against a door,
+an existing potential plane, and the wizard is the only living person who has built the instrument
+that can find one. (Both wordings here were retired 2026-08-08. The old "aware" implied a being,
+which the hill is not; and the old chosen-one phrasing of who could open the door is retired because
+the destiny lock forbids it. Both patterns are in `tools/superseded.txt`.) The cozy register never
 breaks; the stakes grow by becoming more *personal*, not more apocalyptic.
 
 **Book One spans TWO YEARS** (locked 2026-07-14, session-lock #10): arrival in the spring of Year
@@ -314,9 +317,11 @@ weights now, and the great one; it practices the shape of a word it has no mouth
 ## PART IV — YEAR 3, SPRING → SOLSTICE (Ch 20–29; timeline confirmed 2026-07-28: glasshouse finishes midwinter Yr2→3, thaw = spring Yr3, fire early winter Yr3, needle at solstice Yr3)
 
 **Ch 26 — Keeping the Promise.** Tomas gets the true shape (not everything; the chest and compass
-stay Emlyn's): the hill is aware, it has been learning him, it was waiting before either of them
-came; Tomas was never mad and never alone. "Waiting for what?" — "I don't know yet. But I'll keep
-the promise as long as it keeps being true."
+stay Emlyn's): the hill answers, it has been learning his hand, and it was doing so long before
+either of them came; Tomas was never mad and never alone. "Waiting for what?" — "I don't know yet.
+But I'll keep the promise as long as it keeps being true." (Reworded 2026-08-08: what Tomas is told
+is what the two of them have *observed*. Neither man has the mechanism, and the hill is not a being
+that waits.)
 
 **Ch 27 — The Delicate Conversation.** The apprenticeship negotiation, the relational climax.
 Jorin's conditions in his own grammar: the boy finishes what he builds; the boy is not taken from
@@ -384,9 +389,11 @@ door the ground itself has been asking you to open?
 
 ## CANON APPENDIX (locked facts — do not contradict)
 
+**⚠️ THE GRAIN AND THE KNOT (author, 2026-08-08 — what is under the hill; full text in the story bible):** magic is ambient and everywhere in roughly even distribution, and in any place it lies along that place's **grain**. Almost everywhere the grain is inert. **Where it converges you get a knot**: a point hypersensitive and reactive to workings. A knot is a **phenomenon, not a being** — it reacts, it never intends or waits for anyone. That reactivity is the old instability: push a knot and it gives the pushing back, which is why nothing ever stayed set on that crown. And a knot thins the architecture enough that an existing potential plane becomes possible there, which is why the compass points down. **Book One carries evidence only** — the grandmother's word for the medium, the measurements, the reactivity — and never the conclusion; "knot" is never used of the hill.
+
 **⚠️ Magic has TWO MODES (author, 2026-08-02 — the deepest rule; full text in the story bible):** conventional practice **asserts a will on the world through workings** — find the grain, take hold, tell it what to be, and thereafter it has no say; that is the entire literature and the discipline Emlyn trained, published in, and left. **Emlyn listens and negotiates**: finds what a thing already wants and gets out of its way earlier than anyone thought to. He arrived at it **alone** — no teacher, no school, no tradition — which is why the books were useless on the hill and why the hill had gone unasked. It is never destiny (the hill waited for *a question*, not for him). Brenna's grandmother **listened**, which is perception; she did not **negotiate**, which is working. The Conclave's standing interest is in his **method and his notation**, not the size of his talent.
 
-**Magic:** the wizard's cost is in the **making** — a set working does not thereafter feed on its maker, though it may draw on an external source (the LUMEN drinks the hill; the Series drinks ambient light). Workings have cost and require rest; wards *ask* rather than insist when well-made; reshaping wards perform excavation/leveling; enchantment binds function into prepared objects (LUMEN lamps: layered blanks — architecture, sensitivity lattice, binding — then housed in metal fittings); sensitivity manifests as hearing, feeling, or seeing, and they don't always correlate; sensitized paper records a person's arcane signature; a resonance fork tuned to the hill's baseline can call an answer from it. Planewright work concerns the architecture of planes; Emlyn's published papers deliberately omit ~70% of his demiplane working because extending it incomplete causes lethal interior collapse. The **Planewright's Compass** — his own making, unknown to the Conclave — identifies *existing potential* planes.
+**Magic — sourcing (corrected 2026-08-08):** MAKING a working costs the maker heavily and separately. RUNNING one needs a source, and there are two: **the wielder** (the ordinary way — so a working needs a talent to run at all, which is why most artifice never reaches ordinary hands), or **something external**. External sourcing predates Emlyn but is **rare and unpopular**, because the rich sources are alive and can only be given, not taken, and a discipline of pure will is bad at asking. Emlyn brought the asking-method to that abandoned branch (the LUMEN, bound to one hill because it drinks a knot) and then aimed it at a source that exists everywhere, daylight (the Series). The earlier wording that a set working "never" draws on its maker is retired. Workings have cost and require rest; wards *ask* rather than insist when well-made; reshaping wards perform excavation/leveling; enchantment binds function into prepared objects (LUMEN lamps: layered blanks — architecture, sensitivity lattice, binding — then housed in metal fittings); sensitivity manifests as hearing, feeling, or seeing, and they don't always correlate; sensitized paper records a person's arcane signature; a resonance fork tuned to the hill's baseline can call an answer from it. Planewright work concerns the architecture of planes; Emlyn's published papers deliberately omit ~70% of his demiplane working because extending it incomplete causes lethal interior collapse. The **Planewright's Compass** — his own making, unknown to the Conclave — identifies *existing potential* planes.
 
 **The hill:** hums sub-harmonically; pulses at dusk and predawn; responds to storms; cooperates with workings that ask; defeated all building attempts before Emlyn (Cael's father, forty years ago); in conversation with the old oak longer than living memory; per Phase Two, carries Emlyn's specific shape, is developing structure in the predawn pulse, and transmits a *greeting* toward the cellar's northeast corner.
 

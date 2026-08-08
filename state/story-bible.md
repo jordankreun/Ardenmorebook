@@ -208,6 +208,38 @@ structure; transmits a *greeting* toward the cellar's NE corner. TWIST (Ch 28 on
 Planewright's Compass, when finally used, points straight DOWN — the hill is adjacent to an
 existing potential plane and has been waiting for someone to notice the door.
 
+**⚠️ THE GRAIN AND THE KNOT — what is under the hill (author, 2026-08-08).**
+Magic is **ambient and everywhere, in roughly even distribution** (Ch 1 already says it: *"There is
+no shortage of magic in the world; it is short of people who can work it"*). In any place it lies
+along that place's **grain**. Ordinarily the grain is inert: it takes the shape a working gives it
+and makes nothing of it. **Where the grain converges you get a KNOT** — a point unusually sensitive
+and *reactive to workings*. Four locks:
+  • **A knot is a PHENOMENON, not a being.** It reacts; it does not intend, prefer, choose or wait
+    for anyone. The interludes already hold this exactly and must keep it: *"It does not know what
+    they are."* / *"neither triumph nor sorrow. Only the grain having its way."* / *"The hill does
+    not understand this. It does not need to."* / *"The hill is not troubled."* Never add intention.
+  • **The reactivity IS the instability.** Push a knot and it gives the pushing back — which is why
+    nothing set on that crown ever stayed set, and why Cael's father's four square walls failed.
+    Interlude I states the mechanism: *"a shape forced down against the grain, a telling. The hill
+    did to it what it does to all pushing."* Ask instead, and it accommodates. This is the same law
+    as THE TWO MODES below; they are one system, not two.
+  • **The reactivity scales with working done there**, not with the man doing it. Ch 24's record
+    accelerates "from the winter of the glasshouse". Ch 15 now says the flat version aloud: *"Ground
+    that leans toward a sleeping man would lean toward any sleeping man."* This is what keeps the
+    destiny lock airtight — a knot is an accident of place, and anyone might have asked.
+  • **A knot is why a door is POSSIBLE there.** The convergence thins what a planewright would call
+    the architecture, which is why an existing potential plane sits under Ardenmoor and why the
+    compass points down. The knot does not *make* the door; it makes the door possible.
+
+**BOOK ONE CARRIES EVIDENCE ONLY, NEVER THE CONCLUSION** (author, 2026-08-08). The word "knot" is
+**never used of the hill** — Ch 7's cold-spot simile (*"the way a knot grows in a tree, around a
+small original wrongness"*) is the only use in the book and is the quiet plant; nothing may point at
+it. Emlyn assembles the observations and declines to name the mechanism, exactly as Ch 24 already has
+him *"declining, as a professional matter, to use the word for it."* The grandmother supplies the
+word **grain** for the medium (Ch 11), and Ch 24 lays her ear against his instrument without drawing
+a conclusion. The reader may get there first. **No maps of the grain, no measured "power", nothing
+that turns the practice into a spreadsheet** (Module 0).
+
 **⚠️ THE TWO MODES — the deepest rule about magic in this book (author, 2026-08-02).**
 **Conventional practice asserts a will on the world through workings.** You find the grain of a
 thing, take hold of it, and tell it what to be, and thereafter it has no say. That is what a working
@@ -230,10 +262,24 @@ plainly; Ch 29 dramatizes it when he tells Ren *"You're commanding it"*). Four l
     mean what it means, and it deepens the unsigned hand at no cost: someone trained in his notation
     is someone who learned to listen.
 
-**Magic rules.** **The wizard's cost is in the MAKING** (2026-08-02, from the Ch 1 tracked change
-"eaten more in the making than a lifetime of coal"): a working is expensive to *set* and does not
-thereafter feed on its maker. A set working may still draw on an external source — the LUMEN drinks
-the hill, the Series drinks ambient light — and that is the drawing, not a cost to Emlyn.
+**Magic rules — SOURCING (author, corrected 2026-08-08).** **Making** a working costs the maker
+heavily and separately; that is what the Ch 1 arithmetic measures ("eaten more in the making than a
+lifetime of coal"). **Running** one needs a source, and there are exactly two:
+  • **The wielder.** The ordinary way. The working feeds on whoever is using it, so it needs a talent
+    to run at all — which is why most artifice is useless in ordinary hands, and why Emlyn's
+    self-sourcing lamps were "the first thing in my life that a great many people were going to be
+    able to use."
+  • **Something external.** This **predates Emlyn** and is **rare and unpopular**, for the reason Ch 8
+    already gives: the rich sources are alive and *"you cannot take from a living thing, you can only
+    be given by it"*, and a discipline built on asserting will is bad at asking. The sources that can
+    simply be taken are thin. The field tried it, found it needed a skill it had no use for, and
+    turned away.
+  Emlyn's contribution is one move with two halves: he brought the asking-method to the abandoned
+  branch, which made external sourcing reliable (the LUMEN, still bound to one hill because it drinks
+  a knot), then pointed it at a source that exists everywhere, ordinary daylight, which made it
+  portable (the Series). That is why it sells.
+  *(This entry previously read that a set working draws externally "but never on him". That was
+  wrong, was flagged as an assumption at the time, and the author overturned it.)*
 **Magic is RARE (2026-07-11): practitioners are uncommon and getting rarer — major
 talents (Emlyn) very rare, minor talents (Penworth) uncommon; even a slight gift is a real advantage.
 So magic is a rare, PRIZED craft practiced by very few, the Conclave is small, and there is

@@ -120,6 +120,12 @@ for f in "$@"; do
   n=$(grep -o '–\| -- ' "$f" | wc -l | tr -d ' ')
   if [ "$n" -gt 0 ]; then echo "  FAIL  en dashes / ' -- ': $n (house rule: zero; the em-dash reversal did not extend to these)"; status=1; fi
 
+  # MEALS (2026-08-08): dinner is the MIDDAY meal, supper is the evening one. "Lunch"
+  # does not exist in this world. Zero uses in the book at the time this was added, so
+  # the check costs nothing and can only catch a future drift.
+  n=$(grep -oiE '\blunch(es|eon|eons|time)?\b' "$f" | wc -l | tr -d ' ')
+  if [ "$n" -gt 0 ]; then echo "  FAIL  \"lunch\": $n (the midday meal is DINNER here, the evening one SUPPER; see the style guide's MEALS entry)"; status=1; fi
+
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then
     for p in 'this account' 'set this down' 'setting this down' 'the tellers' \

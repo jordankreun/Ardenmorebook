@@ -57,7 +57,8 @@ Format: `thread | planted | last watered | state | note`
     the unsigned hand / "who had leisure" | Ch 28 | Ch 31 | BANKED | stopped when the inquiry began; filed in the sticking drawer
     the fire's cause                     | Ch 30 | Ch 30 | BANKED | deliberately permanent: "Some mornings don't."
     the crates / spring with Hesper      | Ch 13 | Ch 31 | OPEN   | the journey is promised, not taken
-    the oak's line of attention          | Ch 6  | Ch 25b| OPEN   | "two open questions on that hill and not one"
+    the grain / what the song runs along | Ch 11 | Ch 24 | BANKED | the grandmother's word for the medium (Ch 11); Ch 4 sets the ordinary case; Ch 15 makes the reactivity impersonal; Ch 24 lays her ear against his bearing and draws no conclusion. The mechanism (a knot) is NEVER named in Book One. Deliberately held for Book Two.
+    the oak's line of attention          | Ch 6  | Ch 24 | OPEN   | "two open questions on that hill and not one"; watered 2026-08-08 — Ch 15's oak night is now legible as a run of the grain, but nothing is paid
     the keeper plant's original charge   | Ch 11 | Ch 28 | OPEN   | "a keeping I never learned the start of"
     one grandmother or two               | Ch 6  | Ch 24 | OPEN   | "some questions keep better than they answer"
     the third blank, no term             | Ch 24 | Ch 24 | OPEN   | set with no term, entered in the register as open
