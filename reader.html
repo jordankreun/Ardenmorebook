@@ -141,13 +141,21 @@
      purpose: the paragraph is simply editable where it sits. The gate is width
      AND height, because a phone in landscape is ~900px wide and is the one place
      this would be worst. Phones are untouched. */
-  :root[data-inline="on"] #book p[data-snip]{cursor:text}
-  :root[data-inline="on"] #book p[data-snip]:not(.editingP):hover{
-    background:var(--editbg);border-radius:4px;
-    box-shadow:0 0 0 6px var(--editbg)}
-  #inlineRow,#inlineHint{display:none}
-  :root[data-inline-avail="1"] #inlineRow{display:flex}
-  :root[data-inline-avail="1"] #inlineHint{display:block}
+  :root[data-inline="on"] #book p[data-snip]{cursor:text;touch-action:manipulation}
+  /* touch-action:manipulation stops the browser eating the second tap of a
+     double-tap as a zoom gesture. Hover styling is for pointing devices only. */
+  @media (pointer: fine){
+    :root[data-inline="on"] #book p[data-snip]:not(.editingP):hover{
+      background:var(--editbg);border-radius:4px;
+      box-shadow:0 0 0 6px var(--editbg)}
+  }
+
+  /* On touch the editor bar DOCKS to the bottom of the visual viewport, so it
+     rides on top of the soft keyboard instead of floating over the text. */
+  .popover.docked{width:auto;border-radius:12px 12px 0 0;
+    border-left:0;border-right:0;border-bottom:0;
+    box-shadow:0 -8px 28px var(--shadow)}
+  .popover.docked .caret{display:none}
 
   /* ---------- anchored floating popover: annotate WITHOUT moving the page ----------
      The composer floats over the layout, anchored beside the passage. It is
@@ -805,6 +813,15 @@
     var m=8, vp=window.visualViewport;
     var vw=vp?vp.width:window.innerWidth, vh=vp?vp.height:window.innerHeight;
     var ox=vp?vp.offsetLeft:0, oy=vp?vp.offsetTop:0;
+    // Docked (touch): sit on the bottom edge of the VISUAL viewport, which is the
+    // top of the soft keyboard. No anchoring, no flipping — a fixed shelf.
+    if(pop.classList.contains("docked")){
+      pop.style.left=Math.round(ox)+"px";
+      pop.style.width=Math.round(vw)+"px";
+      pop.style.maxHeight="";
+      pop.style.top=Math.round(oy+vh-pop.offsetHeight)+"px";
+      return;
+    }
     var pw=pop.offsetWidth, ph=pop.offsetHeight;
     var r=anchor.getBoundingClientRect();
     var left=r.left;
@@ -970,9 +987,36 @@
       "<p class=\"hint\">"+(auto
         ? "Click anywhere else to keep it, Esc to discard. Clear it out to cut the passage."
         : "Edit the paragraph right where it sits; clear it out to cut the passage. Saved as a tracked change.")+"</p>";
-    var pop=openPopover(p, bar, "editBar");
+    var docked=auto&&isTouch();
+    var pop=openPopover(p, bar, "editBar"+(docked?" docked":""));
     // the paragraph grows/shrinks as it is typed; keep the toolbar anchored to it.
     p.addEventListener("input", function(){ if(inlineWidget===pop) positionPopover(pop, p); });
+    /* Docked: the soft keyboard eats the bottom of the screen AFTER focus, so
+       re-anchor once it has animated in and scroll the caret into what is left.
+       Uses the range's own rect, so it follows the line being typed rather than
+       the whole paragraph, which on a phone is usually taller than the gap. */
+    if(docked){
+      var settle=function(){
+        if(inlineWidget!==pop) return;
+        positionPopover(pop, p);
+        var vp=window.visualViewport, oy=vp?vp.offsetTop:0;
+        var floor=pop.getBoundingClientRect().top-10, ceil=oy+64;
+        var c=null;
+        try{
+          var s=window.getSelection();
+          if(s&&s.rangeCount){ var b=s.getRangeAt(0).getBoundingClientRect(); if(b&&(b.top||b.bottom)) c=b; }
+        }catch(err){}
+        if(!c) c=p.getBoundingClientRect();
+        if(c.bottom>floor) window.scrollBy(0, c.bottom-floor);
+        else if(c.top<ceil) window.scrollBy(0, c.top-ceil);
+      };
+      setTimeout(settle, 80); setTimeout(settle, 340);
+      p.addEventListener("input", settle);
+      if(window.visualViewport){
+        window.visualViewport.addEventListener("resize", settle);
+        pop._unsettle=function(){ window.visualViewport.removeEventListener("resize", settle); };
+      }
+    }
     // Put the caret exactly where the reader was: re-select the phrase they chose,
     // or (auto mode) drop it at the character they clicked.
     if(auto) placeCaret(p, raw, opts.caret);
@@ -990,6 +1034,7 @@
       // Remove the WHOLE popover shell, not just the button bar inside it;
       // removing only the bar left an empty white pill floating on the page.
       if(pop._teardown) pop._teardown();
+      if(pop._unsettle) pop._unsettle();
       if(pop.parentNode) pop.parentNode.removeChild(pop);
       if(inlineWidget===pop) inlineWidget=null;
       editingP=null; editorSave=null; p.contentEditable="false"; p.classList.remove("editingP");
@@ -1052,30 +1097,36 @@
      so notes and bookmarks are untouched: the two are told apart by whether the
      selection is collapsed. Gated on height as well as width, because a phone in
      landscape is ~900px wide and is the one place this would be worst. */
-  var MQ_INLINE=window.matchMedia?window.matchMedia("(min-width: 768px) and (min-height: 600px)")
-                                 :{matches:false};
+  /* The trigger is chosen by INPUT, not by screen size. A mouse gets a single
+     click. Touch gets a double-tap, because a stray tap must never throw up the
+     keyboard — and because LONG-PRESS is not available to us: the browser owns it
+     for text selection, which is what feeds the Note/Edit/Mark toolbar. */
+  var MQ_COARSE=window.matchMedia?window.matchMedia("(pointer: coarse)"):{matches:false};
+  function isTouch(){ return !!MQ_COARSE.matches; }
   var inlinePref=(function(){ try{ return localStorage.getItem(KEY_INLINE)==="off"?"off":"on"; }catch(e){ return "on"; } })();
-  function inlineActive(){ return !!MQ_INLINE.matches && inlinePref==="on" && mode==="review"; }
+  function inlineActive(){ return inlinePref==="on" && mode==="review"; }
+  function inlineGesture(){ return isTouch()?"Double-tap":"Click"; }
   function applyInline(){
-    var avail=!!MQ_INLINE.matches;
-    // The gate can close under an open editor (window narrowed, switched to Read).
-    // Committing beats discarding: the reader typed those words on purpose.
-    if(editingP && !(avail && inlinePref==="on" && mode==="review")) commitEditor();
-    document.documentElement.setAttribute("data-inline-avail", avail?"1":"0");
+    // Inline editing can switch off under an open editor (mode flipped to Read,
+    // or the toggle turned off). Committing beats discarding: the reader typed
+    // those words on purpose.
+    if(editingP && !inlineActive()) commitEditor();
     document.documentElement.setAttribute("data-inline", inlineActive()?"on":"off");
     Array.prototype.forEach.call(document.querySelectorAll("[data-inline-set]"), function(b){
       b.classList.toggle("active", b.getAttribute("data-inline-set")===inlinePref); });
+    var hint=document.getElementById("inlineHint");
+    if(hint) hint.textContent=inlineGesture()+" any paragraph to edit it where it sits. Saved as a tracked change.";
     if(inlineActive()){
       try{
         if(!localStorage.getItem(KEY_INLINE_HINT)){
           localStorage.setItem(KEY_INLINE_HINT,"1");
-          setTimeout(function(){ toast("Click any paragraph to edit it — changes are tracked"); }, 1200);
+          setTimeout(function(){ toast(inlineGesture()+" any paragraph to edit it — changes are tracked"); }, 1200);
         }
       }catch(e){}
     }
   }
-  if(MQ_INLINE.addEventListener) MQ_INLINE.addEventListener("change", applyInline);
-  else if(MQ_INLINE.addListener) MQ_INLINE.addListener(applyInline);
+  if(MQ_COARSE.addEventListener) MQ_COARSE.addEventListener("change", applyInline);
+  else if(MQ_COARSE.addListener) MQ_COARSE.addListener(applyInline);
   Array.prototype.forEach.call(document.querySelectorAll("[data-inline-set]"), function(b){
     b.addEventListener("click", function(){
       inlinePref=b.getAttribute("data-inline-set")==="off"?"off":"on";
@@ -1103,12 +1154,26 @@
     if(editingP&&p!==editingP) commitEditor();
     pendingInline=(p&&p!==editingP)?{p:p, caret:caret}:null;
   }, true);
-  document.addEventListener("click", function(){
+  var lastTap={t:0,x:0,y:0,p:null};
+  document.addEventListener("click", function(e){
     var q=pendingInline; pendingInline=null;
     if(!q||!inlineActive()||editingP===q.p||!q.p.isConnected) return;
     var sel=window.getSelection();
     if(sel&&sel.rangeCount&&!sel.isCollapsed) return;   // a drag-select belongs to the toolbar
-    openEditor(q.p, "", {auto:true, caret:q.caret});
+    if(!isTouch()){ openEditor(q.p, "", {auto:true, caret:q.caret}); return; }
+    // Touch: the FIRST tap only remembers where and when. The second tap does the
+    // work, and it must call openEditor -> p.focus() SYNCHRONOUSLY, because iOS
+    // raises the soft keyboard only for a focus that happens inside the gesture's
+    // own handler. Nothing here may be deferred to a timer.
+    var now=Date.now();
+    var near = lastTap.p===q.p &&
+               Math.abs(e.clientX-lastTap.x)<=24 && Math.abs(e.clientY-lastTap.y)<=24;
+    if(near && now-lastTap.t<=350){
+      lastTap={t:0,x:0,y:0,p:null};
+      openEditor(q.p, "", {auto:true, caret:q.caret});
+      return;
+    }
+    lastTap={t:now, x:e.clientX, y:e.clientY, p:q.p};
   });
 
   document.getElementById("btnAddNote").innerHTML=svg("note")+"<span>Note</span>";
