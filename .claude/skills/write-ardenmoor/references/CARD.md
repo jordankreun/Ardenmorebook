@@ -63,6 +63,7 @@ purpose if it says so. A clean tool run means "no known drift", never "this is g
 | places, directions, distances | `state/geography.md` |
 | how to write it (binding locks) | `references/session-locks.md` |
 | why a rule or fact exists | `archive/state-compaction-2026-07-31/` |
+| the author's reader notes | `feedback/` — **on `main`, not this branch. Fetch and merge `main` first.** |
 
 ## TOOLS
 

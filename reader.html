@@ -488,7 +488,11 @@
 
   /* ---------- notes storage (unchanged data layer) ---------- */
   function getNotes(){ try{ return JSON.parse(localStorage.getItem(KEY_NOTES))||[]; }catch(e){ return []; } }
-  function setNotes(a){ try{ localStorage.setItem(KEY_NOTES, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushNotes) SYNC.pushNotes(); }
+  // Quiet setters store WITHOUT scheduling a push. The sync layer merges and stores
+  // as part of pushing, and setNotes/setRevs schedule a push, so using the loud ones
+  // there would make every push schedule another one, forever.
+  function setNotesQuiet(a){ try{ localStorage.setItem(KEY_NOTES, JSON.stringify(a)); }catch(e){} updateCount(); }
+  function setNotes(a){ setNotesQuiet(a); if(typeof SYNC!=="undefined"&&SYNC.pushNotes) SYNC.pushNotes(); }
   function findNote(chap,s){ var a=getNotes(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s&&!a[i].resolved) return a[i]; } return null; }
   function upsertNote(chap,s,quote,text){
     var a=getNotes(), found=false;
@@ -503,7 +507,8 @@
 
   /* ---------- revisions (track changes) storage (unchanged data layer) ---------- */
   function getRevs(){ try{ return JSON.parse(localStorage.getItem(KEY_REVS))||[]; }catch(e){ return []; } }
-  function setRevs(a){ try{ localStorage.setItem(KEY_REVS, JSON.stringify(a)); }catch(e){} updateCount(); if(typeof SYNC!=="undefined"&&SYNC.pushRevs) SYNC.pushRevs(); }
+  function setRevsQuiet(a){ try{ localStorage.setItem(KEY_REVS, JSON.stringify(a)); }catch(e){} updateCount(); }
+  function setRevs(a){ setRevsQuiet(a); if(typeof SYNC!=="undefined"&&SYNC.pushRevs) SYNC.pushRevs(); }
   function findRev(chap,s){ var a=getRevs(); for(var i=0;i<a.length;i++){ if(a[i].chap===chap&&a[i].snip===s&&!a[i].resolved) return a[i]; } return null; }
   function upsertRev(chap,s,orig,revised){
     var a=getRevs(), found=false;
@@ -529,7 +534,10 @@
       var r=a[i];
       if(r.resolved) continue;
       if(!chapterLoaded(r.chap)) continue;
-      if(!origStillPresent(r.chap, r.original)){ r.resolved=true; r.resolvedTs=Date.now(); r.resolvedVia="applied"; r.ts=Date.now(); changed=true; }
+      // Do NOT touch r.ts. It is the creation time and the merge tiebreaker; moving it
+      // to "now" made a resolved record outrank a genuinely newer edit from another
+      // device, which then vanished at the next merge. resolvedTs records the resolve.
+      if(!origStillPresent(r.chap, r.original)){ r.resolved=true; r.resolvedTs=Date.now(); r.resolvedVia="applied"; changed=true; }
     }
     if(changed) setRevs(a);
     return changed;
@@ -563,48 +571,99 @@
     return html;
   }
 
-  /* ---------- cross-device sync (unchanged) ---------- */
+  /* ---------- cross-device sync ----------
+     The merge rule below is the SAME rule api/sync.js applies server-side; keep the
+     two in step. Key is (chap, snip); the newer ts wins the content; `resolved` is
+     sticky, because resolution is a fact about the manuscript and an older copy must
+     not be able to un-make it. */
+  function mergeRecords(a, b){
+    var out={}, order=[];
+    function add(r){
+      if(!r||typeof r!=="object") return;
+      var k=(r.chap||"")+"|"+(r.snip||""), prev=out[k];
+      if(!prev){ out[k]=r; order.push(k); return; }
+      var rNewer=(r.ts||0)>(prev.ts||0);
+      var win=rNewer?r:prev, other=rNewer?prev:r;
+      if(other.resolved&&!win.resolved){
+        win={}; for(var p in (rNewer?r:prev)) win[p]=(rNewer?r:prev)[p];
+        win.resolved=true;
+        win.resolvedTs=other.resolvedTs||win.resolvedTs;
+        win.resolvedVia=other.resolvedVia||win.resolvedVia;
+      }
+      out[k]=win;
+    }
+    (a||[]).forEach(add); (b||[]).forEach(add);
+    return order.map(function(k){ return out[k]; })
+                .sort(function(x,y){ return (x.ts||0)-(y.ts||0); });
+  }
+
   var SYNC={
     secret:(function(){ try{ return localStorage.getItem(KEY_SECRET)||""; }catch(e){ return ""; } })(),
-    on:false, _t:null, _tr:null,
+    on:false, err:null, busy:false, _t:null, _tr:null,
     _h:function(){ return {"Content-Type":"application/json","x-feedback-secret":SYNC.secret}; },
     setSecret:function(s){ SYNC.secret=s; try{ localStorage.setItem(KEY_SECRET,s); }catch(e){} },
+    /* A failure used to vanish into `.catch(){on=false}`, so a wrong password, a
+       missing server variable and a write conflict all looked identical. Name it. */
+    _fail:function(status, msg){
+      SYNC.on=false;
+      SYNC.err = status===401 ? "wrong password"
+               : status===500 ? (/not configured/i.test(msg||"") ? "server not configured" : "server error")
+               : status===404 ? "no sync endpoint (is the site deployed?)"
+               : status ? ("error "+status)
+               : "offline";
+      if(typeof updateSyncUI==="function") updateSyncUI();
+    },
+    _okay:function(){ SYNC.on=true; SYNC.err=null; if(typeof updateSyncUI==="function") updateSyncUI(); },
+    _req:function(opts){
+      return fetch("api/sync", opts).then(function(r){
+        if(!r.ok) return r.text().then(function(t){ SYNC._fail(r.status,t); return null; });
+        return r.json().then(function(j){ SYNC._okay(); return j; });
+      }).catch(function(){ SYNC._fail(0,""); return null; });
+    },
     pull:function(){
       if(!SYNC.secret) return Promise.resolve(null);
-      return fetch("api/sync",{headers:SYNC._h(),cache:"no-store"})
-        .then(function(r){ if(!r.ok) throw new Error("sync "+r.status); return r.json(); })
-        .then(function(j){ SYNC.on=!!(j&&j.ok); return j; })
-        .catch(function(){ SYNC.on=false; return null; });
+      return SYNC._req({headers:SYNC._h(),cache:"no-store"});
+    },
+    /* Pull, merge, push the union, then adopt whatever the server returns. The server
+       merges too, so a lost race cannot destroy anything; this just keeps the local
+       copy honest and makes the common case a no-op. */
+    _push:function(field, getLocal, setLocal, rebuild){
+      if(!SYNC.secret) return Promise.resolve();
+      SYNC.busy=true;
+      return SYNC.pull().then(function(j){
+        var merged=mergeRecords(getLocal(), (j&&j[field])||[]);
+        setLocal(merged);
+        var body={}; body[field]=merged;
+        return SYNC._req({method:"POST",headers:SYNC._h(),body:JSON.stringify(body)});
+      }).then(function(j){
+        if(j&&Array.isArray(j[field])){ setLocal(mergeRecords(getLocal(), j[field])); }
+        SYNC.busy=false;
+        if(rebuild) rebuild();
+      }).catch(function(){ SYNC.busy=false; });
     },
     pushNotes:function(){
       if(!SYNC.secret) return;
       clearTimeout(SYNC._t);
       SYNC._t=setTimeout(function(){
-        fetch("api/sync",{method:"POST",headers:SYNC._h(),body:JSON.stringify({notes:getNotes()})})
-          .then(function(r){ SYNC.on=r.ok; }).catch(function(){ SYNC.on=false; });
+        SYNC._push("notes", getNotes, setNotesQuiet, function(){ buildNotesList(); updateCount(); });
       },800);
     },
     pushRevs:function(){
       if(!SYNC.secret) return;
       clearTimeout(SYNC._tr);
       SYNC._tr=setTimeout(function(){
-        fetch("api/sync",{method:"POST",headers:SYNC._h(),body:JSON.stringify({revisions:getRevs()})})
-          .then(function(r){ SYNC.on=r.ok; }).catch(function(){ SYNC.on=false; });
+        SYNC._push("revisions", getRevs, setRevsQuiet, function(){ decorate(); buildEditsList(); updateCount(); });
       },800);
     },
     pushBookmark:function(bm){
       if(!SYNC.secret) return;
-      fetch("api/sync",{method:"POST",headers:SYNC._h(),body:JSON.stringify({bookmark:bm})}).catch(function(){});
+      SYNC._req({method:"POST",headers:SYNC._h(),body:JSON.stringify({bookmark:bm})});
     },
     init:function(){
       return SYNC.pull().then(function(j){
         if(j&&j.ok){
-          var map={};
-          getNotes().concat(j.notes||[]).forEach(function(n){ var k=(n.chap||"")+"|"+(n.snip||""); if(!map[k]||(n.ts||0)>(map[k].ts||0)) map[k]=n; });
-          setNotes(Object.keys(map).map(function(k){ return map[k]; }));
-          var rmap={};
-          getRevs().concat(j.revisions||[]).forEach(function(r){ var k=(r.chap||"")+"|"+(r.snip||""); if(!rmap[k]||(r.ts||0)>(rmap[k].ts||0)) rmap[k]=r; });
-          setRevs(Object.keys(rmap).map(function(k){ return rmap[k]; }));
+          setNotesQuiet(mergeRecords(getNotes(), j.notes||[]));
+          setRevsQuiet(mergeRecords(getRevs(), j.revisions||[]));
           autoVerifyRevs();
           decorate(); buildNotesList(); buildEditsList();
           if(j.bookmark) savePos(KEY_BOOKMARK, j.bookmark);
@@ -1229,7 +1288,10 @@
   });
   function updateSyncUI(){
     var b=document.getElementById("btnSync"); if(!b) return;
-    b.textContent = !SYNC.secret ? "Turn on cross-device sync" : (SYNC.on ? "Synced across devices ✓" : "Sync on (reconnecting)");
+    b.textContent = !SYNC.secret ? "Turn on cross-device sync"
+                  : SYNC.on ? "Synced across devices ✓"
+                  : ("Sync not working — " + (SYNC.err || "reconnecting"));
+    b.title = SYNC.err ? ("Last sync error: " + SYNC.err) : "";
   }
   document.getElementById("btnSync").addEventListener("click", function(){
     var s=window.prompt("Sync password (the FEEDBACK_SECRET you set in Vercel). Links your notes and bookmark across devices.", SYNC.secret||"");

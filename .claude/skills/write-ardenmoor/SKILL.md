@@ -104,6 +104,10 @@ sections for the mode (see `modes/revise-moderate.md`) · relevant craft section
 
 **APPLY-FEEDBACK** — CARD · locks · `feedback/notes.md` + `feedback/revisions.md` · the touched
 chapters. Nothing else: a tracked change is a decision already made, not a question to research.
+**⚠️ `git fetch origin main && git merge origin/main` BEFORE reading `feedback/`, every time.** The
+reader's sync bot commits feedback to **`main`**, never to the working branch, so reading it off the
+branch shows a stale file and looks exactly like the author's notes went missing. This has been
+mistaken for a sync failure. Verify record counts before and after the merge.
 
 ## STEP 5 — THE TOOLS ARE A BACKSTOP, NEVER A TARGET
 

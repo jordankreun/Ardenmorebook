@@ -4,3 +4,7 @@
 state/
 .github/
 feedback/
+# archive/ was NOT listed here until 2026-08-08 and was being served publicly:
+# 1.4MB of story bibles, outlines and the complete pre-revision manuscript,
+# ending included. Exactly what the two lines above exist to prevent.
+archive/

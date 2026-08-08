@@ -42,17 +42,116 @@ async function ghReadJson(repo, branch, token, path, fallback) {
 }
 
 async function ghWriteFile(repo, branch, token, path, content, message) {
-  const cur = await ghGetFile(repo, branch, token, path);
-  const body = {
-    message,
-    content: Buffer.from(content, "utf8").toString("base64"),
-    branch,
+  // Retry on 409: the sha is read then written, so two overlapping saves collide.
+  // Re-read the sha each attempt rather than reusing a stale one.
+  let lastErr = null;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const cur = await ghGetFile(repo, branch, token, path);
+    const body = {
+      message,
+      content: Buffer.from(content, "utf8").toString("base64"),
+      branch,
+    };
+    if (cur.exists) body.sha = cur.sha;
+    const url = `${API}/repos/${repo}/contents/${encodeURIComponent(path)}`;
+    const r = await fetch(url, { method: "PUT", headers: ghHeaders(token), body: JSON.stringify(body) });
+    if (r.ok) return true;
+    const txt = await r.text();
+    lastErr = new Error(`PUT ${path} -> ${r.status} ${txt}`);
+    if (r.status !== 409 && r.status !== 422) throw lastErr;
+    await sleep(180 * (attempt + 1));
+  }
+  throw lastErr;
+}
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+/* ---------- one commit for several files (Git Data API) ----------
+   The Contents API writes one file per call, so .json and .md were written as two
+   separate commits and a failure between them left the human-readable file stale
+   while the JSON moved on. That is the bug that made notes look missing. Blobs ->
+   tree -> commit -> ref writes them together or not at all. Any failure here falls
+   back to the old sequential path, so the worst case is the previous behaviour. */
+async function ghCommitFiles(repo, branch, token, files, message) {
+  const H = ghHeaders(token);
+  const gh = async (path, init) => {
+    const r = await fetch(`${API}/repos/${repo}${path}`, { headers: H, ...(init || {}) });
+    if (!r.ok) throw new Error(`${path} -> ${r.status} ${await r.text()}`);
+    return r.json();
   };
-  if (cur.exists) body.sha = cur.sha;
-  const url = `${API}/repos/${repo}/contents/${encodeURIComponent(path)}`;
-  const r = await fetch(url, { method: "PUT", headers: ghHeaders(token), body: JSON.stringify(body) });
-  if (!r.ok) throw new Error(`PUT ${path} -> ${r.status} ${await r.text()}`);
-  return true;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const ref = await gh(`/git/ref/heads/${encodeURIComponent(branch)}`);
+      const baseSha = ref.object.sha;
+      const baseCommit = await gh(`/git/commits/${baseSha}`);
+      const blobs = [];
+      for (const f of files) {
+        const b = await gh(`/git/blobs`, {
+          method: "POST",
+          body: JSON.stringify({ content: Buffer.from(f.content, "utf8").toString("base64"), encoding: "base64" }),
+        });
+        blobs.push({ path: f.path, mode: "100644", type: "blob", sha: b.sha });
+      }
+      const tree = await gh(`/git/trees`, {
+        method: "POST",
+        body: JSON.stringify({ base_tree: baseCommit.tree.sha, tree: blobs }),
+      });
+      const commit = await gh(`/git/commits`, {
+        method: "POST",
+        body: JSON.stringify({ message, tree: tree.sha, parents: [baseSha] }),
+      });
+      const r = await fetch(`${API}/repos/${repo}/git/refs/heads/${encodeURIComponent(branch)}`, {
+        method: "PATCH", headers: H, body: JSON.stringify({ sha: commit.sha, force: false }),
+      });
+      if (r.ok) return true;
+      if (r.status !== 422 && r.status !== 409) throw new Error(`PATCH ref -> ${r.status} ${await r.text()}`);
+      await sleep(200 * (attempt + 1));   // someone else moved the branch; rebuild on the new head
+    } catch (e) {
+      if (attempt === 2) throw e;
+      await sleep(200 * (attempt + 1));
+    }
+  }
+  throw new Error("commit failed after retries");
+}
+
+async function writeFiles(repo, branch, token, files, message) {
+  try {
+    await ghCommitFiles(repo, branch, token, files, message);
+    return "commit";
+  } catch (e) {
+    for (const f of files) await ghWriteFile(repo, branch, token, f.path, f.content, message);
+    return "sequential";
+  }
+}
+
+/* ---------- merge ----------
+   The client used to push its whole array and this file wrote it wholesale, so a
+   device with stale state erased whatever another device had added. Merging here
+   makes that impossible however stale the pusher is. Key and tiebreak match the
+   client's exactly; keep the two in step.
+
+   `resolved` is STICKY. Resolution is a fact about the manuscript (the original text
+   is no longer there), not an opinion, so an older client must not be able to
+   un-resolve a record by pushing a copy that predates the resolve. */
+function mergeRecords(stored, incoming) {
+  const key = (r) => (r.chap || "") + "|" + (r.snip || "");
+  const out = new Map();
+  const add = (r) => {
+    if (!r || typeof r !== "object") return;
+    const k = key(r), prev = out.get(k);
+    if (!prev) { out.set(k, { ...r }); return; }
+    const winner = (r.ts || 0) > (prev.ts || 0) ? { ...r } : { ...prev };
+    const other = (r.ts || 0) > (prev.ts || 0) ? prev : r;
+    if (other.resolved && !winner.resolved) {
+      winner.resolved = true;
+      winner.resolvedTs = other.resolvedTs || winner.resolvedTs;
+      winner.resolvedVia = other.resolvedVia || winner.resolvedVia;
+    }
+    out.set(k, winner);
+  };
+  (Array.isArray(stored) ? stored : []).forEach(add);
+  (Array.isArray(incoming) ? incoming : []).forEach(add);
+  return [...out.values()].sort((a, b) => (a.ts || 0) - (b.ts || 0));
 }
 
 function renderRevisionsMarkdown(allRevs) {
@@ -135,21 +234,40 @@ module.exports = async (req, res) => {
       if (typeof body === "string") { try { body = JSON.parse(body); } catch (e) { body = {}; } }
       body = body || {};
 
+      // Merge into what is stored rather than replacing it, and write the JSON and
+      // its rendered Markdown in ONE commit so they can never disagree.
+      const files = [];
+      let mergedNotes = null, mergedRevs = null;
+
       if (Array.isArray(body.notes)) {
-        await ghWriteFile(repo, branch, token, "feedback/notes.json", JSON.stringify(body.notes, null, 2), "reader: sync notes");
-        await ghWriteFile(repo, branch, token, "feedback/notes.md", renderNotesMarkdown(body.notes), "reader: render notes");
+        const stored = await ghReadJson(repo, branch, token, "feedback/notes.json", []);
+        mergedNotes = mergeRecords(stored, body.notes);
+        files.push({ path: "feedback/notes.json", content: JSON.stringify(mergedNotes, null, 2) });
+        files.push({ path: "feedback/notes.md", content: renderNotesMarkdown(mergedNotes) });
       }
       if (Array.isArray(body.revisions)) {
-        await ghWriteFile(repo, branch, token, "feedback/revisions.json", JSON.stringify(body.revisions, null, 2), "reader: sync tracked changes");
-        await ghWriteFile(repo, branch, token, "feedback/revisions.md", renderRevisionsMarkdown(body.revisions), "reader: render tracked changes");
+        const stored = await ghReadJson(repo, branch, token, "feedback/revisions.json", []);
+        mergedRevs = mergeRecords(stored, body.revisions);
+        files.push({ path: "feedback/revisions.json", content: JSON.stringify(mergedRevs, null, 2) });
+        files.push({ path: "feedback/revisions.md", content: renderRevisionsMarkdown(mergedRevs) });
       }
       if (Object.prototype.hasOwnProperty.call(body, "bookmark")) {
         const state = await ghReadJson(repo, branch, token, "feedback/reader-state.json", {});
         state.bookmark = body.bookmark;
         state.updated = new Date().toISOString();
-        await ghWriteFile(repo, branch, token, "feedback/reader-state.json", JSON.stringify(state, null, 2), "reader: sync bookmark");
+        files.push({ path: "feedback/reader-state.json", content: JSON.stringify(state, null, 2) });
       }
-      res.status(200).json({ ok: true });
+
+      let via = "none";
+      if (files.length) {
+        const what = [mergedNotes && "notes", mergedRevs && "tracked changes",
+                      Object.prototype.hasOwnProperty.call(body, "bookmark") && "bookmark"]
+                      .filter(Boolean).join(" + ");
+        via = await writeFiles(repo, branch, token, files, "reader: sync " + (what || "state"));
+      }
+      // Hand the authoritative state back so the client can adopt it instead of
+      // continuing from its own possibly-stale copy.
+      res.status(200).json({ ok: true, via, notes: mergedNotes, revisions: mergedRevs });
       return;
     }
 
