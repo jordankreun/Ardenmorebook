@@ -335,6 +335,22 @@ conflict. Check every draft and every editing pass against them.
   - **The prologue frame stays light:** conditional "Perhaps I will set it down" over direct
     "You have asked me" — the addressee device is kept latent until the coda.
 
+## P1e — READING THE AUTHOR, NOT THE MANUSCRIPT (added 2026-08-09, from two reversals in two days)
+
+- **[HARD] AN AMBIGUOUS ONE-LINE INSTRUCTION IS NOT RESOLVED BY THE BOOK AGREEING WITH YOU.** Twice
+  in two days a terse note was read into its exact opposite. *"fix fact that lunch is mid day meal"*
+  was read as "keep the word out", and the rule went into canon backwards with a lint FAIL enforcing
+  it. Before that, a tracked change about a working's cost was recorded as "never on him". **Both
+  times the same thing happened: I checked the manuscript, found it already consistent with my
+  reading, and treated that as confirmation.** It was not. It only meant I had picked the reading the
+  existing text supported — which is the reading I was always going to pick, because I derived it
+  from that text. When a one-line instruction admits two readings, **the book's agreement is not
+  evidence. Ask.** The cost of one question is nothing; the cost of writing a rule backwards is a
+  canon entry, a lint rule, and a manuscript pass in the wrong direction.
+- **[CRAFT] A NOTE THAT ONLY MAKES SENSE ONE WAY IS STILL WORTH RESTATING BACK.** When applying a
+  note that sets canon rather than fixing a line, say in one sentence what you understood it to mean
+  before you act on it. The author corrects a sentence far more cheaply than a pass.
+
 ## P1d — THE 2026-08-02 READER PASS (5 notes on Ch 4, 7, 8; each distilled to its class)
 
 Same standing as P1c: extracted from the author's own notes, and they outrank house style where

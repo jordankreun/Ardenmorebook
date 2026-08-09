@@ -53,6 +53,7 @@ near the inn + dairymaid + thatcher [no full bakery; stops repeating the evening
 the road is modest/poorly-marked but real [not petering into grass]; the unformed "who I do not
 believe slept at all" aside CUT.)
 ⚠️ TRACKED CHANGES APPLIED 2026-08-02: "I drew much of it myself" → "I drew a small part of it myself" (the river house was his father's firm's work, not his design); the closing "I did not answer." cut; and in the railway arithmetic "eaten more in the making and keeping" → "eaten more in the making" — which SETS CANON: the wizard's cost is in the MAKING, and a set working does not thereafter feed on its maker, though it may draw on an external source (the LUMEN drinks the hill).
+⚠️ REVISED 2026-08-09 (reader pass). THE RIVER HOUSE WAS A COMMISSION: "I commissioned it of my father's firm. That is the polite way of saying I went to the men who had taught me and told them what I wanted instead of asking them what was good. I drew a small part of it myself… and left them the rest of the drawing and the long patient business of putting it up." Canon: he did NOT design it.
 
 [02] Walking the Bounds — Emlyn climbs the crown alone mid-morning (NO epiphany, reframed: not a
 grand moment, "neither let down nor carried away," just a view and a great sweeping quiet, one
@@ -80,6 +81,7 @@ tracked changes "It is a perfectly fine hill... I would build on it" + "woodland
 "(and I set this down plainly, because it is the heart of the whole matter)" on the crown's
 "I did not want to leave" beat, per the aside rule against telling the reader how to feel; the
 surrounding lines already carry the weight.)
+⚠️ REVISED 2026-08-09. MEAL RULE CORRECTED — lunch is the midday meal. "Ardenmoor at its midday dinner" → "Ardenmoor at lunch"; "eating his dinner" → "eating his lunch". (The 2026-08-08 entry recording the opposite was wrong and is retired.)
 
 [03] Under Canvas — Over a fortnight the purchase completes (Penworth's agent; Cael's quiet
 handover) while Emlyn lodges at Lira's and the village's welcome stays "the warmth of a signed
@@ -103,6 +105,7 @@ Ch2 rename]; the closing image was in third person via "the younger and more foo
 myself" [the exact framing the author cut from the prologue] and is now first person with that
 phrase gone. The hum's "I did not hear anything" opener was reviewed and KEPT: here it does
 necessary work distinguishing felt-through-bone from heard, unlike the Ch2 crown anticlimax.)
+⚠️ WIDENED 2026-08-09. Penworth's letter gains a SECOND, shorter column: the Commonwealth's transfer duty on the holding, "levied on what a holding is reckoned to be worth and takes no interest whatever in what it is presently earning, which in my case was nothing." This is the first bill, named early, and it is what Ch 9's "costs coming due" refers to. The financing itself is unchanged.
 
 READABILITY / CONCISION PASS across Ch 1–3: trimmed genuine verbosity (doubled
 clauses, over-qualification, tautological asides, theme-explaining tails) while holding the voice,
@@ -232,6 +235,7 @@ forge + deepened secret-seed (NOT the promise); Brenna named & her grandmother's
 notebooks + "talking pair" (hill & oak); **oak visited** (turned-away attention); hill answers an
 hour early the day he visits the oak; two-grandmothers question OPEN (do NOT resolve yet); soldier's-
 heart cutting on the north sill. No em dashes; 3,533 words.
+⚠️ TRACKED CHANGE 2026-08-09: "a room and a light and Wednesdays coming" → "a room and a light".
 
 [07] Wednesdays — A quiet interior chapter on the shape of the life that assembled itself that
 autumn "while my back was turned" (the narrator flags it as the good part, before "the account gets
@@ -267,6 +271,7 @@ wash-house Wednesdays); **Soren's 10th birthday** + the folding knife; the pract
 concern (Kellard credit, the cold-spot, the surveyor's set, a warded barn); the village has decided
 Emlyn is a neighbor; grandfather gave Soren the slate (offstage). No em dashes; 3,506 words.
 ⚠️ REVISED 2026-08-02 (reader notes 1–2 + two tracked changes; 4,180→4,309w). SOREN'S LETTERS INVERTED per the author: he no longer fails at them. He learns them fast, reads anything by winter and writes a fair plain hand "better than his grandfather's and better than half the men who signed Kellard's book" — and that is where it stops, and the stopping is the point. His figures do not stop. "There is a difference between a boy who is good at a thing and a boy the thing is a door for." **Rule: a child's gift is SPECIFIC, not general; do not manufacture a deficit to make a talent legible.** THE KIT RETOOLED to an artificer's: calipers, fine files, small brass scale, jeweller's glass, levels — with the surveyor's set he is truing alongside it named as "not the same kind of tools at all." Tracked change: "the work of a country wizard in a small valley" → "the work available to a wizard".
+⚠️ REVISED 2026-08-09 (9 tracked changes + 2 notes). Trimmed throughout per the author: the instrument-case aside and the letters paragraph cut back, the Soren order-sorting simplified, "a serious thing to give a person" → "a serious thing", the life-inventory shortened. MEAL: "following his dinner" → "following his lunch". NEW: **Maret gets context on first mention** — the mill down at the beck, whose timber Emlyn had been buying all summer without meeting the man who cut it, "thin and grey and about as talkative as his own water-wheel."
 
 [08] The Lamp Business — Word of the lumen has spread and the practice becomes a real commercial
 concern. The problem: the lumen drinks the **hill's song** (which runs only under Emlyn's acre), so
@@ -309,6 +314,7 @@ out-of-strict-chronology placement of the Brenna gift (flagged in-voice as the t
 account). Do NOT preempt: the three probing correspondents (Ch 14/26) are NOT yet mentioned — only
 the existence/location of the unpublished work.
 ⚠️ REVISED 2026-08-02 (reader notes 3–4; 4,119→4,266w). EMLYN STOPS EXPLAINING: he had given Essa the full mechanism across a shop counter; he now gives "the truth. Some of the truth" — "It won't leave my hill. I'm at work on why. When I have it, you'll not need to come up and ask." The reader loses nothing, because the narration already delivered the mechanism eighteen paragraphs earlier. **Rule: the outcome from his mouth, the mechanism from the narration.** THE PRATFALL added at the first failed lamp: the useless flare catches him with his nose a hand's breadth from the glass, he goes over backward off the stool, takes the bench with his elbow and brings the lamp down in pieces — "nothing hurt but the lamp and my opinion of myself, and after a while I got the broom."
+⚠️ REVISED 2026-08-09 (4 tracked changes + 4 notes). **THE HILL DOES NOT TEACH:** the Series-lamp solution was rewritten so Emlyn copies his own earlier work rather than being taught — "I solved it, in the end, by copying myself… I went back to the lumen and took it apart on paper, layer by layer, looking not at what it drank but at how it kept." **THE MONEY READS SMALLER:** Penworth's columns now size the run deliberately small — it buys timber or a guest cabin, "and it would not touch the transfer taxes… nor the plain running cost of keeping a hill and a mare and a crew fed. Cash would still be wanted in the spring." **LAMP TALLY FIXED** (a genuine internal inconsistency): the count had forgotten the lamp sold to Essa two paragraphs earlier — now "one lamp on Brenna's sill and one on Essa's bench and three more on my own, half-made", and the winter-roads trade is explicitly years ahead. CUT: "I have made a great many things I gave away for nothing" (out of character for him now).
 
 [09] Breaking Ground — **The first winter passes** (a brief bridge: the long white quiet, the lumen
 against the nights, Emlyn realizing his loneliness has quietly changed from hiding-from-a-life to the
@@ -351,6 +357,7 @@ the relaxed length rule)**. Feedback-engine fixes applied: timeline (grace year 
 not "next spring"); dropped "Old Harrow's place" (Harrow owned WOODLAND not bottoms → generic old
 farmhouse); softened Jorin so he doesn't name the grief outright (narrator infers); trimmed an unplanned
 "someone I loved" future-romance whisper to apprentice/guest (matches author's spec).
+⚠️ REVISED 2026-08-09 (2 tracked changes + 3 notes). "a note coming due" → "costs coming due"; "a wizard and a builder" → "a wizard, and a certified draftsman". THE BARN: Jorin is away the whole fortnight and sends four of his men — "they did solid work and knew it, and not one of them asked me a single question about the hill, which after the Study I found restful" — and **Snow finally comes home out of the inn's spare stall**. THE RIVER HOUSE ¶ REFOCUSED onto what he threw away: his father taught "a way of asking a house what it wanted to be and then having the patience to be told", and Emlyn "put every word of it down" and commissioned a monument instead. **"I drew a house" is untouched — everything else in the thread exists to make it land.**
 
 PROLOGUE RE-REWRITTEN AS A POETIC JOURNAL NOTE: at the author's request ("make the
 prologue a note from a later journal… keep it closer to earlier versions… it can be more poetic"),
@@ -441,6 +448,7 @@ people and I heard paperwork, and paperwork can wait, and people, as it turned o
 eleven years already." → Ch 17 (The Rent Book) rewritten to be a RECKONING rather than a discovery
 ("there was nothing in it I had not been told"). Ch 9 keeps winter/thaw/money/barn/house and its Jorin
 house scene was opened out into dialogue (7%→36%). prose-lint clean.
+⚠️ TRACKED CHANGE 2026-08-09: the Wrays are on "a place over the far side", not Maret's sister's place.
 
 PROSE PASS (2026-07-14 — action+aphorism weld, author note): parsed the whole book for sentences welding a specific action to a general reflection/aphorism with "and"/";" (e.g. Ch 2 "no reason on earth to hurry, and I have never much trusted a man who hurries uphill"). Applied 11 BREAKS so the aphorism starts its own sentence — Ch 2 (x2), Ch 3 (x2), Ch 4 (x2), Ch 5, Ch 7, Ch 8, Ch 9, Ch 10. KEPT deliberate cumulative climaxes/triads (prologue close; "Good" payoff; Ch 1 "I was tired, and it was spring, and a man has to be sent somewhere"). New durable guard: feedback-engine P0 rule "Break the action-plus-aphorism weld" + prose-lint weld review-list (WARN). prose-lint: no new FAILs.
 
@@ -484,6 +492,7 @@ the dusk-fail pulse coming up. NEW FACTS: soldier's-heart flowered midwinter on 
 SEEN, 3 leaves on-page; Singer/Listener named on-page; notebooks lent one-at-a-time (a running
 device); Brenna↔Emlyn tips courtesy→partnership; two-grandmothers question RESTS (still open). **REVISED 2026-07-15 : Brenna CALLS HIM OUT as shaken in the cellar** ("you've gone grey as that wall… I'll not be told it's nothing"); Emlyn stays cautious/silent, she respects the boundary but won't accept the lie, and he's glad of "the one person who will not let you get away with yourself." Candor stays PARTIAL/cautious.
 ⚠️ WIDENED 2026-08-08 (the grain, seeded; 4,139→4,238w). THE KEYSTONE OF THE PASS. The grandmother had names for both endpoints and none for the medium; she now has one, in her own register and placed BEFORE the Singer/Listener quote so Brenna's echo of that quote is untouched: "the sound did not sit in the hill the way water sits in a bowl. It lay along something… She called it the grain. She wrote of listening along the grain and across it, and of the sound coming truer one way than the other, as a countrywoman speaks of a board or a cut of cloth." With that word in place, Ch 15's oak night and Ch 24's bearing become evidence of one thing instead of two oddities.
+⚠️ REVISED 2026-08-09 (author note). **THE NOTEBOOKS ARE IN THE CELLAR**, which is why they go down — "Paper wants what roots want: cold, and dry, and dark, and left alone." Her grandmother put them below the year she stopped trusting the cottage roof. The discovery now happens beside the keeper plant and they come back up "with our arms full"; the reading at the table follows the scene break as before. This gives the descent a reason it previously lacked. The grain addition of 2026-08-08 sits in the reading passage and is unaffected.
 
 [12] What Tomas Carried — Early summer Yr2 (~15 mo elapsed). The CONFESSION chapter, a tight
 two-hander (1,908w). Emlyn comes to Tomas's forge at dusk for four brass lamp-collars (the lamp

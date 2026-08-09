@@ -104,3 +104,10 @@ the hill wants
 waiting for Emlyn
 # the chosen-one formulation in the series premise (retired 2026-08-08 with the same decision)
 architecture of mind to open it
+
+# the meal rule, recorded BACKWARDS on 2026-08-08 and corrected 2026-08-09. Lunch IS the
+# midday meal; supper is the evening one; dinner is a formal/company evening meal. These
+# patterns catch a doc restating the wrong version as live.
+the midday meal is DINNER
+dinner is the MIDDAY meal
+"lunch" does not exist

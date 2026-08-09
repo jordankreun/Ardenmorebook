@@ -1008,3 +1008,79 @@ wordings; reworded so `doc-audit`'s exclusion sees them. `check.sh docs` green.
   6 `dinner` and 12 `supper` uses obey), but the rule was written nowhere. Now in the style guide's
   LEXICON **and enforced**: a new `prose-lint` FAIL, proven to fire on a planted "lunch" and to leave
   all 37 chapters clean.
+
+---
+
+## THE MEAL REVERSAL + THE 2026-08-09 READER PASS
+
+**Mode: developmental.** Two things at once: a correction of my own error, and a new export of
+12 notes and 18 tracked changes.
+
+### The correction, first, because it is mine
+
+The author's instruction was *"fix fact that lunch is mid day meal."* **I read it as an instruction
+to keep the word out of the book.** I then found the manuscript already consistent with
+dinner-at-midday, treated that as confirmation, wrote the rule into the style guide backwards, and
+**enforced the wrong version with a `prose-lint` FAIL banning "lunch"** (`6f027bc`). All of it
+reversed here.
+
+The correct scheme: **breakfast · lunch · supper**, with **dinner** a formal or company meal in the
+evening. Three uses in the whole book meant midday and are now lunch (Ch 2 ×2, Ch 7 ×1). Twelve
+suppers were already evening. The surviving "dinner"s are a cost idiom, an object, and an evening
+social occasion — all correct under the new scheme, all untouched.
+
+The lint was **flipped rather than deleted**, per the author: it now FAILs on dinner-as-midday
+(`midday dinner`, `dinner at midday`, `noon dinner`). **Measured before shipping**: fires on a
+planted "midday dinner", silent on correct text, silent across all 37 chapters.
+
+### The three canon threads in the new notes
+
+1. **The river house was a commission.** He drew a small part; his father's firm drew the rest and
+   managed the build. Ch 9's paragraph refocused onto what was actually thrown away — his father
+   taught "a way of asking a house what it wanted to be and then having the patience to be told",
+   and Emlyn "put every word of it down" and commissioned a monument. **Ch 9's "I drew a house" is
+   untouched; the whole thread exists to make it land.**
+2. **The hill does not teach.** The Series-lamp solution was rewritten so Emlyn copies his own
+   earlier work — *"I solved it, in the end, by copying myself… I went back to the lumen and took it
+   apart on paper… looking not at what it drank but at how it kept."* This is the phenomenon-not-being
+   canon arriving in the prose.
+3. **The money reads earlier and smaller.** Ch 3 gains Penworth's second column: the Commonwealth's
+   **transfer duty**, levied on reckoned worth and indifferent to what the land earns. Ch 8's
+   columns now size the lamp run deliberately small — timber, a guest cabin, materials — and
+   explicitly do not touch the duty or the running costs. **Parts III–IV verified untouched**:
+   "Make the next payment" (Ch 15), "I had paid the note" (Ch 17), "The note was paid" (Ch 18) all
+   still refer to the financing, which is unchanged.
+
+### A genuine inconsistency the notes caught
+
+Ch 8 sold the second lamp to Essa and then, two paragraphs later, tallied the winter as *"one lamp
+on Brenna's sill and a few more on my own bench half-made"* — forgetting her entirely, while the
+winter-roads trade read as already under way. Now: Brenna's, Essa's, and three half-made, with the
+trade explicitly years ahead.
+
+### A continuity improvement
+
+The notebooks move to **the cellar** (Ch 11), which is why they go down: *"Paper wants what roots
+want: cold, and dry, and dark, and left alone."* This required reordering the seam — the discovery
+now happens beside the keeper plant and they come back up "with our arms full", where before the
+chapter had them leaving the cellar and then finding the chest. The descent now has a reason it
+lacked.
+
+### WARNs
+
+All eight touched files hold their baseline sets. One new tic was introduced and caught: a
+`", which is"` tail in Ch 1's new river-house sentence, recast. **That is the fifth pass in six
+where this construction appeared in my own new prose.** The four adjacent-chapter echoes reported on
+Ch 2 and Ch 7 are pre-existing phrases, verified against the snapshots. `revision-diff` preservation
+clean on all eight; no FAILs anywhere in the book.
+
+### The engine rule this pass earned
+
+`feedback-engine.md` gains **P1e — reading the author, not the manuscript**. Twice in two days a
+terse instruction was read into its exact opposite: the sourcing rule ("never on him") and this one.
+Both times the failure was identical and worth naming precisely: **I checked the manuscript, found it
+already consistent with my reading, and treated that as confirmation.** It was not evidence. It only
+meant I had picked the reading the existing text supported — which was always the reading I would
+pick, having derived it from that text. The rule: when a one-line instruction admits two readings,
+the book's agreement is not evidence. Ask. And when a note sets canon rather than fixing a line,
+restate it in one sentence before acting.

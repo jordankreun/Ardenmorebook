@@ -89,6 +89,23 @@ Process and craft locks live in `references/session-locks.md`. What follows is l
   - **The river house returns HALF — locked 2026-07-27.**
   - **Financing:** Penworth-arranged, finite, with a **grace period**; an initial outlay against
     the rest. Post-purchase Emlyn is **capital-constrained and carrying a note**.
+  - **⚠️ THE FIRST BILL IS THE TRANSFER DUTY (author, 2026-08-09).** The financing above is
+    unchanged, but the pressure in the Ch 8–9 stretch is **the Commonwealth's transfer duty on the
+    holding** — levied on every acre, working and waste alike, on reckoned worth rather than on what
+    the land earns — plus the plain running cost of the place. Set out in Ch 3 in Penworth's second
+    column and named again in Ch 9 ("costs coming due", not "a note"). **Parts III–IV are untouched:**
+    Penworth's three conditions (Ch 19), the harvest as an installment (Ch 16) and "The note was
+    paid" (Ch 18) all still refer to the financing.
+  - **The lamp trade is NOT a rescue** (same decision). Penworth's columns in Ch 8 deliberately size
+    the run small: it buys timber, a guest cabin, the unglamorous materials a building year eats —
+    and it does not touch the duty, and cash is still wanted in spring. Never let the lamps read as
+    the thing that services the debt.
+  - **The river house was a COMMISSION, not his design** (author, 2026-08-09). He drew a small part
+    of it; his father's firm drew the rest and managed the build. The emotional content is that he
+    was taught to ask a house what it wanted to be, and instead told the men who taught him what he
+    wanted — so the garish pile is his father's wisdom thrown away, not his own draughtsmanship.
+    This is what makes Ch 9's *"I sat down at my own bench, and I took a clean sheet, and I drew a
+    house"* land, and that line is protected.
   - **Grief and money are entangled** (author, 2026-07-14: "money mid-book, rooms sealed").
 
 ## NUMBERS, AGES & DURATIONS LEDGER (check every stated figure against this)
