@@ -8,7 +8,7 @@
 ## STATUS
 
 - Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III.** 37 files,
-  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **185036 words**
+  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **185,036 words**
   (prose lines only; blank lines and `#`-headers excluded — the method `tools/state-check.sh`
   documents). Keep this bullet current: `state-check.sh` FAILs when it falls behind the manifest.
 - **Current work is REVISION, not continuation.** The storycraft pass (2026-07-31) runs part by
