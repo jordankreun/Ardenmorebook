@@ -11,7 +11,18 @@ import { CARET_CONTEXT_CHARS, SETTLE_EARLY_MS, SETTLE_LATE_MS } from "./config.j
    touch. Nothing overlays the text and the scroll position is preserved.
 
    Everything in this file is load-bearing. Each numbered comment records a bug
-   that was found the hard way; none of them is noise. */
+   that was found the hard way; none of them is noise.
+
+   STRUCTURE. openEditor() below is the one path that must stay synchronous, so
+   it is kept short and does nothing but open. Everything that happens LATER in
+   an editing session — settle, save, teardown — is a module-level function
+   taking the session as its first argument, rather than a closure nested inside
+   openEditor. The session object already carries every value those functions
+   need, so the nesting bought nothing and cost two hundred lines of indent.
+   Passing the session explicitly also makes the staleness guard uniform and
+   exact: a late timer from a CLOSED session compares `session !== s` and
+   returns, instead of silently acting on whichever editor happens to be open
+   now. */
 
 /* The pointer-capability query lives here because the editor's docking rule
    depends on it (only the double-tap path docks) and gestures.js already imports
@@ -39,7 +50,6 @@ export function watchPointerKind(fn) {
 let session = null;
 
 export const isEditing = () => !!session;
-export const editingPara = () => (session ? session.para : null);
 export const editingEl = () => (session ? session.el : null);
 
 /* One-shot: the save function is nulled BEFORE it is called, so a re-entrant
@@ -52,36 +62,12 @@ export function commitEditor() {
   f();
 }
 
-/**
- * NEVER async, and it contains no await. On iOS the soft keyboard rises only for
- * a focus that happens inside the gesture's own task, so nothing between the tap
- * and p.focus() may be deferred to a timer, a promise, a microtask or a frame.
- * This is the single thing a "modern rebuild" is most likely to break.
- */
-export function openEditor(para, seedQuote, opts) {
-  opts = opts || {};
-  const auto = !!opts.auto;
-  popover.closeCurrent();
+/* The one guard every deferred path shares. `s` is the session that scheduled
+   the work; if it is no longer the live one the work is stale and must not run
+   against its successor. */
+const live = (s) => session === s && !s.pop.closed;
 
-  const p = para.el;
-  if (!p) return;
-  const chap = para.chap;
-  const snip = para.snip;
-  const orig = para.text;
-  /* An O(1) Map lookup. Reading the store emits nothing and runs no subscriber,
-     which is what keeps this whole path synchronous. */
-  const existing = store.openRev(para.key);
-  const raw = existing ? existing.revised || "" : orig;
-
-  render.setEditing(p);
-  p.classList.remove("hasNote", "hasEdit", "isDeleted");
-  p.classList.add("editingP");
-  // textContent first: it is what makes p.firstChild a single text node, which
-  // placeCaret() requires.
-  p.textContent = raw;
-  p.contentEditable = "true";
-  p.spellcheck = true;
-
+function buildBar(auto, existing) {
   const bar = document.createElement("div");
   bar.className = "composer edit";
   // The bar lives inside a popover positioned over a contenteditable region;
@@ -98,6 +84,37 @@ export function openEditor(para, seedQuote, opts) {
       ? "Click anywhere else to keep it, Esc to discard. Clear it out to cut the passage."
       : "Edit the paragraph right where it sits; clear it out to cut the passage. Saved as a tracked change.") +
     "</p>";
+  return bar;
+}
+
+/**
+ * NEVER async, and it contains no await. On iOS the soft keyboard rises only for
+ * a focus that happens inside the gesture's own task, so nothing between the tap
+ * and p.focus() may be deferred to a timer, a promise, a microtask or a frame.
+ * This is the single thing a "modern rebuild" is most likely to break.
+ */
+export function openEditor(para, seedQuote, opts) {
+  opts = opts || {};
+  const auto = !!opts.auto;
+  popover.closeCurrent();
+
+  const p = para.el;
+  if (!p) return;
+  /* An O(1) Map lookup. Reading the store emits nothing and runs no subscriber,
+     which is what keeps this whole path synchronous. */
+  const existing = store.openRev(para.key);
+  const raw = existing ? existing.revised || "" : para.text;
+
+  render.setEditing(p);
+  p.classList.remove("hasNote", "hasEdit", "isDeleted");
+  p.classList.add("editingP");
+  // textContent first: it is what makes p.firstChild a single text node, which
+  // placeCaret() requires.
+  p.textContent = raw;
+  p.contentEditable = "true";
+  p.spellcheck = true;
+
+  const bar = buildBar(auto, existing);
 
   // Only the tap-to-edit path docks. Edit from the toolbar or the drawer gets a
   // normal anchored popover.
@@ -109,8 +126,23 @@ export function openEditor(para, seedQuote, opts) {
 
   const ac = new AbortController();
   const signal = ac.signal;
-  session = { para, el: p, raw, orig, chap, snip, existing, auto, docked, pop, ac, save: null };
-  pop.onClose = () => teardown({ repaint: true });
+  const s = {
+    para,
+    el: p,
+    raw,
+    orig: para.text,
+    chap: para.chap,
+    snip: para.snip,
+    existing,
+    auto,
+    docked,
+    pop,
+    ac,
+    save: null,
+  };
+  session = s;
+  s.save = () => save(s);
+  pop.onClose = () => teardown(s, { repaint: true });
 
   // Put the caret exactly where the reader was: re-select the phrase they chose,
   // or (auto mode) drop it at the character they clicked.
@@ -127,7 +159,7 @@ export function openEditor(para, seedQuote, opts) {
     "input",
     () => {
       popover.repositionNow(pop);
-      if (docked) settle();
+      if (docked) settle(s);
     },
     { signal }
   );
@@ -137,7 +169,7 @@ export function openEditor(para, seedQuote, opts) {
     (e) => {
       if ((e.metaKey || e.ctrlKey) && e.key === "Enter") {
         e.preventDefault();
-        save();
+        commitEditor();
       } else if (e.key === "Escape") {
         e.preventDefault();
         popover.closeCurrent();
@@ -148,119 +180,120 @@ export function openEditor(para, seedQuote, opts) {
 
   if (docked) {
     // The keyboard animates in AFTER focus, so one re-anchor is not enough.
-    setTimeout(settle, SETTLE_EARLY_MS);
-    setTimeout(settle, SETTLE_LATE_MS);
+    setTimeout(() => settle(s), SETTLE_EARLY_MS);
+    setTimeout(() => settle(s), SETTLE_LATE_MS);
     if (window.visualViewport) {
-      window.visualViewport.addEventListener("resize", settle, { signal });
+      window.visualViewport.addEventListener("resize", () => settle(s), { signal });
     }
   }
 
-  function settle() {
-    const s = session;
-    if (!s || s.pop !== pop || pop.closed) return;
-    popover.repositionNow(pop);
-    measure(settleRead);
-  }
-
-  /* Scrolls the SELECTION's own rect — not the paragraph's — into the band
-     between the top of the visible viewport and the top of the docked bar. On a
-     phone the paragraph is usually taller than that gap, so anchoring on the
-     paragraph fails. Range.getBoundingClientRect is not an element read, so a
-     keystroke that leaves the caret inside the band costs no element geometry. */
-  function settleRead() {
-    const s = session;
-    if (!s || s.pop !== pop || pop.closed) return;
-    const vv = window.visualViewport;
-    const oy = vv ? vv.offsetTop : 0;
-    const floor = popover.popTop(pop) - 10;
-    const ceil = oy + 64;
-    let c = null;
-    try {
-      const sel = window.getSelection();
-      if (sel && sel.rangeCount) {
-        const b = sel.getRangeAt(0).getBoundingClientRect();
-        if (b && (b.top || b.bottom)) c = b;
-      }
-    } catch {}
-    if (!c) c = p.getBoundingClientRect();
-    if (c.bottom > floor) queueScroll(c.bottom - floor);
-    else if (c.top < ceil) queueScroll(c.top - ceil);
-  }
-
-  function queueScroll(dy) {
-    mutate(() => {
-      markSelfScroll();
-      window.scrollBy(0, dy);
-    });
-  }
-
-  function teardown(o) {
-    const s = session;
-    if (!s || s.pop !== pop) return;
-    session = null;
-    s.ac.abort(); // every listener on <p>, document and visualViewport, at once
-    // Remove the WHOLE popover shell, not just the button bar inside it;
-    // removing only the bar left an empty white pill floating on the page.
-    popover.close(pop);
-    p.contentEditable = "false";
-    p.classList.remove("editingP");
-    render.setEditing(null);
-    if (!o || o.repaint !== false) render.renderPara(para, { stable: true, force: true });
-  }
-
-  function save() {
-    const s = session;
-    if (!s || s.pop !== pop) return;
-    /* innerText, not textContent: it respects white-space:pre-wrap and turns the
-       contenteditable's <div>/<br> breaks into \n. Only TRAILING whitespace is
-       stripped. */
-    const v = p.innerText.replace(/\s+$/, "");
-    const untouched = v === raw;
-    teardown({ repaint: false });
-
-    // Auto mode commits on a click elsewhere, so "clicked in, clicked straight
-    // out" must leave no trace at all: no record, no toast, nothing to undo.
-    if (auto && untouched) {
-      render.renderPara(para, { stable: true, force: true });
-      return;
-    }
-    if (v.trim() === orig.trim()) {
-      if (existing) store.deleteRev(chap, snip);
-      else render.renderPara(para, { stable: true, force: true });
-      toast("No change from the original");
-      return;
-    }
-    store.upsertRev(chap, snip, orig, v);
-    /* Repaint EXPLICITLY, exactly as the old redecorateStable(p) did. teardown
-       ran with repaint:false, so the <p> still holds the raw markdown this
-       editor put in it, and the change event alone is not enough to get rid of
-       it: upsertRev mutates the existing record IN PLACE, so re-saving an
-       existing revision without touching the text leaves both the record's
-       identity and its `revised` string unmoved and the renderer's memo
-       short-circuits. The paragraph would sit there as literal asterisks, with
-       no diff and no dots, until a mode toggle or a reload. When the text DID
-       change the subscriber has already painted and this second pass is a
-       no-op assignment on one paragraph. */
-    render.renderPara(para, { stable: true, force: true });
-    toast(v.trim() ? "Revision saved" : "Marked for deletion");
-  }
-
-  session.save = save;
-  bar.querySelector(".save").addEventListener("click", save, { signal });
+  bar.querySelector(".save").addEventListener("click", () => commitEditor(), { signal });
   bar.querySelector(".cancel").addEventListener("click", () => popover.closeCurrent(), { signal });
   const del = bar.querySelector(".del");
   if (del) {
     del.addEventListener(
       "click",
       () => {
-        teardown({ repaint: false });
-        store.deleteRev(chap, snip);
+        teardown(s, { repaint: false });
+        store.deleteRev(s.chap, s.snip);
         toast("Reverted to original");
       },
       { signal }
     );
   }
 }
+
+/* ---------- the docked bar: keeping the caret above the keyboard ---------- */
+
+function settle(s) {
+  if (!live(s)) return;
+  popover.repositionNow(s.pop);
+  measure(() => settleRead(s));
+}
+
+/* Scrolls the SELECTION's own rect — not the paragraph's — into the band
+   between the top of the visible viewport and the top of the docked bar. On a
+   phone the paragraph is usually taller than that gap, so anchoring on the
+   paragraph fails. Range.getBoundingClientRect is not an element read, so a
+   keystroke that leaves the caret inside the band costs no element geometry. */
+function settleRead(s) {
+  if (!live(s)) return;
+  const vv = window.visualViewport;
+  const oy = vv ? vv.offsetTop : 0;
+  const floor = popover.popTop(s.pop) - 10;
+  const ceil = oy + 64;
+  let c = null;
+  try {
+    const sel = window.getSelection();
+    if (sel && sel.rangeCount) {
+      const b = sel.getRangeAt(0).getBoundingClientRect();
+      if (b && (b.top || b.bottom)) c = b;
+    }
+  } catch {}
+  if (!c) c = s.el.getBoundingClientRect();
+  if (c.bottom > floor) queueScroll(c.bottom - floor);
+  else if (c.top < ceil) queueScroll(c.top - ceil);
+}
+
+function queueScroll(dy) {
+  mutate(() => {
+    markSelfScroll();
+    window.scrollBy(0, dy);
+  });
+}
+
+/* ---------- closing ---------- */
+
+function teardown(s, o) {
+  if (session !== s) return;
+  session = null;
+  s.ac.abort(); // every listener on <p>, document and visualViewport, at once
+  // Remove the WHOLE popover shell, not just the button bar inside it;
+  // removing only the bar left an empty white pill floating on the page.
+  popover.close(s.pop);
+  s.el.contentEditable = "false";
+  s.el.classList.remove("editingP");
+  render.setEditing(null);
+  if (!o || o.repaint !== false) render.renderPara(s.para, { stable: true, force: true });
+}
+
+function save(s) {
+  if (session !== s) return;
+  /* innerText, not textContent: it respects white-space:pre-wrap and turns the
+     contenteditable's <div>/<br> breaks into \n. Only TRAILING whitespace is
+     stripped. */
+  const v = s.el.innerText.replace(/\s+$/, "");
+  const untouched = v === s.raw;
+  teardown(s, { repaint: false });
+
+  // Auto mode commits on a click elsewhere, so "clicked in, clicked straight
+  // out" must leave no trace at all: no record, no toast, nothing to undo.
+  if (s.auto && untouched) {
+    render.renderPara(s.para, { stable: true, force: true });
+    return;
+  }
+  if (v.trim() === s.orig.trim()) {
+    if (s.existing) store.deleteRev(s.chap, s.snip);
+    else render.renderPara(s.para, { stable: true, force: true });
+    toast("No change from the original");
+    return;
+  }
+  store.upsertRev(s.chap, s.snip, s.orig, v);
+  /* Repaint EXPLICITLY, exactly as the old redecorateStable(p) did. teardown
+     ran with repaint:false, so the <p> still holds the raw markdown this
+     editor put in it, and the change event alone is not enough to get rid of
+     it: upsertRev mutates the existing record IN PLACE, so re-saving an
+     existing revision without touching the text leaves both the record's
+     identity and its `revised` string unmoved and the renderer's memo
+     short-circuits. The paragraph would sit there as literal asterisks, with
+     no diff and no dots, until a mode toggle or a reload. When the text DID
+     change the subscriber has already painted and this second pass is a
+     no-op assignment on one paragraph. */
+  render.renderPara(s.para, { stable: true, force: true });
+  toast(v.trim() ? "Revision saved" : "Marked for deletion");
+}
+
+/* ---------- caret ---------- */
 
 function seedSelection(p, raw, seedQuote) {
   /* raw is RAW MARKDOWN and seedQuote is RENDERED text with curly quotes, so
@@ -359,7 +392,7 @@ function nearestIndexOf(hay, needle, near) {
   return best;
 }
 
-export function placeCaret(p, raw, caret) {
+function placeCaret(p, raw, caret) {
   let idx = -1;
   if (caret && caret.before) {
     let probe = caret.before;
