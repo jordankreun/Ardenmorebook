@@ -12,7 +12,7 @@ Before I went to anybody, I went down and looked at it alone.
 
 The thaw was three days old and the bottoms lay steaming. I got over the hedge at the beck end and walked out into the thistle, dead and grey and standing to the knee from the autumn before, and I stopped in the middle of eighty acres of it in good boots with the water running somewhere out of sight. A lark was up over the far end, going at it as though the year were already decided. I pulled a handful of the dead stuff to see what held it and came away with a fistful of root, white and thick as a finger, running off sideways further than I cared to follow. I dug at the mat with my heel. The ground under it was black and wetter than I had looked for, and it smelled of a shut room with the door finally opened.
 
-I could read that ground about as well as I read a language I have never been able to speak. There was worth in it. I could read the fall of the ground and where the water would sit in a wet March, and I could have drawn the whole field to a quarter of an inch and had it right. What I could not have told you was when to put a share into it, nor what to sow when I had, nor how many hands and weeks and horses stood between a dead field and a bushel of anything at all. I climbed back over the hedge with my boots weighing twice what they had, and went home, and did no more farming.
+I could read that ground about as well as I read a language I have never been able to speak. There was worth in it. I had the fall of it, and where the water would sit in a wet March, and I could have drawn the whole field to a quarter of an inch and had it right. What I could not have told you was when to put a share into it, nor what to sow when I had, nor how many hands and weeks and horses stood between a dead field and a bushel of anything at all. I climbed back over the hedge with my boots weighing twice what they had, and went home, and did no more farming.
 
 So I did the one wise thing left to me. I went to Cael.
 
@@ -36,7 +36,7 @@ I said the crossing might be built higher. He said it might. Neither of us was t
 
 He set down his mallet and looked at me a while with those sharp old eyes, and I understood I was being weighed again, the way I had been weighed the first evening over his cup, and that the weighing was not about me this time but about whoever he was deciding whether to say. A man does not hand his neighbors' futures to a stranger lightly, and I was still, by that valley's slow reckoning, most of a stranger.
 
-He took his time over it. He finished the rod he had in his hand and knocked the ends off flush.
+He took his time over it. He finished the rod he had in his hand and pushed the ends home with his thumbs.
 
 "How long would they have it?"
 
@@ -170,9 +170,9 @@ I said the well was sound. Hal said aye. That was the whole of my contribution t
 
 But I went down now and again through that spring, drawn by something I did not examine too closely, and stood at the edge of the bottoms and watched a dead field come back to life under one family's hands, the thistle going down before Hal's share and the black earth turning up wet and waiting behind him, Bess and the older children following to pick the stones, and I found that watching it moved me in a way I had not predicted. I had spent my whole working life making things happen by will and by working, reaching into the shape of the world and asking it, politely or otherwise, to be other than it was. And here were two people making a far older and better kind of thing happen by nothing but their own bent backs and the turning of the year, asking the ground for nothing it had not always been ready to give, and it humbled me in a way the hill for all its wonders never quite had.
 
-There was one afternoon of it in particular. I had come down the track meaning to go into the village and had somehow not gone, and I stood instead in the gap of the hedge at the beck end with my forearms on the top rail for the better part of an hour.
+There was one afternoon of it in particular, well on in that spring. I had come down the track meaning to go into the village and had somehow not gone, and I stood instead in the gap of the hedge at the beck end with my forearms on the top rail for the better part of an hour.
 
-The share was away at the far end and coming back. Hal had the plough, and one of the older children was at the horse's head, and I never did ask whose horse it was. The thistle went down in front of the pair of them in a long grey wave and did not get up again, and behind it the ground came over black and shining and lay steaming in the cold. There were rooks on it before he was thirty yards past, walking up and down the new furrow with their hands behind their backs like inspectors.
+The share was away at the far end and coming back. Hal had the plough, and one of the older children was at the horse's head, and I never did ask whose horse it was. The thistle went down in front of the pair of them in a long grey wave and did not get up again, and behind it the ground came over black and shining and lay steaming in the cold. There were rooks on it before he was thirty yards past, walking the new furrow up and down with the unhurried thoroughness of men sent to inspect work they had not paid for.
 
 Bess and the two biggest children worked across the turned part with a barrow, picking stones. They did not do it quickly. They did it the way you do a thing whose size you already know: bend, and lift, and carry, and go back. The heap at the hedge end stood to my knee that afternoon. By the autumn I could not see over it.
 
@@ -182,7 +182,7 @@ I walked the bottoms with Hal Wray a fortnight after they came across.
 
 It was his idea, not mine. He sent word up by Soren that if I had a morning he would be obliged to show me something, which is how a careful man says he has found a problem and does not wish to be blamed for it.
 
-The boy brought it up with the bread. He set the loaf on the bench first, as he always did, so that whatever he had come to say could be said with his hands empty, and then he delivered it standing in the middle of the workroom floor with his cap in his fist, the way you deliver a thing that is not yours.
+The boy brought it up with the bread. He set the loaf on the bench first, as he always did, so that whatever he had come to say could be said with his hands empty, and then he delivered it standing in the middle of the Study floor with his cap in his fist, the way you deliver a thing that is not yours.
 
 "Hal Wray says, if you've a morning, he'd be obliged to show you something."
 
@@ -194,7 +194,7 @@ The boy brought it up with the bread. He set the loaf on the bench first, as he 
 
 "So I'd have it right."
 
-I said I would go down in the morning. Soren nodded and put his cap on, and then stood there a moment longer than he generally stood anywhere.
+I said I would go down in the morning. Soren nodded and put his cap on, and did not go.
 
 "He's got the one end of that roof thatched and the other end open," he said. "You can see sky through the back of it from the lane."
 
@@ -208,7 +208,7 @@ We started at the beck end and walked up.
 
 "That's yours," Hal said, of the first stretch, and it was: eighty-odd acres of good flat ground with a hedge one side and water the other, the thistle just beginning to go down before his share at the near end and standing to the knee over all the rest.
 
-He read it to me as we went, without meaning to teach me anything by it. The near corner lay wet and would want a ditch opened before it wanted anything else; there had been one once, and you could still see where by the line the rushes kept. The hedge along the west side was a good hedge that had not been laid in twenty years, and laying it was three weeks with a hook for one man, and worth every hour of it. And under the thistle, if you looked along the ground rather than at it, you could still make out the old ridges from whenever the field had last been in corn, standing up under the mat like the bones of a hand under a cloth.
+He read it to me as we went, without meaning to teach me anything by it. The near corner lay wet and would want a ditch opened before it wanted anything else; there had been one once, and you could still see where by the line the rushes kept. The hedge along the far side was a good hedge that had not been laid in twenty years, and laying it was three weeks with a hook for one man, and worth every hour of it. And under the thistle, if you looked along the ground rather than at it, you could still make out the old ridges from whenever the field had last been in corn, standing up under the mat like the bones of a hand under a cloth.
 
 "How long since it was cropped?"
 
@@ -274,9 +274,9 @@ I asked him what he wanted done about the strip, and he said nothing at all; he 
 
 I said I would look into it. I remember saying it. It was the sort of thing I said in those days when I meant that a thing had gone onto a list.
 
-There was an actual list. It lived on the workroom bench under the small brass scale, a single sheet folded once, and I copied it out fresh every few weeks because I liked the look of a clean one, and I ruled it, being my father's son and unable to help myself.
+There was an actual list. It lived on the Study bench under the small brass scale, a single sheet folded once, and I copied it out fresh every few weeks because I liked the look of a clean one, and I ruled it, being my father's son and unable to help myself.
 
-I unfolded it that evening and read it through before I wrote anything on it. Four collars from Tomas, and the pattern to settle with him. Crystal to order, and the carriage of it to arrange with Kellard before the roads went soft. Strap-iron. Glass, and where in the world to get glass on that side of the country. The note had a line to itself with nothing written after it, because there was nothing I wanted to look at yet. Timber, for a thing I had been drawing in my head for a month and had not yet put on paper.
+I unfolded it that evening and read it through before I wrote anything on it. Four collars from Tomas, and the pattern to settle with him. Crystal to order, and the carriage of it to arrange with Kellard, who wanted a month's warning of anything and said so whether he got it or not. Strap-iron. Glass, and where in the world to get glass on that side of the country. The note had a line to itself with nothing written after it, because there was nothing I wanted to look at yet. Timber, for the house I had been drawing in my head for a month and had not yet put on paper.
 
 I dipped the pen and wrote at the foot of it, in the same plain letters I had used on the Wrays' paper: *The bottoms. The strip. The gate.*
 

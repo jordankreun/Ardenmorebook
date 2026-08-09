@@ -9,7 +9,7 @@
 - Drafted: **BOOK ONE COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III** (37 files,
  `00-prologue.md` … `32b-coda.md`). The book ran past the ~28-chapter suggested shape, as the
  outline's own scaffolding-not-law note allows.
-- Word count: **184,662** (prose lines only; blank lines and `#`-headers excluded). Every length
+- Word count: **185036** (prose lines only; blank lines and `#`-headers excluded). Every length
  target is retired (session-lock #7, `tools/superseded.txt`).
 - **2026-08-09 — PARTS I AND II EXPANDED to roughly 2.3×** on the author's instruction, by turning
  the book's compressed summary into played scene. Ch 1–15 + both interludes, 53,632 → 124,957 words;

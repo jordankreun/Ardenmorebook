@@ -80,7 +80,7 @@ I went down for her on the morning the barn was tight enough to put a horse in, 
 
 Lira had the reckoning ready. She did not go and fetch it when I asked; it was already under the counter with a stone on it, and had been there some while, waiting on the day I should remember that I owned a horse and a barn at the same time. She set it in front of me, turned it the right way round, stood back, and watched me read it. That is how Lira hands a man his bill.
 
-It was a long piece of paper for one horse. The board itself was not on it. The board I had been settling at the quarter-day since the third week of spring, in the ordinary way, and she had never once had to ask me for it. This was all the rest, the things a quarter's price does not cover and a careful woman does not forget. Hay by the truss over the hard weeks, and the trusses counted. Oats set out separately, because I had asked for oats while Snow was working and stopped asking when she was not. A farrier in the autumn that I had known nothing whatever about and that had plainly wanted doing. And two nights of a lad sitting up with her over the worst of the ice, a charge I would never have thought to make, entered at the plainest rate on the page.
+It was a long piece of paper for one horse, and not a line of it was board. The board I had settled at the quarter-day since the third week of spring, in the ordinary way, and she had never once had to ask me for it twice. This was all the rest, the things a quarter's price does not cover and a careful woman does not forget. Hay by the truss over the hard weeks, and the trusses counted. Oats set out separately, because I had asked for oats while Snow was working and stopped asking when she was not. A farrier in the autumn that I had known nothing whatever about and that had plainly wanted doing. And two nights of a lad sitting up with her over the worst of the ice, a charge I would never have thought to make, entered at the plainest rate on the page.
 
 "That's fair."
 
@@ -196,9 +196,9 @@ He came out with sawdust in the grey of his hair, and read my list, and said not
 
 "It looks it."
 
-"Cut for a job the far side that never came." He worked a board out of the stack and stood it on end and turned it so I could look along the edge. It was good sound stuff without a shake in it anywhere I could find. "There's forty foot of it wants using before it goes off."
+"Cut for a job the far side that never came." He worked a board out of the stack and stood it on end and turned it so I could look along the edge. It was good sound stuff without a shake in it anywhere I could find. "More of it in there than your house wants, and it wants using before it goes off."
 
-I asked him the price and he named it, in silver, without a pause and without looking at me, and it was a fair price and not one copper under a fair price. I said so. He took that as he took everything, and went for the tally-stick.
+I asked him the price and he named it, in silver, without a pause and without looking at me, and it was a fair price and not one copper under a fair price. I said so. He gave no sign of having heard it, and went for the tally-stick.
 
 At the gate, with the cart already loading, he said the other thing he had to say.
 
@@ -208,7 +208,7 @@ At the gate, with the cart already loading, he said the other thing he had to sa
 
 "You'll want it set down at the foot, then, and a sledge, and four men to a sledge on that slope." He looked at me a moment longer than the sentence needed. "Three, if the ground were froze. It's not froze."
 
-So we got it up on sledges over three days, four men to a sledge on the steep pull, and I took my turn on the rope like anybody else. I had spent twenty years drawing buildings for other men to sweat over. I had no business whatever being as pleased with myself as I was on the third evening of that.
+So we got it up on sledges over three days, four to a sledge on the steep pull, Jorin and Ren and a pair of hands hired off the village for the days it took, and I took my turn on the rope like anybody else. I had spent twenty years drawing buildings for other men to sweat over. I had no business whatever being as pleased with myself as I was on the third evening of that.
 
 Maret said one thing more to me, on the second morning, to the yard rather than to me, while I was checking the load.
 
@@ -232,17 +232,17 @@ He waited.
 
 Tomas looked at the bench for a while. A quiet man's silence has a length to it, and by then I knew better than to go filling his.
 
-"Small work's the only work a man gets to do the whole of," he said.
+"Small work's the only work you get to do the whole of," he said.
 
 I have turned that sentence over many times since and I am still not certain I have all of it.
 
-He counted the money without hurrying, and put it in the tin, and hung the last of his tongs on the wall, and banked the fire for the night with his back half to me. I said goodnight and went out into the blue end of the afternoon. Behind me the bellows sighed once as the fire settled. That was all of it, and I went up my own track in the cold thinking about window-catches.
+He took the money off the bench at last and put it in the tin without looking into it, and hung the last of his tongs on the wall, and banked the fire for the night with his back half to me. I said goodnight and went out into the blue end of the afternoon. Behind me the bellows sighed once as the fire settled. That was all of it, and I went up my own track in the cold thinking about window-catches.
 
 I moved into it on a soft grey evening at the very end of that spring, carrying my bed and my chest of clothes and my kettle down from the Study by hand, the boy helping without being asked, and I left the Study to be at last what it had always wanted to be, a room for work, with the locked chest still in its corner and my instruments ranged on their proper bench and no bed to shame them.
 
 It took eleven trips. I know the number because the boy counted them and gave me the total at the end without being asked, in the manner of a man handing in a survey.
 
-The bed went down in pieces, and I got my thumb between the frame and the door-post on the second trip and said a word the boy pretended not to have heard. The kettle went down full, which was foolish, and I did it anyway, and arrived with a wet boot for my trouble. The chair went down on my back. The books went four at a time in a grain sack, having nothing better to travel in, and Soren carried them two at a time in his arms with his chin on the top one, and set them on the new shelf in the order they had stood in on the old, and did not ask whether that was the order I wanted, having already been in and looked.
+The bed went down in pieces, and I got my thumb between the frame and the door-post on the second trip and said a word the boy pretended not to have heard. The kettle went down full, because emptying it would have taken a minute I did not think I had, and I arrived with a wet boot for my trouble. The chair went down on my back. The books went four at a time in a grain sack, having nothing better to travel in, and Soren carried them two at a time in his arms with his chin on the top one, and set them on the new shelf in the order they had stood in on the old, and did not ask whether that was the order I wanted, having already been in and looked.
 
 He stopped once, on the seventh trip or the eighth, in the Study doorway with a rolled blanket under each arm, and took in the room as he had taken it in the first afternoon he ever came into it, the walls and the beams and the boards, all of it, in one unhurried sweep.
 

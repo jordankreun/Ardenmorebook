@@ -10,7 +10,7 @@ The bread came up in the morning. That was the first fixed point of the day and 
 
 There was a morning that autumn when I was out on the crown before the light, seeing what the frost had done to the new stone, and I came back down to the Study and found it all done already and the boy gone. The door came open on Tomas's hinges without a sound. The room was cold at the edges and warm in the middle. The loaf stood on the bench in its cloth with the cloth turned back off the crust so the crust would not sweat, and there were two turfs on the fire set the right way up, and the kettle had been lifted off the trivet and hung on the hook, because I had left it where it would have boiled itself dry by seven. He had not said so and he would not.
 
-I looked at that from the door, with the cold coming in behind me, for longer than a loaf of bread asks to be looked at. Then I shut the door and cut the heel off it and ate it standing, and swung the kettle back over the coals, and got on.
+I looked at that from the door, with the cold coming in behind me, for longer than a loaf of bread asks to be looked at. Then I shut the door and cut the heel off it and ate it standing.
 
 Then the kettle. Then the work. My days that autumn were full of the small honest labor of a practice getting itself onto its feet, and I found, to a surprise that shames me a little to remember, that I was glad of the work in a way I had not been glad of anything in years. Where the wall had brought the villagers up to watch a thing fail, the light brought them up to ask for something. It could not be had, not yet.
 
@@ -22,11 +22,11 @@ The first of them to ask me outright was a woman who came up on a bright cold mo
 
 "It isn't. I've come to ask you for something and I didn't care to come empty-handed, and now I've said so, so we can get on."
 
-I have thought about her often since. Everyone else in that valley came at a thing by the long road, round by the weather and the state of the track and the price of slate, and got to the true errand only after they had built somewhere soft to land. She came at it straight. It meant I had to answer her straight, and I was not ready to.
+I have thought about her often since. She was the only one of them who ever did it that way, who set the errand down on the doorstone in her first breath and left it lying there in the daylight between us with nothing over it. It meant I had to answer her straight, and I was not ready to.
 
 Her mother lived with them. The old woman was seventy and would not have a candle beside her bed, not since the year she knocked one over onto the bedding and the house woke to it, and she would not be talked round, and she slept badly in the dark and worse for the shame of it. There was a light up the hill that did not burn. Her daughter had seen it in the window from her own yard three fields off, and had thought about it every night since, and here she was.
 
-I told her no. I said the lamp would not burn anywhere but on that hill, and that I did not know enough yet to make one that would, and I left it there. The rest of it was mine. It is a poor feeling, standing in your own doorway in the sunshine telling a woman what she cannot have and giving her no reason she can take home with her.
+I told her no. I said there was no having it yet, not from me and not from anybody, and that I was sorry for it, and I did not tell her why. The why of it was mine, and it was not finished, and a half-built reason handed across a doorstone is worse than none at all, because a body will carry it home and build the rest of it herself out of whatever is lying about. It is a poor feeling, standing in your own doorway in the sunshine telling a woman what she cannot have and giving her no reason she can take home with her.
 
 She heard me out and did not argue. "Right," she said, and picked up the basket, and then set it down again on the stone. "You'll want these anyway."
 
@@ -64,7 +64,7 @@ I went out and looked in over the stall door. Snow considered me a while with th
 
 The surveyor's case came up on the carrier's cart from two valleys over with a letter tucked under the strap, and I had it open on the bench that same evening.
 
-I have never been able to look at another trade's tools without wanting an hour alone with them. A surveyor's kit is a beautiful thing and it is nothing whatever like mine. He had the chain in a box of its own, folded down in loops with a leather thong through it; the rods in a canvas sleeve, painted in bands and worn pale at the grips; two plumbs, a trueing square, and a compass in a brass bowl on gimbals with a card so finely divided that a man with my eyes wanted the glass to read it. Every article in that case was made to go out in weather and come home again. Beside it my own drawer looked like a jeweller's: fine files in a roll, calipers, drawn wire coiled by gauge, a small brass scale, the glass itself. His trade walks out and measures the world. Mine sits still and measures things about the size of a thumbnail. We read the same ground and would not understand a word of one another's notes.
+I have never been able to look at another trade's tools without wanting an hour alone with them. A surveyor's kit is a beautiful thing and it is nothing whatever like mine. He had the chain in a box of its own, folded down in loops with a leather thong through it; the rods in a canvas sleeve, painted in bands and worn pale at the grips; two plumbs, a trueing square, and a compass in a brass bowl on gimbals with a card so finely divided that a man with my eyes wanted the glass to read it. Every article in that case was made to go out in weather and come home again. Beside it my own drawer was all indoor work: fine files in a roll, callipers, drawn wire coiled by gauge, a small brass scale, the glass itself. His trade walks out and measures the world. Mine sits still and measures things about the size of a thumbnail. We read the same ground and would not understand a word of one another's notes.
 
 The letter was in a small tight hand and said less than it looked as though it meant to. The compass card had begun to hang, a little, and always in the same quarter, and had hung worse since the summer. The chain had been shortened by a smith after an accident with a gate, and he believed it had been shortened honestly. He had been told I was the sort of man who could put a thing right without first explaining at length that it had been wrong. He would take it kindly if I would look, and would pay for the looking whatever came of it.
 
@@ -94,7 +94,7 @@ He stopped three paces short of the corner and did not go any nearer.
 
 "What has it cost you?"
 
-He had the figure in his book and he gave it to me to the copper, without any working out, in the flat voice a man keeps for a number he has looked at too often. Then he said, "I'll not pay for a thing I can't see mended."
+He had the figure in his book and he gave it to me off the page without any working out, in the flat voice a man keeps for a number he has looked at too often. Then he said, "I'll not pay for a thing I can't see mended."
 
 "You'll be able to see it."
 
@@ -108,7 +108,7 @@ I walked the edges first, along the wall and back again, with my hands in my poc
 
 Then I sat down on a flour sack and let it alone.
 
-That is the part of my trade that has never once looked like anything. The temptation with a cold like that is to push at it, and pushing is precisely what it is braced for. It has had a hundred winters of ordinary weather to lean into and it will take your pushing the same way and be the stronger for it by morning. So you sit. You let the room have you at its own temperature until you have stopped being a warm thing that came in at the door and become another piece of the furniture. My hands went first, then my feet, then the small of my back. Kellard's boy put his head round the door twice in the second hour and went away again both times without saying anything. Out in the front of the store somebody wanted lamp-oil and was given a lecture on lamp-oil, and I listened to the whole of it and learned more about lamp-oil than I have ever had a use for.
+That is the part of my trade that has never once looked like anything. You sit down in your coat with your hat on your knee and you do not move, and there are people in that valley who paid me for such an afternoon and went home privately certain they had been charged for nothing, and were too well mannered ever to say so. What the sitting is for is this. A warm body in a cold place is an event. It moves the air and fetches the cold in toward itself and lays its own small weather down over whatever was there before. You cannot read a thing you are still disturbing. So you sit. You let the room have you at its own temperature until you have stopped being a warm thing that came in at the door and become another piece of the furniture. My hands went first, then my feet, then the small of my back. Kellard's boy put his head round the door twice in the second hour and went away again both times without saying anything. Out in the front of the store somebody wanted lamp-oil and was given a lecture on lamp-oil, and I listened to the whole of it and learned more about lamp-oil than I have ever had a use for.
 
 Somewhere in the third hour I got down on the boards.
 
@@ -180,7 +180,7 @@ After that he would come up following his lunch and settle himself on the floor 
 
 There was one in the rain that I remember for nothing at all happening in it.
 
-It came down the whole afternoon, straight and steady, the sort that has settled in for the day and holds no opinions. On a slate roof that is a fine sound, and on a new slate roof it is better, because you go on listening for the drip that would mean you had been cheated, and it never comes. I had a lamp-collar housing to file and the day's notes to write up. He had the slate. He got the fire up to a proper heart of it at about three and then let it be.
+It came down the whole afternoon, straight and steady, the sort that has settled in for the day and holds no opinions. On a slate roof that is a fine sound, and on a new slate roof it is better, because you go on listening for the drip that would mean you had been cheated, and it never comes. I had an hour's filing in front of me and the week's notes to write up. He had the slate. He got the fire up to a proper heart of it at about three and then let it be.
 
 We did not speak from a little after two until he stood up to go, and not out of any resolve. There was simply nothing wanting to be said. The light went from grey to a duller grey. The file made the noise a file makes. Once he shifted to get his back against the leg of the bench and the slate knocked on the boards, and he said "Sorry," and I said "Mm," and that was the whole conversation of that afternoon.
 
@@ -204,7 +204,7 @@ There was a moment there. There is a way of answering a boy that hands him the w
 
 "That's where it would sit," I said.
 
-He took it in. He looked at the place where the north wall came down to the boards for a while, and he did not ask me who I meant by it.
+He took it in. He looked at the place where the north wall came down to the boards for a while, and he did not ask me what I meant by it.
 
 "All right," he said, and sat down by the fire.
 
@@ -230,7 +230,7 @@ He turned that over. "You looked at it a long time first."
 
 "That's most of it."
 
-He nodded, satisfied, and went back to his slate. I stood at my own bench holding the money I had been robbed with, thinking about the difference between a boy who watches a man work and a boy who reads the work off him.
+He nodded, satisfied, and went back to his slate. I stood at my own bench holding the money I had been robbed with, and could not for a moment think what it was I had been about to do next.
 
 I taught him his letters on that slate, that autumn, because it turned out no one had, and because a boy that sharp going unlettered offended me as a good tool left to rust offends a craftsman.
 
@@ -256,7 +256,7 @@ FILE. WIRE. GLASS. He drew his S backwards for a fortnight and then never again.
 
 He learned them fast. By winter he read anything I put in front of him and wrote a fair plain hand, better than his grandfather's and better than half the men who signed Kellard's book. Numbers were an even more comfortable country to him and he went further into them every week I knew him, out past where I could follow without my full attention.
 
-He had been living in the figures a long while before I ever got there.
+Nobody had taught him those either. I found that out over an account book, and an account book is not where I would have chosen to find anything out.
 
 I keep accounts badly, and that autumn I was keeping more of them than I ever had: the slate and the hauling, the brass off Tomas, the candles, what a barn or a scale had brought in, what I owed at Kellard's and what he owed me. One Wednesday I had the column out and had gone down it twice and got two answers, and the boy asked from the floor what the trouble was, and I told him, being past caring who heard it.
 
@@ -288,7 +288,7 @@ The knife came out of Vethmark. I had written to Penworth for it early in the au
 
 *You ask me to buy a knife for a boy of nine going on ten, in a valley I have never seen, on the recommendation of nobody. I have made inquiries. The cutler I use asked me three questions, of which I could answer one, and informed me that a knife bought for a child is generally bought for the man buying it, and that the commonest error is a blade too long, because length flatters the giver and alarms the household. I have therefore had a plain one. Two and a half inches, a good spring, horn scales, nothing whatever on it to be admired. It will take an edge, it will hold it, and it will not shut on his fingers. I have entered it under sundries, where it will trouble nobody. I have not asked whose boy he is. You will tell me when you have decided to.*
 
-It came up on the post to Kellard's yard in a small hard parcel, the string knotted twice and the ends cut square. Kellard put it across the counter with the rest of it and wrote the line in his book and said nothing at all. I took that kindly.
+It came up on the post to Kellard's yard in a small hard parcel, the string tied twice and the ends cut square. Kellard put it across the counter with the rest of it and wrote the line in his book and said nothing at all. I took that kindly.
 
 When his tenth birthday came, in the deep of that autumn, I gave him a good folding knife of the kind a boy that age wants past all reason, he did not whoop or grin or do any of the things a child does. He opened it, and closed it, and opened it again, and felt the action of it with his thumb, and then he looked up at me with those still dark eyes and said, "This is a serious thing," and he was right. I have never in my life been thanked more completely. Cael told me later, in the one conversation he and I ever had about the boy directly rather than around him, that he worried the boy did not laugh enough.
 
