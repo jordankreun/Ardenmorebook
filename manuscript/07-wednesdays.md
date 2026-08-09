@@ -8,9 +8,9 @@ Word of the lumen went down the hill that autumn the way word of the wall had go
 
 The bread came up in the morning. That was the first fixed point of the day and the one I have missed longest. Soren brought it up from the village on his way to whatever a boy of his age is bound for of a morning, and he brought it without its ever having been asked for or arranged, the way he did most things, and it was always the right bread, the dense dark loaf from the communal oven that keeps a week, never the soft white that goes to dust in three days, because he had worked out, without being told, that a man alone on a hill wants bread that will wait for him. He would set it on the bench inside the door and take in the state of the fire with one glance and mend it if it wanted mending and be gone again before I had properly thanked him, and I learned to leave the thanking mostly unsaid, because thanks embarrassed him the way praise embarrasses a good workman, as a kind of interruption.
 
-There was a morning that autumn when I was out on the crown before the light, seeing what the frost had done to the mortar at the northeast corner, and I came back down to the Study and found the whole of it already done and the boy gone. The door came open on Tomas's hinges without a sound. The room was cold at the edges and warm in the middle. The loaf stood on the bench in its cloth with the cloth turned back off the crust so the crust would not sweat, and there were two turfs on the fire set the right way up, and the kettle had been lifted off the trivet and hung on the hook, because I had left it where it would have boiled itself dry by seven. He had not said so and he would not.
+There was a morning that autumn when I was out on the crown before the light, seeing what the frost had done to the new stone, and I came back down to the Study and found it all done already and the boy gone. The door came open on Tomas's hinges without a sound. The room was cold at the edges and warm in the middle. The loaf stood on the bench in its cloth with the cloth turned back off the crust so the crust would not sweat, and there were two turfs on the fire set the right way up, and the kettle had been lifted off the trivet and hung on the hook, because I had left it where it would have boiled itself dry by seven. He had not said so and he would not.
 
-I stood in the doorway with the cold coming in behind me and looked at that for longer than a loaf of bread asks to be looked at. Then I shut the door and cut the heel off it and ate it standing, and swung the kettle back over the coals, and got on.
+I looked at that from the door, with the cold coming in behind me, for longer than a loaf of bread asks to be looked at. Then I shut the door and cut the heel off it and ate it standing, and swung the kettle back over the coals, and got on.
 
 Then the kettle. Then the work. My days that autumn were full of the small honest labor of a practice getting itself onto its feet, and I found, to a surprise that shames me a little to remember, that I was glad of the work in a way I had not been glad of anything in years. Where the wall had brought the villagers up to watch a thing fail, the light brought them up to ask for something. It could not be had, not yet.
 
@@ -44,7 +44,7 @@ It was the third year of it. The damp came up out of the floor and into the mow,
 
 I went down with him. The barn was a good one, older than the house that stood in front of it, and inside it smelled of hot hay and wet stone. I could feel the wrongness in the floor before I had gone six paces, low down and everywhere, like a cellar door standing open somewhere out of sight.
 
-There had been a working in that barn once. I found the whole of it in the end, laid in a line under the threshold stone and up both jambs by somebody sixty years dead at least, and it was decent work, plain and unshowy and meant to last a lifetime, which is all any of us can honestly promise. It had lasted a good while longer. Then the sill had settled half an inch on the beck side, as sills do, and the line of it had opened, and for three winters that barn had been standing there with its coat unbuttoned.
+There had been a working in that barn once. I found the run of it in the end, laid in a line under the threshold stone and up both jambs by somebody sixty years dead at least, and it was decent work, honest and unshowy and meant to last a lifetime. That is all any of us can promise. It had lasted a good while longer. Then the sill had settled half an inch on the beck side, as sills do, and the line of it had opened, and for three winters that barn had been standing there with its coat unbuttoned.
 
 The mending took most of a day and it was ordinary work of the kind nobody puts in a story. He lifted the threshold stone and I told him where to lever it. Then I sat on an upturned bucket in the doorway with my sleeves rolled and my hands in the wet and closed the line where it had parted. I did not lay a new working over the old one. A man who does that is telling the ground it was wrong, and the ground had not been wrong; the ground had only moved. So I put the old fellow's line back the way he had drawn it, and made the join in his hand as near as I could read it, and by the middle of the afternoon the floor had gone quiet under my palms. I had a headache and a pair of shoulders like rope, and I slept that night from eight until light.
 
@@ -58,7 +58,7 @@ That is how Snow came to spend the back half of that autumn eating out of a barn
 
 "It was a payment."
 
-"Aye," said Lira, and rubbed something off the slate with the side of her thumb. "Well. Your mare knows it."
+"Aye," said Lira, and set the slate face down on the bar. "Well. Your mare knows it."
 
 I went out and looked in over the stall door. Snow considered me a while with the air of an animal who has come into money and does not propose to discuss where it came from, and then went back to the hay.
 
@@ -70,7 +70,7 @@ The letter was in a small tight hand and said less than it looked as though it m
 
 The chain took an afternoon and no magic at all. The smith had made a good honest job of the mend and had made it a hair long, because a hair is nothing to a smith, and a hair repeated over a hundred links is not nothing to a man drawing a boundary. I found it with my own scale and cut it back and said so in the note that went with it, and did not say whose hand had done it.
 
-The compass was the interesting one. The card was true, and the pivot was true, and the fault lay in neither. It had been carried for years in a case with an iron trueing square lying up against the bowl, and it had been quietly taking an opinion from that square the whole time. There was no working in it to mend and nothing broken to replace. I sat with it a full evening and let it forget. Then I gave it a length of drawn wire wound where its maker had not thought to wind any, and I moved the square to the far end of the case, which was the whole of my professional advice and cost him nothing.
+The compass was the interesting one. The card was true, and the pivot was true, and the fault lay in neither. It had been carried for years in a case with an iron trueing square lying up against the bowl, and it had been quietly taking an opinion from that square the whole time. There was no working in it to mend and nothing broken to replace. I sat with it a full evening and let it forget. Then I gave it a length of drawn wire wound where its maker had not thought to wind any, and I moved the square to the far end of the case. That was the whole of my professional advice, and it cost him nothing.
 
 He paid the account by return, with a note of two lines, and asked whether I did clocks.
 
@@ -82,7 +82,7 @@ I waited a while in the front of the store before he could take me through. Mare
 
 Then Kellard lifted the flap of the counter and said, "Through here," and I went through.
 
-The back storeroom was long and low and smelled of flour and cold stone, and it was the tidiest room I stood in that whole first year. Sacks squared off against the wall. Candle-boxes stacked by the dozen with the dates chalked on the ends. The salt up on a pallet a hand's breadth off the floor with a cover over it, and beside that a second pallet standing empty, where the salt had plainly used to be.
+The back storeroom was long and low and smelled of flour and cold stone, and it was the tidiest room I stood in that whole first year. Sacks squared off against the wall. Candle-boxes stacked by the dozen with the dates chalked on the ends. The salt up on a pallet a hand's breadth off the floor with a cover over it, and beside that a second pallet standing empty, where the salt had stood until lately.
 
 He stopped three paces short of the corner and did not go any nearer.
 
@@ -104,7 +104,7 @@ I stood in that storeroom a long while with my hands in my pockets, which is mos
 
 It took me four hours to find it, and for three of them I did nothing a man watching would have called work.
 
-I walked the edges first, along the wall and back again, with my hands in my pockets and my breath going out in front of me. That is how you learn the shape of such a thing. Not by feeling for the cold, which is only the noise it makes, but by walking about in it until you know exactly where you stop being outside it. The edge was hard. Two paces from the corner the air was a cool storeroom in autumn; one pace from the corner it was the middle of January; and there was no country in between.
+I walked the edges first, along the wall and back again, with my hands in my pockets and my breath going out in front of me. That is how you learn the shape of such a thing. Not by feeling for the cold. The cold is only the noise it makes. You walk about in it until you know exactly where you stop being outside it. The edge was hard. Two paces from the corner the air was a cool storeroom in autumn; one pace from the corner it was the middle of January; and there was no country in between.
 
 Then I sat down on a flour sack and let it alone.
 
@@ -200,7 +200,7 @@ He had been out on the crown before he came in, and he came in with the cold sti
 
 "So is that why?"
 
-There was a moment there. There is a way of answering a boy that hands him the whole machine, and I have watched grown men do it and watched the child's face go politely blank while it was done. And there is the other way, which is to give him the one true thing you can stand behind and no more of it than that.
+There was a moment there. There is a way of answering a boy that hands him the whole machine, and I have watched grown men do it and watched the child's face go politely blank while it was done. And there is the other way: you give him the one true thing you can stand behind, and no more of it than that.
 
 "That's where it would sit," I said.
 
@@ -242,7 +242,7 @@ I had a drawing pinned to the board and wanted the smaller sheet under it, and I
 
 "I can do the figures on them," he said. "I can't do the rest of it."
 
-He said it the way he said everything, flat, with no weight on it, a plain fact about the world handed to a man who plainly needed it. There was no shame anywhere in it that I could find, and I have gone back over that afternoon a number of times to be sure. It had never come up, that was all. Cael read well enough and wrote like a man fighting a wasp, and there had been ten years of a holding and a parish and a child in them, and not one evening with a spare hour standing in it.
+He said it as he said everything, flat, with no weight on it, a fact about the world handed to a man who needed it. There was no shame anywhere in it that I could find, and I have gone back over that afternoon a number of times to be sure. It had never come up, that was all. Cael read well enough and wrote like a man fighting a wasp, and there had been ten years of a holding and a parish and a child in them, and not one evening with a spare hour standing in it.
 
 I got the slate out from inside his coat and put it on his knees.
 
@@ -250,7 +250,7 @@ I got the slate out from inside his coat and put it on his knees.
 
 "It's the front of a roof."
 
-"It is now. It's also the beginning of very nearly everything." He looked at it a long moment as though waiting for it to begin something, and it did not, and I have kept remarks of that sort to myself in front of children ever since. So I was plain instead. I gave him the letters that make the names of the things lying on my own bench, and set each thing down beside its name in a row along the boards, and let him go from the thing to the word and back again until he had no more use for the thing.
+"It is now. It's also the beginning of very nearly everything." He looked at it a long moment as though waiting for it to begin something, and it did not, and I have kept remarks of that sort to myself in front of children ever since. So I stopped being clever. I gave him the letters that make the names of the things lying on my own bench, and set each thing down beside its name in a row along the boards, and let him go from the thing to the word and back again until he had no more use for the thing.
 
 FILE. WIRE. GLASS. He drew his S backwards for a fortnight and then never again.
 
@@ -288,11 +288,11 @@ I had written to Penworth for the knife early in the autumn, and it was the firs
 
 *You ask me to buy a knife for a boy of nine going on ten, in a valley I have never seen, on the recommendation of nobody. I have made inquiries. The cutler I use asked me three questions, of which I could answer one, and informed me that a knife bought for a child is generally bought for the man buying it, and that the commonest error is a blade too long, because length flatters the giver and alarms the household. I have therefore had a plain one. Two and a half inches, a good spring, horn scales, nothing whatever on it to be admired. It will take an edge, it will hold it, and it will not shut on his fingers. I have entered it under sundries, where it will trouble nobody. I have not asked whose boy he is. You will tell me when you have decided to.*
 
-It came up on the post to Kellard's yard in a small hard parcel with the string knotted the way Penworth's man knots string. Kellard put it across the counter with the rest of it and wrote the line in his book and said nothing at all, which I took kindly.
+It came up on the post to Kellard's yard in a small hard parcel, the string knotted twice and the ends cut square. Kellard put it across the counter with the rest of it and wrote the line in his book and said nothing at all. I took that kindly.
 
 When his tenth birthday came, in the deep of that autumn, I gave him a good folding knife of the kind a boy that age wants past all reason, he did not whoop or grin or do any of the things a child does. He opened it, and closed it, and opened it again, and felt the action of it with his thumb, and then he looked up at me with those still dark eyes and said, "This is a serious thing," and he was right. I have never in my life been thanked more completely. Cael told me later, in the one conversation he and I ever had about the boy directly rather than around him, that he worried the boy did not laugh enough.
 
-He came up on a Thursday at the end of the light, without the boy and without an errand, and stood a moment in the middle of my floor and took the room in the way his grandson took rooms in, and I understood for the first time where the boy had got it. He would not have the chair. He sat on the stool by the bench, which put his back to the fire and his face where I could not read much of it, and I have thought since that this was not an accident.
+He came up on a Thursday at the end of the light, without the boy and without an errand, and stood a moment in the middle of my floor and took the room in as his grandson took rooms in, and I understood for the first time where the boy had got it. He would not have the chair. He sat on the stool by the bench. That put his back to the fire and his face where I could not read much of it, and I have thought since that it was not an accident.
 
 "He showed me the knife," he said.
 
