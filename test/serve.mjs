@@ -20,6 +20,13 @@ const TYPES = {
   ".webmanifest": "application/manifest+json",
 };
 
+/* Server-side state for the sync stub, so a test can push from one "device" and
+   pull from another. Reset with resetStore(). */
+export const STORE = { notes: [], revisions: [], clearedAt: 0 };
+export function resetStore(v = {}) {
+  STORE.notes = v.notes || []; STORE.revisions = v.revisions || []; STORE.clearedAt = v.clearedAt || 0;
+}
+
 export function serve(port) {
   const server = createServer(async (req, res) => {
     let p = decodeURIComponent(new URL(req.url, "http://x").pathname);
@@ -35,8 +42,19 @@ export function serve(port) {
       let body = "";
       req.on("data", (c) => { body += c; });
       await new Promise((r) => req.on("end", r));
+      let j = {};
+      try { j = JSON.parse(body || "{}"); } catch {}
+      // Enough of the real server to exercise the tombstone: the epoch only ever
+      // moves forward, and records at or before it are dropped.
+      if (req.method === "POST") {
+        STORE.clearedAt = Math.max(STORE.clearedAt, Number(j.clearedAt) || 0);
+        const keep = (a) => (a || []).filter((r) => (r.ts || 0) > STORE.clearedAt);
+        if (Array.isArray(j.notes)) STORE.notes = keep(j.notes);
+        if (Array.isArray(j.revisions)) STORE.revisions = keep(j.revisions);
+        if (STORE.clearedAt) { STORE.notes = keep(STORE.notes); STORE.revisions = keep(STORE.revisions); }
+      }
       res.writeHead(200, { "Content-Type": "application/json", "Cache-Control": "no-store" });
-      res.end(JSON.stringify({ ok: true, via: "stub", notes: [], revisions: [] }));
+      res.end(JSON.stringify({ ok: true, via: "stub", notes: STORE.notes, revisions: STORE.revisions, clearedAt: STORE.clearedAt }));
       return;
     }
 

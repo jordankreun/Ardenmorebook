@@ -133,11 +133,18 @@ async function writeFiles(repo, branch, token, files, message) {
    `resolved` is STICKY. Resolution is a fact about the manuscript (the original text
    is no longer there), not an opinion, so an older client must not be able to
    un-resolve a record by pushing a copy that predates the resolve. */
-function mergeRecords(stored, incoming) {
+/* `clearedAt` is a TOMBSTONE EPOCH, and it is the only thing that can actually
+   empty the store. Deleting the JSON files does not work: the records also live
+   in every device's localStorage, and the merge above is a union, so the next
+   push from a phone that has not been opened in a week restores all of them.
+   Every record at or before the epoch is dropped on both sides instead. */
+function mergeRecords(stored, incoming, clearedAt) {
   const key = (r) => (r.chap || "") + "|" + (r.snip || "");
+  const cut = Number(clearedAt) || 0;
   const out = new Map();
   const add = (r) => {
     if (!r || typeof r !== "object") return;
+    if (cut && (r.ts || 0) <= cut) return;
     const k = key(r), prev = out.get(k);
     if (!prev) { out.set(k, { ...r }); return; }
     const winner = (r.ts || 0) > (prev.ts || 0) ? { ...r } : { ...prev };
@@ -227,7 +234,11 @@ module.exports = async (req, res) => {
       const notes = await ghReadJson(repo, branch, token, "feedback/notes.json", []);
       const revisions = await ghReadJson(repo, branch, token, "feedback/revisions.json", []);
       const state = await ghReadJson(repo, branch, token, "feedback/reader-state.json", {});
-      res.status(200).json({ ok: true, notes, revisions, bookmark: state.bookmark || null });
+      res.status(200).json({
+        ok: true, notes, revisions,
+        bookmark: state.bookmark || null,
+        clearedAt: Number(state.clearedAt) || 0,
+      });
       return;
     }
 
@@ -241,21 +252,35 @@ module.exports = async (req, res) => {
       const files = [];
       let mergedNotes = null, mergedRevs = null;
 
-      if (Array.isArray(body.notes)) {
+      // The epoch only ever moves forward, so a stale device cannot un-clear the
+      // store by pushing an old (or absent) value.
+      const state = await ghReadJson(repo, branch, token, "feedback/reader-state.json", {});
+      const storedCleared = Number(state.clearedAt) || 0;
+      const clearedAt = Math.max(storedCleared, Number(body.clearedAt) || 0);
+      let stateDirty = false;
+      if (clearedAt !== storedCleared) { state.clearedAt = clearedAt; stateDirty = true; }
+
+      // A clear must rewrite BOTH files even if the client sent only one array,
+      // or the untouched half keeps records the epoch has already retired.
+      const clearing = clearedAt > storedCleared;
+
+      if (Array.isArray(body.notes) || clearing) {
         const stored = await ghReadJson(repo, branch, token, "feedback/notes.json", []);
-        mergedNotes = mergeRecords(stored, body.notes);
+        mergedNotes = mergeRecords(stored, body.notes || [], clearedAt);
         files.push({ path: "feedback/notes.json", content: JSON.stringify(mergedNotes, null, 2) });
         files.push({ path: "feedback/notes.md", content: renderNotesMarkdown(mergedNotes) });
       }
-      if (Array.isArray(body.revisions)) {
+      if (Array.isArray(body.revisions) || clearing) {
         const stored = await ghReadJson(repo, branch, token, "feedback/revisions.json", []);
-        mergedRevs = mergeRecords(stored, body.revisions);
+        mergedRevs = mergeRecords(stored, body.revisions || [], clearedAt);
         files.push({ path: "feedback/revisions.json", content: JSON.stringify(mergedRevs, null, 2) });
         files.push({ path: "feedback/revisions.md", content: renderRevisionsMarkdown(mergedRevs) });
       }
       if (Object.prototype.hasOwnProperty.call(body, "bookmark")) {
-        const state = await ghReadJson(repo, branch, token, "feedback/reader-state.json", {});
         state.bookmark = body.bookmark;
+        stateDirty = true;
+      }
+      if (stateDirty) {
         state.updated = new Date().toISOString();
         files.push({ path: "feedback/reader-state.json", content: JSON.stringify(state, null, 2) });
       }
@@ -265,11 +290,13 @@ module.exports = async (req, res) => {
         const what = [mergedNotes && "notes", mergedRevs && "tracked changes",
                       Object.prototype.hasOwnProperty.call(body, "bookmark") && "bookmark"]
                       .filter(Boolean).join(" + ");
-        via = await writeFiles(repo, branch, token, files, "reader: sync " + (what || "state"));
+        const msg = clearing ? "reader: clear notes and tracked changes"
+                             : "reader: sync " + (what || "state");
+        via = await writeFiles(repo, branch, token, files, msg);
       }
       // Hand the authoritative state back so the client can adopt it instead of
       // continuing from its own possibly-stale copy.
-      res.status(200).json({ ok: true, via, notes: mergedNotes, revisions: mergedRevs });
+      res.status(200).json({ ok: true, via, notes: mergedNotes, revisions: mergedRevs, clearedAt });
       return;
     }
 

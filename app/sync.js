@@ -2,7 +2,7 @@ import * as store from "./store.js";
 import { readRaw, writeRaw } from "./storage.js";
 import { savePos } from "./position.js";
 import { verifyApplied } from "./verify.js";
-import { KEY_SECRET, KEY_BOOKMARK, SYNC_URL, SYNC_DEBOUNCE_MS } from "./config.js";
+import { KEY_SECRET, KEY_BOOKMARK, KEY_CLEARED, SYNC_URL, SYNC_DEBOUNCE_MS } from "./config.js";
 
 /* Cross-device sync.
 
@@ -21,10 +21,26 @@ import { KEY_SECRET, KEY_BOOKMARK, SYNC_URL, SYNC_DEBOUNCE_MS } from "./config.j
         compares record identity and cloning every record on every merge would
         repaint the whole book after every sync round trip — the exact freeze
         being removed. */
-export function mergeRecords(a, b) {
+/* The tombstone epoch. Emptying the lists is not enough to clear anything,
+   because every other device still holds its own copy and the merge is a union:
+   the next push from a tablet that has been asleep for a week puts everything
+   back. Records at or before the epoch are dropped instead, on both sides, and
+   the epoch only ever moves forward. */
+export function clearedAt() {
+  return Number(readRaw(KEY_CLEARED, "0")) || 0;
+}
+function setClearedAt(t) {
+  const next = Math.max(clearedAt(), Number(t) || 0);
+  writeRaw(KEY_CLEARED, String(next));
+  return next;
+}
+
+export function mergeRecords(a, b, cutoff) {
+  const cut = cutoff === undefined ? clearedAt() : Number(cutoff) || 0;
   const out = new Map();
   const add = (r) => {
     if (!r || typeof r !== "object") return;
+    if (cut && (r.ts || 0) <= cut) return;
     const k = (r.chap || "") + "|" + (r.snip || "");
     const prev = out.get(k);
     if (!prev) {
@@ -142,9 +158,10 @@ export const SYNC = {
       // A crash mid-network must not lose a committed edit.
       store.flushNow();
       const j = await SYNC.pull();
+      if (j) setClearedAt(j.clearedAt);
       const merged = mergeRecords(store.listOf(field), (j && j[field]) || []);
       store.adopt(field, merged);
-      const body = {};
+      const body = { clearedAt: clearedAt() };
       body[field] = merged;
       const res = await SYNC._req({
         method: "POST",
@@ -180,9 +197,34 @@ export const SYNC = {
     SYNC._req({ method: "POST", headers: SYNC._h(), body: JSON.stringify({ bookmark: bm }) });
   },
 
+  /* Retire every note and tracked change everywhere, on every device.
+
+     Local first, so the lists empty immediately even with no network; the epoch
+     is what makes it stick, and the push carries it to the server and from there
+     to every other device on its next pull. */
+  async clearAll() {
+    const cut = setClearedAt(Date.now());
+    store.adopt("notes", []);
+    store.adopt("revisions", []);
+    store.flushNow();
+    if (!SYNC.secret) return { synced: false, cut };
+    const res = await SYNC._req({
+      method: "POST",
+      headers: SYNC._h(),
+      body: JSON.stringify({ clearedAt: cut, notes: [], revisions: [] }),
+    });
+    if (res) {
+      setClearedAt(res.clearedAt);
+      store.adopt("notes", mergeRecords([], res.notes || []));
+      store.adopt("revisions", mergeRecords([], res.revisions || []));
+    }
+    return { synced: !!res, cut };
+  },
+
   async init() {
     const j = await SYNC.pull();
     if (j && j.ok) {
+      setClearedAt(j.clearedAt);
       store.adopt("notes", mergeRecords(store.listOf("notes"), j.notes || []));
       store.adopt("revisions", mergeRecords(store.listOf("revisions"), j.revisions || []));
       verifyApplied();

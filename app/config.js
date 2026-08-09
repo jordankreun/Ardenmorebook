@@ -21,6 +21,9 @@ export const KEY_SECRET = "ardenmoor.sync.secret.v1";
 export const KEY_MODE = "ardenmoor.mode.v1";
 export const KEY_INLINE = "ardenmoor.inlineedit.v1";
 export const KEY_INLINE_HINT = "ardenmoor.inlineedit.hint.v1";
+/* Tombstone epoch, milliseconds. Records at or before it are dropped on both
+   sides of the sync. Absent or "0" on every device that has never cleared. */
+export const KEY_CLEARED = "ardenmoor.clearedat.v1";
 /* ardenmoor.tts.rate.v1 and ardenmoor.tts.voice.v1 are deliberately absent.
    Read-aloud was removed (rebuild spec §7.2); the author's stored preferences are
    never read, never written and never deleted, so restoring the feature restores

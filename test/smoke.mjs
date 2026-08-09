@@ -11,7 +11,7 @@
 // imported by absolute path via its default export.
 import playwright from "/opt/node22/lib/node_modules/playwright/index.js";
 const { chromium } = playwright;
-import { serve } from "./serve.mjs";
+import { serve, resetStore, STORE } from "./serve.mjs";
 
 const PORT = 8139;
 const BASE = `http://127.0.0.1:${PORT}`;
@@ -172,6 +172,70 @@ console.log("\n== touch double-tap ==");
   ok(afterDouble, "a double tap opens the editor");
   ok(errors.length === 0, "no page errors on touch", errors.slice(0, 3).join(" | "));
   await ctx.close();
+}
+
+
+/* ---------- 4b. clear all, and the tombstone that makes it stick ---------- */
+console.log("\n== clear all (the tombstone epoch) ==");
+{
+  const rec = (i, kind) => ({
+    chap: "Chapter " + i, snip: kind + "-" + i,
+    quote: "q", text: "note body " + i,
+    original: "orig " + i, revised: "rev " + i,
+    ts: 1785000000000 + i, resolved: false,
+  });
+  resetStore({ notes: [rec(1, "n")], revisions: [rec(2, "r")], clearedAt: 0 });
+
+  // Device A: holds the same records locally, and clears.
+  const a = await newPage({}, {
+    [KEY_MODE]: "review",
+    [KEY_NOTES]: JSON.stringify([rec(1, "n")]),
+    [KEY_REVS]: JSON.stringify([rec(2, "r")]),
+    "ardenmoor.sync.secret.v1": "harness-secret",
+  });
+  await a.page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await a.page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  await a.page.waitForTimeout(600);
+  a.page.on("dialog", (d) => d.accept());
+  await a.page.evaluate(() => { window.confirm = () => true; });
+  await a.page.locator("#btnMenu").click();
+  await a.page.waitForTimeout(250);
+  await a.page.locator("#btnClearAll").click();
+  await a.page.waitForTimeout(1500);
+  const localA = await a.page.evaluate(([kn, kr, kc]) => ({
+    notes: JSON.parse(localStorage.getItem(kn) || "[]").length,
+    revs: JSON.parse(localStorage.getItem(kr) || "[]").length,
+    cleared: Number(localStorage.getItem(kc) || 0),
+  }), [KEY_NOTES, KEY_REVS, "ardenmoor.clearedat.v1"]);
+  ok(localA.notes === 0 && localA.revs === 0, "clearing empties this device",
+     `${localA.notes} notes, ${localA.revs} changes left`);
+  ok(localA.cleared > 0, "an epoch was recorded locally");
+  ok(STORE.notes.length === 0 && STORE.revisions.length === 0, "the server store is emptied too");
+  ok(STORE.clearedAt > 0, "the epoch reached the server");
+  await a.ctx.close();
+
+  // Device B: never cleared, still holds both records, and comes online.
+  // Without the tombstone its push would restore everything.
+  const b = await newPage({}, {
+    [KEY_MODE]: "review",
+    [KEY_NOTES]: JSON.stringify([rec(1, "n")]),
+    [KEY_REVS]: JSON.stringify([rec(2, "r")]),
+    "ardenmoor.sync.secret.v1": "harness-secret",
+  });
+  await b.page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await b.page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  await b.page.waitForTimeout(1800);
+  const localB = await b.page.evaluate(([kn, kr]) => ({
+    notes: JSON.parse(localStorage.getItem(kn) || "[]").length,
+    revs: JSON.parse(localStorage.getItem(kr) || "[]").length,
+  }), [KEY_NOTES, KEY_REVS]);
+  ok(localB.notes === 0 && localB.revs === 0,
+     "a stale second device adopts the clear instead of resurrecting the records",
+     `${localB.notes} notes, ${localB.revs} changes came back`);
+  ok(STORE.notes.length === 0 && STORE.revisions.length === 0,
+     "and does not push them back to the server");
+  await b.ctx.close();
+  resetStore();
 }
 
 /* ---------- 5. the performance measurement ---------- */

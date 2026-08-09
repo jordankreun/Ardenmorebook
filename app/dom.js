@@ -25,6 +25,7 @@ export const tabEdits = $("tabEdits");
 export const btnCopy = $("btnCopy");
 export const btnDownload = $("btnDownload");
 export const btnSync = $("btnSync");
+export const btnClearAll = $("btnClearAll");
 export const notesList = $("notesList");
 export const editsList = $("editsList");
 export const btnSmaller = $("btnSmaller");

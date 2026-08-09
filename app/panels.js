@@ -11,6 +11,7 @@ import {
   btnCopy,
   btnDownload,
   btnSync,
+  btnClearAll,
   notesList,
   editsList,
 } from "./dom.js";
@@ -401,6 +402,33 @@ export function init() {
       updateSyncUI();
       refreshLists();
     });
+  });
+
+  /* Clearing is destructive and cross-device, so it asks twice: once for intent,
+     and again showing the actual count, because "clear" typed on a phone wipes
+     the desktop's work too. */
+  btnClearAll.addEventListener("click", async () => {
+    const c = store.counts();
+    const total = store.allNotes().length + store.allRevs().length;
+    if (!total) { toast("Nothing to clear"); return; }
+    const ok = window.confirm(
+      `Delete all ${total} notes and tracked changes?\n\n` +
+        `${c.notes} open note${c.notes === 1 ? "" : "s"}, ` +
+        `${c.revs} open tracked change${c.revs === 1 ? "" : "s"}, ` +
+        `and everything already resolved.\n\n` +
+        "This clears them on every device you sync with, not just this one, and it " +
+        "cannot be undone from inside the reader."
+    );
+    if (!ok) return;
+    btnClearAll.disabled = true;
+    try {
+      const r = await SYNC.clearAll();
+      refreshLists();
+      render.repaintAll();
+      toast(r.synced ? "Cleared everywhere" : "Cleared on this device (sync is off)");
+    } finally {
+      btnClearAll.disabled = false;
+    }
   });
 
   store.subscribe((change) => {

@@ -22,21 +22,21 @@ He did it by letter, once a fortnight, all through the dark of the year, and nev
 
 *Sir,*
 
-*The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat these two years, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
+*The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat since the house was finished, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
 
-*You will observe that the sum is not large. It is not intended to alarm you, and I would not insult you by arranging it so that it did. What I would ask you to observe is the length of the column. There is nothing in it that is wrong. There is nothing in it I could strike out and be thanked for afterward. It is simply the cost of keeping a sound house in good order that no person has any intention of entering, and it will be very much the same next quarter, and the quarter after that, and I am obliged to tell you it will go on being very much the same for as long as we both continue to be reasonable men about it.*
+*You will observe that no single item in it is large. It is not intended to alarm you, and I would not insult you by arranging it so that it did. What I would ask you to observe is the length of the column. There is nothing in it that is wrong. There is nothing in it I could strike out and be thanked for afterward. It is simply the cost of keeping a sound house in good order that no person has any intention of entering, and it will be very much the same next quarter, and the quarter after that, and I am obliged to tell you it will go on being very much the same for as long as we both continue to be reasonable men about it.*
 
 *I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to become friendly with one another through the mere passage of time.*
 
 *One further remark and I will leave off. You have instructed me, on several occasions and in writing, to attend to those parts of your affairs you do not care to think about. I have done so faithfully and would do so for the remainder of my working life without complaint. But this is not one of those parts. This is a thing you have asked me to carry so that you need not decide about it, and there is a difference between the two, and I find I have grown less willing to pretend I cannot see it.*
 
-*The spring, when it comes, will improve nothing whatever about the arithmetic. It may improve you.*
+*The spring, when it comes, will improve nothing whatever about the arithmetic.*
 
 *I remain, sir, your obedient servant,*
 
 *Penworth.*
 
-I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar, and he did not raise the matter again until the thaw, and then he did not raise it at all.
+I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar. He went on writing all the rest of that winter, once a fortnight, and set the same three things in front of me in different clothes each time, and never once observed aloud that I had done no thinking about them. Then the thaw came, and he stopped setting them in front of me at all.
 
 What I had not understood, riding up that valley, was that Penworth had stopped waiting. Somewhere in the thaw he found a buyer willing to begin the slow lawyerly business of purchasing a house of that size and breathed not a word of it in his letter. He offered me a hill instead and asked only, in that mild and immovable way of his, that I look before he let me finish buying it. I gave him a yes to the looking and half a yes to the rest, and half a yes was all Penworth ever needed. He knew his man: give me something fresh to accept, and somewhere sensible for the money to go, and the house I could not make myself sell might consent to be sold out from under me while I stood in a far green field admiring a hill. The errand was the lever, though he was too tidy a man ever to call it so. I did not much mind being pried loose. I was tired, it was spring, and a man has to be sent somewhere. I would as soon it were a hill.
 
@@ -74,13 +74,13 @@ There it was. I had a sentence ready for this, worn smooth with use, and I gave 
 
 "Whoever paid me. Then the men who'd have to keep it fed after I'd gone home." I nodded up at the tank on its legs. "That fills itself out of a stream and a bit of weather. What I'd put in her would want a man's whole attention, and it would want it every day, and the first day it went without, you'd be standing here just the same. Only later, and further from a town."
 
-He thought about it. He was not a quick man, but he was an honest one, and I could see him turning it over at the back of his mind, slowly, like a coin walked across the knuckles.
+He thought about it. He was not a quick man, but he was an honest one, and he stood there and turned it over where I could watch him do it, slowly, like a coin going across the knuckles.
 
 "So there's no use in it," he said.
 
 "There's use in it. There's no bargain in it, here." I put my hands in my pockets, because they were cold and because it was easier than saying the rest. The rest was that I could have done it, once, given a winter and a free hand and somebody else's money, and that I had spent three years not doing anything of the kind. "Shorten her grade by a foot in the hundred and you'd save more than I could."
 
-He laughed at that, one short breath through the nose. "Aye. Tell the company."
+That amused him rather more than it deserved. "Aye. Tell the company."
 
 The whistle went. He was up the side of the tender like a man going up his own stairs. I walked back down past the horse-box, where Snow had her head over the door and her position unaltered, and got into the cold carriage, and we went on.
 
@@ -116,7 +116,7 @@ She did not move.
 
 She turned her head and looked back down the road we had come up, at some length, to be sure I had taken in the alternative on offer.
 
-There is a thing you learn riding alone, and I had learned it years before and had to learn it again about every third day of that journey. You can sit in the middle of a fork for a quarter of an hour weighing the evidence, and at the end of the quarter hour you will have exactly the evidence you began with and rather less daylight. So I looked at the ruts, which ran deeper on the right, and at the gorse, which told me nothing, and at the sky, going the colour of an old coin. Then I took the right-hand road, because carts had gone that way, and a road that carries carts is going somewhere carts want to go.
+There is a thing you learn riding alone, and I had learned it years before and had to learn it again about every third day of that journey. You can sit in the middle of a fork for a quarter of an hour weighing the evidence, and at the end of the quarter hour you will have exactly the evidence you began with and rather less daylight. So I looked at the ruts, which ran deeper on the right, and at the gorse, which told me nothing, and at the sky, going the colour of an old coin. Then I took the right-hand road, because carts had gone that way, and a road that carries carts is going somewhere carts want to go. The drover in Wainford had said keep left at the thorn. I had gone to some trouble to make that leafless stand into a thorn tree and then paid it no mind whatever, and I would like to tell you there was something in that beyond the ruts, and there was not.
 
 An hour on, it brought me down to a ford, a farm, and a man mending a gate.
 
@@ -136,7 +136,7 @@ I asked whether there was anywhere on it to stop the night. He said there was, a
 
 The place he meant turned out to be a farm with its gable to the road and a lamp burning in a window that faced nothing in particular. They put me in the hay barn for the price of my supper and asked me nothing whatever. Past the end of a rail line that is not indifference. It is a kind of manners. A man on that road is going somewhere, and if he wanted you to know where he would tell you. I ate at their table with four of them and a dog, and the talk was all of a bridge, and I contributed nothing to it and was not missed. In the morning there was tea, and the woman of the house looked at my coat and said it would rain before nine.
 
-It rained all the next morning and cleared before noon, and the country came out of it washed and steaming and smelling of green.
+It rained before nine, as she had said it would, and went on until noon, and the country came out of it washed and steaming and smelling of green.
 
 The village came into view all at once, as small places do, when the lane bent round an old oak. Ardenmoor lay below me in the last of the afternoon, and I will say plainly that it was ordinary: thatch and grey stone strung along a beck, a mill wheel turning without hurry, smoke standing straight above a dozen chimneys in windless air. Somewhere a dog was making its position known. Somewhere else a woman called two children in to supper by name, the second twice, with patience shortly to run out. I sat at the bend, felt the road go out of my shoulders, and was glad in a plain way to have arrived somewhere.
 
@@ -182,11 +182,11 @@ He picked out her feet last, each one in turn, running his thumb round the frog 
 
 "It's grown out." He set the foot down. "Mostly."
 
-That was the whole of our conversation. He gave her a measure of oats and a slab of hay and shot the bolt, and checked the bolt, and went out past me into the dark at a trot. He saw the mare stabled and fed with quick sure hands before he went, which told me more about how he had been raised than an hour of talk.
+That was the whole of our conversation. He gave her a measure of oats and a slab of hay and shot the bolt, and checked the bolt, and went out past me into the dark at a trot. I had learned more about how he had been raised than an hour of talk would have told me.
 
 Inside, the inn was warm and low-beamed and half full of the evening's regulars, and the woman behind the bar took one look at me and had the road, the errand, and the name before I crossed the room. Her name was Lira. She kept the inn the way a good captain keeps a ship, invisibly and completely. She was a spare, measured woman who gave a stranger nothing he had not paid for, neither warmth nor its opposite, and it was a good while before I understood that this was not coldness but economy. She kept her regard as she kept her good glasses and did not bring it out for just anyone.
 
-What she did before anything else was read me, and she did it in the time it took me to cross the room, without once appearing to look up from the glass she was drying.
+She never once appeared to look up from the glass she was drying.
 
 "Wainford road," she said.
 
@@ -244,7 +244,7 @@ Cael came in on the tail of the meal, the cold still on his shoulders and the bo
 
 He thought about that longer than the question deserved, or else exactly as long as it deserved and I had asked a better one than I knew.
 
-"To whoever's here in twenty years," he said. "That's the whole of it. There's no court in it. There's the valley, and it has a long memory and no particular manners about the using of it." He moved his cup an inch on the table. "There's a wall down by the beck a man built badly in my father's time. Nobody living ever met him. Everybody living knows whose wall it is."
+"To whoever's here in twenty years," he said. "That's the whole of it. There's no court in it. There's the valley, and it has a long memory and no particular manners about the using of it." He moved his cup an inch on the table. "There's a wall down by the beck a man built badly before I was born. Nobody living ever met him. Everybody living knows whose wall it is."
 
 "That seems hard."
 
@@ -284,11 +284,13 @@ I stood looking at the framing rather longer than a guest normally looks at fram
 
 The washstand had a china basin and a jug already filled and a cloth folded over the rim of the jug. The bed was made hard and flat and the linen had been out in a wind. There was a chair, a candle, a peg on the back of the door, and a strip of rag rug on the boards for a man's feet in the morning. Nothing in the room was new. Everything in it had been chosen once by somebody sensible and then kept.
 
-I hung my coat on the peg. I put my boots where I would fall over them in the night, that being where I have always put them and where I have fallen over them in a good many strange rooms.
+I set my bags down under the window and did not take my coat off. Then I put the candle out.
 
 I did not sleep at once. I sat on the edge of the strange bed in the dark with my coat still on and after a while took a letter out of it, not the three-page marvel from Penworth that had carried me here, but the one I had carried far longer and never needed to open twice, because I knew every word already. It had come three weeks late, in another spring, and told me a thing I had been too far from home to prevent. I did not open it. I only held it, which was a habit I had fallen into and am not proud of, and looked out the window to where the hill stood as a darker shape against the dark, keeping whatever it kept. I thought, with no more weight on the thought than that, *I will look at you in the morning, and then I will decide.*
 
 The boards gave a small complaint beneath my boots. A moment later the water in the basin touched the china, once, though nothing in the room had moved. I watched it settle. An inn is an old animal, and timber shifts in the cold. I had slept under enough strange roofs not to take every creak for a message.
+
+So I got my boots off at last and set them where I would fall over them in the morning, that being where I have always set them and where I have fallen over them in a good many strange rooms. It is a poor arrangement. I have had twenty years to improve it and have not troubled.
 
 I put the letter away and lay down under a strange roof, in a valley I had never meant to stay in, with the inn settling below me and a boy's quick step somehow still in my ears. I slept better than I had in a long while.
 
@@ -322,7 +324,7 @@ Her bucket was full. Somebody had filled it after all, in the night or before li
 
 "Not today," I told her.
 
-She put her nose against my chest, hard, and then swung her quarters over and presented me with the whole broad grey side of her disapproval. After four days on a road, a warm box and a full rack are the nearest thing to a holiday a mare of her temperament will ever admit to wanting.
+She put her nose against my chest, hard, and then swung her quarters over and presented me with the whole broad grey side of her disapproval. She had four days of road behind her, a box out of the draught, and a full rack, and none of that entered into the question.
 
 I gave her the crust I had brought out for exactly this purpose, and she forgave me for as long as it lasted, and I went out of the yard into the lane.
 
@@ -344,7 +346,7 @@ I said I was.
 
 I stood in the lane holding it. Behind her the boy with the board was watching me with frank interest, and one of the women waiting her turn said something to another woman that I did not catch and was not altogether meant to, and both of them laughed. The oven went on breathing out over the whole street.
 
-So I went up to look at a hill with a hot loaf under my arm. There are worse ways to go and look at a piece of ground.
+So I went on up the street with a hot loaf under my arm and my coat smelling of it. There are worse ways to set out to look at a piece of ground.
 
 Further along a dairymaid came the other way under two swinging pails, stepping wide of a man patching a gable with last year's reed, and a woman drove three geese ahead of her with a switch and a running commentary they ignored.
 
