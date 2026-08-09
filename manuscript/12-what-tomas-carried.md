@@ -22,7 +22,7 @@ I had wanted the waist thinner because brass is bought by weight and carried by 
 
 He set the two collars down side by side and went back to the fire, and that was the whole of the argument. I have spent whole afternoons in the city losing a smaller point at very much greater length.
 
-The mark was the other thing, and it was the last of them. Penworth had written that there must be one, so a man buying a lamp four days off could tell a true one from a copy, and I had drawn it small and meant it for the underside of the foot, where it would be honest and out of the way.
+The mark was the other thing, and it was the last of them. Penworth had written that there must be one, so a man buying a lamp four days off could tell a true one from a copy, and I had drawn it small and set it on the winter's lamps myself, on the underside of the foot, where it seemed to me honest and out of the way.
 
 "Under the foot," I said. "It only has to be there. Nobody needs to look at it."
 
@@ -34,7 +34,7 @@ He took the collar up again and set his thumb just below the ring, on the swell 
 
 I said that a maker's mark under a buyer's thumb was a fair step toward a maker with a high opinion of himself. He let that go by. Then he said, "Man pays for a thing that outlasts him. He'll want to know whose it is without turning it over."
 
-So it went where he put it, and it has been there ever since.
+So it went where he put it, and it has been there ever since. There are a few lamps down that valley still with the mark under the foot, out of that first winter. I have never gone looking to correct one.
 
 Then the gauge. He took it down off the low nail at the end of that crowded wall, the strip of soft iron he had bent round the second collar in the winter and knocked true and never once mentioned to me, and he tried the two I had brought. The first went in and came out sweet. The second wanted persuading, and he did not care for that.
 
@@ -48,7 +48,7 @@ Then the gauge. He took it down off the low nail at the end of that crowded wall
 
 "Whose hair?"
 
-He looked at me a moment. Then he fetched a fine file and a leaf of paper off the shelf, and we settled it standing up in about a minute, the paper laid in the gauge for a feeler and the file taking off what the paper would not admit. I have sat at tables where four men in good coats could not have got a tolerance agreed by supper.
+He looked at me a moment. Then he fetched a fine file and a leaf of paper off the shelf, and we settled it standing up in about a minute, the paper laid in the gauge for a feeler and the file taking off what the paper would not admit. He put the file back on its shelf. The leaf of paper went back beside it with a bright smear along one edge where the brass had come off on it, and I never once saw that leaf used for anything else.
 
 When it was done he hung the gauge back on its nail. I counted him out sixteen silver for the two, and he put the money in a tin without looking into it.
 
@@ -74,17 +74,21 @@ I had not expected that. I had the answer. "A mile and a half of wet lane each w
 
 "The boots," said Brenna. "Nobody ever reads as far as the boots." She got up, and lit the candle at the fire, and went down her nine steps without another word, and came back up with the next book and put it into my hands still cold from the cellar. She told me nothing whatever about what was in it. That was the arrangement.
 
-"A boy on a wall did the arithmetic on that one when I first had it," I said, at the door. "A page a night, he said, and the middle of the summer."
+"A boy on a wall did the arithmetic on that one when I first had it," I said, at the door. "A page a night, he said, and the middle of the summer. If I didn't miss."
 
-"He was allowing for your misses," said Brenna. "That was generous of him. I'd not have."
+"And do you?"
+
+"He asked me the same. I told him I would."
+
+"Then he has had a truer account of you than most in this valley," said Brenna, "and he had it off you for nothing."
 
 Between the reading and the building and the quiet steady trade in light, I was as near to content as I had been since the life I had meant to live came apart in my hands.
 
-They ran to a plain shape, those days, and I could set most of them out for you without much fear of getting one wrong. The boy came up the track with the bread before seven, the dark loaf that keeps a week and not the white that goes to dust in three days, and set it on the table. He looked at the fire and mended it if it wanted mending, and left it alone if it did not, and he never once told me which he had found. Then the kettle. Then the bench under the north window until the light in it turned.
+They were ordinary days in an ordinary order, and I could set most of them out for you without much fear of getting one wrong. The boy came up the track with the bread before seven, the dark loaf that keeps a week and not the white that goes to dust in three days, and set it on the table. He looked at the fire and mended it if it wanted mending, and left it alone if it did not, and he never once told me which he had found. Then the kettle. Then the bench under the north window until the light in it turned.
 
 The trade of the practice came up the hill in ones and twos across that summer, and it was not glamorous work and I liked it. A woman came up from the far side of the valley one morning with a pair of scales in a flour sack, her father's before her, the beam sprung out of true by a fall off a shelf and never right since. She had walked it up because a cart was not worth the day. I put it on the bench and got the glass into my eye and found the twist in the beam, and it took me the better part of the morning to take it out with a file and a bit of patience, and then a while longer to persuade the pivot to hold what it had been given.
 
-I told her the scales would weigh true, and I did not tell her how, and she did not ask, being a woman with a churn waiting on her at home. She asked what she owed. I said four silver. That was fair, and about half a day of me. She paid three of them and stood there a moment with the fourth in her hand, and then said she had butter, if butter was any use to a man. Butter was every use to me. I got half a pound of it and the better end of the bargain, and she got the walk home with her father's scales under her arm doing the one thing they had been made to do.
+I told her the scales would weigh true, and I did not tell her how, and she did not ask, being a woman with a churn waiting on her at home. She asked what she owed. I said four silver. That was fair, and about half a day of me. She paid three of them and stood there a moment with the fourth in her hand, and then said she had butter, if butter was any use to a man. Butter was every use to me. I took the half pound and called the fourth silver paid. It was not a fair exchange by weight and neither of us was weighing, and she got the walk home with her father's scales under her arm doing the one thing they had been made to do.
 
 Then the afternoon at the bench, and the three half-made lamps that had stood on the end of it since the winter waiting on brass, and a fourth that had joined them in the spring and was no further on. Then supper, and the fire, and a page of the grandmother's weather before the light went. It is not much of an account of a life. I would not swap it now for a better one.
 
@@ -92,9 +96,9 @@ I tell you all this so you will understand what kind of errand took me to the fo
 
 It was the front of summer, and the light was long, and I had left the collecting late on purpose. A hot forge is no place to stand of a summer afternoon, and Tomas kept his fire to the cool ends of the day when the work allowed it. The street was closing itself down for the night as I came up it, shutters drawing to, the smell of someone's supper on the air, and under all of it the ring of Tomas's hammer, steady and unhurried, the last working forge in the valley still at it while the rest of the street put itself to bed. I have always liked the sound of another man's good work heard from off. It is one of the few sounds in the world that asks nothing whatever of the man who hears it.
 
-I had ridden down, having four collars to carry back and a mare who had lately worked out that the road home ran past the inn and that somebody had once come out of it with an apple. She went up that street at a walk you could have timed with a candle, and looked in at every door on the way, and I let her, because there was nothing at the top of it that would not wait.
+I had ridden down, having four collars to carry back and a mare with an opinion about the inn. I had given her that opinion myself, over a winter of apples carried down to a stall I was paying for by the quarter, and I was paying for it still in another coin. She went up that street at a walk you could have timed with a candle, and looked in at every door on the way, and I let her, because there was nothing at the top of it that would not wait.
 
-Kellard's shutters were to. He was standing in his own doorway with the shutter bar under one arm and a card in his hand, doing nothing at all. For Kellard at six in the evening that came very near to an idleness.
+Kellard's shutters were to. He was standing in his own doorway with the shutter bar under one arm and a card in his hand, doing nothing at all. For Kellard at six in the evening that came very near to idleness.
 
 "Two more spoken for," he said, when I was near enough not to have to raise my voice. "Down the valley. Fellow's had one off a cousin and wants a pair for the same room."
 
@@ -108,7 +112,7 @@ Maret was coming up from the mill with his coat over his arm and the flour on hi
 
 "Water's down," he said.
 
-I said it had been a dry fortnight and agreed that it was low. He looked at the beck, and then at nothing much, and then went on up the street, and it was three days before it came to me that men do not stop in a road to tell you the weather. Whether I was being asked a favour, or being given the material out of which I might arrive at offering one, I could not tell you then and cannot tell you now. That is how Maret conducted his entire business with the world, and so far as I could ever see it worked for him.
+I said it had been a dry fortnight and agreed that it was low. He looked at the beck, and then at nothing much, and then went on up the street, and it was three days before it came to me that men do not stop in a road to tell you the weather. Whether I was being asked a favour, or being given the material out of which I might arrive at offering one, I could not tell you then and cannot tell you now. There is a stake in that mill-pond water that came to me with the hill. Cael had told me of it on the day, standing on the rough with his stick in his hand, and I had not thought of it once in the year and more since. Maret had.
 
 Lira was in the inn's doorway with the light behind her, seeing off two men and a dog and giving no sign of minding whether they went. She did not ask where I was going, or after the hill, or after anything.
 
@@ -128,7 +132,7 @@ A forge in summer is a different country from a forge in winter. The door stood 
 
 He had been at them a week. You could read how far he had got from the doorway, by the line where the bright bows stopped and the dull ones began.
 
-He had a pair of them in his hand that evening. He had the bow up out of the fire and laid over the horn, and he brought it round in four blows and a fifth that was only asking, and then he stood and watched the colour run back along the metal, straw and then a deeper straw, and dropped it into the trough at the moment he had been waiting for and not a breath after. The water took it with that flat hiss that is the most satisfied sound in any trade. No clock in the world does that job. It is done by somebody who has watched that colour run eleven thousand times and no longer has to think about it. It is worth standing in a hot room to see.
+He had a pair of them in his hand that evening. He had the bow up out of the fire and laid over the horn, and he brought it round in four blows and a fifth that was only asking, and then he stood and watched the colour run back along the metal, straw and then a deeper straw, and dropped it into the trough at the moment he had been waiting for and not a breath after. The water took it with that flat hiss that is the most satisfied sound in any trade. No clock in the world does that job. It is done by somebody who has watched that colour run eleven thousand times and no longer has to think about it. Then he laid the tongs across the trough and reached into the fire for the next one.
 
 His tongs hung in their ranks by the size of the jaw. The quench trough carried its grey skin of scale. Low down at the end of the crowded wall, on its own nail, well below the ones a man's hand would go to, the strip of soft iron he had bent round my second collar was still hanging where he had put it.
 
@@ -140,7 +144,7 @@ Two words, and then the old silence after them, the silence of a man standing at
 
 It took him a while to come to it. I let it take as long as it wanted.
 
-The fire settled into its banking with small dry sounds. A moth came in at the doorway, went twice round what heat was left, and went out again. The shears lay in the trough where he had dropped them and the water had gone still over the top of them. Down the street a door was pulled to and a bolt run across, and then another further off. Outside, the street had gone quiet enough that I could hear the beck. He stood with his hands hanging and his back three-quarters to me, and I stood by the bench with my hat in my hand and my thumb going slowly round the brim of it, and neither of us moved.
+The fire settled into its banking with small dry sounds. A moth came in at the doorway, went twice round what heat was left, and went out again. The bows he had quenched lay in the trough and the water had gone still over the top of them. Down the street a door was pulled to and a bolt run across, and then another further off. Outside, the street had gone quiet enough that I could hear the beck. He stood with his hands hanging and his back three-quarters to me, and I stood by the bench with my hat in my hand and my thumb going slowly round the brim of it, and neither of us moved.
 
 "I hear it," he said, at last. "Up there. Have done a good while." He was quiet again. "Two year, near enough. Longer, maybe."
 
@@ -168,25 +172,25 @@ He took that in the way he took the weight of a thing before he would lift it, t
 
 And the hammer came down, and the forge took up its steady beat again as though it had never once left off, and I paid him for my collars and finished the wrapping of them myself and rode up my hill in the dark with the ring of his work following me the length of the street until the turn of the track took it.
 
-The track was black before I was halfway up it and I let the mare have her head. She knew it better than I did by night and had no interest at all in a discussion about it. I got her in and rubbed her down and shut the barn door, and she leaned on it once from the inside for form's sake. Then I climbed the shoulder to the cabin in the dark, by feel and by habit. I set the kettle over the fire and sat down and got my boots off, and did not do anything else at all for a while.
+The track was black before I was halfway up it and I let the mare have her head. She knew it better than I did by night and had no interest at all in a discussion about it. I got the saddle off her and did her over with a wisp and shut the barn door, and she leaned on it once from the inside for form's sake. Then I climbed the shoulder to the cabin in the dark, by feel and by habit. I set the kettle over the fire and sat down and got my boots off, and did not do anything else at all for a while.
 
-Then I unwrapped the collars out of the oiled rag and set them in a row on the table. They were four pieces of brass done exactly right. I put them in the tin box they lived in and set the box on the end of the bench beside the four half-made lamps, where they had been wanted since the winter.
+Then I unwrapped the collars out of the oiled rag and set them in a row on the table. They were four pieces of brass done exactly right. I put them in the tin box they lived in and set the box on the end of the bench beside the four half-made lamps. Three of them had stood there wanting brass since the winter and the fourth since the spring, and not one of the four was going to be finished that night either.
 
 I wrote the four collars into the lamp book, and the thirty-two silver against them, and nothing else whatsoever.
 
-Then I read my page, because a page was the ration and keeping the ration was the whole of what I had promised. What I had that night was three lines about a wind out of the east, and a lane too wet to be worth a pair of boots, and no listening done at all. I read it twice, slowly, both times.
+Then I read my page, because a page was the ration and keeping the ration was the whole of what I had promised. What I had that night was three lines about a wind out of the east, and a fog that never once lifted off the beck the whole of the day, and no listening done at all. I read it twice, slowly, both times.
 
 Then I put the light out and went to bed, and the hour before dawn found me awake, the way it found me most nights of that year. It was the same hour. It was not the same listening.
 
 From that night Tomas carried the thing differently, which is to say he no longer carried it by himself, and every time I came down for iron after, he would look up from the work and put the question to me without troubling to say it, only a small lift of the chin toward the hill above the roofs. And every time, for a long while, I gave him the same answer, and it was the only honest one I had, and it was two words, the way so much between the two of us was two words. We kept a slow patient time on it, he and I, the way you count the long gap between the lightning and the thunder.
 
-The first of those times came about three weeks after, in a warm grey rain that had been coming down since noon without much conviction. The shears were gone off the wall by the door, back into the hands they belonged to, and a row of scythe blades stood along the whitewash in their place. I had come for six collars and a paper of small brass screws. I stood in the doorway knocking the water off my hat and waited on the piece he had in the fire, because that is how it goes in that room and because I have never in my life been in a hurry in it.
+One of the early ones came about three weeks after, in a warm grey rain that had been coming down since noon without much conviction. The shears were gone off the wall by the door, back into the hands they belonged to, and a row of scythe blades stood along the whitewash in their place. I had come for six collars and a paper of small brass screws. I stood in the doorway knocking the water off my hat and waited on the piece he had in the fire, because that is how it goes in that room and because I have never in my life been in a hurry in it.
 
-He wrapped the six in oiled rag without being asked. I counted him out the silver and he put it into the tin without looking into it, and that was the dealing done, and there was nothing left in that room to stand about for.
+He wrapped the six in oiled rag without being asked. I paid him what the six came to, and he said the word he always said, and that was the dealing done, and there was nothing left in that room to stand about for.
 
 He did not go back to the fire.
 
-There is a moment at the end of a dealing where a man either goes or does not go. I stood in it. He stood in it. The rain came off the eaves in a straight line and cut a channel through the ruts outside the door, and neither of us said one word about the weather.
+There is a moment at the end of a dealing where a man either goes or does not go. I stood in it. He stood in it. The rain came off the eaves in a straight line and cut a channel through the ruts outside the door, and neither of us said one word about the weather. That evening set the shape of the thing, and the shape did not alter for a great many months after it.
 
 He would lift his chin at the hill. And I would shake my head, small, and tell him the truth.
 

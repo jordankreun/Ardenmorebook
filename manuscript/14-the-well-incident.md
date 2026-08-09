@@ -8,13 +8,13 @@ It happened on an ordinary market morning, a fortnight into the stone's thirty d
 
 It was warm before seven. I came down the hill on foot, the errand not being worth a horse, and Snow watched me go from the barn door with her chest against the top board and the whole of her weight on it. She had been idle three days. A mare idle three days develops views, and the view she had settled on was that the door was a thing to lean upon and I was a thing to be blown at. I told her that a horse who leans all evening might have the grace to be caught in the morning. She blew at me. I went on down.
 
-The track takes half an hour walked honestly, and I did not walk it honestly, because the light was still low and long across the bottoms and the bottoms were worth stopping for. Down where the beck ran there was black ground turned that had not seen a share in years, squared off at the hedge and open to the sky. Cut thistle lay grey in windrows the whole length of it. A thread of smoke stood straight up out of the old stone farmhouse into air that had no wind in it at all. I stood on the track a minute and looked at that, and then went on, bread being a thing you can be late for.
+The track takes half an hour walked honestly, and I did not walk it honestly, because the light was still low and long across the bottoms and the bottoms were worth stopping for. My own barley stood on the near side, green and a good deal shorter than it ought to have been, in ground I had bullied a plough into that spring and had no business expecting much from. Beyond it, down where the beck ran, there was black ground turned that had not seen a share in years, squared off at the hedge and open to the sky. Cut thistle lay grey in windrows the whole length of it. A thread of smoke stood straight up out of the old stone farmhouse into air that had no wind in it at all. I stood on the track a minute and looked at that, and then went on, bread being a thing you can be late for.
 
 Ardenmoor on a market morning is the one morning in the week the village is louder than its own water. There were carts drawn up wheel to wheel along the north side of the square and more of them backed into the lane, butter under wet cloths, a trestle of early beans, three cheeses on a board with a boy set to watch them and no clear notion of what he was watching for. The air had the smell a place gets when everybody in it has been up since four. Horse, and crushed grass, and hot clay, and over the top of all of it, bread.
 
-The oven stood open to the lane near the inn with its mouth glowing, and there were eight or nine women about it in the loose ordered way of people who all know exactly whose turn it is and could tell you to the minute. Ardenmoor is too small to keep a baker, so the oven is the baker. The households bring their dough down, the thing is fired once, and the week comes out of it in order. It is a good system, and it runs on a queue nobody has ever had to write down.
+The oven had its mouth open to the lane and eight or nine women about it, standing in the loose ordered way of people who all know exactly whose turn it is and could tell you to the minute. I had been watching that queue for a year and a half. I had never once seen it written down, nor heard it disputed, nor found anybody who could be got to explain it to me. A woman would step in front of another woman and the other woman did not mind. Somewhere behind that there was a reckoning of firings and firewood and whose sister had been ill in the spring, and it was kept where I could not get at it, and it came out even at the end of every week.
 
-I had no dough, having no ambitions in that line, so I waited on the second drawing and bought a loaf off a woman who had one over. It was the dark loaf, the dense one that keeps a week. The soft white goes to dust in three days and is bought by people with more optimism than sense. She turned it out of its cloth and knocked the bottom of it with a knuckle and listened to it, the way I have watched a cooper listen to a barrel and a smith listen to a weld, and pronounced it sound. She took two coppers off me and gave me one back. The oven had been sulky since the wet week, she said, and she had put the small loaves nearest the mouth on account of it.
+I had no dough, having no ambitions in that line, so I waited on the second drawing and bought a loaf off a woman who had one over. It was one of the dark ones. I have never in my life bought the other sort, and by that summer nobody in Ardenmoor had to be told so twice. She turned it out of its cloth and knocked the bottom of it with a knuckle and listened to it, the way I have watched a cooper listen to a barrel and a smith listen to a weld, and pronounced it sound. She took two coppers off me and gave me one back. The oven had been sulky since the wet week, she said, and she had put the small loaves nearest the mouth on account of it.
 
 I said the small loaves seemed to have come to no harm.
 
@@ -22,7 +22,7 @@ I said the small loaves seemed to have come to no harm.
 
 That left the thread. I wanted a spool of waxed thread for the plain reason that the strap of the satchel I carry my glass and my files in had gone at the stitching, and I had been making do with a bootlace for a fortnight, which works, and looks exactly like what it is. Kellard keeps waxed thread in the dry-goods yard. Kellard, that morning, was not in his yard. He was in the square with his cart and his tailgate down, and it seemed to me that a fellow standing about in that condition can be asked for a spool without anybody having to open a shop.
 
-I had come down for exactly that, bread and thread, and had got the bread, a warm loaf out of the communal oven with the crust still ticking as it cooled, and was crossing the square toward the inn with it under my arm when Kellard's near horse went up.
+So I had the bread and had the thread still to get, and was crossing the square toward the inn with the loaf under my arm and the crust of it still ticking as it cooled, when Kellard's near horse went up.
 
 I never learned what did it. A dog, most likely, or the flap of somebody's washing, or nothing at all, horses being the only creatures in the world more committed than a cat to having strong opinions about very little. The beast threw its head and came round hard in the shafts and the cart slewed, and for about four seconds the square was a small disaster: Kellard hauling at the bridle and swearing in a low steady stream, the egg-woman snatching her basket up off the cobbles, two men off the oven wall and running, everybody's morning suddenly full of half a ton of unhappy horse.
 
@@ -80,11 +80,11 @@ The ironwork did precisely what I had wanted it to do. It gave the square someth
 
 The big fellow off the oven wall came over and put his own hands on the frame and shook it exactly as I had shaken it, and said his father had said that same thing about that same well, and his father was nine years dead. A second man said it was not the ironwork at all, it was the rope. The rope had run through the sheave so long it had cut its own groove in the wood, and a rope in a groove pulls out of true, and there was your looseness. A third held for the coping, which had been the trouble in his view since before either of them was born.
 
-I want to be plain that I introduced nothing here. Every one of those positions existed already, fully formed and fully upholstered, and had existed for a generation. My one sentence had merely opened the cupboard they lived in. I have been more careful since about what I hand a village.
+I had introduced nothing. Every one of those positions was there already, finished and furnished and lived in, and had been there for a generation; my one sentence had done no more than open the cupboard door on it. I have been more careful since about what I hand a village.
 
 They put it to me in the end, as the wizard, which happens perhaps twice a year and is never once about anything I would call my trade. I said I was no cooper and no smith, that the frame wanted a man with a hammer rather than a man with a book, and that if somebody drew the pin and looked in the socket he would very likely find the answer had been sitting there in plain sight the whole time. This satisfied everybody. It awarded the argument to nobody, and it gave them all a next step that not one of them had the smallest intention of taking.
 
-And the entire while, at my elbow, a boy of ten wound a full bucket up out of the dark and set it on the coping without spilling a drop, and not one man in that square looked at him once.
+And the entire while, at my elbow, a boy of ten wound a full bucket up out of the dark and set it on the coping without spilling a drop, and not one of those men looked round at him once.
 
 Then Kellard wanted a hand with the tailgate, and I let it go.
 
@@ -100,9 +100,9 @@ We lifted. It came up an inch and stopped.
 
 We set the board down again, and he went round to have a proper look at it, and I stood at my end with my hand flat on the warm elm and my back to the well. That is where I let it go.
 
-That is the truth of a decision of that kind. It does not get made in the place where you afterwards tell people it was made. There is no moment with a weight to it, no pause with anything ceremonial in it. There is a board in your two hands, and a man swearing quietly at a pin four feet off, and a boy behind you winding a bucket up out of the dark, and somewhere between the first lift and the second the thing has settled itself without ever once consulting you.
+I could hear the crank the whole time I stood there. The turn, and the catch of the pawl, and the turn again, and then the small sound of a wet bucket coming over stone. There was a board of elm in my two hands and a man swearing quietly at a pin four feet off and a boy at my back drawing the inn's water for the second time that morning, and somewhere between the first lift and the second I stopped intending to say anything at all, and did not notice that I had stopped.
 
-He went to the box under the seat for a bit of iron to knock the pin round with.
+He went off to hunt out a bit of iron to knock the pin round with.
 
 It was Cael who made it hard.
 
@@ -170,7 +170,7 @@ So I decided to say nothing, and to watch him, and to be near enough that if it 
 
 That was the decision. It was made in a market square with a cold loaf under my arm and no ceremony about it whatsoever. I am still not certain whether it was the right one or only the one I could bear.
 
-I caught him up on the track home, because he was going my way as far as his grandfather's, and we walked a while and talked about the horse, which he thought had been badly handled, and about whether a dog could truly be blamed for a thing it had not yet done, which was a question he took seriously and pursued at some length.
+I caught him up on the track home, because he was going my way as far as his grandfather's.
 
 He began with the horse, and he had plainly been holding it in since the square.
 
@@ -236,7 +236,7 @@ A dog barked somewhere across the beck, a long way off, two notes and then nothi
 
 "He could have come back."
 
-I said that a dog who could get from the square to the far bank in the time it took Kellard to tie a horse was a dog worth putting money on. Soren allowed that this was probably so, and gave the animal up with visible regret.
+I said that a dog who could get from the square to the far bank in the time it took Kellard to tie a horse was a dog worth putting money on. Soren allowed that this was probably so, and gave the animal up with visible regret. He had been at that dog since the last of the gardens and would have gone on being at it if there had been any of it left to be at. Nothing ever got put down by him half looked at.
 
 Then he wanted to know about the rope.
 

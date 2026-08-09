@@ -32,7 +32,7 @@ Then he gave me his terms, standing on the grass with the rod still under his ar
 
 "Comes out of the hole." He put his boot on the turf. "Shale under this. Two foot down, maybe three. Comes up in plates. Dresses out into a facing as good as anything Edran would sell you, and you've not to haul it."
 
-That was the sentence that settled the business, and he knew it when he said it. I knew to the copper by then what stone cost on that hill, in money and in whole seasons and in the slow hauling of it up a track no wagon would climb. A room whose walls came out of the room itself was a room I could afford.
+That was the sentence that settled the business, and he knew it before he had finished saying it. He did not look up to see it land. He only took his boot off the turf and set it back where it had been, in the manner of a man who has kept the cheaper of his two prices for last and does not intend to be thanked for it.
 
 "Forty-eight silver the week," he said. "Boy's thirty."
 
@@ -42,7 +42,7 @@ Ren, who was pacing the crown behind his father with the toe of his boot and bei
 
 "Aye," said Jorin.
 
-It was paid for out of the lamps, when it came to it, out of the small steady coppers that went down the valley on Kellard's carriage all that spring and came back up it as money. Penworth had written plainly what a run of that size would and would not do. It would buy timber, or a season of the unglamorous materials a building year eats without anybody noticing, and it would not buy me one foot of daylight between myself and what I owed. He was right, as he generally was. But he had not said the money was no use to me, and a cellar is exactly the sort of thing a modest trade pays for.
+It was paid for out of the lamps, when it came to it, out of the small steady coppers that went down the valley on Kellard's carriage all that spring and came back up it as money. Penworth had written plainly, and more than once, what a run of that size would and would not do. It would pay for the sort of thing nobody puts in a letter afterward, boards and lime and a man's fortnight, and it would not buy me one foot of daylight between myself and what I owed. He was right, as he generally was. But he had not said the money was no use to me, and a cellar is exactly the sort of thing a modest trade pays for.
 
 I went down to Kellard's the day before we started, for candles, because a hole in the ground is a dark place to do fine work in and I had no intention of carrying the lumen down a ladder. He fetched them out of the back storeroom where the flour and the salt live, and set two bundles on the counter, and looked at the bundles rather than at me.
 
@@ -54,9 +54,9 @@ I went down to Kellard's the day before we started, for candles, because a hole 
 
 There were a good many ends in that box, and not one of them was much shorter than the candles I was paying for.
 
-"Carriage went Thursday," he said, tying the string. "Two more down the valley, and the pair for the one room. And a fellow at the crossing who's never seen a lamp in his life and has heard about them off his sister. He'll want telling twice that it doesn't take oil. None of them believe that until they've had one a fortnight." He squared the bundles. "The carrier's changed his day again and hasn't seen fit to tell the parish. That's twice this year. There'll be words about it, and I'll be the one saying them."
+"Carriage went Thursday," he said, tying the string. "Two more down the valley, and the pair for the one room. And a fellow at the crossing who's never seen a lamp in his life and has heard about them off his sister. He'll want telling twice that it doesn't take oil. None of them believe that until they've had one a fortnight." He squared the bundles. "The carrier's changed his day again and hasn't seen fit to tell the parish. That's twice this year. His lad still walks the top end of it on the Wednesday whatever his father does with the rest of the week, so the parish goes on calling him the Wednesday boy and the parish is wrong two days in three. There'll be words about it, and I'll be the one saying them."
 
-I said that seemed hard on him, which appeared to be the correct answer, and carried my candles out into the street with no clearer notion than when I went in of what a carrier's day had to do with Kellard, or why it should be his to say words about. A year and a bit in a place buys you the shape of its business and not the reasons under it.
+I said that seemed hard on him, which appeared to be the correct answer, and carried my candles out into the street with no clearer notion than when I went in of what a carrier's day had to do with a chandler, or why the words should be his to say. I had learned by then to take that the way I had taken the box of ends: without asking what it cost him, because asking would have been the one thing in the whole exchange that gave offence.
 
 We broke ground on a bright still morning at the front of the summer. The turf came up in green squares that Ren stacked to one side, roots and all, to be laid back over the bald patch when we were done, because he was a boy who could not bear to leave a thing worse than he found it, and under the turf the crown gave up its earth easily, dark and dry and cool, with none of the sullen wet clay that would have fought us anywhere else in that valley.
 
@@ -72,7 +72,7 @@ We broke ground on a bright still morning at the front of the summer. The turf c
 
 Jorin was right about the shale, and he was right about it at two foot six.
 
-It came up in plates the width of a table top, grey-blue and clean, splitting along its own bedding when you put a bar under it and asked. Ren and I hauled them out on a plank sledge. Jorin dressed them where they lay, squaring the ends with a hammer and a chisel and an eye, and he threw perhaps one plate in nine onto the spoil heap and was sour about every one he threw. By the third day there was a stack of facing beside the hole taller than Ren was, and it had cost me nothing beyond the wages of three men who were being paid anyway to dig the hole it came out of.
+It came up in plates the width of a table top, grey-blue and clean, splitting along its own bedding when you put a bar under it and asked. Ren and I hauled them out on a plank sledge. Jorin dressed them where they lay, squaring the ends with a hammer and a chisel and an eye, and he threw perhaps one plate in nine onto the spoil heap and was sour about every one he threw. By the third day there was a stack of facing beside the hole taller than Ren was, and it had cost me nothing beyond the wages of the two men who were being paid anyway to dig the hole it came out of.
 
 I did the sum that evening, because I am the sort of man who does that sum. Edran's stone runs a half-gold the load at the quarry face, cut and squared, and a load is not a wall. Then the haulage. The haulage is the murder of it. A cart that will climb my track has never been built; what climbs my track is men and a sledge, and men and a sledge take a day to move what a wagon moves in an hour on the flat. The Study had eaten most of a summer going up and down that hill in pieces. This room came up out of its own floor.
 
@@ -84,7 +84,7 @@ He said it to the stack and not to me, and it had the worn feel of a thing said 
 
 I had not expected to enjoy those days as much as I did. I had gone into the business thinking of it as a thing to be got through in order to have the room at the end, and instead I got a fortnight of the best company I had kept in years, three men in a hole in the ground with the summer going on overhead. There is a particular good humour that comes up in men doing hard work in cool earth on hot days. We shored as we cut and dressed the walls as we went, and the cold came up to meet us the deeper we sank, a clean stone cold with the faint mineral breath of a place that has never once been warm, and we came up at noon each day blinking and filthy into a heat that felt like a wall, and ate under the Study's north side where the shade was, and Jorin told us, over a fortnight, in installments, and with enormous economy, the entire history of every wall he had ever had to pull down and build twice. Ren asked questions of a kind that would have irritated a lesser craftsman and did not irritate his father at all. I mostly listened. I have been in a great many learned rooms in my life and have seldom heard better talk than I heard in that hole.
 
-The climb out was the worst part of every day. Nine feet is nothing at all on a drawing. Nine feet up a ladder with your hands gone stupid with the cold of the stone, and the noon standing over the mouth of the hole like a man waiting to be paid, is a different article. We went up it one at a time and stood a moment at the top while the sweat came back into us, and none of us ever said one word about that either.
+The climb out was the worst part of every day. Nine feet is nothing at all on a drawing. Nine feet up a ladder with your hands gone stupid with the cold of the stone, and the noon standing over the mouth of the hole like a man waiting to be paid, is a different article. We went up it one at a time and stood a moment at the top while the sweat came back into us, and then went and sat down as though we had walked up out of a room, because there is no dignity whatever in a ladder and every man on that crown knew it.
 
 Then bread, and cheese out of the lean-to, and water off the spring so cold it made the roots of your teeth ache, and the flagstones under the Study's north wall to sit on.
 
@@ -196,7 +196,7 @@ When the room was finished and the stair run down into it from the workroom floo
 
 Into the floor of that room, before I sealed it, I set the blank.
 
-The floor took two days of my own, with nobody else on the hill and the oak door wedged back with a stone so the candles would not go stupid on me. Cutting a seat in dressed stone is not difficult work. Cutting a seat that touches a thing at every point of its underside is two days. It is also the only work in that business worth doing slowly.
+The seat for it took two days of my own, with nobody else on the hill and the oak door wedged back with a stone so the candles would not go stupid on me. Cutting a seat in dressed stone is not difficult work. Cutting a seat that touches a thing at every point of its underside is two days. It is also the only work in that business worth doing slowly.
 
 I found the centre of the room with two lines and a plumb bob and marked it with a nail. Then I cut, roughly, with a chisel and a light hammer. Then less roughly. Then not with a hammer at all. The last of it came off with the small flat files out of my own kit and the ball of my thumb, a bright dust at a time, taking down what a leaf of paper would have called a fault, and I did it lying on the floor of my own cellar with a candle set at the level of the stone so the shadow could tell me what my hands were too coarse to find. Stone is honest about that. Every high place shows as a bright rub where the work has been riding it. It does not argue and it does not let a thing go.
 
@@ -204,7 +204,7 @@ A blank bedded on three points hears the three points. Bedded flat on cut stone 
 
 It was a palm's width of grown crystal, clear and flawless and cold, the kind of still perfect thing my trade uses to hold a working motionless so it can be studied at leisure, and I set it flush into the stone of the floor at the center of the room and tuned it low, far below hearing, to take down across a month whatever came up out of the hill through the stone.
 
-The tuning itself was done with my hands flat on it and my breath gone long and nothing at all said out loud. There is nothing to say out loud, and in any case there was nobody in the room to say it to. You take a thing like that down the way you go down an unlit stair in a house you know: not quickly, and by feel, and counting. Past the place where a man stops noticing that he is listening. Then a good way further than that, into the slow country where the hill keeps its business. Then you leave it open and take your hands off it. Taking the hands off is the difficult part.
+The tuning itself was done with my hands flat on it and my breath gone long and nothing at all said out loud. There is nothing to say out loud, and in any case there was nobody in the room to say it to. You take a thing like that down the way you go down an unlit stair in a house you know: not quickly, and by feel, and counting. Past the place where a man stops noticing that he is listening. Then a good way further than that, into the slow country the hill keeps to. Then you leave it open and take your hands off it. Taking the hands off is the difficult part.
 
 It went on for the better part of an afternoon and I could not have told you afterward whether that was one hour or four. When I stood up my shoulders had set like mortar. I went up the stair using my hands as much as my feet, and ate standing at my own table, and was asleep before the light was properly out of the sky.
 

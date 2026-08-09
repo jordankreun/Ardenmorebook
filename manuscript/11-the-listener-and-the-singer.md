@@ -14,7 +14,7 @@ I watered it once a fortnight and no more, as I had been told, and I kept the co
 
 I have handled fine work in my life. Blown glass, drawn wire, once an escapement no wider than a thumbnail, made by a man in Vethmark who charged what he liked and was worth it. One night I took the jeweller's glass to that flower on honest professional grounds, wanting to see how the petals were folded. They were not folded. They had grown that way from the first, shut around nothing whatever, and there was no seam anywhere in it for a man to get his eye into.
 
-Outside the north window the valley would be putting itself to bed, the snow on the crown gone blue, a thread of smoke standing up here and there below where somebody was doing the same sensible thing I was. Then the light in the room would change. The lumen sat behind me on the bench and came up at its own hour whether anybody was watching it or not, and the sill would go from grey to amber without one thing in the room appearing to move, and the flower would take that colour and hold it, dark red going to garnet.
+Outside the north window the light would be going off the snow on the crown, blue first and then no colour at all, and past the crown the ground fell away to the meadow and the black line of the wood, with nothing standing up out of any of it that a man could take for company. Then the light in the room would change. The lumen was down at the far end of the bench and came up at its own hour whether anybody was watching it or not, and the sill would go from grey to amber without one thing in the room appearing to move, and the flower would take that colour and hold it, dark red going to garnet.
 
 I drank my tea standing up on those nights. Then I went back to the bench and got on with the work. Not always at once.
 
@@ -26,7 +26,7 @@ She had her head over the half-door before I was across the yard that afternoon,
 
 The track down was soft and the beck below it was loud. Late spring in that valley smells of wet stone and cut grass and, if the wind is off the low road, of somebody's byre. I have never been able to decide whether that last is an improvement.
 
-The village was at its middle-afternoon, which in Ardenmoor of a late spring means half the street is somewhere else. A woman coming up from the beck with two buckets set them down to let us by, and got a nod for it, and gave me one back. The hammer was going at the top of the street, unhurried, the way it went most days. Somebody's washing stood out stiff on a line in the wind and appeared to be winning.
+The village was at its middle-afternoon. In Ardenmoor of a late spring that means half the street is somewhere else and the half that is left is carrying something. A woman coming up from the beck with two buckets set them down to let us by, and got a nod for it, and gave me one back. The hammer was going at the top of the street, unhurried, the way it went most days. Somebody's washing stood out stiff on a line in the wind and appeared to be winning.
 
 I stopped at Kellard's, because I had said I would, and because a man who runs your carriage for you is owed the sight of your face now and again.
 
@@ -44,7 +44,7 @@ His yard is the bank and the post of that village and looks like neither. It is 
 
 "That's the truth, and it's the useful thing to say."
 
-"It's the only thing to say." He wrote something short in the book, and turned it back round, and shut it. Then he stood with one hand flat on the cover a moment. "Wednesday, mind. If you want the carrier's dates off me, come Tuesday or come Thursday. He'll be up the path on Wednesday and I'll not be here to be asked."
+"It's the only thing to say." He wrote something short in the book, and turned it back round, and shut it. Then he stood with one hand flat on the cover a moment. "Wednesday, mind. If you want the carrier's dates off me, come Tuesday or come Thursday. He'll have me up the path on Wednesday and I'll not be here to be asked."
 
 I said Tuesday would do.
 
@@ -102,6 +102,8 @@ The inner door stood half open. Beyond it was firelight low on a stone floor, an
 
 I had never once been past the shop room into the house.
 
+So it stood for a year, and would have stood longer, and did not, because a plant flowered on a north sill in February and put a name to what I owed. I came down the lane that late-spring afternoon with the debt sitting on me and no clear notion how to set it down.
+
 She was in the doorway before I had got Snow tied, which told me she had watched me come the whole length of the lane and decided, in the time it took, exactly how she meant to have me.
 
 "Well," she said. "You took your year."
@@ -132,7 +134,7 @@ There were shelves to the ceiling, and the shelves were the first thing in that 
 
 "They're my grandmother's shelves. The jars are mine; the order's hers. I never saw the sense in improving on a thing that already worked." She set a kettle on without asking whether I wanted tea, which in that valley was not a question anyone asked, and she stood with her back to me a moment longer than the kettle needed, and I understood that she was doing what she had told me at the door I had done the right thing not to hurry: she was coming to it in her own time. I have never in my life been sorry I let a careful person arrive at a thing by their own road. So I sat, and I looked at the good shelves, and I waited.
 
-The kettle in that kitchen was a black iron thing with a lid that did not quite sit, hung on a chain over the fire, and it took its own time about everything. Brenna did not stand over it. She went back to what she had been at before she saw me coming up the lane: a bundle taken down off the beam and picked over on a board, leaf by leaf, the good going into a bowl and the poor into her apron for the fire. It is slow work. It cannot be hurried, and the whole difference between a trade and a pastime is whether you can bear to do it properly on a day when you would rather not.
+The kettle in that kitchen was a black iron thing with a lid that did not quite sit, hung on a chain over the fire, and it took its own time about everything. Brenna did not stand over it. She went back to what she had been at before she saw me coming up the lane: a bundle taken down off the beam and picked over on a board, leaf by leaf, the good going into a bowl and the poor into her apron for the fire. It is slow work, and the whole difference between a trade and a pastime is whether you can bear to do it properly on a day when you would rather not.
 
 I sat with my hat on my knee and let her do it. The fire ticked. The beck came in through the doorstone, never loud, only always. Above the ceiling a board took up the cold and let it go again with a small sound like a knuckle.
 
@@ -168,13 +170,13 @@ She asked after the Wrays. That surprised me for about as long as it takes to th
 
 "It is." She let that sit. "There's been no smoke off that chimney in a dozen year. I looked for it out my own window the first night and it was there, and I'll not pretend I wasn't glad."
 
-The lamp she had off me at the turn of the winter stood on the shop-room sill, where I could see it through the open door, cold and clear and doing nothing whatever in the afternoon light. She saw me looking at it.
+The lamp she had off me at the turn of the winter stood on the shop-room sill, in the clear end of the window where the drying-green did not reach, and I could see it through the open door, cold and clear and doing nothing whatever in the afternoon light. She saw me looking at it.
 
 "It's on before I want it," she said. "That's my complaint and that's the whole of my complaint. I come through from the kitchen of an evening with both hands full and there's the light already up and waiting on me, and I've caught myself thanking it twice."
 
 "You'd sooner it waited to be asked."
 
-"I'd sooner I hadn't got used to it so fast." It was not a compliment. She was setting down a fact where it could be looked at. "I found what I wanted at the back of the third shelf at midnight in February. I've not been able to do that in this house since my grandmother died."
+"I'd sooner I hadn't got used to it so fast." It was not a compliment, and she did not offer it as one. "I found what I wanted at the back of the third shelf at midnight in February. I've not been able to do that in this house since my grandmother died."
 
 I said I was glad of it, and I said nothing after that, because nothing after that belonged to her. She let the gap stand a moment in case I meant to fill it.
 
@@ -186,7 +188,7 @@ I said I was glad of it, and I said nothing after that, because nothing after th
 
 "It doesn't want anything at all."
 
-"Hm," said Brenna, and drank her tea, and let the whole matter go past her the way you let a strange cart go past on the road, having seen it and having no business with it. She has never once asked me how a thing of mine is made. I have known learned men who could not manage that inside a quarter of an hour.
+"Hm," said Brenna, and drank her tea, and let the whole matter go past her the way you let a strange cart go past on the road. She has never once asked me how a thing of mine is made. I have known learned men who could not manage that inside a quarter of an hour.
 
 The fire settled. Out in the lane somebody's dog took an interest in something and then thought better of it.
 
@@ -194,7 +196,7 @@ The fire settled. Out in the lane somebody's dog took an interest in something a
 
 "You told me to."
 
-"Folk are told all manner of things. There's a pot of mine on a windowsill in half the houses in this valley, and I'd not get the whole of them home with a cart and a summons." She looked at me across the table with that flat considering of hers, taking her time about it, the way she looked at everything before she spent an opinion on it. "You brought it back washed."
+"Folk are told all manner of things. There's a pot of mine on a windowsill in half the houses in this valley, and I'd not get the whole of them home with a cart and a summons." She looked at me across the table with that flat considering of hers, and took her time about it, and I sat and let her take it. "You brought it back washed."
 
 "That seemed to be the arrangement."
 
@@ -202,13 +204,13 @@ The fire settled. Out in the lane somebody's dog took an interest in something a
 
 I said that seemed a hard rule to be judged by and a fair one to hold.
 
-"It's both," said Brenna. "Most rules worth keeping are."
+"It's both," said Brenna. "The good ones generally are."
 
 It was a good while and two cups before she got up, without a word, and took a candle from the mantel and lit it at the fire, and said, "You'll want to see the thing itself, I expect, before I trust you with the reading of it. Come down. Mind your head again; it gets no higher on the stairs."
 
 ---
 
-There were nine steps down and no two of them the same nine, cut into the ground at whatever angles the ground had been willing to give up a hundred years ago. Brenna went first with the candle and did not look back to see how I was managing. The cold came up to meet us about the fourth step, a bare earth cold with stone and old sacking in the smell of it, and by the bottom the kitchen's warmth had been left behind altogether, hanging up there like a coat on a hook.
+There were nine steps down and no two of them the same height, cut into the ground at whatever angles the ground had been willing to give up a hundred years ago. Brenna went first with the candle and did not look back to see how I was managing. The cold came up to meet us about the fourth step, a bare earth cold with stone and old sacking in the smell of it, and by the bottom the kitchen's warmth had been left behind altogether, hanging up there like a coat on a hook.
 
 The cellar of that cottage was cut into the cold ground under the kitchen, low and dry and older than the house on top of it, the walls gone the soft dark of earth that has never once been warm. It was where she kept what wanted keeping cold and dark, roots and the winter's store and the things of her trade that spoiled in the light.
 
@@ -242,7 +244,7 @@ The notebooks were down there too. That was the other reason we had come down, a
 
 We went back up the stairs with our arms full and left the keeper in its dark. She had a crock under one arm and a fist of roots in the other hand, the ordinary errand done at the same time as the extraordinary one, because a woman who has gone down nine steps does not come up them empty.
 
-The kitchen came at us out of the stairwell as we climbed, warm and smoky and smelling of the whole trade at once, and it was like walking into a held breath. I remembered the beam this time. She saw me remember it and said nothing about it, and I counted that a small victory of a kind that house did not hand out often.
+The kitchen came at us out of the stairwell as we climbed, warm and smoky and smelling of the whole trade at once, and I took the warmth back off its hook at the top of the stairs and put it on again. I remembered the beam this time. She saw me remember it and said nothing about it, and I counted that a small victory of a kind that house did not hand out often.
 
 The tea in the pot had gone stone cold on the table. She laid the back of her hand against the belly of it, made a short sound, and set it in on the hearth to take the chill off. Then she swept a space clear on the scrubbed boards with her forearm and set the crock and the roots down out of the way at the end.
 
@@ -276,6 +278,8 @@ Then she said nothing for a while, with the lid still up on her arm and the cand
 
 "It's the only bargain," she said. "She's not here to protect herself from being read badly. So I'll do it for her."
 
+She did not put it into my hands down there in the cold. She carried it up herself, and laid it on the hearthstone to take the chill out of it while she mended the fire, and it was only when the fire had caught and the room had its colour back that she picked the book up and turned round and held it out to me a second time.
+
 I took the book. It was warm from the fire and lighter than it had any right to be for what it held. "That," I said, "is the fairest thing anyone has said to me about the reading of another soul in a good long while."
 
 "Don't flatter me. Open it here, so I can watch you not race."
@@ -294,9 +298,11 @@ She wrote plainly, in the early pages, like a woman keeping accounts. So many da
 
 *Before light, and that is six mornings together. The same hour as before, by no clock but my own bones.*
 
-There is no wonder anywhere in those pages and no reaching after any. She was a woman with a cellar full of winter to keep and a trade to run and a mile and a half of wet lane each way, and she set down what she had done and what the weather had been doing while she did it, in the tone of somebody entering eggs.
+There are no names in that first book. Not the village's, not her own household's, not one soul she must have passed twice a day on that lane for a year. There is the weather, and the hour, and what she heard or did not hear, and the state of her own feet, and nothing else at all. I took it at first for a countrywoman's reticence. By about the tenth page I understood it was only that none of the rest of it was what she had gone up there to write down.
 
-The book had been handled every day of its year and it showed. The corners were gone soft. There was a ring on one page where a cup had stood, and in the margin of another a thumb-print in something dark, set there by a hand that had come straight in from the work and not stopped to wash.
+There is no wonder anywhere in those pages and no reaching after any. She was a woman with a cellar full of winter to keep and a trade to run and a mile of wet lane each way with a hill to climb at the end of it, and she set down what she had done and what the weather had been doing while she did it, in the tone of somebody entering eggs.
+
+The book had been handled every day of its year and it showed. The stitching at the fold had been re-sewn once, in a thread that did not match. There was a ring on one page where a cup had stood, and in the margin of another a thumb-print in something dark, set there by a hand that had come straight in from the work and not stopped to wash.
 
 Somewhere about the twelfth page I caught myself reading the way I read a report: down the middle, skimming for the useful, waiting for the part that would tell me something. It is a bad habit and it is twenty years old in me and I do not believe I would have caught it that evening if I had been alone in the room. I went back to the top of the page and read it again at the pace she had written it. It took four times as long. It was the first thing I had done in a year that felt like paying anybody back.
 
@@ -320,7 +326,7 @@ I sat with that a while. Brenna let me.
 
 I rode back up in the last of the light with the small brown book buttoned inside my coat against the damp, and Snow, freed from the indignity of standing tied at another creature's door, made such good time up the giving-up road that I had to remind her twice that neither of us was being chased.
 
-The village was empty going back through it. Kellard's shutters were to. The hammer had stopped at the top of the street and the smell of the forge hung about after it, iron and coal and scorched hoof, as it does for an hour after a fire is banked. The beck ran high alongside the lane and drowned out the sound of our own going. The book knocked against my ribs at every stride, and I put my hand flat on my coat over it once, and then made myself take the hand away and let it knock.
+We had come out through an empty village. Kellard's shutters were to. The hammer had stopped at the top of the street and the smell of the forge hung about after it, iron and coal and scorched hoof, as it does for an hour after a fire is banked. The beck ran high alongside the lane and drowned out the sound of our own going. The book knocked against my ribs at every stride, and I put my hand flat on my coat over it once, and then made myself take the hand away and let it knock.
 
 By the mill she had the hill in her eye and was already making her own arrangements about the pace of the business.
 
@@ -342,7 +348,7 @@ He glanced up at me then. It was the look a man gives you when you have told him
 
 "A page. Two, if it's a good night."
 
-He was quiet for about four curls off the stick. "Then that's till the middle of the summer," he said. "If you don't miss."
+He was quiet for about four curls off the stick. "A hundred nights, then, near enough, if it's half and half," he said. "That's past the harvest. If you don't miss."
 
 "I'll miss."
 
@@ -362,7 +368,7 @@ We watched the light go a while, him on the wall and me on the mare, and neither
 
 He came as far as the top of the rise with me and then turned off down toward his grandfather's gate. He did not say goodnight. He never did, and I gave up expecting it after the first month and came in time to prefer it.
 
-The last of the light went while I was still climbing. Snow smelled her own barn from two hundred paces off and improved her pace accordingly, having stood tied to somebody else's wall for the better part of an afternoon and considering herself hard used. I got her in and rubbed her down and gave her Kellard's ruined oats, which no mouse had ever been within a mile of, and she ate them with the air of an animal receiving at long last what had always been hers. Then water, and hay, and the door, and the bolt.
+The last of the light went while I was still climbing. Snow smelled her supper from two hundred paces off and improved her pace accordingly, having no more opinion of that barn than she had ever had and a considerable one of what was kept in it. I got her in and rubbed her down and gave her Kellard's ruined oats, and she ate them with the air of an animal receiving at long last what had always been hers. Then water, and hay, and the door, and the bolt.
 
 I went up the shoulder in the blue dark with the book buttoned inside my coat. The Study stood on the crown ahead of me with one square of light in its south window, low yet, the lamp not come up to its hour. I stopped once on the way and looked at it, the way a man looks at a lit window that is his own and has not yet stopped surprising him.
 

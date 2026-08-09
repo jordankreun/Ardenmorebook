@@ -52,7 +52,7 @@ He looked past me down the length of his own yard, at nothing I could see, for l
 
 I asked whether I should send word down to him.
 
-"Go yourself." He looked along the next rod, found it wanting, and threw it on the pile. "And go on a working day. Not a Sunday, and not at his lunch. Let him be about his own business when you come at him, so he's a thing to look at while he thinks."
+"Go yourself." He looked along the next rod, found it wanting, and threw it on the pile. "And go on a working day. Not a Sunday, he'll have the children about him. Not at his lunch either. Let him be about his own business when you come at him, so he's a thing to look at while he thinks."
 
 "You have given this some thought."
 

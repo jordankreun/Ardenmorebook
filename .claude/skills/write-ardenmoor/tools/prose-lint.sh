@@ -127,6 +127,22 @@ for f in "$@"; do
   n=$(grep -oiE 'midday dinner|dinner at midday|dinner at noon|noon dinner' "$f" | wc -l | tr -d ' ')
   if [ "$n" -gt 0 ]; then echo "  FAIL  dinner as the midday meal: $n (LUNCH is midday here; dinner is a formal evening meal — see the style guide's MEALS entry)"; status=1; fi
 
+  # NO RELIGION ON THE PAGE (author, 2026-08-09: "Sunday can be a family day. Just don't
+  # make it religious"). Sunday is the day nobody works because a man has his own people
+  # about him -- not a sabbath. "Parish" here is the CIVIL unit that holds meetings and
+  # votes, never a congregation. A deliberate budget-0 tripwire: it is supposed to stay
+  # silent, and it is silent across all 37 chapters today. Its value is deterrence.
+  # Deliberately NOT matched: "quiet as a church" / "truer than a church" (buildings, in
+  # simile), "holy relic" (dismissive, of what the tales claim), "churchyard" (a burial
+  # ground), and "God help me" (idiom) -- all four are established and vouched.
+  # Also NOT matched: the bare noun "prayer" in a comparison. Ch 5 has "the nearest thing
+  # I know to prayer that a man can do with his body and no words", which is figurative,
+  # says so in its own clause, and is prose the author has read and kept. Only the VERB
+  # forms and the fixed observance phrases are caught, which is the difference between
+  # someone praying and something being LIKE prayer.
+  n=$(grep -oiE "\b(sabbath|church service|go(es|ing)? to church|at church|congregation|clergy|priest|parson|vicar|minister of the|sermon|pray|prays|prayed|praying|(at|in|said a|say a|says a|says his|said his) prayer|worship|blessed by|holy day|day of rest|lord's day)\b" "$f" | wc -l | tr -d ' ')
+  if [ "$n" -gt 0 ]; then echo "  FAIL  religious observance: $n (this world has NO religion on the page; Sunday is a FAMILY day, and \"parish\" is the civil unit — see the story bible's SETTING & POLITY)"; status=1; fi
+
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then
     for p in 'this account' 'set this down' 'setting this down' 'the tellers' \

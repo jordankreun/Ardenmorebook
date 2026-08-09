@@ -336,6 +336,22 @@ trace the three.
 
 ## SETTING & POLITY (world frame — session-locked, 2026-07-11)
 
+**⚠️ THE WEEK, AND NO RELIGION IN IT (author, 2026-08-09).** Weekdays are Earth-standard and named:
+Monday through Sunday all appear. **SUNDAY IS A FAMILY DAY — the day nobody works, when a man has his
+own people about him. It is NOT a sabbath and there is no religion behind it.** *Source: the author,
+asked directly — "Sunday can be a family day. Just don't make it religious."* Write it that way: the
+reason not to call on a man on a Sunday is that his children are around him, not that he is at
+worship. Cael says exactly this in Ch 10.
+
+The wider rule this belongs to: **this world has no religion on the page, and none is to be added.**
+"Parish" throughout is the CIVIL unit — a body that holds meetings, votes, keeps records and roads,
+and that Cael speaks for ("put to the parish and voted on"; "Wednesdays I keep for the parish"). It
+is never a congregation. Churches exist as buildings and survive only in two similes ("quiet as a
+church", "set truer than a church") and one "holy relic" used dismissively of what the tales say
+about lumens; there is one churchyard, meaning a burial ground. Do not extend any of that into
+clergy, worship, doctrine, festivals with a religious origin, oaths sworn on anything, or a
+deity anyone believes in. "God help me" is idiom and stays idiom.
+
 Establishes the geopolitics so the cheap land and the urban/rural split make sense. All of it stays
 **backdrop**: the book remains village-sized and cozy; the council, the capital, the Conclave, and the
 Conclave reach the story only by letter, licence, or a rare visitor, never as epic politics.

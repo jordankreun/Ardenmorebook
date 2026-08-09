@@ -158,3 +158,21 @@
   third stale instance I had just written. LESSON (now in the intake protocol's spirit): an invented
   professional/world detail must be checked against occupation canon BEFORE it propagates — this one
   reached three files in two turns.
+
+- **2026-08-09 — author ruling: SUNDAY IS A FAMILY DAY, and this world has NO RELIGION on the page.**
+  The Parts I–II expansion introduced `Sunday` as the day nobody works. Tuesday, Wednesday, Thursday
+  and Saturday were already canon, so the *name* fitted, but a rest day quietly implies a sabbath in a
+  world whose canon carries no religion. Flagged to the author rather than decided; the ruling was
+  *"Sunday can be a family day. Just don't make it religious."* Rule recorded in `state/story-bible.md`
+  under SETTING & POLITY, generalized from Sunday to the whole class: no clergy, worship, doctrine,
+  religious festivals, sworn oaths or believed-in deity, and "parish" is always the CIVIL unit.
+  **Prose:** all three existing uses were already non-religious; Cael's line in Ch 10 now gives the
+  reason positively — *"Not a Sunday, he'll have the children about him"* — which ties to the Wrays'
+  "more children than land" and puts the canon on the page instead of only in the bible.
+  **Lint:** new budget-0 tripwire in `prose-lint.sh`. Measured before shipping: fires on a planted
+  violation, silent across all 37 chapters. **It fired once on a false friend and was narrowed rather
+  than vouched** — Ch 5's "the nearest thing I know to prayer that a man can do with his body and no
+  words" is figurative, says so in its own clause, and is prose the author has read and kept, so the
+  pattern now catches only the verb forms and fixed observance phrases. That is the difference between
+  someone praying and something being *like* prayer, and it is the prune the intake protocol's step 4
+  demands whenever a pattern is added.
