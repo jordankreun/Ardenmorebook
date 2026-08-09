@@ -8,7 +8,55 @@ The Study had been up a year and more before I put a spade to the ground beneath
 
 The listening was the larger part, for all that. By that second summer I had a full year of the hill's two hours set down in my own hand, dusk and before dawn, the pulse of the thing felt through the soles of my feet and the bones of my face on the nights I lay out on the crown to take it. And I had come to the plain edge of what a man can learn about anything by lying on it in the dark and paying attention. To learn past that edge I had to do what my trade does when the body's attention runs out. I had to build an instrument finer than myself, and set it where the thing was strongest, and let it hear what I was too coarse to hear. The thing was strongest below. It always had been. The pulse came up through the ground because the ground was where it lived, and so the instrument wanted to go down into the ground, into a dry dark closed room with dressed stone around it and the whole weight of the hill on top, which is a cellar by another name.
 
-I put it to Jorin the way I had learned to put a thing to Jorin, which was plainly, once, and then not at all, and let him carry it about with him for a day. I told him I wanted a cellar under the Study, stone-lined and dry, with a stair down from the workroom floor, and I told him how deep I meant to go and no deeper. He looked at the Study a while, and at the ground around its footings, and at last he said, "Hill'll have opinions." It was not quite a joke, though he let it sit on the table like one. He had raised the Study on ground that took its mortar in three days where the same ground had drunk Cael's father's walls soft over a whole season, and he had felt, in the way a builder feels a thing through his hands before his head has words for it, that the difference had not been in his mortar. He never once said the hill was alive. He said it had opinions. That was as far as Jorin would go, and it was further than any other man in the valley would have followed him.
+I put it to Jorin the way I had learned to put a thing to Jorin, which was plainly, once, and then not at all, and let him carry it about with him for a day. I told him I wanted a cellar under the Study, stone-lined and dry, with a stair down from the workroom floor, and I told him how deep I meant to go and no deeper.
+
+I went down to his yard to say it, because a thing like that is not said in a letter and Jorin was easier to talk to standing on his own gravel than anywhere else on earth. It was the last week of the spring. His yard had the swept, squared-off look of a place where a man knows to the plank what he has. Dressed stone stood in courses along the north wall, sorted by size and the ends squared. The seasoned timber lay under its lean-to with the cuts painted against the wet. A barrow was tipped up on its nose so it would not stand full of rain. Ren was at the far end with a saw and a trestle and did not look up, and in a lad of sixteen that is a compliment to the saw.
+
+Jorin came out with a pencil behind his ear and a length of batten in his hand. He set the batten down on the bench along the edge, true to it, before he said anything at all. Then he heard me out to the end of it, and the end of it was nine feet from the workroom boards down to the floor of the new room, and not an inch past nine.
+
+"Why nine," he said.
+
+"Deep enough to keep a winter's food from freezing and a summer's from spoiling. Shallow enough that I'm not undermining your footings to get it."
+
+He walked the length of his own stone and came back. He did not ask a second question. I have sat in rooms in the city where six men in good coats took the better part of an afternoon to arrive at not asking a second question, and charged me for the room they did it in.
+
+So I rode home.
+
+He came up the track at seven the next morning with a rod under his arm and the boy behind him. He looked at the Study a while, and at the ground around its footings, and at last he said, "Hill'll have opinions." It was not quite a joke, though he let it sit on the table like one. He had raised the Study on ground that took its mortar in three days where the same ground had drunk Cael's father's walls soft over a whole season, and he had felt, in the way a builder feels a thing through his hands before his head has words for it, that the difference had not been in his mortar. He never once said the hill was alive. He said it had opinions. That was as far as Jorin would go, and it was further than any other man in the valley would have followed him.
+
+Then he gave me his terms, standing on the grass with the rod still under his arm, in the manner of a man reading off a short list he had made in his head on the way up.
+
+"Fortnight," he said. "If it stays dry. Longer if it doesn't."
+
+"And the stone?"
+
+"Comes out of the hole." He put his boot on the turf. "Shale under this. Two foot down, maybe three. Comes up in plates. Dresses out into a facing as good as anything Edran would sell you, and you've not to haul it."
+
+That was the sentence that settled the business, and he knew it when he said it. I knew to the copper by then what stone cost on that hill, in money and in whole seasons and in the slow hauling of it up a track no wagon would climb. A room whose walls came out of the room itself was a room I could afford.
+
+"Forty-eight silver the week," he said. "Boy's thirty."
+
+Ren, who was pacing the crown behind his father with the toe of his boot and being elsewhere, went a shade darker about the ears and said nothing whatever.
+
+"Thirty's a man's money," I said.
+
+"Aye," said Jorin.
+
+It was paid for out of the lamps, when it came to it, out of the small steady coppers that went down the valley on Kellard's carriage all that spring and came back up it as money. Penworth had written plainly what a run of that size would and would not do. It would buy timber, or a season of the unglamorous materials a building year eats without anybody noticing, and it would not buy me one foot of daylight between myself and what I owed. He was right, as he generally was. But he had not said the money was no use to me, and a cellar is exactly the sort of thing a modest trade pays for.
+
+I went down to Kellard's the day before we started, for candles, because a hole in the ground is a dark place to do fine work in and I had no intention of carrying the lumen down a ladder. He fetched them out of the back storeroom where the flour and the salt live, and set two bundles on the counter, and looked at the bundles rather than at me.
+
+"How many?"
+
+"How many have you?"
+
+"That's not an answer a man gives in a shop," said Kellard, and wrote something short in his book. Then he went back and came out with a box of ends, the stubs and short lengths that collect in a chandler's crate over a year, and set it beside the bundles. "Nobody buys an end. They'll do you well enough at the bottom of a hole. I'll not enter them."
+
+There were a good many ends in that box, and not one of them was much shorter than the candles I was paying for.
+
+"Carriage went Thursday," he said, tying the string. "Two more down the valley, and the pair for the one room. And a fellow at the crossing who's never seen a lamp in his life and has heard about them off his sister. He'll want telling twice that it doesn't take oil. None of them believe that until they've had one a fortnight." He squared the bundles. "The carrier's changed his day again and hasn't seen fit to tell the parish. That's twice this year. There'll be words about it, and I'll be the one saying them."
+
+I said that seemed hard on him, which appeared to be the correct answer, and carried my candles out into the street with no clearer notion than when I went in of what a carrier's day had to do with Kellard, or why it should be his to say words about. A year and a bit in a place buys you the shape of its business and not the reasons under it.
 
 We broke ground on a bright still morning at the front of the summer. The turf came up in green squares that Ren stacked to one side, roots and all, to be laid back over the bald patch when we were done, because he was a boy who could not bear to leave a thing worse than he found it, and under the turf the crown gave up its earth easily, dark and dry and cool, with none of the sullen wet clay that would have fought us anywhere else in that valley.
 
@@ -22,15 +70,145 @@ We broke ground on a bright still morning at the front of the summer. The turf c
 
 "It's a dry crown," Ren agreed, in a voice that accepted the ruling and did not for a moment believe it, and went on digging, and that was the whole of what any of us ever said about it.
 
+Jorin was right about the shale, and he was right about it at two foot six.
+
+It came up in plates the width of a table top, grey-blue and clean, splitting along its own bedding when you put a bar under it and asked. Ren and I hauled them out on a plank sledge. Jorin dressed them where they lay, squaring the ends with a hammer and a chisel and an eye, and he threw perhaps one plate in nine onto the spoil heap and was sour about every one he threw. By the third day there was a stack of facing beside the hole taller than Ren was, and it had cost me nothing beyond the wages of three men who were being paid anyway to dig the hole it came out of.
+
+I did the sum that evening, because I am the sort of man who does that sum. Edran's stone runs a half-gold the load at the quarry face, cut and squared, and a load is not a wall. Then the haulage. The haulage is the murder of it. A cart that will climb my track has never been built; what climbs my track is men and a sledge, and men and a sledge take a day to move what a wagon moves in an hour on the flat. The Study had eaten most of a summer going up and down that hill in pieces. This room came up out of its own floor.
+
+I said as much to Jorin, the two of us standing in the long light looking at the stack.
+
+"Aye." He was a while about the rest of it. "Cheapest wall a man ever built is the one that's already on the site."
+
+He said it to the stack and not to me, and it had the worn feel of a thing said before, to other men, on other jobs, and certain to be said again.
+
 I had not expected to enjoy those days as much as I did. I had gone into the business thinking of it as a thing to be got through in order to have the room at the end, and instead I got a fortnight of the best company I had kept in years, three men in a hole in the ground with the summer going on overhead. There is a particular good humour that comes up in men doing hard work in cool earth on hot days. We shored as we cut and dressed the walls as we went, and the cold came up to meet us the deeper we sank, a clean stone cold with the faint mineral breath of a place that has never once been warm, and we came up at noon each day blinking and filthy into a heat that felt like a wall, and ate under the Study's north side where the shade was, and Jorin told us, over a fortnight, in installments, and with enormous economy, the entire history of every wall he had ever had to pull down and build twice. Ren asked questions of a kind that would have irritated a lesser craftsman and did not irritate his father at all. I mostly listened. I have been in a great many learned rooms in my life and have seldom heard better talk than I heard in that hole.
 
+The climb out was the worst part of every day. Nine feet is nothing at all on a drawing. Nine feet up a ladder with your hands gone stupid with the cold of the stone, and the noon standing over the mouth of the hole like a man waiting to be paid, is a different article. We went up it one at a time and stood a moment at the top while the sweat came back into us, and none of us ever said one word about that either.
+
+Then bread, and cheese out of the lean-to, and water off the spring so cold it made the roots of your teeth ache, and the flagstones under the Study's north wall to sit on.
+
+"Tell him about the byre," Ren said, on about the fourth day of it.
+
+Jorin ate for a while.
+
+"Which byre."
+
+"The one you built twice."
+
+"I've built three of them twice."
+
+"The pond one."
+
+Jorin set the bottle down square to the edge of the flagstone he was sitting on. He did that with every object he ever set down in my hearing.
+
+"Man wanted a byre wall on the low road. Ground was flat and it was dry and I never once asked it what it had been." He drank. "It had been a pond."
+
+That was a great deal of talking for him, and he stopped there, and Ren waited him out with the patience of a boy who has waited him out before.
+
+"Set it in the back end of autumn. Frost had it out of true by the thaw and down on its face by the summer." He looked at his hands. "I took it down before he could ask me to, and put it up on a raft of stone a foot deeper, and I never sent him the second bill."
+
+The shade had gone off my boots while he said it. I moved my boots.
+
+Ren turned his crust over.
+
+"How do you ask a field what it's been," he said.
+
+"You ask the parish."
+
+"That's not the ground telling you, though. That's a man telling you." He was not arguing. He had the look he got when he was being careful with something. "I can feel a corner. I know I can feel a corner. I've never once felt what a field used to be, and I'll not sit here and say I have."
+
+Jorin considered that the length of a swallow.
+
+"Dig a hole. Look."
+
+Four words. Ren said nothing more about it at all. An hour later I came down the ladder and found him standing in the bottom of the cut with a plate of shale held up in both hands, turning it to the candle and reading the bedding of it the way another lad his age would read a page.
+
+Soren came up on the Wednesday in the middle of it, that being his day, and it had not occurred to either of us to say a word about the arrangement on account of there being a hole in the floor.
+
+He came a little after one with his slate under his arm in its cloth, and stopped at the head of the track, and stood looking at the crown a good while before he came on. The turf was up in green squares along the north side. There was a spoil heap, and a stack of dressed shale, and a ladder standing up out of the workroom floor where the workroom floor had been.
+
+"You've taken the floor out," he said.
+
+"Some of it."
+
+"Is the Study standing on it?"
+
+"On the ring of it. Not the middle."
+
+He thought about that. Then he asked what was holding up the part we had taken away, and I said that was a fair question and the answer was in his own two hands, and I gave him two of Jorin's offcuts and set them on the flagstone. I had him lean them against each other until they stood, and then I told him to push down on the top of them, and he pushed, and they did not go. He pushed harder. They still did not go. He got both hands on them and leaned his whole self into it and the two stones sat there and took it.
+
+"They're pushing sideways," he said.
+
+"They are. Into the walls. That's the whole trick, and every arch and every vault in the world is the same trick made bigger. It wants a wall on either side that will not be shoved. Which is why we are lining this hole with stone before we put anything over it."
+
+He put the offcuts down carefully, side by side and square, and I did not tell him where he had got that from.
+
+Then he wanted to know how many stones the walls would want, and I said I had no idea, and he asked me how deep and how wide and how long, and then how thick a plate ran on average, and I told him what I knew and guessed at the rest. He was quiet for the space of about a minute, looking at the spoil heap and not at anything, and then he gave me a number.
+
+Jorin, who had come up the ladder behind us for a length of line and had heard the last of it, said the number back to him once, the way a man repeats a figure he means to keep. Then he took his line and went down again.
+
+Soren went down after him a while later, with Jorin footing the ladder and saying nothing, and stood in the bottom in the cold with his head back, looking up at the square of white sky.
+
+"It's colder than the beck," he said, when he came up.
+
+"It is."
+
+"Even in the summer?"
+
+"Especially in the summer."
+
+He wrote that on the slate. The slate was not for that, and he rubbed it out with his cuff before anybody could see it but me. Then he sat on the top step in the sun and did his letters through the noise of three men working under him, and afterward he carried water down the ladder in a jug for the whole of the rest of the afternoon and would not be told he had done anything, having got that off his grandfather along with everything else.
+
 Ren worked the footing course with Jorin, cutting and setting, and he laid his stones the way he always laid them, each one true to its neighbors without a shim or a second look, so that within a day Jorin had taken to letting the boy set the corners, which is work a builder trusts to no one green. Ren laid three of them clean and quick. At the fourth, the one at the northeast where the walls met, he was a moment longer than his habit, the stone held a breath in his two hands before it went down, the way a man will check his stride on a stair he has climbed a hundred times and never once counted. Jorin looked up at him. It was a builder's look, the kind a man gives an apprentice who has broken his rhythm, and it rested on the boy a beat past the length of the pause itself, and then Jorin put his level to the new course and said, "Good," and Ren set the next stone and went on. Nothing else came of it. We built the wall up over the corner and moved on to the vaulting, and at the end of that day the three of us sat on the crown in the long light with our backs against the warm stone of the Study and drank Maret's beer, and Ren said the cellar was the best thing he had ever helped make, and Jorin said it was a hole, and Ren said it was a very good hole, and Jorin allowed that it was.
+
+The vaulting took four days. Ren built the centering for it in one afternoon out of rough boards that had been in the wet all spring and were fit for nothing better, and when the vault was closed and had taken its own weight we knocked the centering out from under it and burned it on the crown that same evening. A vault does not stand a little and then stand better. It does nothing whatever until the last stone goes in, and after that it does not stop. The minute following the knocking-out of a centering is a quiet one. Nobody looks at anybody. Everybody looks at the ceiling.
+
+The stair went in after, cut down into the shale in eight steps with oak treads pegged into the stone. A good deal of Jorin's swearing went into the headroom. A stair let down out of a room already built has to fit whatever is left over, and what was left over was mean.
+
+I rode down to the forge on the tenth day for the door iron, and Snow had opinions about the ten days.
+
+She had stood in that barn since the ground was broken with nothing asked of her but to eat, and she had taken it as a grievance and nursed it. She came out like a cork out of a bottle. She leaned on me twice going down the shoulder, took a bite at my sleeve at the turn of the track for no reason a court would accept, and then went the whole of the low road at a business-like walk with her ears up, entirely restored, as though the last week and a half had been my idea and she had forgiven me for it.
+
+Tomas had the door open and the fire low. I had drawn the ironwork on the back of a page out of the lamp book. It is not a drawing office. It had served me a year and it served me then. I put it on the bench and set my thumb on the sketch of the leaf.
+
+"Two straps," I said. "A bolt and a ring."
+
+He looked at it the way he looked at everything, for a good while and without a word, and then turned it round on the bench so it faced him properly. I might have thought of that myself.
+
+"How heavy's the door."
+
+"Oak. Two inch. Jorin's hanging it."
+
+"Three straps."
+
+I said two would carry it. He said nothing at all to that. From Tomas, nothing at all is a man who has been answered and has not agreed, and after a moment I said three, and he took the pencil out of my hand and made the change on my own drawing. I paid him twenty-two silver in the end and had the better of the bargain, as I generally did in that room and never once managed to say so in a way he would let stand.
+
+"Even," he said. The money went into the tin uncounted.
+
+Then he did the thing he had lately started doing. He lifted his chin, small, at the roofs and the hill standing over them. That was the asking.
+
+I had two words, and I gave him the two words, and he took them and went back to his fire.
+
+I rode home with the iron in the saddlebag and did not think about it much until I was most of the way up the track. I was eight days from putting a stone in a floor to listen to that hill for a month, and I had stood in his forge and bought hinges off him and told him nothing whatever about it. I had promised him the answer when I had it. I had not promised him the road to it, and I had not offered him the road, and the difference between those two things kept me company as far as the barn door and did not entirely leave me at it.
 
 When the room was finished and the stair run down into it from the workroom floor, dry stone under a good oak door, I carried the chest down myself. I would take no help with it, though both of them offered, Ren with his hands already out and Jorin with a lift of his chin, and I gave them no reason, and they asked for none, which was its own small kindness. It was not heavy. It had never been heavy. That was the cruelty in the thing, that a life could be reduced to a box a tired man could carry down a stair one-handed. I brought it down into the new cold that smelled of turned earth and cut stone, and I set it in the northeast corner where the wall stood driest, and I climbed back up the stair and left it to the dark.
 
 Into the floor of that room, before I sealed it, I set the blank.
 
-It was a palm's width of grown crystal, clear and flawless and cold, the kind of still perfect thing my trade uses to hold a working motionless so it can be studied at leisure, and I set it flush into the stone of the floor at the center of the room and tuned it low, far below hearing, to take down across a month whatever came up out of the hill through the stone. It was not built to do anything. It was built only to listen, and to remember, in the two places where I could do neither: below the reach of my ear, and through the long hours I could not lie awake. Thirty days I gave it. I closed the oak door on the dark and the cold and the chest and the patient stone, and I went back up into the daylight and my life, and let the hill spend a month telling its evening and its morning to something at last made fine enough to hold the whole of what it said.
+The floor took two days of my own, with nobody else on the hill and the oak door wedged back with a stone so the candles would not go stupid on me. Cutting a seat in dressed stone is not difficult work. Cutting a seat that touches a thing at every point of its underside is two days. It is also the only work in that business worth doing slowly.
+
+I found the centre of the room with two lines and a plumb bob and marked it with a nail. Then I cut, roughly, with a chisel and a light hammer. Then less roughly. Then not with a hammer at all. The last of it came off with the small flat files out of my own kit and the ball of my thumb, a bright dust at a time, taking down what a leaf of paper would have called a fault, and I did it lying on the floor of my own cellar with a candle set at the level of the stone so the shadow could tell me what my hands were too coarse to find. Stone is honest about that. Every high place shows as a bright rub where the work has been riding it. It does not argue and it does not let a thing go.
+
+A blank bedded on three points hears the three points. Bedded flat on cut stone it hears the floor, and on that hill the floor is the hill.
+
+It was a palm's width of grown crystal, clear and flawless and cold, the kind of still perfect thing my trade uses to hold a working motionless so it can be studied at leisure, and I set it flush into the stone of the floor at the center of the room and tuned it low, far below hearing, to take down across a month whatever came up out of the hill through the stone.
+
+The tuning itself was done with my hands flat on it and my breath gone long and nothing at all said out loud. There is nothing to say out loud, and in any case there was nobody in the room to say it to. You take a thing like that down the way you go down an unlit stair in a house you know: not quickly, and by feel, and counting. Past the place where a man stops noticing that he is listening. Then a good way further than that, into the slow country where the hill keeps its business. Then you leave it open and take your hands off it. Taking the hands off is the difficult part.
+
+It went on for the better part of an afternoon and I could not have told you afterward whether that was one hour or four. When I stood up my shoulders had set like mortar. I went up the stair using my hands as much as my feet, and ate standing at my own table, and was asleep before the light was properly out of the sky.
+
+It was not built to do anything. It was built only to listen, and to remember, in the two places where I could do neither: below the reach of my ear, and through the long hours I could not lie awake. Thirty days I gave it. I closed the oak door on the dark and the cold and the chest and the patient stone, and I went back up into the daylight and my life, and let the hill spend a month telling its evening and its morning to something at last made fine enough to hold the whole of what it said.
 
 The papers came up the road in the middle of all that, in a fat packet under Penworth's seal, carried the last mile by the Wednesday boy, who had no more notion of what he held than the packhorse did. The river house was sold.
 
