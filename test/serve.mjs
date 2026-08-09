@@ -23,6 +23,23 @@ const TYPES = {
 export function serve(port) {
   const server = createServer(async (req, res) => {
     let p = decodeURIComponent(new URL(req.url, "http://x").pathname);
+
+    /* Stub for the sync endpoint. The performance question the author asked
+       about ("the edit with track changes is slow") only reproduces when sync
+       is CONFIGURED: in the pre-rebuild reader every committed edit scheduled a
+       push, and the push's completion callback ran a full decorate() over the
+       whole document. With no endpoint the push fails early and that second
+       re-render never happens, so the harness measures the wrong thing and
+       reports a flattering zero. This stub makes the push succeed. */
+    if (p === "/api/sync") {
+      let body = "";
+      req.on("data", (c) => { body += c; });
+      await new Promise((r) => req.on("end", r));
+      res.writeHead(200, { "Content-Type": "application/json", "Cache-Control": "no-store" });
+      res.end(JSON.stringify({ ok: true, via: "stub", notes: [], revisions: [] }));
+      return;
+    }
+
     if (p === "/") p = "/reader.html";
     if (p === "/old-reader.html") p = "/test/old-reader.html";
     const file = join(ROOT, normalize(p).replace(/^(\.\.[/\\])+/, ""));
