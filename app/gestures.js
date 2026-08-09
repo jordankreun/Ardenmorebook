@@ -214,4 +214,68 @@ export function init() {
     }
     lastTap = { t: now, x: e.clientX, y: e.clientY, el: q.el };
   });
+
+  /* ---------- the gated edit attempt ----------
+     Editing is only live in Review mode, and the gate used to be SILENT: in Read
+     mode the handler above returns on its first line, so a double-tap on a
+     paragraph produced no editor, no toast and no hint whatever. That does not
+     read as "you are in the other mode", it reads as a broken app — which is
+     exactly how it was reported.
+
+     Nobody double-taps a paragraph of prose by accident, so the gesture is taken
+     as what it plainly is: switch to Review, open the editor, and say so. The
+     whole thing stays inside the gesture's own task — setMode() is synchronous
+     by design — so iOS still raises the keyboard.
+
+     An explicit "inline editing off" preference is a different matter. The
+     author set that deliberately, so it is explained rather than overridden.
+
+     Kept in its own listeners so the live editing path above pays nothing for
+     any of it. */
+  function gatedEdit(el, x, y) {
+    const para = paraFor.get(el);
+    if (!para) return;
+    if (inlinePref === "off") {
+      toast("Inline editing is off — switch it on in Settings");
+      return;
+    }
+    render.setMode("review");
+    toast("Review mode — edit away");
+    editor.openEditor(para, "", { auto: true, caret: editor.caretContextAt(el, x, y) });
+  }
+
+  const gatedTarget = (e) => {
+    if (inlineActive()) return null; // the live path already handled it
+    const t = e.target;
+    if (!t || !t.closest || t.closest(".popover") || t.closest("#selTools")) return null;
+    return t.closest("#book p.para");
+  };
+
+  // Desktop: the native event. Not the manual tracker below — a desktop
+  // double-click also selects a word, and a selection check would swallow it.
+  document.addEventListener("dblclick", (e) => {
+    const el = gatedTarget(e);
+    if (el && !editor.isTouch()) gatedEdit(el, e.clientX, e.clientY);
+  });
+
+  // Touch: the same double-tap contract as the live path, so the gesture that
+  // works in Review is the gesture that gets you there from Read.
+  let gatedTap = { t: 0, x: 0, y: 0, el: null };
+  document.addEventListener("click", (e) => {
+    const el = gatedTarget(e);
+    if (!el || !editor.isTouch()) return;
+    const sel = window.getSelection();
+    if (sel && sel.rangeCount && !sel.isCollapsed) return; // drag-select belongs to the toolbar
+    const now = Date.now();
+    const near =
+      gatedTap.el === el &&
+      Math.abs(e.clientX - gatedTap.x) <= DOUBLE_TAP_SLOP_PX &&
+      Math.abs(e.clientY - gatedTap.y) <= DOUBLE_TAP_SLOP_PX;
+    if (near && now - gatedTap.t <= DOUBLE_TAP_MS) {
+      gatedTap = { t: 0, x: 0, y: 0, el: null };
+      gatedEdit(el, e.clientX, e.clientY);
+      return;
+    }
+    gatedTap = { t: now, x: e.clientX, y: e.clientY, el };
+  });
 }

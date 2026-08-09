@@ -133,18 +133,28 @@ export function init() {
 
   btnMode.addEventListener("click", () => {
     render.setMode(render.getMode() === "read" ? "review" : "read");
-    toast(render.getMode() === "read" ? "Reading mode" : "Review mode");
+    toast(
+      render.getMode() === "read"
+        ? "Reading — the book as edited. Tap the pill to make changes."
+        : "Reviewing — tap a paragraph twice to edit it."
+    );
   });
 
+  /* The pill shows the mode you are IN, and the participle is doing real work
+     there: a button reading "Read" is indistinguishable from a button that
+     PERFORMS reading, so a reader in Read mode saw "Read" and reasonably
+     concluded that editing was simply broken. "Reading" can only be a state. */
   render.onModeChange((mode) => {
     if (mode === "read") {
-      btnMode.innerHTML = svg("book") + "<span>Read</span>";
-      btnMode.setAttribute("aria-label", "Reading mode. Switch to review mode.");
+      btnMode.innerHTML = svg("book") + "<span>Reading</span>";
+      btnMode.setAttribute("aria-label", "Reading mode. Switch to review mode to edit.");
+      btnMode.title = "Reading mode — switch to Review to make changes";
       popover.closeCurrent();
       selTools.classList.remove("show");
     } else {
-      btnMode.innerHTML = svg("pen") + "<span>Review</span>";
+      btnMode.innerHTML = svg("pen") + "<span>Reviewing</span>";
       btnMode.setAttribute("aria-label", "Review mode. Switch to reading mode.");
+      btnMode.title = "Review mode — tap a paragraph twice to edit it";
     }
   });
 

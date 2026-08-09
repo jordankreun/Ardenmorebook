@@ -289,6 +289,68 @@ async function measure(url, sel) {
   return { load, commit, recorded };
 }
 
+/* ---------- editing from READ mode ----------
+   The reported failure: "I couldn't edit the book manuscript". Editing is gated
+   on Review mode and the gate was silent, so a double-tap in Read mode did
+   nothing at all. Nothing in this suite caught it, because every editing test
+   above seeds KEY_MODE:"review" first. These two seed READ. */
+console.log("\n== editing from Read mode ==");
+{
+  const { ctx, page, errors } = await newPage(
+    { hasTouch: true, isMobile: true, viewport: { width: 390, height: 780 } },
+    { [KEY_MODE]: "read", [KEY_INLINE]: "on", [KEY_REVS]: "[]", [KEY_NOTES]: "[]" });
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  ok(await page.evaluate(() => document.documentElement.getAttribute("data-mode") === "read"),
+     "starts in Read mode");
+  const p2 = page.locator("p.para").nth(3);
+  await p2.scrollIntoViewIfNeeded();
+  const b = await p2.boundingBox();
+  const pt = { x: b.x + 30, y: b.y + 10 };
+  await page.touchscreen.tap(pt.x, pt.y);
+  await page.waitForTimeout(120);
+  await page.touchscreen.tap(pt.x, pt.y);
+  await page.waitForTimeout(400);
+  ok(await page.evaluate(() => !!(document.activeElement && document.activeElement.isContentEditable)),
+     "a double tap in Read mode opens the editor instead of doing nothing");
+  ok(await page.evaluate(() => document.documentElement.getAttribute("data-mode") === "review"),
+     "and switches the app to Review mode");
+  ok(errors.length === 0, "no page errors entering the editor from Read mode", errors.join(" | "));
+  await ctx.close();
+}
+{
+  const { ctx, page, errors } = await newPage({ viewport: { width: 1200, height: 900 } },
+    { [KEY_MODE]: "read", [KEY_INLINE]: "on", [KEY_REVS]: "[]", [KEY_NOTES]: "[]" });
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  const p3 = page.locator("p.para").nth(3);
+  await p3.scrollIntoViewIfNeeded();
+  await p3.dblclick();
+  await page.waitForTimeout(400);
+  ok(await page.evaluate(() => !!(document.activeElement && document.activeElement.isContentEditable)),
+     "a desktop double-click in Read mode opens the editor");
+  ok(errors.length === 0, "no page errors on the desktop gated path", errors.join(" | "));
+  await ctx.close();
+}
+{
+  // The explicit preference is respected, not overridden.
+  const { ctx, page } = await newPage(
+    { hasTouch: true, isMobile: true, viewport: { width: 390, height: 780 } },
+    { [KEY_MODE]: "read", [KEY_INLINE]: "off", [KEY_REVS]: "[]", [KEY_NOTES]: "[]" });
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  const p4 = page.locator("p.para").nth(3);
+  await p4.scrollIntoViewIfNeeded();
+  const b4 = await p4.boundingBox();
+  await page.touchscreen.tap(b4.x + 30, b4.y + 10);
+  await page.waitForTimeout(120);
+  await page.touchscreen.tap(b4.x + 30, b4.y + 10);
+  await page.waitForTimeout(400);
+  ok(await page.evaluate(() => document.documentElement.getAttribute("data-mode") === "read"),
+     "inline editing switched OFF is explained, not overridden");
+  await ctx.close();
+}
+
 const nu = await measure(BASE + "/", "p.para");
 const old = await measure(BASE + "/old-reader.html", "p[data-snip]");
 console.log(`  note  first render, blocked:  old ${old.load.toFixed(0)} ms   new ${nu.load.toFixed(0)} ms`);
