@@ -545,7 +545,7 @@ they conflict.
 
 ---
 
-## Keeping the engine learning (the intake protocol — run ALL six steps on every note)
+## Keeping the engine learning (the intake protocol — run ALL seven steps on every note)
 
 When the author gives new feedback, after applying it to the prose (per "AUTHOR FEEDBACK IS
 DURABLE" in `references/session-locks.md`), run this full protocol. A note that only fixes the one line has NOT been learned.
@@ -585,6 +585,17 @@ DURABLE" in `references/session-locks.md`), run this full protocol. A note that 
    added/changed, whether a lint pattern was added, and the retro-sweep result. The changelog is
    the audit trail that proves learning happened, and rereading it is how repeat families get
    noticed (step 3's escalation depends on it).
+
+7. **Close the record.** Mark the source record `resolved` in `feedback/notes.json` /
+   `feedback/revisions.json`, in the same commit as the prose fix. **An applied note that is still
+   flagged open is indistinguishable from an unapplied one**, and the next pass will read it as
+   live work. *Source: 2026-08-09 — nine records read as outstanding at the start of the expansion
+   pass; six of them had been fully applied on 2026-08-02, rules distilled into P1d and prose
+   corrected, and only three (Ch 5 ×2, Ch 7 ×1) were real.* Two mechanisms fail here and both
+   need watching: **notes have no auto-resolution at all** — only tracked changes are auto-verified,
+   by testing whether the original paragraph still appears in the live manuscript — and that
+   auto-verification silently misses any revision whose original was *reworded* rather than
+   replaced. Do not rely on either. Close the record by hand when you apply the note.
 
 **The engine report closes the loop.** Every delivery's 2–4 line report must include the pass
 tally (which P-sections fired and what changed), so a skipped pass is visible instead of silent.
