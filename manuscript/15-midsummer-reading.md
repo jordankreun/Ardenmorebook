@@ -24,11 +24,11 @@ The wanting is what spoils it. I have been at this trade the better part of my l
 
 What arrives, when it arrives, is not a sound and not a picture. The nearest I can put it is that a shape comes into the room that was not in the room before, the way a word you have hunted all morning arrives while you are carrying a bucket. On the first morning I sat the better part of an hour and got nothing whatever, and I had expected that and was not troubled by it. A stone that has been listening for a month in the cold is not rude. It is only that a month is laid down in it the way a year is laid down in a tree, all together and none of it in order, and the man wanting to read it has to be let in.
 
-What came first was the plainest thing in it, and I might have told you the shape of it without going underground at all. It came up as a rhythm. Not a rhythm I heard. A rhythm the way you know, waking in a strange house, that somebody two rooms off is breathing evenly and asleep. It went on for a long time. I let it go on. I had brought no paper down with me, having learned that a man with a pencil in his hand is a man half out of the room already, and so I sat in the cold and held it and made no note of anything at all.
+What came first was the plainest thing in it, and I might have told you the shape of it without going underground at all. It came up as a rhythm. Not a rhythm I heard. A rhythm the way you know, in a dark room in a house not your own, that there is a clock going somewhere in it. It went on for a long time. I let it go on. I had brought no paper down with me, having learned that a man with a pencil in his hand is a man half out of the room already, and so I sat in the cold and held it and made no note of anything at all.
 
 When I came up the stair the noon stood over the mouth of it with the whole white weight of the year on top, and I went up into that heat with my hands so stupid with the cold of the stone that I had to work the fingers against my palms for a minute before they would do a latch. I sat down at my own table outside the Study with the sun on my back and wrote in the small brown book until the shaking went out of my hand, and then I ate standing up, and then I slept for an hour on the floor of the workroom like a dog, and went down again at dusk.
 
-That was the shape of both days. Down into the cold and up into the heat, four times over, a page of the brown book after each of them, and by the fourth my knees had opinions about cross-legged that they had not troubled me with since I was twenty. It is not dramatic work. It is the least dramatic work in my trade. But I will say this much for it. It is the one hour in a man's life when he is being told something and cannot possibly argue.
+That was the shape of both days. Down into the cold and up into the heat, four times over, a page of the brown book after each of them, and by the fourth my knees had opinions about cross-legged that they had not troubled me with since I was twenty. There is nothing in any of it that a man could show to anybody. But I will say this much for it. It is the one hour in a man's life when he is being told something and cannot possibly argue.
 
 The two hours were true. That first, and it steadied me to have it proven: dusk and the hour before dawn, the fall of the light and the return of it, a pulse at each, regular as a slow pair of lungs. I had them from my own body across a year of lying on the crown, but a man's body is a poor instrument, warm and hopeful and prone to hear what it wishes, and to have the cold stone say the same two hours back to me in numbers I had not chosen was the nearest thing my trade offers to being believed.
 
@@ -64,13 +64,15 @@ Soren came up the last of the rise and stopped and looked at me.
 
 "No."
 
-He considered whether that wanted following up, and decided against it. That is a courtesy his grandfather taught him, and I have known grown men in the city who never learned it. He put the loaf on the flagstone by my knee, out of its cloth, one of the dark ones that come off the oven heavy as a paving slab and keep a week in a cool place. It was still faintly warm through the cloth at the underside. He had walked it up a hill in the heat with his arm round it like a cat.
+He considered whether that wanted following up, and decided against it. That is a courtesy his grandfather taught him, and I have known grown men in the city who never learned it. He put the loaf on the flagstone by my knee, out of its cloth, one of the dark ones that come off the oven heavy as a paving slab and keep a week in a cool place. It was still faintly warm on the underside. He had walked it up a hill in the heat with his arm round it like a cat.
 
-"Grandda says the white's not worth carrying up in this," he said. "It's dust in three days in the summer. The dark keeps."
+"It's a dark one," he said. "The white's not worth carrying up in this. It's dust in three days in the summer. The dark keeps."
 
-"Your grandfather's right about bread."
+I had never told him that. I have never found out who did, and I have come round in the end to thinking that nobody did.
 
-"He's right about most keeping things." He sat down on the step below me without being asked, which had taken a year to arrive at and had arrived, and he looked out over the shoulder of the hill at the bottoms, where the Wrays' green stood up in the heat haze and moved a little and then did not. "Hal Wray says it wants three weeks yet and a dry end to them."
+"So it does," I said.
+
+He sat down on the step below me without being asked. That had taken a year to arrive at, and it had arrived. He looked out over the shoulder of the hill at the bottoms, where the Wrays' green stood up in the heat haze and moved a little and then did not. "Hal Wray says it wants three weeks yet and a dry end to them."
 
 He gave it exactly as it had been given to him. He always did. If a man said a thing to Soren in eleven words, Soren carried the eleven words up the hill and set them down without a chip off any of them, and if you wanted his own opinion of them you had to ask for it separately and you were not always given it.
 
@@ -82,9 +84,9 @@ He looked at the sky for a while, the whole of it, in the way of somebody who ha
 
 Then he got up, because it was not Wednesday and he was not stopping, and went down again with the folded cloth under his arm. I ate the heel of the loaf sitting where I was, and felt better than I had any right to at that hour.
 
-I spent the rest of those two days at the bench, and I was glad of it. There is nothing in the world for a man who has had a large fright like a small job with close tolerances on it.
+I spent the next two days at the bench, and I was glad of it. There is nothing in the world for a man who has had a large fright like a small job with close tolerances on it.
 
-Kellard's carriage went at the turn of the month and I owed it six lamps. Six is a modest number and sounds like a modest fortnight, and it is not. Every one of them wants the three layers laid into the blank in the right order and none of them hurried, the architecture first and then the sensitivity and then the binding that holds the two of them honest, and any one of the three sulking will give you a housing full of nothing at all, or worse, a lamp that works handsomely for eleven days and then dies in a stranger's window a week's road away where I cannot get at it. I worked with the jeweller's glass and the files and the small brass scale, and the south window's light on the bench, and the hum came and went under all of it at its two hours and I did not once go and lie down on the crown to listen to it, because I had thirty nights of it set down in my own hand already and was, for the moment, sick of the sound of my own hill.
+Kellard's carriage went at the turn of the month and I owed that crate six lamps. Six is a modest number and sounds like a modest fortnight, and it is not. Every one of them wants the three layers laid into the blank in the right order and none of them hurried, the architecture first and then the sensitivity and then the binding that holds the two of them honest, and any one of the three sulking will give you a housing full of nothing at all, or worse, a lamp that works handsomely for eleven days and then dies in a stranger's window a week's road away where I cannot get at it. I worked with the jeweller's glass and the files and the small brass scale, and the south window's light on the bench, and the hum came and went under all of it at its two hours and I did not once go and lie down on the crown to listen to it, because I had thirty nights of it set down in my own hand already and was, for the moment, sick of the sound of my own hill.
 
 The sixth lamp took its first light on the north sill on the second morning, with the rosemary and the grey sage keeping it company and the soldier's-heart doing nothing whatever, as it had done nothing whatever since February. I packed the six in straw in Kellard's crate and counted them twice, because I have never once trusted myself to count a thing correctly the first time and have therefore never once been wrong about a count.
 
@@ -104,7 +106,7 @@ I had thought, when his letter said he would come himself with the summer's acco
 
 I took the hired horse down to the barn first and got the saddle off her and a bucket into her, and she was a patient plain brown creature who had been ridden a long way by a man with no particular malice and no particular skill, and she bore me no grudge for any of it. Then I came back up and found my man of affairs standing in the middle of my main room with his hat still in his hand, turning slowly on the spot.
 
-Two rooms. A hearth, a kettle, a table, one good chair and one that was not. A shelf of the books I actually read, as against the ones I keep. A door through to the bedchamber with its morning window, and the small walled alcove off it where the spring water comes in cold enough to make a man sing.
+Two rooms. A hearth, a kettle, a table, one good chair and one that was not. A shelf of the books I actually read, as against the ones I keep. A door through to the bedchamber with its morning window, and the small walled alcove off it where I wash, in water carried up from the spring cold enough to make a man sing.
 
 "It is very small," he said.
 
@@ -114,7 +116,7 @@ Two rooms. A hearth, a kettle, a table, one good chair and one that was not. A s
 
 I put the kettle on. He tried, on principle, to prevent this, on the grounds that he had come to do business and not to be waited on, and he lost, as men do who argue with a kettle already over the fire. He took his boots off instead. That is a considerable concession from a man who regards his own feet as a private matter. He sat in the good chair with the dust of four days still in the creases of his coat and looked at the room some more.
 
-Later there was the question of where he was to sleep, and it was settled the way such questions are settled between two men who have known each other a long while and are neither of them any good at being looked after. He proposed the workroom floor. I proposed my bed. He observed that a man of business who displaces his client from his own bed has failed at the first principle of his trade. I observed that a man who has ridden four days on a hired horse will lose an argument about a straw tick to anybody in the parish, and that in any case there was nothing in the Study but bare boards and instruments. He looked at me for a moment.
+Later there was the question of where he was to sleep, and it was settled the way such questions are settled between two men who have known each other a long while and are neither of them any good at being looked after. He proposed the workroom floor. I proposed my bed. He observed that a man of business who displaces his client from his own bed has failed at the first principle of his trade. I observed that a man who has ridden four days on a hired horse will lose an argument about a straw tick to anybody in the parish, and that in any case there was nothing in the Study to lie on but a straw tick and a floor. He looked at me for a moment.
 
 "You will make a note," he said, "that I objected."
 
@@ -126,7 +128,7 @@ He had cleared my table to do it, with my leave and without waiting for it, movi
 
 The column itself was four pages of the plainest arithmetic in the world. The lamps, entered in coppers, a great many small lines of them running down two pages like a tide-mark. The quarterly royalty on the old ground-working patent, coming in as it has come in every quarter since I was a young man in my father's office, a few gold and never any more. My father's retained share of the firm, likewise. And then, at the head of the last page, the one large figure out of the city, and beneath it what had gone out.
 
-I read down it twice. There is a particular quality to a column that comes level at the bottom with nothing under it, and I had not seen it before and have seen it a number of times since, and it does not improve.
+I read down it twice, and the second time slower than the first, and found nothing in it I could argue with. It is a particular sensation and I had not had it before that afternoon. I have had it a number of times since. It does not improve.
 
 "You made it," he said. "This once. On lamps and on the first half of the city money, and that half is gone." He tapped the page. "The completion money comes in the autumn, and it is already spoken for twice over." He tapped the foot of the column. "The land has to carry the next one. This green you're so pleased with down there has to come in, and come in sold, or the one after this eats you. I did not ride four days on a hired horse to tell you that, because you know it. I rode up to see whether the man who has to make it happen was a man I could still lend against. And he is. That's the whole of my business, and it's done, and now you may give me something to drink that did not come off a hill."
 
@@ -152,15 +154,15 @@ He walked on a little. Then he asked me what would happen if I broke my leg on t
 
 He looked at the Study for a long time from the outside and then went in and stood in it and said nothing. He put his hand flat on the wall as he came out, briefly, and I do not think he knew I saw it.
 
-I had left him to it and gone and stood at the edge of the crown with my back to the doorway. It is not a large room. You can take it all in from the threshold in the time it takes to set a hat down, and the door stood open the whole while, and there was no sound whatever out of it. Then his step on the boards, and the hand on the stone, and he came out into the white light of the middle of the day with his hands going back behind him where they lived.
+I had left him to it and gone and stood at the edge of the crown with my back to the doorway. It is not a large room. You can take it all in from the threshold in the time it takes to set a hat down, and the door stood open the whole while, and there was no sound whatever out of it. Then his step on the boards, and he came out into the white light of the middle of the day with his hands going back behind him where they lived.
 
 He asked whether the north-east meadow was let. I said it was not. He said that was a pity and we walked on.
 
 He walked the whole length of the bottoms with me in the heat and asked about drainage.
 
-We went down after our lunch on the first day. That is the worst hour anybody could have chosen, and it was the hour he chose, on the grounds that he had not come to look at a field in a pleasant light. The low road was white with dust and the hedges had that grey exhausted look they get in the last fortnight before a harvest. There was no shade anywhere at all between the turn of the track and the beck. Penworth walked every step of it in his good plain coat and did not once take it off. I have never understood that man's relationship with his own comfort.
+We went down after our lunch on the first day. That is the worst hour anybody could have chosen, and it was the hour he chose, on the grounds that he had not come to look at a field in a pleasant light. The low road was white with dust and the hedges had that grey exhausted look they get in the last fortnight before a harvest. There was no shade anywhere at all between the turn of the track and the beck. Penworth walked every step of it in his good plain coat and did not once take it off. I have never understood that man's arrangements with his own comfort.
 
-He wanted to know where the water went when there was water. I told him what Hal Wray had told me on a cold morning at the front of April, which was that the ground changes about a third of the way along, that above the change it drains itself and below it holds, and that the holding half is the better ground in a dry year and the worse ground in a wet one. He asked me whether that was my judgment or Wray's. I said it was Wray's, and that I could have stood in that field until the frost came and not worked it out for myself.
+He wanted to know where the water went when there was water. I told him what Hal Wray had told me on a cold morning at the front of April. The ground changes about a third of the way along. Above the change it drains itself, and below it holds, and the holding half is the better ground in a dry year and the worse ground in a wet one. He asked me whether that was my judgment or Wray's. I said it was Wray's, and that I could have stood in that field until the frost came and not worked it out for myself.
 
 "Good," he said. "Never tell me a farmer's opinion in your own voice. I shall want to know which of you I am lending against."
 
@@ -180,7 +182,7 @@ Bess Wray was in the doorway with her mending, half in the shade and half out of
 
 "It isn't," said Bess Wray.
 
-Penworth took his hat off to her, which in that valley is a thing men do at funerals, and asked her whether the well had held through the dry spell, and she said it had, and that it had never once gone low in the time anybody could remember. Then she said that when they came across in the spring she had stood in a kitchen with no roof on it and looked at that well, and had decided she could put up with the kitchen. She said it to her mending. I had not known it, and I did not say so.
+Penworth took his hat off to her, which in that valley is a thing men do at funerals, and asked her whether the well had held through the dry spell, and she said it had, and that it had not dropped a hand's breadth all through the dry. Then she said that when they came across in the spring she had stood in a kitchen with no roof on it and looked at that well, and had decided she could put up with the kitchen. She said it to her mending. I had not known it, and I did not say so.
 
 Hal came up from the field with a hook in his hand and his shirt open and the whole of the afternoon on him, and he stopped a few feet off, the way he does, until he was sure of what he had walked into. Then he put the hook down against the wall, point in, and shook Penworth's hand.
 
@@ -302,7 +304,7 @@ Kellard told him, and then told him what it had been when his father kept the ya
 
 "And you carry for all of them."
 
-"For most. There's some as go down to the railhead themselves twice a year and think they've saved on it." Kellard sat down on the bench end, which he had not been invited to do and which nobody in that room would have thought twice about. "They've not saved on it. They've spent two days and a horse and come back with what I'd have had off the carrier for a copper the pound and no bruising."
+"For most. There's some as go down to the railhead themselves twice a year and think they've saved on it." Kellard sat down on the bench end, which he had not been invited to do and which nobody in that room would have thought twice about. "They've not saved on it. They've spent the better part of a fortnight and a horse and come back with what I'd have had off the carrier for a copper the pound and no bruising."
 
 "What does the carrier take?"
 
@@ -320,7 +322,7 @@ Kellard looked at him for a moment. Then he laughed. That is not a common noise 
 
 "A tenth," said Kellard, "and that's if it's packed by somebody who cares."
 
-Penworth nodded slowly and did not say what he thought of that, and asked instead whether the mining towns between here and the city bought anything at all off this valley, and Kellard said that they bought nothing and would buy anything, which is the whole tragedy of a frontier in nine words. Then he stood up and shook Penworth's hand again and said, once more, that this was a coming country, and went off to his own table.
+Penworth nodded slowly and did not say what he thought of that, and asked instead whether the mining towns between here and the city bought anything at all off this valley, and Kellard said that they bought nothing and would buy anything. That is the whole tragedy of a frontier, and he put no weight on it whatever, being a man reporting the state of a road. Then he stood up and shook Penworth's hand again and said, once more, that this was a coming country, and went off to his own table.
 
 "He is quite right," Penworth said, watching him go. "He is also going to have a tenth of my glass on the floor of a cart between Wainford and this doorstep. Those two facts have nothing to do with one another and he will never in his life see that."
 
@@ -356,7 +358,7 @@ And that was that; they got on. They got on so well that I said very little for 
 
 "Aye. I'd not have used it if I'd thought a city man would keep it."
 
-Penworth said that he had kept the whole letter, and that he had read it aloud to a colleague in Vethmark on the grounds that it was the only piece of correspondence he had received in nine years which contained no attempt whatever to sell him anything. Cael took that the way he takes a compliment, which is to look at the middle distance and let it pass.
+Penworth said that he had kept the whole letter, and that he had read it aloud to a colleague in Vethmark on the grounds that it was the only piece of correspondence he had received in nine years which contained no attempt whatever to sell him anything. Cael took that the way he takes a compliment. He looked at the middle distance and let it pass.
 
 They came round to the hill by way of the slate men. Cael had held coin in his hand for it before now, and good coin, and had sent every one of them down the road, and he set that out to Penworth in almost the words he had once set it out to me, which is how I learned that it was a speech and not a confidence. Penworth heard him out.
 
@@ -380,6 +382,12 @@ Late on, when Cael had gone and the room had thinned, Penworth said, apropos of 
 
 I did not have anything to say to that, and he did not require anything, and we finished our ale and walked back up the dark track with the lumen showing amber on the crown above us like a low star that had come down to sit on my hill and wait up for us.
 
+The seat for the second stone had been cut already. I did that on the two nights he was on the hill, and I did not plan it that way and did not exactly hide it either. He had my bed. I had the workroom floor and a straw tick, and there is only so long you will lie on boards listening to another man sleep soundly in a room you built yourself. There was a hole in the floor an arm's length from my head with cold coming up out of it and eight steps down to work I could do with my hands while the rest of me went round in circles.
+
+So on both those nights, when the light had gone out below, I took a candle down and lay on my belly on the stone with the small files and cut a bed for a second stone a hand's breadth from the first. It went slower than the first one had. The room was finished now and I had no wish to leave grit in a floor I had spent two days truing, so I worked with a rag under my elbow and swept as I went, and a seat cut at midnight by a man who is not tired enough to sleep gets cut about three times over before he will own it done. I came up both nights with my hands cold and my back saying things, and slept afterward like a stone myself.
+
+He did ask, once, on the second morning, what was underneath the Study. I said a cold store. I said that a house on a hill wants a dark hole under it, and that mine kept my cheese from walking off in July, and he said that was the first sensible outlay he had seen on the property and wrote nothing down at all.
+
 He rode out on the third morning. He took the good brandy's remainder in a wrapped bottle "against the road," which was theft, and we both knew it was theft, and it was the closest thing to sentiment either of us permitted ourselves.
 
 It was barely light when he went. There was mist along the beck in a flat white band with the tops of the birches standing out of it, and the crown clear above all of that and already warming, and the whole valley doing the thing it does for about twenty minutes in a midsummer dawn and then never mentions again. I brought the hired horse up from the barn and saddled her while he ate standing at my table, and Snow put her head out over the barn door and watched the entire proceeding with her ears back and did not, at the end of it, say goodbye to anybody.
@@ -395,12 +403,6 @@ At the turn of the track he stopped and looked back at the hill a last time.
 "I'll make it."
 
 "Yes," he said, "I rather think you will," and went down the track, and I stood on the crown and watched him go small along the low road until the woodland strip took him.
-
-The seat for the second stone had been cut already. I did that on the two nights he was on the hill, and I did not plan it that way and did not exactly hide it either. He had my bed. I had the workroom floor and a straw tick, and there is only so long you will lie on boards listening to another man sleep soundly in a room you built yourself. There was a hole in the floor an arm's length from my head with cold coming up out of it and eight steps down to work I could do with my hands while the rest of me went round in circles.
-
-So on both those nights, when the light had gone out below, I took a candle down and lay on my belly on the stone with the small files and cut a bed for a second stone a hand's breadth from the first. It went slower than the first one had. The room was finished now and I had no wish to leave grit in a floor I had spent two days truing, so I worked with a rag under my elbow and swept as I went, and a seat cut at midnight by a man who is not tired enough to sleep gets cut about three times over before he will own it done. I came up both nights with my hands cold and my back saying things, and slept afterward like a stone myself.
-
-He did ask, once, on the second morning, what was underneath the Study. I said a cold store. I said that a house on a hill wants a dark hole under it, and that mine kept my cheese from walking off in July, and he said that was the first sensible outlay he had seen on the property and wrote nothing down at all.
 
 Then I went down the cellar stair in the cool of the morning and set a fresh blank into the floor beside the first, and started it, and closed the door on it.
 
