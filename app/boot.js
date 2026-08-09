@@ -22,9 +22,6 @@ import { KEY_PROGRESS } from "./config.js";
    then be served from the NEW cache while the page runs OLD code. A fully static
    graph makes that version skew impossible. */
 
-// Watched by the failure surface in reader.html.
-window.__ardenmoorBooted = true;
-
 /* ---------- wiring ---------- */
 
 store.load();
@@ -38,6 +35,14 @@ gestures.init();
 // Registered after shell's, so the mode pill updates before inline editing is
 // re-evaluated — the order the old applyMode() ran them in.
 render.onModeChange(gestures.applyInline);
+
+/* Watched by the failure surface in reader.html. Set AFTER the synchronous
+   wiring, not before it: an exception thrown inside shell/panels/gestures init
+   aborts module evaluation, and a flag set at the top would have vouched for
+   code that never ran, leaving a permanently blank app with no message. Placed
+   here it still detects a module-graph 404, and it now also catches a boot-time
+   throw. */
+window.__ardenmoorBooted = true;
 
 /* A record changed: touch exactly the paragraph(s) carrying its key. A bulk
    change (a sync merge) means "reconsider everything", which the renderer's memo

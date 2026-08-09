@@ -36,13 +36,13 @@ He drank his tea and gave the question its full consideration. It took some whil
 
 And there the matter closed, as thoroughly as if it had been put to the parish and voted on, and I stood in my own house with my own tea in my hand and could not find one word to say against it. He came four days out of the seven that week. On two of the three he missed, two loaves came up the day after instead of one, and no more was said about that than about anything else.
 
-The days he did not come, I worked. That is the whole of what there is to say about a winter on a hill: a man at a bench in a small room, with the light failing at four and a lamp that does not care. I filed housings. I read the same six pages of the black book of anchorings eleven times and could not afterward have told you what was in them. I learned that a man alone will talk to a kettle, and that the kettle's half of the conversation is the better half, being brief and honest and always about heat.
+The days he did not come, I worked. That is the whole of what there is to say about a winter on a hill: a man at a bench in a small room, with the light failing at four and a lamp that does not care. I filed housings. I read the same six pages of the black book of anchorings a dozen times and could not afterward have told you what was in them. I found out that I would talk to a kettle, given a fortnight of it, and that the kettle's half of the conversation is the better half, being brief and honest and always about heat.
 
 Twice, when the crust bore a man, I went down. The village received me as it had lately come to receive me, with the civility of people who have decided that the strange fellow on the hill is at any rate their own strange fellow, and is to be well spoken of in front of outsiders. Tomas's hammer came across the frozen street from the top of the village, slower in the cold and carrying further. Two women at the communal oven with cloth-covered boards on their hips gave me good morning and went straight back to what they had been saying, and did not stop saying it on my account, and I took that for the compliment it was.
 
 I had come down about nails.
 
-Kellard heard me out across his counter with his hands flat on the wood and his book shut, which is how that man listens. I wanted a keg of flooring nails and a keg of the long spikes and a quantity of strap-iron, in the spring and not now, and I wanted to know what could be got up the frontier road before the thaw and what could not.
+Kellard let me get the whole of it out before he moved at all, the book shut in front of him and one finger laid on the cover of it. I wanted a keg of flooring nails and a keg of the long spikes and a quantity of strap-iron, in the spring and not now, and I wanted to know what could be got up the frontier road before the thaw and what could not.
 
 "Before the thaw," he said. "Not during it. Nothing comes over that road the fortnight the ground's letting go. Nothing has in my time."
 

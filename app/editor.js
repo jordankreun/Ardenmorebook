@@ -26,7 +26,13 @@ export const isTouch = () => !!MQ_COARSE.matches;
 
 /** Fires when a mouse is plugged in, Sidecar starts, an iPad keyboard attaches. */
 export function watchPointerKind(fn) {
-  MQ_COARSE.addEventListener("change", fn);
+  /* MediaQueryList.addEventListener shipped in Safari 14. On iOS 13 this throws,
+     and because gestures.init() runs at boot.js top level the TypeError aborts
+     module evaluation before the manuscript is ever fetched — the app hangs on
+     "Gathering the pages…" with no error. The old file carried this fallback;
+     it costs two lines and removes a total-failure mode. */
+  if (MQ_COARSE.addEventListener) MQ_COARSE.addEventListener("change", fn);
+  else if (MQ_COARSE.addListener) MQ_COARSE.addListener(fn);
 }
 
 /** session = { para, el, raw, orig, chap, snip, existing, auto, docked, pop, ac, save } */

@@ -237,6 +237,13 @@ function editDot(para) {
     re-render: only paragraphs whose record actually changed are repainted. */
 export function repaintAll() {
   for (const para of manuscript.paras) renderPara(para);
+  /* A bulk change alters heights: 69 revisions painted as review diffs and then
+     cleared shrinks the document by thousands of pixels. position.js caches
+     chapter offsets at mount, and the old code could not go stale because it
+     read offsetTop live on every scroll frame. Without this the Contents list
+     highlights the wrong chapter, the tick marks sit at old positions, and the
+     arrow keys jump to the wrong place for the rest of the session. */
+  position.invalidateTops();
 }
 
 /* ---------- mode ---------- */
