@@ -72,7 +72,7 @@ The oldest of them ran the work without ever once being called the foreman. He h
 
 They asked me for things. That was the whole of the conversation for the first three days: a hand on a beam, where I wanted the door hung, whether I minded the sledge cutting up the turf on the shoulder, could they have the loan of a bucket. Nobody asked me what the Study was for. Nobody asked what it was I did up here, nor whether I had felt anything on the crown, nor any of the twenty questions I had been fielding for a year from men who had climbed my hill to ask them and pretended to have come about a gate.
 
-On the fourth day I laid the ward against the wet into the sill-beams while they were eating. There is nothing to see in it. I went along on my knees with my palms flat on the timber, taking my time, asking the wood far more courteously than the weather ever would whether it might care to stay dry, and when I sat back the four of them were ranged along the stack with their bread and their cold bacon, watching me the way men watch another man do a thing they cannot do and have no wish to learn. Then the oldest put the last of his bread in his mouth, and stood up, and said, "Right." And they went back to the posts, and not one word was said about it, that day or after. I have been applauded once or twice in a hall in the city. I preferred this.
+On the fourth day I laid the ward against the wet into the sill-beams while they were eating. There is nothing to see in it. I went along on my knees with my palms flat on the timber, taking my time, asking the wood far more courteously than the weather ever would whether it might care to stay dry, and when I sat back the four of them were ranged along the stack with their bread and their cold bacon, watching me the way men watch another man do a thing they cannot do and have no wish to learn. Then the oldest put the last of his bread in his mouth, and stood up, and put his cap back on. And they went back to the posts, and not one word was said about it, that day or after. I have been applauded once or twice in a hall in the city. I preferred this.
 
 It did its work from the first day: the cart under cover, the stores dry, my own clutter out of the Study at last, and Snow home on her own ground for the first time since I had bought it, out of the spare stall at the inn where she had been boarding all that long summer at Lira's convenience and my expense.
 
@@ -80,21 +80,21 @@ I went down for her on the morning the barn was tight enough to put a horse in, 
 
 Lira had the reckoning ready. She did not go and fetch it when I asked; it was already under the counter with a stone on it, and had been there some while, waiting on the day I should remember that I owned a horse and a barn at the same time. She set it in front of me, turned it the right way round, stood back, and watched me read it. That is how Lira hands a man his bill.
 
-It was a long piece of paper for one horse. The stall from the third week of spring. Hay by the truss, and the trusses counted. Oats set out separately, because I had asked for oats while Snow was working and stopped asking when she was not. A farrier in the autumn that I had known nothing whatever about and that had plainly wanted doing. And two nights of a boy sitting up with her over the worst of the ice, a charge I would never have thought to make, entered at the plainest rate on the page.
+It was a long piece of paper for one horse. The board itself was not on it. The board I had been settling at the quarter-day since the third week of spring, in the ordinary way, and she had never once had to ask me for it. This was all the rest, the things a quarter's price does not cover and a careful woman does not forget. Hay by the truss over the hard weeks, and the trusses counted. Oats set out separately, because I had asked for oats while Snow was working and stopped asking when she was not. A farrier in the autumn that I had known nothing whatever about and that had plainly wanted doing. And two nights of a lad sitting up with her over the worst of the ice, a charge I would never have thought to make, entered at the plainest rate on the page.
 
 "That's fair."
 
 "It's what it cost."
 
-I paid it there on the counter, in silver, and she counted it and wrote the line and ruled it off. Then she said, "She's had the top rail off that stall door twice since the frost." She said it as she said everything, a fact laid down in the middle of the table for whoever cared to pick it up. "And she bit the lad who does the mucking. Not hard. He was slow with the water."
+I paid it there on the counter, in silver, and she counted it and wrote the line and ruled it off. Then she said, "She's had the top rail off that stall door twice since the frost." She said it as she said everything, a fact laid down in the middle of the table for whoever cared to pick it up. "And she took a sleeve off the lad who does the mucking. He was slow with the water."
 
 "Is she lame?"
 
-"She's bored." And that was the whole of Lira's opinion of my mare, given and closed. On her way past she set a cup of something hot down at my elbow, and said nothing about it, and did not put it on any paper either.
+"She's bored." On her way past she set a cup of something hot down at my elbow, and said nothing about it, and did not put it on any paper either.
 
 Snow came out of that stall into the yard like a thing let off a rope, put her nose down on my shoulder for the length of one breath, and then took the sleeve of my coat in her teeth and shook it. We walked up the low road together in the mud and the new sun, the pair of us thoroughly pleased with ourselves and neither of us willing to be the first to say so.
 
-Snow never quite took to it. She had a way of shifting and blowing in her stall at dusk and again in the small cold hours, which I laid to a green building settling and a draught I never did find, and I called her spoiled and turned her out on the hillside in fine weather, and we left the argument there. A mare who has carried a man across half the Commonwealth is entitled to her opinions of his carpentry.
+Snow never quite took to the barn. She had a way of shifting and blowing in her stall at dusk and again in the small cold hours, which I laid to a green building settling and a draught I never did find, and I called her spoiled and turned her out on the hillside in fine weather, and we left the argument there. A mare who has carried a man across half the Commonwealth is entitled to her opinions of his carpentry.
 
 The plain fact was that I could not go on living in the Study. It had done well enough for the first stretch, when it was the only room I owned and I was too glad of any roof to be particular about it, but a man cannot forever keep his bed and his books and his supper and his trade all in the one room and call it a life. The Study wanted to be a study. It wanted to be the quiet ordered place where I did my work, and it could not be that so long as it was also where I slept and ate and hung my wet coat, and every time I cleared the day's dishes off a bench I meant for instruments I felt the wrongness of it a little more. And there was the other thing, the thing I came to slowly and did not say aloud even to myself for a good while: that I wanted, for the first time in a very long time, a place that was only for living in. Not for working. Not for grieving. Just for the plain animal business of being a man who was, against all his own expectations, still alive and meaning to go on that way.
 
@@ -130,7 +130,7 @@ He waited. He was very good at waiting.
 
 "Something is going to stand on that crown," I said. "Not soon. Years and years, and you will be tired of hearing about it long before there is anything to see. But you do not begin a tall thing by setting your bed down in the middle of the only flat ground you own."
 
-He looked from the crown to the pegged rectangle at our feet and back again, and I watched him fit the two of them together and find that they fitted. He did not ask what the tall thing was. He did not ask how tall, or when, or whether he would live to see it done. Those are the three questions a child is supposed to ask. He had already decided, I think, that the answers were none of his business yet.
+He looked from the crown to the pegged rectangle at our feet and back again, and I watched him fit the two of them together and find that they fitted. He did not ask what the tall thing was. He did not ask how tall, or when, or whether he would live to see it done. Those are the three questions a child is supposed to ask.
 
 "All right," he said, and pushed in the next stick.
 
@@ -172,8 +172,6 @@ Ren, who had been reading the drawing upside down over his father's arm the enti
 
 He thought about that with the seriousness he brought to a stone. "Right," he said, and went to get the string.
 
-They had the house laid out on the ground in about the time it takes a kettle to come on, and I stood out of the way, and was glad enough to.
-
 Jorin walked the rectangle once with the bar and drove it in at each corner and twice along the long side, leaning his weight on it, feeling for what was under. On the third he stopped with both hands on the bar and worked it a little and drew it out and looked at the end of it. He put it back over his shoulder.
 
 "You'll want no footing to speak of."
@@ -185,6 +183,8 @@ Jorin walked the rectangle once with the bar and drove it in at each corner and 
 Ren set the string himself. He set the far corner without going to the far corner: he walked the line once, put a peg in where his hand wanted it, and stood back and let his father come and try it after with the square. Jorin tried it. Jorin always tried it. The square told him what the boy's hand had already told the boy, and he pulled the peg and set it back in the same hole and moved along to the next one and said nothing whatever.
 
 Soren had my hazel sticks gathered up in his fist by then and stood at the low corner holding them like a bunch of flowers, watching Ren's hands and not the string.
+
+They had the whole of my house laid out on the ground in about the time it takes a kettle to come on. I stood out of the way of it from first peg to last, and was glad enough to.
 
 I do not know to this day how much that silent builder saw of me, but I have thought since that it was a great deal more than he ever let on.
 
