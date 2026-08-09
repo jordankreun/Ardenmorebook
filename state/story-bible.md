@@ -8,7 +8,7 @@
 ## STATUS
 
 - Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III.** 37 files,
-  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **185,036 words**
+  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **185,910 words**
   (prose lines only; blank lines and `#`-headers excluded — the method `tools/state-check.sh`
   documents). Keep this bullet current: `state-check.sh` FAILs when it falls behind the manifest.
 - **Current work is REVISION, not continuation.** The storycraft pass (2026-07-31) runs part by
@@ -343,14 +343,32 @@ asked directly — "Sunday can be a family day. Just don't make it religious."* 
 reason not to call on a man on a Sunday is that his children are around him, not that he is at
 worship. Cael says exactly this in Ch 10.
 
-The wider rule this belongs to: **this world has no religion on the page, and none is to be added.**
+**⚠️ THE LINE IS THE INSTITUTION, NOT THE FEELING (author, 2026-08-09, refining the above).**
+*Source: "Spiritual okay structured religion no."* The earlier wording of this entry, now **retired
+and superseded**, was too absolute: it banned worship and prayer outright and would have forbidden
+the book's own register, including one of its best lines.
+
+- **SPIRITUAL: YES, and it is already load-bearing.** Reverence, awe, wordless attention, the sense
+  that a piece of work or a place is more than its parts. Ch 5's *"It is the nearest thing I know to
+  prayer that a man can do with his body and no words"* is the MODEL of what is wanted, not a
+  violation: private, bodily, wordless, addressed to nothing in particular. Brenna's grandmother's
+  *hearing*, the hill's strangeness, Tomas's stillness, and Emlyn's asking rather than commanding all
+  live in this register. Folk belief, superstition and a family's private observance are all open.
+- **STRUCTURED RELIGION: NO.** No church as an ORGANISATION, no clergy, no congregation, no
+  doctrine, no scripture, no sermon, no sabbath, no mandated day or rite, no religious authority
+  anyone answers to, and no deity with a name and a following. Nobody is devout, and nothing is
+  ordained.
+
+The test, when writing: **would this require an institution to exist?** A man who goes still with his
+hand on stone needs nothing but himself. A man who goes to a service on a holy day needs a church, a
+calendar and a clergy, and those do not exist here.
+
 "Parish" throughout is the CIVIL unit — a body that holds meetings, votes, keeps records and roads,
 and that Cael speaks for ("put to the parish and voted on"; "Wednesdays I keep for the parish"). It
 is never a congregation. Churches exist as buildings and survive only in two similes ("quiet as a
 church", "set truer than a church") and one "holy relic" used dismissively of what the tales say
-about lumens; there is one churchyard, meaning a burial ground. Do not extend any of that into
-clergy, worship, doctrine, festivals with a religious origin, oaths sworn on anything, or a
-deity anyone believes in. "God help me" is idiom and stays idiom.
+about lumens; there is one churchyard, meaning a burial ground. "God help me" is idiom and stays
+idiom.
 
 Establishes the geopolitics so the cheap land and the urban/rural split make sense. All of it stays
 **backdrop**: the book remains village-sized and cozy; the council, the capital, the Conclave, and the

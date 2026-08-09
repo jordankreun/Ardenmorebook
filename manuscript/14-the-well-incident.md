@@ -100,7 +100,7 @@ We lifted. It came up an inch and stopped.
 
 We set the board down again, and he went round to have a proper look at it, and I stood at my end with my hand flat on the warm elm and my back to the well. That is where I let it go.
 
-I could hear the crank the whole time I stood there. The turn, and the catch of the pawl, and the turn again, and then the small sound of a wet bucket coming over stone. There was a board of elm in my two hands and a man swearing quietly at a pin four feet off and a boy at my back drawing the inn's water for the second time that morning, and somewhere between the first lift and the second I stopped intending to say anything at all, and did not notice that I had stopped.
+I could hear the crank the whole time I stood there. The turn, and the catch of the pawl, and the turn again, and then the small sound of a wet bucket coming in over stone. Four feet off Kellard was swearing quietly at a pin. At my back a boy was drawing the inn's water for the second time that morning. And somewhere between the first lift and the second I stopped intending to say anything at all, and I could not tell you now which of the two it was.
 
 He went off to hunt out a bit of iron to knock the pin round with.
 

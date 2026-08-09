@@ -111,3 +111,14 @@ architecture of mind to open it
 the midday meal is DINNER
 dinner is the MIDDAY meal
 "lunch" does not exist
+
+# "no religion on the page" — recorded 2026-08-09 and corrected the SAME DAY by the author
+# ("Spiritual okay structured religion no"). The line is the INSTITUTION, not the feeling:
+# reverence, awe, private prayer, wordless attention and folk belief are all welcome and
+# already load-bearing; clergy, congregation, doctrine, sabbath and rite are not. These
+# patterns catch a doc restating the over-absolute version as live. Nothing here may match
+# a sentence that only forbids the institution, which is the LIVE rule.
+no religion on the page
+this world has no religion
+banned: worship, prayer
+no worship or prayer

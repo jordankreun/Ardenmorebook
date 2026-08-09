@@ -159,7 +159,9 @@
   professional/world detail must be checked against occupation canon BEFORE it propagates — this one
   reached three files in two turns.
 
-- **2026-08-09 — author ruling: SUNDAY IS A FAMILY DAY, and this world has NO RELIGION on the page.**
+- **2026-08-09 — author ruling: SUNDAY IS A FAMILY DAY.** *(The second half of this entry's original
+  heading — that the world has no religion at all — was **retired and superseded** the same day; see
+  the entry below it.)*
   The Parts I–II expansion introduced `Sunday` as the day nobody works. Tuesday, Wednesday, Thursday
   and Saturday were already canon, so the *name* fitted, but a rest day quietly implies a sabbath in a
   world whose canon carries no religion. Flagged to the author rather than decided; the ruling was
@@ -176,3 +178,25 @@
   pattern now catches only the verb forms and fixed observance phrases. That is the difference between
   someone praying and something being *like* prayer, and it is the prune the intake protocol's step 4
   demands whenever a pattern is added.
+
+- **2026-08-09 — author correction, SAME DAY: "Spiritual okay structured religion no."** The rule
+  recorded an hour earlier was too absolute. It banned worship and prayer outright, which would have
+  forbidden the register the book actually runs on — and, concretely, would have condemned Ch 5's
+  *"It is the nearest thing I know to prayer that a man can do with his body and no words"*, a line
+  the author has read and kept. **The line is the INSTITUTION, not the feeling.** Reverence, awe,
+  private prayer, wordless attention and folk belief are welcome and load-bearing (Brenna's
+  grandmother's *hearing*, Tomas's stillness, Emlyn asking rather than commanding); clergy,
+  congregation, doctrine, scripture, sabbath, service and rite are not. The written test: *would this
+  require an institution to exist?*
+  **Lint narrowed accordingly** — "pray", "prayer" and "worship" were removed from the pattern and it
+  now matches only organisational markers. Measured on both sides of the line before shipping: a
+  planted church-and-sermon-and-sabbath passage FAILs; a planted passage of private prayer and
+  reverence stays silent; all 37 chapters stay silent.
+  **LESSON, and it is the second instance of this exact family in two days** (the first being the
+  meal rule, `P1e`): I turned a narrow author note into a broad prohibition. The note was about
+  *Sunday*; I generalized it into *religion*, which is the right instinct — the intake protocol
+  demands generalization — but I generalized past the evidence and banned a register the author had
+  never objected to and had in fact kept in the book. **Generalize the CLASS OF THE OBJECTION, not
+  the topic it touched.** When the broadened rule would newly condemn existing prose the author has
+  read and kept, that is the tell that it has gone too wide, and the existing prose is the evidence,
+  not the exception. Check the manuscript against a new prohibition BEFORE recording it.
