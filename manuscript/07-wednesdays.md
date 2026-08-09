@@ -22,9 +22,9 @@ The first of them to ask me outright was a woman who came up on a bright cold mo
 
 "It isn't. I've come to ask you for something and I didn't care to come empty-handed, and now I've said so, so we can get on."
 
-I have thought about her a good many times since. Everyone else in that valley came at a thing by the long road, round by the weather and the state of the track and the price of slate, so that a man could ask and still be met at the oven in the morning if the answer was no. She came at it straight. It meant I had to answer her straight, and I was not ready to.
+I have thought about her often since. Everyone else in that valley came at a thing by the long road, round by the weather and the state of the track and the price of slate, and got to the true errand only after they had built somewhere soft to land. She came at it straight. It meant I had to answer her straight, and I was not ready to.
 
-Her mother lived with them. The old woman was seventy and would not have a candle beside her bed, not since the year she knocked one over onto the bedding and the house woke to it, and she would not be talked round, and she slept badly in the dark and worse for being ashamed of the badly. There was a light up the hill that did not burn. Her daughter had seen it in the window from her own yard three fields off, and had thought about it every night since, and here she was.
+Her mother lived with them. The old woman was seventy and would not have a candle beside her bed, not since the year she knocked one over onto the bedding and the house woke to it, and she would not be talked round, and she slept badly in the dark and worse for the shame of it. There was a light up the hill that did not burn. Her daughter had seen it in the window from her own yard three fields off, and had thought about it every night since, and here she was.
 
 I told her no. I said the lamp would not burn anywhere but on that hill, and that I did not know enough yet to make one that would, and I left it there. The rest of it was mine. It is a poor feeling, standing in your own doorway in the sunshine telling a woman what she cannot have and giving her no reason she can take home with her.
 
@@ -36,7 +36,7 @@ She heard me out and did not argue. "Right," she said, and picked up the basket,
 
 I ate the eggs. I have never been able to settle whether that was the right thing to have done.
 
-I found myself doing the plain work of my trade for people who needed it: a ward mended on a barn that took the damp, a set of drawing-instruments trued for the surveyor two valley, a cold-spot in Kellard's storeroom talked out of the corner it had settled in. It was not grand work. It was the work available to a wizard in a small valley, and I did it well, and I was paid fairly for it, and every job of it was also, without exception, the slow business of a village deciding a man was a neighbor and not a rumor.
+I found myself doing the plain work of my trade for people who needed it: a ward mended on a barn that took the damp, a set of drawing-instruments trued for the surveyor two valleys over, a cold-spot in Kellard's storeroom talked out of the corner it had settled in. It was not grand work. It was the work available to a wizard in a small valley, and I did it well, and I was paid fairly for it, and every job of it was also, without exception, the slow business of a village deciding a man was a neighbor and not a rumor.
 
 The barn stood two miles down the low road on the flat by the beck, and the man who owned it walked up for me himself on a wet morning and would not come in. He stood on the doorstone dripping and told me about hay.
 
@@ -126,7 +126,7 @@ Wednesday was the day his grandfather kept for the parish. Not that the parish a
 
 The arranging of it took about two minutes, and neither of us said what we were arranging.
 
-Cael caught me on the lane one afternoon that autumn, coming down from the smithy with a bag of nails, and we talked about the nails, and about the frost, and about a gate at the bottom of the mill lane that every soul in the valley had an opinion on. Then he looked off up the track toward my hill.
+Cael caught me on the lane one afternoon that autumn, coming down from the smithy with a bag of nails, and we talked about the nails, and about the frost, and about a gate down by the mill that every soul in the valley had an opinion on. Then he looked off up the track toward my hill.
 
 "Wednesdays I keep for the parish," he said.
 
@@ -216,7 +216,7 @@ I had her in and took it to the bench. The boy did not move from the hearth and 
 
 It was not much of a job. The beam was true and the pivot was clean, and somebody had at some time soldered the pan-hook, and the solder had put a weight on the one side that no amount of squinting would find, because it was under the paint. I got the paint off with a rag and a little spirit and there it was. I filed the solder back to almost nothing, and hung the pans again, and set my own small weights along the beam and watched it come level and stay level. Then I did the only thing in the whole business that belonged to my trade at all. I set my hand over it and asked it to keep. Brass will drift. Brass that has been asked drifts slower.
 
-She wanted to know what she owed. I named a figure that made her laugh at me and call it robbery, though not of her, and she put down a good deal more than it and was out of the door before I could get round the end of the bench.
+She wanted to know what she owed. I named a figure. She told me that was robbery, and not of her, and put down more than I had asked, and was out of the door before I could get round the end of the bench.
 
 When it had shut, the boy said, "You didn't do anything to it."
 
@@ -230,7 +230,7 @@ He turned that over. "You looked at it a long time first."
 
 "That's most of it."
 
-He nodded, satisfied, and went back to his slate. I stood at my own bench with money in my hand I had been robbed with, thinking about the difference between a boy who watches a man work and a boy who reads the work off him.
+He nodded, satisfied, and went back to his slate. I stood at my own bench holding the money I had been robbed with, thinking about the difference between a boy who watches a man work and a boy who reads the work off him.
 
 I taught him his letters on that slate, that autumn, because it turned out no one had, and because a boy that sharp going unlettered offended me as a good tool left to rust offends a craftsman.
 
@@ -284,7 +284,7 @@ He took them out one at a time. He did not hurry. He turned each one in the fire
 
 I should tell you about his solemnity, because a stranger meeting him for the first time expected a merry thing, an imp underfoot, and he was not that, and the expecting did him a disservice. He was the gravest child I have ever known. He took everything at its full weight.
 
-I had written to Penworth for the knife early in the autumn, and it was the first thing I had asked of him in three years that was not money or paper. His answer is one of the few of his letters I kept.
+The knife came out of Vethmark. I had written to Penworth for it early in the autumn, and it was the first thing I had asked of him in three years that was not money or paper. His answer is one of the few of his letters I kept.
 
 *You ask me to buy a knife for a boy of nine going on ten, in a valley I have never seen, on the recommendation of nobody. I have made inquiries. The cutler I use asked me three questions, of which I could answer one, and informed me that a knife bought for a child is generally bought for the man buying it, and that the commonest error is a blade too long, because length flatters the giver and alarms the household. I have therefore had a plain one. Two and a half inches, a good spring, horn scales, nothing whatever on it to be admired. It will take an edge, it will hold it, and it will not shut on his fingers. I have entered it under sundries, where it will trouble nobody. I have not asked whose boy he is. You will tell me when you have decided to.*
 
