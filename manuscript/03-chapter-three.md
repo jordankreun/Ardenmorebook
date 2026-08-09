@@ -42,7 +42,7 @@ I read the schedule. Then I read it again, because the first reading had gone th
 
 He had four pages on one spring. I have drawn buildings that took less paper.
 
-Lira set a fresh lamp at the corner of the table without being asked, and took the jug away, and brought it back full, and did that twice more before we were finished, and said nothing at all about the hour. The evening's regulars sat where they always sat. Nobody in that room was watching us, and every soul in it knew which page we were on.
+Lira set a fresh lamp at the corner of the table before the old one had begun to gutter, and took the jug away, and brought it back full, and did that twice more before we were finished, and never once remarked on the hour. The evening's regulars sat where they always sat. Nobody in that room was watching us, and every soul in it knew which page we were on.
 
 "There will be three copies," the agent said. "One travels with me. One is the seller's. The third is to be lodged with a party who is neither."
 
@@ -62,7 +62,7 @@ The agent wrote that down. In that valley it was a legal opinion.
 
 Then the signing, which took longer than the reading. He had his own ink in a travelling case with a screw stopper, and his own pen, and a little jar of sand, and he set his finger on each place in turn and left it there until I had put my name in it. Eleven times. He turned every sheet a quarter round to face me before I signed and a quarter back after. Cael signed in four places only, slowly, forming the letters as though he were laying stones, with his tongue between his teeth and his whole shoulder in it. It was a better hand than mine.
 
-Halfway through, the draught off the door got at the lamp and the flame went sideways. The boy came off the settle without being asked and stood at Cael's elbow with his hands cupped round the glass until the last of it was signed, and put it back on the table, and sat down again, and that was the whole of his part in the purchase of five thousand acres.
+Halfway through, the draught off the door got at the lamp and the flame went sideways. The boy came off the settle before anybody could speak of it and stood at Cael's elbow with his hands cupped round the glass until the last of it was signed, and then took them away and sat down again, and that was the whole of his part in the purchase of five thousand acres.
 
 No coin came out at any point of the evening. The price crossed the table as a folded paper drawn on a bank in Vethmark, and Cael put it in his inside pocket without looking at it.
 
@@ -86,13 +86,13 @@ He put it this way.
 
 *The columns are overleaf. I would ask you to read the right-hand one before the left. The left is what you have. The right is what it is going to want, and you will observe without any help from me that the two do not meet. They are not obliged to meet this year. I mention it because a man on a hill comes very quickly to reckon by the season, and a bank reckons by the quarter, and you are about to become the first while remaining, for the present, the property of the second.*
 
-*On the house: I have not sold it. I have found a man who wishes to buy it. That is a different article and a slower one, and I have borrowed against his wishing. The bank knows the street the house stands in. It knows nothing whatever of the country you are going to and would take no comfort from being told. The loan falls due when the sale clears. A sale of that size clears at the pace of its lawyers, and I have priced that at very nearly a year, and would be glad to be made a fool of by six months.*
+*On the house: I have not sold it. I have found a man who wishes to buy it. That is a different article and a slower one, and I have borrowed against his wishing. The term of that loan I have set down for you twice already and do not propose to set down a third time; you know it, and you did not care for it on either occasion, and I would be glad to be made a fool of by six months. You will want to know what becomes of us if the man changes his mind. He will not. His wife has been twice to measure the windows.*
 
 *You will ask why I did not wait for the sale and buy the land out of the proceeds. I did not wait because your seller is dealing honestly with a stranger at a fair price, and such an arrangement is not improved by being asked to stand about a twelvemonth while grander men finish their business. You would have told me so yourself, at greater length, and with a comparison to something in carpentry.*
 
-*The patents continue to pay what they pay. It is not much, and it comes without being asked for, and that is its entire virtue. The firm's share goes where it has always gone. I have not moved it. I will not move it without instruction, and I do not look for the instruction.*
+*I have sent you a young man with the papers. He has no imagination whatever, and I did not want one who had. He will read out every parcel in the order I have given him and he will not be hurried, and if you are charming with him he will make a note of it. Let him finish. He is the only part of this business I have been able to send in person.*
 
-*There is one item you will not find in either column. It is not an oversight. I have never yet put your father's house into a column and I do not propose to learn the trick of it now.*
+*There is one item you will not find in either column. It is not an oversight.*
 
 *I have engaged the carriers for your goods. They will want the better part of a fortnight for the last stage, the road being what you tell me it is, and I have paid them the half at this end so that the other half may be an argument you can have in person.*
 
@@ -106,9 +106,9 @@ There was a second, shorter column under that one, and it was the one that matte
 
 That was the mercy in the thing, and the whole of the trap. So nothing at all fell due until the place had been given a full turn of the seasons to find its feet, which was not generosity but conveyancing, and it meant that in a year I would need this hill to be earning, one way or another. The farmland in the bottoms would have to be got into the hands of tenants who would work it and pay for the working. The trade would have to come. A wiser man would have looked at that year the way you look at a lit fuse, and been frightened. I looked at it and felt, for the first time in three years, interested. I have learned to trust that in myself further than I trust my caution, though it has cost me nearly as often as it has paid.
 
-I lodged at Lira's while the paper went back and forth. I had thought, when I took the room, that I would want it a night or two and no more; I kept it the better part of the rest of the season.
+I lodged at Lira's while the paper went back and forth. I had thought, when I took the room, that I would want it a night or two and no more; I kept it the better part of the rest of the season. Lira let me the room by the week without comment, and fed me without comment, and formed her opinion of me the way she formed all her opinions, slowly and to herself, and let it out a word at a time over the weeks, the way you let out a coat you mean to keep.
 
-I told her as much on the morning the agent went back down the road, standing at the end of the bar while she worked her way down a column of her own.
+I asked her for it on the morning the agent went back down the road, standing at the end of the bar while she worked her way down a column of her own.
 
 "I'll want the room a while yet," I said. "I can't tell you how long."
 
@@ -124,13 +124,13 @@ I said I had not asked for the far stall.
 
 The near stall, I found out later that week, has a draught along the floor that comes off the yard door and finds a horse's legs no matter where you tie her. Lira never mentioned it, then or afterward, and I never thanked her for it.
 
-Lira let me the room by the week without comment, and fed me without comment, and formed her opinion of me the way she formed all her opinions, slowly and to herself, and let it out a word at a time over the weeks, the way you let out a coat you mean to keep.
+She kept a page in that book with my name at the head of it. On a Saturday she would turn the ledger round on the bar so that I could read what the week had come to, and wait while I read it, and turn it back when I had done, and go on with whatever she had been doing before. She never once said the figure aloud. In all the weeks I kept that room I never heard her ask anybody for money, and I never heard of anybody failing to pay her.
 
 A village the size of Ardenmoor does not decide about a man quickly, and is right not to. For the first of those weeks I was served at Lira's promptly and correctly and with about the warmth of a signed receipt, which suited me well, for it asked nothing of me in return. I was the foolish and strange wizard who had bought Cael's hill, and that is a thing to be watched a while before it is a thing to be welcomed. So I did not hurry it. I paid what I owed on the day I owed it, and said good morning to men who did not yet say it back, and kept my strangeness folded up small and out of sight, and let the place look at me as long as it cared to.
 
 Most of that looking got done across counters.
 
-The dry-goods yard at the top of the village was the bank and the post and the parliament of the place all in the one low room, and I was in it three times that first week. The man who kept it had a wary courtesy about him that I came to like very much before I understood it. He served me exactly as fast as he served anybody and not one instant faster. Candles, lamp oil, a tin of tea, a whetstone, a coil of good cord, six yards of oilcloth. He weighed and cut and folded and then he opened a long book with a spine gone soft as cloth and wrote it all down in a small careful hand before he would take my money.
+The dry-goods yard was the bank and the post and the parliament of the place all in the one low room, and I was in it three times that first week. The man who kept it had a wary courtesy about him that I came to like very much before I understood it. He served me exactly as fast as he served anybody and not one instant faster. Candles, lamp oil, a tin of tea, a whetstone, a coil of good cord, six yards of oilcloth. He weighed and cut and folded and then he opened a long book with a spine gone soft as cloth and wrote it all down in a small careful hand before he would take my money.
 
 "You write down the ones who pay?" I said.
 
@@ -152,7 +152,7 @@ I said I had none of the three.
 
 "No," she agreed. "You haven't."
 
-Then she looked at me a while longer, and turned a loaf over on the board, and said that a woman she would not name had more dough than she had children to feed it to on a Thursday, and that if a certain amount of flour happened to arrive at that woman's door of a Wednesday, nobody would be able to account for how it got there, and there would very likely be a loaf too many by Thursday afternoon. Then she picked the peel back up and went at the next batch as though she had said nothing at all.
+Then she looked at me a while longer, and turned a loaf over on the board, and said that a woman she would not name had more dough than she had children to feed it to on a Thursday, and that if a certain amount of flour happened to arrive at that woman's door of a Wednesday, nobody would be able to account for how it got there, and there would very likely be a loaf too many by Thursday afternoon. Then she picked the peel back up and went at the next batch as though she had said nothing worth the hearing.
 
 That is how I came to be fed bread in that valley for the better part of a year without ever once buying a loaf. It was the dark close-crumbed sort that will sit a week in a tin and cut thin at the end of it, and it was better than anything I had eaten in Vethmark, and I paid for the flour at the dry-goods counter and it went into the long book like everything else.
 
@@ -174,7 +174,7 @@ I said I did not yet know.
 
 "He says come back when you do."
 
-So I paid the boy and loaded the sacks and went off up the track, and it was two seasons and more before I stood face to face with the man who had cut the timber I built my life out of. Nobody in that yard thought there was anything unusual in that. Neither, after a while, did I.
+So I paid the boy and shouldered the sacks and carried them back along the beck to Lira's yard, and it was two seasons and more before I stood face to face with the man who had cut the timber I built my life out of. Nobody in that yard thought there was anything unusual in that. Neither, after a while, did I.
 
 Once, early, one of the quarrymen leaned over from the next bench, emboldened by his cups, and asked me straight out whether it was true I was a wizard, and what that meant a man could do. I told him it meant mostly that I could ruin an evening explaining what it did not mean, and I bought him a drink, and he went away satisfied.
 
@@ -210,11 +210,11 @@ I paced the crown out, corner to corner and then across, and got one number on t
 
 On a wet morning I took a spade up and cut one turf on the north slope and laid it back on its face. There were four fingers of good black soil and then stone, and not a bedded, honest, quarryman's stone either but a rubble of it, close-packed and every piece of it lying whichever way it pleased. I put my hand down on it and it was cold, and it was stone, and it had nothing whatever to say to me. I put the turf back and trod the edges in and went on.
 
-The heap was on the east side, below the lip, and I found it on the third or fourth day because Snow found it first and objected to it. She had opinions about that hill from the start and shared them freely. It was a low tumble of dressed stone gone green on the north faces, thirty or forty years down and settling into the grass, and it had been four walls once and a man's whole summer. I sat on it for an hour with my hat off. The stone was good. The dressing was good, better than good, square and true and done by somebody who knew exactly what he was about. There was old mortar still in some of the joints and it came away between my finger and thumb like dry cheese, and it had never once, in all those years, set as mortar sets.
+The heap was on the north side, a little under the crown and out of sight of anybody standing on it, and I found it on the third or fourth day because Snow found it first and objected to it. She had opinions about that hill from the start and shared them freely. It was a low tumble of dressed stone gone green on the shaded faces, forty years down and more, settling into the grass, and it had been four walls once and a man's whole summer. I sat on it for an hour with my hat off. The stone was good. The dressing was good, better than good, square and true and done by somebody who knew exactly what he was about. There was old mortar still in some of the joints and it came away between my finger and thumb like dry cheese, and it had never once, in all those years, set as mortar sets.
 
 I did not touch anything else. A man's failed work is his own, and his son was alive and down in the village, and I had not the first notion yet of what I would have done differently.
 
-Other days there was nothing at all to show for it. I lay on my back on the crown in the middle of a Thursday with a book on my chest that the wind kept opening at the wrong page, and gave up on the book, and watched a pair of buzzards work the updraught off the west face for the better part of an hour without once beating a wing. I walked the ground after rain and marked where the water stood and where it ran off clean and where it went in and did not come out again. I ate my lunch on a different stone every day for a fortnight, on the theory that a place shows you a different face from every seat in it. That theory has never let me down since.
+Other days came to nothing anybody could have pointed at. I lay on my back on the crown in the middle of a Thursday with a book on my chest that the wind kept opening at the wrong page, and gave up on the book, and watched a pair of buzzards work the updraught off the west face for the better part of an hour without once beating a wing. I walked the ground after rain and marked where the water stood and where it ran off clean and where it went in and did not come out again. I ate my lunch on a different stone every day for a fortnight, on the theory that a place shows you a different face from every seat in it. That theory has never let me down since.
 
 Cael's grandson took to appearing at the edges of it, never on the crown itself and never quite trespassing, only there of a sudden at the foot of the track or along the edge of the woodland, watching, the way a cat will sit at the exact calculated boundary of a room it has been told to keep out of. I let him watch. A boy has a right to watch a hill his family has held forty years. I have never been one to chase off a quiet audience.
 
@@ -252,7 +252,7 @@ I never heard him ask permission for anything again, in all the years after.
 
 "All right," he said, and went off down the track, and did not come up for two days.
 
-When he did come, he came about forty paces short of the crown, to a flat-topped stone half sunk in the turf on the east side, and sat down on it. He came to that stone the next day and the day after that. It became his in the way things become a boy's, without a word said by anybody, and for a long while that spring our whole acquaintance was that I worked on the crown and he sat on his stone, and now and then one of us said something and the other one answered it.
+When he did come, he came about forty paces short of the crown, to a flat-topped stone half sunk in the turf on the east side, and sat down on it. He came to that stone the next day and the day after that. It became his in the way things become a boy's, without a word said by anybody, and for the rest of that fortnight, and a good while after it, our whole acquaintance was that I worked on the crown and he sat on his stone, and now and then one of us said something and the other one answered it.
 
 What I was truly waiting on, that fortnight, was my life to come up out of Vethmark and find me.
 
@@ -268,7 +268,7 @@ I had Penworth's list. Penworth had itemized my possessions as another man itemi
 
 Snow had the far stall and did not care for any of it. Two strange geldings in the yard, a stranger's boots on the flags, and her own bedding trodden about by men who did not consult her. She put her head over and laid her ears back at the whole proceeding at intervals through the afternoon, and once, when the younger driver went past her with a crate on his shoulder, took hold of the corner of his collar and let go again, purely to make a point.
 
-The books were the worst of it. Books are the heaviest thing a man owns and the least willing to be carried, and there were fourteen crates of them, and the third one from the tail had shifted somewhere in the four days out of Wainford and cracked a board, so that we went the rest of the way with it held together by a rope and my hand under it. Nothing was spoiled. Some of the books in the top layer had gone soft at the edges with the damp and dried later with a wave in the paper that they carry to this day.
+The books were the worst of it. Books are the heaviest thing a man owns and the least willing to be carried, and there were fourteen crates of them, and the third one from the tail had shifted somewhere in that long fortnight out of Wainford and cracked a board, so that we went the rest of the way with it held together by a rope and my hand under it. Nothing was spoiled. Some of the books in the top layer had gone soft at the edges with the damp and dried later with a wave in the paper that they carry to this day.
 
 The kettle came out of a nest of straw in a crate of kitchen things, and I took it out and looked at it and set it aside from the rest, on the ledge above the chalk line, where I could see it.
 
@@ -290,13 +290,13 @@ So I gathered Snow and ventured up my hill to make a camp. I had a good tent of 
 
 I had not meant to move onto the hill for good. I had a dry room a mile down the track with a woman who cooked, and only a fool trades that for wet canvas on a whim. But I stayed that night, and then the next, and inside of a week I had made the crown a kind of home. I set stones round the fire-pit and learned which way the wind came over the shoulder of the ground and shifted the tent twice before I had it right.
 
-The first pitch was too near the lip on the west, because the view from there was the best on the hill and I am as much a fool as anybody. The wind came over the shoulder in the small hours, got under the weather flap, and worried at it all night like a dog with a rag. Somewhere past two it took a peg clean out. I went out in my shirt in the dark to put it back, could not find the peg in the wet grass, drove my own good knife in instead, and lay the rest of the night listening to it take the strain.
+The first pitch was too near the lip on the west, where I had taken the shoulder of ground for a shelter it did not turn out to be, because the view from there was the best on the hill and I am as much a fool as anybody. The wind came over the shoulder in the small hours, got under the weather flap, and worried at it all night like a dog with a rag. Somewhere past two it took a peg clean out. I went out in my shirt in the dark to put it back, could not find the peg in the wet grass, drove my own good knife in instead, and lay the rest of the night listening to it take the strain.
 
 The second pitch was in the proper lee, twenty paces down and east. It was quiet as a church. It also stood in the run of every drop of water that came off the crown. I learned that in one wet night and moved again in the morning without any argument with myself.
 
 The third pitch was right. Out of the wind, out of the water, with the doorway looking east so that the first of the light came in and woke me before I had time to decide against it. I cut a shallow trench round the uphill side with the spade and turfed the spoil against the canvas, and after that I could lie in there in a downpour and hear it going past me on both sides.
 
-The fire-pit I dug a stride from the door and ringed with stones I carried up from the scree on the north slope, twelve of them, chosen for a flat face and a bit of belly, and I got them wrong twice before I had a ring that would sit a kettle level and shelter a flame at the same time. That kettle was the one thing I had brought across the world that I could not have told you a sound reason for. It was blackened out of any hope of respectability and the lid had wanted a wire to hold it since before my father died. It boiled fast and it poured clean and it had made tea in a study I would never see again. Set on stone above a fire I had built with my own hands, it looked entirely at home. I did not, yet.
+The fire-pit I dug a stride from the door and ringed with stones I carried up from the scree on the north slope, twelve of them, chosen for a flat face and a bit of belly, and it took me three goes before I had a ring that would sit a kettle level and shelter a flame at the same time. That kettle was the one thing I had brought across the world that I could not have told you a sound reason for. It was blackened out of any hope of respectability and the lid had wanted a wire to hold it since before my father died. It boiled fast and it poured clean and it had made tea in rooms I would not stand in again. Set on stone above a fire I had built with my own hands, it looked entirely at home. I did not, yet.
 
 I worked out where the water stood after rain and where it ran off clean. I came to know the hill the way you only ever truly know a place, which is by sleeping on it and waking on it and being rained on by it in the dark. Soren took to bringing my bread up of a morning so I need not go down for it, a thing neither of us ever named and both of us understood.
 
@@ -320,9 +320,9 @@ I poured him tea in the tin cup, since I had only the one good one and was using
 
 "It is."
 
-He finished the tea and set the cup upside down on the stone, so the rain would not get into it. That had not once occurred to me in twenty years of camps. Then he went off down the track to whatever a boy of that age is bound for in the morning.
+He finished the tea and set the cup upside down on the stone, so the rain would not get into it. That had not once occurred to me in twenty years of camps. Then he went off down the track at a good pace, and did not say where to.
 
-The next day he came again, and the day after. I offered him a coin for it the third time, and he looked at the coin and then at me with an expression I would spend two years learning to read, and did not take it, and did not explain. He had taken the coin for the wagons readily enough. Work was work and could be paid for. This was something else, and he knew exactly what it was, and I was some while catching up to him.
+The next day he came again, and the day after. I offered him a coin for it the third time, and he looked at the coin and then at me with an expression I would spend two years learning to read, and did not take it, and did not explain. He had taken the coin for the wagons readily enough. Work was work and could be paid for. This was something else, and it took me some while to catch up to it, and he offered me no help at all.
 
 It was, in its small and unremarkable way, the first household I had kept in three years, and I was slow to notice how much good it was doing me, the way a man is slow to notice a fever breaking.
 
