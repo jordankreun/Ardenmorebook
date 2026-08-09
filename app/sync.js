@@ -29,10 +29,29 @@ import { KEY_SECRET, KEY_BOOKMARK, KEY_CLEARED, SYNC_URL, SYNC_DEBOUNCE_MS } fro
 export function clearedAt() {
   return Number(readRaw(KEY_CLEARED, "0")) || 0;
 }
+/* A value we learned from a GET, or stamped locally by clearAll(): it can only
+   move the epoch FORWARD, because a pull may well predate a clear this device
+   has made and not yet managed to push. */
 function setClearedAt(t) {
   const next = Math.max(clearedAt(), Number(t) || 0);
   writeRaw(KEY_CLEARED, String(next));
   return next;
+}
+
+/* A value the server handed back in reply to a POST that CARRIED our epoch:
+   that answer is authoritative and is adopted verbatim, even when it is LOWER
+   than ours. That is the only way back from a clear stamped by a device whose
+   clock had drifted into the future — the server clamps the epoch to its own
+   clock, and this is what lets the correction reach the devices. Without it the
+   bad epoch is permanent and every note written from then on is dropped at the
+   next merge, on every device.
+   undefined/null means the response did not carry the field at all (an older
+   deployment), so keep what we have. */
+function adoptClearedAt(t) {
+  if (t === undefined || t === null) return clearedAt();
+  const v = Math.max(0, Number(t) || 0);
+  writeRaw(KEY_CLEARED, String(v));
+  return v;
 }
 
 export function mergeRecords(a, b, cutoff) {
@@ -168,8 +187,12 @@ export const SYNC = {
         headers: SYNC._h(),
         body: JSON.stringify(body),
       });
-      if (res && Array.isArray(res[field])) {
-        store.adopt(field, mergeRecords(store.listOf(field), res[field]));
+      if (res) {
+        // The POST carried our epoch, so the reply is authoritative about it.
+        adoptClearedAt(res.clearedAt);
+        if (Array.isArray(res[field])) {
+          store.adopt(field, mergeRecords(store.listOf(field), res[field]));
+        }
       }
     } catch {
     } finally {
@@ -207,23 +230,55 @@ export const SYNC = {
     store.adopt("notes", []);
     store.adopt("revisions", []);
     store.flushNow();
-    if (!SYNC.secret) return { synced: false, cut };
+    if (!SYNC.secret) return { synced: false, reason: "off", cut };
     const res = await SYNC._req({
       method: "POST",
       headers: SYNC._h(),
       body: JSON.stringify({ clearedAt: cut, notes: [], revisions: [] }),
     });
-    if (res) {
-      setClearedAt(res.clearedAt);
-      store.adopt("notes", mergeRecords([], res.notes || []));
-      store.adopt("revisions", mergeRecords([], res.revisions || []));
-    }
-    return { synced: !!res, cut };
+    /* A failed POST is NOT "sync is off": the epoch is now stored on this device
+       and nothing else would ever send it (_push only runs when a record is
+       mutated, and there are no records left to mutate), so the caller has to be
+       able to say which of the two happened. init() retries the push. */
+    if (!res) return { synced: false, reason: SYNC.err || "unreachable", cut };
+    adoptClearedAt(res.clearedAt);
+    store.adopt("notes", mergeRecords([], res.notes || []));
+    store.adopt("revisions", mergeRecords([], res.revisions || []));
+    return { synced: true, cut: clearedAt() };
+  },
+
+  /* A clear that never reached the server. Offline, wrong password, 500: the
+     epoch was stored locally and this device emptied itself, but the server and
+     every other device still hold everything, and this device silently drops it
+     all again on every launch. Nothing else sends the epoch, so without this the
+     two halves diverge for good. Retried on every launch until it lands; the
+     reply also corrects an epoch the server clamped. */
+  async _pushPendingClear(serverCut) {
+    if (!SYNC.secret) return false;
+    const local = clearedAt();
+    if (local <= serverCut) return false;
+    store.flushNow();
+    const res = await SYNC._req({
+      method: "POST",
+      headers: SYNC._h(),
+      // The live lists, not [] — anything written after the clear must survive.
+      body: JSON.stringify({
+        clearedAt: local,
+        notes: store.listOf("notes"),
+        revisions: store.listOf("revisions"),
+      }),
+    });
+    if (!res) return false;
+    adoptClearedAt(res.clearedAt);
+    if (Array.isArray(res.notes)) store.adopt("notes", mergeRecords([], res.notes));
+    if (Array.isArray(res.revisions)) store.adopt("revisions", mergeRecords([], res.revisions));
+    return true;
   },
 
   async init() {
     const j = await SYNC.pull();
     if (j && j.ok) {
+      // Forward-only: a GET can easily predate a clear made on this device.
       setClearedAt(j.clearedAt);
       store.adopt("notes", mergeRecords(store.listOf("notes"), j.notes || []));
       store.adopt("revisions", mergeRecords(store.listOf("revisions"), j.revisions || []));
@@ -233,6 +288,7 @@ export const SYNC = {
         savePos(KEY_BOOKMARK, j.bookmark);
         notifyBookmark();
       }
+      await SYNC._pushPendingClear(Number(j.clearedAt) || 0);
     }
     notifyState();
   },

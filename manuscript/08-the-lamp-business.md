@@ -12,7 +12,7 @@ He began with the track. It had taken a bad frost at the elbow of it, he said, w
 
 Then the weather. He allowed it had turned hard early. His father had always held that a wet autumn made a mean winter, and his father had been wrong about most things but not that one. I said two other men had told me the same in that same month. He said that would be because it was true.
 
-Then my wall. He came at it from behind, the way a man comes at the thing he has walked two miles uphill to look at. It was standing, he observed. I agreed that it was. He said there had been talk it would not. I said I had heard some of the talk. He said there had been money laid on it at the inn over the summer, and that he had not been among the losers. I asked which way he had bet. He had not bet at all, he said, being a careful man. A careful man never made anything in his life and never lost anything either, and that was the whole of his philosophy, and I was welcome to it.
+Then my wall. He came at it sideways and from behind, having walked two miles uphill in a cold wind to look at it. It was standing, he observed. I agreed that it was. He said there had been talk it would not. I said I had heard some of the talk. He said there had been money laid on it at the inn over the summer, and that he had not been among the losers. I asked which way he had bet. He had not bet at all, he said, being a careful man. A careful man never made anything in his life and never lost anything either, and that was the whole of his philosophy, and I was welcome to it.
 
 Then the slates, and where I had got them, and what Edran had charged, and whether the hauling had come to more than the stone. It had. He took that in with the grave satisfaction of a man hearing his own opinion of quarrymen confirmed by an outsider. Then the door, and the hinges, and whether Tomas had made them, and my saying he had, and his saying that Tomas was a good enough smith if you had a year to wait on him. That is what men in that valley say instead of praise.
 
@@ -24,13 +24,13 @@ His girl read late, he said, and ruined her eyes by tallow. He had heard I burne
 
 And I had to tell him no.
 
-I made a poor job of it. I said the light was not a thing I could sell yet, and he said he had not been asking to buy it exactly, and I said I knew that, and we stood a moment in the wreck of the pretence with nowhere to put it. So I gave him the plain part. The lamp would not burn off my hill, I said, and I did not yet know why, and until I did there was nothing to be had.
+I made a poor job of it. I said the light was not a thing I could sell yet, and he said he had not been asking to buy it exactly, and I said I knew that, and we stood a moment in the wreck of the pretence with nowhere to put it. So I gave him the short of it. The lamp would not burn off my hill, I said, and I did not yet know why, and until I did there was nothing to be had.
 
 "Ah," he said. "Well." He got the hat back onto his head. It took him two goes. "It's a grand light, that."
 
 "It is."
 
-"She'll manage. They do." He looked at it once more on his way past, the way a man looks at another man's good horse over a gate. At the doorstone he turned round. "I'd not have come up if I'd known it was trouble."
+"She'll manage. They do." He looked at it once more on his way past, with the frank sideways longing of a man at another man's good horse over a gate. At the doorstone he turned round. "I'd not have come up if I'd known it was trouble."
 
 "It isn't trouble."
 
@@ -46,7 +46,7 @@ The one that stayed with me, and I think in honesty drove me harder at the probl
 
 Her shop was two rooms and a yard, and the front room smelled of three things at once: shaved oak, hot hide glue, and the sharp clean sting of the shellac she kept for the small boxes. Shavings stood in drifts against the wall where she had swept them, blond and curling, and somebody's boy came for them by the sack for kindling and paid in eggs. There were four benches in it. Three held the work that keeps a joiner alive, doors and window-frames and a coffin-lid on trestles at the back under a sheet, and the fourth stood under the north light and held the work she was alive for.
 
-My brackets were done and set aside on the corner of it, six of them, made off a drawing I had brought her a fortnight before. I had asked for a plain scroll. What I had was a plain scroll with a bead run down the edge of it, fine as a pencil line, that I had not asked for and had not paid for and would not have thought of. Two silver the set. She had named the price at the ordering and did not name it again at the handing over, because a price said twice is a price a tradesman is ashamed of.
+My brackets were done and set aside on the corner of it, six of them, made off a drawing I had brought her a fortnight before. I had asked for a plain scroll. What I had was a scroll with a bead run down the edge of it, fine as a pencil line, that I had not asked for and had not paid for and would not have thought of. Two silver the set. She had named the price at the ordering and did not name it again at the handing over, because a price said twice is a price a tradesman is ashamed of.
 
 I turned one over. The bead was carried right round the return, where a bracket sits against a wall and nobody living will ever see it.
 
@@ -66,15 +66,15 @@ I turned it over for a good while, the way you turn over a problem you have deci
 
 That was the whole idea, and like most whole ideas it was simple to say and a month of evenings to do.
 
-A month of evenings looks like this, and nobody ever tells you, and it is the part of the work I have liked best and been least able to explain to anyone who asked me what a wizard does all day.
+A month of evenings looks like this, and nobody ever tells you, and it is the part of the work I have liked best and been least able to give any account of to a man who asked me what a wizard does all day.
 
 It starts with the blank. A lamp of that kind is not built into glass the way the lumen was; the glass is only the coat it wears. The working goes into a piece of grown crystal about the size of a plum stone, clear as still water and cold to the hand in any weather, and I had fourteen of them in a wooden box lined with flannel, come up on the last wagon before the roads went. They cost what they cost. I thought about the price of them every time I ruined one, and I ruined a great many, and each one was a half-gold I had already spent twice over in my head before it went into the tin.
 
 Into that goes the working, and the working goes in three layers laid one over another, and the whole art of it is that they must go in the right order and none of them may disturb the one beneath. The first layer is the eye: the part that opens on the light and takes it in. The second decides what is worth taking, because the world is full of light and most of it is no good to you, the red off a fire and the blue off snow and the wrong sort of grey. The third is the binding, and the binding is the whole of the argument, and I will come to it.
 
-The doing of it is bench work. Filthy, close, patient bench work, done with the jeweller's glass screwed into my eye socket until it ached, with a set of files so fine that three strokes was a heavy hand, and with drawn wire I made myself because nobody within four days of that valley drew wire true to a thousandth of anything. A small brass scale that would weigh a hair. Callipers. A cloth laid down so that a dropped file went onto wool and not into the gap between two boards and out of the world. My hands were cold the whole month. You cannot do that work in gloves, and you cannot keep a fire hot enough at your back to warm a bench under a north window in a hill winter without smoking yourself out of the room.
+The doing of it is bench work. Filthy, close, patient bench work, done with the jeweller's glass screwed into my eye socket until it ached, with a set of files so fine that three strokes was a heavy hand, and with drawn wire I made myself because nobody within four days of that valley drew wire true to a thousandth of anything. A small brass scale that would weigh a hair. Calipers. A cloth laid down so that a dropped file went onto wool and not into the gap between two boards and out of the world. My hands were cold the whole month. You cannot do that work in gloves, and you cannot keep a fire hot enough at your back to warm a bench under a north window in a hill winter without smoking yourself out of the room.
 
-There was a difficulty I had not foreseen. I was doing all the fitting after dark, by the light of the lumen, and the lumen is amber, and you cannot judge the colour of a light by the colour of another light. So I gave the fine judging to the four grey hours the winter allowed me, and did the filing and the seating at night by the honey glow with my back complaining, and lost the better part of a week to that arrangement before I stopped fighting it and simply began getting up earlier. That is the answer to more problems in my trade than any working I know.
+There was a difficulty I had not foreseen. I was doing all the fitting after dark, by the light of the lumen, and the lumen is amber, and you cannot judge the colour of a light by the colour of another light. So I gave the fine judging to the hours either side of noon, being the only hours of that winter worth anything for the purpose, and did the filing and the seating at night by the honey glow with my back complaining, and lost the better part of a week to that arrangement before I stopped fighting it and simply began getting up earlier. That is the answer to more problems in my trade than any working I know.
 
 In all that month I did not do one single thing that would have looked like magic to a man standing in the doorway. I sat at a bench with my nose two inches from a small cold stone and made ten thousand decisions the size of a hair.
 
@@ -106,7 +106,7 @@ He nodded, taking that at its full weight as he took everything, and did not lau
 
 Then he sat down on the boards by the hearth with his slate and let me get on. Somewhere in the middle of the afternoon, without looking up, he said, "How long has it got to hold it for?"
 
-I stopped filing. It was the right question and it was not the one I had been asking. I had been asking how to make a thing keep light at all, the way you ask how to stop a bucket leaking. He had gone straight past that to the only figure that mattered, which was how much bucket a person actually needs.
+I stopped filing. It was the right question and it was not the one I had been asking. I had been asking how to make a thing keep light at all, as you ask how to stop a bucket leaking. He had gone straight past that to the only figure that mattered: how much bucket a person actually needs.
 
 "Say a woman lights it when the dark comes," I said. "And puts it out when she goes to bed."
 
@@ -114,7 +114,7 @@ I stopped filing. It was the right question and it was not the one I had been as
 
 "Winter. Winter's the hard one."
 
-He thought. His lips did not move. His eyes went a little out of focus, and that was the whole of the machinery. "Five hours. Nearer six at the turn of the year, if she sits up." A pause. "How long does it get to drink?"
+He thought. His lips did not move. His eyes went a little out of focus, and that was all there was to see of it. "Five hours. Nearer six at the turn of the year, if she sits up." A pause. "How long does it get to drink?"
 
 "Call it seven hours of daylight in December. Grey ones."
 
@@ -128,7 +128,7 @@ He was right, and I had known it without ever once troubling to say it to myself
 
 My second held the light but soured it, the way a cellar sours milk, and gave back at dusk a thin bluish glow with no comfort in it, a corpse-light, and I put it out with my thumb and sat in the dark and was poor company to myself.
 
-Between those two there were nine others and not one of them worth a name. One held the light two hours and let the rest go out through the binding in the night, so that I woke at three to a dark lamp that was warm, warm as a stone that has lain in the sun, and that told me exactly where the leak was and did me no good at all. One took in the morning and gave back the morning, grey for grey, faithful as a mirror and about as useful. Two cracked in the setting. One would not take anything whatever, and sat on the sill for four days being a very expensive paperweight, and I put that one in the tin with real ill will.
+There were nine others besides those two, and not one of them worth a name. One held the light two hours and let the rest go out through the binding in the night, so that I woke at three to a dark lamp that was warm, warm as a stone that has lain in the sun, and that told me exactly where the leak was and did me no good at all. One took in the morning and gave back the morning, grey for grey, faithful as a mirror and about as useful. Two cracked in the setting. One would not take anything whatever, and sat on the sill for four days being a very expensive paperweight, and I put that one in the tin with real ill will.
 
 The tin was the arithmetic of it. It stood at the end of the bench and it filled up over that month with pieces of ruined crystal, and every time I dropped one in, the small dry sound it made was a half-gold going. I had counted the box in the flannel down by better than half before the thing came right, and had written to the city for more, and paid the winter carriage on them. Winter carriage on that road is very nearly the price of the goods.
 
@@ -136,13 +136,15 @@ The trouble was never the catching.
 
 The trouble was the holding, the long patient keeping of a bright thing through the dark hours without letting it spoil or bolt, and I solved it, in the end, by copying myself. I had already built one lamp that held what it was given without souring it, and I had built it without ever quite understanding why that part had come out right.
 
-So I took it down off its shelf, and set it in the middle of a cleared bench with a cloth under it, and sat and looked at it for the better part of an evening the way you look at a letter in a hand you ought to know.
+So I cleared the bench of everything but my own failures, and set the last and best of them in the middle of it on a folded cloth, and sat and looked at it for the better part of an evening the way you look at a letter in a hand you ought to know.
 
 Then I got out the board.
 
-It was a drawing board and a case of pens that had come up on the wagons with everything else and had not been opened since, and the leather of the case had gone stiff with a summer in the corner of a stable, and I worked it soft with my thumbs before I would let myself open it. Understand that this was not the drawing my father taught me. He taught me houses, and the whole of what he taught was how to ask a house what it wanted to be. Taking a working to pieces on paper is a different trade carried on with the same tools. There is no asking in it at all, only the long cold business of setting down what is actually there, layer by layer, at four times the size, until the thing has nowhere left to hide.
+It was a bare board that had come up on the wagons with everything else and had not been out of its wrapping since, and a straightedge, and a hard pencil sharpened to a chisel, and that was the whole of the kit. Taking a working to pieces on paper is not drawing in the sense that a house is drawn. There is no asking in it at all, only the long cold business of setting down what is actually there, layer by layer, at four times the size, until the thing has nowhere left to hide.
 
-It took me three nights. I ruled the sheets and pinned the corners with whatever came to hand, a river stone, the tea tin, the callipers. I drew the eye of it, and then the layer that chooses, and then I came to the binding, and the binding took the whole of the third night, and two sheets thrown away, and a third kept.
+It took me three nights. I ruled the sheets and pinned the corners with whatever came to hand, a river stone, the tea tin, the brass scale. The first night I set down the eye of my own lamp, and then the layer that chooses, and both of those went onto the paper easily enough, because both of those I had built with my own hands and understood while I was building them. The second night I drew the binding, the whole of the argument, at four times the size, and sat back and looked at what I had drawn until the small hours, and put that sheet in the fire and drew it again, and put the second one in after the first. There was nothing whatever wrong with either of them. That was the trouble. It was a good binding by every measure I had, correct in every particular, drawn true and drawn twice, and the lamp it belonged to still let the light out of itself before midnight, and the paper would not tell me why.
+
+On the third night I turned my own sheets face down at the far end of the bench, and got up, and went and took the other lamp down off its shelf.
 
 So I went back to the lumen and took it apart on paper, layer by layer, looking not at what it drank but at how it kept, and what I found was that the whole of its keeping lived in one habit of the binding: it never grasped. It held the way a good host holds a room, lightly, attending to it, letting the thing be what it was and only asking it, at dusk, if it would care to stay a while longer. I built that habit into the Series lamp because it had worked once and I could see no reason it should not work twice. It stayed. God help me, it stayed. I have never entirely got over the fact that the same manners work on daylight as on grief.
 
@@ -154,7 +156,7 @@ I wrote to Penworth that night, because a thing you mean to sell wants a man of 
 
 A month is a long time to wait on a letter and I did not spend it waiting. There was a lamp standing on my sill in nothing but its own glass, bare as an egg, and a second half-made on the bench beside it, and glass wants brass round it if it is ever to go further than a table. So I went down for iron.
 
-I went down on foot. Snow was wintering in the inn's spare stall at Lira's convenience and my expense, there being no shelter on that hill fit to keep a horse through a hard season and no prospect of one until I built it. And in any case a track a man can barely get down in ice is not a track you take a mare down for the pleasure of it. I looked in on her all the same. She had a deep bed and hay to her knees and a rug on her, and she was by any reckoning available to me the best-housed creature in the valley. She put her ears flat when she saw me, took the apple, and then turned her whole grey backside to the door and stood facing the wall until I went away. She had been doing that since the first week and would go on doing it all winter. A horse cannot say *you left me here*. She had found the next best thing and she used it.
+I went down on foot. Snow was wintering in the inn's spare stall at a price I paid by the quarter, there being no shelter on that hill fit to keep a horse through a hard season and no prospect of one until I built it. And in any case a track a man can barely get down in ice is not a track you take a mare down for the pleasure of it. I looked in on her all the same. She had a deep bed and hay to her knees and a rug on her, and she was by any reckoning available to me the best-housed creature in the valley. She put her ears flat when she saw me, took the apple, and then turned her whole grey backside to the door and stood facing the wall until I went away. She had been doing that since the first week and would go on doing it all winter. A horse cannot say *you left me here*. She had found the next best thing and she used it.
 
 Lira crossed the yard with a bucket as I came out. She did not ask after the hill, or the lamp, or my health. She said, "Her board runs to the quarter-day." I said I would settle at the quarter-day. She said, "You will," in exactly the tone she would have used to read the figure off a page, and went on with her bucket. I have been welcomed more warmly in places I trusted less.
 
@@ -176,7 +178,7 @@ He put a finger on the seat. "Wants deeper."
 
 "Deeper is still on the shelf."
 
-I thought about that for as long as it deserved, which was about four seconds, and said, "Deeper, then." He took a pencil out of the bench and altered my drawing without asking me. From Tomas that is a speech, and I took it as one.
+I thought about that for as long as it deserved. It deserved about four seconds. "Deeper, then," I said. He took a pencil out of the bench and altered my drawing without asking me. From Tomas that is a speech, and I took it as one.
 
 Then he said, "Seam."
 
@@ -192,7 +194,9 @@ I had drawn it soldered. He shook his head, once. He did not tell me why and I d
 
 "For the one." He put the drawing down on the bench and squared it to the edge with two fingers. "First one's mine."
 
-There is no arguing with a man who has already put a thing away in his own accounts, so I did not try. We did not settle the pattern that day, either. It took us the back end of that winter and a good part of the spring to settle it, in eight and ten words at a time. I have never had a partner easier to be quiet with. But when the second collar was done he cut a strip of soft iron off the end of a rod and bent it round the finished piece and knocked it true, and hung it on a nail low down at the end of a wall that was already crowded with nails, and said nothing whatever about it, and neither did I.
+There is no arguing with a man who has already put a thing away in his own accounts, so I did not try. We did not settle the pattern that day, either. It took us the back end of that winter and a good part of the spring to settle it, in eight and ten words at a time. I have never worked beside a man easier to be quiet with. But when the second collar was done he cut a strip of soft iron off the end of a rod and bent it round the finished piece and knocked it true, and hung it on a nail low down at the end of a wall that was already crowded with nails, and said nothing whatever about it, and neither did I.
+
+But that was all in front of us that first afternoon. I climbed the track home in the last of a short day with the altered drawing buttoned inside my coat, and after that there was nothing further to be done about any of it by me or by anybody until the post came up the valley.
 
 His answer came back before the month was out, which for Penworth by winter roads was very nearly running. Penworth's letters were small essays in the art of saying a great deal while appearing to say the minimum a man could get away with, and I had learned over our decade together to read the freight under the plain words, the way you learn to hear the weight in a quiet man's few. He approved. He approved the way Penworth approved of things, which is to say he raised, in order, every objection I had not thought of and answered most of them himself in the same sentence, and by the end of the page had built, out of my one lamp on a windowsill, an entire small orderly future with the corners squared and the accounts already ruled. There would be registrations to file, and a mark to set on the housings so a man would know a true one from a copy, and an arrangement with Kellard for the credit and the carriage, and a first small run to trusted hands before the wider world was told anything, and I read it all and felt the peculiar comfort of being managed by someone who was better at it than I was and did not need to be thanked for it, which he never did, and would have been embarrassed if I had tried.
 
@@ -282,7 +286,7 @@ He took me through into the back where the flour and the salt and the good candl
 
 "You can't." He said it without any unkindness in it at all, as a man reads off a weight. "You've a hill to build. There's a fellow down the valley owes me for a winter's flour and would sooner work it off than pay it."
 
-The terms took the better part of an hour and I enjoyed every minute of them in a way I would not have owned to at the time. He wanted a tenth. I said that a tenth of what a thing sells for is a different animal from a tenth of what it costs to make, and he said he was aware of that and had been aware of it since before I was born, which was not true but was well said. We settled on a tenth in the end, on the price at the far door, and then he took the carriage risk himself as far as Wainford, which I had not asked for.
+The terms took the better part of an hour and I enjoyed every minute of them in a way I would not have owned to at the time. He wanted a tenth. I said that a tenth of what a thing sells for is a different animal from a tenth of what it costs to make, and he said he was aware of that and had been aware of it since before I was born. That was not true. It was well said. We settled on a tenth in the end, on the price at the far door, and then he took the carriage risk himself as far as Wainford, and I had not asked him to.
 
 "They'll break," he said. "Some of them will. If they break on my cart it's my loss, because I'll not have you standing in my yard arguing over a crate you can't see the inside of." He wrote. "You'll make them good, and I'll not be told after that they were made bad."
 
@@ -306,7 +310,7 @@ They went packed in wool waste in a crate a man down the valley had made off a d
 
 "Eleven."
 
-He put a mark on a bit of card. "Warm going," he said, which was his entire opinion of the enterprise and, so far as I could tell, favourable. Then he set the tailgate up, and swore at the pin, and I put my hand on the pin and swore at it too, and between us we got it home.
+He put a mark on a bit of card. "Warm going," he said. That was his entire opinion of the enterprise, and so far as I could tell it was favourable. Then he set the tailgate up, and swore at the pin, and I put my hand on the pin and swore at it too, and between us we got it home.
 
 He clicked to the horse and went off down the low road, and I stood in the lane with my hands in my pockets and watched a crate of my own work go round the bend below the village and out of the valley.
 

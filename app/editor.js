@@ -225,6 +225,17 @@ export function openEditor(para, seedQuote, opts) {
       return;
     }
     store.upsertRev(chap, snip, orig, v);
+    /* Repaint EXPLICITLY, exactly as the old redecorateStable(p) did. teardown
+       ran with repaint:false, so the <p> still holds the raw markdown this
+       editor put in it, and the change event alone is not enough to get rid of
+       it: upsertRev mutates the existing record IN PLACE, so re-saving an
+       existing revision without touching the text leaves both the record's
+       identity and its `revised` string unmoved and the renderer's memo
+       short-circuits. The paragraph would sit there as literal asterisks, with
+       no diff and no dots, until a mode toggle or a reload. When the text DID
+       change the subscriber has already painted and this second pass is a
+       no-op assignment on one paragraph. */
+    render.renderPara(para, { stable: true, force: true });
     toast(v.trim() ? "Revision saved" : "Marked for deletion");
   }
 

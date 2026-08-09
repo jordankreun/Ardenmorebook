@@ -425,7 +425,17 @@ export function init() {
       const r = await SYNC.clearAll();
       refreshLists();
       render.repaintAll();
-      toast(r.synced ? "Cleared everywhere" : "Cleared on this device (sync is off)");
+      /* "sync is off" and "sync is on but unreachable" are different facts and
+         only the second one is worth retrying, so do not report them alike. */
+      toast(
+        r.synced
+          ? "Cleared everywhere"
+          : r.reason === "off"
+            ? "Cleared on this device (sync is off)"
+            : "Cleared here — sync unreachable (" +
+              r.reason +
+              "). It will retry when you reopen the reader."
+      );
     } finally {
       btnClearAll.disabled = false;
     }
