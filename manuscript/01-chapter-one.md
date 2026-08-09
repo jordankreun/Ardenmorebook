@@ -20,20 +20,21 @@ I had never meant to stay long. My father's house was a stopgap, somewhere to ke
 
 He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the caretaker's wages, and the standing order for coal at a house nobody heated, and the fact that a chimney unswept in an empty building is a worse business than a chimney unswept in a full one. Before ever the hill was mentioned, he wrote me this.
 
-> Sir,
->
-> The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat these two years, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.
->
-> You will observe that the sum is not large. It is not intended to alarm you, and I would not insult you by arranging it so that it did. What I would ask you to observe is the length of the column. There is nothing in it that is wrong. There is nothing in it I could strike out and be thanked for afterward. It is simply the cost of keeping a sound house in good order that no person has any intention of entering, and it will be very much the same next quarter, and the quarter after that, and I am obliged to tell you it will go on being very much the same for as long as we both continue to be reasonable men about it.
->
-> I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to become friendly with one another through the mere passage of time.
->
-> One further remark and I will leave off. You have instructed me, on several occasions and in writing, to attend to those parts of your affairs you do not care to think about. I have done so faithfully and would do so for the remainder of my working life without complaint. But this is not one of those parts. This is a thing you have asked me to carry so that you need not decide about it, and there is a difference between the two, and I find I have grown less willing to pretend I cannot see it.
->
-> The spring, when it comes, will improve nothing whatever about the arithmetic. It may improve you.
->
-> I remain, sir, your obedient servant,
-> Penworth
+*Sir,*
+
+*The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat these two years, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
+
+*You will observe that the sum is not large. It is not intended to alarm you, and I would not insult you by arranging it so that it did. What I would ask you to observe is the length of the column. There is nothing in it that is wrong. There is nothing in it I could strike out and be thanked for afterward. It is simply the cost of keeping a sound house in good order that no person has any intention of entering, and it will be very much the same next quarter, and the quarter after that, and I am obliged to tell you it will go on being very much the same for as long as we both continue to be reasonable men about it.*
+
+*I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to become friendly with one another through the mere passage of time.*
+
+*One further remark and I will leave off. You have instructed me, on several occasions and in writing, to attend to those parts of your affairs you do not care to think about. I have done so faithfully and would do so for the remainder of my working life without complaint. But this is not one of those parts. This is a thing you have asked me to carry so that you need not decide about it, and there is a difference between the two, and I find I have grown less willing to pretend I cannot see it.*
+
+*The spring, when it comes, will improve nothing whatever about the arithmetic. It may improve you.*
+
+*I remain, sir, your obedient servant,*
+
+*Penworth.*
 
 I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar, and he did not raise the matter again until the thaw, and then he did not raise it at all.
 

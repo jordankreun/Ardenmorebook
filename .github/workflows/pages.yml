@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - "reader.html"
+      - "app/**"
       - "manuscript/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
@@ -37,6 +38,7 @@ jobs:
           mkdir -p _site/manuscript
           cp reader.html _site/index.html      # front page = the reader
           cp reader.html _site/reader.html      # also reachable at /reader.html
+          cp -R app _site/app                   # the ES modules + stylesheet
           cp manuscript/*.md _site/manuscript/
           cp manuscript/manifest.json _site/manuscript/
           echo "Published files:"; find _site -type f | sort

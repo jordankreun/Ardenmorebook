@@ -8,7 +8,55 @@ The Study had been up a year and more before I put a spade to the ground beneath
 
 The listening was the larger part, for all that. By that second summer I had a full year of the hill's two hours set down in my own hand, dusk and before dawn, the pulse of the thing felt through the soles of my feet and the bones of my face on the nights I lay out on the crown to take it. And I had come to the plain edge of what a man can learn about anything by lying on it in the dark and paying attention. To learn past that edge I had to do what my trade does when the body's attention runs out. I had to build an instrument finer than myself, and set it where the thing was strongest, and let it hear what I was too coarse to hear. The thing was strongest below. It always had been. The pulse came up through the ground because the ground was where it lived, and so the instrument wanted to go down into the ground, into a dry dark closed room with dressed stone around it and the whole weight of the hill on top, which is a cellar by another name.
 
-I put it to Jorin the way I had learned to put a thing to Jorin, which was plainly, once, and then not at all, and let him carry it about with him for a day. I told him I wanted a cellar under the Study, stone-lined and dry, with a stair down from the workroom floor, and I told him how deep I meant to go and no deeper. He looked at the Study a while, and at the ground around its footings, and at last he said, "Hill'll have opinions." It was not quite a joke, though he let it sit on the table like one. He had raised the Study on ground that took its mortar in three days where the same ground had drunk Cael's father's walls soft over a whole season, and he had felt, in the way a builder feels a thing through his hands before his head has words for it, that the difference had not been in his mortar. He never once said the hill was alive. He said it had opinions. That was as far as Jorin would go, and it was further than any other man in the valley would have followed him.
+I put it to Jorin the way I had learned to put a thing to Jorin, which was plainly, once, and then not at all, and let him carry it about with him for a day. I told him I wanted a cellar under the Study, stone-lined and dry, with a stair down from the workroom floor, and I told him how deep I meant to go and no deeper.
+
+I went down to his yard to say it, because a thing like that is not said in a letter and Jorin was easier to talk to standing on his own gravel than anywhere else on earth. It was the last week of the spring. His yard had the swept, squared-off look of a place where a man knows to the plank what he has. Dressed stone stood in courses along the north wall, sorted by size and the ends squared. The seasoned timber lay under its lean-to with the cuts painted against the wet. A barrow was tipped up on its nose so it would not stand full of rain. Ren was at the far end with a saw and a trestle and did not look up, and in a lad of sixteen that is a compliment to the saw.
+
+Jorin came out with a pencil behind his ear and a length of batten in his hand. He set the batten down on the bench along the edge, true to it, before he said anything at all. Then he heard me out to the end of it, and the end of it was nine feet from the workroom boards down to the floor of the new room, and not an inch past nine.
+
+"Why nine," he said.
+
+"Deep enough to keep a winter's food from freezing and a summer's from spoiling. Shallow enough that I'm not undermining your footings to get it."
+
+He walked the length of his own stone and came back. He did not ask a second question. I have sat in rooms in the city where six men in good coats took the better part of an afternoon to arrive at not asking a second question, and charged me for the room they did it in.
+
+So I rode home.
+
+He came up the track at seven the next morning with a rod under his arm and the boy behind him. He looked at the Study a while, and at the ground around its footings, and at last he said, "Hill'll have opinions." It was not quite a joke, though he let it sit on the table like one. He had raised the Study on ground that took its mortar in three days where the same ground had drunk Cael's father's walls soft over a whole season, and he had felt, in the way a builder feels a thing through his hands before his head has words for it, that the difference had not been in his mortar. He never once said the hill was alive. He said it had opinions. That was as far as Jorin would go, and it was further than any other man in the valley would have followed him.
+
+Then he gave me his terms, standing on the grass with the rod still under his arm, in the manner of a man reading off a short list he had made in his head on the way up.
+
+"Fortnight," he said. "If it stays dry. Longer if it doesn't."
+
+"And the stone?"
+
+"Comes out of the hole." He put his boot on the turf. "Shale under this. Two foot down, maybe three. Comes up in plates. Dresses out into a facing as good as anything Edran would sell you, and you've not to haul it."
+
+That was the sentence that settled the business, and he knew it when he said it. I knew to the copper by then what stone cost on that hill, in money and in whole seasons and in the slow hauling of it up a track no wagon would climb. A room whose walls came out of the room itself was a room I could afford.
+
+"Forty-eight silver the week," he said. "Boy's thirty."
+
+Ren, who was pacing the crown behind his father with the toe of his boot and being elsewhere, went a shade darker about the ears and said nothing whatever.
+
+"Thirty's a man's money," I said.
+
+"Aye," said Jorin.
+
+It was paid for out of the lamps, when it came to it, out of the small steady coppers that went down the valley on Kellard's carriage all that spring and came back up it as money. Penworth had written plainly what a run of that size would and would not do. It would buy timber, or a season of the unglamorous materials a building year eats without anybody noticing, and it would not buy me one foot of daylight between myself and what I owed. He was right, as he generally was. But he had not said the money was no use to me, and a cellar is exactly the sort of thing a modest trade pays for.
+
+I went down to Kellard's the day before we started, for candles, because a hole in the ground is a dark place to do fine work in and I had no intention of carrying the lumen down a ladder. He fetched them out of the back storeroom where the flour and the salt live, and set two bundles on the counter, and looked at the bundles rather than at me.
+
+"How many?"
+
+"How many have you?"
+
+"That's not an answer a man gives in a shop," said Kellard, and wrote something short in his book. Then he went back and came out with a box of ends, the stubs and short lengths that collect in a chandler's crate over a year, and set it beside the bundles. "Nobody buys an end. They'll do you well enough at the bottom of a hole. I'll not enter them."
+
+There were a good many ends in that box, and not one of them was much shorter than the candles I was paying for.
+
+"Carriage went Thursday," he said, tying the string. "Two more down the valley, and the pair for the one room. And a fellow at the crossing who's never seen a lamp in his life and has heard about them off his sister. He'll want telling twice that it doesn't take oil. None of them believe that until they've had one a fortnight." He squared the bundles. "The carrier's changed his day again and hasn't seen fit to tell the parish. That's twice this year. There'll be words about it, and I'll be the one saying them."
+
+I said that seemed hard on him, which appeared to be the correct answer, and carried my candles out into the street with no clearer notion than when I went in of what a carrier's day had to do with Kellard, or why it should be his to say words about. A year and a bit in a place buys you the shape of its business and not the reasons under it.
 
 We broke ground on a bright still morning at the front of the summer. The turf came up in green squares that Ren stacked to one side, roots and all, to be laid back over the bald patch when we were done, because he was a boy who could not bear to leave a thing worse than he found it, and under the turf the crown gave up its earth easily, dark and dry and cool, with none of the sullen wet clay that would have fought us anywhere else in that valley.
 

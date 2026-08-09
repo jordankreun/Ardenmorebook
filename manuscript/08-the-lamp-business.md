@@ -12,13 +12,13 @@ He began with the track. It had taken a bad frost at the elbow of it, he said, w
 
 Then the weather. He allowed it had turned hard early. His father had always held that a wet autumn made a mean winter, and his father had been wrong about most things but not that one. I said two other men had told me the same in that same month. He said that would be because it was true.
 
-Then my wall. He came at it the way a man comes at the thing he has walked two miles uphill to look at, which is to say from behind. It was standing, he observed. I agreed that it was. He said there had been talk it would not, and I said I had heard some of the talk, and he said there had been money laid on it at the inn over the summer, and that he had not been among the losers. I asked which way he had bet. He had not bet at all, he said, being a careful man. A careful man never made anything in his life and never lost anything either, and that was the whole of his philosophy, and I was welcome to it.
+Then my wall. He came at it from behind, the way a man comes at the thing he has walked two miles uphill to look at. It was standing, he observed. I agreed that it was. He said there had been talk it would not. I said I had heard some of the talk. He said there had been money laid on it at the inn over the summer, and that he had not been among the losers. I asked which way he had bet. He had not bet at all, he said, being a careful man. A careful man never made anything in his life and never lost anything either, and that was the whole of his philosophy, and I was welcome to it.
 
-Then the slates, and where I had got them, and what Edran had charged, and whether the hauling had come to more than the stone. It had. He took that in with the grave satisfaction of a man hearing his own opinion of quarrymen confirmed by an outsider. Then the door, and the hinges, and whether Tomas had made them, and my saying he had, and his saying that Tomas was a good enough smith if you had a year to wait on him, which is what men in that valley say instead of praise.
+Then the slates, and where I had got them, and what Edran had charged, and whether the hauling had come to more than the stone. It had. He took that in with the grave satisfaction of a man hearing his own opinion of quarrymen confirmed by an outsider. Then the door, and the hinges, and whether Tomas had made them, and my saying he had, and his saying that Tomas was a good enough smith if you had a year to wait on him. That is what men in that valley say instead of praise.
 
 The kettle went. I made the tea. He held the cup in both hands and drank very little of it, and turned the hat between his knees, and looked at the window, and looked at the fire, and looked at the window again.
 
-He was a long while coming round. That is not a fault. In a place where everybody has to go on living next to everybody, the straight question is a kind of violence, and the country road exists so that a man may ask a thing and still be able to meet you at the oven in the morning if the answer is no.
+He was a long while coming round. That is not a fault. In a place where everybody has to go on living next to everybody, a straight question is a kind of violence. The country road exists so that a man may ask a thing and still meet you at the oven in the morning if the answer is no.
 
 His girl read late, he said, and ruined her eyes by tallow. He had heard I burned a light up here a body could see by. He wondered, only wondered, whether it was the sort of thing a man might have for his own house.
 
@@ -26,7 +26,7 @@ And I had to tell him no.
 
 I made a poor job of it. I said the light was not a thing I could sell yet, and he said he had not been asking to buy it exactly, and I said I knew that, and we stood a moment in the wreck of the pretence with nowhere to put it. So I gave him the plain part. The lamp would not burn off my hill, I said, and I did not yet know why, and until I did there was nothing to be had.
 
-"Ah," he said. "Well." He got the hat back onto his head, which took him two goes. "It's a grand light, that."
+"Ah," he said. "Well." He got the hat back onto his head. It took him two goes. "It's a grand light, that."
 
 "It is."
 
@@ -86,7 +86,7 @@ The boy came up the following Wednesday and found the glass still swept into the
 
 "A lamp. It was going to be a lamp."
 
-He crouched and picked a piece up and turned it in the window light and set it back exactly where it had been, which is a thing about him I never got used to. "What did it do?"
+He crouched and picked a piece up and turned it in the window light and set it back exactly where it had been. I never did get used to that. "What did it do?"
 
 "Everything I asked it, in the wrong order." He waited. He always waited, and it is the most effective thing anybody has ever done to me. "It took the light in all day, and gave it all back at once, at sundown, in about a second and a half."
 
@@ -102,7 +102,7 @@ He worked on that a moment. "You were looking at it."
 
 "I hit the bench with my elbow and the floor with everything else. My head came out of it better than my dignity."
 
-He nodded, taking that at its full weight the way he took everything, and did not laugh, and I watched him decide not to, and thought better of him for it than if he had.
+He nodded, taking that at its full weight as he took everything, and did not laugh, and I watched him decide not to, and thought better of him for it than if he had.
 
 Then he sat down on the boards by the hearth with his slate and let me get on. Somewhere in the middle of the afternoon, without looking up, he said, "How long has it got to hold it for?"
 
@@ -124,13 +124,13 @@ He thought. His lips did not move. His eyes went a little out of focus, and that
 
 "It's easier than the other way round," he said, in the voice of a boy stating that water runs downhill, and went back to his slate.
 
-He was right, and I had known it in the way you know a thing you have never troubled to say to yourself, and having it said changed the shape of the problem on my bench for the rest of that month. I have taken instruction from some very expensive men in my time. That afternoon I took it off a boy of ten sitting on my floor, and it cost me nothing but the admitting.
+He was right, and I had known it without ever once troubling to say it to myself, and having it said out loud changed the shape of the problem on my bench for the rest of that month. I have taken instruction from some very expensive men in my time. That afternoon I took it off a boy of ten sitting on my floor, and it cost me nothing but the admitting.
 
 My second held the light but soured it, the way a cellar sours milk, and gave back at dusk a thin bluish glow with no comfort in it, a corpse-light, and I put it out with my thumb and sat in the dark and was poor company to myself.
 
-Between those two there were nine others and not one of them worth a name. One held the light two hours and let the rest go out through the binding in the night, so that I woke at three to a dark lamp that was warm, warm the way a stone is warm that has lain in the sun, and that told me exactly where the leak was and did me no good at all. One took in the morning and gave back the morning, grey for grey, faithful as a mirror and about as useful. Two cracked in the setting. One would not take anything whatever, and sat on the sill for four days being a very expensive paperweight, and I put that one in the tin with real ill will.
+Between those two there were nine others and not one of them worth a name. One held the light two hours and let the rest go out through the binding in the night, so that I woke at three to a dark lamp that was warm, warm as a stone that has lain in the sun, and that told me exactly where the leak was and did me no good at all. One took in the morning and gave back the morning, grey for grey, faithful as a mirror and about as useful. Two cracked in the setting. One would not take anything whatever, and sat on the sill for four days being a very expensive paperweight, and I put that one in the tin with real ill will.
 
-The tin was the arithmetic of it. It stood at the end of the bench and it filled up over that month with pieces of ruined crystal, and every time I dropped one in, the small dry sound it made was a half-gold going. I had counted the box in the flannel down by better than half before the thing came right, and had written to the city for more, and paid the carriage on them, and that is the part of a great idea nobody puts in the tales.
+The tin was the arithmetic of it. It stood at the end of the bench and it filled up over that month with pieces of ruined crystal, and every time I dropped one in, the small dry sound it made was a half-gold going. I had counted the box in the flannel down by better than half before the thing came right, and had written to the city for more, and paid the winter carriage on them. Winter carriage on that road is very nearly the price of the goods.
 
 The trouble was never the catching.
 
@@ -152,19 +152,19 @@ There was nothing to see in the drinking, which is true of most real workings an
 
 I wrote to Penworth that night, because a thing you mean to sell wants a man of affairs the way a thing you mean to build wants a mason, and Penworth was mine. I set out the whole of it plainly: what the Series lamp was, how it differed from the one on my hill, that it would burn anywhere a window let in a few hours of daylight and go on burning after dark, that it ate nothing, spilled nothing, could not catch a barn afire or gutter out in a draught, and would, so far as I could see, outlast the man who bought it. I told him I meant to make them, not in great numbers, I was one man with two hands and a hill to build, but steadily, and to sell them fairly, and that I wanted the thing set up honestly from the start, with whatever protections and papers a made thing needs in the wide world so that some sharper man could not take the shape of it out of my hands the moment it proved worth taking. This one I meant to keep the making of, and I said so.
 
-A month is a long time to wait on a letter and I did not spend it waiting. There were two lamps standing on my sill by then in nothing but their own glass, bare as eggs, and glass wants brass round it if it is ever to go further than a table. So I went down for iron.
+A month is a long time to wait on a letter and I did not spend it waiting. There was a lamp standing on my sill in nothing but its own glass, bare as an egg, and a second half-made on the bench beside it, and glass wants brass round it if it is ever to go further than a table. So I went down for iron.
 
-I went down on foot. Snow was wintering in the inn's spare stall at Lira's convenience and my expense, there being no shelter on that hill fit to keep a horse through a hard season and no prospect of one until I built it, and in any case a track a man can barely get down in ice is not a track you take a mare down for the pleasure of it. I looked in on her all the same. She had a deep bed and hay to her knees and a rug on her, and she was by any reckoning available to me the best-housed creature in the valley. She put her ears flat when she saw me, took the apple, and then turned her whole grey backside to the door and stood facing the wall until I went away. She had been doing that since the first week and would go on doing it all winter. A horse cannot say *you left me here*. She had found the next best thing and she used it.
+I went down on foot. Snow was wintering in the inn's spare stall at Lira's convenience and my expense, there being no shelter on that hill fit to keep a horse through a hard season and no prospect of one until I built it. And in any case a track a man can barely get down in ice is not a track you take a mare down for the pleasure of it. I looked in on her all the same. She had a deep bed and hay to her knees and a rug on her, and she was by any reckoning available to me the best-housed creature in the valley. She put her ears flat when she saw me, took the apple, and then turned her whole grey backside to the door and stood facing the wall until I went away. She had been doing that since the first week and would go on doing it all winter. A horse cannot say *you left me here*. She had found the next best thing and she used it.
 
-Lira crossed the yard with a bucket as I came out. She did not ask after the hill, or the lamp, or my health. She said, "Her board runs to the quarter-day." I said I would settle at the quarter-day. She said, "You will," in exactly the tone she would have used to read the figure off a page, and went on with her bucket. I have been welcomed more warmly in places I trusted a good deal less.
+Lira crossed the yard with a bucket as I came out. She did not ask after the hill, or the lamp, or my health. She said, "Her board runs to the quarter-day." I said I would settle at the quarter-day. She said, "You will," in exactly the tone she would have used to read the figure off a page, and went on with her bucket. I have been welcomed more warmly in places I trusted less.
 
-The smithy stands at the top of the street, where the ground begins to think about being a hill again, and on a cold day you can find it with your eyes shut. Tomas had the door half open with snow on the sill, which tells you what it is like in there in August. I stood inside it and let the heat come into my coat and waited on the piece he had in the fire, because a man does not talk to a smith over an open fire, and because I liked watching him work and would have waited anyway. He was drawing down a length of bar into the tine of somebody's muck-fork, and he did it in about eleven blows, and the last three of them were only tidying.
+The smithy stands at the top of the street, where the ground begins to think about being a hill again, and on a cold day you can find it with your eyes shut. Tomas had the door half open with snow on the sill, which tells you what it is like in there in August. I stood inside it and let the heat come into my coat and waited on the piece he had in the fire, because you do not talk to a smith over an open fire, and because I liked watching him work and would have waited anyway. He was drawing down a length of bar into the tine of somebody's muck-fork, and he did it in about eleven blows, and the last three of them were only tidying.
 
 When he had it quenched he came over and wiped his hands and looked at the drawing I had brought.
 
 It was a collar and foot in brass, near enough to the lumen's but not the same: a shallower seat, and a ring let into the waist of the collar that a thumb could turn.
 
-He looked at it a long while, the way he had looked at the first one.
+He looked at it as long as he had looked at the first one.
 
 "Thumb-ring," he said.
 
@@ -186,13 +186,13 @@ I had drawn it soldered. He shook his head, once. He did not tell me why and I d
 
 "Two, to start. More if they go."
 
-"They'll go." He said it the way he might have said that iron was hard. "Eight silver."
+"They'll go." He said it as he would have said that iron was hard. "Eight silver."
 
 "For the pair?"
 
 "For the one." He put the drawing down on the bench and squared it to the edge with two fingers. "First one's mine."
 
-There is no arguing with a man who has already put a thing away in his own accounts, so I did not try. We did not settle the pattern that day, either. It took us the back end of that winter and a good part of the spring to settle it, in eight and ten words at a time, and I have never had a partner easier to be quiet with. But when the second collar was done he cut a strip of soft iron off the end of a rod and bent it round the finished piece and knocked it true, and hung it on a nail low down at the end of a wall that was already crowded with nails, and said nothing whatever about it, and neither did I.
+There is no arguing with a man who has already put a thing away in his own accounts, so I did not try. We did not settle the pattern that day, either. It took us the back end of that winter and a good part of the spring to settle it, in eight and ten words at a time. I have never had a partner easier to be quiet with. But when the second collar was done he cut a strip of soft iron off the end of a rod and bent it round the finished piece and knocked it true, and hung it on a nail low down at the end of a wall that was already crowded with nails, and said nothing whatever about it, and neither did I.
 
 His answer came back before the month was out, which for Penworth by winter roads was very nearly running. Penworth's letters were small essays in the art of saying a great deal while appearing to say the minimum a man could get away with, and I had learned over our decade together to read the freight under the plain words, the way you learn to hear the weight in a quiet man's few. He approved. He approved the way Penworth approved of things, which is to say he raised, in order, every objection I had not thought of and answered most of them himself in the same sentence, and by the end of the page had built, out of my one lamp on a windowsill, an entire small orderly future with the corners squared and the accounts already ruled. There would be registrations to file, and a mark to set on the housings so a man would know a true one from a copy, and an arrangement with Kellard for the credit and the carriage, and a first small run to trusted hands before the wider world was told anything, and I read it all and felt the peculiar comfort of being managed by someone who was better at it than I was and did not need to be thanked for it, which he never did, and would have been embarrassed if I had tried.
 
@@ -218,9 +218,9 @@ Her cottage is the last house on the lane, low grey stone with the slate gone gr
 
 The front window is her drying-green, and in winter it was full: bunches hung head down off a wire, grey and brown and one still improbably green, and the whole room smelled of the inside of a hedge in August. She had the door open before I was off the lane. I never worked out how she managed that and never asked her.
 
-I bought a salve first. There was no craft in that on my part. My hands were split across the knuckles from a winter of cold bench work and I had been meaning to come down about it for a fortnight. She looked at the hands before she looked at me, turned one of them over, made a small sound at the state of it, and went to the shelf without asking me a single thing. The jar was brown glass with a waxed cloth over the top and a string round the neck of it. Six copper. I paid the six copper and she put them in her apron and wrote nothing down, keeping her accounts the way her grandmother had kept hers, which was in her head and correctly.
+I bought a salve first. There was no craft in that on my part. My hands were split across the knuckles from a winter of cold bench work and I had been meaning to come down about it for a fortnight. She looked at the hands before she looked at me, turned one of them over, made a small sound at the state of it, and went to the shelf without asking me a single thing. The jar was brown glass with a waxed cloth over the top and a string round the neck of it. Six copper. I paid the six copper and she put them in her apron and wrote nothing down. She kept her accounts as her grandmother had kept hers, in her head and correctly.
 
-Then I took the lamp out of my coat. It had been wrapped in a shirt, that being the only clean soft thing in my house that morning, and I set the shirt on the counter inside the door and unwound it, and I will admit that I had rehearsed a sentence on the way down and did not use one word of it.
+Then I took the lamp out of my coat. It had been wrapped in a shirt, that being the only clean soft thing in my house that morning, and I unwound it there in her doorway with the shirt over my arm, and I will admit that I had rehearsed a sentence on the way down and did not use one word of it.
 
 She took it in both hands and looked at it a long moment in the way she had, considering the whole of what it was before she said anything at all, and then she looked at me, and she did not thank me, which I had half hoped she would not, because thanks would have made it smaller. She said, "My grandmother wrote that the hill gives most to the ones who ask it for least." She turned the lamp so the low sun caught the glass. "She'd have liked that you made a lamp that only asks the morning for what it was going to throw away anyhow." And that was all, and it was a great deal more than thanks, and I went back up my hill in the failing light feeling I had been paid in full and then some, in a currency I had not known I was owed. That evening, from my crown, I watched the valley put out its windows one by one into the dark, and at the far end of the lane by the birches a light came up gold and steady that had not been there before and did not gutter, and stayed lit long after the tallow houses had gone dark, a small warm gold star burning on nothing but a morning a woman had let a lamp keep for her, and I took it, rightly this time and with no doubt in it at all, for company.
 
@@ -280,7 +280,7 @@ He took me through into the back where the flour and the salt and the good candl
 
 "I can make crates."
 
-"You can't." He said it without any unkindness in it at all, the way a man reads off a weight. "You've a hill to build. There's a fellow down the valley owes me for a winter's flour and would sooner work it off than pay it."
+"You can't." He said it without any unkindness in it at all, as a man reads off a weight. "You've a hill to build. There's a fellow down the valley owes me for a winter's flour and would sooner work it off than pay it."
 
 The terms took the better part of an hour and I enjoyed every minute of them in a way I would not have owned to at the time. He wanted a tenth. I said that a tenth of what a thing sells for is a different animal from a tenth of what it costs to make, and he said he was aware of that and had been aware of it since before I was born, which was not true but was well said. We settled on a tenth in the end, on the price at the far door, and then he took the carriage risk himself as far as Wainford, which I had not asked for.
 
@@ -294,13 +294,13 @@ So I shook his hand and was out of the yard before six, and neither of us ever l
 
 The business grew from there the way such things grow, which is slowly and then not slowly, and I will not bore you with the ledger of it, the runs and the marks and Kellard's careful carriage arrangements and the first lamps going out over the winter roads to houses I never saw.
 
-I will give you one morning of it, because I stood in it and have not forgotten it.
+I will give you one morning of it.
 
-It was the tail of that winter, when the low road had firmed enough to carry a loaded cart and the beck was still running white. Kellard's carter came up as far as the foot of the track, which was as far as anything on wheels had ever come, and I brought the crate down to him on a hand-barrow with the wheel skidding in the frozen ruts, and we loaded it together off the tailgate.
+It came later than the winter I am telling you about, at the turn of it into the spring, when the low road had firmed enough to carry a loaded cart. Kellard's carter came up as far as the foot of the track. Nothing on wheels had ever come further. I brought the crate down to him on a hand-barrow with the wheel skidding in the frozen ruts, and we loaded it together off the tailgate.
 
 Eleven lamps. That was the whole of the first run, and it does not sound like much, and it was two months of evenings and the better part of a year of thinking.
 
-They went packed in wool waste in a crate a man down the valley had made off a drawing, each one wrapped by itself, glass to brass to cloth, and the crate lidded and roped and marked on the end in Kellard's own hand. I had counted them into it the night before by the lumen. I counted them again in the lane, out loud, with the carter watching me and his breath going up white, and he said nothing whatever about it, having plainly seen a good many men count a thing twice.
+They went packed in wool waste in a crate a man down the valley had made off a drawing, each one wrapped by itself, glass to brass to cloth, and the crate lidded and roped and marked on the end in Kellard's own hand. I had counted them into it the night before by the lumen. I counted them again in the lane, out loud, with the carter watching me and his breath going up white, and he said nothing whatever about it, having seen a good many men count a thing twice.
 
 "Eleven," he said, when I had done.
 
@@ -310,7 +310,7 @@ He put a mark on a bit of card. "Warm going," he said, which was his entire opin
 
 He clicked to the horse and went off down the low road, and I stood in the lane with my hands in my pockets and watched a crate of my own work go round the bend below the village and out of the valley.
 
-It is a peculiar thing to watch. I had made a great many things before that and let a great many of them go, and every one of them had gone to somebody I knew, or into a house I had drawn, or across a bench into a hand I could see. This went into the country. In a fortnight there would be a light burning in a room I had never stood in, in a house I could not have found on a map, and the woman who put her thumb to the collar would know nothing about me and would not need to.
+It is a peculiar thing to watch. I had made many things before that and let most of them go, and every one of them had gone to somebody I knew, or into a house I had drawn, or across a bench into a hand I could see. This went into the country. In a fortnight there would be a light burning in a room I had never stood in, in a house I could not have found on a map, and the woman who put her thumb to the collar would know nothing about me and would not need to.
 
 I went back up the hill and made two more.
 

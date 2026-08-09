@@ -1,0 +1,294 @@
+/* The Tower of Ardenmoor — reader stylesheet.
+   The design tokens, the body rule and #status are inlined in reader.html's
+   <head>, so a cold offline start paints the right colour before this file
+   arrives. Everything else lives here. */
+
+/* focus ring for keyboard users */
+:focus { outline: none }
+:focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; border-radius: 8px }
+
+/* ---------- top progress + per-chapter ticks ---------- */
+#ticks { position: fixed; top: 0; left: 0; height: 3px; width: 100%; z-index: 59; pointer-events: none }
+#ticks i { position: absolute; top: 0; width: 1px; height: 3px; background: var(--muted); opacity: .5 }
+#progress { position: fixed; top: 0; left: 0; height: 3px; width: 0; background: var(--accent); z-index: 60; transition: width .1s linear }
+
+/* ---------- icons ---------- */
+.ic { width: 1.2rem; height: 1.2rem; display: block; flex: 0 0 auto }
+.ic.sm { width: 1.02rem; height: 1.02rem }
+
+/* ---------- top bar (Menu · Mode · Settings) ---------- */
+header#bar {
+  position: sticky; top: 0; z-index: 50; display: flex; align-items: center; gap: .4rem;
+  padding: .45rem .6rem; padding-top: max(.45rem, env(safe-area-inset-top));
+  background: var(--bar); border-bottom: 1px solid var(--rule);
+  backdrop-filter: saturate(1.2) blur(6px);
+}
+header#bar .spacer { flex: 1 }
+.iconbtn {
+  position: relative; display: inline-flex; align-items: center; justify-content: center;
+  width: 2.3rem; height: 2.3rem; color: var(--fg); background: transparent; border: 1px solid transparent;
+  border-radius: 10px; cursor: pointer; padding: 0;
+}
+.iconbtn:hover { background: var(--panel); border-color: var(--rule) }
+.pill {
+  display: inline-flex; align-items: center; gap: .4rem; font: inherit; font-size: .82rem;
+  padding: .34rem .8rem; border-radius: 999px; border: 1px solid var(--rule); background: var(--panel);
+  color: var(--fg); cursor: pointer; line-height: 1;
+}
+.pill .ic { width: 1.05rem; height: 1.05rem }
+.pill:hover { border-color: var(--accent) }
+#noteCount {
+  position: absolute; top: -.15rem; right: -.15rem; min-width: 1.05rem; height: 1.05rem; padding: 0 .2rem;
+  background: var(--accent); color: #fff; border-radius: 999px; font-size: .62rem; line-height: 1.05rem;
+  text-align: center; display: none;
+}
+#noteCount.show { display: block }
+/* review-only affordances hidden while reading */
+:root[data-mode="read"] #selTools,
+:root[data-mode="read"] #feedbackPanel { display: none !important }
+
+/* ---------- reading column ---------- */
+main {
+  max-width: 65ch; margin: 0 auto; padding: 2.5rem 1.4rem 7rem;
+  padding-left: max(1.4rem, env(safe-area-inset-left));
+  padding-right: max(1.4rem, env(safe-area-inset-right));
+}
+.titlepage { text-align: center; margin: 2rem 0 5rem }
+.titlepage h1 { font-size: 2.5rem; font-weight: 600; line-height: 1.12; margin: 0 0 .7rem; letter-spacing: .01em }
+.titlepage .book { font-variant: small-caps; letter-spacing: .28em; color: var(--muted); margin: 0 }
+section.chapter { margin-top: 4.5rem; scroll-margin-top: 3.4rem }
+section.chapter:first-of-type { margin-top: 0 }
+h2.chap { text-align: center; font-weight: 600; font-size: 1.35rem; line-height: 1.3; margin: 0 0 2.4rem }
+h2.chap .kicker { display: block; font-variant: small-caps; letter-spacing: .2em; font-size: .72rem; color: var(--muted); margin-bottom: .55rem }
+p { margin: 0; text-indent: 1.5em; text-align: justify; hyphens: auto; position: relative }
+p.flush { text-indent: 0 }
+.scene { margin: 1.9rem 0; text-align: center; color: var(--muted); letter-spacing: .6em }
+.scene span { opacity: .6 }
+
+/* commented paragraphs (review mode only) */
+p.hasNote::before { content: ""; position: absolute; left: -.75rem; top: .12em; bottom: .12em; width: 3px; border-radius: 2px; background: var(--accent); opacity: .75 }
+.noteDot { display: inline-block; cursor: pointer; margin-left: .35em; vertical-align: .05em; color: var(--accent); opacity: .85; text-indent: 0 }
+.noteDot:hover { opacity: 1 }
+.noteDot .ic { display: inline-block; width: .82em; height: .82em }
+/* revised paragraphs (track changes) */
+p.hasEdit::after { content: ""; position: absolute; left: -.75rem; top: .12em; bottom: .12em; width: 3px; border-radius: 2px; background: var(--edit); opacity: .85 }
+/* both at once: the edit bar shifts outboard so the two sit side by side */
+p.hasNote.hasEdit::after { left: -1.15rem }
+.editDot { display: inline-block; cursor: pointer; margin-left: .35em; vertical-align: .05em; color: var(--edit); opacity: .85; text-indent: 0 }
+.editDot:hover { opacity: 1 }
+.editDot .ic { display: inline-block; width: .82em; height: .82em }
+.diff-del { color: var(--danger); text-decoration: line-through; text-decoration-thickness: 1px; opacity: .85 }
+.diff-ins { color: var(--edit); background: var(--editbg); border-radius: 3px; padding: 0 .06em }
+p.isDeleted { opacity: .7 }
+/* read mode: a paragraph whose tracked change deletes it leaves the page entirely */
+p.isCut { display: none !important }
+
+/* ---------- selection toolbar (Note · Edit · Mark) ---------- */
+#selTools {
+  position: absolute; z-index: 55; transform: translate(-50%, -118%); display: none; gap: .25rem; white-space: nowrap;
+  background: var(--fg); border-radius: 12px; padding: .22rem; box-shadow: 0 6px 22px var(--shadow);
+}
+#selTools.show { display: flex }
+#selTools button {
+  display: inline-flex; align-items: center; gap: .28rem; font: inherit; font-size: .78rem; cursor: pointer;
+  border: 0; border-radius: 9px; padding: .34rem .55rem; background: transparent; color: var(--bg);
+}
+#selTools button:hover { background: rgba(255, 255, 255, .14) }
+#selTools .ic { width: .95rem; height: .95rem }
+#selTools:after {
+  content: ""; position: absolute; left: 50%; bottom: -6px; transform: translateX(-50%);
+  border: 6px solid transparent; border-top-color: var(--fg); border-bottom: 0;
+}
+
+/* ---------- composer / editor ---------- */
+.composer { margin: .35rem 0 1.1rem; background: var(--panel); border: 1px solid var(--rule); border-radius: 10px; padding: .6rem; text-indent: 0 }
+.composer .quote { font-size: .82em; color: var(--muted); font-style: italic; margin: 0 0 .45rem; border-left: 2px solid var(--rule); padding-left: .55rem }
+.composer textarea { display: block; width: 100%; min-height: 4.2rem; font: inherit; font-size: .9em; color: var(--fg); background: var(--bg); border: 1px solid var(--rule); border-radius: 8px; padding: .5rem; resize: vertical }
+.composer .row { display: flex; gap: .4rem; margin-top: .5rem; align-items: center }
+.composer button { font: inherit; font-size: .82rem; cursor: pointer; border-radius: 8px; padding: .35rem .75rem; border: 1px solid var(--rule); background: var(--bg); color: var(--fg) }
+.composer button.primary { background: var(--accent); color: #fff; border-color: var(--accent) }
+.composer button.del { margin-left: auto; color: var(--danger); border-color: transparent; background: transparent }
+.composer.edit textarea { min-height: 7rem; line-height: 1.55 }
+.composer.edit button.primary { background: var(--edit); border-color: var(--edit) }
+.composer .hint { font-size: .74rem; color: var(--muted); margin: .4rem 0 0; text-indent: 0 }
+
+/* ---------- inline (in-flow) editing: the paragraph is edited in place ----------
+   Justification and hyphenation are switched OFF while editing so the caret does
+   not jump as the browser re-justifies on every keystroke, and pre-wrap is what
+   makes a newline typed into the paragraph survive into innerText. */
+p.editingP {
+  background: var(--editbg); outline: 2px solid var(--edit); outline-offset: 6px; border-radius: 4px;
+  text-align: left; hyphens: none; caret-color: var(--edit); white-space: pre-wrap;
+}
+
+/* ---------- direct inline editing ----------
+   touch-action:manipulation stops iOS eating the second tap of a double-tap as a
+   zoom gesture. The hover affordance is for pointing devices only. */
+:root[data-inline="on"] #book p.para { cursor: text; touch-action: manipulation }
+@media (pointer: fine) {
+  :root[data-inline="on"] #book p.para:not(.editingP):hover {
+    background: var(--editbg); border-radius: 4px;
+    box-shadow: 0 0 0 6px var(--editbg);
+  }
+}
+
+/* On touch the editor bar DOCKS to the bottom of the visual viewport, so it
+   rides on top of the soft keyboard instead of floating over the text. */
+.popover.docked {
+  width: auto; border-radius: 12px 12px 0 0;
+  border-left: 0; border-right: 0; border-bottom: 0;
+  box-shadow: 0 -8px 28px var(--shadow);
+}
+.popover.docked .caret { display: none }
+
+/* ---------- anchored floating popover: annotate WITHOUT moving the page ----------
+   position:fixed, so the document never reflows and the scroll position never
+   changes: you keep your exact place. */
+.popover {
+  position: fixed; z-index: 88; width: min(30rem, calc(100vw - 1.4rem));
+  background: var(--panel); border: 1px solid var(--rule); border-radius: 12px;
+  box-shadow: 0 10px 34px var(--shadow), 0 2px 8px var(--shadow); padding: .6rem;
+  overflow: auto; -webkit-overflow-scrolling: touch; animation: popIn .14s ease;
+}
+@keyframes popIn { from { opacity: 0; transform: translateY(4px) scale(.99) } to { opacity: 1; transform: none } }
+.popover .composer { margin: 0; border: 0; background: transparent; padding: 0 }
+.popover.editBar { width: min(22rem, calc(100vw - 1.4rem)) }
+.popover .caret {
+  position: absolute; width: .7rem; height: .7rem; background: var(--panel);
+  border-left: 1px solid var(--rule); border-top: 1px solid var(--rule); transform: rotate(45deg);
+}
+.popover.below .caret { top: -.38rem }
+.popover.above .caret { bottom: -.38rem; transform: rotate(225deg) }
+
+/* ---------- scrim + drawer + settings popover ---------- */
+#scrim { position: fixed; inset: 0; background: rgba(0, 0, 0, .35); opacity: 0; pointer-events: none; transition: opacity .2s; z-index: 70 }
+#scrim.open { opacity: 1; pointer-events: auto }
+aside#drawer {
+  position: fixed; top: 0; left: 0; height: 100%; width: min(23rem, 88vw); z-index: 71; background: var(--panel);
+  border-right: 1px solid var(--rule); box-shadow: 0 0 40px var(--shadow); transition: transform .22s ease;
+  overflow-y: auto; padding: 0 0 2rem; transform: translateX(-102%);
+}
+aside#drawer.open { transform: none }
+.dhead { position: sticky; top: 0; background: var(--panel); padding: 1rem 1.2rem .7rem; border-bottom: 1px solid var(--rule); z-index: 1 }
+.dhead .bktitle { font-size: 1rem; font-weight: 600; margin: 0 0 .3rem }
+.dhead .pct { font-size: .72rem; color: var(--muted); letter-spacing: .04em }
+.dhead .mini { height: 3px; border-radius: 2px; background: var(--rule); margin-top: .5rem; overflow: hidden }
+.dhead .mini i { display: block; height: 100%; width: 0; background: var(--accent) }
+.sect { padding: .4rem 0 .2rem }
+.sectLbl { font-size: .66rem; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin: .9rem 1.2rem .3rem }
+nav#tocNav a { display: block; padding: .5rem 1.2rem; color: var(--fg); text-decoration: none; font-size: .98rem; border-left: 3px solid transparent }
+nav#tocNav a:hover { background: var(--bar) }
+nav#tocNav a.active { border-left-color: var(--accent); color: var(--accent); font-weight: 600 }
+.bmrow { display: flex; flex-direction: column; gap: .15rem; margin: .2rem 0 }
+.bmrow button {
+  display: flex; align-items: center; gap: .5rem; width: 100%; text-align: left; font: inherit; font-size: .92rem;
+  color: var(--fg); background: transparent; border: 0; cursor: pointer; padding: .5rem 1.2rem;
+}
+.bmrow button:hover { background: var(--bar) }
+.bmrow button .ic { color: var(--accent) }
+.bmrow button[disabled] { color: var(--muted); cursor: default }
+.bmrow button[disabled] .ic { color: var(--muted) }
+
+#bookPanel { border-top: 1px solid var(--rule); margin-top: .6rem; padding-top: .4rem }
+#bookPanel .bookHint { font-size: .74rem; opacity: .6; margin: .15rem .2rem .3rem; line-height: 1.35 }
+#feedbackPanel { border-top: 1px solid var(--rule); margin-top: .6rem; padding-top: .4rem }
+.tabs { display: flex; gap: .3rem; margin: .6rem 1.2rem 1rem }
+.tabs button { flex: 1; font: inherit; font-size: .8rem; cursor: pointer; border-radius: 8px; padding: .4rem; border: 1px solid var(--rule); background: var(--bg); color: var(--muted) }
+.tabs button.active { background: var(--panel); color: var(--fg); border-color: var(--accent); font-weight: 600 }
+.exportRow { display: flex; gap: .4rem; margin: 0 1.2rem 1rem }
+.exportRow button {
+  flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: .35rem; font: inherit; font-size: .8rem;
+  cursor: pointer; border-radius: 8px; padding: .5rem; border: 1px solid var(--rule); background: var(--bg); color: var(--fg);
+}
+.exportRow button.primary { background: var(--accent); color: #fff; border-color: var(--accent) }
+.exportRow .ic { width: 1rem; height: 1rem }
+.noteItem { padding: .7rem 1.2rem; border-top: 1px solid var(--rule) }
+.noteItem .ch { font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: .25rem }
+.noteItem .q { font-size: .82em; font-style: italic; color: var(--muted); margin: 0 0 .3rem }
+.noteItem .t { font-size: .92em; white-space: pre-wrap }
+.noteItem .acts, .revItem .acts { display: flex; gap: .9rem; margin-top: .4rem }
+.noteItem .acts a, .revItem .acts a { font-size: .78rem; color: var(--accent); cursor: pointer; text-decoration: none }
+.noteItem .acts a.del, .revItem .acts a.del { color: var(--danger) }
+.revItem { padding: .7rem 1.2rem; border-top: 1px solid var(--rule) }
+.revItem .ch { font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: .35rem }
+.revItem .diff { font-size: .86em; line-height: 1.5 }
+.revItem .tag { display: inline-block; font-size: .64rem; letter-spacing: .1em; text-transform: uppercase; color: var(--edit); border: 1px solid var(--edit); border-radius: 5px; padding: .02rem .3rem; margin-bottom: .3rem }
+.revItem .tag.cut { color: var(--danger); border-color: var(--danger) }
+.resHead { margin: 1.1rem 1.2rem .1rem; font-size: .64rem; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); border-top: 1px solid var(--rule); padding-top: .85rem }
+.noteItem.resolved, .revItem.resolved { opacity: .6 }
+.doneTag { display: inline-block; font-size: .58rem; letter-spacing: .08em; text-transform: uppercase; color: var(--edit); border: 1px solid var(--edit); border-radius: 5px; padding: .02rem .32rem; vertical-align: .12em; margin-left: .3rem }
+.noteItem .acts a.res, .revItem .acts a.res { color: var(--edit) }
+.noteItem .acts a.reopen, .revItem .acts a.reopen { color: var(--muted) }
+.empty { color: var(--muted); padding: 1rem 1.2rem; font-size: .9rem }
+
+/* settings popover */
+#settings {
+  position: fixed; top: 3.2rem; right: .6rem; z-index: 72; width: min(17rem, 92vw); background: var(--panel);
+  border: 1px solid var(--rule); border-radius: 12px; box-shadow: 0 10px 34px var(--shadow); padding: .7rem;
+  opacity: 0; transform: translateY(-6px); pointer-events: none; transition: opacity .16s, transform .16s;
+}
+#settings.open { opacity: 1; transform: none; pointer-events: auto }
+.setRow { display: flex; align-items: center; gap: .5rem; padding: .35rem .2rem }
+.setRow .lbl { flex: 1; font-size: .84rem; color: var(--muted) }
+.segbtn {
+  display: inline-flex; align-items: center; justify-content: center; min-width: 2.1rem; height: 2.1rem; font: inherit; font-size: .86rem;
+  cursor: pointer; border: 1px solid var(--rule); background: var(--bg); color: var(--fg); border-radius: 8px; padding: 0 .5rem;
+}
+.segbtn.active { border-color: var(--accent); color: var(--accent); font-weight: 600 }
+.seg { display: inline-flex; gap: .3rem }
+.setHint { font-size: .72rem; line-height: 1.4; color: var(--muted); margin: .1rem .2rem .3rem }
+.setHint.hide { display: none }
+.setLbl { font-size: .66rem; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); margin: .7rem .2rem .2rem; border-top: 1px solid var(--rule); padding-top: .6rem }
+
+#toast {
+  position: fixed; left: 50%; bottom: 1.6rem; transform: translateX(-50%) translateY(1.5rem);
+  background: var(--fg); color: var(--bg); padding: .55rem 1rem; border-radius: 999px; font-size: .9rem;
+  opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 80; box-shadow: 0 6px 24px var(--shadow);
+}
+#toast.show { opacity: 1; transform: translateX(-50%) translateY(0) }
+code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .85em }
+
+/* Motion is decoration here; nothing depends on it. */
+@media (prefers-reduced-motion: reduce) {
+  .popover { animation: none }
+  #scrim, aside#drawer, #settings, #toast, #progress { transition: none }
+}
+
+/* ---------- PRINT / SAVE AS PDF ----------
+   The browser's print dialog is the PDF engine: no bundled library, nothing
+   fetched (the CSP forbids external scripts), and the reader keeps control of
+   paper size and margins. Everything that is interface disappears; what is left
+   is the manuscript. */
+@media print {
+  @page { margin: 18mm 16mm; }
+  html, body { background: #fff !important; color: #000 !important; height: auto !important; overflow: visible !important }
+  #bar, #drawer, #scrim, #settings, #selTools, #ticks, #progress, #toast,
+  #btnMenu, #btnMode, #btnSettings { display: none !important }
+  main#book {
+    max-width: none !important; margin: 0 !important; padding: 0 !important;
+    font-size: 11.5pt !important; line-height: 1.5 !important;
+  }
+  .titlepage { text-align: center; page-break-after: always; padding-top: 32vh }
+  .titlepage h1 { font-size: 28pt !important }
+  section.chapter { page-break-before: always }
+  section.chapter:first-of-type { page-break-before: avoid }
+  h2.chap { page-break-after: avoid; font-size: 16pt !important; margin-top: 0 !important }
+  h2.chap .kicker { display: block; font-size: 10pt; letter-spacing: .08em; text-transform: uppercase; opacity: .65 }
+  p { orphans: 3; widows: 3; margin: 0 0 .55em !important; text-align: justify }
+  /* Review furniture must never reach paper. These are the real class names in
+     this reader: margin bars are ::before/::after on p.hasNote / p.hasEdit, the
+     inline affordances are .noteDot / .editDot, and applied rewrites are shown
+     as .diff-ins / .diff-del. A printed book shows none of it. */
+  .noteDot, .editDot, .popover, #toast { display: none !important }
+  p.hasNote::before, p.hasEdit::after, p.hasNote.hasEdit::after { display: none !important; content: none !important }
+  p.hasNote, p.hasEdit, p.editingP {
+    background: none !important; outline: 0 !important;
+    box-shadow: none !important; color: inherit !important;
+  }
+  .diff-ins, .diff-del {
+    color: inherit !important; background: none !important;
+    text-decoration: none !important; padding: 0 !important;
+  }
+  mark { background: none !important; color: inherit !important }
+  a { color: inherit !important; text-decoration: none !important }
+}

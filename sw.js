@@ -4,17 +4,40 @@
    the markdown with a ?v= cache-buster and cache:"no-store"; we normalize the
    URL (strip the query) for the cache key so offline lookups still hit. The
    /api/ sync endpoint is never cached (it is dynamic and authenticated). */
-const VERSION = "ardenmoor-v37";
-const SHELL = [
-  "/", "/reader.html", "/manifest.webmanifest",
-  "/icon-192.png", "/icon-512.png", "/apple-touch-icon.png"
+const VERSION = "ardenmoor-v38";
+
+/* THE APPLICATION GRAPH. If a file is missing from this list the app 404s
+   offline — and unlike the old single self-contained file, a missing module is a
+   silent white screen. test/check-shell.mjs walks every import in app/*.js and
+   every src/href in reader.html and fails if anything here is missing. Run it
+   before every deploy, and bump VERSION by hand on every content or app push. */
+const APP = [
+  "reader.html", "app/app.css",
+  "app/boot.js", "app/config.js", "app/dom.js", "app/schedule.js", "app/toast.js",
+  "app/icons.js", "app/text.js", "app/diff.js", "app/storage.js", "app/store.js",
+  "app/manuscript.js", "app/render.js", "app/popover.js", "app/editor.js",
+  "app/composer.js", "app/gestures.js", "app/sync.js", "app/exports.js",
+  "app/panels.js", "app/shell.js", "app/position.js", "app/verify.js"
 ];
+const EXTRAS = ["/", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
+const abs = (p) => new URL(p, self.registration.scope).pathname;
 
 self.addEventListener("install", (event) => {
   event.waitUntil((async () => {
     const cache = await caches.open(VERSION);
-    // App shell (best-effort per item so one 404 doesn't fail the whole install).
-    await Promise.all(SHELL.map((u) => cache.add(u).catch(() => {})));
+    /* The app graph is ALL-OR-NOTHING. Best-effort per item is right for icons
+       but catastrophic for modules: a partial install is a white screen offline.
+       A throw here fails the install and the PREVIOUS worker keeps serving,
+       which is the correct failure mode. {cache:"reload"} bypasses the browser's
+       own HTTP cache so a VERSION bump genuinely fetches fresh files. */
+    await Promise.all(APP.map(async (p) => {
+      const u = abs(p);
+      const r = await fetch(u, { cache: "reload" });
+      if (!r.ok) throw new Error("precache failed: " + u);
+      await cache.put(u, r);
+    }));
+    // Icons and the manifest are best-effort: one 404 must not fail the install.
+    await Promise.all(EXTRAS.map((u) => cache.add(abs(u)).catch(() => {})));
     // Precache the whole book so it is available offline right after install.
     try {
       const mres = await fetch("manuscript/manifest.json", { cache: "no-store" });
@@ -67,12 +90,11 @@ self.addEventListener("fetch", (event) => {
   }
 
   // Navigations (address bar, PWA launch icon, the start_url "/"): always serve
-  // the app shell. Network-first so the freshest reader.html wins when online;
-  // fall back to the cached shell when offline. This makes "/" work offline
-  // regardless of any server-side "/"→/reader.html rewrite, and guarantees a bare
-  // directory index is never cache-served in place of the app. We match the root
-  // and any directory path explicitly, not only req.mode==="navigate", because a
-  // SW-controlled offline navigation does not always surface mode "navigate".
+  // the app shell. This makes "/" work offline regardless of any server-side
+  // "/"→/reader.html rewrite, and guarantees a bare directory index is never
+  // cache-served in place of the app. We match the root and any directory path
+  // explicitly, not only req.mode==="navigate", because a SW-controlled offline
+  // navigation does not always surface mode "navigate".
   const isNav = req.mode === "navigate" || url.pathname === "/" || url.pathname.endsWith("/");
   if (isNav) {
     event.respondWith((async () => {
@@ -91,8 +113,12 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Other same-origin assets: cache-first, then network, then the cached reader
-  // as a last resort.
+  /* Other same-origin assets — which is where every app/*.js module lands:
+     cache-first, then network, then the cached reader as a last resort.
+     Cache-first is exactly right for the module graph, because it guarantees
+     reader.html and its modules are always served from the SAME cache version.
+     A mid-session worker swap therefore cannot produce a mixed-version app,
+     which is also why app/ contains no dynamic import(). */
   event.respondWith((async () => {
     const hit = await caches.match(req, { ignoreSearch: true });
     if (hit) return hit;

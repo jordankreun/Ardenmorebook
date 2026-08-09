@@ -34,7 +34,7 @@ He drank his tea and gave the question its full consideration. It took some whil
 
 "You have flour." He set the cup down on the hearthstone. "You have no oven."
 
-And there the matter closed, as thoroughly as if it had been put to the parish and voted on, and I stood in my own house with my own tea in my hand and could not find one word to say against it. He came four days out of the seven that week. On two of the three he did not come, two loaves came up the day after instead of one, and no more was said about that than about anything else.
+And there the matter closed, as thoroughly as if it had been put to the parish and voted on, and I stood in my own house with my own tea in my hand and could not find one word to say against it. He came four days out of the seven that week. On two of the three he missed, two loaves came up the day after instead of one, and no more was said about that than about anything else.
 
 The days he did not come, I worked. That is the whole of what there is to say about a winter on a hill: a man at a bench in a small room, with the light failing at four and a lamp that does not care. I filed housings. I read the same six pages of the black book of anchorings eleven times and could not afterward have told you what was in them. I learned that a man alone will talk to a kettle, and that the kettle's half of the conversation is the better half, being brief and honest and always about heat.
 
@@ -76,7 +76,7 @@ On the fourth day I laid the ward against the wet into the sill-beams while they
 
 It did its work from the first day: the cart under cover, the stores dry, my own clutter out of the Study at last, and Snow home on her own ground for the first time since I had bought it, out of the spare stall at the inn where she had been boarding all that long summer at Lira's convenience and my expense.
 
-I went down for her on the morning the barn was tight enough to put a horse in, and I went down on foot. Walking two miles to fetch my own horse struck me, somewhere about the turn of the track, as a fair enough portrait of the year behind me.
+I went down for her on the morning the barn was tight enough to put a horse in, and I went down on foot. Walking down to fetch my own horse struck me, somewhere about the turn of the track, as a fair enough portrait of the year behind me.
 
 Lira had the reckoning ready. She did not go and fetch it when I asked; it was already under the counter with a stone on it, and had been there some while, waiting on the day I should remember that I owned a horse and a barn at the same time. She set it in front of me, turned it the right way round, stood back, and watched me read it. That is how Lira hands a man his bill.
 
@@ -252,7 +252,7 @@ He stopped once, on the seventh trip or the eighth, in the Study doorway with a 
 
 "It's bigger with the bed out of it," he said, and went on down the shoulder with the blankets.
 
-The last load went down in the last of the light. Then I climbed the shoulder once more for nothing at all, only to look, and stood in the doorway of a swept room with a bench along the wall and no man's bed in it anywhere. I shut the door on it and went down to my house.
+The last load went down in the last of the light. Then I climbed back up the shoulder once more for nothing at all, only to look. The room stood swept and squared and quiet. I shut the door on it and went down to my house.
 
 And that night I lit a fire in a hearth I had drawn myself, in a house the right size for a man, and I heated water from my own cold spring and washed the day off in my own small alcove, and I sat afterward in the one warm room with the lumen throwing its amber on the pale new wood and the dark coming down soft outside, and I was, without qualification and without the old suspicion of it, content.
 

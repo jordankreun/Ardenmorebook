@@ -16,7 +16,7 @@ I will not pretend to you that anything happened up there. The honest truth is t
 
 Then I paced it, because I have never in my life been able to stand on an open piece of ground and not pace it. That is my father's doing and none of mine. He walked every site he ever built on before he would put a pencil to paper, counting under his breath with his hands behind him, and I had the habit off him before I was ten and have never wanted it gone. The crown ran a little over ninety of my strides the long way, north and south, and something under seventy across. It was not flat, whatever it looked from below. It fell away perhaps a foot and a half toward the west into a shallow dish where the grass grew coarse and dark, and standing in the middle of that dish I knew without any digging that it held water after rain and gave it up slowly. To the south the ground shrugged off clean and dried. The few thorn bushes up there all leaned the one way, and told me where the weather came from more honestly than any man in the valley would have.
 
-I did not choose a spot. I took the measure of a piece of ground out of long habit, and put the figures away, and thought no more of them for months.
+I did not choose a spot. I took the measure of a piece of ground out of long habit, and put the figures away, and did not look at them again for months.
 
 I stood up there a good while. It is a failing of mine, standing and looking; I have been accused of it by people who loved me, and never troubled to mend it. The truth is that I had come a long way to a place I had no reason to be, and standing on the top of that green and silent hill in the new spring light, with the wind gone soft and the whole valley breathing below me, I felt that I did not want to leave. That was all. It does not sound like much. But I had spent three years making very sure I wanted nothing I could be made to lose, and had got good enough at it that the wanting of anything, even a hill, even the plain green quiet of a morning, came at me as a kind of alarm. I stood with it a while, the way you stand with a sore tooth, pressing on it to see how bad it is. Then I went down to find the man who could tell me whether the ground was as good as it looked, because I did not yet trust myself to say so, and because there are questions a man should not answer alone.
 
@@ -38,7 +38,7 @@ The horse was the loudest business in the room and the least urgent. One of the 
 
 "Then you knew it and you gave the money anyway, and that's not the horse's doing."
 
-This appeared to be the place they had been arriving at all week, and the man who had bought the gelding took it the way you take a wall you have walked into before. He turned round on the bench and found me.
+This appeared to be the place they had been arriving at all week. The man who had bought the gelding took it like a wall he had walked into before, and turned round on the bench, and found me.
 
 "You'll have come in on a horse," he said.
 
@@ -50,9 +50,9 @@ I allowed that I had.
 
 "There, then." He said it to the table as though I had settled something, and the table declined to be settled, and one of them asked me straight out what I had given for her.
 
-I told them. There was a silence of a particular quality, the kind a room makes when it has heard a figure and is being polite about it, and then the man across the table laughed into his cup and said, "Well. He'll not be lecturing you on horses," and the whole bench came apart. The woman who had had the geese called something over from the fire about the last horse he had bought and what had become of it, and it went up again. When it had died down the man with the gelding was looking at me with considerably more warmth than he had shown a minute before, having found at last another man in the room who had been robbed.
+I told them. There was a silence of a particular quality, the kind a room makes when it has heard a figure and is being polite about it, and then the man across the table laughed into his cup and said, "Well. He'll not be lecturing you on horses," and the whole bench came apart. The woman with the geese called something over from the fire about the last horse he had bought and what had become of it, and it went up again. When it had died down the man with the gelding was looking at me with considerably more warmth than he had shown a minute before, having found at last another man in the room who had been robbed.
 
-I have been thanked for less. It cost me nothing and bought me the first easy look anybody in that place had given me.
+I have been thanked for less. It bought me the first easy look anybody in that room had given me.
 
 And there were, at the long table by the window, two men, an older and a younger, who had the look of kin.
 
@@ -84,7 +84,7 @@ That got the room. Somebody at the back began totting up what the hill had done 
 
 "You'll want a good mason," the first quarryman said, coming back round. "And then you'll want another."
 
-"And a third to fetch the second one's stone," said the woman who had had the geese, and did not look up from her plate.
+"And a third to fetch the second one's stone," said the woman with the geese, and did not look up from her plate.
 
 I said that I had heard as much, which was near enough true, and that I would take it under advisement, which was also true, though not in the sense they meant it. The moment passed, and the room let it pass, and went back with some relief to the horse and the weather. I had the shape of the thing now. The hill had a name in its own valley, and the name was *the ground nothing stands on*, and a stranger proposing to stand something on it was, to these good and practical people, a mild and familiar species of fool. I did not hold it against them, and I did not believe them either. What I heard in the warning was superstition and poor masonry in about equal measure, an old failed wall or two grown over the years into a law of nature, the sort of thing a valley will tell itself because it sits easier than allowing that a few men once built badly on a difficult slope. It did not land on me as a caution. It landed, if I am honest, as a challenge, which tells you more about the state of me that spring than it does about the hill.
 
@@ -108,7 +108,7 @@ So I did not see the rest of it that day. I spent what was left of the afternoon
 
 I was bad at it to begin with. My room took four steps to cross and held nothing at all that wanted doing. I went up to it, and stood in it, and came down again. I stood in the yard. I cleaned my boots. They had not needed it by the standards of the boots I have owned, and afterwards I found myself holding the cloth with nothing to put it to. A man who has spent three years filling his hours on purpose finds an empty afternoon a queer sort of country. There was no post to answer and no board to work at. I could not even go up the hill again, having been up it, and being unwilling to become the man who climbs a hill twice in one day out of nerves.
 
-So I went and saw to my horse instead, which is what a man does when he cannot think what else to do with his hands.
+So I went and saw to my horse instead. That is what a man does when he cannot think what else to do with his hands.
 
 Snow had been put in a spare stall at the end of the range and had formed a low opinion of it. She had also, in the manner of her kind, eaten every scrap she was given and then made it plain that the giving had been insufficient. I found a brush and started at her shoulder and worked back, and the dust came off her in the flat bars of light from the door, and neither of us said anything for a while. It was the most useful I had felt since the far end of the winter.
 
@@ -148,7 +148,7 @@ Nobody said so. Nobody came and sat down opposite me and asked. What happened in
 
 The man who had been patching his gable with reed that morning turned out to be a man with views on roofs, and gave the whole of them to his neighbour at a volume calculated for my benefit, without once saying the word hill. Another told a long story about a byre his uncle had built on a wet corner, and how it had stood forty years and would stand forty more, and the moral of it, so far as I could follow it, was that his uncle had been a wonder and I was not his uncle. One man did come and ask me directly whether I would be wanting hands, and I said I expected I would in time, and half the room heard me say it. Later, quietly and from further off, somebody wanted to know whether it was a trade a man could put a son to. I said it was not, and that I was sorry for it, and he said, "Ah," and let it go.
 
-They were not unfriendly. There is a particular enjoyment a small place takes in a stranger who has just announced he will do the one thing everybody knows cannot be done, and there is nothing cruel in it anywhere. I was the evening's entertainment. I had brought it on myself. I ate my supper and let them have it.
+They were not unfriendly. There is a particular enjoyment a small place takes in a stranger who has just announced he will do the one thing everybody knows cannot be done. I was the evening's entertainment. I had brought it on myself. I ate my supper and let them have it.
 
 Lira fed me without being asked and filled my cup once, and when I had done she stood a moment with the empty plate in her hand.
 
@@ -162,7 +162,7 @@ I slept a second night under Lira's eaves, and it was the following day that we 
 
 The morning came in with a different weather on it. The night had blown the softness out of the air, and I woke to a hard bright sky with high cloud running across it fast enough to be worth watching. Lira set porridge in front of me, and then bread and hard cheese folded into a cloth beside the bowl. "You'll be out all day." It was not a question and it did not want an answer.
 
-Cael was at the door before I had my coat on, and did not come in. He stood on the step in a coat older than the one he had worn to the inn and a pair of boots mended twice at the toe, his stick in one hand and the other in his pocket, looking past me into the taproom he had been standing in ten thousand times.
+Cael was at the door before I had my coat on, and did not come in. He stood on the step in a coat older than the one he had worn to the inn and a pair of boots mended twice at the toe, his stick in one hand and the other in his pocket, looking past me into a taproom he had been standing in all his life.
 
 "You've boots," he said.
 
@@ -192,11 +192,99 @@ We had come up by then onto the first of the rough, where the walls give out and
 
 Cael laughed at that, a short surprised bark of a laugh, and said his grandmother might have liked the sound of it, and we walked on.
 
-We walked it that afternoon, the long slow way round, the way you walk a thing you mean to be answerable for. Cael went at the pace his knees allowed and I was glad of it, because it was the right pace for the ground, slow enough to see. He showed me the spring that came up cold and clear out of the hill's south face and had never once, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right. He showed me the woodland, good mixed timber, oak and ash and a stand of larch a former owner had planted and not lived to cut. He showed me where the grade eased along the eastern slope into a shelf of deeper, greener grass, and I felt something about that shelf that I had not the knowledge yet to name and did not mention, and Cael did not mention it either, though I caught him watching me not mention it. And all the while the boy Soren went ahead of us and to the side, quiet as weather, stopping now and then to crouch over some particular patch of ground with the total absorption of a child at his real work, and once, near the crown, he stood for a long moment with his bare hand flat on a stone, and then took it off, and came on, and said nothing. Children are forever touching things. It is one of the better habits we talk them out of.
+After a bit he came back round to the agent. He had enjoyed that business the first time and meant to have it again.
+
+"He'd not sit down, that first evening. Stood in my kitchen with his hat in his hands till I'd told him twice. Then out comes this map." Cael held his palms apart to show me, and they went further apart than I expected. "Big as a table. And near all of it white. He'd the hill on it, and the beck, and the road in, and after that it was paper. So he says, whose is that? And I says, that's the Tolls'. And he writes it down. And he says, whose is that? And I says, nobody's, that's the common where the strips were, and it's been nobody's since before my grandfather. And he writes that down too, in a hand so small I couldn't read it upside down, and I'd have liked to."
+
+"He'd have turned it round for you," I said. "You'd only to ask."
+
+"Aye, well. I didn't ask." He smiled at the path in front of him. "Second evening he came back and it wasn't white any more. Third evening he'd been at the parish clerk and had the strips copied out fair, forty years of them, every corner and every argument anybody ever had about a corner, and he set it in front of me and asked was that right. And it was right. It was more right than any man in this valley could have told you, and he'd been here two days." He shook his head slowly. "I've never once in my life been so thoroughly attended to. The boy fell asleep under my own table listening to it, and I'd not have blamed him, only I was awake the whole while."
+
+That was the first thing anybody in that valley ever said to me that made me properly homesick for Penworth.
+
+We walked it that afternoon, the long slow way round, the way you walk a thing you mean to be answerable for. Cael went at the pace his knees allowed and I was glad of it, because it was the right pace for the ground, slow enough to see.
+
+We came down off the rough into the bottoms in the early part of the afternoon, and the bottoms surprised me. I had been told cheap land and had come expecting to be quietly disappointed. What I got was a mile and more of flat black ground along the beck, hedged in places and open in others, the old ridge and furrow still showing under the grass where it had been ploughed by men whose grandsons were dead.
+
+Cael put the stick in and turned up a wedge of it and let me take it off the end. It came apart in my fingers into a dark crumb, cool, with the last of the winter's wet still in it, and it smelled the way good ground smells, like nothing else in the world and a little like rain a long way off.
+
+"That's not been asked for anything in ten years," he said.
+
+"It looks as though it could be."
+
+"It could. It has been. That corner grew oats when I was courting, and grew them well." He swung the stick to the left. "That one was in grass and then it was in nothing. That one past the thorn was two men's, and then it was one man's, and now it's yours." He said it with no particular weight on it. "The drains are all in yet, under, if a man went and found them. The hedges want laying. There's a gate at the far end wants a hinge, and there's another one wired shut."
+
+I looked where he looked. There was a field gate at the end of a green track, three turns of fence wire round the post, rusted brown, the grass grown up through the bottom bar. Somebody had shut it and gone away. I gave it that and nothing more, and looked back at the field, because the field was the thing worth looking at, and it was flat and black and mine, and I could not for the life of me see what was difficult about any of it.
+
+That is not a figure of speech. I stood in the best farmland I had ever put a boot on and understood exactly nothing about it, and was pleased with myself, and Cael let me be pleased.
+
+"Four men had this," he said, as we went along the headland. "Four men and a parish. Now it's the one holding, and that's the first honest thing anybody's done to it since I was a lad."
+
+I said that it seemed to me the simplest part of the whole purchase.
+
+Cael did not answer that.
+
+He showed me the spring that came up cold and clear out of the hill's south face and had never once, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right.
+
+It came out under a lip of grey rock a little below the shoulder on the south side, into a basin the water had worn for itself in the stone, and over the edge of that and away down a green line of cress and rush you could follow with your eye for half a mile. It made almost no noise. I have known springs that announce themselves. This one simply arrived.
+
+Cael got down to it without ceremony, put his hand in, and drank, and then stood back to let me do the same. It was so cold it hurt the bones of my hand before it got as far as my teeth. It tasted of stone and of nothing at all. That is what the good ones taste of. I drank more of it than I wanted because it was there.
+
+"Never failed," Cael said. "Not the dry summer when the beck went to a trickle and they were carting water up the low road. Not in my grandmother's time, and she'd have made a note of it. There's not a farm in this valley can say the same."
+
+I asked him what it gave in August. He said nobody had ever measured it, and that it filled a two-gallon can in about the time it took to fill a two-gallon can. That is the answer of a man who has never in his life needed a number for it.
+
+I got down on my heels and watched it come. I am a poor hand at leaving a thing alone. I could see the fall of the ground away from the basin, and I could see that every foot of that fall went away from the crown and not toward it, and I did the arithmetic without meaning to and did not care for the answer. A man living on the top of that hill would be carrying his water up to it. There is no getting round that with cleverness, and I have watched better men than me try.
+
+"She'd stop here," Cael said. "Coming and going, both. Every time." He was looking at the water and not at me. "I came up after her once in a hailstorm, sent to fetch her in. Ten or eleven, I'd have been. She was sat on the top of it with her shawl over her head like a tent and no more put out than a stone, and the first thing she said to me was that I was wet and ought to have brought a coat." He laughed, short, at a thing forty years old. "Then she came down without a word of argument and made the tea out of the can. She held it made better tea than the beck did. I never could taste the difference. I never told her so, either."
+
+I said the spring was the best thing on the place. Cael took the compliment as though he had made it himself.
+
+He showed me the woodland, good mixed timber, oak and ash and a stand of larch a former owner had planted and not lived to cut.
+
+The larch was the odd thing in that wood and the best of it. Somebody had put them in rows. You could still see the rows if you stood at the right end of them, forty or fifty years of growth gone up straight and clean out of ground nobody ever came back for, the lower limbs long dead and the light coming down green through the top. There is no sound in a larch wood in spring. The needles take it.
+
+"Harrow put those in," Cael said. "Or paid a man to. He'd a notion he'd cut them at sixty year and set his sons up on the proceeds."
+
+"And?"
+
+"And he died six year back with the cutting still in front of him, and his people went down the coast, and there they stand."
+
+I walked in among them a while. A larch grown that straight in company is a builder's dream and a woodman's easy day: no side branch worth the name for the first twenty feet, and a butt you could roll onto a saw without having to think about it. I set my shoulder against one and looked up the length of it and did the sum every man does in a wood he has just come to own. What would it fetch? Then I did the second sum. What would it cost to put it in front of anybody willing to pay? The second sum ate the first and asked for more.
+
+There was no road. There was a lane that gave up at the bottom of the wood, a beck with no bridge that would carry a loaded wain, and four days of frontier road between the whole business and the nearest man with a yard or a siding to spend money in. The timber standing in that wood was worth real money in Vethmark and next to nothing where it was, and where it was, it was going to keep on being.
+
+"The mill'll cut you whatever you want cut," Cael said, watching me arrive at all this. "He'll not cheat you, either. But he's a valley trade. He can't eat a wood."
+
+He showed me where the grade eased along the eastern slope into a shelf of deeper, greener grass, and I felt something about that shelf that I had not the knowledge yet to name and did not mention, and Cael did not mention it either, though I caught him watching me not mention it.
+
+Twice that afternoon we stopped because the boy had.
+
+The second time was on the hill's own flank, coming back up, at a patch of turf a shade greener than what was round it. He was down on his heels with his fingers spread in the grass. Cael stopped when he stopped and waited without a word, so I waited too.
+
+"What've you got?" I said.
+
+He did not look up. "It's soft."
+
+I came over and put my boot on it, and it was, a little. It gave the way ground gives when there is water not far under it. I would not have stopped for it.
+
+"It comes up here in the wet," he said. "Not a spring. Just wet." Then he stood, and wiped his hand down his trousers, and went on ahead of us.
+
+"He's got the whole of this hill in his head," Cael said, when the boy was far enough off. "Every stone of it. He'll not tell you so, and don't you ask him for it, for he'll go quiet on you and then you've lost it." He set off after him. "He was up here before he could walk it. I carried him."
+
+And all the while the boy Soren went ahead of us and to the side, quiet as weather, stopping now and then to crouch over some particular patch of ground with the total absorption of a child at his real work, and once, near the crown, he stood for a long moment with his bare hand flat on a stone, and then took it off, and came on, and said nothing. Children are forever touching things. It is one of the better habits we talk them out of.
 
 It was on the crown, with the whole of the bounds walked and the light going long and golden, that Cael told me about his father.
 
 He did not make a story of it. That was the thing about Cael; he came at the things that mattered to him sideways and set them down plainly, as if they weighed nothing, and let you find out for yourself what they weighed. "My father tried to build up here," he said, looking not at me but out over the valley, leaning on his stick. "When I was smaller than that one." A nod at Soren. "A shelter, only. A stone bothy for the high pasture, four walls and a roof, the sort of thing he'd thrown up a dozen times on a dozen other slopes and never thought twice about. He was a fair mason, my father. Not Jorin. But fair." He was quiet a moment. "It would not stand. The first wall went up and came down in the night with no wind to blame. He set it again, deeper, and it came down again. Timbers he'd cut true went in crooked, or came out crooked, or would not sit at all. Mortar that held everywhere else in the valley would not cure up here. Stayed wet, stayed soft, a fortnight, a month. He was not a fanciful man, my father, no more than I am. He was a stubborn one. He gave that hill a whole summer of his life and the hill gave him back a heap of fallen stone, and at the end of it he came down and never went up again, and he told me a thing I have kept word for word, for I was a boy then and it went in deep: *the ground won't take it, son. Some ground won't. Leave it be.*"
+
+He lifted the stick and pointed with it, across toward the far side of the crown where the ground began to go away west.
+
+"There," he said.
+
+I had walked over that crown twice now and taken it for the shape the ground made. Once it had been named I could not stop seeing it: a low green swell in the turf with nettles standing thick along one flank of it, and, when I went over and looked, two dressed stones lying in the grass with their squared faces up and the mortar gone off them so wholly that they might never have been set at all. There was no line left to any of it. Whatever had been a wall was a scatter now, with forty years of grass grown up through it.
+
+I stood there a moment. Behind me Cael stayed where he was.
 
 He turned and looked at me then, straight, an old man laying the truth on the table between us where I could not miss it. "So there it is, and you'll have it from me and not from the tavern. That's what you're buying. A hill that put my father on his knees and has thrown off every roof and wall any soul has tried to set on it in the two lifetimes I can account for. My grandmother loved it and heard God-knows-what in it and left it to me and I've kept it forty years for no reason I could ever say aloud, and now here's you, come up a bad road with a wizard's trade and a dead man's..." He stopped himself, gently, on whatever he had seen in my face when he was not looking, and did not finish it, and went on more quietly. "And quiet you're after, right enough. I'll not cheat you, is my whole point. If you buy this hill you may spend years and a great deal of money learning what my father learned in one summer. I'd think less of myself if I let you sign without hearing it said."
 
@@ -214,10 +302,26 @@ Cael looked at me a moment longer. Then something went out of his shoulders that
 
 And the old man nodded, and looked away out over the valley so that I would not see his face do what it did, and said, roughly, "Then it's yours, and God help you, and I'm glad." He put out his hand and I took it, there on the crown of the hill with his grandson watching and the light going down the sky, and we shook on it the old way, which is the only way that has ever truly bound anything: two men, and a piece of ground, and a price already fair, and nothing written down at all.
 
+Neither of us let go quite as quickly as men usually do. When we did, Cael took his hand back and looked at it, and then put it in his pocket, and that was the end of that.
+
+The boy had come up while we were about it and was standing off a little way with his hands at his sides, watching the two of us with the whole of his attention. He did not say anything. Nobody said anything to him. He was there for it.
+
 "The rest," I said, "you can leave to Penworth. He'll be desolate if he doesn't get to do the paper. It's the only thing that gives the man joy. He'll draw it up in triplicate and dun me for the fee and settle every copper with your fellow before the month's out, and he'll do it better and more honestly than either of us could manage, and enjoy every miserable line of it." I meant it lightly, and Cael took it lightly, but I meant the thing under it too: that the one part that mattered, the part only the two of us could do standing on the ground itself, was done; and that all the rest, the deeds and drafts and letters of credit, was exactly the burden a man keeps a Penworth to carry, so the promise itself could stay clean.
 
 We came down off the hill together in the last of the light, the old man and the boy and I, and my legs by then had the honest ruin in them of a man who has walked a great deal of ground he means to answer for, and it was the best I had felt in longer than I could easily say.
 
-That night I sat up late at the little table under the eaves at Lira's, with a borrowed candle and my own traveling ink, and wrote to Penworth. It was not a long letter; Penworth did not reward long letters, only precise ones. I told him I had seen the hill and walked the bounds and shaken on it with the seller, at his figure, and that he was to finish it, all of it, the purchase and the parcels and the water rights, and to spare no care over the water rights in particular, as I had seen the spring and would build my life around it. I told him the seller was an honest man and was to be dealt with as such. I did not tell him that I meant to build on ground that had never let itself be built on, nor that the wanting of it had taken hold of me, nor any of the rest of it; Penworth would learn what he needed as he needed it, and worry over exactly the right amount, which in Penworth was a great deal. I signed it, and sealed it, and set it by for the morning post, and then I put out the candle and sat a while in the dark with the small window open a crack to the cold.
+Cael talked the whole way down, and not one word of it was about the hill. He told me about a lamb that had come backwards in the night and lived anyway. He told me the low road wanted a load of stone at the ford and had wanted it two years, and who had promised it, and what he thought of that man's promises taken generally. He asked whether it was true that in Vethmark there were streets lit all night, and when I said it was, wanted to know who paid for it, and was not satisfied with my answer, and said so.
+
+I knew the shape of it. A man who has just done a large thing will go round picking up all the small ones and putting them back where they were, so that he can stand in the room again. I let him do it and answered about the lamps.
+
+The boy went ahead of us the whole way and never once got so far ahead that he could not hear.
+
+We parted at the end of the lane with the first windows going yellow along the street below. Cael said he would send word when the papers came. Then he stood a moment. Then he said, "Wear better boots," and went off up his path with the boy at his heel.
+
+That night I sat up late at the little table under the eaves at Lira's, with a borrowed candle and my own traveling ink, and wrote to Penworth. It was not a long letter; Penworth did not reward long letters, only precise ones.
+
+The table under the eaves was low for writing by a good three inches. I have made a professional living out of telling men things like that about rooms and could do nothing whatever about that one, so I wrote the first half sitting with my knees in the way and the second half standing at the sill. The sill was worse. The pen wanted cutting and I cut it badly by candlelight. The ink had come four days on a horse and had to be roused with the nib before it would say anything at all.
+
+I told him I had seen the hill and walked the bounds and shaken on it with the seller, at his figure, and that he was to finish it, all of it, the purchase and the parcels and the water rights, and to spare no care over the water rights in particular, as I had seen the spring and would build my life around it. I told him the seller was an honest man and was to be dealt with as such. I did not tell him that I meant to build on ground that had never let itself be built on, nor that the wanting of it had taken hold of me, nor any of the rest of it; Penworth would learn what he needed as he needed it, and worry over exactly the right amount, which in Penworth was a great deal. I signed it, and sealed it, and set it by for the morning post, and then I put out the candle and sat a while in the dark with the small window open a crack to the cold.
 
 The hill was out there in the night, a darker weight against the dark, mine now in every way that a handshake can make a thing yours and the paper only catches up to later. I could not see it. But I sat with the window open until the cold drove me under the blankets, and I will tell you plainly that I did not once, that whole while, take out the letter I had carried so long and held so often. I had walked a hill instead. It is not much. But it was the first evening in three years that I had wanted the morning to come.

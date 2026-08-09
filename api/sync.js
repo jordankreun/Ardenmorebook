@@ -212,11 +212,13 @@ module.exports = async (req, res) => {
 
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
   if (!secret || !token || !repo) {
-    res.status(500).json({ ok: false, error: "Server not configured. Set GH_TOKEN, GH_REPO, and FEEDBACK_SECRET in Vercel." });
+    // `code` is machine-readable; the prose stays for humans and for older
+    // clients, which sniff the message text. The reader reads `code` first.
+    res.status(500).json({ ok: false, code: "not_configured", error: "Server not configured. Set GH_TOKEN, GH_REPO, and FEEDBACK_SECRET in Vercel." });
     return;
   }
   if ((req.headers["x-feedback-secret"] || "") !== secret) {
-    res.status(401).json({ ok: false, error: "unauthorized" });
+    res.status(401).json({ ok: false, code: "unauthorized", error: "unauthorized" });
     return;
   }
 

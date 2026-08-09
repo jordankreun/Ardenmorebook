@@ -1,5 +1,8 @@
 # Keep the book's ENDING and continuity notes off any public deploy.
-# Only reader.html + manuscript/ should ever be served.
+# Only reader.html + app/ + manuscript/ should ever be served.
+#
+# app/ MUST NOT be listed here. It is the application itself; excluding it makes
+# every module 404 in production and the site shows a blank page.
 .claude/
 state/
 .github/
@@ -8,3 +11,6 @@ feedback/
 # 1.4MB of story bibles, outlines and the complete pre-revision manuscript,
 # ending included. Exactly what the two lines above exist to prevent.
 archive/
+# The Playwright harness and its fixtures. Never deployed; kept out of the repo
+# root so Vercel's framework detection is not triggered by a package.json.
+test/

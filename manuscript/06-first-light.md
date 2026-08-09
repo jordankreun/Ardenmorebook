@@ -4,7 +4,69 @@
 
 ### Chapter Six: First Light
 
-A new room wants a light in it, and for the first little while I gave the Study the wrong ones. I read by candle that autumn, and worked by a good brass lamp I had carried up from Vethmark, and both did the honest work a flame does: push the dark back a little way and ask nothing of the room but that it be dark to begin with. They were fine. But a candle in that room, on that hill, was a stranger's light, brought in from outside and burning something it had brought with it, and after a few evenings of it I did not want a stranger's light in the first room I had built in three years. I wanted a light that belonged to the place. So I set about making one, and that is how the first lumen came to be lit on the crown of Ardenmoor, though I did not call it that yet, and did not know it would be the making of me in the plain commercial sense before it was anything else.
+A new room wants a light in it, and for the first little while I gave the Study the wrong ones. I read by candle that autumn, and worked by a good brass lamp I had carried up from Vethmark, and both did the honest work a flame does: push the dark back a little way and ask nothing of the room but that it be dark to begin with. They were fine.
+
+I remember one evening of it in particular, early in the autumn, because it was the evening the thing began. I had the day's notes to write up, half a page of nothing much: the hour of the dusk-fail, the weather standing before it, the state of the mortar at the northeast corner. It is dull work and I have never once regretted keeping it. I set the brass lamp at my left hand and three candles along the end of the bench, because one candle is a rumour of light and three are an argument, and I sat down to it a little after seven.
+
+The draught came in at the northeast corner. The mortar was still curing there and the wind had found some small road into the room that I never afterward located, and it worked at the candles all evening, so that the light on the page swayed as though the page were floating on water. The brass lamp wanted its wick trimmed every hour. It smoked the chimney a little each time, and the smoke laid a thin grey breath across the new stone above it, and twice I got up and opened the door to let the room clear, and each time the cold came in and the candles guttered and I lost the sentence I was in the middle of.
+
+I got half a page written in two hours. My own hand's shadow lay across everything I wrote, as it does, because that is what a lamp at your left hand is for and what it cannot help. The room smelled of hot oil and new mortar and cold stone.
+
+At nine I gave it up and banked the fire. The candles were not entirely to blame for the half page. They had, however, been going since four, and I was getting through them at a rate that would have been remarked on in a thriftier house than mine.
+
+So I went down in the morning for more.
+
+Kellard kept the dry-goods yard at the bottom of the street, and his was the counter where the village did the half of its business that wanted writing down. Two men were in ahead of me settling something about a cart going down to Wainford before the frosts, and I stood back and waited and listened and followed perhaps a third of it. One of them had the cart. The other had, so far as I could make out, a cousin, and a quantity of something in sacks, and a grievance about the last time. Kellard wrote three short lines in his book while they talked and did not look up once, and at the end of it both men went off satisfied, and I could not have told you which of them was paying the other, or whether either of them was.
+
+Then it was my turn.
+
+"Candles," I said.
+
+He looked at me the way a man looks at a customer he has not finished pricing. "Dips or moulded."
+
+"What's the difference to me?"
+
+"Moulded burn clean and cost you near twice. Dips will smoke your ceiling." He said it flatly and offered neither, and I came to understand that this was Kellard being scrupulous. He would tell you the truth of both and then let you spend your own money in your own way.
+
+"Moulded. Two dozen."
+
+That got the first thing out of him that was not a price. "Two dozen."
+
+"I read late."
+
+"You read late," he agreed, and wrote it in his book in that careful upright hand of his, every letter finished before the next one was begun. Then he counted the candles out of the crate two at a time, and named the sum, and I paid it, and he wrote that down as well. I have dealt with bankers who kept a worse account and thought a great deal better of themselves for it.
+
+Coming back up the street I stopped at Jorin's yard, because I had the draught on my mind. Jorin was not in it. Ren was, dressing a stone with a broad chisel, and he stood up when he saw me and wiped his face with the back of his wrist.
+
+I told him about the wind at the northeast corner and asked whether the wall wanted pointing.
+
+He thought before he answered, sorting what he knew from what only sounded right. "It might," he said. "But new mortar sweats all its first winter. Point over a wall that's still giving off water and you trap it, and you'll be raking it out again in the spring and paying twice. I'd let it have its winter."
+
+"And the draught?"
+
+"Hang a bit of sacking," said Ren. "It's only wind."
+
+I hung a bit of sacking. He was right about the corner too, and I have never since pointed a green wall in its first autumn, on the word of a boy of sixteen with a chisel in his hand.
+
+I went along to the inn after that to look at my horse, on the principle that a man who keeps a mare boarded and never goes to see her deserves the mare he ends up with. Snow had spent the summer in a spare stall at Lira's at my expense and her own leisure, and it had done nothing for her character. She had carried me four days over the frontier road under a full pack and had made her opinion of that journey plain the whole way. Now she had had four months of standing about being fed, and she had an opinion about that too. She put her head over the door when she heard my step, and looked at me a while with her ears at an angle I knew, and then turned her head away and gazed pointedly out at the yard, in case the shape of the complaint had escaped me.
+
+"You'd hate it up there," I said. "It's all wind and no oats."
+
+She was unmoved. I stayed a quarter of an hour and scratched the place under her jaw that she permits, and went in.
+
+Lira was in the taproom with her sleeves turned back and a slate in her hand, and she did not greet me. She set down a cup of the hot black tea she keeps for men who come in off the road, which I had not asked for and had not known she had marked me down as taking, and went on with her slate.
+
+"Your mare wants exercise," she said, to the slate.
+
+"She does."
+
+"The boy's been walking her out along the beck of an evening. I've not charged you for it." A pause exactly the length of a full stop. "I might."
+
+"You should."
+
+"I might," she said again, and rubbed something off the slate with the side of her thumb, and that was the whole of the conversation, and I drank the tea I had not ordered and went out into the street.
+
+The climb took its half hour and a little more with the weight of two dozen candles on my back. But a candle in that room, on that hill, was a stranger's light, brought in from outside and burning something it had brought with it, and after a few evenings of it I did not want a stranger's light in the first room I had built in three years. I wanted a light that belonged to the place. So I set about making one, and that is how the first lumen came to be lit on the crown of Ardenmoor, though I did not call it that yet, and did not know it would be the making of me in the plain commercial sense before it was anything else.
 
 A lumen is a lamp that does not burn. The tales have made them into everything from a holy relic to a cheap conjuror's trick, and they are neither. That is the whole of it, and it is also, I promise you, far harder than it sounds. Every light a man had ever made before that autumn ate something to give its glow, oil or wax or tallow or, if he was of my trade and foolish, a slice of his own strength. What I wanted was a light that fed on something already in the room and gave it back changed, the way a good window does not make light but takes what is offered and hands it on kinder. And on that hill there was something in the room to feed on, if a man knew how to ask. There was the hum.
 
