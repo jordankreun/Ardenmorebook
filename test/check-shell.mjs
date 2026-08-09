@@ -49,7 +49,12 @@ while (queue.length) {
         `worker adopts running pages, so a late import would mix cache versions.`
     );
   }
-  for (const m of src.matchAll(/\bfrom\s+"([^"]+)"|^\s*import\s+"([^"]+)"/gm)) {
+  /* `code`, not `src`. This scanned the raw source, so any PROSE containing the
+     word from followed by a quoted phrase was read as an import — a comment
+     ending 'indistinguishable from "cross-device syncing is not working"' failed
+     the build. The same flaw would also have queued a commented-out import as a
+     real graph edge. The comment-stripped copy already existed two lines up. */
+  for (const m of code.matchAll(/\bfrom\s+"([^"]+)"|^\s*import\s+"([^"]+)"/gm)) {
     const spec = m[1] || m[2];
     if (!spec.startsWith(".")) {
       problems.push(`${file} imports a bare specifier "${spec}" — no bundler, no CDN.`);

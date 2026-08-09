@@ -2,7 +2,9 @@ import * as store from "./store.js";
 import { readRaw, writeRaw } from "./storage.js";
 import { savePos } from "./position.js";
 import { verifyApplied } from "./verify.js";
-import { KEY_SECRET, KEY_BOOKMARK, KEY_CLEARED, SYNC_URL, SYNC_DEBOUNCE_MS } from "./config.js";
+import {
+  KEY_SECRET, KEY_BOOKMARK, KEY_CLEARED, SYNC_URL, SYNC_DEBOUNCE_MS, SYNC_REFRESH_MIN_MS,
+} from "./config.js";
 
 /* Cross-device sync.
 
@@ -276,23 +278,60 @@ export const SYNC = {
   },
 
   async init() {
-    const j = await SYNC.pull();
-    if (j && j.ok) {
-      // Forward-only: a GET can easily predate a clear made on this device.
-      setClearedAt(j.clearedAt);
-      store.adopt("notes", mergeRecords(store.listOf("notes"), j.notes || []));
-      store.adopt("revisions", mergeRecords(store.listOf("revisions"), j.revisions || []));
-      verifyApplied();
-      // Adopted unconditionally, with no timestamp comparison — as before.
-      if (j.bookmark) {
-        savePos(KEY_BOOKMARK, j.bookmark);
-        notifyBookmark();
-      }
-      await SYNC._pushPendingClear(Number(j.clearedAt) || 0);
-    }
+    await SYNC._pullAndAbsorb();
     notifyState();
   },
+
+  /* The pull half of sync used to run EXACTLY ONCE, at boot, and nothing ever
+     asked the server for anything again. Push was fine, so a note written on the
+     laptop reached the repo immediately — and then sat there. On a phone the
+     reader is an installed PWA that stays resident for days, so the note did not
+     appear until the app was force-quit and relaunched. From the reading chair
+     that is indistinguishable from "cross-device syncing is not working", which
+     is exactly how it was reported.
+
+     So: pull again when the app comes back to the foreground, and when the
+     network returns. THROTTLED, not polled — a phone fires visibilitychange on
+     every glance at the lock screen, and this must not become a request per
+     glance. `force` is for the online event and the Settings button, where the
+     user's intent is explicit. */
+  async refresh(force) {
+    if (!SYNC.secret || refreshing) return false;
+    if (!force && Date.now() - lastPullAt < SYNC_REFRESH_MIN_MS) return false;
+    refreshing = true;
+    try {
+      return await SYNC._pullAndAbsorb();
+    } finally {
+      refreshing = false;
+      notifyState();
+    }
+  },
+
+  /* Shared by init() and refresh(). Adopting is a MERGE, never a replace, so a
+     record written on this device while it was offline is not lost by a pull. */
+  async _pullAndAbsorb() {
+    const j = await SYNC.pull();
+    if (!j || !j.ok) return false;
+    lastPullAt = Date.now();
+    // Forward-only: a GET can easily predate a clear made on this device.
+    setClearedAt(j.clearedAt);
+    store.adopt("notes", mergeRecords(store.listOf("notes"), j.notes || []));
+    store.adopt("revisions", mergeRecords(store.listOf("revisions"), j.revisions || []));
+    verifyApplied();
+    /* Adopted unconditionally, with no timestamp comparison — as before. This
+       stores the bookmark and updates the drawer row; it does NOT scroll, so a
+       foreground refresh cannot yank the page out from under the reader. */
+    if (j.bookmark) {
+      savePos(KEY_BOOKMARK, j.bookmark);
+      notifyBookmark();
+    }
+    await SYNC._pushPendingClear(Number(j.clearedAt) || 0);
+    return true;
+  },
 };
+
+let lastPullAt = 0;
+let refreshing = false;
 
 const timers = { notes: 0, revisions: 0 };
 const inflight = { notes: false, revisions: false };

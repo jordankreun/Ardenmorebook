@@ -33,6 +33,10 @@ export const KEY_CLEARED = "ardenmoor.clearedat.v1";
 export const PERSIST_DEBOUNCE_MS = 400; // store -> localStorage, off the typing path
 export const SPOT_DEBOUNCE_MS = 400; // reading position -> localStorage
 export const SYNC_DEBOUNCE_MS = 800; // one timer per field; changes the commit shape
+/* How stale a pull may be before returning to the app re-fetches. A phone fires
+   visibilitychange on every glance at the screen, so this is a throttle, not a
+   poll: it exists to stop a lock/unlock storm from hammering the endpoint. */
+export const SYNC_REFRESH_MIN_MS = 15000;
 export const TOAST_MS = 1700;
 export const SELECT_SETTLE_MS = 10; // let the browser finalise a selection first
 export const COMPOSER_REANCHOR_MS = 80; // the soft keyboard resizes after focus

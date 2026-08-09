@@ -289,6 +289,60 @@ async function measure(url, sel) {
   return { load, commit, recorded };
 }
 
+/* ---------- a device that is already open ----------
+   The reported failure: "it doesn't seem like the cross device syncing is
+   working". The pull half ran exactly once, at boot. Push was fine, so a note
+   written elsewhere reached the server immediately and then sat there: an open
+   PWA never asked again, so it only arrived after a force-quit and relaunch.
+   Nothing here caught it, because every sync test above asserts on a FRESH page
+   load, which is the one moment the old code did pull. */
+console.log("\n== a device that is already open ==");
+{
+  resetStore({ notes: [], revisions: [], clearedAt: 0 });
+  const { ctx, page, errors } = await newPage({}, {
+    [KEY_MODE]: "review", [KEY_NOTES]: "[]", [KEY_REVS]: "[]",
+    "ardenmoor.sync.secret.v1": "harness-secret",
+  });
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  await page.waitForTimeout(800);
+  const seen = () => page.evaluate((k) => JSON.parse(localStorage.getItem(k) || "[]").length, KEY_NOTES);
+  ok((await seen()) === 0, "starts with nothing");
+
+  // Another device writes a note. This one is still sitting open.
+  STORE.notes = [{ chap: "Chapter One", snip: "from-device-a", quote: "q",
+                   text: "written on the laptop", ts: Date.now(), resolved: false }];
+  await page.waitForTimeout(600);
+  ok((await seen()) === 0, "and does not see it on its own (nothing polls)");
+
+  // Coming back to the foreground pulls. Throttled, so this first one is a
+  // no-op — the boot pull was seconds ago, which is the behaviour we want.
+  const foreground = () => page.evaluate(() => {
+    Object.defineProperty(document, "visibilityState", { value: "hidden", configurable: true });
+    document.dispatchEvent(new Event("visibilitychange"));
+    Object.defineProperty(document, "visibilityState", { value: "visible", configurable: true });
+    document.dispatchEvent(new Event("visibilitychange"));
+  });
+  await foreground();
+  await page.waitForTimeout(600);
+  ok((await seen()) === 0, "a foreground within the throttle window does not re-request");
+
+  // The network returning is an explicit signal and bypasses the throttle.
+  await page.evaluate(() => window.dispatchEvent(new Event("online")));
+  await page.waitForTimeout(900);
+  ok((await seen()) === 1, "the note arrives without a reload once sync runs again");
+
+  // And after the throttle expires, an ordinary foreground pulls too.
+  STORE.notes = [...STORE.notes, { chap: "Chapter Two", snip: "second-from-a", quote: "q",
+                                   text: "and another", ts: Date.now(), resolved: false }];
+  await page.waitForTimeout(15200);
+  await foreground();
+  await page.waitForTimeout(900);
+  ok((await seen()) === 2, "returning to the app after the throttle window pulls again");
+  ok(errors.length === 0, "no page errors across the refresh path", errors.join(" | "));
+  await ctx.close();
+}
+
 /* ---------- editing from READ mode ----------
    The reported failure: "I couldn't edit the book manuscript". Editing is gated
    on Review mode and the gate was silent, so a double-tap in Read mode did

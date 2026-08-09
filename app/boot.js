@@ -84,10 +84,16 @@ function flushEverything() {
   position.flushSpot();
   store.flushNow();
 }
+/* Going away: get everything on disk. Coming back: get everything from the
+   server. Only the first half of that existed, which is why another device's
+   notes never arrived without a relaunch. SYNC.refresh() throttles itself. */
 document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "hidden") flushEverything();
+  else SYNC.refresh();
 });
 window.addEventListener("pagehide", flushEverything);
+// The network coming back is an explicit signal, so it bypasses the throttle.
+window.addEventListener("online", () => SYNC.refresh(true));
 
 if ("serviceWorker" in navigator && location.protocol.indexOf("http") === 0) {
   window.addEventListener("load", () => {
