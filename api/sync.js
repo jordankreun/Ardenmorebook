@@ -11,6 +11,28 @@
 // Optional:
 //   GH_BRANCH        branch to commit to (default "main")
 //
+// ---- ROTATING GH_TOKEN (it expired on 2026-08-10 and took a while to diagnose) ----
+// Symptom: the reader says "GitHub rejected the token (401)". That message comes
+// from the classifier at the bottom of this file; before it existed the same
+// failure read only "server error", which is why it was hard to place.
+//
+//   1. GitHub -> Settings -> Developer settings -> Personal access tokens ->
+//      Fine-grained tokens -> Generate new token.
+//   2. Resource owner: the account that owns the repo. Repository access:
+//      "Only select repositories" -> this repo alone.
+//   3. Permissions -> Repository permissions -> CONTENTS: READ AND WRITE. That
+//      is the only one needed; Metadata: Read-only is added automatically. The
+//      Git Data API this file uses (blobs, trees, commits, refs) is covered by
+//      Contents, so no extra scope is required.
+//   4. Expiration: fine-grained tokens expire, and a quietly expiring token is
+//      exactly the failure above. Set the longest term offered and put a
+//      reminder somewhere, or accept that this will recur.
+//   5. Paste it into Vercel -> the project -> Settings -> Environment Variables
+//      -> GH_TOKEN, applied to Production.
+//   6. **REDEPLOY.** Env var values are bound to a deployment, so an existing
+//      deployment keeps serving the OLD value until a new build replaces it.
+//      Saving the variable alone changes nothing.
+//
 // The reader sends the secret in the "x-feedback-secret" header. Requests without the
 // correct secret are rejected, so a public deployment cannot be written to by strangers.
 
