@@ -156,7 +156,7 @@ He took that with nothing at all in his face, and I have thought about that sile
 
 "That's fair."
 
-"It's more than fair, it's the whole of my thinking on the subject, and I'll say the other part once more because it weighs more than any of it. I don't know yet what it means.""
+"It's more than fair, it's the whole of my thinking on the subject, and I'll say the other part once more because it weighs more than any of it. I don't know yet what it means."
 
 He nodded, slowly, taking that the way he took a load figure, and I told him the other thing, the thing I had been turning over since before he ever came down the stair.
 
