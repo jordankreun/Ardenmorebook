@@ -31,6 +31,7 @@ export const editsList = $("editsList");
 export const btnSmaller = $("btnSmaller");
 export const btnBigger = $("btnBigger");
 export const inlineHint = $("inlineHint");
+export const buildInfo = $("buildInfo");
 export const selTools = $("selTools");
 export const btnAddNote = $("btnAddNote");
 export const btnAddEdit = $("btnAddEdit");

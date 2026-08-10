@@ -67,6 +67,21 @@ while (queue.length) {
 /* 3. The closure must be a subset of sw.js's APP list, and APP must not name a
       file that does not exist. */
 const sw = read("sw.js");
+/* The build stamp shown in Settings must equal the service worker's VERSION.
+   They are two hand-edited constants in two files, so they WILL drift, and a
+   version display that lies is worse than none: its whole job is to answer
+   "am I running the new code?" at a glance. */
+const swVer = (sw.match(/const VERSION\s*=\s*"([^"]+)"/) || [])[1];
+const cfgVer = (read("app/config.js").match(/APP_VERSION\s*=\s*"([^"]+)"/) || [])[1];
+if (!swVer) problems.push("sw.js has no VERSION constant");
+if (!cfgVer) problems.push("app/config.js has no APP_VERSION constant");
+if (swVer && cfgVer && swVer !== cfgVer) {
+  problems.push(
+    `version drift: sw.js VERSION is "${swVer}" but app/config.js APP_VERSION is "${cfgVer}". ` +
+      `Bump both, or Settings will report a version the app is not running.`
+  );
+}
+
 const appBlock = sw.match(/const APP = \[([\s\S]*?)\];/);
 if (!appBlock) problems.push("sw.js: could not find the APP array");
 const app = new Set(appBlock ? [...appBlock[1].matchAll(/"([^"]+)"/g)].map((m) => m[1]) : []);

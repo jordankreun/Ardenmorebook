@@ -4,7 +4,7 @@
    the markdown with a ?v= cache-buster and cache:"no-store"; we normalize the
    URL (strip the query) for the cache key so offline lookups still hit. The
    /api/ sync endpoint is never cached (it is dynamic and authenticated). */
-const VERSION = "ardenmoor-v45";
+const VERSION = "ardenmoor-v46";
 
 /* THE APPLICATION GRAPH. If a file is missing from this list the app 404s
    offline — and unlike the old single self-contained file, a missing module is a
@@ -52,6 +52,17 @@ self.addEventListener("install", (event) => {
     } catch (e) {}
     await self.skipWaiting();
   })());
+});
+
+/* Answers the page's "which cache is actually serving you?" question. A page can
+   be running code from an OLD worker that has not yet been replaced, which is
+   exactly the confusion the version display exists to end, so the page asks the
+   worker rather than assuming its own constant is the truth. */
+self.addEventListener("message", (event) => {
+  const d = event.data;
+  if (d && d.q === "version" && event.ports && event.ports[0]) {
+    event.ports[0].postMessage({ version: VERSION });
+  }
 });
 
 self.addEventListener("activate", (event) => {

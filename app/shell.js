@@ -1,6 +1,7 @@
 import {
   btnMenu,
   btnMode,
+  buildInfo,
   btnSettings,
   btnSmaller,
   btnBigger,
@@ -18,7 +19,7 @@ import * as store from "./store.js";
 import { chapters } from "./manuscript.js";
 import { readRaw, writeRaw, writeJSON } from "./storage.js";
 import { toast } from "./toast.js";
-import { KEY_FS, KEY_THEME, FS_MIN, FS_MAX, FS_DEFAULT, FS_STEP } from "./config.js";
+import { KEY_FS, KEY_THEME, FS_MIN, FS_MAX, FS_DEFAULT, FS_STEP, APP_VERSION } from "./config.js";
 
 /* The app shell: the top bar, the drawer, the settings popover, text size,
    theme, and the global keyboard handler. */
@@ -159,6 +160,7 @@ export function init() {
   });
 
   applyFs();
+  showBuild();
   btnSmaller.innerHTML = svg("aDown");
   btnBigger.innerHTML = svg("aUp");
   btnBigger.addEventListener("click", () => stepFs(FS_STEP));
@@ -201,4 +203,37 @@ export function init() {
     const here = position.activeChapterIndex(position.chapterScrollMargin() + 4);
     gotoChapter(e.key === "ArrowRight" ? here + 1 : here - 1);
   });
+}
+
+/* ---------- the build stamp ----------
+   Three days of this session were spent on "is the fix live yet?", and the
+   honest answer was never available from inside the app: a service worker
+   serves modules cache-first, so a page can be running yesterday's code with
+   today's file sitting on the server. Printing our own constant alone would not
+   have helped — that constant IS the old code when the old code is what is
+   running. So ask the worker which cache it is actually serving from, and when
+   the two disagree, say so plainly and say what to do about it. */
+function showBuild() {
+  if (!buildInfo) return;
+  buildInfo.textContent = "Reader " + APP_VERSION.replace(/^ardenmoor-/, "");
+  const nav = navigator.serviceWorker;
+  if (!nav || !nav.controller) return;
+  let done = false;
+  const settle = (v) => {
+    if (done) return;
+    done = true;
+    if (!v || v === APP_VERSION) return;
+    buildInfo.textContent =
+      "Reader " + APP_VERSION.replace(/^ardenmoor-/, "") +
+      " — serving " + String(v).replace(/^ardenmoor-/, "") + ". Close the app fully and reopen to update.";
+  };
+  try {
+    const ch = new MessageChannel();
+    const t = setTimeout(() => settle(null), 1500);
+    ch.port1.onmessage = (e) => {
+      clearTimeout(t);
+      settle(e.data && e.data.version);
+    };
+    nav.controller.postMessage({ q: "version" }, [ch.port2]);
+  } catch {}
 }

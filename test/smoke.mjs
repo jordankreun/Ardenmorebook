@@ -11,6 +11,7 @@
 // imported by absolute path via its default export.
 import playwright from "/opt/node22/lib/node_modules/playwright/index.js";
 const { chromium } = playwright;
+import { readFileSync } from "node:fs";
 import { serve, resetStore, STORE } from "./serve.mjs";
 
 const PORT = 8139;
@@ -287,6 +288,24 @@ async function measure(url, sel) {
     .filter((r) => (r.revised || "").includes("PERFMARK")).length, KEY_REVS);
   await ctx.close();
   return { load, commit, recorded };
+}
+
+/* ---------- the build stamp ---------- */
+console.log("\n== build stamp ==");
+{
+  const { ctx, page } = await newPage({}, { [KEY_MODE]: "review" });
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  await page.locator("#btnSettings").click();
+  await page.waitForTimeout(300);
+  const txt = (await page.locator("#buildInfo").textContent()) || "";
+  ok(/^Reader v\d+/.test(txt.trim()), "Settings shows the build version", JSON.stringify(txt));
+  // Tie the displayed string to the constant, so a stale hard-coded label fails.
+  const want = (readFileSync(new URL("../app/config.js", import.meta.url), "utf8")
+    .match(/APP_VERSION\s*=\s*"ardenmoor-([^"]+)"/) || [])[1];
+  ok(want && txt.includes("Reader " + want),
+     "and the version shown is the one in app/config.js", `shown ${JSON.stringify(txt)}, config ${want}`);
+  await ctx.close();
 }
 
 /* ---------- a device that is already open ----------

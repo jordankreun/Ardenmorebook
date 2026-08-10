@@ -3,6 +3,13 @@
    The localStorage key strings are the migration contract with every copy of the
    app the author has ever run. Renaming one orphans the work stored under it. */
 
+/* The build stamp, shown at the foot of Settings. It must equal sw.js's VERSION
+   exactly: that string names the cache the app is served from, so it is the only
+   number that answers "am I actually running the new code?". check-shell.mjs
+   FAILs if the two drift, because a version display that lies is worse than
+   none — the whole point of it is to be trusted at a glance. */
+export const APP_VERSION = "ardenmoor-v46";
+
 export const MANIFEST_URL = "manuscript/manifest.json";
 export const CHAPTER_DIR = "manuscript/";
 export const SYNC_URL = "api/sync"; // relative on purpose: see §8.4 of the rebuild spec
