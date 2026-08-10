@@ -122,3 +122,11 @@ no religion on the page
 this world has no religion
 banned: worship, prayer
 no worship or prayer
+
+# Soren and letters. The bible said he "learned his letters FAST"; the author overturned that
+# on 2026-08-10 ("Make him slower but competent at letters. Quick to pick it up but not a savant
+# like numbers"). He is a savant at NUMBERS and at hearing; letters he learned by working at
+# them, to genuine competence. These patterns catch a doc restating the retired version as live.
+learned his letters FAST
+learned them fast
+fast at letters

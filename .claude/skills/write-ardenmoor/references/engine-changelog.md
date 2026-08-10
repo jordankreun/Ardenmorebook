@@ -200,3 +200,24 @@
   the topic it touched.** When the broadened rule would newly condemn existing prose the author has
   read and kept, that is the tell that it has gone too wide, and the existing prose is the evidence,
   not the exception. Check the manuscript against a new prohibition BEFORE recording it.
+
+- **2026-08-10 — reader pass: 5 notes + 1 tracked change. THREE OF THE FIVE WERE ALREADY DONE,** by
+  the Part I–II expansion, before the author sent them. That is worth recording as evidence rather
+  than as a coincidence: the expansion independently produced (a) the two-modes contrast the Ch 4
+  note asks for — *"a book about making the world do a thing… Find the grain. Take hold. Tell it"*
+  against Emlyn's asking; (b) the vaguer refusal the Ch 8 note asks for, Emlyn now saying only that
+  the lamp would not burn off his hill and he did not yet know why; and (c) the comedic beat the Ch 8
+  note asks for, in full — the flare blinds him, he goes over backward off the stool and takes the
+  lamp down with him. **ALWAYS diff feedback against the CURRENT text before applying it.** These
+  notes quote anchors that no longer exist, because the passages were rewritten after the note was
+  written; applying them blind would have re-done finished work or undone it.
+  Applied: the Ch 5 tracked change verbatim (*"Small to start"* → *"Modest to start"*), Soren's
+  letters, and Emlyn's kit.
+  **LESSON, third instance in two days and now a standing habit: when recording a rule, check it
+  against the manuscript BEFORE writing it down.** The first draft of the new tools entry excluded
+  "plumbs", which would have condemned Ch 4's *"Then I laid my level along it"* — the load-bearing
+  beat of that chapter — and Ch 13's plumb bob. Both are prose the author has read and kept. The
+  entry now excludes only the surveyor's SIGNATURE kit (chain, banded rods, staves, gimballed
+  compass) and says explicitly that shared craft tools stay. Same failure as the religion rule
+  yesterday: generalising past the evidence. The tell is identical — a new rule that would newly
+  condemn existing kept prose is too wide, and the prose is the evidence, not the exception.

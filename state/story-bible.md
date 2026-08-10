@@ -8,7 +8,7 @@
 ## STATUS
 
 - Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III.** 37 files,
-  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **185,950 words**
+  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **186,093 words**
   (prose lines only; blank lines and `#`-headers excluded — the method `tools/state-check.sh`
   documents). Keep this bullet current: `state-check.sh` FAILs when it falls behind the manifest.
 - **Current work is REVISION, not continuation.** The storycraft pass (2026-07-31) runs part by
@@ -220,7 +220,23 @@ if it needs a new one, add it here.
 ## LOCKED CANON (never contradict; see outline canon appendix for full detail)
 
 **Protagonist.** Emlyn Ambrose — planewright wizard. Precise, patient, dry humor, grief-slowed.
-Only child of a Vethmark architect; trained as a draftsman before his talent developed. **Fiancée
+Only child of a Vethmark architect; trained as a draftsman before his talent developed.
+**⚠️ HIS KIT IS A TINKER'S DRAWER, NOT A SURVEYOR'S (author, 2026-08-10: "Make wizards tools more
+like tinkerers tools less like surveyors").** Files, a fine-nosed pliers, a tap-hammer, gauges on a
+ring, brass wire, a little square he uses forty times a day. Small, handled, sprung, adjustable —
+things you fettle with. What is excluded is the surveyor's SIGNATURE kit: the chain, the banded
+rods, the staves, the compass on gimbals. That belongs to the surveyor two valleys over, whose case
+Emlyn repairs in Ch 7 and whose kit the text calls *"a beautiful thing, and nothing whatever like
+mine."* The contrast is deliberate and load-bearing, because the trades look adjacent from outside
+and are not. His draftsman's training shows in how he DRAWS and how he thinks, not in a surveyor's
+instruments.
+  • **This does NOT ban ordinary shared craft tools, and a later pass must not "correct" them.**
+    A small level, a plumb bob, a chisel, a light hammer belong to every trade that works to a line.
+    Ch 4's *"Then I laid my level along it"* is the load-bearing beat of that chapter — the trench
+    was cut level and is not level now — and the level is exactly the right tool for it. Ch 13's
+    plumb bob finds the centre of a room. Both stay. The first draft of this entry listed plumbs as
+    excluded, which would have condemned two passages the author has read and kept; that wording is
+    retired. Rule of thumb: would a tinker own it? Then he may. **Fiancée
 Arielle** (engaged, not married; she died ~3 yrs ago **before their wedding**) is dead before the
 story opens; she appears ONLY through objects, never in flashback. Four grief-objects: the locked
 chest (cellar NE corner), her mother's unopened letter (Study desk), dimensional callipers in a
@@ -497,9 +513,16 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
 - **Soren**, 10 — village elder's grandson; HEARS the hum; solemn, structural, whole-attention;
   asks questions like "Is that why the Study doesn't fall?"; child logic with dignity, never cute.
   **His gift is SPECIFIC, not general** (author, 2026-08-02): a savant at numbers and at hearing, and
-  ordinarily competent at everything else. He learned his letters FAST and reads and writes a fair
-  plain hand — better than his grandfather — and that is where it stops, and the stopping is the
-  point. Never let quickness at one thing spread into quickness at all things. (This is the same rule
+  ordinarily competent at everything else. **⚠️ LETTERS ARE THE WORKED INSTANCE, and the earlier
+  wording of this bullet — that he learned them FAST — is retired and superseded (author,
+  2026-08-10: "Make him slower but competent at letters. Quick to pick it up but not a savant like
+  numbers").** He learns letters **by working at them**: an hour most Wednesdays through the autumn,
+  his S backwards for a month and better, BOUGHT and BROUGHT still tripping him into the spring. By
+  winter he reads anything put in front of him and writes a fair plain hand, better than his
+  grandfather's — genuinely competent, and it cost him the ordinary price. **Numbers cost him
+  nothing at all**, and that gap IS the characterisation: one country he travelled to, one he was
+  born in. Never let quickness at one thing spread into quickness at all things — and note that
+  the retired "fast at letters too" was precisely that spread, which is why it went. (Same rule
   `modes/developmental.md` states as "Soren is a child, not an oracle," now with a worked instance.)
 - **Ren**, 16 — builder's son; FEELS magic through his hands; honest to the grain, distinguishes
   what he knows from what merely sounds right; building metaphors.

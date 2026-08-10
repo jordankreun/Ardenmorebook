@@ -20,7 +20,7 @@ It took a while. The boy had the far end and did nothing whatever with it except
 
 "You'll be the wizard," Jorin said, when it was done, in the tone Lira had used, which I was coming to understand was not rudeness but the plain naming of a trade.
 
-"I mean to raise a room on the hill," I said. "Stone. Small to start. A study, and quarters after, if the first one stands." I did not dress it up. You do not dress things up for a man like that; he will only have to undress them again, and resent the labor.
+"I mean to raise a room on the hill," I said. "Stone. Modest to start. A study, and quarters after, if the first one stands." I did not dress it up. You do not dress things up for a man like that; he will only have to undress them again, and resent the labor.
 
 "How big?"
 
