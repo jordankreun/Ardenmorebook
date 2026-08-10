@@ -145,6 +145,14 @@ export function renderPara(para, opts = {}) {
     return;
   }
 
+  if (absorbed.has(para)) {
+    el.classList.add("isAbsorbed");
+    el.innerHTML = "";
+    lastPaint.delete(el); // so it repaints properly when it comes back
+    return;
+  }
+  el.classList.remove("isAbsorbed");
+
   const rev = store.openRev(para.key);
   const note = mode === "read" ? null : store.openNote(para.key);
 
@@ -198,7 +206,13 @@ function paint(el, para, rev, note) {
   if (rev) {
     el.classList.add("hasEdit");
     el.classList.toggle("isDeleted", !(rev.revised && rev.revised.trim()));
-    el.innerHTML = diffHTML(para.text, rev.revised, rev);
+    /* Single-paragraph records diff against the LIVE manuscript text, not the
+       stored original, so an edit still reads correctly when the paragraph has
+       been revised in the source since. A SPANNING record cannot do that: its
+       original is several paragraphs joined, and para.text is only the first, so
+       diffing against it would show the rest of the block as pure insertion. */
+    const before = Number(rev.span) > 1 ? rev.original || para.text : para.text;
+    el.innerHTML = diffHTML(before, rev.revised, rev);
   } else {
     el.classList.remove("hasEdit", "isDeleted");
     el.innerHTML = paraHTML(para);
@@ -236,6 +250,7 @@ function editDot(para) {
 /** Reconsider every paragraph. The memo makes this a comparison pass, not a
     re-render: only paragraphs whose record actually changed are repainted. */
 export function repaintAll() {
+  recomputeAbsorbed();
   for (const para of manuscript.paras) renderPara(para);
   /* A bulk change alters heights: 69 revisions painted as review diffs and then
      cleared shrinks the document by thousands of pixels. position.js caches
@@ -245,6 +260,38 @@ export function repaintAll() {
      arrow keys jump to the wrong place for the rest of the session. */
   position.invalidateTops();
 }
+
+/* ---------- paragraphs absorbed into a spanning revision ----------
+   A revision with span N replaces N consecutive paragraphs. The anchor paints
+   the diff of the whole block; the N-1 that follow must not also paint their own
+   old text under it, so they are taken off the page and put back the moment the
+   revision is reverted or resolved. Recomputed from the store rather than
+   remembered, because sync can add or remove a spanning record at any moment and
+   a remembered set would be the thing that goes stale. */
+let absorbed = new Set();
+
+/** Recompute, and return the paragraphs whose absorbed state actually changed. */
+export function recomputeAbsorbed() {
+  const next = new Set();
+  const list = manuscript.paras;
+  for (let i = 0; i < list.length; i++) {
+    const rev = store.openRev(list[i].key);
+    const n = rev && Number(rev.span) > 1 ? Number(rev.span) : 1;
+    if (n <= 1) continue;
+    // Absorb forward, but never across a chapter boundary.
+    for (let j = i + 1; j < list.length && j < i + n; j++) {
+      if (list[j].chap !== list[i].chap) break;
+      next.add(list[j]);
+    }
+  }
+  const changed = [];
+  for (const para of next) if (!absorbed.has(para)) changed.push(para);
+  for (const para of absorbed) if (!next.has(para)) changed.push(para);
+  absorbed = next;
+  return changed;
+}
+
+export const isAbsorbed = (para) => absorbed.has(para);
 
 /* ---------- mode ---------- */
 

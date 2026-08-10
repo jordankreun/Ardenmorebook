@@ -296,3 +296,8 @@ code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .85em }
   mark { background: none !important; color: inherit !important }
   a { color: inherit !important; text-decoration: none !important }
 }
+
+/* A paragraph absorbed into a spanning revision. The anchor paragraph above it
+   is showing the diff for the whole block, so this one must not also show its
+   own old text underneath. Reverting the revision puts it straight back. */
+.para.isAbsorbed { display: none; }

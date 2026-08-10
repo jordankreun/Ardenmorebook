@@ -158,7 +158,15 @@ export const counts = () => ({ notes: state.openNotes, revs: state.openRevs });
 
 /* ---------- mutators: user actions. Persist, reindex, emit, and push. ---------- */
 
-export function upsertRev(chap, snip, original, revised) {
+/* `span` is how many CONSECUTIVE paragraphs this revision replaces, counting the
+   anchor. It is omitted entirely when it is 1, which is every record written
+   before cross-paragraph editing existed and most written after — so the stored
+   shape is unchanged for them, and an older copy of the app reading a spanning
+   record simply sees a single-paragraph edit with a long original. The sync
+   merge copies own enumerable properties, which is what carries `span` between
+   devices without either side knowing about it. */
+export function upsertRev(chap, snip, original, revised, span) {
+  const n = Math.max(1, Number(span) || 1);
   const k = keyFor(chap, snip);
   const e = revIndex.get(k);
   const existing = e && e.all.length ? e.all[0] : null;
@@ -169,10 +177,13 @@ export function upsertRev(chap, snip, original, revised) {
     existing.resolved = false;
     existing.resolvedTs = 0;
     existing.resolvedVia = "";
+    if (n > 1) existing.span = n;
+    else delete existing.span;
   } else {
     /* A brand-new record carries NO resolvedTs and NO resolvedVia. Their absence
        is meaningful and four of the sixty-nine live records have neither. */
     const rec = { chap, snip, original, revised, ts: Date.now(), resolved: false };
+    if (n > 1) rec.span = n;
     state.revs.push(rec);
     let entry = revIndex.get(k);
     if (!entry) {

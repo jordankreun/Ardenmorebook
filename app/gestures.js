@@ -5,6 +5,7 @@ import { openComposer } from "./composer.js";
 import * as render from "./render.js";
 import * as position from "./position.js";
 import { buildBookmarkRow } from "./panels.js";
+import * as manuscript from "./manuscript.js";
 import { paraFor } from "./manuscript.js";
 import { SYNC } from "./sync.js";
 import { readRaw, writeRaw } from "./storage.js";
@@ -61,15 +62,47 @@ export function applyInline() {
 
 let pendingSel = null;
 
-function paragraphOfSelection() {
+const paraElOf = (node) => {
+  const el = node && node.nodeType === 1 ? node : node && node.parentElement;
+  return el && el.closest ? el.closest("#book p.para") : null;
+};
+
+/* Returns the RUN of paragraphs the selection touches, first to last.
+   It used to return one element, found from the range's commonAncestorContainer
+   — which is #book the moment a selection crosses a paragraph boundary, so
+   closest("p.para") gave null and the toolbar silently refused to appear. That
+   is the whole reason editing across paragraphs was impossible: not a missing
+   feature so much as a selection that could never be picked up. */
+function paragraphsOfSelection() {
   const sel = window.getSelection();
   if (!sel || sel.rangeCount === 0 || sel.isCollapsed) return null;
-  const node = sel.getRangeAt(0).commonAncestorContainer;
-  const el = node.nodeType === 1 ? node : node.parentElement;
-  const p = el && el.closest ? el.closest("#book p.para") : null;
+  const r = sel.getRangeAt(0);
+  const a = paraElOf(r.startContainer);
+  const b = paraElOf(r.endContainer) || a;
+  if (!a) return null;
+  const editing = editor.editingEl();
   // Selecting inside the live editor used to pop Note/Edit/Mark on top of it.
-  if (!p || p === editor.editingEl()) return null;
-  return p;
+  if (a === editing || b === editing) return null;
+
+  const list = manuscript.paras;
+  const first = list.indexOf(paraFor.get(a));
+  const last = list.indexOf(paraFor.get(b));
+  if (first < 0) return null;
+  if (last < 0 || last <= first) return [paraFor.get(a)];
+
+  /* Never span a chapter: the record is keyed on the anchor's chapter, and a run
+     that crossed a heading would file the next chapter's prose under this one. */
+  const out = [];
+  for (let i = first; i <= last; i++) {
+    if (list[i].chap !== list[first].chap) break;
+    out.push(list[i]);
+  }
+  return out;
+}
+
+function paragraphOfSelection() {
+  const g = paragraphsOfSelection();
+  return g && g.length ? g[0].el : null;
 }
 
 function onSelect() {
@@ -87,7 +120,12 @@ function onSelect() {
   const sel = window.getSelection();
   const rect = sel.getRangeAt(0).getBoundingClientRect();
   // The quote is the RENDERED text, so it carries curly quotes and em dashes.
-  pendingSel = { para: paraFor.get(p), quote: sel.toString().replace(/\s+/g, " ").trim() };
+  const group = paragraphsOfSelection() || [paraFor.get(p)];
+  pendingSel = {
+    para: group[0],
+    group,
+    quote: sel.toString().replace(/\s+/g, " ").trim(),
+  };
   // #selTools is position:absolute, so it is placed in PAGE coordinates —
   // unlike every popover, which is fixed and placed in viewport coordinates.
   let x = window.scrollX + rect.left + rect.width / 2;
@@ -102,10 +140,11 @@ function onSelect() {
 
 function consumeSel() {
   const para = pendingSel ? pendingSel.para : null;
+  const group = pendingSel ? pendingSel.group : null;
   const quote = pendingSel ? pendingSel.quote : "";
   selTools.classList.remove("show");
   if (window.getSelection) window.getSelection().removeAllRanges();
-  return { para, quote };
+  return { para, group, quote };
 }
 
 /* ---------- the tap / click layer ---------- */
@@ -131,7 +170,11 @@ export function init() {
   });
   btnAddEdit.addEventListener("click", () => {
     const c = consumeSel();
-    if (c.para) editor.openEditor(c.para, c.quote);
+    // A run of paragraphs opens as ONE passage; the quote seed only makes sense
+    // for a single one, where it puts the caret on the phrase that was chosen.
+    if (!c.para) return;
+    const g = c.group && c.group.length > 1 ? c.group : c.para;
+    editor.openEditor(g, c.group && c.group.length > 1 ? "" : c.quote);
   });
   btnAddBookmark.addEventListener("click", () => {
     const c = consumeSel();
@@ -194,7 +237,7 @@ export function init() {
     const sel = window.getSelection();
     if (sel && sel.rangeCount && !sel.isCollapsed) return; // drag-select belongs to the toolbar
     if (!editor.isTouch()) {
-      editor.openEditor(q.para, "", { auto: true, caret: q.caret });
+      editor.openEditor(q.para, "", { caret: q.caret });
       return;
     }
     /* Touch: the FIRST tap only remembers where and when. The second tap does
@@ -209,7 +252,7 @@ export function init() {
     if (near && now - lastTap.t <= DOUBLE_TAP_MS) {
       // Reset, so a third tap does not re-fire.
       lastTap = { t: 0, x: 0, y: 0, el: null };
-      editor.openEditor(q.para, "", { auto: true, caret: q.caret });
+      editor.openEditor(q.para, "", { caret: q.caret });
       return;
     }
     lastTap = { t: now, x: e.clientX, y: e.clientY, el: q.el };
@@ -241,7 +284,7 @@ export function init() {
     }
     render.setMode("review");
     toast("Review mode — edit away");
-    editor.openEditor(para, "", { auto: true, caret: editor.caretContextAt(el, x, y) });
+    editor.openEditor(para, "", { caret: editor.caretContextAt(el, x, y) });
   }
 
   const gatedTarget = (e) => {

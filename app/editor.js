@@ -46,7 +46,7 @@ export function watchPointerKind(fn) {
   else if (MQ_COARSE.addListener) MQ_COARSE.addListener(fn);
 }
 
-/** session = { para, el, raw, orig, chap, snip, existing, auto, docked, pop, ac, save } */
+/** session = { para, group, span, el, raw, orig, chap, snip, existing, docked, pop, ac, save } */
 let session = null;
 
 export const isEditing = () => !!session;
@@ -67,22 +67,33 @@ export function commitEditor() {
    against its successor. */
 const live = (s) => session === s && !s.pop.closed;
 
-function buildBar(auto, existing) {
+/* ONE editor, not two. There used to be an `auto` mode: opening by tapping the
+   paragraph gave you a "Done" button, a different hint, a docked bar and
+   no-record-if-untouched, while opening from the selection toolbar or the drawer
+   gave you "Save revision", a different hint, an anchored bar and a toast if you
+   changed nothing. Same destination, different chrome and different rules
+   depending on which door you came through — which is exactly why it felt like
+   more than one editor was running.
+
+   Now: the chrome is identical everywhere; whether the bar docks is decided by
+   INPUT KIND, because docking exists to clear a soft keyboard and has nothing to
+   do with how the editor was opened; and closing without typing never leaves a
+   record, whichever door you used, because it never should have. */
+function buildBar(existing, n) {
   const bar = document.createElement("div");
   bar.className = "composer edit";
   // The bar lives inside a popover positioned over a contenteditable region;
   // without this it could become part of the edited text.
   bar.contentEditable = "false";
   bar.innerHTML =
-    '<div class="row"><button class="primary save">' +
-    (auto ? "Done" : "Save revision") +
-    '</button><button class="cancel">Cancel</button>' +
+    '<div class="row"><button class="primary save">Save revision</button>' +
+    '<button class="cancel">Cancel</button>' +
     (existing ? '<button class="del">Revert</button>' : "") +
     "</div>" +
     '<p class="hint">' +
-    (auto
-      ? "Click anywhere else to keep it, Esc to discard. Clear it out to cut the passage."
-      : "Edit the paragraph right where it sits; clear it out to cut the passage. Saved as a tracked change.") +
+    (n > 1
+      ? "Editing " + n + " paragraphs as one passage. Blank lines separate them; delete one to merge. Esc discards."
+      : "Edit it where it sits. Clear it out to cut the passage. Esc discards.") +
     "</p>";
   return bar;
 }
@@ -93,20 +104,27 @@ function buildBar(auto, existing) {
  * and p.focus() may be deferred to a timer, a promise, a microtask or a frame.
  * This is the single thing a "modern rebuild" is most likely to break.
  */
-export function openEditor(para, seedQuote, opts) {
+export function openEditor(target, seedQuote, opts) {
   opts = opts || {};
-  const auto = !!opts.auto;
   popover.closeCurrent();
 
+  /* One paragraph or a run of them. A run is anchored on the FIRST paragraph and
+     replaces `span` consecutive ones; everything downstream — the store key, the
+     sync merge, the drawer row — goes on treating it as one record. */
+  const group = (Array.isArray(target) ? target : [target]).filter((x) => x && x.el);
+  if (!group.length) return;
+  const para = group[0];
+  const span = group.length;
   const p = para.el;
-  if (!p) return;
+
   /* An O(1) Map lookup. Reading the store emits nothing and runs no subscriber,
      which is what keeps this whole path synchronous. */
   const existing = store.openRev(para.key);
-  const raw = existing ? existing.revised || "" : para.text;
+  const orig = group.map((g) => g.text).join("\n\n");
+  const raw = existing ? existing.revised || "" : orig;
 
   render.setEditing(p);
-  p.classList.remove("hasNote", "hasEdit", "isDeleted");
+  p.classList.remove("hasNote", "hasEdit", "isDeleted", "isAbsorbed");
   p.classList.add("editingP");
   // textContent first: it is what makes p.firstChild a single text node, which
   // placeCaret() requires.
@@ -114,11 +132,16 @@ export function openEditor(para, seedQuote, opts) {
   p.contentEditable = "true";
   p.spellcheck = true;
 
-  const bar = buildBar(auto, existing);
+  /* While the run is open the paragraphs after the anchor are hidden, so the
+     block is edited in one place rather than with its own old copy sitting
+     underneath it. teardown puts them back if nothing is saved. */
+  for (let i = 1; i < group.length; i++) group[i].el.classList.add("isAbsorbed");
 
-  // Only the tap-to-edit path docks. Edit from the toolbar or the drawer gets a
-  // normal anchored popover.
-  const docked = auto && isTouch();
+  const bar = buildBar(existing, span);
+
+  /* Docking is a function of the INPUT, not of how the editor was opened: it
+     exists to keep the caret clear of a soft keyboard. */
+  const docked = isTouch();
   const pop = popover.openPopover(p, bar, {
     className: "editBar" + (docked ? " docked" : ""),
     dismissOnOutside: false,
@@ -128,13 +151,14 @@ export function openEditor(para, seedQuote, opts) {
   const signal = ac.signal;
   const s = {
     para,
+    group,
+    span,
     el: p,
     raw,
-    orig: para.text,
+    orig,
     chap: para.chap,
     snip: para.snip,
     existing,
-    auto,
     docked,
     pop,
     ac,
@@ -145,9 +169,9 @@ export function openEditor(para, seedQuote, opts) {
   pop.onClose = () => teardown(s, { repaint: true });
 
   // Put the caret exactly where the reader was: re-select the phrase they chose,
-  // or (auto mode) drop it at the character they clicked.
-  if (auto) placeCaret(p, raw, opts.caret);
-  else seedSelection(p, raw, seedQuote);
+  // or drop it at the character they clicked.
+  if (seedQuote) seedSelection(p, raw, seedQuote);
+  else placeCaret(p, raw, opts.caret);
 
   p.focus(); // LAST. See the note on this function.
 
@@ -254,7 +278,22 @@ function teardown(s, o) {
   s.el.contentEditable = "false";
   s.el.classList.remove("editingP");
   render.setEditing(null);
-  if (!o || o.repaint !== false) render.renderPara(s.para, { stable: true, force: true });
+  if (!o || o.repaint !== false) repaintGroup(s);
+}
+
+/* Repaint the anchor AND every paragraph the run covered. Whether they stay
+   hidden is decided by the store, not by what the editor did to the DOM on the
+   way in: recomputeAbsorbed() reads the record that was just written (or just
+   deleted), so a saved run keeps them absorbed and a cancelled or reverted one
+   brings them straight back. */
+function repaintGroup(s) {
+  const flipped = render.recomputeAbsorbed();
+  render.renderPara(s.para, { stable: true, force: true });
+  for (let i = 1; i < s.group.length; i++) {
+    render.renderPara(s.group[i], { force: true });
+  }
+  // Anything outside this run whose absorption changed as a result.
+  for (const para of flipped) if (!s.group.includes(para)) render.renderPara(para, { force: true });
 }
 
 function save(s) {
@@ -266,19 +305,20 @@ function save(s) {
   const untouched = v === s.raw;
   teardown(s, { repaint: false });
 
-  // Auto mode commits on a click elsewhere, so "clicked in, clicked straight
-  // out" must leave no trace at all: no record, no toast, nothing to undo.
-  if (s.auto && untouched) {
-    render.renderPara(s.para, { stable: true, force: true });
+  /* Opening and closing without typing leaves NO trace — no record, no toast,
+     nothing to undo. This used to apply only to the tap-to-edit path; there was
+     never a reason for the other doors to behave differently. */
+  if (untouched) {
+    repaintGroup(s);
     return;
   }
   if (v.trim() === s.orig.trim()) {
     if (s.existing) store.deleteRev(s.chap, s.snip);
-    else render.renderPara(s.para, { stable: true, force: true });
+    repaintGroup(s);
     toast("No change from the original");
     return;
   }
-  store.upsertRev(s.chap, s.snip, s.orig, v);
+  store.upsertRev(s.chap, s.snip, s.orig, v, s.span);
   /* Repaint EXPLICITLY, exactly as the old redecorateStable(p) did. teardown
      ran with repaint:false, so the <p> still holds the raw markdown this
      editor put in it, and the change event alone is not enough to get rid of
@@ -289,8 +329,14 @@ function save(s) {
      no diff and no dots, until a mode toggle or a reload. When the text DID
      change the subscriber has already painted and this second pass is a
      no-op assignment on one paragraph. */
-  render.renderPara(s.para, { stable: true, force: true });
-  toast(v.trim() ? "Revision saved" : "Marked for deletion");
+  repaintGroup(s);
+  toast(
+    !v.trim()
+      ? "Marked for deletion"
+      : s.span > 1
+        ? "Revision saved across " + s.span + " paragraphs"
+        : "Revision saved"
+  );
 }
 
 /* ---------- caret ---------- */

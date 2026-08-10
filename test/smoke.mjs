@@ -290,6 +290,104 @@ async function measure(url, sel) {
   return { load, commit, recorded };
 }
 
+/* ---------- editing across paragraphs ---------- */
+console.log("\n== editing across paragraphs ==");
+{
+  const { ctx, page, errors } = await newPage({ viewport: { width: 1200, height: 900 } },
+    { [KEY_MODE]: "review", [KEY_INLINE]: "on", [KEY_REVS]: "[]", [KEY_NOTES]: "[]" });
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+
+  // Drag-select across three paragraphs, which used to leave the toolbar hidden.
+  await page.evaluate(() => {
+    // Three paragraphs WITHIN one chapter. Indices 3-5 straddle the
+    // prologue/Chapter One boundary, which the run is supposed to refuse.
+    const ps = [...document.querySelectorAll("#book p.para")].slice(6, 9);
+    const r = document.createRange();
+    r.setStart(ps[0].firstChild || ps[0], 0);
+    // End INSIDE the third paragraph, which is what a real drag does.
+    const walk = document.createTreeWalker(ps[2], NodeFilter.SHOW_TEXT);
+    let t = walk.nextNode(), lastText = t;
+    while (t) { lastText = t; t = walk.nextNode(); }
+    r.setEnd(lastText, Math.max(1, Math.floor(lastText.nodeValue.length / 2)));
+    const sel = getSelection();
+    sel.removeAllRanges();
+    sel.addRange(r);
+    document.dispatchEvent(new MouseEvent("mouseup", { bubbles: true }));
+  });
+  await page.waitForTimeout(300);
+  ok(await page.locator("#selTools").evaluate((e) => e.classList.contains("show")),
+     "the toolbar appears for a selection spanning three paragraphs");
+
+  await page.locator("#btnAddEdit").click();
+  await page.waitForTimeout(400);
+  const opened = await page.evaluate(() => {
+    const el = document.activeElement;
+    return el && el.isContentEditable ? el.innerText : null;
+  });
+  ok(opened && opened.split(/\n\s*\n/).length === 3,
+     "all three open in one editor, blank-line separated",
+     opened ? opened.split(/\n\s*\n/).length + " blocks" : "no editor");
+
+  // Merge the whole run into one paragraph and save.
+  await page.evaluate(() => {
+    document.activeElement.textContent = "The three became one.";
+    document.activeElement.dispatchEvent(new Event("input", { bubbles: true }));
+  });
+  await page.locator(".composer.edit .save").click();
+  await page.waitForTimeout(600);
+
+  const rec = await page.evaluate((k) => JSON.parse(localStorage.getItem(k) || "[]"), KEY_REVS);
+  ok(rec.length === 1, "one record, not three", rec.length + " records");
+  ok(rec[0] && rec[0].span === 3, "and it carries span 3", JSON.stringify(rec[0] && rec[0].span));
+  ok(rec[0] && rec[0].original.split(/\n\s*\n/).length === 3,
+     "its original is the three paragraphs joined");
+  const hidden = await page.evaluate(() =>
+    [...document.querySelectorAll("#book p.para.isAbsorbed")].length);
+  ok(hidden === 2, "the two absorbed paragraphs are off the page", hidden + " hidden");
+
+  // Revert must bring them back.
+  await page.locator("#book p.para.hasEdit .editDot").first().click();
+  await page.waitForTimeout(400);
+  await page.locator(".composer.edit .del").click();
+  await page.waitForTimeout(500);
+  const after = await page.evaluate(() => ({
+    recs: JSON.parse(localStorage.getItem("ardenmoor.revisions.v1") || "[]").length,
+    hidden: [...document.querySelectorAll("#book p.para.isAbsorbed")].length,
+  }));
+  ok(after.recs === 0 && after.hidden === 0,
+     "reverting restores all three paragraphs", JSON.stringify(after));
+  /* A run must never cross a chapter heading: the record is keyed on the
+     anchor's chapter, so a run that spanned one would file the next chapter's
+     prose under this one. Paragraphs 3-5 straddle prologue -> Chapter One. */
+  await page.evaluate(() => {
+    const ps = [...document.querySelectorAll("#book p.para")].slice(3, 6);
+    const r = document.createRange();
+    r.setStart(ps[0].firstChild || ps[0], 0);
+    const w = document.createTreeWalker(ps[2], NodeFilter.SHOW_TEXT);
+    let t = w.nextNode(), lastText = t;
+    while (t) { lastText = t; t = w.nextNode(); }
+    r.setEnd(lastText, 5);
+    const sel = getSelection();
+    sel.removeAllRanges();
+    sel.addRange(r);
+    document.dispatchEvent(new MouseEvent("mouseup", { bubbles: true }));
+  });
+  await page.waitForTimeout(300);
+  await page.locator("#btnAddEdit").click();
+  await page.waitForTimeout(400);
+  const crossed = await page.evaluate(() => {
+    const el = document.activeElement;
+    return el && el.isContentEditable ? el.innerText.split(/\n\s*\n/).length : -1;
+  });
+  ok(crossed === 2, "a run stops at a chapter boundary", crossed + " paragraphs opened");
+  await page.keyboard.press("Escape");
+  await page.waitForTimeout(300);
+
+  ok(errors.length === 0, "no page errors across the span path", errors.join(" | "));
+  await ctx.close();
+}
+
 /* ---------- the build stamp ---------- */
 console.log("\n== build stamp ==");
 {

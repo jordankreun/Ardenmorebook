@@ -59,6 +59,14 @@ store.subscribe((change) => {
       render.renderPara(para, { stable: true });
     }
   }
+  /* A spanning revision hides the paragraphs after its anchor, so writing or
+     deleting one changes paragraphs that do NOT carry its key and would
+     otherwise never be repainted. Reverting from the edit dot left them hidden:
+     the record was gone and the text stayed off the page. Repaint whatever the
+     recompute says actually changed, which is usually nothing at all. */
+  for (const para of render.recomputeAbsorbed()) {
+    render.renderPara(para, { force: true });
+  }
 });
 
 render.setMode(render.getMode());
