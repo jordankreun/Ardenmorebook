@@ -146,9 +146,17 @@ export function renderPara(para, opts = {}) {
   }
 
   if (absorbed.has(para)) {
+    /* Part of a run that a spanning revision replaced. It used to be taken off
+       the page entirely, which hid what the change actually cost: a merge of
+       three paragraphs into one simply made two of them disappear with no mark.
+       Now it stays where it is and reads as struck-out original, in the same
+       markup a word-level deletion uses, so the passage still tells you what was
+       there. Read mode drops it, because read mode shows the book as edited. */
     el.classList.add("isAbsorbed");
-    el.innerHTML = "";
-    lastPaint.delete(el); // so it repaints properly when it comes back
+    el.classList.remove("hasNote", "hasEdit", "isDeleted", "isCut");
+    el.innerHTML =
+      mode === "read" ? "" : '<span class="diff-del">' + esc(para.text) + "</span>";
+    lastPaint.delete(el); // absorption is outside the memo; always repaint
     return;
   }
   el.classList.remove("isAbsorbed");
@@ -206,13 +214,13 @@ function paint(el, para, rev, note) {
   if (rev) {
     el.classList.add("hasEdit");
     el.classList.toggle("isDeleted", !(rev.revised && rev.revised.trim()));
-    /* Single-paragraph records diff against the LIVE manuscript text, not the
-       stored original, so an edit still reads correctly when the paragraph has
-       been revised in the source since. A SPANNING record cannot do that: its
-       original is several paragraphs joined, and para.text is only the first, so
-       diffing against it would show the rest of the block as pure insertion. */
-    const before = Number(rev.span) > 1 ? rev.original || para.text : para.text;
-    el.innerHTML = diffHTML(before, rev.revised, rev);
+    /* Always against the LIVE manuscript text of THIS paragraph, never against
+       the stored original — so an edit still reads correctly when the source
+       paragraph has been revised since. For a spanning record that also avoids
+       showing the run twice: the paragraphs after the anchor render themselves
+       struck out where they sit, so the anchor must diff against its own text
+       alone or every one of those words would appear here as well. */
+    el.innerHTML = diffHTML(para.text, rev.revised, rev);
   } else {
     el.classList.remove("hasEdit", "isDeleted");
     el.innerHTML = paraHTML(para);

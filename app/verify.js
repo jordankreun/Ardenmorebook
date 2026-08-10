@@ -17,7 +17,17 @@ export function verifyApplied() {
   for (const r of store.allRevs()) {
     if (!r || r.resolved) continue;
     if (!manuscript.chapterTitles.has(r.chap)) continue;
-    if (manuscript.presentText.has(r.chap + "|" + normText(r.original))) continue;
+    /* ⚠️ A SPANNING record's `original` is several paragraphs joined by blank
+       lines, and presentText holds them SINGLY — so the joined string can never
+       be found there, and the naive lookup below marked every cross-paragraph
+       revision "applied" the first time sync ran and dropped it from the open
+       list. Silent loss of the author's work, on the one edit shape that is
+       most laborious to redo. Check the parts instead, and err toward keeping
+       the record open: while ANY of the original paragraphs is still in the
+       manuscript the change has not been written in yet. */
+    const parts =
+      Number(r.span) > 1 ? String(r.original || "").split(/\n\s*\n/) : [r.original];
+    if (parts.some((t) => manuscript.presentText.has(r.chap + "|" + normText(t)))) continue;
     /* The original text is gone from the manuscript, so the author applied this
        change upstream. Mark it resolved — and do NOT touch r.ts. `ts` is the
        creation time and the merge tiebreaker; moving it to "now" on resolve made

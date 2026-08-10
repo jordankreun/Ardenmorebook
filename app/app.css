@@ -297,7 +297,11 @@ code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .85em }
   a { color: inherit !important; text-decoration: none !important }
 }
 
-/* A paragraph absorbed into a spanning revision. The anchor paragraph above it
-   is showing the diff for the whole block, so this one must not also show its
-   own old text underneath. Reverting the revision puts it straight back. */
-.para.isAbsorbed { display: none; }
+/* A paragraph swallowed by a spanning revision: kept on the page and struck
+   through, so a three-into-one merge still shows what it cost. The inner
+   .diff-del carries the line-through; this rule only mutes the surround and
+   suppresses the paragraph indent, since a struck block is not a paragraph the
+   reader is meant to read into. Read mode collapses it away entirely, because
+   read mode shows the book as edited. */
+.para.isAbsorbed { opacity: .9; text-indent: 0; }
+:root[data-mode="read"] .para.isAbsorbed { display: none; }

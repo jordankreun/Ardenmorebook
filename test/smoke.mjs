@@ -342,9 +342,33 @@ console.log("\n== editing across paragraphs ==");
   ok(rec[0] && rec[0].span === 3, "and it carries span 3", JSON.stringify(rec[0] && rec[0].span));
   ok(rec[0] && rec[0].original.split(/\n\s*\n/).length === 3,
      "its original is the three paragraphs joined");
-  const hidden = await page.evaluate(() =>
-    [...document.querySelectorAll("#book p.para.isAbsorbed")].length);
-  ok(hidden === 2, "the two absorbed paragraphs are off the page", hidden + " hidden");
+  const swallowed = await page.evaluate(() => {
+    const els = [...document.querySelectorAll("#book p.para.isAbsorbed")];
+    return {
+      n: els.length,
+      allStruck: els.every((e) => e.querySelector(".diff-del")),
+      allVisible: els.every((e) => getComputedStyle(e).display !== "none"),
+      text: els.map((e) => e.textContent.trim().length),
+    };
+  });
+  ok(swallowed.n === 2, "the two swallowed paragraphs are marked", swallowed.n + " marked");
+  ok(swallowed.allStruck, "and are struck through, not deleted from the page");
+  ok(swallowed.allVisible && swallowed.text.every((n) => n > 0),
+     "and still show their original words", JSON.stringify(swallowed.text));
+  // The anchor must not ALSO carry the struck run, or it would appear twice.
+  const anchorDels = await page.evaluate(() =>
+    document.querySelector("#book p.para.hasEdit").textContent.trim().length);
+  ok(anchorDels > 0, "the anchor shows its own diff");
+
+  // Read mode is the book as edited: the struck run goes away entirely.
+  await page.locator("#btnMode").click();
+  await page.waitForTimeout(400);
+  const inRead = await page.evaluate(() =>
+    [...document.querySelectorAll("#book p.para.isAbsorbed")]
+      .every((e) => getComputedStyle(e).display === "none"));
+  ok(inRead, "read mode drops the struck run entirely");
+  await page.locator("#btnMode").click();
+  await page.waitForTimeout(400);
 
   // Revert must bring them back.
   await page.locator("#book p.para.hasEdit .editDot").first().click();
@@ -385,6 +409,64 @@ console.log("\n== editing across paragraphs ==");
   await page.waitForTimeout(300);
 
   ok(errors.length === 0, "no page errors across the span path", errors.join(" | "));
+  await ctx.close();
+}
+
+/* ⚠️ The one that would have lost work. verifyApplied() runs on every start and
+   every sync, and resolves a revision whose original text is no longer in the
+   manuscript. A spanning original is several paragraphs joined by blank lines,
+   and the lookup table holds them SINGLY, so the joined string was never found
+   and every cross-paragraph edit was marked "applied" and dropped from the open
+   list the first time sync ran. Seeded directly, so it tests verifyApplied and
+   nothing else. */
+console.log("\n== a spanning revision survives verifyApplied ==");
+{
+  const probe = await newPage({}, { [KEY_MODE]: "review" });
+  await probe.page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await probe.page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  const seed = await probe.page.evaluate(() => {
+    const ps = [...document.querySelectorAll("#book p.para")].slice(6, 9);
+    /* The heading renders as <span class="kicker">Chapter Seven</span>Wednesdays,
+       so textContent is "Chapter SevenWednesdays" — NOT the canonical
+       "Chapter Seven: Wednesdays". Seeding the wrong title makes verifyApplied
+       skip the record on its unknown-chapter guard, and the test then passes
+       against broken code, which is how the first version of this fooled me. */
+    const h = ps[0].closest("section.chapter").querySelector("h2.chap");
+    const kick = h.querySelector(".kicker");
+    const chap = kick
+      ? kick.textContent.trim() + ": " + h.textContent.slice(kick.textContent.length).trim()
+      : h.textContent.trim();
+    return { chap, texts: ps.map((p) => p.textContent.trim()) };
+  });
+  await probe.ctx.close();
+
+  const rec = {
+    chap: seed.chap,
+    snip: seed.texts[0].slice(0, 40),
+    original: seed.texts.join("\n\n"),
+    revised: "The three became one.",
+    ts: Date.now(),
+    resolved: false,
+    span: 3,
+  };
+  /* verifyApplied() runs ONLY after a successful sync pull, so the secret is
+     required — without it the earlier version of this test passed against the
+     broken code, which is worse than having no test. */
+  resetStore({ notes: [], revisions: [], clearedAt: 0 });
+  const { ctx, page } = await newPage({}, {
+    [KEY_MODE]: "review", [KEY_REVS]: JSON.stringify([rec]), [KEY_NOTES]: "[]",
+    "ardenmoor.sync.secret.v1": "harness-secret",
+  });
+  await page.goto(BASE + "/", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para", { timeout: 20000 }).catch(() => {});
+  await page.waitForTimeout(900);
+  const after = await page.evaluate((k) => {
+    const all = JSON.parse(localStorage.getItem(k) || "[]");
+    return { n: all.length, resolved: all.filter((x) => x.resolved).length };
+  }, KEY_REVS);
+  ok(after.n === 1 && after.resolved === 0,
+     "a spanning revision is NOT auto-resolved as already applied",
+     JSON.stringify(after));
   await ctx.close();
 }
 

@@ -8,7 +8,7 @@
    number that answers "am I actually running the new code?". check-shell.mjs
    FAILs if the two drift, because a version display that lies is worse than
    none — the whole point of it is to be trusted at a glance. */
-export const APP_VERSION = "ardenmoor-v47";
+export const APP_VERSION = "ardenmoor-v48";
 
 export const MANIFEST_URL = "manuscript/manifest.json";
 export const CHAPTER_DIR = "manuscript/";
