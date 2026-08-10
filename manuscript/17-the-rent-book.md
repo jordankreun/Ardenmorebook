@@ -96,7 +96,7 @@ She cried then, briefly and furiously and without any apparent connection to her
 
 The Tolls' widow held four thistled acres of the NE meadow and wanted rid of them. Her sons had gone to Wainford; the ground had gone back; there were arrears on the roll that were real on paper, and she stood in her kitchen with her hands in her apron while I read the figure out, and I looked at the room while I was reading it and understood that I could have had the four acres and everything else in that house and it would not have bought a week of a mason's time. "The boys would have sent something," she said, when I had done, to the window rather than to me. "If they'd known there was anyone left to send to." It was the only thing she said in that kitchen that was not yes or no.
 
-**Cob Ferris**, up the beck, owed me for a strip he had never worked in his life. He gave me twenty minutes on how difficult that strip was to reach, and that was true; on how he had always meant to get to it, and that was not; and on how times were hard, that being the one thing everybody says and everybody means. He would pay eventually. Men like Ferris always pay eventually: slowly, partly, and with a grievance.
+Cob Ferris, up the beck, owed me for a strip he had never worked in his life. He gave me twenty minutes on how difficult that strip was to reach, and that was true; on how he had always meant to get to it, and that was not; and on how times were hard, that being the one thing everybody says and everybody means. He would pay eventually. Men like Ferris always pay eventually: slowly, partly, and with a grievance.
 
 And Tobin Hask had the six-acre strip through the middle of the Wrays' field.
 

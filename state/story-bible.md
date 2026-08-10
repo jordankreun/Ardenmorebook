@@ -541,7 +541,7 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   `modes/developmental.md` states as "Soren is a child, not an oracle," now with a worked instance.)
 - **Ren**, 16 — builder's son; FEELS magic through his hands; honest to the grain, distinguishes
   what he knows from what merely sounds right; building metaphors.
-- **Jorin** — master builder; single freighted words ("Good." "Even." "Boy's ready."); aligns
+- **Jorin** — master builder; single freighted words ("Good." "Boy's ready."; NOT "Even." — that is TOMAS's, once, Ch 22, and giving it to two mouths halves it); aligns
   objects to edges; >2 sentences = major moment.
 - **Tomas** — blacksmith; stillness, long pauses, one load-bearing question; "Even." closes
   deals; heard the hum alone for months before Emlyn and told no one; standing promise: he will

@@ -26,6 +26,32 @@
 - Standing conventions that remain operative live in `references/session-locks.md`; world facts
  live in `state/story-bible.md`; setups live in `state/thread-ledger.md`.
 
+## ⚠️ FOUR RECAP LINES ARE STALE — VERIFIED AGAINST THE PAGE 2026-08-10
+
+Found while briefing the Part III–IV expansion. **Where a recap line and the manuscript disagree,
+THE MANUSCRIPT WINS.** These four were checked file by file and are wrong as written; they are left
+in place rather than rewritten from memory, because a confidently rewritten recap is how this rot
+started. Fix them only by reading the chapter.
+
+- **[16]** credits Ch 16 with the "eleven silver" reckoning and the "And who's setting it?" close.
+  Ch 16 contains no coin figure at all and ends on the second stone. Both belong to **Ch 18**.
+- **[17]** is substantially a duplicate of **Ch 18**: it gives Ch 17 the consolidation, Bewick's ten
+  acres, the widow's firewood, Ferris's swap, Hask's three visits and Tam's acres. Verified by grep:
+  "firewood" appears 0 times in Ch 17 and Hask 2 times against Ch 18's 6. This is the highest-risk
+  entry in the ledger — it describes a chapter that is not the one it names.
+- **[30]** places Cecily's letter in Ch 30. "Cecily" appears **0** times in Ch 30 and twice in
+  **Ch 31**.
+- **[30] and the filename call the chapter "The Fire".** Its own heading on the page reads
+  **"Chapter Thirty: A Dry Month"**. The heading is authoritative; the filename `30-the-fire.md` is
+  not being renamed, because the manifest, the service worker precache list and every stored
+  revision key would move with it.
+
+Also recorded, and NOT to be "corrected" by a later pass: **Pardon's eleven fleeces and the ten on
+the cart are both right**; **Tomas's solitary hearing** is given as months / ~2 yrs / "two year" /
+"three years" across the bible, Ch 12 and Ch 26 and is reconcilable, so nobody should restate it;
+and the seasonal run Ch 20–26 carries more spring weeks than a calendar allows, which is anchored by
+event order and weather and must not be re-dated.
+
 ## RECAP LEDGER
 
 [00] Prologue — The ancient narrator frames the book as an honest accounting: he writes not
