@@ -25,11 +25,43 @@ function ghHeaders(token) {
   };
 }
 
+/* Every failure below carries the GitHub status on the error object. Without it
+   the handler's catch-all turned a revoked token, a renamed repo and a rate-limit
+   into one indistinguishable 500, which the reader then showed as "server error"
+   — a message that tells the author nothing they can act on. */
+function ghError(status, what) {
+  const e = new Error(what);
+  e.ghStatus = status;
+  return e;
+}
+
+/* The Contents API answers 404 for a missing FILE and for a missing REPO or
+   BRANCH alike, and the two could not be more different: the first is the normal
+   first-run state, the second means GH_REPO or GH_BRANCH is wrong. Treating both
+   as "no file yet" made a misconfigured deployment return 200 with empty lists —
+   the reader showed no notes, reported sync healthy, and quietly accepted an
+   empty store as the truth. Resolve it once per invocation, and only when a 404
+   actually happens, so the normal path costs nothing. */
+let repoReachable = null;
+async function assertRepoReachable(repo, branch, token) {
+  if (repoReachable === null) {
+    const r = await fetch(`${API}/repos/${repo}/branches/${encodeURIComponent(branch)}`, {
+      headers: ghHeaders(token),
+    });
+    repoReachable = r.ok;
+    if (!r.ok && r.status !== 404) throw ghError(r.status, `branch check -> ${r.status} ${await r.text()}`);
+  }
+  if (!repoReachable) throw ghError(404, `repo or branch not found: ${repo}#${branch}`);
+}
+
 async function ghGetFile(repo, branch, token, path) {
   const url = `${API}/repos/${repo}/contents/${encodeURIComponent(path)}?ref=${encodeURIComponent(branch)}`;
   const r = await fetch(url, { headers: ghHeaders(token) });
-  if (r.status === 404) return { exists: false, sha: null, text: null };
-  if (!r.ok) throw new Error(`GET ${path} -> ${r.status} ${await r.text()}`);
+  if (r.status === 404) {
+    await assertRepoReachable(repo, branch, token);
+    return { exists: false, sha: null, text: null };
+  }
+  if (!r.ok) throw ghError(r.status, `GET ${path} -> ${r.status} ${await r.text()}`);
   const j = await r.json();
   const text = Buffer.from(j.content || "", "base64").toString("utf8");
   return { exists: true, sha: j.sha, text };
@@ -61,7 +93,7 @@ async function ghWriteFile(repo, branch, token, path, message, getContent) {
     const r = await fetch(url, { method: "PUT", headers: ghHeaders(token), body: JSON.stringify(body) });
     if (r.ok) return true;
     const txt = await r.text();
-    lastErr = new Error(`PUT ${path} -> ${r.status} ${txt}`);
+    lastErr = ghError(r.status, `PUT ${path} -> ${r.status} ${txt}`);
     if (r.status !== 409 && r.status !== 422) throw lastErr;
     await sleep(180 * (attempt + 1));
   }
@@ -80,7 +112,7 @@ async function ghCommitFiles(repo, branch, token, build, message) {
   const H = ghHeaders(token);
   const gh = async (path, init) => {
     const r = await fetch(`${API}/repos/${repo}${path}`, { headers: H, ...(init || {}) });
-    if (!r.ok) throw new Error(`${path} -> ${r.status} ${await r.text()}`);
+    if (!r.ok) throw ghError(r.status, `${path} -> ${r.status} ${await r.text()}`);
     return r.json();
   };
   for (let attempt = 0; attempt < 3; attempt++) {
@@ -117,7 +149,7 @@ async function ghCommitFiles(repo, branch, token, build, message) {
         method: "PATCH", headers: H, body: JSON.stringify({ sha: commit.sha, force: false }),
       });
       if (r.ok) return true;
-      if (r.status !== 422 && r.status !== 409) throw new Error(`PATCH ref -> ${r.status} ${await r.text()}`);
+      if (r.status !== 422 && r.status !== 409) throw ghError(r.status, `PATCH ref -> ${r.status} ${await r.text()}`);
       await sleep(200 * (attempt + 1));   // someone else moved the branch; rebuild on the new head
     } catch (e) {
       if (attempt === 2) throw e;
@@ -240,6 +272,8 @@ module.exports = async (req, res) => {
   const branch = process.env.GH_BRANCH || "main";
 
   res.setHeader("Cache-Control", "no-store");
+  // Serverless containers are reused; do not let one request's verdict outlive it.
+  repoReachable = null;
 
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
   if (!secret || !token || !repo) {
@@ -349,6 +383,24 @@ module.exports = async (req, res) => {
 
     res.status(405).json({ ok: false, error: "method not allowed" });
   } catch (e) {
-    res.status(500).json({ ok: false, error: String((e && e.message) || e) });
+    /* Name the cause. These are the four ways this endpoint actually fails in
+       production, and each one has a different fix that only the author can
+       apply — so saying "server error" wastes the one piece of information the
+       server had. The detail is kept too; it is this project's own repo and the
+       endpoint is behind a shared secret, so there is nothing to leak to a
+       stranger who could not already read it. */
+    const st = e && e.ghStatus;
+    const detail = String((e && e.message) || e);
+    const named =
+      st === 401
+        ? { code: "gh_unauthorized", error: "GitHub rejected the token (401). GH_TOKEN has expired or been revoked — issue a new one in Vercel." }
+        : st === 403
+          ? { code: "gh_forbidden", error: "GitHub refused (403). Either GH_TOKEN lacks Contents: Read and write on this repo, or the API rate limit is spent." }
+          : st === 404
+            ? { code: "gh_not_found", error: "GitHub could not find the repo or branch. Check GH_REPO (owner/repo) and GH_BRANCH in Vercel." }
+            : st === 409 || st === 422
+              ? { code: "gh_conflict", error: "GitHub rejected the write after retries (conflict). Another device may be syncing; try again." }
+              : { code: "server_error", error: "Sync failed on the server." };
+    res.status(500).json({ ok: false, ...named, detail });
   }
 };

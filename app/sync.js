@@ -120,16 +120,24 @@ export const SYNC = {
   _fail(status, msg) {
     SYNC.on = false;
     let code = "";
+    let error = "";
     try {
-      code = JSON.parse(msg || "{}").code || "";
+      const j = JSON.parse(msg || "{}");
+      code = j.code || "";
+      error = j.error || "";
     } catch {}
+    /* A 500 used to collapse to the single word "server error" no matter what
+       had actually happened, so a revoked token, a mistyped repo name and a
+       spent rate limit were indistinguishable — and every one of those has a
+       different fix that only the author can apply. The server now names the
+       cause; show what it said rather than throwing it away. */
     SYNC.err =
       status === 401
         ? "wrong password"
         : status === 500
           ? code === "not_configured" || /not configured/i.test(msg || "")
             ? "server not configured"
-            : "server error"
+            : error || "server error"
           : status === 404
             ? "no sync endpoint (is the site deployed?)"
             : status
