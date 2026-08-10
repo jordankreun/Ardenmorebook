@@ -8,7 +8,7 @@
 ## STATUS
 
 - Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III.** 37 files,
-  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **186,093 words**
+  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **186,290 words**
   (prose lines only; blank lines and `#`-headers excluded — the method `tools/state-check.sh`
   documents). Keep this bullet current: `state-check.sh` FAILs when it falls behind the manifest.
 - **Current work is REVISION, not continuation.** The storycraft pass (2026-07-31) runs part by
@@ -221,22 +221,37 @@ if it needs a new one, add it here.
 
 **Protagonist.** Emlyn Ambrose — planewright wizard. Precise, patient, dry humor, grief-slowed.
 Only child of a Vethmark architect; trained as a draftsman before his talent developed.
-**⚠️ HIS KIT IS A TINKER'S DRAWER, NOT A SURVEYOR'S (author, 2026-08-10: "Make wizards tools more
-like tinkerers tools less like surveyors").** Files, a fine-nosed pliers, a tap-hammer, gauges on a
-ring, brass wire, a little square he uses forty times a day. Small, handled, sprung, adjustable —
-things you fettle with. What is excluded is the surveyor's SIGNATURE kit: the chain, the banded
-rods, the staves, the compass on gimbals. That belongs to the surveyor two valleys over, whose case
-Emlyn repairs in Ch 7 and whose kit the text calls *"a beautiful thing, and nothing whatever like
-mine."* The contrast is deliberate and load-bearing, because the trades look adjacent from outside
-and are not. His draftsman's training shows in how he DRAWS and how he thinks, not in a surveyor's
-instruments.
-  • **This does NOT ban ordinary shared craft tools, and a later pass must not "correct" them.**
-    A small level, a plumb bob, a chisel, a light hammer belong to every trade that works to a line.
-    Ch 4's *"Then I laid my level along it"* is the load-bearing beat of that chapter — the trench
-    was cut level and is not level now — and the level is exactly the right tool for it. Ch 13's
-    plumb bob finds the centre of a room. Both stay. The first draft of this entry listed plumbs as
-    excluded, which would have condemned two passages the author has read and kept; that wording is
-    retired. Rule of thumb: would a tinker own it? Then he may. **Fiancée
+**⚠️ HIS KIT IS A WIZARD'S, AND IS NOT ANOTHER TRADE'S KIT RELABELLED (author, 2026-08-10:
+"Make tools more magical not a rip off of another trades tools").** Two drafts of this entry got it
+wrong the same way, first by giving him a surveyor's instruments and then by giving him a tinker's,
+and swapping one borrowed trade for another is not a fix. **The principle: there is nothing in his
+kit for MEASURING.** Measuring is what you do to ground you have already decided about, and his
+whole practice begins the other way round — he asks first. So the kit is what a working is MADE of
+and LAID with, plus the hands that do the actual listening:
+  • **Blanks** — pale palm-sized stones a working is settled into and afterwards read out of; carried
+    unwritten, each in its own felt pocket so they cannot mark one another. Canon: Ch 15 (reading a
+    blank), Ch 24, Ch 29 ("the blanks and the bindings").
+  • **Binding wire** drawn finer than a hair, and **waxed silk** for a line that must not be
+    findable once laid. **Yellow wax.** A **lump of his own hill** off his own crown — not a tool,
+    never travelled without.
+  • **His hands, laid flat, and the patience to leave them there.** The book says repeatedly that
+    this is the real instrument (Ch 15's blank-reading is "a wizard sitting cross-legged on a cold
+    floor with his hands laid flat"). Whenever a scene needs him to find something out, reach for
+    the hands before reaching for an object.
+  • **⚠️ NO note-tuned instrument before Ch 25.** The fork is canon as *"the first instrument I ever
+    made in that valley"* — two tines of drawn steel tuned to the hill's baseline over a patient
+    month. Giving him any tuned or listening device earlier SPENDS Ch 25, whose title is "The Fork
+    and the Paper". Before then he has materials and hands, and that is the point.
+  • The **surveyor's** signature kit — chain, banded rods, staves, gimballed compass, trueing square
+    — belongs to the surveyor two valleys over, whose case Emlyn repairs in Ch 7 and whose kit the
+    text calls *"a beautiful thing, and nothing whatever like mine."* That contrast is load-bearing;
+    keep it, and keep it on the surveyor's side of the line.
+  • **Ordinary shared craft tools are NOT banned, and a later pass must not "correct" them.** Ch 4's
+    *"Then I laid my level along it"* is the load-bearing beat of that chapter — the trench was cut
+    level and is not level now — and Ch 13's plumb bob finds the centre of a room. Both stay. An
+    earlier draft of this entry excluded plumbs outright, which would have condemned two passages
+    the author has read and kept; that wording is retired.
+  His draftsman's training shows in how he DRAWS and how he thinks, not in instruments. **Fiancée
 Arielle** (engaged, not married; she died ~3 yrs ago **before their wedding**) is dead before the
 story opens; she appears ONLY through objects, never in flashback. Four grief-objects: the locked
 chest (cellar NE corner), her mother's unopened letter (Study desk), dimensional callipers in a

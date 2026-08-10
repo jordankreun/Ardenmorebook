@@ -130,3 +130,12 @@ no worship or prayer
 learned his letters FAST
 learned them fast
 fast at letters
+
+# Emlyn's kit. Retired TWICE on 2026-08-10: first the surveyor's instruments, then a tinker's
+# drawer, both of which were another trade's kit relabelled. A wizard's kit holds what a working
+# is made of and laid with -- blanks, binding wire, waxed silk, wax, a lump of his own hill --
+# plus his hands. Nothing in it for measuring, and no tuned instrument before Ch 25's fork.
+a tinker's drawer
+tap-hammer
+gauges on a ring
+my good level, the one I had carried

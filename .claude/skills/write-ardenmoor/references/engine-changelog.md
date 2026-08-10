@@ -221,3 +221,25 @@
   compass) and says explicitly that shared craft tools stay. Same failure as the religion rule
   yesterday: generalising past the evidence. The tell is identical — a new rule that would newly
   condemn existing kept prose is too wide, and the prose is the evidence, not the exception.
+
+- **2026-08-10 — author correction, second in a day on the same entry: "Make tools more magical not a
+  rip off of another trades tools."** I had given Emlyn a surveyor's instruments, then "fixed" it by
+  giving him the now-retired tinker's drawer — files, a tap-hammer, gauges on a ring. Swapping one borrowed
+  trade for another is not a fix, and the author caught that immediately. **A wizard's kit has to
+  come out of the magic system, not out of a hardware catalogue.**
+  The principle now recorded: **there is nothing in his kit for MEASURING**, because measuring is
+  what you do to ground you have already decided about, and his whole practice begins the other way
+  round. What he carries is what a working is MADE of and LAID with — blanks, binding wire, waxed
+  silk, wax, a lump of his own hill — and, doing the work none of it can do, his hands. All of that
+  vocabulary was ALREADY in the book (Ch 15's blank-reading, Ch 29's "blanks and bindings"); the
+  right move was to extend the book's own craft language rather than invent or borrow.
+  Two structural saves in the process. **The fork is canon as "the first instrument I ever made in
+  that valley"**, so putting any tuned or listening device in Ch 7 would have spent Ch 25, whose
+  title is "The Fork and the Paper"; he has materials and hands before then, and that is the point.
+  And the sabotage beat improves: the spoiled object is now a blank he had settled a clean working
+  into, so Soren's "This one's sad" lands on his ACTUAL gift — hearing — while keeping the structure
+  that matters, which is the expert's category ("off", "spoiled") against the child's ("sad").
+  **LESSON: a correction is not applied until the CLASS of the error is fixed.** The note said the
+  tools read as another trade's. I heard "not surveyors" and moved to the nearest neighbouring trade,
+  which reproduced the defect exactly one step over. When a note objects to a KIND of thing, changing
+  the instance is not the fix.
