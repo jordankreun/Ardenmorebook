@@ -14,7 +14,7 @@ There was no thread of fate in it, whatever a story would want. I did not come t
 
 The townhouse I had wintered in was my father's before it was mine, and my father had been an architect, which is to say a man who drew the houses, shops, and buildings that other men lived their whole lives inside of. He built a small respected firm about the doing of it, one that outlived him and stands yet, and I hold his share in it still. I learned drawing at his elbow as a boy and paid my way through school with drafting work at a board of my own, before I ever took up any stranger trade.
 
-The house he kept for himself he had drawn for my mother, early, when the firm was still more hope than trade and he built as much for love as for money. It was the finest small thing he ever set his hand to, in what had then been a quiet, unfashionable quarter of the city. The quarter did not stay unfashionable. The town grew dear and grand around it, tall bright houses rising to either side until my father's modest place sat among them like an honest word in an ornate sentence, worth many times what it had cost him and not a coin of that worth for anything he would have counted. I grew up in those rooms and was happy in them, when the house smelled of drawing-ink and my mother's baking and the windows stood open on the garden half the year. When they were gone it came to me, and after everything I came back to it: the one place that had never asked me to be anything more than I was.
+The house he kept for himself he had drawn for my mother, early, when the firm was still more hope than trade and he built as much for love as for money. It was the finest small thing he ever set his hand to, in what had then been a quiet, unfashionable quarter of the city. The quarter did not stay unfashionable. The city  grew dear and grand around it, tall bright houses rising to either side until my father's modest place sat among them like an honest word in an ornate sentence, worth many times what it had cost him and not a coin of that worth for anything he would have counted. I grew up in those rooms and was happy in them, when the house smelled of drawing-ink and my mother's baking and the windows stood open on the garden half the year. When they were gone it came to me, and after everything I came back to it: the one place that had never asked me to be anything more than I was.
 
 I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boots while my own went up across the river; and my own was to be a wonder, or a warning, depending on when you asked. It was grander than anything my father would have put his name to, taller, flashier, altogether more foolish: his clean lines swollen to thrice the scale and as many times the cost, a great bright gesture ahead of a wedding. I commissioned it of my father's firm. That is the polite way of saying I went to the men who had taught me and told them what I wanted instead of asking them what was good. I drew a small part of it myself in the good years, when I still supposed I knew what I was building toward, and left them the rest of the drawing and the long patient business of putting it up. There was no wedding. I never lived in the house. For three years it stood across the water as a reminder of a life that had not happened, costing a small fortune to keep empty, and I could no more sell it than cross its threshold. Penworth spent that winter trying, with a delicacy that cost him something, to talk me round to letting it go, for the sake of my purse and, though he was too careful to say it, the rest of me.
 
@@ -81,6 +81,8 @@ He thought about it. He was not a quick man, but he was an honest one, and he st
 "There's use in it. There's no bargain in it, here." I put my hands in my pockets, because they were cold and because it was easier than saying the rest. The rest was that I could have done it, once, given a winter and a free hand and somebody else's money, and that I had spent three years not doing anything of the kind. "Shorten her grade by a foot in the hundred and you'd save more than I could."
 
 That amused him rather more than it deserved. "Aye. Tell the company."
+
+I have had that conversation, or a cousin of it, on a dozen platforms, and the answer never changes because the arithmetic never does. There are not enough of us. Not rare in the way people mean when they call a thing rare; there is no shortage of world to work on. There is a shortage of hands that can work it, a scattered handful across the whole Commonwealth, every one of them wanted in six places at once. Put one of those hands into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out, and they never want tending by a man who took twenty years to make. That is the whole of why the country runs on coal and not on us, and there is no failure of anybody's imagination in it. It is a sum, and it comes out the same every time it is done honestly.
 
 The whistle went. He was up the side of the tender like a man going up his own stairs. I walked back down past the horse-box, where Snow had her head over the door and her position unaltered, and got into the cold carriage, and we went on.
 
@@ -180,7 +182,7 @@ He picked out her feet last, each one in turn, running his thumb round the frog 
 
 "She got it in the autumn."
 
-"It's grown out." He set the foot down. "Mostly."
+"It's grown out." He set the foot down.
 
 That was the whole of our conversation. He gave her a measure of oats and a slab of hay and shot the bolt, and checked the bolt, and went out past me into the dark at a trot. I had learned more about how he had been raised than an hour of talk would have told me.
 
@@ -195,12 +197,6 @@ She never once appeared to look up from the glass she was drying.
 "Four days on it, by the boots." She put the glass on the shelf and took another off the rack. "You'll have come about the hill."
 
 I said that I had.
-
-"Then you're expected." She looked at me once, properly, and then put that look away again wherever it was she kept it. "Emlyn."
-
-I had not given her the name, and I said so.
-
-"No," she agreed, and went on drying.
 
 "You'll be the wizard, then," she said, setting down a cup I had not asked for and immediately wanted. She said the word as another woman might have said *the man about the drains*: a trade, come to do a thing that wanted doing. I have been announced in grander rooms with more ceremony and less competence. "Room's held and paid, a fortnight since, by your man's man. Sit. Eat." A glance took the road off me in one pass. "You've the look of a man who's been eating out of his saddlebags."
 
@@ -222,7 +218,7 @@ I sat in the middle of it with my bread and my beer and did not follow half of i
 
 They looked at me too. I want to be fair about that. A stranger is a piece of news in a place that has not had any since the wet spell, and they took what they wanted from me over the tops of their cups: the coat, the boots, the fact that I ate like a man lately off a road. Once I heard the word *hill* two tables away, and then not again. That was manners. Once a small boy was sent past my elbow on an errand that did not require going past my elbow, looked at me the whole way, and went back to report.
 
-Nobody spoke to me. I have been in rooms where that would have been an insult and rooms where it was a mercy, and this was neither. It was only that they had not decided yet, and saw no cause to hurry about it, and had a thatch to discuss.
+Nobody spoke to me. I have been in rooms where that would have been an insult and rooms where it was a mercy, and this was neither. It was only that they had not decided yet, and saw no cause to hurry about it, and had thatch to discuss.
 
 Lira went round the room twice while I ate and never once appeared to be going round the room. A jug came off the bar and reached the far table without anybody having asked for it. A stool was moved out of a path with her foot as she passed. At some point a coat that had been over the back of a chair was on a peg instead.
 
