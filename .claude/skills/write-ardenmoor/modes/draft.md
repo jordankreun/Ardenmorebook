@@ -11,7 +11,7 @@ Always, before anything else: `references/session-locks.md`.
 
 Then, in this order:
 - `references/storycraft.md` (full) — the story curriculum. Module 14 supplies the plan block.
-- `references/style-guide.md` (full), `references/voice-rothfuss-mancour.md` (full)
+- `references/voice.md` (full), `references/voice.md` (full)
 - `references/feedback-engine.md` (full) — write *toward* it from the first line
 - `state/story-bible.md` — the **spine**: STATUS, SESSION-LOCKED block, LOCKED CANON, CAST,
   WHO KNOWS WHAT, NUMBERS LEDGER. Plus the `ESTABLISHED ON THE PAGE` blocks for
@@ -243,7 +243,7 @@ traded as an honest commercial craft, a cast gathering to the work. That buildin
 book's warmth and most of its domestic plot, and it's rendered with relish. The one discipline:
 commerce is always also character — every deal carries a feeling, and the practice never hardens
 into a spreadsheet. Lyric attention trained on a built, working world, on a floor of restraint.
-The full articulation is in `references/voice-rothfuss-mancour.md` and governs everything.
+The full articulation is in `references/voice.md` and governs everything.
 
 Hard voice rules (from the style guide, non-negotiable):
 - **POV (Spellmonger hybrid, session-lock #1):** Emlyn's chapters are FIRST PERSON, past tense, in
@@ -312,6 +312,10 @@ The user will ask for these in ordinary language; treat them as requests, not co
   automatically on every fresh draft before delivery.)
 
 ## FAILURE MODES TO AVOID
+
+- **Chasing a laugh past the floor.** Humor is budgeted in `references/voice.md` §7 and is
+  **ZERO** in grief, in the undercurrent, and in the interludes. When unsure, under-spend: the book
+  survives a missing joke, it does not survive a cracked floor.
 
 - Drafting before reading the previous chapter (causes voice and image discontinuity).
 - Forgetting to update the story bible (later chapters then contradict this one).

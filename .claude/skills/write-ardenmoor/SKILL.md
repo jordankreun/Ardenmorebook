@@ -147,7 +147,7 @@ as evidence the writing is good.
 Paths are relative to the REPO ROOT.
 
 - `references/` — `session-locks.md` (binding, always) · `storycraft.md` (story curriculum) ·
-  `style-guide.md` (the sentences) · `voice-rothfuss-mancour.md` (the voice) ·
+  `voice.md` (voice, tone, diction, humor, prose mechanics — the SINGLE SOURCE OF TRUTH) ·
   `feedback-engine.md` (the author's accumulated preferences, each sourced) ·
   `continuity-checklist.md` · `outline.md` · and on demand `exemplars.md`,
   `editorial-read.md`, `economy.md`, `engine-changelog.md`
@@ -164,25 +164,14 @@ Paths are relative to the REPO ROOT.
 
 ## VOICE IN ONE BREATH
 
-Le Guin's floor, Rothfuss's teller, Mancour's world. The prose is quiet, patient, and restrained;
-the narrator is intimate and close, a teller who was there and has thought about it since, who
-notices the exact weight of light and the silence after a word, and whose sentences occasionally
-open into music. The world beneath the telling is a wizard building a real magical practice and
-the tower around it, magic traded as an honest commercial craft, a cast gathering to the work.
-The one discipline: commerce is always also character. Every deal carries a feeling, and the
-practice never hardens into a spreadsheet.
+**`references/voice.md` is the single source of truth for voice, tone, diction, humor and prose
+mechanics, and it governs everything.** Read it in full before drafting or revising a line; it
+carries the POV lock, the six fixed speech rules, the music, aphorism, teller and humor budgets,
+the banned-diction list, the motif system and the lexicon.
 
-Non-negotiable, in every mode:
-- **POV (session-lock #1):** Emlyn's chapters are FIRST PERSON, past tense, in his immediate
-  wry-warm voice, with no ancient-chronicler framing. Other characters' chapters and the
-  between-part interludes are THIRD-PERSON LIMITED on one character (the hill, for interludes).
-  One POV per chapter.
-- Concrete anchor for every abstraction. Name no emotion the reader can infer from behaviour.
-- The prose gets QUIETER at the biggest moments, not louder.
-- No modern idiom, no techspeak, no fake-archaic incantations. Magic is silent craft.
-- NPC voices are fixed: Jorin speaks in single freighted words; Tomas in stillness and one
-  load-bearing question; Brenna considers then speaks completely; Lira in neutral ledger-facts
-  and service, never stated warmth; Soren solemn and structural; Ren honest to the grain.
+Nothing about voice is restated here on purpose. The rules used to live in two files and this
+section was the third; the duplicates drifted, which is exactly the failure this consolidation
+exists to end. One file, or one of them goes stale.
 
 ## THE FOUR THREADS
 

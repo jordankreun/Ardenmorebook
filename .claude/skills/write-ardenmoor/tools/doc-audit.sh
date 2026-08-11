@@ -20,8 +20,8 @@ ROOT="$(cd "$DIR/../../../.." && pwd)"
 LIST="$DIR/superseded.txt"
 [ -f "$LIST" ] || { echo "no superseded.txt"; exit 0; }
 
-FILES="$DIR/../SKILL.md $DIR/../references/outline.md $DIR/../references/style-guide.md \
-       $DIR/../references/voice-rothfuss-mancour.md $DIR/../references/continuity-checklist.md \
+FILES="$DIR/../SKILL.md $DIR/../references/outline.md $DIR/../references/voice.md \
+       $DIR/../references/voice.md $DIR/../references/continuity-checklist.md \
        $DIR/../references/feedback-engine.md $ROOT/state/story-bible.md $ROOT/state/geography.md \
        $DIR/../references/storycraft.md $DIR/../references/storycraft.md $DIR/../references/exemplars.md \
        $DIR/../references/economy.md $DIR/../references/editorial-read.md \

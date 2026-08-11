@@ -19,8 +19,8 @@ write-ardenmoor/
   README.md                    this file
   references/
     outline.md                 outline (a suggested path), twist, cast, canon appendix
-    style-guide.md             prose mechanics, motifs, lexicon
-    voice-rothfuss-mancour.md  the governing voice (Rothfuss-forward; governs everything)
+    voice.md             prose mechanics, motifs, lexicon
+    voice.md  the governing voice (Rothfuss-forward; governs everything)
     continuity-checklist.md    pre/post-flight checks per chapter
   state/
     story-bible.md             LIVING continuity record — read before, update after each chapter

@@ -11,7 +11,7 @@ If the request is "make this passage better" rather than "fix this thing," it is
 **Measured load: ~6,300 words.** See the router for the baseline and the method.
 
 - `references/session-locks.md` (always, first)
-- `references/style-guide.md` — the punctuation and register authority. **Its SCENE CRAFT DIALS
+- `references/voice.md` — the punctuation and register authority. **Its SCENE CRAFT DIALS
   1, 2 and 4 do not apply here**: they instruct additions (dialogue, played scene, a comic beat)
   and this mode adds nothing. Dial 3 does apply.
 - the target lines, plus the paragraphs on either side so the fix does not break a rhythm or

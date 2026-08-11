@@ -101,7 +101,7 @@ predate some of them; where a reference says otherwise, THIS list wins.
    Calibrate against the re-voiced **Chapters 1–3**, read as one continuous voice. Cut only
    *self-admiring* ornament; never strip the warmth or the concrete image (a flat paragraph is as
    wrong as a purple one). See the **VOICE RE-WEIGHT** and **CALIBRATION REFERENCE** blocks atop
-   `references/voice-rothfuss-mancour.md` and the register paragraph in `references/style-guide.md`.
+   `references/voice.md` and the register paragraph in `references/voice.md`.
 9. **Sentence-length / run-on discipline (2026-07-06):** the wry-plain register runs on shorter,
    cleaner sentences. Do NOT chain four or five independent clauses with "and, and, and"; break
    them. No comma splices. A deliberate long cumulative sentence is allowed occasionally, for
@@ -129,7 +129,7 @@ the author gives feedback, a preference, or a correction:
 2. **Record it** as a durable convention so every future chapter honors it without being asked
    again, and **retro-apply** it to already-drafted chapters when practical. File it where it
    will be re-read at startup:
-   - Voice / prose / punctuation → `references/style-guide.md` (plus a `continuity-checklist.md` item).
+   - Voice / prose / punctuation → `references/voice.md` (plus a `continuity-checklist.md` item).
    - A character's voice, manner, or arc → the story bible's cast + **SESSION-LOCKED DECISIONS**.
    - Canon, ages, timeline, geography → the story bible (+ its **Numbers Ledger** / `state/geography.md`).
    - Structure / process (chapter length, POV, how to introduce characters, pacing) → **SESSION-LOCKED DECISIONS**.

@@ -12,7 +12,7 @@ that stays.
 **Measured load: ~16,900 words.** See the router for the baseline and the method.
 
 - `references/session-locks.md` (always, first)
-- `references/style-guide.md` — the primary prose authority in this mode. **Its SCENE CRAFT DIALS
+- `references/voice.md` — the primary prose authority in this mode. **Its SCENE CRAFT DIALS
   1, 2 and 4 do not apply here.** They instruct additions — more dialogue, summary converted to
   played scene, a comic beat — which are on this mode's FORBID list. Dial 3 (vary the bookends)
   does apply, being diagnostic rather than additive.

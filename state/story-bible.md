@@ -5,6 +5,20 @@
 ### changed what, and why a rule exists all live in `archive/state-compaction-2026-07-31/`.
 ### Compacted 2026-07-31 from 1,921 lines. Nothing was deleted, only moved or folded.
 
+## LOCKED: NARRATOR AND POV (resolved 2026-08-10 against the manuscript; do not re-open)
+
+- **The narrator is EMLYN.** `manuscript/01-chapter-one.md` names him; **"Opus" appears zero times
+  in the entire manuscript.** Any file still saying Opus is stale and is wrong.
+- **POV is FIRST PERSON, PAST TENSE**, for Emlyn's chapters, which is nearly the whole book. Ch 1
+  opens *"I came to Ardenmoor at the tail end of a long road."* A prior skill file said "third
+  limited"; that was **wrong** and is retired.
+- **Third-person limited survives for exactly two things:** the interludes (07b, 15b, 25b, and
+  Interlude IV inside 32b), which are the hill's wordless perception, and **Ch 21**, which is Lira.
+  One head per chapter, never mixed inside one.
+- **The person of the book is NOT to be converted.** That is a separate and much larger decision
+  and no voice pass may take it.
+- Full rule: `references/voice.md` §19, ported verbatim from the retired style guide.
+
 ## STATUS
 
 - Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III.** 37 files,
