@@ -198,7 +198,7 @@ He took that with nothing at all in his face, and I have thought about that sile
 
 He nodded slowly, and I told him the other thing, the thing I had been turning over since before he ever came down the stair.
 
-I told him that a talent, seen early, gets reached for; that there are hands in the world that take up a gifted child as a man takes up a dropped tool, and do not ask the child much about it; that I had my reasons, old ones, paid for, to want no letter written and no visit paid on his account; and that until he was older and the choosing could be all his, I wanted what had happened in this cellar to stay between the two of us and the stone. I did not dress it as a lesson or a secret society. I said it as you say a thing to a man you respect, and he heard it that way.
+I told him that a talent, seen early, gets reached for; that grown men settle among themselves what a gifted child is for, and are a long way into the settling before anyone thinks to ask the child; that I had my reasons, old ones, paid for, to want no letter written and no visit paid on his account; and that until he was older and the choosing could be all his, I wanted what had happened in this cellar to stay between the two of us and the stone. I did not dress it as a lesson or a secret society. I said it as you say a thing to a man you respect, and he heard it that way.
 
 "Da knows I felt something," he said. Scrupulous, even now.
 
