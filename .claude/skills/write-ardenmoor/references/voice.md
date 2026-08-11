@@ -120,17 +120,41 @@ before it — the same weather, the same hour moved on, the same object seen aga
 plainer, figuration drops to zero. If a passage feels important and the prose is working
 hard, the prose is wrong. **The book gets quieter at its biggest moments, never louder.**
 
-**Music budget.** At most one lifted passage per scene, two or three per chapter. A lift
-is one to three sentences where the language opens, and it must attach to labor the
-chapter has already done concretely. A lift with no earned work under it is decoration.
+### ⚠️ THE BUDGETS ARE RATES, NOT CEILINGS (author, 2026-08-10: "Make budget flexible and raise as needed")
 
-**Aphorism budget.** Two per Part, maximum, each paid for by the scene in front of it.
-Le Guin earns a maxim twice a book; the rest is accurate seeing. In doubt, cut the maxim
-and keep the seeing.
+Every budget below **scales with the length of the chapter**, and every one of them **may be raised
+when the material requires it.** The chapters run from 400 words to 10,400; a fixed count that suits
+an interlude starves a 9,000-word building chapter, and one that suits the building chapter would
+let a short one drown.
 
-**Teller budget.** One retrospective noticing per chapter, two at most (§2).
+**The discipline is not the number. It is that a raise is DECLARED.** State the count, the budget it
+was measured against, and the reason. A budget quietly exceeded is the defect — that is how humor
+creep and teller creep happen, one defensible instance at a time, until a chapter is a man
+performing wisdom. A budget openly exceeded with a reason is a judgement, which is what an editor is
+for. **When the reason will not go into one sentence, the budget was right and the prose is wrong.**
 
-**Humor budget.** Per §7.3.
+**Music budget.** One lifted passage per scene; **about one per 3,000 words** across a chapter. A
+lift is one to three sentences where the language opens, and it must attach to labor the chapter has
+already done concretely. A lift with no earned work under it is decoration.
+
+**Aphorism budget.** **Two per Part, and this one deliberately does NOT scale.** Le Guin earns a
+maxim twice a book; the rest is accurate seeing. A longer chapter is not a licence for more wisdom —
+it is more room for seeing. In doubt, cut the maxim and keep the seeing.
+
+**Teller budget.** **About one retrospective noticing per 2,000 words** (§2) — one in a short
+chapter, four or five in a long one — each attached to something concrete in the scene. Past five,
+justify it. *Worked instance: Ch 19 (8,191 words) carried THIRTEEN and was cut to five. Three of the
+five are load-bearing peak markers, and cutting to the old flat budget of two would have cost the
+fleeces line, which is the chapter's emotional high. That is what "raise as needed" is for, and what
+declaring it looks like.*
+
+**Humor budget.** Per §7.3, and those counts are rates too: they assume a chapter of four or five
+thousand words. **Grief, undercurrent and the interludes stay at ZERO at any length** — that one
+does not scale, because it is not a budget, it is a fence.
+
+**The two directions are not symmetric.** Raising a budget costs a sentence of reason. Spending
+under one costs nothing. When unsure, under-spend: this book survives a missing joke, a missing lift
+and a missing maxim. It does not survive a cracked floor.
 
 ---
 

@@ -5,6 +5,16 @@
 ### changed what, and why a rule exists all live in `archive/state-compaction-2026-07-31/`.
 ### Compacted 2026-07-31 from 1,921 lines. Nothing was deleted, only moved or folded.
 
+## LOCKED: THE VOICE BUDGETS ARE RATES (author, 2026-08-10)
+
+"Make budget flexible and raise as needed." Every budget in `references/voice.md` §5 and §7.3 scales
+with chapter length and **may be raised when the material requires it** — the book runs from a
+400-word coda to a 10,400-word chapter and a flat count cannot serve both. **The discipline is that a
+raise is DECLARED**: state the count, the budget, and the reason. Silent exceedance is the defect.
+**Two exceptions that do NOT scale:** the aphorism budget (two per Part — a longer chapter is more
+room for seeing, not more wisdom), and the ZERO humor fence over grief, the undercurrent and the
+interludes, which is not a budget at all.
+
 ## LOCKED: NARRATOR AND POV (resolved 2026-08-10 against the manuscript; do not re-open)
 
 - **The narrator is EMLYN.** `manuscript/01-chapter-one.md` names him; **"Opus" appears zero times
