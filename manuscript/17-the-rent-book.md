@@ -10,7 +10,7 @@ Penworth's letter reached me a week after the harvest, and it had one line in it
 
 It came up with the week's post and I read it standing in my own doorway with my coat still on and the rain off it running onto the boards. Then I took the coat off and hung it up and sat down and read it again.
 
-Penworth put into one line what other men put into six pages, and I could never settle whether that was economy or artillery. You can argue with a page. A single sentence sits where you set it down and waits for you.
+Penworth put into one line what other men put into six pages, which is either economy or artillery. You can argue with a page. A single sentence sits where you set it down and waits for you.
 
 He was right, and it was worse than he knew, because I had not avoided the thing out of laziness. I had avoided it because I had known, in the vague way a man knows the shape of an unopened letter, that there were people on that ground whose lives I had bought without meeting them, and that sooner or later I would have to go and be their landlord to their faces.
 
@@ -22,7 +22,7 @@ The plan was the beautiful thing. Somebody had ruled it and lettered it and wash
 
 Over the lettering, in later inks and other hands, men had come along afterwards and written in what had actually happened. Sold. Let. Let, three acres. A line ruled through a boundary and a new one set an inch to the left of it, with no note against it and nobody's initials. I counted four hands on that plan, and the last of them had put the pen down a long while before I ever heard the name of Ardenmoor.
 
-Then I went over it with a finger. That is the method entire and I recommend it to anybody who owns anything: put your finger on the piece you believe is yours, and try to walk it out to a road.
+Then I went over it with a finger. That is the method entire: put your finger on the piece you believe is yours, and try to walk it out to a road.
 
 I could not do it from the middle of my own best field. My finger went up the field and stopped at a strip that was not mine. It went round the strip and stopped at a corner that was not mine either. It went up into the meadow and stopped there, and came back down and out along the lane to a gate, and stopped at the gate, and I sat with my finger on the gate a while and then took it off and put both hands flat on the table.
 
@@ -30,11 +30,9 @@ I got the old rent roll out and laid it alongside. The two of them did not agree
 
 And there was nothing in it I had not been told.
 
-That is the part I have to own. Hal Wray had walked me over the whole of it that same spring, on a bright cold morning at the front of April, and shown me every piece: the strip through his field, the widow's corner, the wired gate, the sixty acres nobody could get a lane to. He had told me it was a rare mess and that I now held the whole of it in one hand. And I had said something about looking into it, and I had put it on a list, and the list had gone under a summer and a harvest and a note, and I had not touched it since.
+That is the part I have to own. Hal Wray had walked me over the ground that same spring, on a bright cold morning at the front of April, and shown me every piece: the strip through his field, the widow's corner, the wired gate, the sixty acres nobody could get a lane to. He had told me it was a rare mess and that I now held the whole of it in one hand. And I had said something about looking into it, and I had put it on a list, and the list had gone under a summer and a harvest and a note, and I had not touched it since.
 
 My head was on the hill that morning. There was a thing I meant to try in the cellar that summer and I was turning it over while he talked, and it stayed up there the better part of the walk, and that is my defence and it is a poor one.
-
-A man can hold a piece of paper for eighteen months and see a shape on it. It takes going out and asking to see the ground.
 
 It was a mess.
 
@@ -52,7 +50,7 @@ By the time that letter came I had paid the note and bought the steel and the gl
 
 I did that sum at my own table more than once, the way you keep going back to a cupboard you know is empty. On the old roll's own figures it came to a real amount of money. Not a fortune. Enough. Enough, near enough, laid alongside what the lamps would bring in over the winter, to put men on that steel and keep them there until the glass was in.
 
-I can give you that evening exactly. It was the last comfortable evening of that autumn and I have kept it.
+It was the last comfortable evening of that autumn, and I have kept it.
 
 The rain came on after dark. I stood my boots on their sides at the hearth, where they steamed and gave off the smell of the bottoms, and got the box down off the shelf and counted what was in it, which took no time and did not improve with counting. Then I put the box back, because a box on the table in front of you is poor company for a hopeful sum, and got the old roll out instead.
 
@@ -60,25 +58,23 @@ I wrote the five names down the left of a sheet in the order the roll gave them,
 
 I looked at that column for a long time.
 
-It is a strange thing to be gladdened by other people's debts, and I was not glad in that way, or I have decided since that I was not. What I was glad of was a door. Here was a room in the house of my own affairs that I had never once been into, with the light showing under it, and the key had been in my pocket the whole eighteen months, and I had simply not troubled to try it.
+It is a strange thing to be gladdened by other people's debts, and I was not glad in that way. What I was glad of was a door. Here was a room in the house of my own affairs that I had never once been into, with the light showing under it, and the key had been in my pocket the whole eighteen months, and I had simply not troubled to try it.
 
 Then I put the sheet inside the roll, and made my list before I went up: five names, and the order I meant to walk them in.
-
-That is what I believed on the evening I put my boots by the fire and made my list. It was the last time in that whole business that I believed there was money anywhere, and a man's hopes deserve their proper size, not the size they turn out to have been.
 
 I went round them over eleven days that October, on foot, with a notebook, and I will not pretend I enjoyed it.
 
 October in that valley is not a hard month, only a wet one and an unreliable one. Two of the eleven days were as fine as anything the summer had managed. Four of them rained from before I set out until after I got back, the small upright rain that does not look like anything at all through a window and has you through to the shirt inside a mile. I walked in the same coat every day and it never got properly dry, and by the sixth day it had a smell of its own that I had stopped noticing and other people had not.
 
-I carried the notebook in an oilcloth inside my coat and wrote in it standing up, in gateways and under hedges, with a pencil I cut back with a knife until there was nothing left to hold. I have it yet. The first pages are in a fair hand and the last are not.
+I carried the notebook in an oilcloth inside my coat and wrote in it standing up, in gateways and under hedges, with a pencil I cut back with a knife until there was nothing left to hold. The first pages are in a fair hand and the last are not.
 
 And I was fed. That is the part of the eleven days I did not expect and have never quite got over. In every one of the five houses the step had been swept. There was something on the table that had not been on that table the day before. In three of them a chair had been carried round to the fire before I got there, and in two of them somebody had put a cloth on a table that did not ordinarily wear one. They knew I was coming. They had all known for days, the way that valley knew everything. And every one of them fed the landlord before he had said a word about what he had come for, because that is what you do, and because it is harder to say a short thing to somebody who has just fed you, and they knew that too.
 
-There were five in the end, and I met every one of them, and it is the meeting I remember and not the ledger.
+There were five of them, and I met every one.
 
 Ned Pardon first, on the north side, where a corner of scrub runs up to the wood.
 
-He was waiting for me at his gate. I do not mean he happened to be there; he had been told I was coming round, the way everyone in that valley was told everything, and he had put on a coat.
+He was waiting for me at his gate. I do not mean he happened to be there; he had been told I was coming, and he had put on a coat.
 
 "You'll be after the rent," he said.
 
@@ -114,7 +110,7 @@ The difficulty, when we had got to the bottom of it over the better part of an h
 
 Eleven years of it. He had eaten the cheeses eventually, he admitted, there being a limit. The fleeces he had kept, and they were in his loft, and he took me up to see them, and there they were, eleven fleeces in a stack, rolled and tied, going yellow at the bottom of the pile.
 
-The ladder was a ladder in the sense that it was leaning there and had rungs on it. He went up ahead of me, complaining the entire way about his pony, which had done nothing whatever and was not in the loft, and which I came to understand was the subject he brought out when he wanted the other person to arrive at the top of a ladder with something to say that was not about fleeces.
+The ladder was a ladder in the sense that it was leaning there and had rungs on it. He went up ahead of me, complaining the entire way about his pony, which had done nothing whatever and was not in the loft.
 
 The loft ran the length of the house under the tiles, and it was full of that light which comes into a roof and never into a window. The stack stood against the chimney breast where the wall came up dry. Each fleece was rolled with its cut ends turned in and tied with cord, and the tying had been done the same way eleven times, and the stack had been built by somebody who meant it to be counted by a stranger one day. There was no smell up there but dust and old grass. The mice had not been at them, which I remarked on, and he said the mice knew better.
 
@@ -144,7 +140,7 @@ Eleven years of a man's honesty, stacked against a chimney, and worth less than 
 
 We went round it three or four times and he was better at it than I was, because he had spent eleven years on the question and I had spent about a minute. He did not raise his voice once. He laid a sentence down, and waited, and when I had gone round it he laid the same sentence down again in a slightly different coat, and every time I answered him I could hear myself sounding like a document.
 
-I held my line on the fleeces and I held it to the end. Whether that was principle or the thought of getting ten fleeces down that ladder I could not honestly tell you now.
+I held my line on the fleeces and I held it to the end.
 
 "Then it stands as it stands," he said. "The cheese and the fleece."
 
@@ -158,7 +154,7 @@ I held my line on the fleeces and I held it to the end. Whether that was princip
 
 So I said it on his step, with my hat in my hand and the wind coming off the wood, and he heard me out, and nodded once, and went in and shut the door.
 
-We had a considerable argument about it. He won more of it than I meant him to; I came away with the current fleece and a cheese and an undertaking, extracted from me on his own doorstep and never afterward rescinded, that the arrangement would be the arrangement while he lived. When I sent Penworth the schedule I put Ned Pardon's holding down at a cheese and a fleece a year and let a solicitor in a city four days off make of it what he liked.
+He won more of it than I meant him to. I came away with the current fleece and a cheese and an undertaking, extracted from me on his own doorstep and never afterward rescinded, that the arrangement would be the arrangement while he lived. When I sent Penworth the schedule I put Ned Pardon's holding down at a cheese and a fleece a year and let a solicitor in a city four days off make of it what he liked.
 
 Alice Bewick had the cottage in the corner of the bottom-field, three children, no husband, and the best garden I have ever seen in a small space.
 
@@ -168,7 +164,7 @@ The room was scrubbed to the grain. There were three children in the doorway of 
 
 She had the rent counted out on the table before I got my hat off. Coin, in a saucer, in three little stacks so that it could be seen to be right.
 
-I have thought since that she must have been getting ready for me for eighteen months. She had a landlord she had never met and could not picture, and the only picture the world had ever given her of such a man was one who turns people out, and she had been paying for that picture out of a small garden and whatever she could earn with her needle, and putting it by, and waiting.
+She must have been getting ready for me for eighteen months. She had a landlord she had never met and could not picture, and the only picture the world had ever given her of such a man was one who turns people out, and she had been paying for that picture out of a small garden and whatever she could earn with her needle, and putting it by, and waiting.
 
 "It's all there," she said. "You'll want to count it."
 
@@ -180,13 +176,13 @@ She looked at it. Then she looked at me, and her face did a thing I did not enjo
 
 "I don't take that sort of arrangement," she said, in a voice with a lot of years in it.
 
-It took me a moment to see what she meant, and when I saw it I was so angry, not at her, that I had to go and look at her garden for a minute before I could answer.
+It took me a moment to see what she meant, and when I saw it I had to go out and look at her garden before I could answer, and it was not her I went out about.
 
 It was a garden made by somebody who had counted every foot of it. The beds were no wider than she could reach across from either side, so that she never had to set a boot on her own ground. The paths between them were raked. There was slate stood on edge along the bed ends, and the slate had been carried from somewhere, because there is no slate in the bottoms. Beans up the south wall. Leeks standing in a row like a regiment on parade. A long low bed under straw with something tender under the straw. And at the far end, where the wall turned and held the last of the afternoon, a stone trough of herbs with the ones that hate a frost set nearest the stone.
 
 Three children, no husband, four bad acres, a needle, and this.
 
-I stood there and got hold of myself, and what I got hold of was not the anger. I put that down somewhere in the leeks and left it, and it is very likely still there. What I picked up instead was the arithmetic. It was the only thing I had about me that she would take.
+I stood there and got hold of myself, and what I got hold of was not the thing I had come out with. I left that somewhere in the leeks, and it is very likely still there. What I picked up instead was the arithmetic. It was the only thing I had about me that she would take.
 
 "Mrs Bewick," I said, when I came back in, "I am refusing your rent because you have starved to put it there, and a rent that must be starved for is not a rent. It is a slow way of losing a tenant. I would rather have a woman with a good garden and a full belly on my ground in ten years than a saucer of coin in my hand in October. That is the whole of it, and it is not a kindness, it is arithmetic, and if you want it in writing you shall have it in writing tomorrow, signed, and you may show it to anyone you like."
 
@@ -196,7 +192,7 @@ She was a while answering.
 
 "In writing."
 
-She cried then, briefly and furiously and without any apparent connection to her face, which stayed exactly where it was throughout. Then she was extremely brisk with me for the remainder of the visit as a way of getting even, and made me take away four jars of something and a bunch of sage, and told me at the gate that my thyme was in the wrong place. It was.
+She cried then, in a short fury and without any apparent connection to her face, which stayed exactly where it was throughout. Then she was extremely brisk with me for the remainder of the visit as a way of getting even, and made me take away four jars of something and a bunch of sage, and told me at the gate that my thyme was in the wrong place. It was.
 
 The Tolls' widow held four thistled acres of the NE meadow and wanted rid of them.
 
@@ -206,7 +202,7 @@ The gate at the top was off its upper hinge and had been lifted and leaned back 
 
 She opened the door while I was still at the bottom of the yard.
 
-The kitchen was very clean, and I set that down first because it is the first thing I saw and it is the thing I still see. The flags were scrubbed pale. There was a dresser with the plates stood on their edges the way a family stands plates, and there were a good many more plates on it than there were people in that house. The fire was made up for company. Two chairs at it, and one of them had a cushion worn into a shape, and the other had not been sat in for a long while.
+The kitchen was very clean, and it is the thing I still see. The flags were scrubbed pale. There was a dresser with the plates stood on their edges the way a family stands plates, and there were a good many more plates on it than there were people in that house. The fire was made up for company. Two chairs at it, and one of them had a cushion worn into a shape, and the other had not been sat in for a long while.
 
 She made tea, and it took her a while, and I let it take the while it took, because a visit that is not allowed its tea has stopped being a visit and become an inspection.
 
@@ -240,7 +236,7 @@ She came out with me as far as the gate and lifted it and leaned it back into pl
 
 I stood in the lane and wrote in the notebook: *four acres, NE meadow, thistled to the top, glad to be rid.* Then I looked at what I had written and ruled a line under it and wrote nothing else, because the next thing to go in the line was the figure, and there is no sense in writing down a figure that does not exist.
 
-Then I went back down through the thistle with the seed coming up round me, and I was in a very poor temper, and it was not with her.
+Then I went back down through the thistle with the seed coming up round me.
 
 Cob Ferris, up the beck, owed me for a strip he had never worked in his life. He gave me twenty minutes on how difficult that strip was to reach, and that was true; on how he had always meant to get to it, and that was not; and on how times were hard, that being the one thing everybody says and everybody means.
 
@@ -288,23 +284,23 @@ I walked back down the beck path counting, because I am the sort of person who c
 
 And every word he had said about the strip was true. I had walked it that same morning, and the top way is a mile and a half, and the beck bank will not take a horse, and no man had got a cart onto that ground in my lifetime or his. He was owed the difficulty even if I was owed the rent.
 
-I liked him, and I will say so, because an autumn spent among people who owe you money is not improved by pretending you liked none of them.
+I liked him.
 
 He would pay eventually. Men like Ferris always pay eventually: slowly, partly, and with a grievance.
 
 And Tobin Hask had the six-acre strip through the middle of the Wrays' field.
 
-I want to be careful about Hask, because he was the one it went wrong with, and because it would be very easy to make him the villain of it and he was not one.
+I want to be careful about Hask, because it would be very easy to make him the villain of it and he was not one.
 
 He was old, older than Cael by a good margin, and he lived alone in a cottage on the lane with a dog, and the strip was the last thing his family had. His grandfather had held eighty acres in that valley. His father had held twenty-four. He had six, and he had worked them until his hands gave out, and for the last five or six years he had worked perhaps a third of the six and let the rest go, and every man in the village knew it and nobody said it, because that is what a village is for.
 
 I went past the end of his lane on the ninth day and did not turn up it. There was smoke going up out of the chimney and a dog barking somewhere behind the cottage, and the hedge along that lane had not been cut in three years, and the ash keys hung in it grey and thick. I stood in the road with the notebook in my pocket and my hand went onto it twice, and both times I left it there and walked on, and I could not have told you that afternoon why.
 
-I can tell you now. I knew it was going to be the hard one and I wanted the other four settled in my head before I opened it. There is a name for leaving the hard thing at the bottom of the list, and it is not always cowardice, and it is not always something better.
+I can tell you now. I knew it was going to be the hard one, and I wanted the other four settled in my head before I opened it.
 
-And that strip ran straight through the best eighty acres in my holding, from the water to the hedge, so that Hal Wray had to break his plough-run twice on every pass and turn on the awkward, and lost, I later worked out, something like a fifth of the working of that field to it.
+And that strip ran straight through the best eighty acres in my holding, from the water to the hedge, so that Hal Wray had to break his plough-run twice on every pass and turn on the awkward, and lost something like a fifth of the working of that field to it.
 
-Here is the thing I had not understood before I walked that ground with a notebook, and I set it down because I think most men who own things do not understand it either.
+Here is the thing I had not understood before I walked that ground with a notebook.
 
 I had thought the problem was money. It was not money. Money was the easy part; there was none of it and everybody could see there was none of it. The problem was that I had the power to fix the land and could not fix it without moving people, and every one of those people was standing on the only certain thing they had.
 
@@ -316,7 +312,7 @@ By the fifth evening I had stopped adding it up in my head and started subtracti
 
 I came in wet that fifth evening and sat down with the notebook and the sheet of five names and did the thing properly, and it did not take long.
 
-The pencil went to Pardon's line first. I did not strike it out. I wrote in what was actually there, which came to a cheese and a fleece, and then looked at the two words sitting in a column that had been ruled for figures. Then Bewick's, and I put a nought against that, in my own hand, deliberately, and it was the only cheerful nought on the page. Then the widow's, and a nought. Then Ferris's, and a figure with a bracket round it, a bracket meaning a thing I might see and might not.
+The pencil went to Pardon's line first. I did not strike it out. I wrote in what was actually there, which came to a cheese and a fleece, and then looked at the two words sitting in a column that had been ruled for figures. Then Bewick's, and I put a nought against that in my own hand, and it was the only cheerful nought on the page. Then the widow's, and a nought. Then Ferris's, and a figure with a bracket round it, a bracket meaning a thing I might see and might not.
 
 Then I added what was left and got a number I could have carried home in one hand.
 
@@ -324,7 +320,7 @@ Then I did it again, because I had made a mistake somewhere.
 
 I had not made a mistake.
 
-A sum stops being a hope and turns into a fact, and there is no moment in the evening you can point at and say it went there. The fire went on doing what fires do. My stockings steamed on the fender. I remember thinking, with an odd sort of relief, that at least I knew now, and thinking straight after it that knowing was not going to set one length of steel.
+The fire went on doing what fires do. My stockings steamed on the fender. What I thought was that at least I knew now, and straight after it, that knowing was not going to set one length of steel.
 
 Set against the eighteen months of arrears I had sat and dreamed over at my own table, what I could actually put my hand on would not have paid a builder's crew for a week. Not for a winter. For a week.
 
@@ -334,7 +330,7 @@ So the whole of what I brought home from eleven days on the road was Ned Pardon'
 
 I sat down that night and went looking for money in every direction there was. It took under an hour. There were not many directions.
 
-I did it on paper, because doing it in my head had begun to feel like arguing with somebody who was not in the room. A clean sheet, the candle pulled over, the headings written down the left the way Penworth writes them, one under another, with a space against each for the answer. Seven headings. I remember being mildly surprised, while I was writing them out, that there were as many as seven. Then I put the arrears at the foot, on its own, below a rule, because that was the one I meant to finish on.
+I did it on paper, because doing it in my head had begun to feel like arguing with somebody who was not in the room. A clean sheet, the candle pulled over, the headings written down the left the way Penworth writes them, one under another, with a space against each for the answer. Seven headings. Then I put the arrears at the foot, on its own, below a rule, because that was the one I meant to finish on.
 
 Then I went down them.
 
@@ -344,13 +340,13 @@ Seven headings and seven lines drawn through, and none of the seven had taken mo
 
 Then I looked at what stood below the rule.
 
-And the arrears, which were the one door I had genuinely believed was still open, and which I had opened on the first day and walked through and found a cheese in.
+And the arrears, which were the one door I had believed was still open, and which I had opened on the first day and walked through and found a cheese in.
 
-I am not going to dress that evening up. I had gone out to collect a wage bill and come back with a fleece, and somewhere between the two I had also given away rent I was owed and promised three years of forgiven rent to a man on a doorstep, and I sat in my own kitchen and did the arithmetic of a man who has just closed the last door himself, from the inside, on purpose, and could not honestly say he would do differently in the morning.
+I am not going to dress that evening up. I had gone out to collect a wage bill and come back with a fleece, and somewhere between the two I had refused a woman's rent in her own house and stood on another man's doorstep and bound myself to his terms for as long as he lived, and I sat in my own kitchen and did the arithmetic of a man who has just closed the last door himself, from the inside, on purpose, and could not have said he would do otherwise in the morning.
 
-There was no money. There was not going to be any money. That was settled that night and it stayed settled, and everything that came after came out of that.
+There was no money. There was not going to be any money. That was settled that night and it stayed settled.
 
-Under the house the second stone kept its own count of the hill's nights, a ledger filling while every other ledger emptied, and I did not go down to look at it. There are evenings a man should not put two accounts side by side.
+Under the house the second stone kept its own count of the hill's nights, a ledger filling while every other ledger emptied, and I did not go down to look at it.
 
 I went to bed on that and slept badly and woke early, and the thing that was waiting for me when I woke was not the money at all. It was the notebook.
 
@@ -358,4 +354,4 @@ It was a disgraceful object by then. The oilcloth had done what oilcloth does an
 
 I lay there and turned its pages over in my head, and you can do that with a book you have written yourself.
 
-Eleven days of walking a man's own land and being fed in five kitchens will put things in a notebook that were not on any rent roll: which strip cannot be got at from which lane, whose gate has been wired shut for a decade and why, which four acres a widow would hand over gladly and which six a proud man will die holding. I had gone out after arrears and come back with a survey, and the survey was of people as much as ground, and I lay there in the dark before dawn and began, without meaning to, to move the pieces about.
+Eleven days of walking a man's own land and being fed in five kitchens will put things in a notebook that were not on any rent roll: which strip cannot be got at from which lane, whose gate has been wired shut for a decade and why, which four acres a widow would hand over gladly and which six a proud man will die holding. I had gone out after arrears and come back with a survey, and I lay there in the dark before dawn and began, without meaning to, to move the pieces about.

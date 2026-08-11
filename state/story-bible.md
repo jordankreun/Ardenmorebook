@@ -523,11 +523,24 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   leave my hill. I'm at work on why."* The reader still gets the mechanism, from the NARRATION, never
   from his mouth. This is the same trait the fallibility arc costs him (Ch 14/21/28); the book now
   carries both its charm and its price, and neither may be written away.
-  **His own instruments are an ARTIFICER'S, not a surveyor's** (2026-08-02): calipers, fine files, a
-  small brass scale, a jeweller's glass, levels, gauges, drawn wire. Customers' surveying sets stay
+  ~~**His own instruments are an ARTIFICER'S, not a surveyor's** (2026-08-02): calipers, fine files, a
+  small brass scale, a jeweller's glass, levels, gauges, drawn wire.~~ ⚠️ **SUPERSEDED 2026-08-10** by
+  the author's ruling ("Make tools more magical not a rip off of another trades tools") — see LOCKED
+  CANON at line 227 and voice.md §18. THE LIVE RULE: what he carries to ask ground a question is the
+  wizard's kit — blanks, binding wire, waxed silk, wax, a lump of his own hill, his hands; nothing
+  for measuring. Bench instruments are what he MAKES LAMPS with, which is a different activity, and
+  they stay. Kept here struck rather than deleted because this entry was the THIRD copy of the
+  retired rule and the only unmarked one, and an agent reading the CAST entry first would have
+  restored it (that is how it survived in nine passages across eight chapters after the ruling).
+  Customers' surveying sets stay
   surveying sets — the contrast is doing work, and Ch 4 states it (*"distant cousins who do not much
   like to admit the relation; they read the world with rods and chains"*). His draughting schooling
   is unchanged canon: he was trained to draw buildings and became a man who makes instruments.
+  ⚠️ HE OWNS MEASURING INSTRUMENTS AND HAS STOPPED MEASURING WITH THEM — Ch 4 l.7 states it better
+  than the rule does: he uses them *"the way I had come round to using them, which is to say to
+  listen with, and not to command."* Do NOT strip callipers from the manuscript: the locked grief
+  object in the sticking drawer (l.260) IS a pair of dimensional callipers, and removing them as
+  foreign to his trade would drain that drawer.
 - **Soren**, 10 — village elder's grandson; HEARS the hum; solemn, structural, whole-attention;
   asks questions like "Is that why the Study doesn't fall?"; child logic with dignity, never cute.
   **His gift is SPECIFIC, not general** (author, 2026-08-02): a savant at numbers and at hearing, and

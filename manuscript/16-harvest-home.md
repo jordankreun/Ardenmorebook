@@ -14,19 +14,19 @@ The barley was Cael's, or Cael's fault, according to how the year went. I had go
 
 The labour was Hal's. I had supposed, in my ignorance, that you hired men. What actually happens is that you tell Hal Wray you will want six, and Hal says nothing at the time, and then on the morning there are six men in the yard, and three of them have brought their own hooks, and one of them has brought a boy. I paid the going rate because I did not know there was another, and learned afterward that the going rate was what Hal had told them it was.
 
-That was the summer I learned that farming is not a gentle profession. It is a nine-day argument with the weather conducted at a dead run, and I lost most of it, and we got the crop in anyway.
+Farming is a nine-day argument with the weather conducted at a dead run, and I lost most of it, and we got the crop in anyway.
 
-There is no describing it properly to somebody who has not done it. The whole valley turns out; the ordinary order of things is suspended; men who have not spoken since a boundary dispute in their fathers' time work the same field for a week because the rain is coming and the rain does not care about boundaries. Kellard sent two carts and a man. Maret shut the mill for two days and came down himself. Tomas came out in the evenings when the forge was banked, and swung a scythe like a machine that had been told what a scythe was for and had improved on the design. Even Lira closed the inn at midday and came out, which nobody could remember happening, and worked a rake down the rows with her sleeves rolled and said not one word about it afterward to anybody.
+There is no describing it to somebody who has not done it. The whole valley turns out; the ordinary order of things is suspended; men who have not spoken since a boundary dispute in their fathers' time work the same field for a week because the rain is coming and the rain does not care about boundaries. Kellard sent two carts and a man. Maret shut the mill for two days and came down himself. Tomas came out in the evenings when the forge was banked, and swung a scythe. Even Lira closed the inn at midday and came out, which nobody could remember happening.
 
 I can give you two days out of the nine. The rest ran together into one long day with sleep laid across it at intervals, but those two my hands still have.
 
 The second was fine and cold and had a white dew on it that had me wet to the knee before the sun was properly up. We were in the top end of my own barley, which I had been proud of in July and had stopped being proud of by then. The men cut. Cutting is not a thing you learn in a fortnight and I was not offered it; a scythe in an unpracticed hand is a way of putting a crop down where it cannot be picked up again, and the older of the two out of the village watched me watching his for a while and said, without any unkindness in it, that I could carry. So I carried, and I gathered, and I was taught to stook.
 
-There is nothing to stooking. You take up two sheaves, one under each arm, butts down and heads together, and you set them leaning against one another so they hold each other up, and you build round that pair until you have eight or ten standing in a tent with the air going through them. That is the entire instruction and it takes about nine seconds to give. I got it wrong for most of a morning. Mine went up looking well enough and then leaned, and then sat down slowly on themselves as though they had thought better of the whole enterprise, and a girl of about twelve came along behind me and rebuilt them without a word and without any air of doing me a kindness. That was worse.
+There is nothing to stooking. You take up two sheaves, one under each arm, butts down and heads together, and you set them leaning against one another so they hold each other up, and you build round that pair until you have eight or ten standing in a tent with the air going through them. That is the entire instruction and it takes about nine seconds to give. I got it wrong for most of a morning. Mine went up looking well enough and then leaned, and then sat down on themselves as though they had thought better of the whole enterprise, and a girl of about twelve came along behind me and rebuilt them without a word and without any air of doing me a kindness. That was worse.
 
-What I had not understood is that the ground under a stook is never level, and that you set the pair against the lean of it and not against your eye. The older man came and stood by me at about the fourth failure and did not touch anything of mine. He built one of his own alongside it, slowly, so that I could see where his knee went. Then he built a second one badly on purpose, and pushed it, and it fell over. Then he went back to his row. I have been taught a number of things in my life by people who were paid a good sum to do it, and that was better teaching than most of what I got for the money.
+What I had not understood is that the ground under a stook is never level, and that you set the pair against the lean of it and not against your eye. The older man came and stood by me at about the fourth failure and did not touch anything of mine. He built one of his own alongside it, slowly, so that I could see where his knee went. Then he built a second one badly on purpose, and pushed it, and it fell over. Then he went back to his row.
 
-By the afternoon I had a rhythm and had stopped thinking about my arms, and the field stopped being a hundred separate operations and became one long one, and I understood for the first time why men sing at it. Nobody sang in that field. But there is a sound the work makes when it is going right, twenty people at different distances all doing the same four movements a little out of time with each other, and it is the most companionable noise I have ever stood inside of.
+By the afternoon I had a rhythm and had stopped thinking about my arms, and the field stopped being a hundred separate jobs and became one long one, and I understood for the first time why men sing at it. Nobody sang in that field. But there is a sound the work makes when it is going right, twenty people at different distances all doing the same four movements a little out of time with each other, and it is the most companionable noise I have ever stood inside of.
 
 Twice that day the shadow of a cloud came over the top end, and every head in the field went up together, and then went down again. Nobody said anything either time.
 
@@ -42,27 +42,27 @@ She raked. That is the whole of it, and it took her four hours. She raked the lo
 
 I said good afternoon. She said good afternoon. That was the extent of our conversation. She went down at dusk with her hair coming out of its pin, and the inn was open that evening at the usual hour, and she stood behind her own bar and drew beer for men who had been in the field beside her.
 
-Tomas came out that evening as he came out every evening, when the forge was banked and the light was going. He walked up from the street with the scythe over his shoulder and a stone in his coat pocket and he did not stop at the gate to talk to anybody. What he did with that scythe I have not seen done since. There is a thing a good hand does where the blade never appears to be lifted at all, only carried round and put back into the standing corn a foot further on, and the barley goes down in a swathe with every head the same way. He did that from the last of the light until he could not see, perhaps an hour and a half of it, and he cut in that time what two men cut in a morning, and when he stopped he took the stone out of his pocket and put the edge back on the blade and went home. He said good night to me on the fourth evening. That was the whole of what passed between us in nine days, and it was more than I had out of him in most weeks.
+Tomas came out that evening as he came out every evening, when the forge was banked and the light was going. He walked up from the street with the scythe over his shoulder and a stone in his coat pocket and he did not stop at the gate to talk to anybody. What he did with that scythe I have not seen done since. There is a thing a good hand does where the blade never appears to be lifted at all, only carried round and put back into the standing corn a foot further on, and the barley goes down in a swathe with every head the same way. He did that from the last of the light until he could not see, perhaps an hour and a half of it, and he cut in that time what two men cut in a morning, and when he stopped he took the stone out of his pocket and put the edge back on the blade and went home. He said good night to me on the fourth evening. That was the whole of what passed between us in nine days.
 
 By dark on the eighth night there were four fields left standing and the wind had come round into the west, and nobody used the word rain, and everybody was in the yard at first light.
 
-I stooked barley until my hands bled through the blisters and then hardened over them, and I slept those nine nights the way a stone sleeps. I have never in my life been so purely and stupidly happy.
+I stooked barley until my hands bled through the blisters and then hardened over them, and I slept those nine nights the way a stone sleeps.
 
 My hands went through it in three stages. The first day they were sore and I was rather pleased about it. The second and third they blistered along the pads under the fingers and across the inside of the thumb, and one on the right broke in the afternoon and filled with chaff, and Brenna would have had something to say about that if I had gone down and shown it to her, and I did not go down and show it to her. By the fifth they had stopped being hands with damage on them and become a set of tools with a poor finish. I could not close either of them in the morning until I had held them under the trough a minute and worked the fingers open one at a time. By the ninth there was a rind across both palms the colour of old candle wax with no feeling anywhere in it, and I could take up a sheaf by the band and not mind.
 
-My back kept a separate account and presented it in the second week. I will say for the whole business only that I slept those nine nights without turning over once, and woke each morning surprised to find the day already assembled and waiting, and went out into it.
+My back kept a separate account and presented it in the second week. I will say for the whole business only that I woke each morning surprised to find the day already assembled and waiting, and went out into it.
 
-On the ninth evening it was in, all of it, mine and theirs, under thatch and canvas with the rain finally coming on grey out of the west, an hour after the last cart, in the way that makes a valley half believe in providence. And on the tenth day, being still just about able to stand, I went down to the Wrays' for the harvest supper.
+On the ninth evening it was in, all of it, mine and theirs, under thatch and canvas with the rain coming on grey out of the west, an hour after the last cart. And on the tenth day, being still just about able to stand, I went down to the Wrays' for the harvest supper.
 
-I did nothing whatever that tenth day until the middle of the afternoon. It rained until noon, properly, the sort of rain that comes straight down and means it, and I lay on my own floor with the door open and my boots off and listened to it on the slates, and so far as I could tell from the road, so did the valley. Nothing moved on it. Then it cleared, and about four I put on the one coat I owned that was not stiff with chaff, and walked down.
+I did nothing whatever that tenth day until the middle of the afternoon. It rained until noon, the sort of rain that comes straight down and means it, and I lay on my own floor with the door open and my boots off and listened to it on the slates, and so far as I could tell from the road, so did the valley. Nothing moved on it. Then it cleared, and about four I put on the one coat I owned that was not stiff with chaff, and walked down.
 
-The bottoms had turned overnight into the other thing a field is. Stubble to the hedges, pale and shorn and standing in water at the low corners, the stooks gone off it, rooks all over it doing what rooks do, and the whole valley suddenly larger, the way a room is larger when the furniture has gone out of it. I walked the length of my own and thought nothing useful about it at all. I was too tired to think and too pleased to want to.
+The bottoms had turned overnight into the other thing a field is. Stubble to the hedges, pale and shorn and standing in water at the low corners, the stooks gone off it, rooks all over it doing what rooks do, and the whole valley larger, the way a room is larger when the furniture has gone out of it. I walked the length of my own and thought nothing useful about it at all. I was too tired to think and too pleased to want to.
 
-They had mended that farmhouse well. It had been two rooms wanting a roof when they took it in the spring, an old ruin of good stone with a well that had never gone dry, and they had put a roof on it and a floor in it and a door on it, and there was a garden in front with the last of the beans, and a lamp burning in the window that I had made and given them and they had accepted with a stiffness that told me exactly how much it had cost their pride to take it.
+They had mended that farmhouse well. It had been two rooms wanting a roof when they took it in the spring, an old ruin of good stone with a well that had never gone dry, and they had put a roof on it and a floor in it and a door on it, and there was a garden in front with the last of the beans, and a lamp burning in the window that I had made and given them and that they had been stiff about taking.
 
-Bess Wray met me at the door and said, "You'll not stand on ceremony in this house," which was both a welcome and a warning shot, and I said I had no ceremony left in me, and went in.
+Bess Wray met me at the door and said, "You'll not stand on ceremony in this house," and I said I had no ceremony left in me, and went in.
 
-There were a dozen of us round a table meant for six. There was a ham, and a great dish of the new potatoes, and beans, and a barley loaf out of their own field's grain that Bess had made a fuss of and been talked out of apologising for, and beer from Maret's brother-in-law that was frankly bad and that everyone drank a great deal of. Hal sat at the head of it looking like a man who has been handed something he does not entirely trust and is minding it carefully. His children, of whom there were rather more than I could count and who moved too fast to be sure, ate the way children eat when the year has been good and there has been at least one year when it was not.
+There were a dozen of us round a table meant for six. There was a ham, and a great dish of the new potatoes, and beans, and a barley loaf out of their own field's grain that Bess had made a fuss of and been talked out of apologising for, and beer from Maret's brother-in-law that was bad and that everyone drank a great deal of. Hal sat at the head of it looking like a man who has been handed something he does not entirely trust and is minding it carefully. His children, of whom there were rather more than I could count and who moved too fast to be sure, ate the way children eat when the year has been good and there has been at least one year when it was not.
 
 The room was not built for a dozen and had been made to hold a dozen anyway. The kitchen table went down the middle of it, and a bench had come in from somewhere, and there was a plank on two barrels at the far end with the small ones sat along it in a row like birds on a wire, got at from behind by whichever adult was nearest whenever a thing went over. Things went over. A jug went over twice. The door stood open on the wet dark because the fire and the ham and the twelve of us had the room too hot inside a quarter of an hour, and the rain had come on again with the dark and went down outside it steadily, and every so often somebody would look at the open door and say nothing and look pleased.
 
@@ -72,15 +72,15 @@ The eldest was at the other end, and he was not a child. Tam Wray was seventeen 
 
 He ate like a man who had been in a field. Twice, when the plates wanted moving, he was up and doing it before his mother had turned round, and once he went out into the rain without a coat to see to something in the yard that nobody had mentioned to him, and came back wet and sat down again, and nobody remarked on it. He had his sleeves rolled to the elbow still. His forearms had a fortnight on them that his face had not caught up with.
 
-And that is where I want to say something about how they held me, because it took me most of that evening to understand it, and it was the most instructive thing that happened to me that autumn.
+And that is where I want to say something about how they held me, because it took me most of that evening to understand it.
 
-The Wrays were not comfortable with me. Not unfriendly; they were warm, they were generous with what they had, Hal filled my cup before his own every time. But they were *puzzled*, in a way I had not been prepared for, and the puzzlement had two parts, and both parts were entirely reasonable.
+The Wrays were not comfortable with me. Not unfriendly; they were warm, they were generous with what they had, Hal filled my cup before his own every time. But they were puzzled, in a way I had not been prepared for, and the puzzlement had two parts, and both parts were reasonable.
 
-The first was that I was their landlord, and they had never had a landlord who did not, in the end, want something off them they could not spare. They had come off a hard sharecropping on Maret's sister's place, from a man who counted, and they had spent that whole spring waiting for the catch in my terms to show itself. It had not shown itself. This did not reassure them. It only meant the catch had not shown itself *yet*, and a careful family does not relax about a thing like that in one season, and they were right not to.
+The first was that I was their landlord, and they had never had a landlord who did not, in the end, want something off them they could not spare. They had come off a hard sharecropping on Maret's sister's place, from a man who counted, and they had spent that whole spring waiting for the catch in my terms to show itself. It had not shown itself. This did not reassure them. It only meant the catch had not shown itself yet, and they were right not to relax about it in one season.
 
 The second was simpler, and it was that they had no clear idea what I was.
 
-They knew what a smith did. They knew what a miller did, and a herbalist, and a carter, and an innkeeper, and a builder, and each of those men and women could be understood entirely by watching them work for an hour. Me they could not place. I owned the ground under their feet and did not farm it in any way they recognised. I went up a hill and came down again. I made lamps that were the talk of the valley, which they had seen and one of which was burning in their own window, and that was a trade, certainly, but it was a trade of a kind nobody in their family had met in six generations. And on top of all that I was a wizard, and the word wizard, to people who had never had one nearer than a tale, is not a job. It is a category of person, like a king, or a ghost.
+They knew what a smith did. They knew what a miller did, and a herbalist, and a carter, and an innkeeper, and a builder, and each of those men and women could be understood by watching them work for an hour. Me they could not place. I owned the ground under their feet and did not farm it in any way they recognised. I went up a hill and came down again. I made lamps that were the talk of the valley, and one of them was burning in their own window, and that was a trade, certainly, but it was a trade of a kind nobody in their family had met in six generations. And on top of all that I was a wizard, and the word wizard, to people who had never had one nearer than a tale, is not a job. It is a category of person, like a king, or a ghost.
 
 It was the small one who finally asked. She was about seven, and had the flat unembarrassed stare of a child who has been listening to adults dance around a question for two hours and has run out of patience with the lot of them.
 
@@ -100,13 +100,13 @@ Nell was not interested in whether it was fair. She was interested in an answer.
 
 "Sometimes for weeks."
 
-"For *one lamp*?" This was plainly the worst thing she had ever heard about anybody. There was a snort from further down the table that Bess suppressed with a look. Nell pressed on, having found the weak point of the position. "But you've got all that land."
+"For *one lamp*?" It was the worst thing she had ever heard about anybody. There was a snort from further down the table that Bess suppressed with a look. Nell pressed on. "But you've got all that land."
 
 "I have."
 
 "And you don't work it."
 
-"I worked it this fortnight. My hands are a disgrace, look." I showed her. She examined them with the severity of a woman inspecting a horse and was, I think, marginally impressed, but she was not to be turned aside.
+"I worked it this fortnight. My hands are a disgrace, look." I showed her. She examined them with the severity of a woman inspecting a horse and was, I think, impressed.
 
 "But not *always*." She sat back. "So what are you *for*, then?"
 
@@ -122,13 +122,13 @@ That was the single hardest question anybody put to me in the whole of that year
 
 There was a silence of about the right length.
 
-Then Nell said, "That's not really a job," and the entire table went up, Hal laughing so hard he had to put his cup down, Bess with her face in her hands, and me hardest of all, because the child was quite correct and had got in one line closer to the truth of my profession than most of the papers written about it.
+Then Nell said, "That's not really a job," and the entire table went up, Hal laughing so hard he had to put his cup down, Bess with her face in her hands, and me hardest of all, because the child was quite correct.
 
 "It isn't," I agreed. "It isn't remotely a job. You've caught me out."
 
 "Right," said Nell, satisfied at last, and went back to her beans having settled the matter.
 
-It was after they had cleared, and the small ones had been dealt with, and Hal had got out something better than the brother-in-law's beer, that he did the thing he had plainly been working himself up to all evening.
+It was after they had cleared, and the small ones had been dealt with, and Hal had got out something better than the brother-in-law's beer, that he did the thing he had been working himself up to all evening.
 
 He put a tally-stick and a folded paper on the table in front of me, and beside them a small heavy sack, and said, "Tenth's in that."
 
@@ -148,7 +148,7 @@ There was a silence of a rather different quality.
 
 "I'd rather be owed than obliged," Hal said, to the table.
 
-I have made a great many decisions in that valley and most of them slowly, and this one I did not have to think about at all, because Bess had handed me the whole shape of it in four sentences.
+I have been slow over a great many decisions in that valley. This one I did not have to think about at all.
 
 "Then I'll take it," I said, "and I'll take the tenth every year hereafter on the terms as written, and there's an end of it. But I want it entered as paid a year early and not as a gift, and I want that in the paper, because in twenty years there'll be somebody with your name and somebody with mine sat at this table, and they'll want the paper to be honest."
 
@@ -184,6 +184,6 @@ Ren said, "It's a good place," which was not a builder's remark, and I noticed i
 
 We put the hazel back over it and went up.
 
-Under the Study, all nine of those days, the second stone had been keeping its own count of the hill's nights, and I had not been down to it once. There was no time in that fortnight and I would not have taken it if there had been. A record wants leaving alone the way a field wants leaving alone, and besides, a man who has spent nine days carrying other men's barley sleeps when he stops.
+Under the Study, all nine of those days, the second stone had been keeping its own count of the hill's nights, and I had not been down to it once. There was no time in that fortnight and I would not have taken it if there had been. A man who has spent nine days carrying other men's barley sleeps when he stops.
 
-I crossed its trap door twice a day that fortnight, going out over it in the dark and coming in over it in the dark, and never once put a hand to the ring, and underneath my boots the stone went on quietly taking down the nights I was too tired to notice.
+I crossed its trap door twice a day that fortnight, going out over it in the dark and coming in over it in the dark, and never once put a hand to the ring, and underneath my boots the stone went on taking down the nights I was too tired to notice.

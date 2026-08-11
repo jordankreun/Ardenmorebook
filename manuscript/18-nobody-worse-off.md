@@ -16,13 +16,13 @@ And I made one rule before I began, and said it out loud to every one of them, i
 
 Nobody was to be worse off.
 
-I said it at every table I sat down at that autumn, and on a doorstep in the rain, and once across a gate to a man who did not ask me in. It sounds, said aloud, like a man promising to be a fine fellow, and there is no way to say a sentence of that kind and have it sound like anything else. I said it anyway. A rule announced in front of witnesses is harder to bend at four in the afternoon when you are tired and cold and the deal in front of you would go easier without it. I wanted witnesses for exactly that reason.
+I said it at every table I sat down at that autumn, and on a doorstep in the rain, and once across a gate to a man who did not ask me in. It sounds, said aloud, like a man promising to be a fine fellow, and there is no way to say a sentence of that kind and have it sound like anything else. I said it anyway. A rule announced in front of witnesses is harder to bend at four in the afternoon when you are tired and cold and the deal in front of you would go easier without it.
 
 I put it to Hal Wray first, because he had the most to gain, and because Hal would tell me I was being a fool in a way nobody else in that valley would.
 
 We walked the bottom-field together on a bright cold morning with the stubble crackling under us, and I showed him the plan, and he looked at it a long time, holding it the way a man holds a paper he is not certain he is allowed to disagree with.
 
-There had been a hard clear night behind it and everything had that scoured look. Thistle-down came off the headlands in threads, and the ruts of the last cart were set solid enough to turn an ankle, and the beck could be heard from the top of the field, and away over the wood one thin line of smoke stood straight up out of somebody's chimney and did not move at all. We had gone two hundred yards before either of us spoke. I had learned that much about Hal Wray by then and had come to be glad of it: he will not talk on a field until he has looked at it, and if you talk at him while he is looking he will answer you civilly and not hear one word.
+There had been a hard clear night behind it and everything had that scoured look. Thistle-down came off the headlands in threads, and the ruts of the last cart were set solid enough to turn an ankle, and the beck could be heard from the top of the field, and away over the wood one thin line of smoke stood straight up out of somebody's chimney and did not move at all. We had gone two hundred yards before either of us spoke. I had learned that much about Hal Wray by then: he will not talk on a field until he has looked at it, and if you talk at him while he is looking he will give you a civil answer and not hear one word.
 
 "You know this ground better than any paper does," I said. "Tell me what's wrong with it."
 
@@ -40,7 +40,7 @@ He put his thumb on Hask's strip. "That."
 
 Hal thought about that for a while, walking.
 
-We went the length of Hask's strip while he did it. Six acres through the middle of eighty cannot be seen on a paper and can be seen from the ground in about a minute. It ran beck to hedge, and on both sides of it the ploughing stopped dead, and where it stopped there was a headland of turned earth as wide as a cart, packed hard by years of the same team coming round on it. Hal went out onto that headland without appearing to decide to, and stood at the turn, and looked back up the ground he had come down, and said nothing whatever about it. He had already told me once what that turn cost him, in a field, in a sentence, and once was going to have to do.
+We went the length of Hask's strip while he did it. Six acres through the middle of eighty cannot be seen on a paper and can be seen from the ground in about a minute. It ran beck to hedge, and on both sides of it the ploughing stopped dead, and where it stopped there was a headland of turned earth as wide as a cart, packed hard by years of the same team coming round on it. Hal went out onto that headland without appearing to decide to, and stood at the turn, and looked back up the ground he had come down, and said nothing whatever about it. He had already told me once what that turn cost him, in a field, in a sentence.
 
 The strip itself was thistle to the knee, and dock gone brown and standing dead on the stem. A third of it, up at the beck end, had been worked that spring, and worked properly, by an old man on his own, and you could see exactly where he had stopped. It was not a line anybody would draw. It was a line a body arrives at.
 
@@ -54,21 +54,21 @@ The strip itself was thistle to the knee, and dock gone brown and standing dead 
 
 He almost smiled.
 
-We came up out of the bottoms at the top corner, where a man can stand and see all four of the parcels at once: sixty acres of good plough-land gone to thistle inside one lifetime, the wood black behind them, the village smoke going up straight in the cold. Hal looked at it a long while and said nothing about it at all. He had said everything he had to say about that gate back in April, and he did not mean to say it twice.
+We came up out of the bottoms at the top corner, where a man can stand and see all four of the parcels at once: sixty acres of good plough-land gone to thistle inside one lifetime, the wood black behind them, the village smoke going up straight in the cold. Hal looked at it a long while and said nothing about it at all. He had said everything he had to say about that gate back in April.
 
 Then he gave me the plan back, folded along its own creases, and not one man in ten will trouble to do that. He put his hands in his coat pockets and went red about the ears and said the thing he had walked out that morning to say.
 
 "It'd plough in one," he said. "Start to finish, and no turn in it."
 
-That is an oration from Hal Wray, and I took it as one.
+That is an oration from Hal Wray.
 
 What followed takes four paragraphs to write down. It was not four paragraphs. It was a quantity of lanes in the wet, and a quantity of standing in doorways with my hat in my hand, and three whole afternoons spent on a man who had decided in advance to enjoy himself.
 
 I went to Cael at the start of it, before I went to anybody, and told him what I meant to try and asked him whether it could be done without harm. He heard the whole of it out on the step of his own house with the door open behind him. He did not say yes. What he did instead was to be visible that autumn in one or two places where he had no other business being, and to be seen listening while the thing was explained to somebody else, and then to go home.
 
-What we came to, over that autumn, and what Cael put his weight behind when I asked him to, and what Penworth turned into paper that a narrow-minded person could read, was this.
+What we came to, over that autumn, and what Cael put his weight behind when I asked him to, and what Penworth turned into paper, was this.
 
-Ned Pardon kept his scrub for life, rent as it had always been, cheese and fleece, and I put it in writing that his was the ground and no man could put him off it while he wanted it, which I do not think anybody had ever offered him. He seemed to find the paper faintly insulting and kept it anyway.
+Ned Pardon kept his scrub for life, rent as it had always been, cheese and fleece, and I put it in writing that his was the ground and no man could put him off it while he wanted it, which I do not think anybody had ever offered him. He took the paper for a mild insult and kept it anyway.
 
 I carried that paper up the north side myself on a wet morning at the end of October rather than send it with anybody. He read it at his own gate with the rain coming through both our coats, holding it out at a distance and moving his lips over the middle of it, and then he read it again. It was four lines long. Penworth had written it in the flattest language he owns, at my asking, because I did not want a word in it that could be taken for a favour.
 
@@ -94,7 +94,7 @@ The Tolls' widow was glad to be rid of that thistled scrap and gladder still to 
 
 Cob Ferris exchanged his unreachable strip for a nearer one twice its worth, and thought he had swindled me, and told people so for years, and was welcome to it. The nearer strip was one I could not reach either.
 
-Those are the four as they stand on Penworth's schedule, and a schedule is a poor account of an autumn. Three of them are worth setting down as they happened.
+Those are the four as they stand on Penworth's schedule. Three of them are worth setting down as they happened.
 
 I went up to Alice Bewick first with nothing written at all, because a paper put in front of that woman before she has agreed to the thing is a paper she will hand back.
 
@@ -122,7 +122,7 @@ She nodded once and went out into the yard and did not look at the byre again.
 
 What she did not do was thank me, or say the ground was better than she was used to, or ask me what the catch was.
 
-So that is how it was written, and that is how she read it. She read it at her own table with the lamp pulled over, and I looked at the fire and did not watch her read. Then she went back to the top and read it down again with her finger going along under the lines. She was not checking my arithmetic. She was making certain that when she signed it she would know what she had signed. Those are not the same thing, and the second is rarer.
+So that is how it was written, and that is how she read it. She read it at her own table with the lamp pulled over, and I looked at the fire and did not watch her read. Then she went back to the top and read it down again with her finger going along under the lines. She was not checking my arithmetic. She was making certain that when she signed it she would know what she had signed.
 
 She signed upright and unhurried, every letter finished, and blotted it herself, and pushed the paper back across the table.
 
@@ -148,7 +148,7 @@ She looked at the fire.
 
 That was the whole of the negotiation. I sat there with the rest of my arguments in my mouth and nowhere on earth to put them.
 
-Then, because I did not know how to leave, I began explaining the arrangements at length. That is what a person does when he has finished his business too quickly. I said I would cut in the winter and season it a year and bring it up the year after, and that the first winter I would bring seasoned wood off my own stack so there would be no gap in it. I said Ren would do the carting. I said that part twice.
+Then I began explaining the arrangements at length. That is what a person does when he has finished his business too soon. I said I would cut in the winter and season it a year and bring it up the year after, and that the first winter I would bring seasoned wood off my own stack so there would be no gap in it. I said Ren would do the carting. I said that part twice.
 
 Then I offered to have it stacked for her.
 
@@ -178,7 +178,7 @@ The second afternoon I put the swap to him: his strip for a nearer one worth twi
 
 That stopped him a moment, because he had come out that afternoon prepared to prove it and I had gone and agreed with him.
 
-The third afternoon he came down the beck to me, and that was how I knew it was settled. He wanted conditions. He wanted the exchange drawn the same day and not left lying about to be thought better of. He wanted his own name at the head of the paper and not at the foot of it. And he wanted it written in that the swap had been at my asking, which it had. I gave him all three inside ten minutes, and he went away up the beck a happy man, and told the valley for years afterward that he had got a hedged strip and a gate out of the wizard in exchange for a corner nobody could get at, and every time it was told the corner got worse and the gate got newer.
+The third afternoon he came down the beck to me, and that was how I knew it was settled. He wanted conditions. He wanted the exchange drawn the same day and not left lying about to be thought better of. He wanted his own name at the head of the paper and not at the foot of it. And he wanted it written in that the swap had been at my asking, which it had. I gave him all three inside ten minutes, and he went away up the beck, and told the valley for years afterward that he had got a hedged strip and a gate out of the wizard in exchange for a corner nobody could get at, and every time it was told the corner got worse and the gate got newer.
 
 I have never contradicted a word of it.
 
@@ -190,21 +190,21 @@ The first time I laid out the exchange, and it was a good one and everybody who 
 
 He did not interrupt me once. He stood with the door open behind him and the warm of the room going past him into the lane, and let me get all the way to the end of it, and he kept one hand down on the dog's head the entire time and never once took it off. When I had finished he waited long enough to be sure that I had finished, and then he said the word, and then he said good day to me, and shut the door. I stood in his lane a moment afterward, and then I walked back down it.
 
-The second time I brought the plan and showed him what his strip did to the field, because I thought if he saw the working of it he would see the sense. He looked at it politely. Then he said, "My father ploughed that. And his father. It's not about the sense of it."
+The second time I brought the plan and showed him what his strip did to the field, because I thought if he saw the working of it he would see the sense. He gave it a polite look. Then he said, "My father ploughed that. And his father. It's not about the sense of it."
 
-He had held it out at arm's length to get the focus of it, and he had found his own six acres on it inside a second, and not everybody can do that with a plan of that sort. Then he gave it back to me the right way up.
+He had held it out at arm's length to get the focus of it, and he had found his own six acres on it inside a second. Then he gave it back to me the right way up.
 
 The third time I did the thing I am least proud of in the whole of that business, which was to bring Cael.
 
 I did not ask Cael to lean on him. I want that understood, and I said as much at the time, and Cael, who was nobody's instrument, would not have done it. But I knew what it meant in that valley for the elder to come up a man's path with the landlord, and I knew Hask would know, and I brought him anyway. I told myself it was so Hask would have someone of his own in the room. That was even partly true. It was not the whole truth, and I knew it going up the lane, and I went up the lane.
 
-It was a bright hard morning and he was out at his gate mending a hurdle that did not need mending, which is a thing a man of that age does with his hands when he has been told the day before that somebody is coming. He straightened when he saw the two of us on the lane together, and he did not look at me at all. He looked at Cael, and he went on looking at him the whole way up the path, and something went out of his face that I have never since been able to put a name to, though the nearest I can get to it is the look of a man doing a sum he already knows the answer to.
+It was a bright hard morning and he was out at his gate mending a hurdle that did not need mending, which is a thing a man of that age does with his hands when he has been told the day before that somebody is coming. He straightened when he saw the two of us on the lane together, and he did not look at me at all. He looked at Cael, and he went on looking at him the whole way up the path, and something went out of his face, and what was left was the look of a man doing a sum he already knows the answer to.
 
 Cael was as good as his word and better than mine. He said good morning. He asked after the dog, which was old. Then he put his hands behind his back and let me do the whole of the talking, and when I had done it he said the only sentence he said on that path.
 
 "It's Tobin's ground," he said. "He'll do as he likes with it."
 
-Which was true, and kindly meant, and did the opposite of what it said, because there was no version of that morning in which the elder of Ardenmoor stood at a man's gate and said a thing like that and it weighed nothing. Hask heard it weigh. I watched him hear it.
+Which was true, and kindly meant, and did the opposite of what it said. Hask heard it weigh. I watched him hear it.
 
 He looked at the hurdle a while.
 
@@ -216,9 +216,9 @@ He looked at the hurdle a while.
 
 "I'll have my field."
 
-"Aye." And then, still to the hurdle, in the flat voice a man keeps for the plainest thing he has said all year, "You've brought Cael up my path."
+"Aye." And then, still to the hurdle, "You've brought Cael up my path."
 
-I did not answer him. There was no answer that was not worse than the silence, and I have had years to find one and have not. Cael said nothing either, and I have wondered since whether those two understood one another better in that half minute than either of them ever understood me.
+I did not answer him. There was no answer that was not worse than the silence, and I have not found one since. Cael said nothing either, and I have wondered since whether those two understood one another better in that half minute than either of them ever understood me.
 
 "Well," Hask said at last. "It's a good offer."
 
@@ -226,13 +226,13 @@ And he wiped his hands down his coat and put one out, and I took it, and it was 
 
 He took the ten acres and the forgiven rent, and then he did not work them, and in the spring he let his cottage and went to Wainford to live with a daughter he had not seen in six years, and he died there the winter after, and I heard about it in a letter three weeks late.
 
-I am not going to tell you that I ruined him, because I do not believe I did; he was old and finished with the ground before I ever came, and the strip had been a fiction he was keeping up out of pride, and everyone in the valley including Hask knew it. Nor am I going to tell you I did wrong by him in the terms of the thing, because the terms were generous and I would make the same offer today.
+I do not believe I ruined him. He was old and finished with the ground before I ever came, and the strip had been a fiction he was keeping up out of pride, and everyone in the valley including Hask knew it. Nor did I do wrong by him in the terms of the thing; the terms were generous and I would make the same offer today.
 
-What I will tell you is that I brought the elder of the village up a proud old man's path to make it hard for him to say no, and that it worked, and that I have never once been able to make those two sentences sit comfortably beside each other. That is what owning land is, I discovered. It is not the rents. It is that you will have the power to do a small ugly thing for a good reason, and that no one will ever call you on it, and that you will remember it long after everyone else has forgotten.
+And I brought the elder of the village up a proud old man's path to make it hard for him to say no, and it worked. I have never once been able to make those two sentences sit easy beside each other. That is what owning land is. It is not the rents. It is that you will have the power to do a small ugly thing for a good reason, and that no one will ever call you on it, and that you will remember it long after everyone else has forgotten.
 
 The rest went better, and one part of it went well enough to be worth the whole.
 
-The sixty acres came back into use. Once the strips were straightened and there was a way in, four parcels that had been thistle since before Ren was born were plough-land again, and I had no money to work them and no wish to hire day labour on ground I would not be watching. So I did the only thing that made sense, and it was Bess Wray who put it in my head, in the way she put things in your head, which was by saying it aloud to her husband while I happened to be in the room.
+The sixty acres came back into use. Once the strips were straightened and there was a way in, four parcels that had been thistle since before Ren was born were plough-land again, and I had no money to work them and no wish to hire day labour on ground I would not be watching. So I did the only thing that made sense, and it was Bess Wray who put it in my head, the way she put things in your head, by saying it aloud to her husband while I happened to be in the room.
 
 "Tam's seventeen," she said.
 
@@ -242,11 +242,11 @@ There was not room for him at home; there rarely is, in a house with more childr
 
 So I let him the two best of the four parcels, twenty-four acres, in his own name, on his own paper, at seventeen years old.
 
-Terms: three years free while he broke them in, then a tenth, then a fifth, the same as his father, with a clause that if he threw it up in the first two years there was no debt and no ill feeling. I gave him the use of his father's tools and his father's advice, both freely offered, and a note to Kellard for seed against next autumn's crop, which is a debt I took onto my own account because no man in this world lends money to a seventeen-year-old.
+Terms: three years free while he broke them in, then a tenth, then a fifth, the same as his father, with a clause that if he threw it up in the first two years there was no debt and no ill feeling. I gave him the use of his father's tools and his father's advice, both offered free, and a note to Kellard for seed against next autumn's crop, which is a debt I took onto my own account because no man in this world lends money to a seventeen-year-old.
 
 I put it to them in their own kitchen with Tam sitting at the end of the table where he had sat all his life. I put it to Tam and not to his father, and looked at Tam while I said it. That was the only part of the evening I had thought about beforehand. He heard it the way he heard everything that year, without moving. Twice he looked down the table at his father, and both times he made himself stop.
 
-Hal Wray said nothing at all while this was proposed, and Bess watched him not saying it, and afterward, at the door, he shook my hand and did not let go of it for slightly too long, and said, "He'll not let you down."
+Hal Wray said nothing at all while this was proposed, and Bess watched him not saying it, and afterward, at the door, he shook my hand and did not let go of it for a moment too long, and said, "He'll not let you down."
 
 "I know that."
 
@@ -276,9 +276,9 @@ The note was paid. The materials were bought, the steel lying in crates on the s
 
 I walked down to the crates that week in the dark after supper, more than once, with no reason to go and nothing to do when I got there. They stood on the southeast slope on sleepers, under canvas roped down at the corners against a wind that had been getting up out of the west most nights, and the rain stood in the hollows of the sheet. You cannot see steel through canvas. I went and stood by it regardless, and put a hand on the corner of a crate, and came back up in the wet.
 
-I sat at my own table on a black November evening and understood, without any particular drama about it, that I had made everything I owned into a bet on one glasshouse and had nothing whatever left over for the building of it.
+I sat at my own table on a black November evening and understood that I had made everything I owned into a bet on one glasshouse and had nothing whatever left over for the building of it.
 
-It was Jorin who said it out loud, three days later, standing on the southeast slope with the drawings rolled under his arm and the pegged-out line of the thing running away downhill from us both, longer than the village street, marked in the grass like the outline of a beached whale.
+It was Jorin who said it out loud, three days later, standing on the southeast slope with the drawings rolled under his arm and the pegged-out line of the thing running away downhill from us both, longer than the village street.
 
 He had come up on his own and without sending word, on a morning that could not decide what it meant to do. We walked the whole length of the pegs first, down and back, and he stopped at four of them and moved none. At the far end he crouched and took up a handful of the soil and let it run out of his fist, and stood, and said nothing about it.
 
