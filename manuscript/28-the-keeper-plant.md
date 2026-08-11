@@ -22,7 +22,7 @@ I asked him once, idly, whether he could not do with the space.
 
 The winter tried the house first.
 
-It was one of those still black nights at the end of the frost, the sort where the cold does not blow but settles. I woke at two and could not swear to the stove, and there is no sleeping again after that. The way had ice in the low places and the stars were out hard and small, and when I got the glasshouse door open the warmth came out past me into the dark with wet earth and green in it, and I stood in the doorway a moment breathing it like a man let off.
+It was one of those still black nights at the end of the frost, the sort where the cold does not blow but settles. I woke at two and could not swear to the stove, and there is no sleeping again after that. The track had ice in the low places and the stars were out hard and small, and when I got the glasshouse door open the warmth came out past me into the dark with wet earth and green in it, and I stood in the doorway a moment breathing it like a man let off.
 
 The stove was in. I fed it anyway, and swept the ash, and went the length of the house with a lamp looking at panes. The frost had drawn its ferns on the outside of the glass and got no further than the glass. In the propagation bays the seedlings stood up out of their trays in ranks with no notion of February about them at all. Coming back down I stopped at the north end and held the lamp up over the empty corner, for no reason I could have given anybody, and the grit had frozen at the top and not below, and I laid my hand flat on it, and it was cold, and there was nothing else in it to find.
 
@@ -42,9 +42,9 @@ We lost a little lettuce at the south end and nothing else. Coming out of it at 
 
 By the front of that autumn the house had been tried both ways. The stove had held the frost out of the propagation bays through the last of winter; the vents and the shade-cloths had held the summer down to what growing things could bear; and we had sold, by then, enough out of those beds for the deferred half of Jorin's wages to be paid out entire and a first small figure to stand at the bottom of Penworth's quarterly column with no bracket around it.
 
-I paid Jorin at my own table on a bright cold morning at the front of that autumn. It is the only piece of business in three years I have wanted to do twice.
+I paid Jorin at my own table on a bright cold morning. It is the only piece of business in three years I have wanted to do twice.
 
-The money came up from Kellard's yard the day before, in a leather bag with the yard's mark burnt into the flap, and Kellard brought it himself rather than send it with anybody. He stood in my doorway holding it and did not offer it at once.
+The money came up from Kellard's yard the day before, in a leather bag with the yard's mark burnt into the flap, and Kellard walked it up the hill himself. He stood in my doorway holding it and did not offer it at once.
 
 "Fine morning," he said. "For the time of year."
 
@@ -60,19 +60,19 @@ He put the bag into my hands then, and did not let go of it until he was satisfi
 
 "Terms as they were."
 
-Then he went down the way with his hat on and his hands behind him. He never once said what he was carrying. He had walked it up a hill sooner than let it be carried by a man he paid to carry things, and he would have gone to his grave before he told me why.
+Then he went down the way with his hat on and his hands behind him. He never once said what he was carrying, and he would have gone to his grave before he told me why.
 
 Jorin came up at seven with his hat in one hand and his book under his arm and would not have the fire built up. I had the sum on the table already. I had spent a good part of the evening before getting it into columns, and then taking the columns apart and building them again in a different order, in the manner of a man who has never had this to do in his life and means to do it beautifully.
 
 He put his book down, squared it to the table's edge, and sat, and let me count.
 
-I counted it out in front of him aloud, in stacks, and pushed each stack over as I finished it, and he did not touch one of them until the last was down. It took a while. It is a curious thing to hear your own voice going on and on with figures in it in a quiet room, and the man opposite saying nothing whatever, and a year and a half of a builder's patience standing on the boards between you in little towers of metal.
+I counted it out in front of him aloud, in stacks, and pushed each stack over as I finished it, and he did not touch one of them until the last was down. It took a while. It is a curious thing to hear your own voice going on and on with figures in it in a quiet room, and the man opposite saying nothing whatever, and a winter and a summer of a builder's patience standing on the boards between you in little towers of metal.
 
 When I had done he did not count it back. He put two fingers on the near stack and moved it a hair until it stood square to the table's edge, and then went down the row doing the same to each of them, and then went back along the row and did it again. I have watched that man do that to a rank of chisels, a stack of shims, a plate of bread, and a pair of sleeping children's boots, and in his language it means that he is thinking.
 
 "The paper," he said.
 
-I had it ready: the sheet the two of us had signed at the black end of the autumn before last, the winter rate on it and the deferred half under that and the interest written in below, in my hand and with both our names at the foot. He read it through, though he had it by heart and so did I, and he read it the way he reads a drawing, slowly and once. Then he laid one finger on the line about the interest.
+I had it ready: the sheet the two of us had signed at the black end of last autumn, the winter rate on it and the deferred half under that and the interest written in below, in my hand and with both our names at the foot. He read it through, though he had it by heart and so did I, and he read it slowly, and once, and did not go back to the top of it. Then he laid one finger on the line about the interest.
 
 "That's more than the work was."
 
@@ -86,7 +86,7 @@ He looked at the line a moment longer. Then he folded the sheet along its old fo
 
 "Right," he said.
 
-And then he sat there. He had somewhere to be by eight, and he sat in my chair with his hat on his knee for the better part of twenty minutes and drank a cup of tea he had twice refused, and talked about nothing whatever: the price of lime, the state of the low road, a chimney at the mill he did not care for and had not been asked about. Those twenty minutes have stayed with me longer than the counting did.
+And then he sat there. He had somewhere to be by eight, and he sat in my chair with his hat on his knee for twenty minutes and drank a cup of tea he had twice refused, and talked about nothing whatever: the price of lime, the state of the low road, a chimney at the mill he did not care for and had not been asked about. Those twenty minutes have stayed with me longer than the counting did.
 
 Then he stood up and put his hat on and stopped in my doorway with the bag in his hand.
 
@@ -94,11 +94,11 @@ Then he stood up and put his hat on and stopped in my doorway with the bag in hi
 
 "I know it."
 
-"Aye." He looked past me and down the slope, where the long roof of the glasshouse was taking the early light and the beds stood green behind the glass in the first honest cold of the year. "It came in, then."
+"Aye." He looked past me and down the slope, where the long roof of the glasshouse was taking the early light and the beds stood green behind the glass in the cold early light. "It came in, then."
 
 "It came in."
 
-He went down the way with the bag in his off hand and his book under his arm and did not look back at the house or at me. There is no ceremony for the paying of a debt. There ought to be one, and if there were it would be exactly that: a man standing in your doorway telling you which part of it was his to carry, and then going down the hill to work.
+He went down the way with the bag in his off hand and his book under his arm and did not look back at the house or at me.
 
 I will not call it triumph. It was thinner than the dreams had been, the way the real thing always is. But the house was proved, a working commercial glasshouse at the end of a stone way on a frontier hill, and the season was turning, and on the first evening with a real edge on the air Brenna appeared at my door with a handcart, and on the handcart, wrapped against the cold like an invalid queen, was the crock.
 
@@ -114,7 +114,7 @@ It is a quarter of a mile from my door to the glasshouse door and it took us a l
 
 The cart was a light one and the load was not heavy, and neither fact had anything to do with the pace. She had the handles and would not give them up, and the slope wanted to take the thing away from her at the elbow of the path, and I put one hand on the rail at my side of it and took what weight I could without appearing to, and she let me, and that was its own sort of permission. The wheel went over the flags with the flat knock a wheel makes on set stone, one flag, the next, the next, and I was glad of that, again and out of all proportion, that there were flags there for it to knock on.
 
-The cold that evening was the first honest cold of the year. It had come up out of the ground at about four in the afternoon and it had the smell in it that means the summer has stopped arguing. Our breath went ahead of us. Away west the sky was still that hard clean green it goes for ten minutes at the back of a fine autumn day, and the valley had gone blue underneath it.
+The cold had come up out of the ground at about four in the afternoon and it had the smell in it that means the summer has stopped arguing. Our breath went ahead of us. Away west the sky was still that hard clean green it goes for ten minutes at the back of a fine autumn day, and the valley had gone blue underneath it.
 
 Neither of us said one word the whole way. I opened the gate at the head of the slope and shut it behind her. I opened the glasshouse door and held it while she brought the cart through, and shut that too.
 
@@ -196,7 +196,7 @@ I stood on my own doorstone and read a dry-goods bill twice for the pleasure of 
 
 Penworth's page was Penworth's page: four short paragraphs of the quarter, in the order he has used since I was a younger man and he was a younger one. What had come in. What had gone out. What stood. What he proposed. The patents were paying slowly and steadily, as he had told me they would in a year when I did not believe him. The lamp trade had come off its best quarter and its dullest month, and he set the two facts beside each other and drew nothing out of them, that being his way of drawing something out of them. And at the foot of the column, where for two years there had stood a figure with a bracket round it, there stood a figure with no bracket round it. He made nothing of that either. He gave it no sentence. He set it down in the same ink as everything else and left it there to be looked at, and no piece of arithmetic has ever paid me a better compliment.
 
-The line about his daughter cost him something to write and cost him more to leave in. I read it four or five times. I had a picture of Nerys in my head built out of a decade of one-line mentions and it was certainly wrong in every part of it. What I had right, I think, was the man: he had written that he was sorry to report it, and he had meant a piece of that, and he had also meant the exact opposite of it, and he had known quite well that I would take both and answer neither.
+The line about his daughter cost him something to write and cost him more to leave in. I read it four or five times. What was in it, I think, was the man: he had written that he was sorry to report it, and he had meant a piece of that, and he had also meant the exact opposite of it, and he had known quite well that I would take both and answer neither.
 
 I set the bread on the table and the two of them beside it. Then I went back to the third.
 
@@ -250,9 +250,9 @@ At about four he looked at the sky over the west shoulder and said, to the yard 
 
 And he sat himself down on the bench by my door with the air of one who has been waiting the whole afternoon to be asked and had begun to give up hope of it.
 
-I sent Soren for the cheese and then went after him, because the cellar under the Study is eleven steps and the fourth is worn hollow in the middle, and I did not care to have somebody else's grandson find that out in the dark with both arms full.
+I sent Soren for the cheese and then went after him, because the cellar under the Study is eleven steps down into the dark and the last of them comes sooner than a stranger expects, and I did not care to have somebody else's grandson find that out with both arms full.
 
-We went down together with the lamp. What I remember is the cold of that place, the dressed-stone cold that is the same in August as in February, and the smell of it, roots and flour and the ghost of last year's apples. He held the lamp while I got the cheese out from under its cloth and cut what we wanted and covered the rest. He touched nothing. He asked about nothing. He stood exactly where I had put him and looked up at the close vault over his head, and over at the vent in the corner where the frost flowers on the hard nights and was not flowering yet.
+We went down together with the lamp. What I remember is the cold of that place, the dressed-stone cold that does not know what month it is, and the smell of it, roots and flour and the ghost of last year's apples. He held the lamp while I got the cheese out from under its cloth and cut what we wanted and covered the rest. He touched nothing. He asked about nothing. He stood exactly where I had put him and looked up at the close vault over his head.
 
 "It's colder than outside," he said, on the stairs.
 
@@ -262,13 +262,13 @@ Then, two steps up, having gone on with it: "It isn't, though. It's the same as 
 
 "That is exactly it."
 
-He carried that up the rest of the steps and out into the yard, and then he put it down and did not pick it up again. That is his way with a thing once he has hold of it.
+He carried that up the rest of the steps and out into the yard, and then he put it down and did not pick it up again.
 
 We ate at my table with the door shut and the fire up. There is not much to tell about it and I remember all of it.
 
 There was bread from the village oven cut thick, and the cheese, and butter out of a crock, and a dish of roots that had been in the ashes since noon, because I had known since noon that they were staying and had been lying to myself about it. And the last of the year's beans out of the glasshouse. They were the best thing on the table and nobody remarked on them, that being what it is to eat at a grower's.
 
-Soren ate like a boy of eleven who has been up a hill twice in one day. He took a second helping of the roots when it was offered and a third when it was not, having established for himself that the dish was going to be there whether he applied for it or not. For the first while he said almost nothing. Then, with the edge off him, he began to answer questions, and it was his grandfather who asked them, in the flat unhurried voice of an old man who has put the same three questions to a child every evening of that child's life and has not once been bored by an answer.
+Soren ate like a boy who has been up a hill twice in one day. He took a second helping of the roots when it was offered and a third when it was not, having established for himself that the dish was going to be there whether he applied for it or not. For the first while he said almost nothing. Then, with the edge off him, he began to answer questions, and it was his grandfather who asked them, in the flat unhurried voice of an old man who has put the same three questions to a child every evening of that child's life and has not once been bored by an answer.
 
 What was asked was what he had seen that day, and what the beck was doing, and who he had spoken to. The answers came back short and complete and in order, with no opinion anywhere in them. The beck was down two hands on the ford stone. The oven had been lit late because the wood was wet. Ned Pardon had a pony loose on the lane that would not be caught, and had been at it, said Soren, since before the bread.
 
@@ -278,7 +278,7 @@ What was asked was what he had seen that day, and what the beck was doing, and w
 
 "He'll be at it Friday."
 
-Cael, having eaten, talked. He was in the humour of a man who has carried a piece of news about with him for a fortnight, delivered it, and found he has a good deal of it left over. He gave me the meeting a second time, at greater length and in considerably less order, with all the parts he had left out at noon because they did not suit an announcement.
+Cael, having eaten, talked. He had carried that news up a hill and delivered it at noon in the shortest form it would go into, and found he had the better half of it still on his hands. He gave me the meeting a second time, at greater length and in considerably less order, with all the parts he had left out at noon because they did not suit an announcement.
 
 "Four of us and the clerk," he said, "and the clerk's book. And the book has more to say than the four of us together."
 

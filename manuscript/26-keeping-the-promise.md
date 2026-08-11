@@ -18,11 +18,11 @@ The evening it turned over in me was a Tuesday, and nothing whatever happened on
 
 I had come up off the shelf at six with grit in my boots and my hands smelling of wet stone, and I had made tea and then forgotten to be a man who drinks tea, and I stood on my own doorstone with the mug going cold in my fist and watched the valley shut itself up for the night. The thorn along the top of the way was out, and going over already at the edges, and the smell of it came up in gusts when the air moved and was gone when it did not. Somebody down there was burning green stuff in a garden and making a poor job of it. The glasshouse held the west a long time after the grass had given it up.
 
-Then the light failed off the rim, and the ground under my boots took its breath and let it out again, and I stood in it as I had stood in it three or four hundred times, and did not write anything down, because that night it was not mine to measure. I had the notebooks. I had a hundred and some evenings of them by then, and the count of what I had is a thing I could give you to the entry. What I did not have was one single word for what was doing it, and standing there with a cold mug in my hand I understood that I was not going to have one by waiting, and that I had somehow got into the habit of behaving as though I would.
+Then the light failed off the rim, and the ground under my boots took its breath and let it out again, and I stood in it as I had stood in it on more evenings than I had troubled to add up, and did not write anything down, because that night it was not mine to measure. I had the notebooks, and what was in them I could have given you to the entry. What I did not have was one single word for what was doing it, and standing there with a cold mug in my hand I understood that I was not going to have one by waiting, and that I had somehow got into the habit of behaving as though I would.
 
 And below me, at the top of the street, in the black shape of the forge, there was a square of light with a man in it.
 
-He was not waiting for me. That is the part I want set down straight, because it would be a warmer story if he had been and it would not be true. He was at his bench at seven in the evening finishing something, and the light was on because the light is always on when there is something to finish, and there was nothing in that window to reproach me with at all. It reproached me anyway. I thought about the count he had kept all winter under his hammer without one word to me about it, and about a man who lets you get one step from his door before he asks the only question he has, and about what it costs to ask a question that small.
+He was not waiting for me. It would be a warmer story if he had been, and it would not be true. He was at his bench at seven in the evening finishing something, and the light was on because the light is always on when there is something to finish, and there was nothing in that window to reproach me with at all. It reproached me anyway. I thought about the count he had kept all winter under his hammer without one word to me about it, and about a man who lets you get all the way to his door before he asks the only question he has, and about what it costs to ask a question that small.
 
 I went in and set the tea down untouched and got out the drawing of the collars, because I had decided a thing at last and wanted something in my hands to take down the hill with me.
 
@@ -32,11 +32,11 @@ He straightened from the bench and looked at me one long moment, and I watched h
 
 I had brought an errand with me to hold, the way a man brings a hat in to turn in his hands. The summer's collars wanted going wider by a hair, and I had the drawing folded in my coat, and I had meant to do the iron first and the asking after, and I got about as far as his doorway with that plan intact.
 
-It was a real errand, I want that said. The summer glass was coming through fatter than the winter's had, no more than a shade of it, and a shade is nothing until you go to seat it. I had drawn the collar out twice on my own bench with the disc under my thumb, and gone wider by a hair, and drawn it again to be sure the hair had not grown while I was not looking at it. Any other week I would have been pleased with that sheet of paper. That week it was a hat.
+It was a real errand. The summer glass was coming through fatter than the winter's had, no more than a shade of it, and a shade is nothing until you go to seat it. I had drawn the collar out twice on my own bench with the disc under my thumb, and gone wider by a hair, and drawn it again to be sure the hair had not grown while I was not looking at it. Any other week I would have been pleased with that sheet of paper. That week it was a hat.
 
 The forge was at the cool end of its day. He kept it so when the work allowed, and the work had allowed; the fire was low, the coals ticking themselves down, and the long light came in level off the street and lay along the far bench where the first of the twenty sets stood ranged in their rows waiting on their glass. A workshop in its last hour has a particular quiet in it. Nothing in the room was urgent any more. Everything in it was going to be there in the morning.
 
-I knocked my boots off on his stone out of pure habit, there being nothing on them worth knocking off, and went in. He looked up once and went back to the file, which in that room is a welcome and is meant as one. I stood by the bench with my hands behind me and waited on the stroke to finish, because a man who interrupts Tomas at an edge does it once in his life and remembers it after.
+I knocked my boots off on his stone out of pure habit, there being nothing on them worth knocking off, and went in. He looked up once and went back to the file, which in that room is a welcome and is meant as one. I stood by the bench with my hands behind me and waited on the stroke to finish.
 
 The file stopped. He set the piece down on the leather and turned it a half turn with one finger so that it lay along the edge of the bench and not across it, and looked at me.
 
@@ -64,7 +64,7 @@ Something went across his face and did not become anything. He took the sheet up
 
 And that was the errand, all of it, done and gone in the time it takes to bank a fire, and I stood in his forge with nothing whatever left in my hands.
 
-He waited. That is the thing about him. He did not pick the file back up and he did not fill the room, he only stood there with his weight even and let the silence sit where I had put it, and the silence got large, and I let it get larger, and then I said the wrong sentence about the weather and let it get larger still.
+He waited. That is the thing about him. He did not go back to the file and he did not fill the room, he only stood there with his weight even and let the silence sit where I had put it, and the silence got large, and I let it get larger, and then I opened my mouth and made it larger still.
 
 And I said it badly. I have gone over what I said a fair number of times since and it does not improve with going over.
 
@@ -80,15 +80,13 @@ I will not pretend that nobody looked. Ardenmoor had been holding opinions about
 
 We went up past the oven with its mouth open and cooling and the last of the day's heat coming off the brick of it, and past a woman taking in washing off a line, who said good evening to Tomas and then, a beat afterward, to me. That beat was the valley's entire opinion of my standing in it, delivered without a grain of malice and without the smallest idea that it had been delivered. Two children stopped what they were doing to watch us go by, not because of me, because Tomas was out of his forge with his coat on and the light still up, and children know an irregularity when they see one. Somewhere behind us at the low end Maret's wheel went on turning over, which it does whether there is anything to grind or not, and the sound of it came with us as far as the last houses and then let us go.
 
-Nobody said anything to us. That is the valley all over. It will hold an opinion about a man for years without once putting it in his hand, and it will watch him walk his smith up a hill in the evening and file it, entire, to be brought out later at a table.
-
 We went up without talking. The way took the climb the way I had built it to, and I watched him notice the work with his feet, the set of the flags, the drained elbow, and file it under things done properly, which was the filing I had built it for. The evening was clear and going gold at the rim.
 
 The first reach out of the lane is the one I am fondest of, because it is the one I laid last and by then I knew what I was doing. It runs out along the foot of the slope with the beck on the left of it and does not begin to climb at all for forty paces, so that a man comes off the lane and finds himself already on stone and going up without ever having been asked to. Tomas came off the lane onto it and I felt him register the change under his boots at the second stride, and he did not look down, and he did not say anything, and his stride altered by about a hand's breadth and stayed altered.
 
 The way does not go at the hill straight. It takes it in long reaches with the turns set where a man carrying something would want them, on the principle that a path you can walk with a load on is worth two you can only walk empty, which is a thing I had been told by three separate people and did not believe until I had laid it myself with my own back. Tomas went up it at one speed. He did not slow for the steep reach and he did not hurry the level, and I found myself matching him, and found also that his one speed was a little faster than my own, which I minded rather more than I have any right to admit.
 
-There is a companionship in going up a hill beside somebody that has nothing to do with talking and is spoiled by it about half the time. What I had was his breathing, which came deeper as the ground stood up and never once came faster; and my own, which did both; and four boots on laid stone, his falling heavier than mine and somehow with less noise in them, and mine going scritch on the grit at the turns where the wind puts it. Behind us and below, the valley was letting off the day. A gate. A dog that had one bark in it and then thought better. The beck, which you hear on the second reach and lose on the third and get back at the crossing, and which I have never got tired of losing and getting back.
+There is a companionship in going up a hill beside somebody that has nothing to do with talking and is spoiled by it about half the time. What I had was his breathing, which came deeper as the ground stood up and never once came faster; and my own, which did both; and four boots on laid stone, and the grit at the turns where the wind puts it, going scritch under mine and not, so far as I could hear, under his. Behind us and below, the valley was letting off the day. A gate. A dog that had one bark in it and then thought better. The beck, which you hear on the second reach and lose on the third and get back at the crossing, and which I have never got tired of losing and getting back.
 
 Twice I had a sentence made up and ready in my mouth, and twice I looked at the back of his coat going up in front of me and put it away again, and by the third reach I had stopped making them.
 
@@ -106,11 +104,11 @@ Tomas went to the Study first, without being asked and without asking, the way a
 
 "They've never once complained."
 
-He put his palm flat on the doorpost on his way past it, the once, and took it off again, and I do not believe he knew he had done it. There is no explaining that to anybody who has not made a thing with his own hands and then come upon it long afterward, doing its work, in a place he has never been. I have it myself with a lamp. You do not go up to it and admire it. You touch it in passing, once, on your way to something else, and then you leave it alone for the rest of your life.
+He laid his hand on the doorpost on his way past it, the once, and took it off again, and I do not believe he knew he had done it. There is no explaining that to anybody who has not made a thing with his own hands and then come upon it long afterward, doing its work, in a place he has never been. I have it myself with a lamp. You do not go up to it and admire it. You touch it in passing, once, on your way to something else, and then you leave it alone for the rest of your life.
 
 Then he stood on my grass and looked at where he was.
 
-It is not a large hill. I want to be honest about that, having gone on about it at length for a good part of my life. It is a green shouldered rise at the head of a valley, and there are three within a day's ride that stand higher, and nothing about the look of it would stop a traveller on the low road. But it is the only ground in that country you can stand on and see the whole of the valley's floor at once, from the bottoms to the wood, and at that hour of a clear evening the floor lies down there in one long held piece with the beck drawn through it in silver, and the fields go the colours fields go at the end of a day, and Tomas of Ardenmoor, who had lived at the top of that street the whole of his life and made half the iron in every house of it, had never once seen his own valley from above.
+It is not a large hill. I want to be honest about that, having gone on about it at length for a good part of my life. It is a green shouldered rise at the head of a valley, and there are hills within a day's ride that stand higher, and nothing about the look of it would stop a traveller on the low road. But it is the only ground in that country you can stand on and see the whole of the valley's floor at once, from the bottoms to the wood, and at that hour of a clear evening the floor lies down there in one long held piece with the beck drawn through it in silver, and the fields go the colours fields go at the end of a day, and Tomas of Ardenmoor, who had lived at the top of that street the whole of his life and made half the iron in every house of it, had never once seen his own valley from above.
 
 He stood and looked at it a good while. He turned round once, slowly, and finished where he started.
 
@@ -122,19 +120,19 @@ I took him to the middle of the grass, a little east of the Study, over the spot
 
 He did not answer that, there being nothing in it that wanted answering, and we stood.
 
-We stood longer than either of us had expected to, because the light that evening went out of the sky with no hurry in it at all. The grass had wet in it already. I felt it come through at the ankle first and then get in under the top of my boot and settle there. Away over the north wood a single star came out and stopped pretending to flicker. Down the slope the glasshouse turned from gold to grey to a long black shine and began, very faintly, to tick, the way that house does as the heat goes out of the frame, and I found I was counting the ticks and made myself stop.
+We stood longer than I had looked to stand, because the light that evening went out of the sky with no hurry in it at all. The grass had wet in it already. I felt it come through at the ankle first and then get in under the top of my boot and settle there. Away over the north wood a single star came out and stopped pretending to flicker. Down the slope the glasshouse turned from gold to grey to a long black shine and began, very faintly, to tick, the way that house does as the heat goes out of the frame, and I found I was counting the ticks and made myself stop.
 
 It is a curious business, waiting on a thing you have never once known to fail. I had a hundred and some nights of it written down by then, in a hand that got steadier as the years went, and on not one of those nights had the hill missed its hour. And I stood on my own grass beside a man I had brought the whole way up there on the strength of that record, and I went methodically through every reason it might not come, and invented two more that had never occurred to anybody, and got up a fine cold sweat inside a good coat about a thing that had never happened.
 
-I will give you three of them, since I paid for them. That the sky, being unusually clear, would somehow let the thing off. That the presence of a second man on the crown, being a weight and a warmth and a stranger both, might damp it, hold it, put it off its hour. And that it had been three days since I had last stood out for it, and that in those three days it might quietly have finished whatever it had been doing for the last ten thousand years and gone to sleep, and I would be the man who had brought a smith up a hill at the end of his working day to feel a hill not do anything.
+I will give you three of them, since I paid for them. That the sky, being unusually clear, would somehow let the thing off. That the presence of a second man on the crown, being a weight and a warmth and a stranger both, might damp it, hold it, put it off its hour. And that it had been three days since I had last stood out for it, and that in those three days it might quietly have finished whatever it had been doing all this while and gone to sleep, and I would be the man who had brought a smith up a hill at the end of his working day to feel a hill not do anything.
 
 So I talked. That is what I do, and I did it. I told him what the instruments said about the interval, which he had not asked. I told him about the third stone under the Study keeping its own count of the nights, which was rather more than I had meant to give away and considerably less than it sounds. I told him that some evenings it came a minute behind the last of the light and some evenings three, and that I had never yet got a rule out of it that was worth the paper I ruled it on.
 
-"There's a second one," I said, "in the black before the birds. Same size, or as near as makes no difference. I've stood out for that one in every month there is, and I can tell you it is harder to love at four in the morning in February." He did not laugh, and it was not a joke, and I went on. "The interval between the two is not the interval between the light going and the light coming, which you would think it must be, and it is not. It runs its own count. I have had the almanac and my own book side by side on that bench for two winters trying to make one of them tell me something about the other."
+"There's a second one," I said, "in the dark before dawn. Same size, or as near as makes no difference. I've stood out for that one in every month there is, and I can tell you it is harder to love at four in the morning in February." He did not laugh, and it was not a joke, and I went on. "The interval between the two is not the interval between the light going and the light coming, which you would think it must be, and it is not. It runs its own count. I have had the almanac and my own book side by side on that bench for two winters trying to make one of them tell me something about the other."
 
 Away below us somebody's door went.
 
-"The grass here is greener over the line of it," I said, "if there is a line of it, which I am not prepared to say. It goes over first in a hard spring and it stays over longer in a dry one. That may be the ground and nothing else. Most things are the ground and nothing else. I have written down a good many mornings on my knees in that grass to be able to tell you that I do not know, and I want you to have the size of it, because it is the size of what I have and it is smaller than the size of what you have carried."
+"The grass up here is greener than it has any business being," I said, "and it goes over first in a hard spring and it stays over longer in a dry one. That may be the ground and nothing else. Most things are the ground and nothing else. I have written down a good many mornings on my knees in that grass to be able to tell you that I do not know, and I want you to have the size of it, because it is the size of what I have and it is smaller than the size of what you have carried."
 
 Tomas stood with his hands at his sides and let me run down the way a clock runs down, which took some while, and then a while longer, and then I heard myself and stopped.
 
@@ -160,7 +158,7 @@ Then he sat down.
 
 I want that in, because in all the time I had known that man I had never seen him sit anywhere but a bench with work in front of him. He went down onto the grass the way a big man goes down, in two stages and without hurry, and put his forearms across his knees and looked out over the dark valley with his hat back on his head. I sat down beside him, there being nothing else to do that was not standing over him.
 
-I do not think I can make that sound like what it was. He was a man who stood. He stood at his fire and he stood at his bench and he stood in his own doorway of an evening with the bar under his arm, and in the whole of my acquaintance with him I never saw him take a chair at anybody's table, not once, though he was asked at half the doors in that valley. He came in, and he stood, and he did what he had come for, and he went. And on the top of my hill in the dark with the cold coming up out of the ground he put himself down on the wet grass like a man who intends to be there a while, and settled his back, and there was no more to it than that, and it went through me like the far end of the pulse.
+I do not think I can make that sound like what it was. He was a man who stood. He stood at his fire, and he stood in his own doorway of an evening with the bar under his arm, and in the whole of my acquaintance with him I never saw him take a chair at anybody's table, not once, though he was asked at half the doors in that valley. He came in, and he stood, and he did what he had come for, and he went. And on the top of my hill in the dark with the cold coming up out of the ground he put himself down on the wet grass like a man who means to be there a while, and settled his back, and there was no more to it than that.
 
 The cold came up out of the ground and into us both. Somewhere below a door went, and a bucket, and after that the valley had nothing further to say for the night.
 
@@ -178,11 +176,9 @@ Three years of hearing an edge of a thing through a stone floor with a village i
 
 "Closer, then."
 
-And he got up off the grass to hear it. I do not know why. He put one hand down and came up in the same two unhurried stages he had gone down in, and stood, and I stood after him, and we finished the evening on our feet the way we had started it.
-
 So I told him. Standing on the crown in the dark with the first stars out, I gave the smith of Ardenmoor the true shape of it, as far as the shape went: that the hill is aware; that it always has been, since long before the village had a name to give it; that what he had been hearing through his floor for three years was not a leak or a working or any doing of mine, but the sound of something old and patient being what it is. That it had been listening back. That it had learned my hand, the way he might learn a customer's step, and that its sound was changing now the slow way a thing changes when it is trying to be understood. That it was not angry, and never had been, and that every instrument I owned and every hour I had spent flat on my face in that grass said the same one thing about its temper, which is that it has the patience of stone because it is stone, and that it wanted something, and had wanted it since before either of us was born, and that I did not yet know what.
 
-That is a fair account of what he had off me, and it is in the order I would set it down in now, sitting warm by a fire with a pen. It did not come out in that order or anything near it. It came out in pieces, because he took it in pieces. He stopped me where he wanted stopping and let me run on where he did not, and by the finish of it he had done a good half of the work of the telling himself, and I have thought since that this is what it is to be told a thing by somebody who is any good at hearing.
+That is a fair account of what he had off me, and it is in the order I would give it in now. It did not come out in that order or anything near it. It came out in pieces, because he took it in pieces. He stopped me where he wanted stopping and let me run on where he did not, and by the finish of it he had done a good half of the work of the telling himself, and I have thought since that this is what it is to be told a thing by somebody who is any good at hearing.
 
 I began with the word, because the word was the load and there is no sense carrying a load round the back of the house.
 
@@ -238,7 +234,7 @@ Tomas thought about that a good long while. Down in the valley a light went out 
 
 "Angry?" he said.
 
-That is the question. Out of everything he might have asked, standing on top of a thing he had been frightened of in his own house for years, he asked the only one that mattered to a man who has to go home and sleep over it.
+That is the question. Out of everything he might have asked, standing on top of the thing that had been under his own floor for three years, he asked the one question that mattered to a man who has to go home and sleep over it.
 
 "No," I said. "Never once. Not on the worst night I ever had out here and not on the night I did something to it I should not have done. I have got a great deal wrong about that hill and I am as certain of this as I am of my own hands: there is no anger in it anywhere. It has the patience of stone because it is stone. You could hammer on it for a hundred years and it would take the hundred years and think nothing had happened."
 
@@ -256,11 +252,11 @@ He let that stand.
 
 "Is it the same all over the hill," he said.
 
-There it was, in six words, laid down without any weight on it at all, the way he laid down everything.
+There it was, laid down flat with nothing on it, the way he laid down everything.
 
 "It's under all of it," I said. "You get it in the beck field and you get it under your own floor and you get it here, stronger, because here is the top of it. It does not stop at my fence."
 
-That was a true answer. It was not the answer to what he had asked, and he had no way on earth of knowing that, and I stood on my own grass in the dark and let him have it and did not add the other half.
+That was a true answer. It was not the answer to what he had asked. I stood on my own grass in the dark and let him have it.
 
 He nodded slowly and looked out at the dark.
 
@@ -300,13 +296,13 @@ So I sat on the top of my own hill in the dark, having given a good man the whol
 
 I lit the lamp at the top and carried it low, down at the knee, which is how you carry a light on a way you know, so that the flags come up out of the dark a stride at a time and you keep your eyes.
 
-A lamp makes a small room out of a whole hillside and puts everything outside that room a very long way off. Inside ours there was the stone going by underfoot, going darker as the dew came on; my boots; his, which fell heavier than mine and quieter; a moth that came and stayed with us the length of one reach and then had business elsewhere; and at the elbow, faint, the water talking to itself under the flag he had stood on going up. We came down over the beck on Ren's stones with the beck loud in the dark the way water is at night, and out onto the last flag, the one I had set first of all of them so that it would be the first thing anybody coming up would stand on.
-
 Going down took longer than going up. I have never been able to decide how much of that was the dark and how much was neither of us being in any hurry to arrive. He went first, since I had the light behind him and it threw his shadow out ahead of him down the flags, and twice on the reaches he put a hand out flat at his side, palm down, in the small unconscious way of a man walking a floor he does not yet know, and both times took it back. At the ford he waited on the near stone until I was over, which nobody has ever needed to do for me on those stones, and which I said nothing about.
+
+A lamp makes a small room out of a whole hillside and puts everything outside that room a very long way off. Inside ours there was the stone going by underfoot, going darker as the dew came on; my boots; his, which fell heavier than mine and quieter; a moth that came and stayed with us the length of one reach and then had business elsewhere; and at the elbow, faint, the water talking to itself under the flag he had stood on going up. We came down over the beck on Ren's stones with the beck loud in the dark the way water is at night, and out onto the last flag, the one I had set first of all of them so that it would be the first thing anybody coming up would stand on.
 
 The valley came up to meet us in lights. Lira's, which was the largest and the loudest even from that distance. Brenna's, small and steady and lit far later than a herbalist's window has any business being. And at the top of the street, behind the black shape of the forge, one square of amber that had come off my own bench and would not want oil again in either of our lifetimes.
 
-We came into the street at the low end and went up it in the dark, and there was nobody out in it to see us come back, which I was glad of and have never worked out why.
+We came in off the way and into the street in the dark, and there was nobody out in it to see us come back, which I was glad of and have never worked out why.
 
 At his gate he stopped, and turned, and lifted his chin at the hill standing over the both of us. He had been putting that question to me that way since the night at his forge, without troubling to open his mouth for it, across every collar and bracket and slow morning, a small tilt of the head at the dark above the roofs. Every time before, I had shaken my head at it, small, and given him the two words.
 

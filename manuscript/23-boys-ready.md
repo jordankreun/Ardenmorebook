@@ -6,7 +6,7 @@
 
 Jorin came up the way on the second evening of those four days, with a roll of my drawings under his arm and the particular walk of a man who has read them and has opinions.
 
-He had come up in the rain and had not hurried in it. From my window I watched him take the last thirty flags at the pace he takes dry ones, hat brim shedding, my four sheets rolled and buttoned inside his coat where the wet could not get at them. That told me his opinion of the drawings before he was over the threshold with them.
+He had come up in the rain and had not hurried in it. From my window I watched him take the last thirty flags at the pace he takes dry ones, hat brim shedding, my four sheets rolled tight and the skirt of his coat brought over them where the wet could not get at them. That told me his opinion of the drawings before he was over the threshold with them.
 
 I had drawn the storehouse over the winter, in the evenings the glasshouse left me, which were few and late. It wanted building on the east shelf, into the slope, where the ground had already done half the work: the cave that Ren had found on harvest night sat back in that deeper green like a room the hill had roughed out and left for a tenant, dry, stone-floored, cool the year round. My drawings took it as they found it. Face the mouth, floor it proper, wall the front, roof what stood proud of the slope, and let the hill itself be the cold store's back and sides, the way a good root cellar is mostly borrowed ground with a door on it. The inner chamber I had drawn deeper, smaller, and I had specified its rear wall with a care that stood out of the page a little from the plainness of the rest: set true, dressed both faces, to a line I had drawn with more care than any store wall wants.
 
@@ -16,7 +16,7 @@ I had drawn it on the good board with my father's instruments, which is a senten
 
 I am no draughtsman and have never claimed to be one, but I was taught to draw by a man who was, at a table I was not tall enough for, and some of it took. His instruments had come out of their case in the autumn and stayed out on the shelf all winter, and that was a new arrangement in my house. The dividers with the stiff joint that wants a thumb and a certain amount of language. The ruling pen you fill with a brush and never dip. The small ivory rule gone the colour of weak tea.
 
-Drawing a building is an argument with yourself in which you are obliged to write down both sides. On the ground you can say the door goes about there. At a quarter inch to the foot you must say where about there is, and the paper will not let you leave, and it cannot be hurried, and it has no opinion of you whatever. I drew the plan three times. The first was the cave as I wished it were. The second was the cave as it is, and it made a worse building. The third was those two having it out on one sheet, and that is what a drawing is for, and it is the one Jorin had rolled inside his coat.
+Drawing a building is an argument with yourself in which you are obliged to write down both sides. On the ground you can say the door goes about there. At a quarter inch to the foot you must say where about there is, and the paper will not let you leave, and it cannot be hurried, and it has no opinion of you whatever. I drew the plan three times. The first was the cave as I wished it were. The second was the cave as it is, and it made a worse building. The third was those two having it out on one sheet, and that is what a drawing is for, and it is the one Jorin had carried up the way in the rain.
 
 The rest of the specification was as dull as good building always is on paper. Front wall two feet thick in squared block, laid to courses, with a batter of an inch in the foot to throw the weather off it. The mouth faced and squared back to sound stone, no further than wanted. Floor of flags on nine inches of clean grit, laid to a fall toward the mouth, so that anything wet in that building would leave it without being asked twice. A stone lintel and not oak, because oak in a cold store is a slow argument that you lose. Slate over the part that stood proud of the slope and turf over the slate, so that from twenty paces up the shelf you would see a bank with a door in it. Vents in the front wall at the top, hooded, with a slide on each, because a cold store that cannot breathe is a cellar full of mould and one that breathes too freely is a cellar full of March.
 
@@ -26,9 +26,9 @@ Turf over slate wants saying properly too, because it looks like thrift and is n
 
 And behind all of that, past the outer chamber where the barrels would stand, through the low way into the deeper room, one wall. Nine feet by seven. Dressed both faces, set to the line, jointed close.
 
-Jorin spread the sheets on my table under the lumen and went through them the way he went through everything, in order, twice, saying nothing the first time. The rain had followed him up and was busy on the window. I poured what I had and let him read.
+Clearing the table for him took longer than it had any right to. There were seed lists on it, and Brenna's spring order, and two of my own notebooks, and a plate I should have carried down at breakfast. I moved the lot to the bench under the north sill and wiped the boards with my sleeve and put out what the house had that would hold a corner down: the tea tin, a whetstone, the flat of a chisel, and the inkstand last of all.
 
-Clearing the table for him took longer than it had any right to. There were seed lists on it, and Brenna's spring order, and two of my own notebooks, and a plate I should have carried down at breakfast. I moved the lot to the bench under the north sill and wiped the boards with my sleeve and set the four sheets out in their numbered order, and weighted them with whatever was to hand: the tea tin, a whetstone, the flat of a chisel, and my own left palm until I thought of the inkstand.
+Jorin spread the sheets on my table under the lumen and went through them the way he went through everything, in order, twice, saying nothing the first time. The rain had followed him up and was busy on the window. I poured what I had and let him read.
 
 What I had was the end of a bottle Penworth had sent up at midwinter, a heel of yesterday's loaf, and some of Brenna's hard cheese. Jorin took the bread and the cheese and left the bottle alone until the first pass was done, which was how he drank.
 
@@ -54,7 +54,7 @@ Then he went back to the first sheet and did the whole of it again.
 
 Then he went at the work, which was the real reading, and it took the better part of an hour.
 
-Most of an hour of anything is not worth setting on paper. What follows are the parts where the building changed. Anybody who has never sat through such an hour supposes it must be tedious, and it is the opposite of tedious: it is the hour in which a thing on paper is going to stand up out of the ground or is not going to, and every dull sentence in it carries load.
+Most of an hour of anything is not worth setting on paper. What follows are the parts where the building changed. It is the hour in which a thing on paper is going to stand up out of the ground or is not going to, and every dull sentence in it carries load.
 
 "Vents."
 
@@ -98,7 +98,7 @@ I made that note too, and it is on the sheet in the same pencil, and it is the r
 
 "An inch in the foot. On the face."
 
-"And your jamb?"
+"Your jamb."
 
 I had not thought about the jamb. A wall that leans back an inch in every foot of its height, and a door that hangs plumb inside it, are two different intentions meeting in the same three feet of stonework, and one of them has to give way to the other in a manner somebody has decided in advance.
 
@@ -258,7 +258,7 @@ It was a fine morning after the rain, the sort that comes in off the west in tha
 
 It is good work, setting out, and it takes a great deal longer than anybody watching believes. We cut the hazel back from the mouth and burned it wet, which is its own small misery.
 
-Green hazel in leaf does not want to burn and must be talked into it. You get a fire going in the heart of the heap out of dry stuff carried up on purpose, and then you feed it green, and it sulks, and it steams, and it sends a white column straight up in still air that can be read from the street, and somewhere past noon it stops arguing and burns hot and clean and you cannot come within four feet of it. Jorin fed that heap all morning and never once discussed it with me. I have noticed since that a builder will let his client dig all day and will not let him mind the fire.
+Green hazel in leaf does not want to burn and must be talked into it. You get a fire going in the heart of the heap out of dry stuff carried up on purpose, and then you feed it green, and it sulks, and it steams, and it sends a white column straight up in still air that can be read from the street, and somewhere past noon it stops arguing and burns hot and clean and you cannot come within four feet of it. Jorin fed that heap all morning and never once discussed it with me. A builder will let his client dig all day and will not let him mind the fire.
 
 We cut the stools back to the crown and not to the ground, because hazel cut properly comes again and is hurdles in seven years, and there was no call to kill a thing whose only fault was standing in front of a door nobody had wanted until now.
 
@@ -272,7 +272,7 @@ The three-four-five is older than anybody's grandfather and it is the only piece
 
 Jorin drove his the way he drove everything, three strikes and done. Mine wanted five, and one of them wanted pulling and doing over.
 
-You can learn a man from his hammering. Jorin held the peg with two fingers at the very top and hit it as though he were putting it somewhere he had already seen it standing. I held mine in my whole fist. That is fear. I hit it a shade off the true, and that is fear as well, and it went in leaning, and it had to come out. He watched me pull it and said nothing, and watched me set it again, and when it went in on four he moved along to the next one. That was the whole of his commentary and it was enough.
+You can learn a man from his hammering. Jorin held the peg with two fingers at the very top and hit it as though he were putting it somewhere he had already seen it standing. I held mine in my whole fist. That is fear. I hit it a shade off the true, and that is fear as well, and it went in leaning, and it had to come out. He watched me pull it and said nothing, and watched me set it again, and when it went in true he moved along to the next one.
 
 Then we cut the footing trench across the front, two spits down through the shelf's black soil to the yellow underneath, and found the bedrock coming up handsomely at the west end and dropping away at the east, which meant a step in the footing and half a day that nobody had costed.
 

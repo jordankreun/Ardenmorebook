@@ -243,3 +243,33 @@
   tools read as another trade's. I heard "not surveyors" and moved to the nearest neighbouring trade,
   which reproduced the defect exactly one step over. When a note objects to a KIND of thing, changing
   the instance is not the fix.
+
+- **2026-08-10 — PARTS III–IV EXPANDED, and 171 verifier findings across eighteen chapters.** The
+  back half went 59,307 → 112,630 words (1.90×), floors set per chapter from a measured
+  dialogue-density survey rather than a multiplier, `32b-coda.md` byte-identical. **Every chapter met
+  its floor and every one of the 171 findings was repaired.** The distribution of those findings is
+  the useful record, because it is not what a length pass is supposed to produce:
+  - **PAYOFF THEFT / DUPLICATED SCENE was the dominant failure, exactly as predicted, and it kept
+    taking the form of re-staging a scene the book had ALREADY PLAYED ELSEWHERE.** Ch 17's drafter
+    wrote 1,150 words of Hal Wray walking the holding on a bright cold April morning — a morning
+    played in full in **Ch 10**, down to the same wired gate and the same *"It's a rare mess"*. Ch 24
+    took Ch 31's eleven steps and the hollow in the fourth tread, and its *"larder"*, a word that
+    occurs in one file only. Ch 21 lifted four distinctive phrases from Ch 14's well morning
+    near-verbatim AND ran the beats in the opposite order to canon. Ch 18 opened Hal's Ch 16 line.
+    **LESSON: a compressed line is not always a compression. It is often a CALLBACK, and the test is
+    whether the scene exists somewhere else in the book — which a drafter reading only its own
+    chapter cannot see.**
+  - **CONTRADICTING A PRESERVED SENTENCE, often in the adjacent paragraph.** Ch 26 alone raised 21
+    findings: new prose stood both men up before a reveal the preserved text plays sitting, said
+    Tomas *"did not pick the file back up"* one paragraph before the preserved *"with the file in his
+    hand"*. Ch 16 gave three incompatible states of the same rain in three new sentences.
+  - **TIMELINE.** Ch 28 walked "The way" in a winter before Ch 20 builds it.
+  - **DUPLICATED INTERPRETATION**, the book's own diagnosed flaw, in nearly every chapter.
+  - **One finding worth keeping for its own sake:** Ch 32's drafter wrote *"in any terms that would
+    satisfy a reader"*. The word **reader** appears nowhere in the pre-expansion manuscript — the
+    book is told ALOUD, to a narratee who is revealed in the coda to be Soren. A single word would
+    have broken the frame the whole book stands in.
+  **THE STANDING CONCLUSION: for this book, an expansion pass without an independent adversarial
+  verifier per chapter is not a draft, it is damage.** The drafters hit every floor and reported
+  clean; the damage was invisible from inside the chapter being written, and in the Ch 25 case the
+  drafter reported zero new tics while having tripled one.

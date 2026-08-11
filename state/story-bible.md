@@ -8,42 +8,21 @@
 ## STATUS
 
 - Chapters drafted: **BOOK ONE IS COMPLETE — Prologue + Chapters 1–32 + coda + Interludes I–III.** 37 files,
-  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **186,290 words**
+  `00-prologue.md` … `32b-coda.md`, all listed in `manuscript/manifest.json`. **239,997 words**
   (prose lines only; blank lines and `#`-headers excluded — the method `tools/state-check.sh`
   documents). Keep this bullet current: `state-check.sh` FAILs when it falls behind the manifest.
 - **Current work is REVISION, not continuation.** The storycraft pass (2026-07-31) runs part by
   part; Part I is done. Part boundaries: I = Prologue–Ch 7 + Interlude I · II = Ch 8–15 +
   Interlude II · III = Ch 16–25 + Interlude III · IV = Ch 26–32 + coda.
-- **⚠️ THE BOOK IS CURRENTLY LOPSIDED, BY DECISION (2026-08-09).** Parts I and II were expanded to
-  roughly **2.3× their length** on the author's instruction ("these chapters seem too short … at
-  least twice as long"). Ch 1–15 now run **5,000–10,400 words**; Ch 16–32 still run **2,000–5,600**.
-  **Parts III–IV are queued for the same treatment** and until they get it a reader will feel the
-  back half accelerate. Do not "fix" the imbalance by cutting Part I, and do not treat the Part I
-  lengths as the new house target — session-lock #7 (length is flexible, material sets it) is
-  unchanged. **The method, for the follow-up run: SUMMARY BECOMES SCENE.** The compressions already
-  in the text ("Jorin came up to build it, and brought Ren") are opened out into played scenes with
-  dialogue, weather and hands. No new plot, no new named entities, no raised stakes; every existing
-  sentence preserved by anchored insertion. Parts III–IV carry more plot and less summary than
-  Parts I–II did, so the same 2× target will strain harder and must not be met with padding.
-
-## WHERE TRUTH LIVES (read this before looking for a fact)
-
-| you want | it lives in |
-|---|---|
-| how to write it (process, voice, POV, forks) | `references/session-locks.md` — binding, read first every session |
-| what is true in the world | **this file** |
-| every setup and whether it is PAID / BANKED / OPEN | `state/thread-ledger.md` |
-| places, directions, distances | `state/geography.md` |
-| money model in full | `references/economy.md` |
-| why a rule or fact exists | `archive/state-compaction-2026-07-31/` |
-
-**PENDING PAYOFFS is gone** (524 lines, removed 2026-07-31). `state/thread-ledger.md` supersedes
-it and says so in its own header. Do not re-create a second setup list here.
-
-## SESSION-LOCKED WORLD FACTS (binding; supersede the references where they differ)
-
-Process and craft locks live in `references/session-locks.md`. What follows is locked **fact**.
-
+- **THE BOOK IS NO LONGER LOPSIDED (closed 2026-08-10).** Parts I–II were expanded first, which left
+  the back half short for a day; **Parts III–IV have now had the same pass** and Ch 16–32 stand at
+  **4,453–8,342 words** against Ch 1–15's **5,000–10,400**. Both halves were grown by SUMMARY BECOMES
+  SCENE with the same four prohibitions, and the back half was deliberately grown LESS (1.90x against
+  2.3x) because it carries more plot and less summary — the floors were set per chapter from a
+  measured dialogue-density survey, not from a multiplier. **Do not "finish the job" by pushing the
+  back half to 2.3x.** The chapters that stop short stop short on purpose: Ch 32 at 1.31x is the
+  climax, Ch 25 at 1.49x had zero words of narration wall to open, Ch 19 and 27 were already dense
+  played scene, and **32b is byte-identical and stays that way.**
 - **Name.** The protagonist is **Emlyn Ambrose**. Only "Emlyn" has been given on the page;
   **Ambrose is withheld** until the author reveals it.
 - **Emlyn.** Past forty at the opening, looks a good deal younger. Only child, both parents dead.
