@@ -8,6 +8,16 @@ The glasshouse came up the frontier road in pieces, on eleven wagons across the 
 
 A stone house they understood. A stone house is only a cave a man has troubled to square, and every family in Ardenmoor had raised a wall or watched one raised, and the Study, for all it stood on a hill that had thrown off two lifetimes of walls, was in the end a house, and houses they knew. But the glasshouse came as a frame of wrought steel, black and slender and strange, forged in the city to my drawings and warded in the forging against rust and rot and the particular hungry damp of a glasshouse, so that it would stand a hundred years and never weep a red tear down its joints. And there was so much of it. A hundred and sixty feet of it, five bays deep, with propagation houses at the cold end: a building longer than the whole of Ardenmoor's street, going up on a bare slope where nothing had ever stood, in a valley whose grandest structure was a three-storey inn. The long members came up the road two to a wagon behind six straining horses, black and longer than any tree in that valley grew straight, and the whole village found some reason to be on the road the days they passed, the way they had found reasons to come up and watch the Study not fall. Children walked alongside. Somebody's grandmother was helped down to the verge to see.
 
+I went down for the fourth day of it, having got out of the carters the evening before that the fourth wagon carried the two longest members, and I wanted to watch them come round the bend below the mill. Half the street wanted the same thing and had got there ahead of me.
+
+The frontier road is wide enough for two carts where the drivers are reasonable and for one where they are not, and it comes into Ardenmoor round a shoulder of rock that has been shaving paint off wheel hubs since before anybody's grandfather was born. Steel of that length does not go round a corner. It goes round it in stages, an inch at a time, with a man at the head of the team walking backwards, and a second lying flat along the load with his eye on the overhang, and a third at the tail with a pole, and the business conducted at the pace of a funeral in a language of grunts and single syllables that all of them appeared to have been born knowing.
+
+It took the better part of two hours and nobody left. Somebody carried a bucket round to the horses and somebody else brought bread out because it was that hour and it would have been strange not to. The children were sent up the road twice to see whether anything was coming the other way, and came back at a run both times to report that nothing was, with the gravity of couriers. Two men climbed the bank to look down on the load from above and give advice, and the carters ignored them with a thoroughness that was itself a kind of courtesy.
+
+When the head of that long member finally came clear of the rock it swung out slow and black over the verge at about the height of a man's shoulder, and the grandmother who had been helped down was sitting there on an upturned crate with a shawl over her knees, and she put her hand up and touched the underside of it as it went by, where the forge scale still lay dull along the flat, and took her hand back and looked at her fingers.
+
+The steel was cold, and slightly greasy, and it left a black mark on the hand. I know because I did the same thing myself, further up the road, when there was nobody on it to see me do it.
+
 I want to be honest about what that building was, because it is easy, at this distance, to tell it as vision, and at the time it was the single most reckless thing I have ever done with money, and I did it with my eyes open, having had it explained to me on a hillside by the one man qualified to explain it.
 
 I could not buy it. That is the plain fact and Penworth had made me say it out loud on a hillside in the summer. Steel of that length is forged to order and takes months, so the order had to be placed long before any crop was cut, and it was placed against a borrowing secured on the only thing I owned, which was the ground. When the papers were done I did not own a hill with a debt on it. I owned a debt with a hill inside it, and a second debt lying on top of the first, and both of them resting on the same acre and on the proposition that a valley nobody had wanted would grow strawberries in February.
@@ -17,6 +27,10 @@ Then the harvest came in, and it came in thinner than those nine good days had p
 What none of it had covered was the part Jorin had put his finger on with four words on the southeast slope. I had gone looking for that money in the one place I had left to look, and had come back from eleven days on the road with a cheese and a fleece, and that was the end of looking. Steel does not set itself. A hundred and sixty feet of frame wants a skilled crew for the better part of a winter, and a crew wants paying every Saturday whatever the weather has done, and I had bought a very great deal of steel and could not pay a man for a week of it.
 
 Penworth's conditions were exact and I met all three. I did not put a spade in until the crop was in and sold and the second payment made out of it, though it cost me a month of good weather and I chafed at every day of it. I took the shipping through him, and it came nine per cent under Kellard's quotation. And I wrote to him monthly, that autumn and after, whether there was anything in it or not, which turned out to be the condition that mattered.
+
+Writing them was harder than that sentence makes it sound, because for long stretches there was nothing whatever to write. A man with news writes easily. A man with a note falling due in the spring, and a hundred and sixty feet of steel lying in crates, and no crew to set it, has one piece of news he does not want to send and nothing else, and the temptation is to wait until there is something worth the postage. So I made a rule of the last evening of the month, and sat down to it with the candle drawn over and the ink going stiff at the edges, and put down the week's weather, the state of the road up from Wainford, what the frost had done to the mortar of a wall that had nothing to do with him, whether the mare was sound. Some of those letters ran to four lines. One of them, in February, was a sentence about the price of nails with my name under it.
+
+He answered nearly all of them, briefly, and never once remarked on how little was in them.
 
 I have his last letter before the work began, and I keep it. *The money is arranged and will be with Marsh & Cobb on the sixteenth. I have read your drawings twice. They are the drawings of a man who intends to be somewhere in thirty years, which is the only part of this business that reassures me at all. Do not economise on the glass; it is the one thing on that hill you cannot ward your way out of. I remain, against my professional judgement and with my whole personal confidence, yours.*
 
@@ -88,11 +102,61 @@ That is how it was done. Not by a wizard's cleverness, and not by anybody's char
 
 It went on like that all autumn, once I had learned the trick of it. I had no money and I had a great deal else, and it turned out the valley ran on the second far more than on the first. Tomas took the whole of the glasshouse ironmongery, hundreds of brackets and clips and ridge-fittings, against a season of my work at his forge: I warded his stock and his hearth and his water, and did a thing to the temper of his best tools that he never spoke of to anyone and that I will not describe here, and we called that even, in the one word he uses for it. Kellard, who had lost the freight to Penworth and knew it, took the haulage from Wainford against the promise of first refusal on the glasshouse's early crop, which cost me nothing I had and gave him something to boast of, and it made us both perfectly happy. Maret wanted a dry corner in a mill that had been damp since his grandfather's time.
 
+The second and third of those bargains took an afternoon each, and they are the shape of that whole autumn better than any sum would show.
+
+Kellard I went to see about the haulage with nothing in my hand at all, and he knew it before I opened my mouth, having known since the shipping went through Vethmark and not through his yard. He kept me standing about a while over some sacks that wanted counting, and I took that for the fine I had coming and paid it without complaint, and then he took me into the back storeroom where the stove was, and got the book out, and licked the pencil.
+
+"Eleven wagons," he said. "Wainford to here."
+
+"Eleven."
+
+"Road's not made for it."
+
+"No."
+
+He wrote that down in the careful upright hand he used for everything, the hand of a man who expects to be read out to strangers one day and means to come out of it well. Then he waited, because it was my turn and we both knew whose turn it was.
+
+"There's no money in it," I said. "I'll not waste your afternoon pretending there is. What there is, is first refusal on the early crop out of that house, before any of it goes onto a cart to anywhere. At the town price on the day."
+
+Kellard did not look up. He asked me what a strawberry fetched in Wainford in February. I said I had no idea. He said that he had, and did not tell me what it was, and wrote something down, and I cannot think what else there was on that page to write.
+
+"Put it on paper," he said.
+
+"I will."
+
+"Bring it when it's written and I'll read it in here. Not in the yard."
+
+That was all of it, and it took twenty minutes. He wrote the date at the head of the page and blew on it and shut the book. Going out through the yard I passed the sacks he had left me standing over, and they had been counted, and the tally was chalked on the boards in the same careful upright hand.
+
+Maret's business took longer and used fewer words, because Maret does not ask. He asks by standing next to a thing. I had heard about the damp corner twice from other people and never once from him, so I went down and said I had come to see the mill, and that was true, and it was also the only door into the subject that either of us was going to use.
+
+He took me over all of it, up the ladder to the bins and down again to the pit, and stopped the stones for me and started them again so that I could hear the difference, and let me stand in the wet noise under the wheel-race until I was satisfied. Then he walked me to the corner beyond the bins, where the ground rises against the outside wall, and stood there with his hands behind his back looking at the stonework, and I stood beside him and looked at it too. It was dark to the height of my chest. There was a bloom on it like the bloom on a sloe, and the smell in that corner was a cellar's smell and not a mill's. He put two fingers on the wall and took them away and turned them over for me to see. Then he wiped them on his trousers and went and stood by the bins on the far side of the floor and looked at those instead, and after a moment I understood that the business had been transacted and that all that was left was for me to agree to it.
+
+"How much of it can't you use?"
+
+He held up four fingers, and then made a shape in the air about the size of a small room.
+
+"I'll want a day on that," I said. "Two, likely. Not before the glass is in."
+
+He nodded once and shook my hand and went back to his wheel.
+
 I went into that autumn with eleven silver. I came out of it owing a great many people a great deal of work, which is a different kind of debt entirely, and one I have always found I sleep better under.
+
+That is a tidy sentence and the winter it describes was not tidy. A wage bill falls due on a Saturday whatever anybody's sentences are doing, and every Saturday from the first frost to the thaw I went down to the barn with a box and a list and put into Jorin's hand whatever the lamp trade had brought in that week. It was never enough. It was never nothing either, and the distance between those two facts is most of what I remember about the season.
+
+The lamps had been meant to be my own bread and instead they were other men's wages, so I lived off the practice, and the practice paid in kind because there was nothing else in that valley to pay with. I set a dropped lintel true over a door and took a side of bacon for it. I went out on a black afternoon to a byre where the beasts would not settle, and found the trouble, and came home with a sack of flour, a jar of honey and a headache. I did a thing to a chimney that had smoked since the day it was built and took a cord of ash off it, already split, delivered. My suppers that winter came up the hill in other people's baskets, and I ate better than I had eaten in the two years before it.
 
 Tam Wray came onto the crew for a wage, because I wanted hands and he wanted seed money for his twenty-four acres and neither of us was too proud to say so. He set steel all through that frost with Jorin's men, and every copper of it went into his own ground the following spring. I have always thought that the neatest circle I ever closed in that valley: the great extravagant house of glass, which everybody said would break me, paying for the first honest acres a Wray ever held in his own name.
 
+He was the youngest hand on that line by a year and the only one there who had never set anything heavier than a hurdle, and he did what a young man does who has decided in advance not to be a nuisance. He carried. He fetched. He learned the names of the parts by hearing them shouted and never once asked to be shown a thing twice. Jorin's men worked him hard for a fortnight to find out what he was and then stopped, and in that trade the stopping is the testimonial.
+
 Ren came on it as a man's wage rather than a boy's, at his father's insistence and over his own embarrassment. Tomas made the ridge-fittings so far beyond what the drawings required that I stopped querying his invoices. And two of Jorin's men came up the hill on the first frosty morning of that winter carrying their own tools and looking a long moment at the black line of pegs running away downhill into the frost, and one of them said, "Well," in the exact voice Cael used, and they got on with it.
+
+What getting on with it looked like was this. The frost had gone three inches into the ground overnight and the pegs stood in it like nails driven into a board, and the first thing those two did was build a fire in an old iron trough at the head of the line, not for themselves but for their hands. The second thing was to lay their tools out along a board beside it in the order they expected to want them. Then they stood by the first crate with their arms folded and waited, and Jorin came up at the hour he had said he would come up, and walked the line of pegs from the top to the bottom without hurrying, and came back, and nodded once, and that was the winter begun.
+
+Steel in the cold is a bad-tempered material and every man on that slope knew it except me. At the start of a morning it is cold enough to take skin off a bare palm, and by noon it has moved a hair in its length with the low sun lying on the black of it, and a bay set true at eight o'clock is not true at two unless somebody has allowed for a thing he cannot see happening. Jorin allowed for it. He did not talk about allowing for it. He set the two standards of the first bay, and then went away and did something else for an hour, and came back and looked at them in a different light, and did that four times over before he would let anybody put a bolt through anything. The first bay of that house took a whole day. The second took a morning. The third took until noon, and after that the thing went up like something remembering how.
+
+They worked in gloves with the fingers cut out of them. They ate standing at the trough fire, twelve minutes by any reckoning, and went back up the ladders. When the wind came round to the north they hung sacking along the windward side of the line and worked behind it and never mentioned it to me. When the light went at four they came down, because Jorin would not have a man on a frame with cold steel in his hands in the dark, and that was a rule and not a preference.
 
 She came up to plan the soil while the frame was still going up, and stood in the black skeleton of it with the sky showing through where the glass would go, and turned all the way round once, slowly, taking the measure of it against whatever private standard she kept, and said, "Well. You've built a cage for weather."
 
@@ -130,6 +194,14 @@ There was one more thing that winter that I did not pay for and could not have b
 
 We had a hard cold snap in the middle of the glazing, three days of it, with a third of the bays still open to the sky and the stove not yet lit and the first of Brenna's stock already potted and standing in the propagation house because there was nowhere else on the hill to put them. Cuttings do not care about a man's schedule. They were going to take the frost and die, and we had no lagging, no straw to spare, and nothing in the barn but tools.
 
+Glazing is a slow business done by cold men on ladders and there is no hurrying it. A pane goes up between four hands, one man inside and one out, and it is bedded and clipped and the clips are turned, and the man inside steadies it with the heel of his palm while the man outside works, and then they both come down and shift the ladders eight feet and do it again, and there are in a house of that length rather more panes than a sensible person counts.
+
+In frost it is worse. The putty will not take and has to be kept warm in a pot at a brazier and carried up in a lump in a man's fist and worked soft in his hand on the ladder before it will go anywhere. Glass that has stood out all night will crack in your hands if you bring it too fast to a fire, so it comes in slowly, carried by men who are themselves cold and would very much like to go faster. And a man on a ladder in a frost is a man thinking about his feet, whatever else he happens to be doing with the rest of him.
+
+The first morning of that snap I was on the inside of the line with Ren opposite me on the outside, and between first light and the middle of the day we set nine panes. I remember the number because I had never worked slower at anything, nor more carefully. The cold had made the whole frame ring. You could set a spanner down on a purlin at one end of that house and hear it arrive at the other, hard and bright, nothing at all like the sound the same steel had made in October. Every so often the line would give a small crack somewhere down in the black of it, settling into the cold, and every man on a ladder would stop, and nothing would happen, and they would go back to it.
+
+We came down at noon and stood round the brazier with our hands out and nobody said anything about the propagation house, there being nothing to say about it that would have been any use to anybody. Brenna had been up there since first light moving what could be moved into the middle of it. There was no middle in that house warm enough to matter. She knew it before she began, and she moved them anyway.
+
 On the second morning a cart came up the track.
 
 It was Ned Pardon, with the pony he had complained about to me for a full quarter of an hour in October, and on the cart, roped down under a sheet, were ten fleeces.
@@ -151,6 +223,28 @@ The glass came a fortnight later and took three weeks to hang, and I will not gi
 Back in the autumn, before any of the frost, Essa's bedframe had come, and it is a smaller thing than a glasshouse, and I set it here beside the glasshouse on purpose, because the two of them were the same act done in two sizes, and only one of them was easy.
 
 I had lived since the spring in the house on a rope bed and a straw tick. That is no hardship to a man who has slept in a tent and worse, and I had told myself I kept it so out of thrift, the money being always tight. That was true, and it was not the whole truth. The whole truth was that a proper bed is a thing you build for a life you mean to live and go on living, and I had not been sure, that first year, that I was building any such thing, and a rope bed asks nothing of you and promises nothing back. But the glasshouse had unsettled something in me, some held breath I had not known I was holding. A man who builds a glasshouse against the winters plainly means to be there for them. So I went down to Essa's shop off the square, where the good smell of cut oak and hide glue lived, and I ordered a bed built, a real one, and a chest of drawers to go with it, from a woman who made furniture the way Tomas made iron, more of herself into it than the thing strictly required.
+
+The shop was two rooms and a yard. The front room had a bench down one side and a window she had cut into the wall herself, and shavings on the floor deep enough to walk quietly in, and the smell in there was worth the walk down on its own. She was past fifty and her eyes had begun to go, and she had built her whole trade around that fact without ever saying it out loud. Everything she used lived where it had lived for twenty years. She found her chisels by reaching. She worked with the piece held up close to the light and her head turned a little to one side, the way you turn your head to hear a thing better rather than to see it better.
+
+She heard what I wanted, and then made me say it over again with the measurements in it, and wrote nothing down.
+
+"Oak," she said. "Not elm."
+
+"Oak, then."
+
+"Head or no head."
+
+"A head."
+
+"Carved or not carved."
+
+"Not carved."
+
+She made a small sound that was neither agreement nor its opposite, and went to the rack at the back and came out with a board and brought it into the light and turned it twice and put it into my hands. It was heavier than it looked. The figure in it ran fine and straight for two feet and then broke into a fleck where the light caught.
+
+"That's the head," she said. "The rest of it nobody ever sees, and you'll sleep on it forty years."
+
+I asked how long she would want. She said she would bring it when it was right, and did not give me a week, and I did not ask her for one. I went out through the yard, where her timber stood in ranks with the year chalked on the ends of the boards, and walked back up the street.
 
 She brought the bed up herself on a borrowed cart when it was done, and she did not come alone, and that is the part of this I did not expect.
 

@@ -18,6 +18,16 @@ Two of the younger ones were on the gate when I came to it, on the outside of it
 
 I had four openings ready. I had made them coming down, and improved two of them at the beck, and settled on the third, which began with the weather and turned on its second sentence into the matter at hand without a seam showing anywhere. I have never in my life been so pleased with a sentence I did not get to use.
 
+The first opened on the storehouse, on the grounds that a builder will listen to you about his own work when he will listen to you about nothing else, and it came round by the roof and the doorway and the set of the front wall to the boy who had laid its lines. I threw that one out at my own gate. It was a builder's compliment with a hook in it, and Jorin has had builders' compliments off clients for thirty years and can taste a hook through a foot of butter.
+
+The second was the direct one. It was six words long and I said it aloud on the road, past the elbow, to hear how it stood up in open air. I want to take your son. The beck went on running. Nothing whatever in that valley took the least notice of it, and neither did I.
+
+The third I worked at, and improved twice at the beck by taking one adverb out and putting a better one back, and it was in my mouth and ready and beautifully oiled when I came up the lane.
+
+The fourth was a letter. I composed it standing still in the middle of the road with the evening flies going over the hedge, and abandoned it before its second paragraph on the grounds that you do not write to a man whose gate is a quarter of an hour off and whose lamp is already lit.
+
+I crossed that yard on an inch of oak and pine and made no more sound doing it than a cat. I had always liked that about the place and did not like it at all that evening, having wanted, I think, to be heard coming. He had a hinge in one hand and the screw-iron in the other, and he did not look up when my shadow came over the door.
+
 "You've come about the boy," he said, to the hinge.
 
 "I have."
@@ -34,19 +44,35 @@ I had four openings ready. I had made them coming down, and improved two of them
 
 I took that standing in his own shavings and I had earned it. I had gone about the whole of that summer under the impression that I was a discreet man handling a delicate matter with unusual care, and Ardenmoor had settled the question at the inn some months before and moved on to the subsidiary business of whether I would put it to the boy before harvest or after, on which, I was told long afterward and by somebody who ought to have known better, actual money had changed hands.
 
+I had taken pains, too. I had said nothing of it to Brenna, who would have had an opinion about my timing and would have given it to me entire. I had said nothing of it to Cael, who would have said nothing back and let me hear that instead. And in a whole summer of standing in that yard and on that scaffold with the boy an arm's length off me, I had not once let a word of it near him. All of which, I understood in about a second and a half, standing in a builder's shavings with the light going, had bought me nothing at all, since there is no way of being careful in front of a valley without the valley noticing that you are being careful.
+
 He set down the screw-iron then, and straightened, and looked at me across the trestles in the last of the warm light, and I have faced examiners with less in their faces. It was not hostility. It has never once, in all the years I have known that man, been hostility. It was weight. A man was about to discuss the whole life of his eldest son, and he intended every word of it to be load-bearing, and he wanted me standing square before we started.
 
 "Say your piece, then," he said. "The whole of it. I'll not interrupt."
+
+There is a quiet a builder can make by folding his arms and standing still in his own yard, and he made it, and I began.
 
 So I said my piece, in his yard, with the swallows going over. I told him what I believed Ren was, as plainly as I could say it without a word of the cellar: not clever hands, which any fool could see, and not a good eye, which the valley already priced into his day-wage, but the other thing, the born thing, the thing my whole trade is a school for and cannot manufacture. I told him what I proposed: a formal apprenticeship, the old kind, article and term, in my craft. I told him what it would cost his firm, which was the truth: the best pair of young hands in three valleys, half-lost to wood and stone at the exact moment those hands were coming worth paying for. And I told him what I feared, which I had told no one whole until that evening: that a talent that strong, unschooled, does not stay a gift. It goes inward and sours, or it goes outward and is noticed, and when it is noticed, the noticing is done by people who reach for a gifted boy the way a man reaches for a dropped tool, and the boy is not asked, and the father is not asked, and I had seen where that road goes and I would build a wall across it with my own hands before I let it open under Ren.
 
 It took a good deal longer to say than it takes to read. I said it standing, sitting not having been offered and my not being about to ask for it, and I said it with my hands doing something disgraceful to the top button of my coat, and twice I lost my line entirely and had to go back and take it up again from further off. The light went off the top of his wall while I talked, and then off the trestles, and then off the yard. The swallows finished and gave the air over to the bats. The hinge stayed where he had left it, half driven.
 
-Once, a child came to the house door, saw the two of us standing over that door in the dark, and was gone again before either of us had moved a hand. From that I understood that the house had been told to leave the yard alone that evening, and that Jorin had told them so some hours before I ever came through his gate, and that the man had known what was coming down the lane at him better than I had known it walking down.
+The first time I lost it was on the word apprentice. I heard it come out of my own mouth in the shape it has on paper, a word out of an indenture and a term of years and a clerk's copperplate, and it sat down among those shavings like a hat on a horse. I stopped. I said, "That is not how I meant to say it," and went back, and took it up again from a summer evening on a half-built wall and four corners come out true, that being the one piece of the case I could set in front of him without a word of the cellar and be certain he had seen it himself, with his own eyes, and had said nothing about it for a year for the same reasons I had.
+
+He did not help me. He had told me he would not interrupt and he did not interrupt, not once, not with a word and not with the small encouraging noises a kinder man makes to get you over a stile. He was giving me all of his attention and no assistance whatever, and the two came to me that evening as one thing.
+
+The second time I lost it was worse and it was at the end, on the part I had told nobody. I got as far as the word noticed and stopped as though a hand had been laid flat on my chest. The light was off the trestles by then. I stood in another man's yard in the smell of cut oak and could not get the next clause up off the ground. I said, "Wait." It is not a word to bring into the middle of your own argument, and I brought it. Jorin waited. Two bats went over. Then I took the sentence back to where it started and came at it again from further off and got it out whole the second time, and my hands finished with the top button of my coat and started on the second one.
+
+I told him the shape of the danger. I did not tell him how I came to know its shape, nor why a man past forty in a small valley should have had that particular wall in him ready-built against a road nobody had yet come up. That part was mine and it stayed mine, and it was not the evening for it, and he did not go looking for it.
+
+The house went on being a house behind me while I talked. There was a pot set down on iron; a chair pushed back over flags; once, a voice pitched at the low level a mother keeps for moving a great number of children through a room without raising it; and then a door at the back of all that going to, and staying gone to. Nobody came out into the yard. In a family that size, on a warm evening, with the light going and a visitor stood in the middle of the shavings, that is not an accident.
+
+Once, a child came to the house door, saw the two of us standing over that door in the dark, and was gone again before either of us had moved a hand. What I actually saw of it was a strip of firelight put out across the yard, and a head in the middle of the strip at about the height of a latch, and then the strip narrowing, and then nothing. Jorin never turned round. From that I understood that the house had been told to leave the yard alone that evening, and that Jorin had told them so some hours before I ever came through his gate, and that the man had known what was coming down the lane at him better than I had known it walking down.
 
 Jorin heard the whole of it the way he had promised, without a word, his arms folded, the door lying between us on its trestles like the agenda.
 
 When I had finished he was quiet a long moment.
+
+A bat came through the yard twice at about the height of my shoulder, hunting the same line both times. Under the timber stack something small was working away at a shaving and did not stop. I stood in the dark and let him have the silence as long as he wanted it, having nothing left to spend and no wish to spend it.
 
 "Three things," he said.
 
@@ -86,13 +112,27 @@ There was nothing to be said to that which would have improved it in any particu
 
 "Aye," said Jorin, and picked up the screw-iron, and that was the treaty concluded. I walked down the way that evening in more awe of him than I have been of archmagi.
 
+I did not use the third opening on the road home either. I found it in my mouth somewhere about the beck, whole and oiled and perfectly useless, and let it go over the water with the rest of the evening's traffic. The lane was warm still off the stones and the bats were working it end to end and the lamp was lit in Jorin's kitchen behind me the entire way to the turn.
+
 I did not sleep much on it. I got up twice and wrote the question out, once at the table and once later on standing at the window because sitting had stopped being any help, and both drafts were long and both of them were, I thought, rather fine, and I burned the pair of them in the grate at something past two on the grounds that a question a boy needs a lamp and a dictionary to follow is not a plain question and has no business calling itself one. What I kept was the frame and nothing else. What I was asking. How long for. His father's three conditions in his father's own order and his father's own words. And that he could say no.
 
+The first draft I wrote at the table with the lamp pulled close, and it ran to a page and a half, and it opened, I am sorry to report, with the words It has been represented to me. There was a short account in it of what a term of articles is. There was a sentence on the responsibilities of a master. There was an entire paragraph in which I explained, to an eighteen-year-old joiner in his mother's kitchen, the present state of my own conscience. I read it back twice and thought it careful.
+
+The second I wrote standing at the window with the paper flat against the frame, and it was shorter and it was worse. It had a figure of speech in it about a road with two ends. It had the word gift in it three times. It had, at the foot, a line offering the boy a year to think, and immediately under that a line setting out why a year would be ample. That is the sort of thing a tired man writes at one in the morning and would not say to a dog.
+
+I laid the two of them side by side under the lamp and saw that I had written two long letters to myself and signed neither of them, and that a boy standing at his father's table with his mother in the doorway and half a family listening from the yard would have to carry all of it in his head and go looking underneath it for his own yes or his own no. Then I put them in the grate, the first and then the second, and the second one lifted off the coals before it caught and came down again and burned, and I stood there in my shirt and watched the grate down to ash and the smell of ash.
+
 I said it aloud to the room a number of times to hear where it caught. The room, being my room, was not impressed by any of it.
+
+It caught in two places. It caught on the term, because five years said out loud in an empty room at that hour is a long time and sounds like one, and I left it standing, since it is a long time and he had the right to hear it at its full length. And it caught on the last piece, on his being able to say no, which came out of me the first four times sounding like a man apologising in advance for a refusal he was expecting. I said that one over until it came out flat.
 
 I came back the next evening, washed, in my good coat, which Jorin noted with one flick of an eyebrow and approved of.
 
 The yard had been swept. That was the first thing I saw coming through the gate and it went through me like cold water, because a builder's yard is not swept for a neighbour and never has been, and somebody in that house had been up and down it with a birch broom the better part of an hour on my account.
+
+You could see where the broom had gone. The shavings stood in two long ridges against the timber stack, not thrown out, only moved, and under where they had lain was bare beaten dirt, pale in the last light, holding the print of every trestle foot and barrow wheel of that summer. I had been coming into that yard for two years and had never once seen the ground of it. The lid of the saw pit had been swept clean and the broom had gone round both gate posts, and the storehouse door stood against the wall where he had left it the night before with the dew off it and the hinge driven home.
+
+I did not say one word about it. There was nothing to be said about it that would not have made whoever did it sorry they had.
 
 The kitchen ran the whole width of the house, fire at one end, the long table down the middle of it, and it was the warmest room I have ever been asked into in my life. There was bread out on the board. There was a ham gone into with the knife left standing in it. There was a pot on the crane with its lid lifting and settling, and the smell of that room was onions and thyme and scrubbed wood, and under all of it a hot iron somewhere out of sight, which is the smell of a house that has been getting ready since noon and does not propose to admit it to anybody.
 
@@ -101,6 +141,8 @@ Ren's mother met me at the door with her hands still wet and dried them on her a
 She said, "You'll sit the fire end, it's warmer," and put me there, and set a cup by my hand, and did not sit down herself, and did not once in the next quarter of an hour let her eyes rest on her eldest son.
 
 The younger ones were still in the room then, on the settle and under the table and generally underfoot, and there seemed to be a very great many of them. They knew something was on. Children always know something is on, and they were making what they could of it. Ren sat down at the far end with his sleeves rolled down for the occasion and his hair wet at the front where he had put his head under the yard pump.
+
+It was Jorin who cleared them out, and he did it without saying anything. He looked down the room at the settle, and then at the door, once. There was a movement of children toward the yard with a certain amount of protest in it and no disobedience anywhere, and the smallest one went out backwards so as to keep me in view as long as the doorway allowed.
 
 We sat at the family table, the younger children shooed out to make riot in the yard, and Ren sat across from me with his father at the table's head and his mother at the door with her mending untouched in her lap, and I asked him plainly.
 
@@ -130,7 +172,17 @@ Terms could wait for Penworth's paper, and the old ceremony could wait for the s
 
 The younger ones came back in off the yard the instant the pot went on the table, and brought the hoop in with them, and the hoop was confiscated, and they were sat down, and the noise in that room doubled and then doubled again. There was the ham, and a great dish of potatoes done in the fat under it, and beans, and her own bread, and a jug off Jorin's back wall that he poured for the two of us and then poured a half cup of for Ren, and then, after a piece of arithmetic performed in front of the entire table, went back and made it a full one.
 
+I have thought about that arithmetic since. He poured for the two of us without thinking about it at all. Then he came round to his son with the jug in his hand and stopped, and stood over the boy's cup a moment doing a sum in front of his whole family, and the sum was not about drink. Then he tipped the jug up and finished it and set it down. Nobody at that table said anything whatever about it, and in a family that size, on that evening, I thought that took some doing.
+
 Nobody said one word about apprenticeships. The talk was of a wheel at the mill, and of the price of nails, which was scandalous and had been scandalous for two years and would be discussed as a fresh outrage every evening until it came down. Ren ate the way an eighteen-year-old eats and said perhaps nine words the whole meal, one of which was to correct his father on a measurement. His father took the correction and did not look up.
+
+The wheel at the mill had been running out of true since the spring and the whole street had a theory about it. Jorin's theory concerned the bearing at the wall end and was delivered with a fork in his hand, and it took in, before it was done, the man who set that bearing, the man who set the one before it, and the general condition of the trade. The head of the shaft, he said, would be three foot six across if it was an inch.
+
+"Three foot four," said Ren, to his plate.
+
+His father went on to the nails without conceding it and without saying it again either, and that is how a correction is taken in that house.
+
+The nails were dearer than they had been in the spring, and had been dearer in the spring than in the autumn before that, and this was, by the settled opinion of that table, an outrage, an imposition, and in some manner nobody could describe the fault of somebody in Wainford. I said that steel was steel and had to come from somewhere and be carried. This was received as the remark of somebody who does not buy nails.
 
 The smallest one got round to me at the end, having plainly been working up to it since the potatoes.
 
