@@ -467,8 +467,7 @@ the hill ~forty years (got it at ~18); timeline still coheres. Ch 1 now 4996w; p
 dashes; lint exit 0 (Ch 1 WARNs are the pre-vetted polish-pass counts, no new tics). NOTE: reader
 notes were anchored to superseded/lean text; intent mapped onto current versions.
 
-<!--
-EXAMPLE of the line format to append (delete this comment once real entries exist):
+## RECAP LEDGER
 
 [10] Walking the Bottoms — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
 the author's request; ALL later chapters shift +1 (book now ~32 ch). 2,050w, 62% dialogue. Emlyn cannot
