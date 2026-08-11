@@ -6,9 +6,9 @@
 
 The path was not steep and not long, half an hour from the last of the houses, and it took the stiffness out of my legs and gave me back a clean plain ache instead. It was a cold bright morning still, the dew not off the grass and an edge on the air the climb was glad of. I went up slowly. There was no one to watch me do it and no reason on earth to hurry.
 
-The track was worth the reading on the way. It had not been laid; it had been worn. Whoever went up it first had gone where the ground offered, holding the easy line where the slope stiffened and cutting straight over where it did not, and every foot since had agreed with him. A made road would have argued with that hill in three places at least. This one never once did. I stopped twice going up and looked back down the line of it, and thought that the men who walked that track had surveyed it between them without one of them knowing he was at it.
+The track was worth the reading on the way. It had not been laid; it had been worn. Whoever went up it first had gone where the ground offered, holding the easy line where the slope stiffened and cutting straight over where it did not, and every foot since had agreed with him. A made road would have argued with that hill in three places at least. This one never did. I stopped twice going up and looked back down the line of it, and thought that the men who walked that track had surveyed it between them without one of them knowing he was at it.
 
-The grass was long and full of the night's wet, and by halfway I was soaked to the knee and had given up minding. A hare came out of the bracken three strides ahead of me and was gone up the slope before I had my weight back. Higher up the bracken thinned away and the turf came in short and springy, cropped by sheep that were somewhere else that morning. Bones of stone broke through it here and there, grey and lichened and rounded off, good hard rock with no give in it at all. Off to my left a wall ran up the slope for forty yards and then stopped. Whatever it had been dividing had stopped mattering a long time before.
+The grass was long and full of the night's wet, and by halfway I was soaked to the knee and had given up minding. A hare came out of the bracken three strides ahead of me and went away up the slope. Higher up the bracken thinned away and the turf came in short and springy, cropped by sheep that were somewhere else that morning. Bones of stone broke through it here and there, grey and lichened and rounded off, good hard rock with no give in it at all. Off to my left a wall ran up the slope for forty yards and then stopped. Whatever it had been dividing had stopped mattering a long time before.
 
 Near the top the ground gathered itself and leveled of its own accord into a broad green crown, wide as a market square and quieter. I came up out of the climb onto it, breathing hard, and stood, and turned myself slowly around once to see the whole of what I had come so far to look at.
 
@@ -56,7 +56,7 @@ I told them. There was a silence of the kind a room makes when it has heard a fi
 
 After that the room let me alone and went back to itself, and I went back to my bowl and my watching. And there were, at the long table by the window, two men, an older and a younger, who had the look of kin.
 
-The elder of the two I marked before I knew his trade, because he had the stillness of a man who is good with his hands and has never once needed to say so. He was broad, unhurried, with just the beginning of grey setting in, and he ate without waste and without any part of him left over. When he set his cup down he set it down square to the edge of the table, and then squared it a second time with one finger though it had not needed it. That afternoon he was only a big man eating his lunch, and I was only the stranger the room was taking care not to watch.
+The elder of the two I marked before I knew his trade, because he had the stillness of a man who is good with his hands and has never needed to say so. He was broad, unhurried, with just the beginning of grey setting in, and he ate without waste and without any part of him left over. When he set his cup down he set it down square to the edge of the table, and then squared it a second time with one finger though it had not needed it. That afternoon he was only a big man eating his lunch, and I was only the stranger the room was taking care not to watch.
 
 His hands were what I looked at longest. They were clean, and it took me a moment to see that they were clean the way a tool is clean: scrubbed at the end of a job, and marked all through the creases with what would never come out again. There was sawdust in the seam of one knuckle. A folding rule lay on the board beside his plate, out of his coat, squared to the table edge as his cup was. The younger one had his elbows up and was going after the last of his bowl with a crust.
 
@@ -148,7 +148,7 @@ Nobody said so. Nobody came and sat down opposite me and asked. What happened in
 
 The man who had been patching his gable with reed that morning turned out to be a man with views on roofs, and gave the whole of them to his neighbour without once saying the word hill. Another told a long story about a byre his uncle had built on a wet corner, and how it had stood since his uncle's day and would be standing when the rest of us were done, and the moral of it, so far as I could follow it, was that his uncle had been a wonder and I was not his uncle. One man did come and ask me directly whether I would be wanting hands, and I said I expected I would in time, and half the room heard me say it. Later, quietly and from further off, somebody wanted to know whether it was a trade a man could put a son to. I said it was not, and that I was sorry for it, and he said, "Ah," and let it go.
 
-They were not unfriendly. A small place takes its enjoyment where it finds it, and a stranger had just announced he would do the one thing everybody knew could not be done. I had brought it on myself. I ate my supper and let them have it.
+They were not unfriendly. A stranger had announced he would do the one thing everybody in that room knew could not be done, and they were enjoying it. I had brought it on myself. I ate my supper and let them have it.
 
 Lira fed me without being asked and filled my cup once, and when I had done she stood a moment with the empty plate in her hand.
 
@@ -198,7 +198,7 @@ After a bit he came back round to the agent. He had enjoyed that business the fi
 
 "He'd have turned it round for you," I said. "You'd only to ask."
 
-"Aye, well. I didn't ask." He smiled at the path in front of him. "Second evening he came back and it wasn't white any more. Third evening he'd been at the parish clerk and had the strips copied out fair, every corner and every argument anybody ever had about a corner, and he set it in front of me and asked was that right. And it was right. It was more right than any man in this valley could have told you, and he'd been here two days." He shook his head slowly. "I've never once in my life been so thoroughly attended to. The boy fell asleep under my own table listening to it. I was awake the whole while."
+"Aye, well. I didn't ask." He smiled at the path in front of him. "Second evening he came back and it wasn't white any more. Third evening he'd been at the parish clerk and had the strips copied out fair, every corner and every argument anybody ever had about a corner, and he set it in front of me and asked was that right. And it was right. It was more right than any man in this valley could have told you, and he'd been here two days." He shook his head slowly. "I've never in my life been so thoroughly attended to. The boy fell asleep under my own table listening to it. I was awake the whole while."
 
 It made me homesick for Penworth.
 
@@ -226,7 +226,7 @@ I said that it seemed to me the simplest part of the whole purchase.
 
 Cael did not answer that.
 
-He showed me the spring that came up cold and clear out of the hill's south face and had never once, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right.
+He showed me the spring that came up cold and clear out of the hill's south face and had never, in living memory or his grandmother's, gone dry; a thing worth more than the hill on top of it, he said, and he was right.
 
 It came out under a lip of grey rock a little below the shoulder on the south side, into a basin the water had worn for itself in the stone, and over the edge of that and away down a green line of cress and rush you could follow with your eye for half a mile. It made almost no noise.
 
@@ -290,7 +290,7 @@ He turned and looked at me then, straight, an old man laying the truth on the ta
 
 I have been offered bargains enough in my time, and flattered and hurried and lied to over most of them, and none of them ever moved me to close a deal so fast as that old man doing his level best to talk me out of one.
 
-It was not only the honesty. He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay. I could not get the two facts to lie apart. His father had wanted a level floor and four square walls, and he had never once asked the hill for them. He had *told* it, the way a fair and stubborn mason tells any ground what it will do. I did not yet have the words for what I suspected and would not have them for months. What I had was the plain unreasonable feeling that every man who ever came at that hill had come at it the same way, and that the way was wrong.
+It was not only the honesty. He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay. I could not get the two facts to lie apart. His father had gone up there wanting a level floor and four square walls, and he had *told* the hill so, the way a fair and stubborn mason tells any ground what it will do. I did not yet have the words for what I suspected and would not have them for months. What I had was the plain unreasonable feeling that every man who ever came at that hill had come at it the same way, and that the way was wrong.
 
 "How long," I said, "would you need, to make it all proper?"
 
