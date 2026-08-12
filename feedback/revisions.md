@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-2 open tracked changes. Synced from the reader.
+3 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -17,3 +17,8 @@ ORIGINAL:
 
 REVISED:
 > "There's use in it. There's no bargain in it, here." I put my hands in my pockets, because they were cold and because it was easier than saying the rest.
+
+ORIGINAL:
+> "Aye," he said. "Tell the company."
+
+REVISED: (delete this paragraph)
