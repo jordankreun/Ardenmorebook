@@ -11,6 +11,11 @@ feedback/
 # 1.4MB of story bibles, outlines and the complete pre-revision manuscript,
 # ending included. Exactly what the two lines above exist to prevent.
 archive/
+# scratchpad/ holds working documents — editorial reports, briefs, analyses.
+# They quote the ending freely and name every unresolved defect in the book.
+# Added 2026-08-12, when an editorial report was committed here and would have
+# been served: the same failure as archive/ above, two lines further down.
+scratchpad/
 # The Playwright harness and its fixtures. Never deployed; kept out of the repo
 # root so Vercel's framework detection is not triggered by a package.json.
 test/
