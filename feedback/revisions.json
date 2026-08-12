@@ -27,8 +27,10 @@
     "chap": "Chapter One: Ardenmoor",
     "snip": "The answer never changes, because the arithmetic never does. Put one of the few hands that can do th",
     "original": "The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out, and they never want tending by a man who took twenty years to make. That is the whole of why the country runs on coal and not on us, and there is no failure of anybody's imagination in it. It is a sum, and an honest sum comes out the same every time.",
-    "revised": "The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out. That is the whole of why the country runs on coal and not on us, and there is no failure of anybody's imagination in it. It is a sum, and an honest sum comes out the same every time.",
-    "ts": 1786548646503,
-    "resolved": false
+    "revised": "The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out.",
+    "ts": 1786548665563,
+    "resolved": false,
+    "resolvedTs": 0,
+    "resolvedVia": ""
   }
 ]
