@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-3 open tracked changes. Synced from the reader.
+4 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -22,3 +22,9 @@ ORIGINAL:
 > "Aye," he said. "Tell the company."
 
 REVISED: (delete this paragraph)
+
+ORIGINAL:
+> The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out, and they never want tending by a man who took twenty years to make. That is the whole of why the country runs on coal and not on us, and there is no failure of anybody's imagination in it. It is a sum, and an honest sum comes out the same every time.
+
+REVISED:
+> The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out. That is the whole of why the country runs on coal and not on us, and there is no failure of anybody's imagination in it. It is a sum, and an honest sum comes out the same every time.
