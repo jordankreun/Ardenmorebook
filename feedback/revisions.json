@@ -54,8 +54,10 @@
     "chap": "Chapter One: Ardenmoor",
     "snip": "I set my bags down under the window. I got my boots off and set them where I would fall over them in",
     "original": "I set my bags down under the window. I got my boots off and set them where I would fall over them in the morning, which is where I have always set them. I did not take my coat off. Then I put the candle out.",
-    "revised": "I set my bags down under the window. I got my boots off and set them where I would fall over them in the morning, which is where I have always set them. I did not take my coat oThen I put the candle out.",
-    "ts": 1786717692606,
-    "resolved": false
+    "revised": "",
+    "ts": 1786717834945,
+    "resolved": false,
+    "resolvedTs": 0,
+    "resolvedVia": ""
   }
 ]
