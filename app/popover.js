@@ -113,13 +113,19 @@ export function reposition(inst) {
     });
     return;
   }
-  measure(() => {
-    if (inst.closed) return;
-    const r = inst.anchor.getBoundingClientRect();
-    mutate(() => {
-      if (!inst.closed) applyPosition(inst, r);
-    });
-  });
+  /* Bound ONCE per instance and cached, for the same reason as the editor's
+     settle read: measure() dedupes by function identity, and a fresh arrow here
+     meant every reposition in a frame forced its own anchor rect. */
+  if (!inst._read) {
+    inst._read = () => {
+      if (inst.closed) return;
+      const r = inst.anchor.getBoundingClientRect();
+      mutate(() => {
+        if (!inst.closed) applyPosition(inst, r);
+      });
+    };
+  }
+  measure(inst._read);
 }
 
 /* Immediate re-anchor. For a DOCKED card this is pure write — viewport metrics
@@ -140,10 +146,22 @@ function applyPosition(inst, rect) {
 
   if (inst.docked) {
     // top, not bottom: the bar rides on the top edge of the soft keyboard.
-    el.style.left = Math.round(vp.x) + "px";
-    el.style.width = Math.round(vp.w) + "px";
-    el.style.maxHeight = "";
-    el.style.top = Math.round(vp.y + vp.h - inst.h) + "px";
+    const left = Math.round(vp.x);
+    const width = Math.round(vp.w);
+    const top = Math.round(vp.y + vp.h - inst.h);
+    /* Writing a style dirties layout even when the value is identical, and this
+       ran on every keystroke while none of these three numbers can change from
+       typing — they come from the visual viewport. Compare first, and a normal
+       keystroke performs no style write at all. */
+    if (inst._l !== left || inst._w !== width || inst._t !== top) {
+      el.style.left = left + "px";
+      el.style.width = width + "px";
+      el.style.maxHeight = "";
+      el.style.top = top + "px";
+      inst._l = left;
+      inst._w = width;
+      inst._t = top;
+    }
     inst.top = vp.y + vp.h - inst.h;
     return;
   }

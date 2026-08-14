@@ -296,6 +296,71 @@ console.log("\n== clear all (the tombstone epoch) ==");
   await ctx.close();
 }
 
+/* ---------- 4c. the per-keystroke cost of the docked editor ----------
+   schedule.measure() deduplicates its read queue BY FUNCTION IDENTITY, and that
+   contract is only worth anything if callers pass a stable function. Passing an
+   inline arrow compiles fine, behaves correctly, and quietly costs one forced
+   layout per character instead of one per frame — which is invisible in every
+   test that types one character per frame, and is exactly what a person typing
+   a sentence feels. So this test types a BURST, the way a person does. */
+{
+  console.log("\n== docked editor: forced layouts while typing ==");
+  const { page, ctx } = await newPage({ hasTouch: true, isMobile: true, viewport: { width: 820, height: 1100 } });
+  await page.goto(BASE + "/reader.html", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para");
+  const n = await page.$$eval("p.para", (e) => e.length);
+  const i = Math.floor(n * 0.4);
+  await page.evaluate((k) => document.querySelectorAll("p.para")[k].scrollIntoView({ block: "center" }), i);
+  await page.waitForTimeout(400);
+  const b = await page.evaluate((k) => {
+    const r = document.querySelectorAll("p.para")[k].getBoundingClientRect();
+    return { x: r.left + 40, y: r.top + 12 };
+  }, i);
+  await page.touchscreen.tap(b.x, b.y);
+  await page.waitForTimeout(60);
+  await page.touchscreen.tap(b.x, b.y);
+  await page.waitForFunction(() => document.querySelector("p.editingP") !== null, null, { timeout: 20000 }).catch(() => {});
+  const open = await page.$$eval("p.editingP", (e) => e.length);
+  ok(open === 1, "double tap opens the docked editor on touch");
+
+  if (open === 1) {
+    const r = await page.evaluate(async () => {
+      const p = document.querySelector("p.editingP");
+      p.focus();
+      const s = getSelection(), rg = document.createRange();
+      rg.setStart(p.firstChild, 20); rg.collapse(true);
+      s.removeAllRanges(); s.addRange(rg);
+      let rects = 0, writes = 0;
+      const origRect = Range.prototype.getBoundingClientRect;
+      Range.prototype.getBoundingClientRect = function () { rects++; return origRect.apply(this, arguments); };
+      const bar = document.querySelector(".composer.edit").closest(".pop") || document.querySelector(".composer.edit").parentElement;
+      const topDesc = Object.getOwnPropertyDescriptor(CSSStyleDeclaration.prototype, "top");
+      Object.defineProperty(bar.style, "top", {
+        configurable: true,
+        get() { return topDesc.get.call(this); },
+        set(v) { writes++; topDesc.set.call(this, v); },
+      });
+      // 10 frames x 4 characters, as a person types.
+      for (let burst = 0; burst < 10; burst++) {
+        for (let k = 0; k < 4; k++) document.execCommand("insertText", false, "a");
+        await new Promise((res) => requestAnimationFrame(() => requestAnimationFrame(res)));
+      }
+      Range.prototype.getBoundingClientRect = origRect;
+      delete bar.style.top;
+      return { rects, writes };
+    });
+    /* 40 characters over 10 frames. One caret measurement per FRAME is correct
+       and unavoidable; one per CHARACTER is the identity bug. Allow generous
+       headroom over 10 and still catch a 4x regression. */
+    ok(r.rects <= 18, "typing measures the caret once per frame, not once per character",
+       `${r.rects} caret rects over 40 characters in 10 frames`);
+    /* The docked bar is pinned to the visual viewport, which typing cannot move,
+       so a keystroke should write no position at all. */
+    ok(r.writes === 0, "and writes no position to the docked bar while typing", `${r.writes} writes`);
+  }
+  await ctx.close();
+}
+
 /* ---------- 5. the performance measurement ---------- */
 console.log("\n== tracked-change performance (400 revisions seeded) ==");
 

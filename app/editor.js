@@ -166,6 +166,13 @@ export function openEditor(target, seedQuote, opts) {
   };
   session = s;
   s.save = () => save(s);
+  /* ONE stable function per session, created here and never re-created.
+     schedule.measure() deduplicates its queue by FUNCTION IDENTITY, so passing
+     `() => settleRead(s)` at the call site — a fresh closure every keystroke —
+     silently defeated it: four characters typed inside one frame queued four
+     identical caret measurements, each forcing its own layout. Bound once, four
+     characters queue the same function four times into a Set and it runs once. */
+  s.read = () => settleRead(s);
   pop.onClose = () => teardown(s, { repaint: true });
 
   // Put the caret exactly where the reader was: re-select the phrase they chose,
@@ -179,14 +186,21 @@ export function openEditor(target, seedQuote, opts) {
      synchronously reading offsetWidth/offsetHeight and a rect, plus a scrollBy
      that re-entered through the capture-phase scroll handler — three forced
      layouts per character over a justified, hyphenated 566 KB document. */
-  p.addEventListener(
-    "input",
-    () => {
-      popover.repositionNow(pop);
-      if (docked) settle(s);
-    },
-    { signal }
-  );
+  /* The two cases are genuinely different work, and running both was doing the
+     docked one twice: the old body called repositionNow() and then settle(),
+     which calls repositionNow() again.
+
+     DOCKED: the bar is pinned to the bottom of the visual viewport. Typing
+     cannot move it — only the keyboard appearing or the viewport resizing can,
+     and those have their own listeners below. So a keystroke owes nothing to
+     the bar; it owes only the caret, which settle() tracks.
+
+     ANCHORED: the bar hangs off the paragraph, and the paragraph grows a line
+     as you type, so the bar genuinely must follow. That path is already
+     frame-deferred inside reposition(). */
+  p.addEventListener("input", () => (docked ? settle(s) : popover.repositionNow(pop)), {
+    signal,
+  });
 
   p.addEventListener(
     "keydown",
@@ -232,7 +246,7 @@ export function openEditor(target, seedQuote, opts) {
 function settle(s) {
   if (!live(s)) return;
   popover.repositionNow(s.pop);
-  measure(() => settleRead(s));
+  measure(s.read); // stable identity — see openEditor. Never an inline arrow.
 }
 
 /* Scrolls the SELECTION's own rect — not the paragraph's — into the band
