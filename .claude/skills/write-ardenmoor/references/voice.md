@@ -280,30 +280,38 @@ Typical chapter: 1–3 beats. Broad building chapter: up to 4. Grief or undercur
 chapter: 0. **When unsure, under-spend.** Le Guin's gravity is the asset the entire
 system exists to protect.
 
-### ⚠️ 7.3a PART IV NEEDS AIR (author, 2026-08-12)
+### 🔒 7.3a THE COMIC ARC FALLS AWAY TOWARD THE END — LOCKED (author, 2026-08-12)
 
-The 2026-08-11 audit measured the book's comic arc and found it **collapsing toward the end**:
+**Part IV is DRY ON PURPOSE. Do not add humor to it. Ever.**
+
+The 2026-08-11 whole-book audit measured the comic arc and found it collapsing toward the end:
 Part I runs high (Ch 5 declared 8 beats, Ch 6 declared 3) and Part IV runs near-silent — **zero
-across the 11,772 words of Ch 31 and Ch 32.** The audit read that as the fence working and
-recommended leaving it. **The author has ruled the other way: Part IV is TOO DRY. Grief needs air
-around it or it flattens.**
+across the 11,772 words of Ch 31 and Ch 32.** The audit judged this to be the fence working exactly
+as designed and recommended changing nothing.
 
-Where the air goes, and where it absolutely does not:
+**That is the standing ruling.** The comedy thinning out as the cost comes due is part of how the
+ending lands. The book is allowed to stop being funny.
 
-- **ADD in Ch 26–29**, and only where a beat is the payload of a transaction or an exchange that is
-  already on the page (§8). A beat invented as relief is decoration and will read as one.
-- **NEVER in Ch 31 or Ch 32.** Those are governed by a FENCE, not a budget, and the fence holds
-  perfectly today. Do not touch them.
-- **NEVER in Ch 26's back half** — from the dusk pulse through Tomas's confession. Ch 26's existing
-  four beats all sit before the climb, which is correct, and that is the shape to preserve.
-- **The grief fence and the undercurrent fence above are unchanged.** This ruling adds air in the
-  ROOM, never on the weight.
+> ⚠️ **A REVERSED RULING, RECORDED SO IT CANNOT COME BACK BY ACCIDENT.** For part of 2026-08-12 this
+> section read *"PART IV NEEDS AIR"* and licensed adding beats to Ch 26–29 on the reasoning that
+> grief needs air around it or it flattens. **The author reversed it the same day, before any word of
+> it was applied to the manuscript.** No prose was ever written under it. It is recorded here, struck,
+> because a ruling that is silently deleted is a ruling that gets independently re-derived later —
+> which is precisely how the retired artificer's kit survived in nine passages across eight chapters
+> after being overturned. If a future audit re-measures the comic arc, finds Part IV dry, and
+> proposes adding air: **it has been proposed, and it was refused.**
 
-**This is the one ruling in this file that requires WRITING rather than CUTTING**, which makes it
-the most dangerous. Every other rule here can be obeyed by deletion. A pass acting on this one is
-adding material to a finished book, and the test for each addition is not "is it funny" but
-**"was this transaction already here, and is the beat its payload?"** If the beat could be lifted
-out and the scene lose nothing but a laugh, it was decoration and it fails.
+Operationally, for any pass that touches Part IV:
+
+- **ADD NOTHING.** Part IV is subject to the ordinary budgets for cutting and to no licence at all
+  for adding.
+- **Ch 31 and Ch 32 are governed by a FENCE, not a budget.** Zero, absolutely, and the fence is
+  currently perfect. Do not touch them.
+- **Ch 26's existing four beats all sit before the climb** — none between the dusk pulse and Tomas's
+  confession. That shape is correct and is the model: where a late chapter carries comedy at all, it
+  carries it early and then stops.
+- **Do not "balance" the book.** An even comic rate across four Parts is not a virtue here, and a
+  pass that flattens the arc to achieve one has damaged the ending to fix a statistic.
 
 ### 7.4 The anachronism dial
 
