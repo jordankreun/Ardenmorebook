@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-4 open tracked changes. Synced from the reader.
+5 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -28,3 +28,9 @@ ORIGINAL:
 
 REVISED:
 > The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out.
+
+ORIGINAL:
+> She never once appeared to look up from the glass she was drying. "Wainford road," she said. "It is." "Four days on it, by the boots." She put the glass on the shelf and took another off the rack. "You'll have come about the hill."
+
+REVISED:
+> She put the glass on the shelf and took another off the rack. "You'll have come about the hill."

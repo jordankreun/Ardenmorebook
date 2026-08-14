@@ -32,5 +32,14 @@
     "resolved": false,
     "resolvedTs": 0,
     "resolvedVia": ""
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "She never once appeared to look up from the glass she was drying.",
+    "original": "She never once appeared to look up from the glass she was drying.\n\n\"Wainford road,\" she said.\n\n\"It is.\"\n\n\"Four days on it, by the boots.\" She put the glass on the shelf and took another off the rack. \"You'll have come about the hill.\"",
+    "revised": "She put the glass on the shelf and took another off the rack. \"You'll have come about the hill.\"",
+    "ts": 1786717116971,
+    "resolved": false,
+    "span": 4
   }
 ]
