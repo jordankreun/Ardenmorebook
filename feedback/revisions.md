@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-5 open tracked changes. Synced from the reader.
+6 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -34,3 +34,8 @@ ORIGINAL:
 
 REVISED:
 > She put the glass on the shelf and took another off the rack. "You'll have come about the hill."
+
+ORIGINAL:
+> I said I had come a fair way to get somewhere nobody remembered anything about me at all. He laughed at that, one short breath, and said that in that case I had chosen my valley badly.
+
+REVISED: (delete this paragraph)
