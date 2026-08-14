@@ -63,9 +63,31 @@ Le Guin syntax, by a Rothfuss teller.** That is the sound.
 - POV as locked in §0. Past tense. Never head-hop.
 - **Interludes** (four, between Parts) are the hill's wordless POV: no dialogue, no named
   emotion, no human interiority. Perception without a person. These carry zero humor.
-- **The retrospective frame** shows itself **once per chapter, twice at most.** More and
-  the frame upstages the scene. It is a small admission that the telling comes from
-  later, and it must attach to something concrete in the scene:
+### ⚠️ THE TELLER VARIES BY PART (author, 2026-08-12) — this overrides any flat rate below
+
+**The frame is a STRUCTURAL DEVICE, not a texture.** It is not spread evenly and it is not a
+constant rate. Where it sits in the book decides how much of it there is:
+
+| Part | Rate | Why |
+|---|---|---|
+| **I** (prologue–Ch 7 + Interlude I) | **Heavy** — up to 1 per 1,200 words | He is establishing why he is telling this at all. The frame is the book's premise here, not an intrusion on it. |
+| **II–III** (Ch 8–25 + Interludes II–III) | **Near-silent** — 1 per 4,000 words, and zero is correct | These are the working years. The work carries them. An older man leaning in over a scene of ordinary labour is the thing that flattens it. |
+| **IV** (Ch 26–32 + coda) | **Returning** — up to 1 per 1,500 words | He knows what it cost. The frame comes back because the cost is now the subject, and because the book is closing the circle the prologue opened. |
+
+**A COUNTING RULE, because the last audit produced a wrong number** (it charged Ch 31 with a 6x
+overspend that shrank to ~3x on inspection). These are **NOT** teller instances and must not be
+counted as such:
+- **withholdings** — "I will not walk you through the chest"
+- **give-in-full promises** — "I will not give you the whole of it stone by stone, though I could"
+- **present-tense facts about surviving objects** — "It burns there yet", "as it burns tonight"
+- **events narrated from later** — "about six weeks later I found out"; that is narration, not the
+  frame showing itself
+
+A teller instance is exactly one thing: **the frame NOTICING MEANING the man in the scene did not
+have.** If it does not notice meaning, it does not count.
+
+- **The retrospective frame**, subject to the per-Part rates above, must attach to something
+  concrete in the scene:
   - *First person:* "I know now what the warmth in the stone meant. That morning I
     thought it was the sun."
   - *Third limited:* "It would be a year before he understood what the warmth in the
@@ -86,8 +108,18 @@ Le Guin syntax, by a Rothfuss teller.** That is the sound.
   forge. If Emlyn could not have seen it, he cannot compare to it.
 - **Concrete anchor for every abstraction.** Grief is a sticking drawer. Trust is a key
   left on a nail. Abstraction in one sentence, object in the next.
-- **Name no emotion the reader can infer from behavior.** Absolute. "He was relieved" is
-  a defect; show the shoulders come down.
+- **Name no emotion the reader can infer from behavior.** ⚠️ **REVISED 2026-08-12 (author): the
+  ban is on the SCENE, not on the TELLER.** The scene may never name a feeling — "He was relieved"
+  is a defect; show the shoulders come down. But **old Emlyn, inside the retrospective frame, MAY
+  name what he felt**, because that is a man assessing his own past and it is the one place in the
+  book where naming a feeling is an act of judgement rather than a failure to dramatise.
+  - LEGAL: *"I was glad of it"* as the teller's verdict, looking back.
+  - DEFECT: the same words inside the scene, six words after the behaviour already showed it —
+    which is precisely what Ch 5's landing did.
+  - **This rule is bound to §2's per-Part teller rates and inherits their consequence:** Parts II
+    and III run the frame near-silent, so through the middle of the book emotion is very nearly
+    never named at all. That is the correct result. The working years are shown, not assessed;
+    the assessing voice belongs to the beginning and the end.
 - **No modern idiom, no techspeak, no fake-archaic.** Anachronism dial at 2 (§7.4).
 
 ---
@@ -140,10 +172,21 @@ already done concretely. A lift with no earned work under it is decoration.
 **Aphorism budget.** **Two per Part, and this one deliberately does NOT scale.** Le Guin earns a
 maxim twice a book; the rest is accurate seeing. A longer chapter is not a licence for more wisdom —
 it is more room for seeing. In doubt, cut the maxim and keep the seeing.
+⚠️ **RE-AFFIRMED 2026-08-12 (author), against evidence that it was being broken.** The 2026-08-11
+whole-book audit found **Part IV spending five** — Ch 28, 29, 30, 31, 32 — because four different
+agents each spent one and none could see the others. The author was offered the scaling option and
+**declined it: the count stays at two.** The scarcity IS the rule, and a longer Part does not earn
+more wisdom.
+**THIS IS THE ONE BUDGET NO PER-CHAPTER PASS CAN ENFORCE.** It is owned at the PART level. Any pass
+that touches more than one chapter of a Part must count that Part's aphorisms as a whole, and a pass
+that touches only one chapter must assume the allowance is ALREADY SPENT unless it has checked.
 
-**Teller budget.** **About one retrospective noticing per 2,000 words** (§2) — one in a short
-chapter, four or five in a long one — each attached to something concrete in the scene. Past five,
-justify it. *Worked instance: Ch 19 (8,191 words) carried THIRTEEN and was cut to five. Three of the
+**Teller budget.** ⚠️ **SUPERSEDED 2026-08-12 by the per-Part rates in §2** — heavy in Part I,
+near-silent through Parts II–III, returning in Part IV. The flat rate below is kept for the worked
+instance only; **do not measure against it.** ~~About one retrospective noticing per 2,000 words~~ —
+each instance still attached to something concrete in the scene, and counted by §2's counting rule,
+which excludes withholdings, give-in-full promises, present-tense facts about surviving objects, and
+events merely narrated from later. *Worked instance: Ch 19 (8,191 words) carried THIRTEEN and was cut to five. Three of the
 five are load-bearing peak markers, and cutting to the old flat budget of two would have cost the
 fleeces line, which is the chapter's emotional high. That is what "raise as needed" is for, and what
 declaring it looks like.*
@@ -236,6 +279,31 @@ inside a lift.
 Typical chapter: 1–3 beats. Broad building chapter: up to 4. Grief or undercurrent
 chapter: 0. **When unsure, under-spend.** Le Guin's gravity is the asset the entire
 system exists to protect.
+
+### ⚠️ 7.3a PART IV NEEDS AIR (author, 2026-08-12)
+
+The 2026-08-11 audit measured the book's comic arc and found it **collapsing toward the end**:
+Part I runs high (Ch 5 declared 8 beats, Ch 6 declared 3) and Part IV runs near-silent — **zero
+across the 11,772 words of Ch 31 and Ch 32.** The audit read that as the fence working and
+recommended leaving it. **The author has ruled the other way: Part IV is TOO DRY. Grief needs air
+around it or it flattens.**
+
+Where the air goes, and where it absolutely does not:
+
+- **ADD in Ch 26–29**, and only where a beat is the payload of a transaction or an exchange that is
+  already on the page (§8). A beat invented as relief is decoration and will read as one.
+- **NEVER in Ch 31 or Ch 32.** Those are governed by a FENCE, not a budget, and the fence holds
+  perfectly today. Do not touch them.
+- **NEVER in Ch 26's back half** — from the dusk pulse through Tomas's confession. Ch 26's existing
+  four beats all sit before the climb, which is correct, and that is the shape to preserve.
+- **The grief fence and the undercurrent fence above are unchanged.** This ruling adds air in the
+  ROOM, never on the weight.
+
+**This is the one ruling in this file that requires WRITING rather than CUTTING**, which makes it
+the most dangerous. Every other rule here can be obeyed by deletion. A pass acting on this one is
+adding material to a finished book, and the test for each addition is not "is it funny" but
+**"was this transaction already here, and is the beat its payload?"** If the beat could be lifted
+out and the scene lose nothing but a laugh, it was decoration and it fails.
 
 ### 7.4 The anachronism dial
 
