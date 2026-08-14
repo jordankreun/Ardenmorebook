@@ -43,5 +43,4 @@ REVISED: (delete this paragraph)
 ORIGINAL:
 > I set my bags down under the window. I got my boots off and set them where I would fall over them in the morning, which is where I have always set them. I did not take my coat off. Then I put the candle out.
 
-REVISED:
-> I set my bags down under the window. I got my boots off and set them where I would fall over them in the morning, which is where I have always set them. I did not take my coat oThen I put the candle out.
+REVISED: (delete this paragraph)
