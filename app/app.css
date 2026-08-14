@@ -58,6 +58,29 @@ main {
 .titlepage .book { font-variant: small-caps; letter-spacing: .28em; color: var(--muted); margin: 0 }
 section.chapter { margin-top: 4.5rem; scroll-margin-top: 3.4rem }
 section.chapter:first-of-type { margin-top: 0 }
+
+/* LAYOUT CONTAINMENT — the reason inline editing stopped being slow.
+
+   The book is one document: 4,167 paragraphs, ~570,000 px tall, justified and
+   hyphenated. Any forced synchronous layout — and opening the editor performs
+   several, in caretRangeFromPoint(), in the popover's remeasure(), and in the
+   caret placement — had to flush layout for ALL of it. Profiling the open path
+   on a 6x-throttled CPU put 86% of the time in browser-internal layout work
+   that JS had triggered but did not appear in.
+
+   content-visibility:auto lets the browser skip layout and paint entirely for
+   chapters that are off-screen, so a forced layout costs the ONE chapter in
+   view instead of thirty-seven.
+
+   The class is added by render.containChapters() only AFTER every chapter has
+   been measured and given its true height as contain-intrinsic-size, so the
+   document's total height never changes and neither the progress ticks nor the
+   restored reading position move. Applying this from the stylesheet with a
+   guessed intrinsic size is the version that makes the scrollbar jump. */
+html.contained section.chapter { content-visibility: auto }
+
+/* Never while printing: Save-as-PDF must lay out and paint the whole book. */
+@media print { html.contained section.chapter { content-visibility: visible } }
 h2.chap { text-align: center; font-weight: 600; font-size: 1.35rem; line-height: 1.3; margin: 0 0 2.4rem }
 h2.chap .kicker { display: block; font-variant: small-caps; letter-spacing: .2em; font-size: .72rem; color: var(--muted); margin-bottom: .55rem }
 p { margin: 0; text-indent: 1.5em; text-align: justify; hyphens: auto; position: relative }

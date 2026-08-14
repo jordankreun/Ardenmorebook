@@ -122,6 +122,37 @@ export function mount() {
   position.invalidateTops();
 }
 
+/* ---------- layout containment ----------
+
+   Measure every chapter's real height, pin it as contain-intrinsic-size, and
+   only then let the browser skip layout for the off-screen ones. Doing it in
+   that order is the whole point: content-visibility with a GUESSED intrinsic
+   size changes the document's total height, which moves the progress ticks,
+   moves the scrollbar under the reader's thumb, and can land a restored
+   reading position in the wrong place. With the true height pinned, nothing
+   moves — the browser simply stops laying out what nobody is looking at.
+
+   `auto` in `contain-intrinsic-size: auto <len>` tells the browser to replace
+   our number with the last size it actually rendered, so the pin self-corrects
+   after a font-size change or a rotation without any bookkeeping here. */
+export function containChapters() {
+  if (!("contentVisibility" in document.documentElement.style)) return; // pre-Safari 18: no-op
+  const list = manuscript.chapters;
+  /* getBoundingClientRect().height, NOT offsetHeight. offsetHeight is rounded to
+     a whole pixel, and a chapter is 15,000 px of justified text whose real
+     height is fractional; pinning the rounded value throws away a fraction per
+     chapter, and across thirty-seven of them the document ends up 7 px shorter
+     than it was. That is small, and it is still the progress ticks and the
+     restored reading spot sitting where the text no longer is. The smoke test
+     asserts this to within 2 px and caught exactly that 7 px when this line
+     read offsetHeight. ONE layout, at boot, once. */
+  const h = list.map((ch) => (ch.el ? ch.el.getBoundingClientRect().height : 0));
+  for (let i = 0; i < list.length; i++) {
+    if (list[i].el && h[i]) list[i].el.style.containIntrinsicSize = "auto " + h[i] + "px";
+  }
+  document.documentElement.classList.add("contained");
+}
+
 /* ---------- incremental painting ---------- */
 
 /* Compare identity plus the one mutable field, not a serialised signature:

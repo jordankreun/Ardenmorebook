@@ -129,6 +129,12 @@ manuscript
     else position.restoreSpot(position.loadPos(KEY_PROGRESS));
 
     position.onScroll();
+    /* AFTER the position is restored, never before: containChapters() measures
+       every chapter and pins its true height, and it must measure the layout
+       the reader is actually going to see. From here on a forced layout costs
+       the chapter in view rather than all thirty-seven, which is what makes the
+       inline editor open in a frame instead of half a second. */
+    render.containChapters();
     try {
       performance.mark("mounted");
     } catch {}

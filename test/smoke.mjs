@@ -239,6 +239,63 @@ console.log("\n== clear all (the tombstone epoch) ==");
   resetStore();
 }
 
+/* ---------- 4b. layout containment ----------
+   content-visibility:auto is what made the inline editor open in a frame
+   instead of half a second, and its one real danger is that it changes the
+   document's geometry: a chapter whose intrinsic size is guessed rather than
+   measured reports the wrong offsetTop, which moves the progress ticks, breaks
+   the Contents highlight and can land a restored reading position in the wrong
+   chapter. So the test is not "is containment on" — it is "is containment on
+   AND did the geometry survive it". */
+{
+  console.log("\n== layout containment ==");
+  const { page, ctx } = await newPage();
+  await page.goto(BASE + "/reader.html", { waitUntil: "networkidle" });
+  await page.waitForSelector("p.para");
+  await page.waitForFunction(() => document.documentElement.classList.contains("contained"), null, { timeout: 20000 }).catch(() => {});
+
+  const on = await page.evaluate(() => document.documentElement.classList.contains("contained"));
+  ok(on, "chapters are contained after boot");
+
+  const pinned = await page.evaluate(() =>
+    [...document.querySelectorAll("section.chapter")].filter(
+      (s) => /\d/.test(s.style.containIntrinsicSize || "")
+    ).length
+  );
+  const total = await page.$$eval("section.chapter", (e) => e.length);
+  ok(pinned === total, "every chapter carries a MEASURED intrinsic size", `${pinned}/${total}`);
+
+  /* The load-bearing assertion. Record every chapter's offsetTop and the total
+     document height with containment on, then switch it off, force a full
+     layout, and read them again. If containment were changing geometry these
+     would diverge, and every scroll-position feature in the app would be
+     quietly wrong. */
+  const drift = await page.evaluate(() => {
+    const secs = [...document.querySelectorAll("section.chapter")];
+    const withC = secs.map((s) => s.offsetTop);
+    const hC = document.documentElement.scrollHeight;
+    document.documentElement.classList.remove("contained");
+    void document.documentElement.offsetHeight; // force full layout
+    const withoutC = secs.map((s) => s.offsetTop);
+    const hU = document.documentElement.scrollHeight;
+    document.documentElement.classList.add("contained");
+    let worst = 0;
+    for (let i = 0; i < withC.length; i++) worst = Math.max(worst, Math.abs(withC[i] - withoutC[i]));
+    return { worst, hC, hU };
+  });
+  ok(drift.worst <= 2, "containment does not move any chapter", `worst offsetTop drift ${drift.worst}px`);
+  ok(Math.abs(drift.hC - drift.hU) <= 4, "and does not change the document height",
+     `${drift.hC} vs ${drift.hU}`);
+
+  /* Contained content must still be findable and printable. A chapter deep in
+     the book has to report a real height rather than collapsing to nothing. */
+  const lastH = await page.evaluate(
+    () => [...document.querySelectorAll("section.chapter")].pop().offsetHeight
+  );
+  ok(lastH > 50, "an off-screen chapter still reports a real height", `${lastH}px`);
+  await ctx.close();
+}
+
 /* ---------- 5. the performance measurement ---------- */
 console.log("\n== tracked-change performance (400 revisions seeded) ==");
 
