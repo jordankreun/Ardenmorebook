@@ -27,7 +27,7 @@ Format: `thread | planted | last watered | state | note`
 ## BOOK ONE — closed
 
     the grandmother's listening hill     | Ch 1  | Ch 24 | PAID   | felt Ch 3, corroborated Ch 11, her sentence lands Ch 24
-    Cael's father's failed bothy         | Ch 2  | Ch 7b | PAID   | inverted Ch 5 (the wall holds), retold from below in Interlude I
+    Cael's father's failed hut         | Ch 2  | Ch 7b | PAID   | inverted Ch 5 (the wall holds), retold from below in Interlude I
     Tomas's aborted sentence             | Ch 6  | Ch 12 | PAID   | the confession chapter
     Tomas's long solitary hearing        | Ch 12 | Ch 26 | PAID   | vindication in full on the crown
     Tomas's promise, "the same hour"     | Ch 12 | Ch 32b| PAID   | closed in the coda; was ORPHANED until 2026-07-29

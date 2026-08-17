@@ -158,8 +158,25 @@ for f in "$@"; do
   # one village mill and has ford stones a man walks over; "river" would contradict the
   # geography on the page. "Brook" is available as a variant but is unused, because a
   # single named feature with two names reads as a continuity error rather than variety.
-  n=$(grep -oiE '\bbeck(s|-\w+)?\b' "$f" | grep -viE '^beckon' | wc -l | tr -d ' ')
-  if [ "$n" -gt 0 ]; then echo "  FAIL  retired dialect word \"beck\": $n (the watercourse is THE STREAM — author ruling 2026-08-12)"; status=1; fi
+  # Extended the same day to the whole CLASS, on the author's follow-up ("Same with
+  # bracken and Other similar obscure terms"), because fixing the one word he named and
+  # waiting for the next is the mistake this repo has already logged once: a correction
+  # is not applied until the CLASS of the error is fixed.
+  #
+  #   beck    -> stream      bracken -> ferns
+  #   byre    -> cow shed    kist    -> trunk        bothy -> hut
+  #
+  # NOT retired, and deliberately so -- rural craft vocabulary is this book's texture,
+  # and stripping it would flatten the valley into anywhere:
+  #   hurdle   Cael's craft, load-bearing across three generations, tied to the coppice
+  #            thread ("hazel cut properly comes again and is hurdles in seven years"),
+  #            and there is no one-word plain equivalent for a woven panel.
+  #   stook    the scene TEACHES it in its own next sentence ("There is nothing to
+  #            stooking. You take up...") -- a word the text defines is not an obstacle.
+  #   purlin, coping, lintel, quoin  a builder's book is allowed a builder's words.
+  #   gorse, scree, tussock, sloe, hazel  ordinary countryside nouns, not dialect.
+  n=$(grep -oiE '\b(beck|becks|bracken|byre|byres|kist|kists|bothy|bothies)\b' "$f" | grep -viE '^beckon' | wc -l | tr -d ' ')
+  if [ "$n" -gt 0 ]; then echo "  FAIL  retired obscure/dialect word: $n (beck→stream, bracken→ferns, byre→cow shed, kist→trunk, bothy→hut — author rulings 2026-08-12)"; status=1; fi
 
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then

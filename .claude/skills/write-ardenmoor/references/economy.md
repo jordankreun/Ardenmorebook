@@ -141,7 +141,7 @@ is the engine of Book One and it should never be softened.
 
 This is the mechanism that makes "asset-rich, cash-poor" *bite* instead of merely being stated.
 
-**To earn, the land needs:** drainage · fencing and hedging · barns, byres, cottages · a road out ·
+**To earn, the land needs:** drainage · fencing and hedging · barns, cow sheds, cottages · a road out ·
 and **hands** — families who do not exist in the valley in the numbers required.
 
 **What that costs** (researched, see §5): thorough drainage ~£3/acre · a pair of labourers'
@@ -284,7 +284,7 @@ seasons.
 | | Acres | Cost | Per acre | What it is |
 |---|---|---|---|---|
 | **Anchor purchase** | ~2,500 | 3,000 gold | ~1 gold 5 silver | Hill and valley. *Parts* already improved (a few working tenant farms, sound outbuildings), so it reads as a respectable gentleman's retirement buy. Contains essentially **all** the workable ground. |
-| **Parish border purchase** | ~3,000 | 2,000 gold | ~16 silver | Good rough country never developed: fell, scrub-wood, old grazing gone to bracken, and the undrained wet reach north and west. Bought quietly through the parish registry. **Paperworked**, not bought at market. |
+| **Parish border purchase** | ~3,000 | 2,000 gold | ~16 silver | Good rough country never developed: fell, scrub-wood, old grazing gone to ferns, and the undrained wet reach north and west. Bought quietly through the parish registry. **Paperworked**, not bought at market. |
 | **Total** | **~5,500** | **5,000 gold** | **~21 silver 10 copper** | |
 
 Anchor internals: ~400 workable-but-derelict @ 4 gold = 1,600 · ~200 woodland @ 3 gold = 600 ·

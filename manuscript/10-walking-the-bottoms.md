@@ -154,7 +154,7 @@ They came across a fortnight later, the Wrays, all their world on one borrowed c
 
 I was there when the cart came, because I had wanted to be, and I had told myself it was to hand over the key. There was no key. There had been no door on that house since before anyone had troubled to remember.
 
-It came up the low road at a walk on a grey morning with the mist still lying along the stream, and everything that family owned was on it, and there was room left over. A bed in pieces. A kist. A churn. Two crates of fowl with the slats mended in three colours of wood. A table upside down with its legs in the air and the smallest children sitting in among them like eggs in a nest. Hal walked at the horse's head the entire way and never once got up on the load.
+It came up the low road at a walk on a grey morning with the mist still lying along the stream, and everything that family owned was on it, and there was room left over. A bed in pieces. A trunk. A churn. Two crates of fowl with the slats mended in three colours of wood. A table upside down with its legs in the air and the smallest children sitting in among them like eggs in a nest. Hal walked at the horse's head the entire way and never once got up on the load.
 
 They stopped at the gate and looked at the house, all of them at once, and nobody said anything.
 

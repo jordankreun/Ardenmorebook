@@ -88,7 +88,7 @@ He turned the paper over and looked at the back, where there was nothing, and tu
 
 "Well." He folded it into three and put it inside his coat. "Then there it is in ink."
 
-Alice Bewick gave up her cottage's corner of the bottom-field, which was four acres and awkward, and took instead the whole of a ten-acre parcel with a sound old byre on it, nearer the lane, better ground, with a spring. Rent free for three years while she got it into heart, then a tenth, on the Wrays' terms, on the Wrays' paper. She read the agreement twice, asked one question about the byre roof, and signed it in a hand like a schoolmistress's. Her son would work that ground after her, and it would come to be one of the better small farms in the valley.
+Alice Bewick gave up her cottage's corner of the bottom-field, which was four acres and awkward, and took instead the whole of a ten-acre parcel with a sound old cow shed on it, nearer the lane, better ground, with a spring. Rent free for three years while she got it into heart, then a tenth, on the Wrays' terms, on the Wrays' paper. She read the agreement twice, asked one question about the cow shed roof, and signed it in a hand like a schoolmistress's. Her son would work that ground after her, and it would come to be one of the better small farms in the valley.
 
 The Tolls' widow was glad to be rid of that thistled scrap and gladder still to be paid something for it; I had no money, so what she took was a lifetime's firewood off my woodland strip, cut and carted, which cost me nothing but Ren's winter afternoons and which she counted a fortune. That is the whole substance of the deal that gave me the north side of the meadow entire.
 
@@ -110,7 +110,7 @@ We walked the ten acres on a still grey afternoon with the light going by four. 
 
 She put her boot into the wet beside it and watched what came up, and said nothing further about the spring. She had settled the matter for herself and had no use for my opinion on it.
 
-The byre was old and sound, as old work is sound. Nobody had been inside it in years. There were swallows' nests along the beam, empty in October, and the floor was dry, and the door was a proper door on proper hooks and had dropped an inch on the hanging side. She stood in the middle of the place and looked up at the underside of the roof for some time.
+The cow shed was old and sound, as old work is sound. Nobody had been inside it in years. There were swallows' nests along the beam, empty in October, and the floor was dry, and the door was a proper door on proper hooks and had dropped an inch on the hanging side. She stood in the middle of the place and looked up at the underside of the roof for some time.
 
 Then she asked her question. A lawyer would have got to it second.
 
@@ -118,7 +118,7 @@ Then she asked her question. A lawyer would have got to it second.
 
 "I do," I said. "And it goes in the paper that way, so it's whoever holds this land after me, and not whoever happens to be feeling generous."
 
-She nodded once and went out into the yard and did not look at the byre again.
+She nodded once and went out into the yard and did not look at the cow shed again.
 
 What she did not do was thank me, or say the ground was better than she was used to, or ask me what the catch was.
 

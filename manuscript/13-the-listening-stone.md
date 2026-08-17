@@ -94,11 +94,11 @@ The climb out was the worst part of every day. Nine feet is nothing at all on a 
 
 Then bread, and cheese out of the lean-to, and water off the spring so cold it made the roots of your teeth ache, and the flagstones under the Study's north wall to sit on.
 
-"Tell him about the byre," Ren said, on about the fourth day of it.
+"Tell him about the cow shed," Ren said, on about the fourth day of it.
 
 Jorin ate for a while.
 
-"Which byre."
+"Which cow shed."
 
 "The one you built twice."
 
@@ -108,7 +108,7 @@ Jorin ate for a while.
 
 Jorin set the bottle down square to the edge of the flagstone he was sitting on. He set every object down that way.
 
-"Man wanted a byre wall on the low road. Ground was flat and it was dry and I never once asked it what it had been." He drank. "It had been a pond."
+"Man wanted a cow shed wall on the low road. Ground was flat and it was dry and I never once asked it what it had been." He drank. "It had been a pond."
 
 That was a great deal of talking for him, and he stopped there, and Ren waited him out with the patience of a boy who has waited him out before.
 

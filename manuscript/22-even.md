@@ -30,7 +30,7 @@ He had come out of his gate as I came level with it. That can happen by accident
 
 He had rehearsed it. I could hear the rehearsal in it, a lane's length of getting the first sentence right, and I had learned by then to stand still and let him arrive at his own business in his own order, and not to help him to it.
 
-"They'd be no use in a byre."
+"They'd be no use in a cow shed."
 
 "They would, as it happens."
 
@@ -72,7 +72,7 @@ The slack tub stood where a slack tub stands, near enough to the anvil that a tu
 
 What I liked best was the pattern wall. Anything Tomas made twice he made a pattern for, a strip of soft iron bent to the shape or a scrap of board cut to it, and hung it on a nail with the rest, and there were a great many nails. Low down at the end, where a hand would find them without looking, hung mine: the collar profile, the foot, the bracket arm, three small pieces of iron on three nails with the years of their alterations scratched into them small.
 
-I had gone the length of that wall once, one nail at a time, in my first winter, when he was out at a horse and had told me to wait. It was the nearest thing to a book that man owned. A scrap of board with the sweep of a wheel hoop marked on it. A strip of soft iron bent to the throat of a hook that somebody's grandmother had wanted a copy of. A tapering key of a shape gone out of use in the valley before I was born, hanging where it had always hung, because the door it opened was still on a byre somewhere and would want a key again one day. Nothing on that wall carried a name. Everything on it carried a date, small, cut in with the corner of a scribe, and where a thing had been altered the new date went under the old one and the old one stayed.
+I had gone the length of that wall once, one nail at a time, in my first winter, when he was out at a horse and had told me to wait. It was the nearest thing to a book that man owned. A scrap of board with the sweep of a wheel hoop marked on it. A strip of soft iron bent to the throat of a hook that somebody's grandmother had wanted a copy of. A tapering key of a shape gone out of use in the valley before I was born, hanging where it had always hung, because the door it opened was still on a cow shed somewhere and would want a key again one day. Nothing on that wall carried a name. Everything on it carried a date, small, cut in with the corner of a scribe, and where a thing had been altered the new date went under the old one and the old one stayed.
 
 He had hung my three pieces at that height himself. I had not asked him to and he had not mentioned it, and I did not understand what it meant until I had watched him work for a year: on that wall, height is how often. Mine hung level with his hinge patterns and his hooks, in among the things his hand went to without his eyes, and their scratches ran three and four deep, and if you followed them down you had two years of me learning what to ask a smith for and a smith declining to say so.
 

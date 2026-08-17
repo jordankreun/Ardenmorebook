@@ -110,7 +110,7 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
   deep grain into a true load-bearing footing under the crown, offset toward the **NE** (Ch4). This
   is why the ground "nothing stands on" now holds. [PAGE ch4]
 - **The reputation** — the ground "nothing stands on": it threw off Cael's father's stone
-  bothy ~40 yrs ago (wall fell with no wind; true timbers went in crooked; mortar stayed wet a
+  hut ~40 yrs ago (wall fell with no wind; true timbers went in crooked; mortar stayed wet a
   month). Village lore ever since. **Broken in Ch5**: the Study's north wall stood the night test
   in the rain; Jorin said "Good." [PAGE ch2 lore; PAGE ch5 broken] [CANON: had defeated every prior attempt]
 - **The path up** — a faint foot-worn track from the village's hill-ward edge; not steep, long.
@@ -153,7 +153,7 @@ other owners and from unclaimed common/parish ground: [PAGE ch2, revised per rea
    • **The anchor (~2,500 ac)** — the hill, its slopes and rough valley sides, the woodland, and the
      bottoms containing essentially all the workable ground.
    • **The parish border (~3,000 ac)** — good rough country never developed: fell, scrub-wood, old
-     grazing gone back to bracken, and ⚠️ **NEW TERRAIN: a great slow reach of WET GROUND stretching
+     grazing gone back to ferns, and ⚠️ **NEW TERRAIN: a great slow reach of WET GROUND stretching
      away NORTH and WEST "until it gave out in weather," which "wanted nothing in this world but
      draining and had never once been offered it"** (Ch 3). **PAPERWORKED, not bought at market**
      (nominal parish/township price + survey and legal fees; no fencing, no roads).

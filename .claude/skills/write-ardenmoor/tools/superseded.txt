@@ -148,3 +148,11 @@ my good level, the one I had carried
 # walks over; "river" contradicts the geography on the page.
 the beck
 a beck
+
+# Obscure/dialect nouns retired 2026-08-12 ("Same with bracken and Other similar obscure
+# terms"). bracken->ferns, byre->cow shed, kist->trunk, bothy->hut. prose-lint carries the
+# tripwire. NOT retired: hurdle, stook, purlin, coping, gorse, scree, tussock, sloe — rural
+# craft vocabulary is the book's texture, and stooking is taught by its own scene.
+bracken
+a byre
+byres
