@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-9 open tracked changes. Synced from the reader.
+10 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -58,3 +58,8 @@ ORIGINAL:
 
 REVISED:
 > Then I paced it, because I have never been able to stand on an open piece of ground and not pace it. That is my father's doing and none of mine. He walked every site he ever built on before he would put a pencil to paper, counting under his breath with his hands behind him, and I had the habit off him before I was ten. The crown ran a little over four hundred of my strides the long way, north and south, and something under two hundred and seventy across. It was not quite the table it looked from below. It fell away perhaps a foot and a half toward the west into a shallow dish where the grass grew coarse and dark, and standing in the middle of that dish I knew without any digging that it held water after rain and gave it up slowly. To the south the ground shrugged off clean and dried. The few thorn bushes up there all leaned the one way, and told me where the weather came from.
+
+ORIGINAL:
+> "And nobody since him?" "Nobody with the money to try since him," he said. "Which is not the same thing, and I'll not have it said as though it were."
+
+REVISED: (delete this paragraph)
