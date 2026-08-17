@@ -141,7 +141,7 @@ is the engine of Book One and it should never be softened.
 
 This is the mechanism that makes "asset-rich, cash-poor" *bite* instead of merely being stated.
 
-**To earn, the land needs:** drainage · fencing and hedging · barns, cow sheds, cottages · a road out ·
+**To earn, the land needs:** drainage · fencing and hedging · barns, sheds, cottages · a road out ·
 and **hands** — families who do not exist in the valley in the numbers required.
 
 **What that costs** (researched, see §5): thorough drainage ~£3/acre · a pair of labourers'

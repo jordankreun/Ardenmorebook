@@ -234,7 +234,7 @@ the Tolls' widow (2 thistled acres she doesn't want); Cob Ferris (a strip he has
 **TOBIN HASK**, whose three acres split the best forty. **Arrears are pitiful and nearly all
 uncollectable** — he comes home with a cheese, a fleece and a notebook. Consolidation is done by DEAL,
 on one rule announced so people can hold him to it: **nobody is to be worse off.** Bewick trades up to
-five acres and a cow shed; the widow takes a lifetime's firewood; Ferris swaps into a nearer strip and
+five acres and a shed; the widow takes a lifetime's firewood; Ferris swaps into a nearer strip and
 believes he swindled him. **HASK REFUSES TWICE**, and the third time Emlyn **brings Cael up his path**
 knowing what the elder's presence means; Hask takes the deal, does not work it, lets his cottage, goes
 to a daughter in Wainford, and dies there. *"That is what owning land is… you will have the power to do
@@ -249,7 +249,7 @@ chapters shift +1 again.)* Autumn Yr2. The notebook turns out to be worth more t
 was paying anyway, so Emlyn makes one rule and says it aloud to everyone so they can hold him to it:
 **nobody is to be worse off.** He puts the plan to **Hal Wray** first ("There's ways to make a man deal
 that aren't asking." / "My last landlord knew a few of them."). Bewick trades up to five acres and a
-cow shed; the Tolls' widow takes a lifetime's firewood; Ferris swaps into a nearer strip and believes he
+shed; the Tolls' widow takes a lifetime's firewood; Ferris swaps into a nearer strip and believes he
 swindled a wizard. **HASK refuses twice**, and the third time Emlyn **brings Cael up his path** knowing
 what the elder's presence means; Hask takes the deal, never works it, lets his cottage, goes to a
 daughter in Wainford and dies there. Emlyn refuses to absolve himself. Against it, the gift: **TAM

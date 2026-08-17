@@ -680,7 +680,7 @@ settled, and everything that came after came out of that."* And he closed the la
 the inside, on purpose. The consolidation is done
 by DEAL on one publicly announced rule — **nobody is to be worse off** — with Hal Wray consulted first
 ("There's ways to make a man deal that aren't asking." / "I know it." / "My last landlord knew a few of
-them."). Bewick trades up to 10 acres and a cow shed; the widow takes a lifetime's firewood; Ferris swaps
+them."). Bewick trades up to 10 acres and a shed; the widow takes a lifetime's firewood; Ferris swaps
 and thinks he swindled him. **HASK refuses twice; the third time Emlyn brings CAEL up his path** and it
 works, and Hask takes the deal, never works it, goes to a daughter in Wainford and dies there. Emlyn
 does not absolve himself: *"you will have the power to do a small ugly thing for a good reason, and no
@@ -695,7 +695,7 @@ it?"** (moved here from Ch 15). NEW FACTS: five named occupiers; the consolidati
 out**, the only currencies are land, time and forgiven rents, so Emlyn makes one rule and says it aloud
 to everyone so they can hold him to it: **nobody is to be worse off.** Hal Wray consulted first
 ("There's ways to make a man deal that aren't asking." / "My last landlord knew a few of them.").
-Bewick trades up to 10 acres and a cow shed; the Tolls' widow takes a lifetime's firewood; Ferris swaps and
+Bewick trades up to 10 acres and a shed; the Tolls' widow takes a lifetime's firewood; Ferris swaps and
 thinks he swindled a wizard. **HASK refuses twice; the third time Emlyn brings CAEL up his path**, and
 it works, and Hask takes the deal, never works it, and dies at a daughter's in Wainford — and Emlyn
 refuses to absolve himself. THE GIFT: **TAM WRAY, 17**, twenty-four acres in his own name, seed on Emlyn's

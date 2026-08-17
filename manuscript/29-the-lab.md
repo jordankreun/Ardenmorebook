@@ -34,7 +34,7 @@ The carts began on the Wednesday and came up in ones and twos for the best part 
 
 "It will."
 
-"Better than mine keeps." He squared the sack with his boot. "Mine's over a cow shed."
+"Better than mine keeps." He squared the sack with his boot. "Mine's over a shed."
 
 Tam came with him and said nothing whatever, and stacked, laying the sacks mouths one way and butting the courses like a man building a wall out of barley.
 

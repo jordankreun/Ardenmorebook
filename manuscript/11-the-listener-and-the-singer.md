@@ -24,7 +24,7 @@ And it came to me, watching a flower hold on in the cold, that I owed the woman 
 
 So I went down. I rode, because it was a fair way to the far end of the lane and Snow had stood a week in the new barn with nothing asked of her. She had never taken to that barn. She had her head over the half-door before I was across the yard, and she stood for the saddle without complaint, and went out of the gate faster than I wanted her to.
 
-The track down was soft and the river below it was loud. Late spring in that valley smells of wet stone and cut grass and, if the wind is off the low road, of somebody's cow shed.
+The track down was soft and the river below it was loud. Late spring in that valley smells of wet stone and cut grass and, if the wind is off the low road, of somebody's shed.
 
 The village was at its middle-afternoon. A woman coming up from the river with two buckets set them down to let us by, and got a nod for it, and gave me one back. The hammer was going at the top of the street, unhurried, the way it went most days. Somebody's washing stood out stiff on a line in the wind.
 

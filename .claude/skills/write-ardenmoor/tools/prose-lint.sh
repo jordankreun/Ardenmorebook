@@ -169,7 +169,7 @@ for f in "$@"; do
   # is not applied until the CLASS of the error is fixed.
   #
   #   beck    -> RIVER       bracken -> ferns
-  #   byre    -> cow shed    kist    -> trunk        bothy -> hut
+  #   byre    -> shed        kist    -> trunk        bothy -> hut
   #
   # NOT retired, and deliberately so -- rural craft vocabulary is this book's texture,
   # and stripping it would flatten the valley into anywhere:
@@ -181,7 +181,7 @@ for f in "$@"; do
   #   purlin, coping, lintel, quoin  a builder's book is allowed a builder's words.
   #   gorse, scree, tussock, sloe, hazel  ordinary countryside nouns, not dialect.
   n=$(grep -oiE '\b(beck|becks|bracken|byre|byres|kist|kists|bothy|bothies)\b' "$f" | grep -viE '^beckon' | wc -l | tr -d ' ')
-  if [ "$n" -gt 0 ]; then echo "  FAIL  retired obscure/dialect word: $n (beck→river, bracken→ferns, byre→cow shed, kist→trunk, bothy→hut — author rulings 2026-08-12)"; status=1; fi
+  if [ "$n" -gt 0 ]; then echo "  FAIL  retired obscure/dialect word: $n (beck→river, bracken→ferns, byre→shed, kist→trunk, bothy→hut — author rulings 2026-08-12)"; status=1; fi
 
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then
