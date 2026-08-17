@@ -146,6 +146,21 @@ for f in "$@"; do
   n=$(grep -oiE "\b(sabbath|church service|(go|goes|going|went) to church|at church|congregation|clergy|clergyman|priest|priests|parson|vicar|sermon|scripture|catechism|liturgy|holy day|lord's day|high altar|say mass|said mass|tithe|tithes|ordained|devout)\b" "$f" | wc -l | tr -d ' ')
   if [ "$n" -gt 0 ]; then echo "  FAIL  structured religion: $n (spiritual is welcome here; an INSTITUTION is not — no clergy, congregation, service, sabbath or rite. \"Parish\" is the civil unit — see the story bible's SETTING & POLITY)"; status=1; fi
 
+  # "BECK" IS RETIRED (author, 2026-08-12: "Don't use term beck. Call it a stream,
+  # river, Brooke, etc."). The village watercourse is THE STREAM -- 146 instances were
+  # converted across 27 chapters, state/geography.md and the golden reference samples.
+  #
+  # It is a Northern English dialect word, and it was the single most-repeated piece of
+  # regional diction in the book, so it will come back the moment anything drafts from an
+  # old sample unless a check stops it. (?!on) keeps "beckon" legal.
+  #
+  # Note on the author's list: RIVER was deliberately not used. This watercourse powers
+  # one village mill and has ford stones a man walks over; "river" would contradict the
+  # geography on the page. "Brook" is available as a variant but is unused, because a
+  # single named feature with two names reads as a continuity error rather than variety.
+  n=$(grep -oiE '\bbeck(s|-\w+)?\b' "$f" | grep -viE '^beckon' | wc -l | tr -d ' ')
+  if [ "$n" -gt 0 ]; then echo "  FAIL  retired dialect word \"beck\": $n (the watercourse is THE STREAM — author ruling 2026-08-12)"; status=1; fi
+
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then
     for p in 'this account' 'set this down' 'setting this down' 'the tellers' \

@@ -12,7 +12,7 @@ The grass was long and full of the night's wet, and by halfway I was soaked to t
 
 Near the top the ground gathered itself and leveled of its own accord into a broad green crown, wide as a market square and quieter. I came up out of the climb onto it, breathing hard, and stood, and turned myself slowly around once to see the whole of what I had come so far to look at.
 
-Nothing happened up there. I climbed a hill and stood on the top of it and was not, that morning, visited by anything at all: no revelation, no lifting of the heart, none of the things a man is supposed to feel on a hilltop. I had not rightly known what I expected, and so was neither let down by the want of it nor carried away by anything in its place. What the crown gave me was a view and a great sweeping quiet, and both were worth the walk. The whole valley lay open below me, Ardenmoor small and smoking at the bottom of it, the beck a bright wandering thread, the fields laid out in their first green, new-made and not yet finished. If there was anything uncommon in the place, it was only the quiet itself, which lay over the crown a little deeper than the height alone accounted for; but a tired man with a long road behind him can talk himself into and out of most things before breakfast, and I let the view have me instead. To the north the land folded into dark woodland, and out of the middle of that wood one great old oak stood up alone above the rest, bare-crowned and black against the morning. I marked it, and thought it a fine old tree, and turned back to the valley.
+Nothing happened up there. I climbed a hill and stood on the top of it and was not, that morning, visited by anything at all: no revelation, no lifting of the heart, none of the things a man is supposed to feel on a hilltop. I had not rightly known what I expected, and so was neither let down by the want of it nor carried away by anything in its place. What the crown gave me was a view and a great sweeping quiet, and both were worth the walk. The whole valley lay open below me, Ardenmoor small and smoking at the bottom of it, the stream a bright wandering thread, the fields laid out in their first green, new-made and not yet finished. If there was anything uncommon in the place, it was only the quiet itself, which lay over the crown a little deeper than the height alone accounted for; but a tired man with a long road behind him can talk himself into and out of most things before breakfast, and I let the view have me instead. To the north the land folded into dark woodland, and out of the middle of that wood one great old oak stood up alone above the rest, bare-crowned and black against the morning. I marked it, and thought it a fine old tree, and turned back to the valley.
 
 Then I paced it, because I have never been able to stand on an open piece of ground and not pace it. That is my father's doing and none of mine. He walked every site he ever built on before he would put a pencil to paper, counting under his breath with his hands behind him, and I had the habit off him before I was ten. The crown ran a little over ninety of my strides the long way, north and south, and something under seventy across. It was not quite the table it looked from below. It fell away perhaps a foot and a half toward the west into a shallow dish where the grass grew coarse and dark, and standing in the middle of that dish I knew without any digging that it held water after rain and gave it up slowly. To the south the ground shrugged off clean and dried. The few thorn bushes up there all leaned the one way, and told me where the weather came from.
 
@@ -22,7 +22,7 @@ I stood up there a good while. It is a failing of mine, standing and looking, an
 
 That was all. It does not sound like much. But I had spent three years making very sure I wanted nothing I could be made to lose, and had got good enough at it that the wanting of anything, even a hill, even the plain green quiet of a morning, came at me as a kind of alarm. I stood with it a while, the way you stand with a sore tooth, pressing on it to see how bad it is. Then I went down to find the man who could tell me whether the ground was as good as it looked, because I did not yet trust myself to say so.
 
-Going down took a third of the time and twice the care. The wet grass was against me and I came off the last of the slope at a pace I had not chosen. The village came up to meet me smelling of woodsmoke where at dawn it had smelled of new bread. The beck was loud with the spring in it. A dog attached itself to me at the first houses, walked me the length of two gardens, and left. By the time I reached Lira's door I was wet to the knee, steaming, and hungrier than I had any business being.
+Going down took a third of the time and twice the care. The wet grass was against me and I came off the last of the slope at a pace I had not chosen. The village came up to meet me smelling of woodsmoke where at dawn it had smelled of new bread. The stream was loud with the spring in it. A dog attached itself to me at the first houses, walked me the length of two gardens, and left. By the time I reached Lira's door I was wet to the knee, steaming, and hungrier than I had any business being.
 
 ---
 
@@ -134,13 +134,13 @@ He considered it with his hand flat on the mare's neck, and was a good while abo
 
 He stayed until she was done and her water was changed. Then he was not there. I had not heard him go.
 
-After that I walked down to the beck, because the beck was the one place in Ardenmoor a man could sit without standing in somebody's way.
+After that I walked down to the stream, because the stream was the one place in Ardenmoor a man could sit without standing in somebody's way.
 
 The village was at its afternoon. Down by the water a low stone wash-house stood with its door propped and steam coming out of it, and three or four women inside working and talking in the pitch women use over running water and hot stone. The smell of it came across to me: soap, and wet ash, and the clean dull smell of stone that never dries. Further up, the mill wheel turned at its own unhurried business and threw off a fine bright rain of its own making. A hammer started up at the top of the street and kept at it, and the sound came down over the roofs flat and clear as it had come to me on the road the evening before. Somewhere out of sight a cart went over the ford, and a man swore at a horse without any real feeling in it.
 
 I sat on a stone by the water and did nothing at all.
 
-It was harder than it had any right to be. The first quarter of an hour I spent composing letters in my head I had no intention of writing. The second I spent thinking about mortar. Somewhere in the third I gave it up and watched the beck. It had been doing the same thing since before anybody thought to put a village at it and would go on doing it after. There was a dipper working the stones on the far side, going under and coming up and going under again. I watched it for what I would have sworn was ten minutes and was, by the light, the better part of an hour. I got up stiff and cold, having done a thing badly and got through it.
+It was harder than it had any right to be. The first quarter of an hour I spent composing letters in my head I had no intention of writing. The second I spent thinking about mortar. Somewhere in the third I gave it up and watched the stream. It had been doing the same thing since before anybody thought to put a village at it and would go on doing it after. There was a dipper working the stones on the far side, going under and coming up and going under again. I watched it for what I would have sworn was ten minutes and was, by the light, the better part of an hour. I got up stiff and cold, having done a thing badly and got through it.
 
 The taproom filled early that evening, and it filled with more people than had been in it at midday, and it took me about ten minutes to work out that I was the reason.
 
@@ -194,7 +194,7 @@ Cael laughed at that, a short surprised bark of a laugh, and said his grandmothe
 
 After a bit he came back round to the agent. He had enjoyed that business the first time and meant to have it again.
 
-"He'd not sit down, that first evening. Stood in my kitchen with his hat in his hands till I'd told him twice. Then out comes this map." Cael held his palms apart to show me, and they went further apart than I expected. "Big as a table. And near all of it white. He'd the hill on it, and the beck, and the road in, and after that it was paper. So he says, whose is that? And I says, that's the Tolls'. And he writes it down. And he says, whose is that? And I says, nobody's, that's the common where the strips were, and it's been nobody's since before my grandfather. And he writes that down too, in a hand so small I couldn't read it upside down, and I'd have liked to."
+"He'd not sit down, that first evening. Stood in my kitchen with his hat in his hands till I'd told him twice. Then out comes this map." Cael held his palms apart to show me, and they went further apart than I expected. "Big as a table. And near all of it white. He'd the hill on it, and the stream, and the road in, and after that it was paper. So he says, whose is that? And I says, that's the Tolls'. And he writes it down. And he says, whose is that? And I says, nobody's, that's the common where the strips were, and it's been nobody's since before my grandfather. And he writes that down too, in a hand so small I couldn't read it upside down, and I'd have liked to."
 
 "He'd have turned it round for you," I said. "You'd only to ask."
 
@@ -202,11 +202,11 @@ After a bit he came back round to the agent. He had enjoyed that business the fi
 
 It made me homesick for Penworth.
 
-We took our lunch sitting out of the wind in the lee of a stone above the tree line, on a slab that had been put there by nobody and had been sat on by everybody. Lira's cloth held bread and hard cheese and rather more of both than one man could get through, which I understood as I unwrapped it, and Cael understood before I did, and neither of us said so. He had a knife out of his pocket and cut the cheese thin, and we ate looking down the length of the valley with the cloud shadows going over the fields one after another. Below us the beck went along the bottom of it all. Cael did not say much. He had walked further already than those knees had any right to be asked for, and I had the sense he was taking his rest early, against what was still in front of him.
+We took our lunch sitting out of the wind in the lee of a stone above the tree line, on a slab that had been put there by nobody and had been sat on by everybody. Lira's cloth held bread and hard cheese and rather more of both than one man could get through, which I understood as I unwrapped it, and Cael understood before I did, and neither of us said so. He had a knife out of his pocket and cut the cheese thin, and we ate looking down the length of the valley with the cloud shadows going over the fields one after another. Below us the stream went along the bottom of it all. Cael did not say much. He had walked further already than those knees had any right to be asked for, and I had the sense he was taking his rest early, against what was still in front of him.
 
 We walked it that afternoon, the long slow way round, the way you walk a thing you mean to be answerable for. Cael went at the pace his knees allowed and I was glad of it, because it was the right pace for the ground, slow enough to see.
 
-We came down off the rough into the bottoms in the early part of the afternoon, and the bottoms surprised me. What I had been shown all morning was rough and fell and scrub, and I had got my eye in for it. What I came down into was a mile and more of flat black ground along the beck, hedged in places and open in others, the old ridge and furrow still showing under the grass where it had been ploughed by men whose grandsons were dead.
+We came down off the rough into the bottoms in the early part of the afternoon, and the bottoms surprised me. What I had been shown all morning was rough and fell and scrub, and I had got my eye in for it. What I came down into was a mile and more of flat black ground along the stream, hedged in places and open in others, the old ridge and furrow still showing under the grass where it had been ploughed by men whose grandsons were dead.
 
 Cael put the stick in and turned up a wedge of it and let me take it off the end. It came apart in my fingers into a dark crumb, cool, with the last of the winter's wet still in it, and it smelled the way good ground smells, like nothing else in the world and a little like rain a long way off.
 
@@ -218,7 +218,7 @@ Cael put the stick in and turned up a wedge of it and let me take it off the end
 
 I looked where he looked. There was a field gate at the end of a green track, three turns of fence wire round the post, rusted brown, the grass grown up through the bottom bar. Somebody had shut it and gone away. I gave it that and nothing more, and looked back at the field, because the field was the thing worth looking at, and it was flat and black and about to be mine, and I could not for the life of me see what was difficult about any of it.
 
-Cheap ground was cheap because it was poor. I had brought that out from the city with me, and one good field along a beck was not going to shift it. So I was glad of the field, and went on, and Cael let me be glad.
+Cheap ground was cheap because it was poor. I had brought that out from the city with me, and one good field along a stream was not going to shift it. So I was glad of the field, and went on, and Cael let me be glad.
 
 "Four men had this," he said, as we went along the headland. "Four men and a parish. Now it's the one holding, and that's the first honest thing anybody's done to it since I was a lad."
 
@@ -232,13 +232,13 @@ It came out under a lip of grey rock a little below the shoulder on the south si
 
 Cael got down to it without ceremony, put his hand in, and drank, and then stood back to let me do the same. It was so cold it hurt the bones of my hand before it got as far as my teeth. It tasted of stone and of nothing at all. That is what the good ones taste of. I drank more of it than I wanted because it was there.
 
-"Never failed," Cael said. "Not the dry summer when the beck went to a trickle and they were carting water up the low road. Not in my grandmother's time, and she'd have made a note of it. There's not a farm in this valley can say the same."
+"Never failed," Cael said. "Not the dry summer when the stream went to a trickle and they were carting water up the low road. Not in my grandmother's time, and she'd have made a note of it. There's not a farm in this valley can say the same."
 
 I asked him what it gave in August. He said nobody had ever measured it, and that it filled a two-gallon can as fast as a man could hold one under.
 
 I got down on my heels and watched it come. I am a poor hand at leaving a thing alone. I could see the fall of the ground away from the basin, and I could see that every foot of that fall went away from the crown and not toward it, and I did the arithmetic without meaning to and did not care for the answer. A man living on the top of that hill would be carrying his water up to it. There is no getting round that with cleverness.
 
-"She'd stop here," Cael said. "Coming and going, both. Every time." He was looking at the water and not at me. "I came up after her once in a hailstorm, sent to fetch her in. Ten or eleven, I'd have been. She was sat on the top of it with her shawl over her head like a tent and no more put out than a stone, and the first thing she said to me was that I was wet and ought to have brought a coat." He laughed, short, at a thing forty years old. "Then she came down without a word of argument and made the tea out of the can. She held it made better tea than the beck did. I never could taste the difference. I never told her so, either."
+"She'd stop here," Cael said. "Coming and going, both. Every time." He was looking at the water and not at me. "I came up after her once in a hailstorm, sent to fetch her in. Ten or eleven, I'd have been. She was sat on the top of it with her shawl over her head like a tent and no more put out than a stone, and the first thing she said to me was that I was wet and ought to have brought a coat." He laughed, short, at a thing forty years old. "Then she came down without a word of argument and made the tea out of the can. She held it made better tea than the stream did. I never could taste the difference. I never told her so, either."
 
 I said the spring was the best thing on the place.
 
@@ -254,7 +254,7 @@ The larch was the odd thing in that wood and the best of it. Somebody had put th
 
 I walked in among them a while. A larch grown that straight in company is a builder's dream and a woodman's easy day: no side branch worth the name for the first twenty feet, and a butt you could roll onto a saw without having to think about it. I set my shoulder against one and looked up the length of it and thought that a dead man had done me a kindness he would never hear about.
 
-Then I came out at the bottom end of it, where the lane gave up some thirty yards short of the trees in a churn of old ruts, with the beck beyond and no bridge over the beck that would carry a loaded wain. I stood and looked at that for a while and did not enjoy it as much.
+Then I came out at the bottom end of it, where the lane gave up some thirty yards short of the trees in a churn of old ruts, with the stream beyond and no bridge over the stream that would carry a loaded wain. I stood and looked at that for a while and did not enjoy it as much.
 
 "The mill'll cut you whatever you want cut," Cael said, watching me look. "He'll not cheat you, either. But he's a valley trade. He can't eat a wood."
 

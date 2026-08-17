@@ -18,7 +18,7 @@ So I got the deeds out, and the plan that came with them, and spread the whole b
 
 They came out of a tin box with a ribbon round them, and I had handled them exactly twice: once on the night of the signing, when I put my name in every place the agent's finger held open for me and read not one line of what I was putting it to, and once on the evening they came up the road after me and I checked the seals and put them on a shelf. That was the sum of my acquaintance with the documents by which I held everything I had.
 
-The plan was the beautiful thing. Somebody had ruled it and lettered it and washed the woodland in a green so pale you had to tilt it at the candle to find the wash at all, and had put a north point in the corner with a barb on it, and had done all of it, so far as I could tell, without once setting a boot on the ground he was describing. The hedges stood where hedges had stood in his grandfather's day. Two of the fields carried names nobody in that valley had said aloud in two generations. The beck ran across it in a curve of a confidence no beck has ever had in its life.
+The plan was the beautiful thing. Somebody had ruled it and lettered it and washed the woodland in a green so pale you had to tilt it at the candle to find the wash at all, and had put a north point in the corner with a barb on it, and had done all of it, so far as I could tell, without once setting a boot on the ground he was describing. The hedges stood where hedges had stood in his grandfather's day. Two of the fields carried names nobody in that valley had said aloud in two generations. The stream ran across it in a curve of a confidence no stream has ever had in its life.
 
 Over the lettering, in later inks and other hands, men had come along afterwards and written in what had actually happened. Sold. Let. Let, three acres. A line ruled through a boundary and a new one set an inch to the left of it, with no note against it and nobody's initials. I counted four hands on that plan, and the last of them had put the pen down a long while before I ever heard the name of Ardenmoor.
 
@@ -238,23 +238,23 @@ I stood in the lane and wrote in the notebook: *four acres, NE meadow, thistled 
 
 Then I went back down through the thistle with the seed coming up round me.
 
-Cob Ferris, up the beck, owed me for a strip he had never worked in his life. He gave me twenty minutes on how difficult that strip was to reach, and that was true; on how he had always meant to get to it, and that was not; and on how times were hard, that being the one thing everybody says and everybody means.
+Cob Ferris, up the stream, owed me for a strip he had never worked in his life. He gave me twenty minutes on how difficult that strip was to reach, and that was true; on how he had always meant to get to it, and that was not; and on how times were hard, that being the one thing everybody says and everybody means.
 
-He started at forty yards. I had come up the beck path and he was out at the end of his own ground with a shovel in his hand doing something unhurried to a heap, and he saw me, and he stood the shovel against the wall with great care, and he began.
+He started at forty yards. I had come up the stream path and he was out at the end of his own ground with a shovel in his hand doing something unhurried to a heap, and he saw me, and he stood the shovel against the wall with great care, and he began.
 
 "Now I'm glad you've come up, I am, because I've wanted to say this to somebody with the standing to hear it said. That strip. That strip's no more use to me than a hat on a hen."
 
 "Mr Ferris. Good morning."
 
-"There's two ways at it and neither of them's a way. There's round by the top, which is a mile and a half if it's a yard, and the last of it through Wray's headland, and I'll not take a cart through another man's headland in October. I was raised better than that. And there's down over the beck."
+"There's two ways at it and neither of them's a way. There's round by the top, which is a mile and a half if it's a yard, and the last of it through Wray's headland, and I'll not take a cart through another man's headland in October. I was raised better than that. And there's down over the stream."
 
 "Mr Ferris."
 
-"You've seen the beck."
+"You've seen the stream."
 
-I had seen the beck.
+I had seen the stream.
 
-"Have you seen the bank on the far side of the beck?"
+"Have you seen the bank on the far side of the stream?"
 
 "I have."
 
@@ -280,9 +280,9 @@ He had. That was the difficulty with Ferris and it was the pleasure of him too. 
 
 "Now that's it. That's the sum of what I've got against it, and you've said it better than I did." He took up the shovel again, the interview being over. "It's not the paying I mind. I've paid for worse. It's paying for a thing I've never had the good of, and there's not a man alive would call that comfortable."
 
-I walked back down the beck path counting, because I am the sort of person who counts, and worked out that in something over twenty minutes I had spoken about thirty words, and that nine of them were his name.
+I walked back down the stream path counting, because I am the sort of person who counts, and worked out that in something over twenty minutes I had spoken about thirty words, and that nine of them were his name.
 
-And every word he had said about the strip was true. I had walked it that same morning, and the top way is a mile and a half, and the beck bank will not take a horse, and no man had got a cart onto that ground in my lifetime or his. He was owed the difficulty even if I was owed the rent.
+And every word he had said about the strip was true. I had walked it that same morning, and the top way is a mile and a half, and the stream bank will not take a horse, and no man had got a cart onto that ground in my lifetime or his. He was owed the difficulty even if I was owed the rent.
 
 I liked him.
 
@@ -350,7 +350,7 @@ Under the house the second stone kept its own count of the hill's nights, a ledg
 
 I went to bed on that and slept badly and woke early, and the thing that was waiting for me when I woke was not the money at all. It was the notebook.
 
-It was a disgraceful object by then. The oilcloth had done what oilcloth does and no more, and the corners had gone soft, and the whole book had swollen half again its thickness with eleven days of weather, so that it would not shut flat and never did shut flat again. There was a page to each holding, and then there were more pages, because the holdings would not stay on one page each. There was a drawing of the wired gate with the wire drawn in. There was a note in the margin at Ferris's that said *2 fld widths + beck, no horse*, and one at the widow's that ran four words and then a ruled line and then nothing whatever.
+It was a disgraceful object by then. The oilcloth had done what oilcloth does and no more, and the corners had gone soft, and the whole book had swollen half again its thickness with eleven days of weather, so that it would not shut flat and never did shut flat again. There was a page to each holding, and then there were more pages, because the holdings would not stay on one page each. There was a drawing of the wired gate with the wire drawn in. There was a note in the margin at Ferris's that said *2 fld widths + stream, no horse*, and one at the widow's that ran four words and then a ruled line and then nothing whatever.
 
 I lay there and turned its pages over in my head, and you can do that with a book you have written yourself.
 

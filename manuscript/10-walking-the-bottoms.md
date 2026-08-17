@@ -10,7 +10,7 @@ I could not farm. That was the whole of the difficulty. I had eighty acres of go
 
 Before I went to anybody, I went down and looked at it alone.
 
-The thaw was three days old and the bottoms lay steaming. I got over the hedge at the beck end and walked out into the thistle, dead and grey and standing to the knee from the autumn before, and stopped in the middle of it in good boots with water running somewhere out of sight. A lark was up over the far end, going at it as though the year were already decided. I pulled a handful of the dead stuff to see what held it and came away with a fistful of root, white and thick as a finger, running off sideways further than I cared to follow. I dug at the mat with my heel. The ground under was black, and wetter than I had looked for, and it smelled of a shut room with the door at last opened.
+The thaw was three days old and the bottoms lay steaming. I got over the hedge at the stream end and walked out into the thistle, dead and grey and standing to the knee from the autumn before, and stopped in the middle of it in good boots with water running somewhere out of sight. A lark was up over the far end, going at it as though the year were already decided. I pulled a handful of the dead stuff to see what held it and came away with a fistful of root, white and thick as a finger, running off sideways further than I cared to follow. I dug at the mat with my heel. The ground under was black, and wetter than I had looked for, and it smelled of a shut room with the door at last opened.
 
 I could read that ground about as well as I read a language I have never been able to speak. There was worth in it. I had the fall of it, and where the water would sit in a wet March, and I could have drawn the whole field to a quarter of an inch and had it right. What I could not have told you was when to put a share into it, nor what to sow when I had, nor how many hands and weeks and horses stood between a dead field and a bushel of anything at all. I climbed back over the hedge with my boots weighing twice what they had, and went home, and did no more farming.
 
@@ -20,7 +20,7 @@ I found him in his yard mending a hurdle in the thin spring sun, and I put it to
 
 He did not answer, and he did not stop working either. The hurdle was up on trestles with its butt end propped against the wall, an old one mended twice already, and he had a length of split hazel in his hand and was working it into the weave with his thumbs, patient as a man plaiting hair. A hen went along the foot of the wall behind him on some errand of her own. The sun had no weight in it yet. It was the first sun of that year worth standing in, and he was standing in it.
 
-"Beck's up," he said.
+"Stream's up," he said.
 
 "It is."
 
@@ -76,7 +76,7 @@ They heard me out, the both of them, without a word, and when I had done Hal loo
 
 I had thought about that on the ride over, the way Penworth had taught me to think about such things, honestly and a little further ahead than is comfortable.
 
-"The main bottom-field," I said. "Eighty acres and a bit, along the beck. Not the whole of the bottoms; there's other ground I've not got the measure of yet. That field."
+"The main bottom-field," I said. "Eighty acres and a bit, along the stream. Not the whole of the bottoms; there's other ground I've not got the measure of yet. That field."
 
 "I know that field." Hal's voice gave nothing away. "It's been under thistle since I was a lad."
 
@@ -154,7 +154,7 @@ They came across a fortnight later, the Wrays, all their world on one borrowed c
 
 I was there when the cart came, because I had wanted to be, and I had told myself it was to hand over the key. There was no key. There had been no door on that house since before anyone had troubled to remember.
 
-It came up the low road at a walk on a grey morning with the mist still lying along the beck, and everything that family owned was on it, and there was room left over. A bed in pieces. A kist. A churn. Two crates of fowl with the slats mended in three colours of wood. A table upside down with its legs in the air and the smallest children sitting in among them like eggs in a nest. Hal walked at the horse's head the entire way and never once got up on the load.
+It came up the low road at a walk on a grey morning with the mist still lying along the stream, and everything that family owned was on it, and there was room left over. A bed in pieces. A kist. A churn. Two crates of fowl with the slats mended in three colours of wood. A table upside down with its legs in the air and the smallest children sitting in among them like eggs in a nest. Hal walked at the horse's head the entire way and never once got up on the load.
 
 They stopped at the gate and looked at the house, all of them at once, and nobody said anything.
 
@@ -172,7 +172,7 @@ I said the well was sound. Hal said aye. I got up on Snow and went home.
 
 I went down now and again through that spring, drawn by something I did not examine too closely, and stood at the edge of the bottoms and watched a dead field come back under one family's hands. My own trade was reaching into the shape of the world and asking it, politely or otherwise, to be other than it was. What was going on below wanted none of that. It wanted two bent backs and the turning of the year.
 
-There was one afternoon of it in particular, well on in that spring. I had come down the track meaning to go into the village and had somehow not gone, and I stood instead in the gap of the hedge at the beck end with my forearms on the top rail for the better part of an hour.
+There was one afternoon of it in particular, well on in that spring. I had come down the track meaning to go into the village and had somehow not gone, and I stood instead in the gap of the hedge at the stream end with my forearms on the top rail for the better part of an hour.
 
 The share was away at the far end and coming back. Hal had the plough, and one of the older children was at the horse's head, and I never did ask whose horse it was. The thistle went down in front of the pair of them in a long grey wave and did not get up again, and behind it the ground came over black and shining and lay steaming in the cold. There were rooks on the new furrow before he was thirty yards past, walking it up and down behind him.
 
@@ -208,7 +208,7 @@ Then he took himself off down the hill.
 
 I went down on a bright cold morning at the front of April with my coat buttoned and no notion whatever that I was about to be taught my own property.
 
-We started at the beck end and walked up.
+We started at the stream end and walked up.
 
 "That's yours," Hal said, of the first stretch, and it was: eighty-odd acres of good flat ground with a hedge one side and water the other, the thistle just beginning to go down before his share at the near end and standing to the knee over all the rest.
 
@@ -228,7 +228,7 @@ There was a change in the ground. Not a fence, not a ditch, nothing a man would 
 
 "Hask's what?"
 
-"Tobin Hask's strip. Six acre, near enough. Beck to the hedge. Runs through the middle of your field."
+"Tobin Hask's strip. Six acre, near enough. Stream to the hedge. Runs through the middle of your field."
 
 I swore. Hal looked off at the hedge and gave no sign of having heard me.
 

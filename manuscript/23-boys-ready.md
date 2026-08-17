@@ -68,7 +68,7 @@ I made the note on the sheet in pencil. Three vents. I have that sheet still and
 
 "One in eighty."
 
-"One in sixty. It's a store. You'll want it the year the beck comes up."
+"One in sixty. It's a store. You'll want it the year the stream comes up."
 
 "One in sixty."
 
@@ -78,9 +78,9 @@ I made the note on the sheet in pencil. Three vents. I have that sheet still and
 
 "Where from."
 
-"The beck."
+"The stream."
 
-"Off the beck. Not out of it." He had not looked up. "Out of the bed it carries fines, and fines travel, and in six years your fall is in the grit and not in the flags. Take it off the bank and heap it and let the rain have a fortnight at it."
+"Off the stream. Not out of it." He had not looked up. "Out of the bed it carries fines, and fines travel, and in six years your fall is in the grit and not in the flags. Take it off the bank and heap it and let the rain have a fortnight at it."
 
 I made that note too, in the same pencil.
 
@@ -296,7 +296,7 @@ Nobody costed it and nobody mentioned costing it. That is what six weeks means w
 
 We did not mention the boy, and the not mentioning got harder as the day went along. Twice in the morning I had the shape of the sentence in my mouth and put it back. Once, about noon, Jorin stopped and looked at nothing whatever for the space of three breaths, in a direction that had no work in it, and then bent and went on driving. I looked at my own peg and said not a word. Two grown men on a hillside, one of them the boy's father, working all day round a hole in it the size of a cart.
 
-I straightened up in the middle of the afternoon with my hands in the small of my back, and the shelf was green and steaming and the beck was loud below, and I looked away down to where the quarry road comes over the far shoulder. Jorin, forty feet off and facing entirely the other way, said, "He'll not be back before dark."
+I straightened up in the middle of the afternoon with my hands in the small of my back, and the shelf was green and steaming and the stream was loud below, and I looked away down to where the quarry road comes over the far shoulder. Jorin, forty feet off and facing entirely the other way, said, "He'll not be back before dark."
 
 I did not answer it. There was nothing in it to answer. He had said it to the trench, with his back to me, in the voice a man keeps for the weather, and it had taken him since seven that morning to get it out.
 

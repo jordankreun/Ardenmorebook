@@ -104,15 +104,15 @@ Kellard's shutters were to. He was standing in his own doorway with the shutter 
 
 "He'll have them when the brass is made."
 
-"That's what I put." He turned the card so I could see it, the way he turns the book. I have never once needed to look, and I look every time. "He wanted a date. I gave him none. I'll not put a date on another man's hands." He got the shutter bar squared under his arm. "The carrier's Thursday, and he'll not wait past noon for you nor me nor the parish. And you'll want to be off the far side of the beck before the Tolls' fences come down, if you're going that way, which I don't suppose you are."
+"That's what I put." He turned the card so I could see it, the way he turns the book. I have never once needed to look, and I look every time. "He wanted a date. I gave him none. I'll not put a date on another man's hands." He got the shutter bar squared under his arm. "The carrier's Thursday, and he'll not wait past noon for you nor me nor the parish. And you'll want to be off the far side of the stream before the Tolls' fences come down, if you're going that way, which I don't suppose you are."
 
-I said I did not suppose I was either, and rode on, and got halfway to the square before it occurred to me that I had no notion whatever what was happening to the Tolls' fences, or why a man would want to be the far side of the beck before it did. Kellard had told me the whole of it in the certainty that I already knew.
+I said I did not suppose I was either, and rode on, and got halfway to the square before it occurred to me that I had no notion whatever what was happening to the Tolls' fences, or why a man would want to be the far side of the stream before it did. Kellard had told me the whole of it in the certainty that I already knew.
 
 Maret was coming up from the mill with his coat over his arm and the flour on him gone to a dull grey in the evening light. He stopped when we came level. He did not often trouble to stop.
 
 "Water's down," he said.
 
-I said it had been a dry fortnight and agreed that it was low. He looked at the beck, and then at nothing much, and then went on up the street. It was three days before it came to me that Maret had not stopped in the road to tell me about the weather. Whether I was being asked a favour, or being handed the material to arrive at offering one, I could not tell which he meant, and I did not ask. There is a stake in that mill-pond water that came to me with the hill. Cael had told me of it on the day, standing on the rough with his stick in his hand, and I had not thought of it once in the year and more since. Maret had.
+I said it had been a dry fortnight and agreed that it was low. He looked at the stream, and then at nothing much, and then went on up the street. It was three days before it came to me that Maret had not stopped in the road to tell me about the weather. Whether I was being asked a favour, or being handed the material to arrive at offering one, I could not tell which he meant, and I did not ask. There is a stake in that mill-pond water that came to me with the hill. Cael had told me of it on the day, standing on the rough with his stick in his hand, and I had not thought of it once in the year and more since. Maret had.
 
 Lira was in the inn's doorway with the light behind her, seeing off two men and a dog and giving no sign of minding whether they went. She did not ask where I was going, or after the hill, or after anything.
 
@@ -144,7 +144,7 @@ Two words, and then the silence after them. I stood where I was in the cooling f
 
 It took him a while to come to it. I let it take as long as it wanted.
 
-The fire settled into its banking with small dry sounds. A moth came in at the doorway, went twice round what heat was left, and went out again. The bows he had quenched lay in the trough and the water had gone still over the top of them. Down the street a door was pulled to and a bolt run across, and then another further off. Outside, the street had gone quiet enough that I could hear the beck. He stood with his hands hanging and his back three-quarters to me, and I stood by the bench with my hat in my hand and my thumb going round the brim of it, and neither of us moved.
+The fire settled into its banking with small dry sounds. A moth came in at the doorway, went twice round what heat was left, and went out again. The bows he had quenched lay in the trough and the water had gone still over the top of them. Down the street a door was pulled to and a bolt run across, and then another further off. Outside, the street had gone quiet enough that I could hear the stream. He stood with his hands hanging and his back three-quarters to me, and I stood by the bench with my hat in my hand and my thumb going round the brim of it, and neither of us moved.
 
 "I hear it," he said, at last. "Up there. Have done a good while." He was quiet again. "Two year, near enough. Longer, maybe."
 
@@ -178,7 +178,7 @@ Then I unwrapped the collars out of the oiled rag and set them in a row on the t
 
 I wrote the four collars into the lamp book, and the thirty-two silver against them, and nothing else whatsoever.
 
-Then I read my page, because a page was the ration and keeping the ration was the whole of what I had promised. What I had that night was three lines about a wind out of the east, and a fog that never once lifted off the beck the whole of the day, and no listening done at all. I read it twice over.
+Then I read my page, because a page was the ration and keeping the ration was the whole of what I had promised. What I had that night was three lines about a wind out of the east, and a fog that never once lifted off the stream the whole of the day, and no listening done at all. I read it twice over.
 
 Then I put the light out and went to bed, and the hour before dawn found me awake, the way it found me most nights of that year. It was the same hour. It was not the same listening.
 

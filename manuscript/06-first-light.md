@@ -58,7 +58,7 @@ Lira was in the taproom with her sleeves turned back and a slate in her hand, an
 
 "She does."
 
-"The boy's been walking her out along the beck of an evening. I've not charged you for it." A pause exactly the length of a full stop. "I might."
+"The boy's been walking her out along the stream of an evening. I've not charged you for it." A pause exactly the length of a full stop. "I might."
 
 "You should."
 

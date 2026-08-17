@@ -24,9 +24,9 @@ And it came to me, watching a flower hold on in the cold, that I owed the woman 
 
 So I went down. I rode, because it was a fair way to the far end of the lane and Snow had stood a week in the new barn with nothing asked of her. She had never taken to that barn. She had her head over the half-door before I was across the yard, and she stood for the saddle without complaint, and went out of the gate faster than I wanted her to.
 
-The track down was soft and the beck below it was loud. Late spring in that valley smells of wet stone and cut grass and, if the wind is off the low road, of somebody's byre.
+The track down was soft and the stream below it was loud. Late spring in that valley smells of wet stone and cut grass and, if the wind is off the low road, of somebody's byre.
 
-The village was at its middle-afternoon. A woman coming up from the beck with two buckets set them down to let us by, and got a nod for it, and gave me one back. The hammer was going at the top of the street, unhurried, the way it went most days. Somebody's washing stood out stiff on a line in the wind.
+The village was at its middle-afternoon. A woman coming up from the stream with two buckets set them down to let us by, and got a nod for it, and gave me one back. The hammer was going at the top of the street, unhurried, the way it went most days. Somebody's washing stood out stiff on a line in the wind.
 
 I stopped at Kellard's, because I had said I would, and because he ran my carriage for me and was owed the sight of my face now and again.
 
@@ -60,7 +60,7 @@ The sack was dry. There was no sign a mouse had been at it.
 
 "It is," said Kellard. "Shut at six," he said, and went in.
 
-The lane to Brenna's ran along the beck past the last of the village and gave out at a low stone cottage set back among a stand of birches, close enough to the water that you could hear it from the doorstone. There was a drying-green stretched in the front window, herbs hung head-down in bunches gone grey and brittle and fragrant, and the whole place breathed out that green-and-bitter smell I had first caught riding in, cut stems and something clean and sharp beneath them. I had bought small honest things of her across the year, a salve for the hands that stone ruins, a tea Lira swore by.
+The lane to Brenna's ran along the stream past the last of the village and gave out at a low stone cottage set back among a stand of birches, close enough to the water that you could hear it from the doorstone. There was a drying-green stretched in the front window, herbs hung head-down in bunches gone grey and brittle and fragrant, and the whole place breathed out that green-and-bitter smell I had first caught riding in, cut stems and something clean and sharp beneath them. I had bought small honest things of her across the year, a salve for the hands that stone ruins, a tea Lira swore by.
 
 The salve I had gone down for the summer before, in the thick of the Study work, when my hands had got past the state a man can go on ignoring. Dressing stone does that to you. The lime takes the skin off, the grit works into every place a knuckle bends, and by the back end of that summer mine were split across the fingers of both hands and opened again each morning the moment I closed them round a chisel.
 
@@ -134,7 +134,7 @@ There were shelves to the ceiling, and the shelves were the first thing in that 
 
 The kettle in that kitchen was a black iron thing with a lid that did not quite sit, hung on a chain over the fire, and it took its own time about everything. Brenna did not stand over it. She went back to what she had been at before she saw me coming up the lane: a bundle taken down off the beam and picked over on a board, leaf by leaf, the good going into a bowl and the poor into her apron for the fire. It is slow work. She did not hurry it and she did not skimp it.
 
-I sat with my hat on my knee and let her do it. The fire ticked. The beck came in through the doorstone, never loud, only always. Above the ceiling a board took up the cold and let it go again with a small sound like a knuckle.
+I sat with my hat on my knee and let her do it. The fire ticked. The stream came in through the doorstone, never loud, only always. Above the ceiling a board took up the cold and let it go again with a small sound like a knuckle.
 
 When the kettle began to think about it she warmed the pot at the fire and tipped the water out into the ash. She measured the leaf with two fingers and not a spoon, twice, and then a third pinch on top of it. Then she set the pot on the table between us to stand, and put her palm flat on the lid, and left it there, and looked at nothing much.
 
@@ -248,7 +248,7 @@ The tea in the pot had gone stone cold on the table. She laid the back of her ha
 
 "Sit," she said. "You've a while yet before the light goes."
 
-I sat. My hands had gone cold down there, and when the pot had warmed she poured for me again, and I put both hands round the cup and did not apologise for wanting it. Outside the doorstone the beck went on with its spring business. Down the lane somebody shut a gate, and then shut it again, because it had not caught the first time.
+I sat. My hands had gone cold down there, and when the pot had warmed she poured for me again, and I put both hands round the cup and did not apologise for wanting it. Outside the doorstone the stream went on with its spring business. Down the lane somebody shut a gate, and then shut it again, because it had not caught the first time.
 
 She asked me nothing further, then or after. She did not once pretend she had not seen how far the colour had gone out of me, either. I sat on in her kitchen with both hands round the cup, in no hurry at all to be up my own hill. I had not sat in anybody's kitchen like that in three years.
 
@@ -324,9 +324,9 @@ I sat with that a while. Brenna let me.
 
 I rode back up in the last of the light with the small brown book buttoned inside my coat against the damp.
 
-We had come out through an empty village. Kellard's shutters were to. The hammer had stopped at the top of the street and the smell of the forge hung about after it, iron and coal and scorched hoof, as it does for an hour after a fire is banked. The beck ran high alongside the lane and drowned out the sound of our own going. The book knocked against my ribs at every stride, and I put my hand flat on my coat over it once, and then made myself take the hand away and let it knock.
+We had come out through an empty village. Kellard's shutters were to. The hammer had stopped at the top of the street and the smell of the forge hung about after it, iron and coal and scorched hoof, as it does for an hour after a fire is banked. The stream ran high alongside the lane and drowned out the sound of our own going. The book knocked against my ribs at every stride, and I put my hand flat on my coat over it once, and then made myself take the hand away and let it knock.
 
-The valley was going to its evening below me, the beck loud with the spring, a first thread of woodsmoke standing up from the Wray place down in the bottoms where a family that had come with nothing was making something out of ground nobody had wanted. Halfway up I passed the boy, Soren, sat on the wall at the turn of the track with his knees drawn up, doing the particular nothing he did that was in truth a kind of listening, and he looked at the shape of the book inside my coat, because he saw everything, and he looked at me, and he did not ask.
+The valley was going to its evening below me, the stream loud with the spring, a first thread of woodsmoke standing up from the Wray place down in the bottoms where a family that had come with nothing was making something out of ground nobody had wanted. Halfway up I passed the boy, Soren, sat on the wall at the turn of the track with his knees drawn up, doing the particular nothing he did that was in truth a kind of listening, and he looked at the shape of the book inside my coat, because he saw everything, and he looked at me, and he did not ask.
 
 "Brenna's grandmother's," I said, because he had earned an answer to a question he was too well-mannered to put. "Her notebooks. I'm to read them one at a time or not at all."
 

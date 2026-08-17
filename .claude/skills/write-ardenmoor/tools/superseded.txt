@@ -139,3 +139,12 @@ a tinker's drawer
 tap-hammer
 gauges on a ring
 my good level, the one I had carried
+
+# "beck" as the village watercourse (retired 2026-08-12 by the author: "Don't use term
+# beck. Call it a stream, river, Brooke, etc."). It is THE STREAM. 146 instances were
+# converted across 27 chapters, state/geography.md, state/manuscript-log.md and the
+# golden reference samples; prose-lint carries a tripwire so the manuscript cannot
+# reacquire it. RIVER was deliberately not used -- one village mill, ford stones a man
+# walks over; "river" contradicts the geography on the page.
+the beck
+a beck

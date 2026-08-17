@@ -26,7 +26,7 @@ Whatever the hill was doing, it was not doing it to iron or glass or a pan of br
 
 I went on setting the cases out every morning regardless. It gave the morning a shape, and I was not yet ready to say out loud that the answer was coming up my own legs or not at all.
 
-The middle of the day was the hill's dead hour and mine. It kept nothing back then. There was simply nothing to keep. So the middle of the day was when I walked, and I walked the bounds of what I had bought until my boots knew them without me. Down the north side into the wet, where the ground turns from turf to rush in the space of a stride. Along the skirt of the woodland with the larch stand on my left, set out in ranks by a dead man and going up straight and useless and handsome. Over the beck at the flat place and up the far side, and back round the eastern shoulder where the grass runs deeper and greener in a shelf about the size of a barn floor.
+The middle of the day was the hill's dead hour and mine. It kept nothing back then. There was simply nothing to keep. So the middle of the day was when I walked, and I walked the bounds of what I had bought until my boots knew them without me. Down the north side into the wet, where the ground turns from turf to rush in the space of a stride. Along the skirt of the woodland with the larch stand on my left, set out in ranks by a dead man and going up straight and useless and handsome. Over the stream at the flat place and up the far side, and back round the eastern shoulder where the grass runs deeper and greener in a shelf about the size of a barn floor.
 
 Then up again in the afternoon for the small work of keeping myself alive in a field: the wood, the water, the wet things spread along the guy-lines, my notes written up in a hand my father would have accepted. And an hour before the light began to go, I lay down on the crown.
 
@@ -108,7 +108,7 @@ The man next to him said it was four fields.
 
 "And the lad's mother had it off the lad," said the first man, with the air of a case closed, and drank.
 
-It went round the bench from there and came back improved. By the second telling I could say how hard it would rain. By the third I could say how long. A dry-looking man at the end, who had not spoken until then and did not look up when he did, wanted to know whether the beck would come up over the flat crossing before the week was out, because he had a brother-in-law who meant to move some sheep.
+It went round the bench from there and came back improved. By the second telling I could say how hard it would rain. By the third I could say how long. A dry-looking man at the end, who had not spoken until then and did not look up when he did, wanted to know whether the stream would come up over the flat crossing before the week was out, because he had a brother-in-law who meant to move some sheep.
 
 I did not put any of it right. What I gave them instead was the only honest thing in my pocket. I said there was nothing up on that hill but grass and a tent and a man with a kettle, and that anybody who cared to walk up of an evening and see for himself how little there was to see would be welcome, and would get his tea out of it.
 
@@ -136,7 +136,7 @@ Two days is nothing at all to be sent away for. It is a very long stretch to spe
 
 Snow settled the shape of it for me. She had been three weeks in a let stall at the inn with a full manger and no work in her, and she had her opinion of that ready when I came for her. She stood on the yard cobbles and let the saddle be put on without helping, and when I put my foot in the iron she stepped off two paces, and I got up at the second attempt.
 
-We went out along the low road, past the mill and over the beck and on for the better part of an hour, into country I had bought and never seen. She was easier by the second mile and had forgiven me altogether by the fourth.
+We went out along the low road, past the mill and over the stream and on for the better part of an hour, into country I had bought and never seen. She was easier by the second mile and had forgiven me altogether by the fourth.
 
 Coming back through the village in the middle of the afternoon I stopped at the low stone cottage at the end of the lane where the birches stand, because my hands were in a state after the morning I had spent among the fallen stones and had got no better since. There were herbs drying in the window in bunches, hung head down, and a walled garden behind it whose top I could see over the wall.
 
@@ -212,7 +212,7 @@ He came up onto the flat and stood a while with his hands behind him, looking do
 
 "It is."
 
-"Beck's dropped a foot since morning."
+"Stream's dropped a foot since morning."
 
 I said I had seen it drop.
 

@@ -285,7 +285,7 @@ was to be noticed," and closes the ground over it — the cold goes out between 
 pays in credit against the spring (wary formality) and three days later sends candles up with the
 lie that they came in damaged (a kindness; the account has "turned over some invisible line" — the
 village has decided to keep him). **Wednesday is the boy's day** (his mother **Mira**'s wash-house
-day down by the beck): Soren spends the afternoon on the floor by the hearth with his slate. Emlyn
+day down by the stream): Soren spends the afternoon on the floor by the hearth with his slate. Emlyn
 **teaches him letters** (they never fully take — "words were not where the boy lived") and figures
 (a comfortable country to him), and teaches him **to look at ground** (the first door of the trade,
 open to anyone). The boy's gift shown in scene: Emlyn shamefully **knocks his own trusted level a
@@ -308,7 +308,7 @@ wash-house Wednesdays); **Soren's 10th birthday** + the folding knife; the pract
 concern (Kellard credit, the cold-spot, the surveyor's set, a warded barn); the village has decided
 Emlyn is a neighbor; grandfather gave Soren the slate (offstage). No em dashes; 3,506 words.
 ⚠️ REVISED 2026-08-02 (reader notes 1–2 + two tracked changes; 4,180→4,309w). SOREN'S LETTERS INVERTED per the author: he no longer fails at them. He learns them fast, reads anything by winter and writes a fair plain hand "better than his grandfather's and better than half the men who signed Kellard's book" — and that is where it stops, and the stopping is the point. His figures do not stop. "There is a difference between a boy who is good at a thing and a boy the thing is a door for." **Rule: a child's gift is SPECIFIC, not general; do not manufacture a deficit to make a talent legible.** THE KIT RETOOLED to an artificer's: calipers, fine files, small brass scale, jeweller's glass, levels — with the surveyor's set he is truing alongside it named as "not the same kind of tools at all." Tracked change: "the work of a country wizard in a small valley" → "the work available to a wizard".
-⚠️ REVISED 2026-08-09 (9 tracked changes + 2 notes). Trimmed throughout per the author: the instrument-case aside and the letters paragraph cut back, the Soren order-sorting simplified, "a serious thing to give a person" → "a serious thing", the life-inventory shortened. MEAL: "following his dinner" → "following his lunch". NEW: **Maret gets context on first mention** — the mill down at the beck, whose timber Emlyn had been buying all summer without meeting the man who cut it, "thin and grey and about as talkative as his own water-wheel."
+⚠️ REVISED 2026-08-09 (9 tracked changes + 2 notes). Trimmed throughout per the author: the instrument-case aside and the letters paragraph cut back, the Soren order-sorting simplified, "a serious thing to give a person" → "a serious thing", the life-inventory shortened. MEAL: "following his dinner" → "following his lunch". NEW: **Maret gets context on first mention** — the mill down at the stream, whose timber Emlyn had been buying all summer without meeting the man who cut it, "thin and grey and about as talkative as his own water-wheel."
 
 [08] The Lamp Business — Word of the lumen has spread and the practice becomes a real commercial
 concern. The problem: the lumen drinks the **hill's song** (which runs only under Emlyn's acre), so
@@ -474,7 +474,7 @@ the author's request; ALL later chapters shift +1 (book now ~32 ch). 2,050w, 62%
 farm, so he goes to CAEL, who names HAL and BESS WRAY. The tenancy negotiation is now the chapter's
 spine as a two-hander (Hal: "There's a year's work in it before it gives you a bushel"; Bess from the
 doorway: "A fifth." and "Men find reasons," answered with the paper and Cael). They come across on one
-borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"; retitled to rhyme with Ch 2 "Walking the Bounds"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, beck end upward, and shows him rather than tells him — Tobin
+borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"; retitled to rhyme with Ch 2 "Walking the Bounds"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, stream end upward, and shows him rather than tells him — Tobin
 Hask's 6-acre strip through the middle of the best field, a widow's cottage corner, 4 meadow acres held
 by a stranger, and ~60 acres gone back to thistle because the only lane runs through a gate wired shut
 a decade ago over a forgotten quarrel. Hal does not ask him to fix it; he comes so Emlyn cannot later

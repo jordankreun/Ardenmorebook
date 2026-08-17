@@ -168,7 +168,7 @@ She was at my door before the birds had started. She did not knock. She has neve
 
 I got my coat. I asked her nothing on the way down and she offered nothing, and we went down the slope in a light too early to have a colour in it, past the barn with Snow shifting about in her box, and past the top gate standing open where she had come through it and not stopped to shut it. In the years I have known that woman that is the only untidy thing I have ever seen her leave behind her.
 
-There was ice in the ruts by the gate, not thick enough to bear a boot. The grass had gone white on the slope. The hill smelled of cold iron, and the beck was loud, the way it always is before sunrise when there is nothing else going. She went ahead of me the last of it and did not once look back to see whether I was coming.
+There was ice in the ruts by the gate, not thick enough to bear a boot. The grass had gone white on the slope. The hill smelled of cold iron, and the stream was loud, the way it always is before sunrise when there is nothing else going. She went ahead of me the last of it and did not once look back to see whether I was coming.
 
 The house at first light was all pale glass and bed-steam. We went up the walk fast, and she stopped me at the last bench with one hand flat on my chest, and we went the final steps slow, the way you come up on a bird you do not want to lift, and stood at the edge of the north corner in the half-dark, and looked.
 
@@ -278,7 +278,7 @@ There was bread from the village oven cut thick, and the cheese, and butter out 
 
 Soren ate like a boy who has been up a hill twice in one day. He took a second helping of the roots when it was offered and a third when it was not. For the first while he said almost nothing. Then, with the edge off him, he began to answer questions, and it was his grandfather who asked them, in the flat unhurried voice of an old man who has put the same three questions to a child every evening of that child's life and has not once been bored by an answer.
 
-What was asked was what he had seen that day, and what the beck was doing, and who he had spoken to. The answers came back short and complete and in order, with no opinion anywhere in them. The beck was down two hands on the ford stone. The oven had been lit late because the wood was wet. Ned Pardon had a pony loose on the lane that would not be caught, and had been at it, said Soren, since before the bread.
+What was asked was what he had seen that day, and what the stream was doing, and who he had spoken to. The answers came back short and complete and in order, with no opinion anywhere in them. The stream was down two hands on the ford stone. The oven had been lit late because the wood was wet. Ned Pardon had a pony loose on the lane that would not be caught, and had been at it, said Soren, since before the bread.
 
 "He'll be at it yet," said Cael.
 

@@ -8,7 +8,7 @@ The stone had lain in the cellar floor a fortnight by then, listening in the dar
 
 It was warm before seven. I came down on foot, the errand not being worth a horse, and Snow watched me go from the barn door with her chest against the top board and the whole of her weight on it. She had been idle three days. A mare idle three days develops views, and the view she had settled on was that the door was a thing to lean upon and I was a thing to be blown at. I told her that a horse who leans on a door all evening might have the grace to be caught in the morning. She blew at me. I went on down.
 
-The track takes half an hour walked honestly, and I did not walk it honestly, because the light was still low and long across the bottoms and the bottoms were worth stopping for. My own barley stood on the near side, green and shorter than it had any business being, in ground I had bullied a plough into that spring. Beyond it, down where the beck ran, there was black ground turned that had not seen a share in years, squared off at the hedge and open to the sky. Cut thistle lay grey in windrows the whole length of it. A thread of smoke stood straight up out of the old stone farmhouse into air that had no wind in it at all. I stood on the track a minute and looked at that.
+The track takes half an hour walked honestly, and I did not walk it honestly, because the light was still low and long across the bottoms and the bottoms were worth stopping for. My own barley stood on the near side, green and shorter than it had any business being, in ground I had bullied a plough into that spring. Beyond it, down where the stream ran, there was black ground turned that had not seen a share in years, squared off at the hedge and open to the sky. Cut thistle lay grey in windrows the whole length of it. A thread of smoke stood straight up out of the old stone farmhouse into air that had no wind in it at all. I stood on the track a minute and looked at that.
 
 Ardenmoor on a market morning is the one morning in the week the village is louder than its own water. There were carts drawn up wheel to wheel along the north side of the square and more of them backed into the lane, butter under wet cloths, a trestle of early beans, three cheeses on a board with a boy set to watch them and no clear notion of what he was watching for. The air had the smell a place gets when everybody in it has been up since four. Horse, and crushed grass, and hot clay, and over the top of all of it, bread.
 
@@ -188,7 +188,7 @@ He began with the horse, and he had plainly been holding it in since the square.
 
 I said that was better sense than I had heard out of men who dealt in horses for a living. He took the compliment as he took everything, turning it over first to see whether it was true and accepting it only after.
 
-We went on past the last of the gardens. The heat was coming up off the road by then and the beck ran low and loud in its stones, and my loaf had gone from warm to heavy.
+We went on past the last of the gardens. The heat was coming up off the road by then and the stream ran low and loud in its stones, and my loaf had gone from warm to heavy.
 
 "It wasn't his fault, though," he said.
 
@@ -230,7 +230,7 @@ He thought about it the better part of the way up the rise.
 
 I walked on a while and did not say anything.
 
-A dog barked somewhere across the beck, a long way off, two notes and then nothing.
+A dog barked somewhere across the stream, a long way off, two notes and then nothing.
 
 "That one," said Soren.
 
