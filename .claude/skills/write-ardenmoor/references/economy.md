@@ -379,9 +379,9 @@ So how does he survive? **He stops trying to move bulk and starts moving value.*
 
 If carriage eats the margin on anything heavy (§1), then the only goods that can cross four days of
 bad road profitably are the ones that are **small, light, and worth a great deal** — or that never
-travel at all. Every income stream in Book One is one of those, and this is not a coincidence:
+travel at all. Every income river in Book One is one of those, and this is not a coincidence:
 
-| Stream | Why it works past the railhead |
+| River | Why it works past the railhead |
 |---|---|
 | **Lumens / the lamp trade** (Ch 8) | Crystalline goods. Enormous value per pound. A saddlebag is a season's income |
 | **Patents and licences** | **Weightless.** Pure information. Crosses the four days for the price of postage and pays quarterly forever |

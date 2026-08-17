@@ -141,11 +141,13 @@ gauges on a ring
 my good level, the one I had carried
 
 # "beck" as the village watercourse (retired 2026-08-12 by the author: "Don't use term
-# beck. Call it a stream, river, Brooke, etc."). It is THE STREAM. 146 instances were
+# beck. Call it a stream, river, Brooke, etc."). It is THE RIVER (second ruling, same day:
+# "make it a river where appropriate and not stream"). 146 instances were
 # converted across 27 chapters, state/geography.md, state/manuscript-log.md and the
 # golden reference samples; prose-lint carries a tripwire so the manuscript cannot
-# reacquire it. RIVER was deliberately not used -- one village mill, ford stones a man
-# walks over; "river" contradicts the geography on the page.
+# reacquire it. I first argued against "river" on scale grounds -- one village mill, ford
+# stones a man walks over -- and the author overruled it. Recorded so the argument is not
+# re-run: stepping stones across an English river are ordinary.
 the beck
 a beck
 
@@ -156,3 +158,5 @@ a beck
 bracken
 a byre
 byres
+the stream
+the beck

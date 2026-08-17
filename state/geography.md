@@ -26,7 +26,7 @@
              never dry)         ╲_____╱
                                    │  hill track
                                    │
-     ~~~ stream ~~~~~~⚙~~~~~~~~~~~~~~┴~~~~~~~~~~ (mill pond) ~~~
+     ~~~ river ~~~~~~⚙~~~~~~~~~~~~~~┴~~~~~~~~~~ (mill pond) ~~~
                  Maret's mill      │
                   ┌──────────  ARDENMOOR  ──────────┐
                   │  smithy (Tomas)      inn (Lira) │
@@ -178,7 +178,7 @@ other owners and from unclaimed common/parish ground: [PAGE ch2, revised per rea
   in prose, per reader tracked change.)
 - **The NE meadow** (~24 acres), off the hill's northeast shoulder. **Belonged to the Tolls**, who
   never grazed it and were glad of the coin. [PAGE ch2]
-- **The plough-land in the bottoms** — good arable in the low ground below the hill (along the stream);
+- **The plough-land in the bottoms** — good arable in the low ground below the hill (along the river);
   **four men's idle acres Penworth stitched into one holding.** The hill itself is worthless to a
   farmer, but this field-land is leasable. **NOW COMING INTO USE (Ch 9):** the **Wray family** (Hal &
   Bess) took the main bottom-field on fair terms (yr1 free → 1/10 → 1/5) and are mending **the old
@@ -197,26 +197,26 @@ other owners and from unclaimed common/parish ground: [PAGE ch2, revised per rea
 
 ## THE VILLAGE OF ARDENMOOR
 
-A small place strung along the **stream**, thatch and grey stone, "where it is for longer than
+A small place strung along the **river**, thatch and grey stone, "where it is for longer than
 anyone remembers deciding." Interior building-to-building geometry is **[OPEN]** except as noted;
 what's fixed is which places exist and who holds them.
 
 | Place | Holder | Notes | Source |
 |---|---|---|---|
-| **The inn** (no name given yet) | **Lira** | Where the street widens toward the stream; **a broad building of three storeys, the ONLY one in Ardenmoor to stand so tall** (TC 2026-07-14); Emlyn's lodging. He has **the best room under the eaves** (clean linen, chair, washstand, a **broad window giving on the north side of the village**, toward the hill). Lira **measured/reserved**, not short-but-friendly. | [PAGE ch1] |
+| **The inn** (no name given yet) | **Lira** | Where the street widens toward the river; **a broad building of three storeys, the ONLY one in Ardenmoor to stand so tall** (TC 2026-07-14); Emlyn's lodging. He has **the best room under the eaves** (clean linen, chair, washstand, a **broad window giving on the north side of the village**, toward the hill). Lira **measured/reserved**, not short-but-friendly. | [PAGE ch1] |
 | **The square well** | shared | Established Ch 13: an old communal well in the **middle of the square**, "older than anyone living" — waist-high ring of mortared fieldstone, oak windlass, century-worn rope. **Soren draws water here most mornings** (a bucket for Cael's, one for the inn). Site of the Ch 13 well incident (a cart wheel clipped the coping). Distinct from the hill's south-face spring. | [PAGE ch13] |
 | **The communal oven** | shared | A **great domed oven of clay and fieldstone, open to the lane near the inn**; households without their own oven bring dough to bake. Ardenmoor is **too small for a proper bakery** — this is how the village gets its bread. | [PAGE ch1] |
 | **The smithy** | **Tomas** | At the "top" (entrance/upper end) of the street; hammer heard across the village. | [PAGE ch1] |
-| **The mill** + timber yard + **mill pond** | **Maret** | On the stream at the hill-ward edge (Emlyn passes it heading up to the hill); stacks of drying timber. | [PAGE ch1–2] |
+| **The mill** + timber yard + **mill pond** | **Maret** | On the river at the hill-ward edge (Emlyn passes it heading up to the hill); stacks of drying timber. | [PAGE ch1–2] |
 | **Brenna's cottage** + walled herb garden | **Brenna** | At the lane's end, by the **birches**; low stone house, drying green in the window. | [PAGE ch1] [CANON: "by the birches"] |
 | **Kellard's yard** (dry-goods store) | **Kellard** | The store that is also "the bank and the post and the parliament of the village"; has a **back storeroom** (flour, salt, good candles) where a wrongness-**cold-spot** had settled over a buried grief until Emlyn talked it out (Ch7). Kellard extends Emlyn **credit against the spring**. | [PAGE ch7] |
 | **The square** | — | Village common; market mornings; the well/pump (village well, distinct from the hill spring). | [OPEN placement] |
 | **Essa's joiner shop** | **Essa** | A furniture-maker's shop **off the square**; fine inlay / true-fitted drawers / small boxes. Essa is past fifty with failing eyes; buys one of the first Series lamps. | [PAGE ch8] |
-| **The wash-house** | shared | Down by the **stream**; communal laundry. | [PAGE ch7] |
+| **The wash-house** | shared | Down by the **river**; communal laundry. | [PAGE ch7] |
 | **The church / churchyard** | — | Cael's grandmother is "forty years in the churchyard." | [PAGE ch1 (mentioned)] |
 
 **On-page village facts:** riding in, Emlyn passed the smithy (top of street) → Brenna's house →
-the inn (down by the stream) [PAGE ch1]. Next morning, walking up to the hill, the ambience is
+the inn (down by the river) [PAGE ch1]. Next morning, walking up to the hill, the ambience is
 **the communal oven (first loaves, waiting households) near the inn → a dairymaid with pails → a
 man rethatching a gable → a woman driving three geese → a smith's hammer starting → Maret's mill**
 at the edge before the lane became the hill track [PAGE ch1]. (The morning deliberately does NOT
@@ -231,7 +231,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 
 ## WATER
 
-- **The stream** — runs through the village; powers Maret's mill. [PAGE ch1]
+- **The river** — runs through the village; powers Maret's mill. [PAGE ch1]
 - **The mill pond** — at Maret's mill; Emlyn holds a partial water stake. [PAGE ch2]
 - **The hill spring** — cold, clear, on the south face, never dry in living or grandmother's
   memory; Emlyn "will build his life around it." The future well taps it. [PAGE ch2] [CANON: well]
@@ -366,7 +366,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 ---
 
 - **BRENNA'S COTTAGE INTERIOR (PAGE ch10)** — low stone cottage at the far end of the lane by the
-  birches, on the stream (audible from the doorstone), drying-green in the front window, herb-shop
+  birches, on the river (audible from the doorstone), drying-green in the front window, herb-shop
   smell. Inside: a **shop room giving onto a low dark warm kitchen that IS the house** (banked fire,
   ceiling-high ordered shelves = the grandmother's order, Brenna's jars); a low beam that brains
   tall men; a **cold dry CELLAR** cut under the kitchen (roots/winter store; the KEEPER PLANT lives
@@ -376,7 +376,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 ## CHANGE LOG
 - **ch10** — Interior of **Brenna's cottage** established (shop→kitchen→cold cellar); the **keeper plant** SEEN in the cellar (glazed crock, far corner, 3 new leaves); the grandmother's **notebooks** in a cedar chest by the fire. Emlyn rides DOWN and back (Snow dislikes the new barn). No new outdoor geography; the oak/hill directionality is consistent (plant 'pointed away' like the oak).
 
-- **ch1** — Established: village of Ardenmoor on the stream; the inn (Lira), smithy (Tomas, top of
+- **ch1** — Established: village of Ardenmoor on the river; the inn (Lira), smithy (Tomas, top of
   street), Brenna's cottage; the approach oak at the view-bend; hill is N & a little E of the
   village; Maret's mill at the hill-ward edge. Hill still "only a hill". **(2026-07-11 finance/origin
   seed):** Vethmark now carries a **river**; Emlyn's **family townhouse** (inherited, father's,
@@ -410,7 +410,7 @@ peter out into trackless grass (a working village with an inn and mill has a roa
   "by the birches" reconfirmed. No new exterior place-names; the oak's status promoted seen→visited.
 - **ch7** — **Kellard's yard** promoted to [PAGE]: a dry-goods store (also bank/post/"parliament")
   with a back storeroom where Emlyn talks out a cold-spot; Kellard gives credit against the spring.
-  The **wash-house down by the stream** established (communal; Wednesday re-motivated 2026-07-31 as the day Cael keeps for the parish). A **warded barn** and a
+  The **wash-house down by the river** established (communal; Wednesday re-motivated 2026-07-31 as the day Cael keeps for the parish). A **warded barn** and a
   **surveyor's trued instruments** are offstage trade. No new hill geography.
 - **ch8** — **Essa's joiner shop off the square** established (furniture-maker; failing eyes); the
   **wash-house** row added to the table. The **Series lamp** (drinks ambient daylight, sellable off

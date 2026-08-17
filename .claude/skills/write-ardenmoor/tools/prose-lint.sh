@@ -154,16 +154,21 @@ for f in "$@"; do
   # regional diction in the book, so it will come back the moment anything drafts from an
   # old sample unless a check stops it. (?!on) keeps "beckon" legal.
   #
-  # Note on the author's list: RIVER was deliberately not used. This watercourse powers
-  # one village mill and has ford stones a man walks over; "river" would contradict the
-  # geography on the page. "Brook" is available as a variant but is unused, because a
-  # single named feature with two names reads as a continuity error rather than variety.
+  # THE WATERCOURSE IS THE RIVER (author, 2026-08-12, second ruling: "Let's make it a
+  # river where appropriate and not stream"). It was briefly "the stream" earlier the
+  # same day, on my argument that one village mill and walk-over ford stones made "river"
+  # too big. The author overruled that and he is right that it costs nothing: stepping
+  # stones across an English river are ordinary, and two lines read BETTER at the larger
+  # scale -- the rent book's "River locked in the shallows, black down the middle", and
+  # Cael's "the dry summer when the river went to a trickle". One name throughout, 151
+  # instances; "where appropriate" turned out to be everywhere, because every use in the
+  # book refers to the same single watercourse and there is no second, smaller water.
   # Extended the same day to the whole CLASS, on the author's follow-up ("Same with
   # bracken and Other similar obscure terms"), because fixing the one word he named and
   # waiting for the next is the mistake this repo has already logged once: a correction
   # is not applied until the CLASS of the error is fixed.
   #
-  #   beck    -> stream      bracken -> ferns
+  #   beck    -> RIVER       bracken -> ferns
   #   byre    -> cow shed    kist    -> trunk        bothy -> hut
   #
   # NOT retired, and deliberately so -- rural craft vocabulary is this book's texture,
@@ -176,7 +181,7 @@ for f in "$@"; do
   #   purlin, coping, lintel, quoin  a builder's book is allowed a builder's words.
   #   gorse, scree, tussock, sloe, hazel  ordinary countryside nouns, not dialect.
   n=$(grep -oiE '\b(beck|becks|bracken|byre|byres|kist|kists|bothy|bothies)\b' "$f" | grep -viE '^beckon' | wc -l | tr -d ' ')
-  if [ "$n" -gt 0 ]; then echo "  FAIL  retired obscure/dialect word: $n (beck→stream, bracken→ferns, byre→cow shed, kist→trunk, bothy→hut — author rulings 2026-08-12)"; status=1; fi
+  if [ "$n" -gt 0 ]; then echo "  FAIL  retired obscure/dialect word: $n (beck→river, bracken→ferns, byre→cow shed, kist→trunk, bothy→hut — author rulings 2026-08-12)"; status=1; fi
 
   # Memoir/ancient-chronicler frame phrases: banned in chapters and interludes.
   if [ "$base" != "00-prologue.md" ]; then

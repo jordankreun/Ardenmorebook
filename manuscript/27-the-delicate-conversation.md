@@ -16,13 +16,13 @@ That yard was the best-kept working ground in the valley and the worst-looking. 
 
 Two of the younger ones were on the gate when I came to it, on the outside of it, riding it round on its hinge in a way that would have cost anyone else in that family a word. They got down and let me through and got back up on it, and neither of them said good evening to me.
 
-I had four openings ready. I had made them coming down, improved two of them at the stream, and settled on the third, which began with the weather and turned on its second sentence into the matter at hand without a seam showing anywhere. I never got to use it.
+I had four openings ready. I had made them coming down, improved two of them at the river, and settled on the third, which began with the weather and turned on its second sentence into the matter at hand without a seam showing anywhere. I never got to use it.
 
 The first opened on the storehouse, on the grounds that a builder will listen to you about his own work when he will listen to you about nothing else, and it came round by the roof and the doorway and the set of the front wall to the boy who had laid its lines. I threw that one out at my own gate. It was a builder's compliment with a hook in it, and Jorin has been taking builders' compliments off clients for thirty years.
 
-The second was the direct one. It was six words long and I said it aloud on the road, past the elbow, to hear how it stood up in open air. I want to take your son. The stream went on running. Nothing whatever in that valley took the least notice of it, and neither did I.
+The second was the direct one. It was six words long and I said it aloud on the road, past the elbow, to hear how it stood up in open air. I want to take your son. The river went on running. Nothing whatever in that valley took the least notice of it, and neither did I.
 
-The third was the one I had worked hardest at. I took an adverb out of it at the stream and put a better one back, and it was in my mouth and ready when I came up the lane.
+The third was the one I had worked hardest at. I took an adverb out of it at the river and put a better one back, and it was in my mouth and ready when I came up the lane.
 
 The fourth was a letter. I composed it standing still in the middle of the road with the evening flies going over the hedge, and gave it up before its second paragraph, on the grounds that you do not write to a man whose gate is a quarter of an hour off and whose lamp is already lit.
 
@@ -110,7 +110,7 @@ There was nothing to say to that which would have improved it. I did not try.
 
 "Aye," said Jorin, and picked up the screw-iron. That was the treaty.
 
-I did not use the third opening on the road home either. I found it in my mouth somewhere about the stream, whole and useless, and let it go over the water with the rest of the evening's traffic. The lane was warm still off the stones and the bats were working it end to end and the lamp was lit in Jorin's kitchen behind me the entire way to the turn.
+I did not use the third opening on the road home either. I found it in my mouth somewhere about the river, whole and useless, and let it go over the water with the rest of the evening's traffic. The lane was warm still off the stones and the bats were working it end to end and the lamp was lit in Jorin's kitchen behind me the entire way to the turn.
 
 I did not sleep much on it. I got up twice and wrote the question out, once at the table and once later on standing at the window because sitting had stopped being any help, and both drafts were long and both of them were, I thought, rather fine, and I burned the pair of them in the grate at something past two on the grounds that a question a boy needs a lamp and a dictionary to follow is not a plain question and has no business calling itself one. What I kept was the frame and nothing else. What I was asking. How long for. His father's three conditions in his father's own order and his father's own words. And that he could say no.
 

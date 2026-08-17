@@ -72,7 +72,7 @@ There it was. I had a sentence ready for this, worn smooth with use, and I gave 
 
 "Cost who?"
 
-"Whoever paid me. Then the men who'd have to keep it fed after I'd gone home." I nodded up at the tank on its legs. "That fills itself out of a stream and a bit of weather. What I'd put in her would want a man's whole attention, and it would want it every day, and the first day it went without, you'd be standing here just the same. Only later, and further from a town."
+"Whoever paid me. Then the men who'd have to keep it fed after I'd gone home." I nodded up at the tank on its legs. "That fills itself out of a river and a bit of weather. What I'd put in her would want a man's whole attention, and it would want it every day, and the first day it went without, you'd be standing here just the same. Only later, and further from a town."
 
 He thought about it. He was not a quick man, but he was an honest one, and he stood there and turned it over where I could watch him do it, the way a coin goes across the knuckles.
 
@@ -104,7 +104,7 @@ Behind me a drover was arguing with the counter about the price of a halter, and
 
 I got Snow down from the horse-box, both of us glad to be quit of the noise, and went on the old way, by horse and road, four more days into the green silence.
 
-The road to Ardenmoor had never been grand, and the last of it was humbler still: good enough packed dirt, kept without much care and marked worse, the kind of country road that serves a place without troubling to announce it. Twice I took a fork on faith where no post stood to tell me otherwise and was proved right more by luck than judgment. The hedges had come into their first reckless leaf. The light lay long and yellow over low hills and older stone, and a stream went about its business off to my left with no interest in mine. I let Snow set the pace, which was slow, and did not correct her. She had carried me many miles and earned her opinions of the last few. It is a small courtesy to let a good animal be right about the road.
+The road to Ardenmoor had never been grand, and the last of it was humbler still: good enough packed dirt, kept without much care and marked worse, the kind of country road that serves a place without troubling to announce it. Twice I took a fork on faith where no post stood to tell me otherwise and was proved right more by luck than judgment. The hedges had come into their first reckless leaf. The light lay long and yellow over low hills and older stone, and a river went about its business off to my left with no interest in mine. I let Snow set the pace, which was slow, and did not correct her. She had carried me many miles and earned her opinions of the last few. It is a small courtesy to let a good animal be right about the road.
 
 The second of those forks came on the third day, in the middle of a long afternoon, where the road divided evenly around a bank of gorse and went off in two directions with equal confidence. There was no post. There had been a post once. The stump of it stood in the grass with a nail in it and nothing hanging from the nail.
 
@@ -142,15 +142,15 @@ The place he meant turned out to be a farm with its gable to the road and a lamp
 
 It rained before nine, as she had said it would, and went on until noon, and the country came out of it washed and steaming and smelling of green.
 
-The village came into view all at once, as small places do, when the lane bent round an old oak. Ardenmoor lay below me in the last of the afternoon, and it was ordinary: thatch and grey stone strung along a stream, a mill wheel turning without hurry, smoke standing straight above a dozen chimneys in windless air. Somewhere a dog was making its position known. Somewhere else a woman called two children in to supper by name, the second twice, and the second time with the patience going out of it. I sat at the bend, felt the road go out of my shoulders, and was glad in a plain way to have arrived somewhere.
+The village came into view all at once, as small places do, when the lane bent round an old oak. Ardenmoor lay below me in the last of the afternoon, and it was ordinary: thatch and grey stone strung along a river, a mill wheel turning without hurry, smoke standing straight above a dozen chimneys in windless air. Somewhere a dog was making its position known. Somewhere else a woman called two children in to supper by name, the second twice, and the second time with the patience going out of it. I sat at the bend, felt the road go out of my shoulders, and was glad in a plain way to have arrived somewhere.
 
 There was a hill to the north of the village and a little east of it, rounded and green and crowned with nothing but weather. *That will be the one*, I thought, and thought no more of it than that. It was a hill. I had seen a thousand hills. Whatever it had to say for itself, it was keeping to itself, and that suited me.
 
 I rode down into the village at a walk, and it looked me over the way a small village looks over a stranger, not unkindly but thoroughly, and then mostly went back to its evening. A hammer was still going somewhere among the houses, a smith at work past his hour, the ring of it carrying flat and clear across the cold. It kept an even time, three light and one heavy, a man finishing a thing he had begun rather than beginning a thing he could have left. Where it came from, a door stood open on a square of red light with the black shapes of tools hung across it. Then the street bent and took it away from me.
 
-Two boys sat on a wall and watched me the whole length of that wall without a word, turning their heads together as though they were geared to one another. A woman came out to take a cloth off a hedge, looked at me, looked at the light going, and went back in with the cloth. From a doorway a man said, "Down and left, at the stream," without my having asked him anything, and shut the door. Further on, a shop breathed out the smell of an herbalist's trade as I passed its door, cut green stems and something bitter-clean beneath it. Then it was behind me, and there was lamplight, and woodsmoke, and the good ordinary sound of a day being put away.
+Two boys sat on a wall and watched me the whole length of that wall without a word, turning their heads together as though they were geared to one another. A woman came out to take a cloth off a hedge, looked at me, looked at the light going, and went back in with the cloth. From a doorway a man said, "Down and left, at the river," without my having asked him anything, and shut the door. Further on, a shop breathed out the smell of an herbalist's trade as I passed its door, cut green stems and something bitter-clean beneath it. Then it was behind me, and there was lamplight, and woodsmoke, and the good ordinary sound of a day being put away.
 
-The inn stood where the street widened toward the stream, a broad, comfortable-looking building of three storeys, the only one in Ardenmoor to stand so tall, with a painted sign weathered past reading and lamplight spilling into the blue evening. It had the one quality that matters and cannot be built on purpose: it looked like somewhere a tired man might stop being tired for a while. I got down, and my legs told me exactly how far we had come. A boy came from the inn-yard shadows to take Snow's head with the unhurried competence of a child who had been around horses since before he could walk.
+The inn stood where the street widened toward the river, a broad, comfortable-looking building of three storeys, the only one in Ardenmoor to stand so tall, with a painted sign weathered past reading and lamplight spilling into the blue evening. It had the one quality that matters and cannot be built on purpose: it looked like somewhere a tired man might stop being tired for a while. I got down, and my legs told me exactly how far we had come. A boy came from the inn-yard shadows to take Snow's head with the unhurried competence of a child who had been around horses since before he could walk.
 
 He was perhaps nine. Thin, dark-haired, with a still, watchful way about him that was not shyness, though you might mistake it for that: the stillness of a child taking in more than he lets on. He looked at me with a directness most children lose by that age, or are taught out of, then took the reins and gave his whole attention to the mare, which she plainly preferred.
 
@@ -242,7 +242,7 @@ Cael came in on the tail of the meal, the cold still on his shoulders and the bo
 
 He thought about that longer than the question deserved, or else exactly as long as it deserved and I had asked a better one than I knew.
 
-"To whoever's here in twenty years," he said. "That's the whole of it. There's no court in it. There's the valley, and it has a long memory and no particular manners about the using of it." He moved his cup an inch on the table. "There's a wall down by the stream a man built badly before I was born. Nobody living ever met him. Everybody living knows whose wall it is."
+"To whoever's here in twenty years," he said. "That's the whole of it. There's no court in it. There's the valley, and it has a long memory and no particular manners about the using of it." He moved his cup an inch on the table. "There's a wall down by the river a man built badly before I was born. Nobody living ever met him. Everybody living knows whose wall it is."
 
 "That seems hard."
 
@@ -290,7 +290,7 @@ I shifted, and the boards gave a small complaint. A moment later the water in th
 
 I put the letter away and lay down under a strange roof, in a valley I had never meant to stay in, with the inn settling below me and a boy's quick step still in my ears. I slept better than I had in a long while.
 
-Morning came clear and crisp under a pale sky the scrubbed blue of fresh-washed linen. I woke before I meant to and lay a while listening to the village wake around me, the stream, the first cart, a rooster, and then went down, where Lira set porridge, honey, and a slab of bacon before me and left me to eat in peace.
+Morning came clear and crisp under a pale sky the scrubbed blue of fresh-washed linen. I woke before I meant to and lay a while listening to the village wake around me, the river, the first cart, a rooster, and then went down, where Lira set porridge, honey, and a slab of bacon before me and left me to eat in peace.
 
 The taproom at that hour was a different room. The fire was new and small, the shutters were back, and the light came in low and level across the boards and showed up every scar in them. A carter had come and gone before me and left his plate. Somewhere under the floor a barrel was being rolled.
 
@@ -364,7 +364,7 @@ I said it was.
 
 A hammer started somewhere behind me, a smith making an unhurried beginning on his day. At the mill, a broad figure white to the elbows with flour stood among stacks of drying timber and watched me take the lane past the last houses, lifting two fingers from a barrel in what I chose to take for encouragement.
 
-The mill had the stream to itself down there, and the wheel went round with the grinding patience of a thing that has never once been in a hurry and never once stopped. Sawn timber stood in ranks to dry, spaced with sticks between the courses, and the smell of cut wood came off the stacks even in that cold. Somebody had swept the yard. I have a weakness for a swept yard. It tells you somebody there is either careful or short of work, and either of those you can work with.
+The mill had the river to itself down there, and the wheel went round with the grinding patience of a thing that has never once been in a hurry and never once stopped. Sawn timber stood in ranks to dry, spaced with sticks between the courses, and the smell of cut wood came off the stacks even in that cold. Somebody had swept the yard. I have a weakness for a swept yard. It tells you somebody there is either careful or short of work, and either of those you can work with.
 
 I did not stop, and nothing in the two fingers on the barrel suggested I was expected to. We had between us all the understanding two people can have at forty paces on a cold morning: each had seen the other, and neither meant to make anything of it yet.
 

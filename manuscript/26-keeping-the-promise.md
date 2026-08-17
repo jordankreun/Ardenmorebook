@@ -80,11 +80,11 @@ We went up past the oven with its mouth open and cooling and the last of the day
 
 We went up without talking. The way took the climb as I had laid it to, and I watched him notice the work with his feet, the set of the flags, the drained elbow, and file it under things done properly. The evening was clear and going gold at the rim.
 
-The first reach out of the lane is the one I am fondest of, because it is the one I laid last and by then I knew what I was doing. It runs out along the foot of the slope with the stream on the left of it and does not begin to climb at all for forty paces, so that a man comes off the lane and finds himself already on stone and going up without ever having been asked to. Tomas came off the lane onto it and I felt him register the change under his boots at the second stride, and he did not look down, and he did not say anything, and his stride altered by about a hand's breadth and stayed altered.
+The first reach out of the lane is the one I am fondest of, because it is the one I laid last and by then I knew what I was doing. It runs out along the foot of the slope with the river on the left of it and does not begin to climb at all for forty paces, so that a man comes off the lane and finds himself already on stone and going up without ever having been asked to. Tomas came off the lane onto it and I felt him register the change under his boots at the second stride, and he did not look down, and he did not say anything, and his stride altered by about a hand's breadth and stayed altered.
 
 The way does not go at the hill straight. It takes it in long reaches with the turns set where a man carrying something would want them. A path you can walk with a load on is worth two you can only walk empty; three separate people told me so, and I believed none of them until I had laid it myself with my own back. Tomas went up at one speed. He did not slow for the steep reach and he did not hurry the level, and I found myself matching him, and found also that his one speed was a little faster than my own.
 
-What I had of him going up was his breathing, which came deeper as the ground stood up and never once came faster; and my own, which did both; and four boots on laid stone, and the grit at the turns where the wind puts it, going scritch under mine and not, so far as I could hear, under his. Behind us and below, the valley was letting off the day. A gate. A dog that had one bark in it and then thought better. The stream: you hear it on the second reach and lose it on the third and get it back at the crossing.
+What I had of him going up was his breathing, which came deeper as the ground stood up and never once came faster; and my own, which did both; and four boots on laid stone, and the grit at the turns where the wind puts it, going scritch under mine and not, so far as I could hear, under his. Behind us and below, the valley was letting off the day. A gate. A dog that had one bark in it and then thought better. The river: you hear it on the second reach and lose it on the third and get it back at the crossing.
 
 Twice I had a sentence made up and ready in my mouth, and twice I looked at the back of his coat going up in front of me and put it away again, and by the third reach I had stopped making them.
 
@@ -106,7 +106,7 @@ He laid his hand on the doorpost on his way past it, the once, and took it off a
 
 Then he stood on my grass and looked at where he was.
 
-It is not a large hill. I want that honest, having gone on about it at length for a good part of my life. It is a green shouldered rise at the head of a valley, and there are hills within a day's ride that stand higher, and nothing about the look of it would stop a traveller on the low road. But it is the only ground in that country you can stand on and see the whole of the valley's floor at once, from the bottoms to the wood, and at that hour of a clear evening the floor lies down there in one long held piece with the stream drawn through it in silver, and the fields go the colours fields go at the end of a day. Tomas of Ardenmoor, who had lived at the top of that street the whole of his life and made half the iron in every house of it, had never once seen his own valley from above.
+It is not a large hill. I want that honest, having gone on about it at length for a good part of my life. It is a green shouldered rise at the head of a valley, and there are hills within a day's ride that stand higher, and nothing about the look of it would stop a traveller on the low road. But it is the only ground in that country you can stand on and see the whole of the valley's floor at once, from the bottoms to the wood, and at that hour of a clear evening the floor lies down there in one long held piece with the river drawn through it in silver, and the fields go the colours fields go at the end of a day. Tomas of Ardenmoor, who had lived at the top of that street the whole of his life and made half the iron in every house of it, had never once seen his own valley from above.
 
 He stood and looked at it a good while. He turned round once, slowly, and finished where he started.
 
@@ -180,7 +180,7 @@ I began with the word, because the word was the load.
 
 "It's aware," I said.
 
-He was quiet long enough that I heard the stream.
+He was quiet long enough that I heard the river.
 
 "Aware," he said.
 
@@ -250,7 +250,7 @@ He let that stand.
 
 There it was, laid down flat with nothing on it, as he laid down everything.
 
-"It's under all of it," I said. "You get it in the stream field and you get it under your own floor and you get it here, stronger, because here is the top of it. It does not stop at my fence."
+"It's under all of it," I said. "You get it in the river field and you get it under your own floor and you get it here, stronger, because here is the top of it. It does not stop at my fence."
 
 That was a true answer. It was not the answer to what he had asked. I sat on my own grass in the dark and let him have it.
 
@@ -296,7 +296,7 @@ I lit the lamp at the top and carried it low, down at the knee, which is how you
 
 Going down took longer than going up. I have never been able to decide how much of that was the dark and how much was neither of us being in any hurry to arrive. He went first, since I had the light behind him and it threw his shadow out ahead of him down the flags, and twice on the reaches he put a hand out flat at his side, palm down, in the small unconscious way of a man walking a floor he does not yet know, and both times took it back. At the ford he waited on the near stone until I was over. Nobody has ever needed to do that for me on those stones, and I said nothing about it.
 
-A lamp makes a small room out of a whole hillside and puts everything outside that room a very long way off. Inside ours there was the stone going by underfoot, going darker as the dew came on; my boots; his, which fell heavier than mine and quieter; a moth that came and stayed with us the length of one reach and then went; and at the elbow, faint, the water talking to itself under the flag he had stood on going up. We came down over the stream on Ren's stones with the stream loud in the dark, and out onto the last flag, the one I had set first of all of them so that it would be the first thing anybody coming up would stand on.
+A lamp makes a small room out of a whole hillside and puts everything outside that room a very long way off. Inside ours there was the stone going by underfoot, going darker as the dew came on; my boots; his, which fell heavier than mine and quieter; a moth that came and stayed with us the length of one reach and then went; and at the elbow, faint, the water talking to itself under the flag he had stood on going up. We came down over the river on Ren's stones with the river loud in the dark, and out onto the last flag, the one I had set first of all of them so that it would be the first thing anybody coming up would stand on.
 
 The valley came up to meet us in lights. Lira's, which was the largest and the loudest even from that distance. Brenna's, small and steady and lit far later than a herbalist's window has any business being. And at the top of the street, behind the black shape of the forge, one square of amber that had come off my own bench and would not want oil again in either of our lifetimes.
 

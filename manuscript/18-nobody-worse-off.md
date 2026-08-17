@@ -22,7 +22,7 @@ I put it to Hal Wray first, because he had the most to gain, and because Hal wou
 
 We walked the bottom-field together on a bright cold morning with the stubble crackling under us, and I showed him the plan, and he looked at it a long time, holding it the way a man holds a paper he is not certain he is allowed to disagree with.
 
-There had been a hard clear night behind it and everything had that scoured look. Thistle-down came off the headlands in threads, and the ruts of the last cart were set solid enough to turn an ankle, and the stream could be heard from the top of the field, and away over the wood one thin line of smoke stood straight up out of somebody's chimney and did not move at all. We had gone two hundred yards before either of us spoke. I had learned that much about Hal Wray by then: he will not talk on a field until he has looked at it, and if you talk at him while he is looking he will give you a civil answer and not hear one word.
+There had been a hard clear night behind it and everything had that scoured look. Thistle-down came off the headlands in threads, and the ruts of the last cart were set solid enough to turn an ankle, and the river could be heard from the top of the field, and away over the wood one thin line of smoke stood straight up out of somebody's chimney and did not move at all. We had gone two hundred yards before either of us spoke. I had learned that much about Hal Wray by then: he will not talk on a field until he has looked at it, and if you talk at him while he is looking he will give you a civil answer and not hear one word.
 
 "You know this ground better than any paper does," I said. "Tell me what's wrong with it."
 
@@ -42,7 +42,7 @@ Hal thought about that for a while, walking.
 
 We went the length of Hask's strip while he did it. Six acres through the middle of eighty cannot be seen on a paper and can be seen from the ground in about a minute. It ran water to hedge, and on both sides of it the ploughing stopped dead, and where it stopped there was a headland of turned earth as wide as a cart, packed hard by years of the same team coming round on it. Hal went out onto that headland without appearing to decide to, and stood at the turn, and looked back up the ground he had come down, and said nothing whatever about it. He had already told me once what that turn cost him, in a field, in a sentence.
 
-The strip itself was thistle to the knee, and dock gone brown and standing dead on the stem. A third of it, up at the stream end, had been worked that spring, and worked properly, by an old man on his own, and you could see exactly where he had stopped. It was not a line anybody would draw. It was a line a body arrives at.
+The strip itself was thistle to the knee, and dock gone brown and standing dead on the stem. A third of it, up at the river end, had been worked that spring, and worked properly, by an old man on his own, and you could see exactly where he had stopped. It was not a line anybody would draw. It was a line a body arrives at.
 
 "There's ways to make a man deal," he said at last, "that aren't asking."
 
@@ -158,7 +158,7 @@ So it was tipped at her door and she moved it herself, every year, a barrow at a
 
 Cob Ferris took three afternoons. I have never grudged anybody his entertainment less.
 
-He lived up the stream in a place with a quantity of everything in the yard and none of it in any order, and each time I came he met me at the corner of it as though he had happened to be out for some other purpose and was surprised to find me on his ground. He was not. The first afternoon he gave me his twenty minutes on the strip. The strip was a punishment. The strip had been laid out by a fool in a bad temper. There was no way to it that did not take you over two other men's ground and a wet corner, and the wet corner had once swallowed a pony belonging to his uncle, and the pony took a while, and survived, and I was glad to hear it at the length at which I heard it.
+He lived up the river in a place with a quantity of everything in the yard and none of it in any order, and each time I came he met me at the corner of it as though he had happened to be out for some other purpose and was surprised to find me on his ground. He was not. The first afternoon he gave me his twenty minutes on the strip. The strip was a punishment. The strip had been laid out by a fool in a bad temper. There was no way to it that did not take you over two other men's ground and a wet corner, and the wet corner had once swallowed a pony belonging to his uncle, and the pony took a while, and survived, and I was glad to hear it at the length at which I heard it.
 
 All of that was true. It was why I wanted rid of the thing myself.
 
@@ -178,7 +178,7 @@ The second afternoon I put the swap to him: his strip for a nearer one worth twi
 
 That stopped him a moment, because he had come out that afternoon prepared to prove it and I had gone and agreed with him.
 
-The third afternoon he came down the stream to me, and that was how I knew it was settled. He wanted conditions. He wanted the exchange drawn the same day and not left lying about to be thought better of. He wanted his own name at the head of the paper and not at the foot of it. And he wanted it written in that the swap had been at my asking, which it had. I gave him all three inside ten minutes, and he went away up the stream, and told the valley for years afterward that he had got a hedged strip and a gate out of the wizard in exchange for a corner nobody could get at, and every time it was told the corner got worse and the gate got newer.
+The third afternoon he came down the river to me, and that was how I knew it was settled. He wanted conditions. He wanted the exchange drawn the same day and not left lying about to be thought better of. He wanted his own name at the head of the paper and not at the foot of it. And he wanted it written in that the swap had been at my asking, which it had. I gave him all three inside ten minutes, and he went away up the river, and told the valley for years afterward that he had got a hedged strip and a gate out of the wizard in exchange for a corner nobody could get at, and every time it was told the corner got worse and the gate got newer.
 
 I have never contradicted a word of it.
 

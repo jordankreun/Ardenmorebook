@@ -156,7 +156,7 @@ Then she looked at me a while longer, and turned a loaf over on the board, and s
 
 That is how I came to be fed bread in that valley for the better part of a year without ever once buying a loaf. It was the dark close-crumbed sort that will sit a week in a tin and cut thin at the end of it, and it was better than anything I had eaten in Vethmark, and I paid for the flour at the dry-goods counter and it went into the long book like everything else.
 
-The mill was the third of them, down at the stream on the hill-ward edge, and it taught me a different lesson.
+The mill was the third of them, down at the river on the hill-ward edge, and it taught me a different lesson.
 
 I went for oats and bran for Snow, and stayed a while for the pleasure of the place. The yard smelled of wet meal and sawn oak in about equal parts. There were drying stacks under a lean-to along the length of the north side, three and four years' worth of timber ranked by size with the ends painted, and I stood and read those stacks as another man reads a shelf of books, and made a note of what I was going to want out of them before the summer was done.
 
@@ -174,7 +174,7 @@ I said I did not know.
 
 "He says come back when you do."
 
-So I paid the boy and shouldered the sacks and carried them back along the stream to Lira's yard, and it was two seasons and more before I stood face to face with the man who had cut the timber I built my life out of. Nobody in that yard thought there was anything unusual in that. Neither, after a while, did I.
+So I paid the boy and shouldered the sacks and carried them back along the river to Lira's yard, and it was two seasons and more before I stood face to face with the man who had cut the timber I built my life out of. Nobody in that yard thought there was anything unusual in that. Neither, after a while, did I.
 
 Once, early, one of the quarrymen leaned over from the next bench, emboldened by his cups, and asked me straight out whether it was true I was a wizard, and what that meant a man could do. I told him it was a trade like his own, only with fewer men in it, and I bought him a drink.
 
@@ -344,6 +344,6 @@ I did not sleep much the rest of that night, and what I got was thin. But I was 
 
 I lay in the cold before dawn with my hand flat on the ground, the way the boy had laid his flat on the stone, and I asked the hill nothing, because I had not learned how, and because there are questions a man does not put to a thing so soon after coming to sleep in its house. I only kept it company in the dark, the way Cael kept the foot of it company from his wall, and the boy kept its edges, and half that quiet valley had been keeping this hill company the whole of their lives without ever once saying so aloud.
 
-Below me the stream ran on. Out in the north wood the old oak stood in the rain. And on the crown of the hill, in a tent of waxed canvas, I lay awake and waited for the light, and wanted, for the first time in a long while and to my own surprise, to see what the morning would bring.
+Below me the river ran on. Out in the north wood the old oak stood in the rain. And on the crown of the hill, in a tent of waxed canvas, I lay awake and waited for the light, and wanted, for the first time in a long while and to my own surprise, to see what the morning would bring.
 
 It brought rain, mostly, and a grey ordinary daylight in which the hill was only a hill again, wet and green and patient and giving no sign of anything, so that a lesser man, or a wiser one, might have put the whole of the night down to cold and tiredness and the fancies that come to a man alone in a tent. I did not. I had lain awake through two slow beats of a buried heart and felt them in my teeth, and no amount of sensible morning was going to talk me back out of it. I made my tea. I ate the bread the boy brought up. Then I went out into the rain with my hands empty, and began.

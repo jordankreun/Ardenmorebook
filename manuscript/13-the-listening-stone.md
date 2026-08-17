@@ -156,7 +156,7 @@ Jorin, who had come up the ladder behind us for a length of line and had heard t
 
 Soren went down after him a while later, with Jorin footing the ladder and saying nothing, and stood in the bottom in the cold with his head back, looking up at the square of white sky.
 
-"It's colder than the stream," he said, when he came up.
+"It's colder than the river," he said, when he came up.
 
 "It is."
 
