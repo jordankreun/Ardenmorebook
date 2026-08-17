@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-7 open tracked changes. Synced from the reader.
+9 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -42,5 +42,19 @@ REVISED: (delete this paragraph)
 
 ORIGINAL:
 > I set my bags down under the window. I got my boots off and set them where I would fall over them in the morning, which is where I have always set them. I did not take my coat off. Then I put the candle out.
+
+REVISED: (delete this paragraph)
+
+
+## Chapter Two: Walking the Bounds
+
+ORIGINAL:
+> The path was not steep and not long, half an hour from the last of the houses, and it took the stiffness out of my legs and gave me back a clean plain ache instead. It was a cold bright morning still, the dew not off the grass and an edge on the air the climb was glad of. I went up slowly. There was no one to watch me do it and no reason on earth to hurry.
+
+REVISED:
+> The path was neither steep nor long, half an hour from the last of the houses, and it took the stiffness out of my legs and gave me back a clean plain ache instead. It was a cold bright morning still, the dew not off the grass and an edge on the air the climb was glad of. I went up slowly. There was no one to watch me do it and no reason on earth to hurry.
+
+ORIGINAL:
+> The track was worth the reading on the way. It had not been laid; it had been worn. Whoever went up it first had gone where the ground offered, holding the easy line where the slope stiffened and cutting straight over where it did not, and every foot since had agreed with him. A made road would have argued with that hill in three places at least. This one never did. I stopped twice going up and looked back down the line of it, and thought that the men who walked that track had surveyed it between them without one of them knowing he was at it.
 
 REVISED: (delete this paragraph)
