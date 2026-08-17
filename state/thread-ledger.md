@@ -32,6 +32,10 @@ Format: `thread | planted | last watered | state | note`
     Tomas's long solitary hearing        | Ch 12 | Ch 26 | PAID   | vindication in full on the crown
     Tomas's promise, "the same hour"     | Ch 12 | Ch 32b| PAID   | closed in the coda; was ORPHANED until 2026-07-29
     Ren's true corner                    | Ch 5  | Ch 29 | PAID   | witnessed Ch 25, offered Ch 27, articled Ch 29
+    the quarryman's dog                  | Ch 5  | Ch 9  | PAID   | was an ORPHAN until 2026-08-12; his four visits "about the dog" now bring the mother of Emlyn's
+    "There's always a dog" (Soren)       | Ch 14 | Ch 14 | PAID   | was an ORPHAN; the hypothetical dog he gives up with regret becomes real four chapters later, and he names her
+    FLY — a sheepdog with no flock       | Ch 9  | Ch 32 | PAID   | arrives Ch 9, named by Soren Ch 14, nine days of real work at the Ch 16 harvest, the "nobody" of Ch 20, shut out at the cellar door Ch 32
+    Fly will not go down the cellar stair| Ch 13 | Ch 32 | PAID   | a dog and a dark stone stair, never magic; pays when he shuts the door on her and goes down alone, which is what keeps the cellar EMPTY
     Hask's strip / the wired gate        | Ch 10 | Ch 18 | PAID   | resolved at moral cost; correctly absent after
     Brenna's grandmother's notebooks     | Ch 6  | Ch 24 | PAID   | opened Ch 11, keystone Ch 24
     the keeper plant's three leaves      | Ch 11 | Ch 28 | PAID   | the turned leaves

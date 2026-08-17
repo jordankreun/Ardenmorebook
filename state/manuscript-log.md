@@ -15,6 +15,29 @@
  surveyed per-chapter floors; `32b-coda.md` byte-identical, as instructed. Same method and the same
  four prohibitions. **171 findings were raised by the adversarial verifiers and every one repaired**
  — see the changelog. Zero prose-lint FAILs across all 37 files.
+- **2026-08-12 — THE DOG THREAD ADDED** (developmental mode, author instruction). A sheepdog bitch,
+  FLY, woven through 18 chapters: +2,110 words on 223,631 (+0.9%). ADD-ONLY — every pre-existing
+  sentence in all 18 files survives verbatim, verified mechanically by the per-Part verifiers and the
+  whole-thread reader rather than by eye. The only new proper noun in the manuscript is "Fly".
+  **TWO ORPHANS CLAIMED RATHER THAN INVENTED:** Ch 5's quarryman, who came up four times "about the
+  dog" and whose beat ends "The last time he brought the dog", is now her mother; and Ch 14's Soren,
+  who argues ethics about a hypothetical dog and "gave the animal up with regret", now names the real
+  one. Neither was in the thread ledger. Both are now.
+  **The spine, deliberately never stated:** a working animal with nothing to work, kept by a man the
+  valley cannot place either. Her nine days at the Ch 16 harvest sit in the chapter where Nell asks
+  "So what are you *for*, then?" No character notices the rhyme and none may.
+  **Covenants held:** she senses nothing, so no listening instrument exists before Ch 25 and Ren's
+  function is intact; Ch 30 still opens "I woke to Snow, screaming" and Snow is still saved first on
+  the page; Fly is never the alarm and never in danger; zero humour in Ch 26–32; zero aphorisms;
+  "for company" not spent; 32b byte-identical; Ch 21, Ch 24 and the interludes untouched.
+  **21 defects caught by the four verifiers**, including a stock formula ("lay with her head toward
+  X") that had propagated ELEVEN times across the thread, a comic beat inside Ch 25's undercurrent
+  approach, a chronology error placing the pup on the hill before she arrives, and the thread's only
+  em dash. All fixed. prose-lint: 0 FAILs across 37.
+  ⚠️ **FOUND, NOT FIXED — a pre-existing canon conflict:** the cellar stair is EIGHT steps in Ch 13
+  and Ch 15, and ELEVEN in Ch 25 and Ch 28. The cellar is nine feet deep (Ch 13), so eight risers is
+  13.5 inches — a ladder, not a stair — and eleven gives just under ten inches. Eleven is almost
+  certainly right, but correcting it changes existing prose and was outside this pass's remit.
 - **2026-08-09 — PARTS I AND II EXPANDED to roughly 2.3×** on the author's instruction, by turning
  the book's compressed summary into played scene. Ch 1–15 + both interludes, 53,632 → 126,751 words;
  every file at least 2.09× its former length. **No new plot, no new named entities, no raised

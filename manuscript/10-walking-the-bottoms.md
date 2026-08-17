@@ -180,6 +180,8 @@ Bess and the two biggest children worked across the turned part with a barrow, p
 
 The smallest of them caught sight of me at the rail and stopped dead and stared, in the frank manner of a child who has been told something about a person and is checking it against the person. I lifted my hand to her. She did not lift hers. She went and stood against her mother's skirt and looked at me from there, and Bess put a hand on the top of her head without troubling to look down, and went on picking stones.
 
+The pup came down the track behind me that spring, whether I meant her to or not. There were fowl loose about the Wrays' yard and the horse at the plough, so I carried a length of cord down in my coat pocket and made her fast to the post at the gap before I put my forearms on the rail. She lay down against the post and did not once put her weight on the cord and made no sound at all, and she was still against it when I came back to untie her. Hal saw her there on the second afternoon and did not ask.
+
 I walked the bottoms with Hal Wray a fortnight after they came across.
 
 It was his idea, not mine. He sent word up by Soren that if I had a morning he would be obliged to show me something.

@@ -96,6 +96,34 @@ Snow came out of that stall into the yard like a thing let off a rope, put her n
 
 Snow never quite took to the barn. She had a way of shifting and blowing in her stall at dusk and again in the small cold hours, which I laid to a green building settling and a draught I never did find, and I called her spoiled and turned her out on the hillside in fine weather, and we left the argument there.
 
+Kellard's strap-iron came in with the first good week, as he had said it would, and I took the cart down for it and for the two kegs that had been waiting on it since January. He had the book turned round for me before I asked, as he did now, and I was reading the entry off it in the yard when the quarryman came across from the gate. He had no business in that yard that I could see.
+
+He stood off a way first and worked round to it, as he had worked round the crown that first summer.
+
+"Bitch has whelped," he said. "Six of them."
+
+"I heard she had."
+
+"Four's spoke for. One's promised down the valley." He looked at the load and not at me. "There's one left."
+
+"I've no sheep," I said. "There's nothing up there for a dog to be at."
+
+"No," he said. "There's not." He turned his hat once in his hands. "She's the small one. She'll not make a worker."
+
+"Then she's better where she is."
+
+"I'll take money for a dog that works." He put the hat on. "Not for one that won't. I've a name in this valley."
+
+"Then it's no sale."
+
+"No," he agreed, and gave me good day, and went off across the yard the way he had come.
+
+She was in the cart when I got to the foot of my own lane. She was under the sacking between the kegs and the strap-iron, and she had ridden the whole of the low road in there and made no noise about it. Black and white. Small for a collie. One ear stood and the other lay over, and it never did stand.
+
+I put the tail-board down and stood in the lane a while. The light was going and the iron wanted carrying up before dark.
+
+The strap-iron went up on my back in three trips and she went up under my arm on the first of them, and I put her in the barn, there being a barn, and there having been nothing of the kind on that hill a fortnight before. She was still in it when I came up with the second load. She lay at the edge of the swept floor with her head toward the work, and stayed there while I stacked, and did not come to me and did not go off.
+
 The plain fact was that I could not go on living in the Study. It had done well enough for the first stretch, when it was the only room I owned and I was too glad of any roof to be particular about it, but a man cannot forever keep his bed and his books and his supper and his trade all in the one room and call it a life. The Study wanted to be a study. It wanted to be the quiet ordered place where I did my work, and it could not be that so long as it was also where I slept and ate and hung my wet coat, and every time I cleared the day's dishes off a bench I meant for instruments I felt the wrongness of it a little more. And there was the other thing, the thing I came to slowly and did not say aloud even to myself for a good while: that I wanted, for the first time in a very long time, a place that was only for living in. Not for working. Not for grieving. Just for the plain animal business of being a man who was, against all his own expectations, still alive and meaning to go on that way.
 
 So I would build a house. A small one. And I would build it, this time, off the crown, because the crown was for the tower that I could see already in my mind's eye though it was years and years from rising. I was not going to set a cottage down where a tower meant to stand. And I would build it in wood, as I had built the barn, for the same reasons of purse and season and the note at my back. A house meant only to be lived in did not want stone. Stone was for the work, and for the tower when it came, and for whatever had to outlast a man; a warm quick timber cottage was the right size of ambition for one who wanted, at last, nothing grander than somewhere ordinary to be. I chose a shoulder of ground below the crown on the south-and-west, a fold of the hill out of the worst of the wind, where the never-dry spring came up cold and clean not thirty steps off and the afternoon light lay longest, and I paced it out one bright cold morning with the boy trailing me and marking, in his grave way, exactly what I was about before I had said a word of it.

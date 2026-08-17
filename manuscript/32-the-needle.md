@@ -20,6 +20,8 @@ I sat back on my heels then and was no use to anybody for a while.
 
 My hands had gone past cold into the state where you can watch them doing a thing and not feel them do it, and when I brought them up off the lid the wood held the two shapes of them a moment in the cold and then let them go. My throat was raw. I had been speaking, some of it aloud, without knowing that I was doing it. I have done that since I was a student. Behind both eyes there was the headache that comes of holding one fine thing steady for hours. I have had it perhaps a dozen times in my life and never worse.
 
+The trap door was shut above me. Fly had come to the head of the stair and stopped at the edge of the boards, and I had let the door down and gone below.
+
 My shirt was wet through at the back and going cold against me on the coldest night of that year, and I noticed it and did nothing about it. The lumen, standing on the flags a foot from my knee, had come down to its deep burn. That was how I learned what the working had cost me in hours. It had cost me most of them.
 
 I did not open it at once. I had the whole of the night, and I was in no hurry to spend it.

@@ -44,6 +44,8 @@ The lumen sat at the corner of the table giving out its steady amber, and outsid
 
 I had expected to find that hard to sit through. I did not.
 
+Fly had come in behind him and lain down at the edge of the hearthstone, out of the way of the pair of us, and she did not move for the whole of the reading.
+
 Then he went back to the first sheet and did the whole of it again.
 
 "Root cellar gone respectable," he said at last.

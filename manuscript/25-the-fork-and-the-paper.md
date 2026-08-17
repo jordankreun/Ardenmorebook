@@ -54,6 +54,16 @@ Above ground it was the best sort of day that country gives, the kind that comes
 
 He came up a little before one, in his working clothes, having been in his father's yard all morning and meaning to be back in it on Monday, and he came up at Jorin's pace, a pace that does not alter for a slope and does not alter for a level either. I went out and met him at the top of the last flags rather than wait for him at my own door. We stood there a while and got his wind back, looking down the stitched line of the way at the flags he had just come up, and I did not begin until he was ready to be begun at.
 
+Fly came up the last of the flags behind him and went past me to him, and Ren put a hand down on her and left it there.
+
+"She had my elbow from the second flag," he said. "The whole way up."
+
+"She does that to Soren every morning with the bread. He walks where she puts him rather than go round her."
+
+"It's the carrying." He took his hand off her. "Anybody with their arms full. Da's the same with the bar, and she's had me twice this week and I'd not noticed till now."
+
+She lay down at the top flag, and I left her at it.
+
 I told him the truth, in the shape I could afford: that the hill had a sound in it, which he knew; that I had been measuring the sound a long while; that my measurements had got to the place where the measurer himself was in the way, and I needed senses that were not mine, and his were the best I knew of. I told him he could say no, and that no would cost him nothing with me, now or ever.
 
 He took his time over it.

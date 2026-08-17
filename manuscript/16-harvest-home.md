@@ -30,6 +30,24 @@ By the afternoon I had a rhythm and had stopped thinking about my arms, and the 
 
 Twice that day the shadow of a cloud came over the top end, and every head in the field went up together, and then went down again. Nobody said anything either time.
 
+I had not reckoned on the stock. Nine days of gates standing open behind carts, and every hand in the valley on ground that is not his own, and what that comes to is beasts in the wrong field. The Wrays' cow was out twice in the first three days. Somebody's sheep came down the lane on the fourth, through a gate a man swore afterward he had shut, and got into my standing barley before anybody in the field saw them.
+
+Fly went up the far side of them and put them back out through the gap they had come in by, and then lay down in the gap.
+
+The older man watched that from his row. Then he put two fingers in his mouth and whistled, two short and a long one, and she came off the gap and dropped at his feet, and he sent her back to it with a word I did not catch.
+
+"You've had a dog," I said.
+
+"I've had four."
+
+She was his by day after that, and mine at night. She had the gate at the foot of the lane for the whole of the nine days, lying in it when it stood empty and getting out of it before a cart wanted it. She brought the cow up twice more. She held sheep off the cut ground while the carts were on it and put them back onto it after, and she took her orders from four different men, and I was not one of them.
+
+Kellard's man stopped checking that gate before he came at it, somewhere about the third day, and after that he came at it at a trot with a full load and found it empty in front of him every time.
+
+She was in the field before the men in the morning and she was in it when they went down at dark. She did not come up the hill at midday. She ate what was set down for her at the field edge and went back to the gate.
+
+I did not learn the whistles.
+
 There was a Sunday in among those nine, and we worked it, and I have not seen that done before or since. Sunday in that valley is the day nobody works, for no reason anybody could write down, except that it is the day a man has his own people about him and the ground can wait one day out of seven for that. We did not have a day to give it. I said something about it at the gate on the Saturday evening, feeling that I ought to, being the landlord of most of what we were cutting. Hal looked down the field at his entire family bent over in it and said, "They're all here."
 
 The eighth was the day the weather came into it.

@@ -236,7 +236,7 @@ They laid twelve foot of the south wall that morning and were quieter about it t
 
 The village noticed that. Word of it went down the hill faster than we did of an evening, and for a while I would look up from the work and find one or two of them at the edge of the crown where the grass goes long, come up on some invented errand to see the fool's wall before it fell, and stay to watch it not fall, and go down quieter than they came.
 
-The first of them was a quarryman, come up in the middle of a working afternoon on the stated business of a strayed dog. There was no dog. He stood at the edge of the long grass with his hat in his hands for the better part of an hour, and worked round the crown by degrees, as though the wall were a thing that wanted seeing from the other side and he did not care to be observed changing his position, and at last he came near enough to speak.
+The first of them was a quarryman, come up in the middle of a working afternoon on the stated business of a strayed dog, black and white, a working bitch. There was no dog. He stood at the edge of the long grass with his hat in his hands for the better part of an hour, and worked round the crown by degrees, as though the wall were a thing that wanted seeing from the other side and he did not care to be observed changing his position, and at last he came near enough to speak.
 
 "You've got it up," he said.
 

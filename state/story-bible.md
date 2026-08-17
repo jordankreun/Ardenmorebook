@@ -541,6 +541,26 @@ Conclave reach the story only by letter, licence, or a rare visitor, never as ep
   listen with, and not to command."* Do NOT strip callipers from the manuscript: the locked grief
   object in the sticking drawer (l.260) IS a pair of dimensional callipers, and removing them as
   foreign to his trade would drain that drawer.
+- **FLY** — a black-and-white sheepdog bitch, small for a collie, one ear up and one down. Whelped
+  by the quarryman's bitch (Ch 5, already on the page since the first draft); comes up the hill in a
+  cart in Ch 9 when Emlyn has declined her; named by **Soren** in Ch 14, which closes his own
+  "There's always a dog". **⚠️ SHE IS AN ORDINARY ANIMAL AND SENSES NOTHING** (author, 2026-08-12).
+  She has no reaction to the hum, the two hours, the corner, the chest or the cellar, and she is NOT
+  an instrument — the book carries no tuned or listening instrument before Ch 25 and she must never
+  become one. The valley decides the wizard's dog must be uncanny and reads meaning into everything
+  she does; Emlyn knows exactly what she is and gives up correcting them. **The joke is aimed at
+  him and at the valley's certainty, never at the dog.**
+  **The engine: a working animal with nothing to work.** Emlyn's hill carries no sheep. Her nine
+  days at the Ch 16 harvest are the only days in the book she gets to be what she is — in the same
+  chapter a seven-year-old asks Emlyn "So what are you *for*, then?" **That rhyme is NEVER stated
+  and no character may notice it.**
+  Behaviour, fixed: gathers what does not need gathering; lies at the EDGE of work, facing it;
+  will not go down the cellar stair (Ch 13 → Ch 32); sleeps through the dusk pulse; nearly silent.
+  She is rendered from OUTSIDE only — no interiority, ever. **Covenant: she is safe.** Never hurt,
+  never ill, never in danger, and she does not die. At the Ch 30 fire she is already outdoors and
+  **Snow is still saved first, on the page** — Snow owns the alarm and Fly is never it.
+  She appears in Ch 5, 9, 10, 13, 14, 16, 17, 18, 19, 20, 22, 23, 25, 26, 29, 30, 31, 32. She never
+  appears in Ch 21 (Lira's head), Ch 24, any interlude, or the coda.
 - **Soren**, 10 — village elder's grandson; HEARS the hum; solemn, structural, whole-attention;
   asks questions like "Is that why the Study doesn't fall?"; child logic with dignity, never cute.
   **His gift is SPECIFIC, not general** (author, 2026-08-02): a savant at numbers and at hearing, and

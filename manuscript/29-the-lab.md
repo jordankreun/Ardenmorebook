@@ -106,6 +106,8 @@ Then the three conditions, in the order they had been given me across a kitchen 
 
 I read every word, including the words that stand in every such paper ever drawn and mean nothing to anybody, because the form does not permit skipping, and because the boy had a right to hear the whole of it. It took a quarter of an hour. Ren stood at the end of the bench and did not shift his feet once, and his father stood by the door with his hat in his two hands, and the lamp over the bench did not flicker, lamps of that kind not flickering, and outside the cold came down the shelf and laid its hand on the door.
 
+Fly had come down with us as far as the cold store. She lay out there on the sill of the inner door facing the bench, and was still there when it was done.
+
 There was a pen on the bench and an ink bottle I had carried down with the rest of it that same week, and I had thought beforehand about the order of it and settled it in the boy's favour, on the ground that a master who signs first is a master showing a prentice what has already been decided for him. I turned the sheet round and laid the pen across it and stepped back to where I could not watch it being done.
 
 Ren signed. I signed. Jorin made his mark as father, pressing hard enough to be read from the far side of the paper.

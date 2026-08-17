@@ -66,6 +66,8 @@ I went round them over eleven days that October, on foot, with a notebook, and I
 
 October in that valley is not a hard month, only a wet one and an unreliable one. Two of the eleven days were as fine as anything the summer had managed. Four of them rained from before I set out until after I got back, the small upright rain that does not look like anything at all through a window and has you through to the shirt inside a mile. I walked in the same coat every day and it never got properly dry, and by the sixth day it had a smell of its own that I had stopped noticing and other people had not.
 
+Fly came the eleven days. She had the lane while I was inside a house, and the gateway while I stood in one writing, and she was under the same hedges I was and no drier.
+
 I carried the notebook in an oilcloth inside my coat and wrote in it standing up, in gateways and under hedges, with a pencil I cut back with a knife until there was nothing left to hold. The first pages are in a fair hand and the last are not.
 
 And I was fed. That is the part of the eleven days I did not expect and have never quite got over. In every one of the five houses the step had been swept. There was something on the table that had not been on that table the day before. In three of them a chair had been carried round to the fire before I got there, and in two of them somebody had put a cloth on a table that did not ordinarily wear one. They knew I was coming. They had all known for days, the way that valley knew everything. And every one of them fed the landlord before he had said a word about what he had come for, because that is what you do, and because it is harder to say a short thing to somebody who has just fed you, and they knew that too.

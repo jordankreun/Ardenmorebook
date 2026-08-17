@@ -64,6 +64,8 @@ That is an oration from Hal Wray.
 
 What followed takes four paragraphs to write down. It was not four paragraphs. It was a quantity of lanes in the wet, and a quantity of standing in doorways with my hat in my hand, and three whole afternoons spent on a man who had decided in advance to enjoy himself.
 
+Fly did the lanes and not the doorways. She came as far as the last gate of a place and stopped at it, and she was at that gate when I came out of it, and we went on to the next one.
+
 I went to Cael at the start of it, before I went to anybody, and told him what I meant to try and asked him whether it could be done without harm. He heard the whole of it out on the step of his own house with the door open behind him. He did not say yes. What he did instead was to be visible that autumn in one or two places where he had no other business being, and to be seen listening while the thing was explained to somebody else, and then to go home.
 
 What we came to, over that autumn, and what Cael put his weight behind when I asked him to, and what Penworth turned into paper, was this.

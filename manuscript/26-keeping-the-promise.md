@@ -96,6 +96,8 @@ He stopped once. It was at the elbow, where the seep runs under now in a seam of
 
 That was the whole conversation of the climb. The cold came up as we got height, out of the grass at the knees first, a long while before it found either of our collars. Below us the valley was pulling its ordinary sounds in for the night, a dog, a gate, somebody's last bucket. The glasshouse down the slope caught the west and held it a few minutes, as it did on clear evenings, and Tomas looked at that a while as we climbed and said nothing, and we came up onto the crown with the light almost done.
 
+Fly got up out of the grass to meet us and came as far as my knee and stopped, and then went back out to the edge of the crown and lay down there.
+
 Tomas went to the Study first, without being asked and without asking, straight to the one thing on a strange hilltop that had his own work in it. He put his hand to the door and swung it out and swung it back, and then stood a moment with his head a little down, listening to a hinge he had made two years before make no sound at all. Then he closed it, and squared it in its frame with one finger, and came back out to me on the grass.
 
 "Still true," he said.

@@ -240,6 +240,24 @@ A dog barked somewhere across the river, a long way off, two notes and then noth
 
 I said that a dog who could get from the square to the far bank in the time it took Kellard to tie a horse was a dog worth having. Soren gave the animal up with regret. Nothing ever got put down by him half looked at.
 
+She was on the track a little below the turn, lying at the edge of it, and she got up when we came round the bend and got in behind Soren and worked him along the last of the rise, close in at his heel, the way she worked the men at their lunch. He walked on and let her do it. He had left off minding it somewhere in the spring.
+
+"She still hasn't a name," he said.
+
+She had not. The valley had been at me about that since the week it learned I had a dog, and the names that came up the hill ran to three and four syllables, and one of them had a star in it.
+
+"You'd want to call her off a road," he said. "You can't do that with nothing."
+
+He stopped in the track to do the sum, and she stopped when he stopped and stood off a pace facing him. "It has to be short. You'd be saying it into a wind with a field between you, so it's one breath and no more of one. And it can't be a word you say for anything else, or she'll come when you never called her, and after a while she'll stop coming."
+
+Then: "Fly."
+
+"There are flies."
+
+"You don't say flies to a dog."
+
+I had nothing to put against it. She was Fly after that.
+
 Then he wanted to know about the rope.
 
 "Is it true it's cut a groove in the wheel?"
