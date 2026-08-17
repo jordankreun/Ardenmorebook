@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-8 open tracked changes. Synced from the reader.
+10 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -50,5 +50,16 @@ REVISED:
 
 ORIGINAL:
 > The track was worth the reading on the way. It had not been laid; it had been worn. Whoever went up it first had gone where the ground offered, holding the easy line where the slope stiffened and cutting straight over where it did not, and every foot since had agreed with him. A made road would have argued with that hill in three places at least. This one never did. I stopped twice going up and looked back down the line of it, and thought that the men who walked that track had surveyed it between them without one of them knowing he was at it.
+
+REVISED: (delete this paragraph)
+
+ORIGINAL:
+> Then I paced it, because I have never been able to stand on an open piece of ground and not pace it. That is my father's doing and none of mine. He walked every site he ever built on before he would put a pencil to paper, counting under his breath with his hands behind him, and I had the habit off him before I was ten. The crown ran a little over ninety of my strides the long way, north and south, and something under seventy across. It was not quite the table it looked from below. It fell away perhaps a foot and a half toward the west into a shallow dish where the grass grew coarse and dark, and standing in the middle of that dish I knew without any digging that it held water after rain and gave it up slowly. To the south the ground shrugged off clean and dried. The few thorn bushes up there all leaned the one way, and told me where the weather came from.
+
+REVISED:
+> Then I paced it, because I have never been able to stand on an open piece of ground and not pace it. That is my father's doing and none of mine. He walked every site he ever built on before he would put a pencil to paper, counting under his breath with his hands behind him, and I had the habit off him before I was ten. The crown ran a little over four hundred of my strides the long way, north and south, and something under two hundred and seventy across. It was not quite the table it looked from below. It fell away perhaps a foot and a half toward the west into a shallow dish where the grass grew coarse and dark, and standing in the middle of that dish I knew without any digging that it held water after rain and gave it up slowly. To the south the ground shrugged off clean and dried. The few thorn bushes up there all leaned the one way, and told me where the weather came from.
+
+ORIGINAL:
+> "And nobody since him?" "Nobody with the money to try since him," he said. "Which is not the same thing, and I'll not have it said as though it were."
 
 REVISED: (delete this paragraph)
