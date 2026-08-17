@@ -88,7 +88,7 @@ He turned the paper over and looked at the back, where there was nothing, and tu
 
 "Well." He folded it into three and put it inside his coat. "Then there it is in ink."
 
-Alice Bewick gave up her cottage's corner of the bottom-field, which was four acres and awkward, and took instead the whole of a ten-acre parcel with a sound old shed on it, nearer the lane, better ground, with a spring. Rent free for three years while she got it into heart, then a tenth, on the Wrays' terms, on the Wrays' paper. She read the agreement twice, asked one question about the shed roof, and signed it in a hand like a schoolmistress's. Her son would work that ground after her, and it would come to be one of the better small farms in the valley.
+Alice Bewick gave up her cottage's corner of the bottom-field, which was four acres and awkward, and took instead the whole of a ten-acre parcel with a sound old barn on it, nearer the lane, better ground, with a spring. Rent free for three years while she got it into heart, then a tenth, on the Wrays' terms, on the Wrays' paper. She read the agreement twice, asked one question about the barn roof, and signed it in a hand like a schoolmistress's. Her son would work that ground after her, and it would come to be one of the better small farms in the valley.
 
 The Tolls' widow was glad to be rid of that thistled scrap and gladder still to be paid something for it; I had no money, so what she took was a lifetime's firewood off my woodland strip, cut and carted, which cost me nothing but Ren's winter afternoons and which she counted a fortune. That is the whole substance of the deal that gave me the north side of the meadow entire.
 

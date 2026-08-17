@@ -12,7 +12,7 @@ It was early enough that the shadow of the wall still lay across half of it and 
 
 He was setting a lintel over a doorway for somebody's shed with the boy I had marked at Lira's, the dark one built long, and he did not stop when I came up, and I had the sense to wait until the stone was seated and pinned before I said anything. A man who interrupts another man's lintel deserves what he gets.
 
-They had the doorway built up in the corner of the yard against his own wall, jambs and all, as a builder will make a piece up on his own ground where the light is good and his tools are under his hand, and then take it apart again and cart it out to the shed it belongs to. The stone was already up on its props. The two of them were bringing it the last inch.
+They had the doorway built up in the corner of the yard against his own wall, jambs and all, as a builder will make a piece up on his own ground where the light is good and his tools are under his hand, and then take it apart again and cart it out to the barn it belongs to. The stone was already up on its props. The two of them were bringing it the last inch.
 
 So I stood out of the road and waited.
 

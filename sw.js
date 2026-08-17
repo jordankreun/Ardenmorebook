@@ -4,7 +4,7 @@
    the markdown with a ?v= cache-buster and cache:"no-store"; we normalize the
    URL (strip the query) for the cache key so offline lookups still hit. The
    /api/ sync endpoint is never cached (it is dynamic and authenticated). */
-const VERSION = "ardenmoor-v56";
+const VERSION = "ardenmoor-v57";
 
 /* THE APPLICATION GRAPH. If a file is missing from this list the app 404s
    offline — and unlike the old single self-contained file, a missing module is a
