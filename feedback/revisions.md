@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-10 open tracked changes. Synced from the reader.
+11 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -61,5 +61,10 @@ REVISED:
 
 ORIGINAL:
 > "And nobody since him?" "Nobody with the money to try since him," he said. "Which is not the same thing, and I'll not have it said as though it were."
+
+REVISED: (delete this paragraph)
+
+ORIGINAL:
+> I did not choose a spot. I took the measure of a piece of ground out of long habit, and put the figures away, and did not look at them again for months.
 
 REVISED: (delete this paragraph)
