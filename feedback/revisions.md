@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-13 open tracked changes. Synced from the reader.
+14 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -80,3 +80,9 @@ ORIGINAL:
 
 REVISED:
 > We had come up by then onto the first of the rough, where the walls give out and the wind owns the grass, and he swung his stick at the whole grey shoulder of it. "The high ground, all of it, the fell and the scrub above the tree line that runs back off the top of your hill farther than you'll walk in a day, that was nobody's and everybody's, sheep-run and weather; good ground enough in its way, and never once asked to be anything, for there's no man round here these forty years has had the money to ask it. Your man had the parish and the township set their marks to the whole of it, so it's yours now on the map, every stone and grouse of it. You've more untouched and unused land than one man could ever find a use for, on paper at least. You've not four hundred acres of it a plough has been over in ten years. Both of those are true, and you'd best learn to carry them in the one hand, for the valley will." He stopped on the path and turned and looked at me, and there was nothing unkind in it. "Land wants two things, and it's the same two things everywhere I've ever heard of. It wants hands and it wants a road. You've bought yourself a deal of land with neither, and I'd not have you find that out in your own time and think we'd hidden it. A stake in the mill-pond water besides. That agent of his sat at my table three evenings running with a map and a pencil, and every evening the map got bigger and the pencil got sharper. I've sold land my whole life. I never once sold it to a man who wanted the ground his ground would need before his ground needed it, nor took the trouble to square the bits nobody else had ever thought worth the bother."
+
+ORIGINAL:
+> "It could. It has been. That corner grew oats when I was courting, and grew them well." He swung the stick to the left. "That one was in grass and then it was in nothing. That one past the thorn was two men's, and then it was one man's, and now it's yours." He said it with no particular weight on it. "The drains are all in yet, under, if a man went and found them. The hedges want laying. There's a gate at the far end wants a hinge, and there's another one wired shut."
+
+REVISED:
+> "It could. It has been. That corner grew oats, and grew them well." He swung the stick to the left. "That one was in grass and then it was in nothing. That one past the thorn was two men's, and then it was one man's, and now it's yours." He said it with no particular weight on it. "The drains are all in yet, under, if a man went and found them. The hedges want laying. There's a gate at the far end wants a hinge, and there's another one wired shut."
