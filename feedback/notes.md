@@ -1,6 +1,6 @@
 # Reader notes: The Tower of Ardenmoor
 
-3 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
+4 open notes. Synced from the reader. (Resolved notes are omitted here; full history is in notes.json.)
 
 ## Chapter One: Ardenmoor
 
@@ -18,3 +18,7 @@ Check size here should be substantial but realistic
 > grouse
 
 Use a more modern word. Break up paragraph to put more emphasis on pond and water rights. Maybe they see it looking down into the valley
+
+> He’d not sit down, that first evening. Stood in my kitchen with his hat in his hands till I’d told him twice. Then out comes this map.”
+
+Penworth wouldn’t beg. He would be unwavering though.
