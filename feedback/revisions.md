@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-11 open tracked changes. Synced from the reader.
+12 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -68,3 +68,9 @@ ORIGINAL:
 > I did not choose a spot. I took the measure of a piece of ground out of long habit, and put the figures away, and did not look at them again for months.
 
 REVISED: (delete this paragraph)
+
+ORIGINAL:
+> It was more than I thought. I had known from Penworth's letter that there was land in the purchase beyond the hill; what I had not grasped, until Cael walked me over it, was the scale of it, nor how squarely the edges had been made to meet. Penworth, it turned out, had done what Penworth always did, which was to buy the elbow room before anyone thought to charge extra for it. "He didn't buy you a hill," Cael said, with real appreciation, as we came out past the last houses with Soren trailing and a keen bright wind coming down off the high ground. "He bought you the hill, which is mine to sell and worth nothing to a farmer, and you'll not make it worth more. But he didn't stop at the hill, your man. The woodland along the low road, now, the half of that was mine and the half of it was old Harrow's, who's been six years dead and whose people down the coast had let it stand and rot for want of anyone at hand to say what to do with it; your agent found them and made it worth their while to sign."
+
+REVISED:
+> It was more than I thought. I had known from Penworth's letter that there was land in the purchase beyond the hill; what I had not grasped, until Cael walked me over it, was the scale of it, nor how squarely the edges had been made to meet. Penworth, it turned out, had done what Penworth always did, which was to think an innumerable count of steps ahead and buy me elbow room before anyone thought to charge extra for it. "He didn't buy you a hill," Cael said, with real appreciation, as we came out past the last houses with Soren trailing and a keen bright wind coming down off the high ground. "He bought you the hill, which is mine to sell and worth nothing to a farmer, and you'll not make it worth more. But he didn't stop at the hill, your man. The woodland along the low road, now, the half of that was mine and the half of it was old Harrow's, who's been six years dead and whose people down the coast had let it stand and rot for want of anyone at hand to say what to do with it; your agent found them and made it worth their while to sign."
