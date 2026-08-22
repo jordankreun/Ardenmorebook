@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-20 open tracked changes. Synced from the reader.
+21 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -122,3 +122,8 @@ ORIGINAL:
 
 REVISED:
 > We parted at the end of the lane with the first windows going yellow along the street below. Cael said he would send word when the papers came. Then he stood a moment. Then he said, "get better boots," and went off up his path with the boy at his heel.
+
+ORIGINAL:
+> The table under the eaves was three inches low for writing, so I wrote the first half of it sitting with my knees in the way and the second half standing at the sill. The pen wanted cutting and I cut it badly by candlelight.
+
+REVISED: (delete this paragraph)
