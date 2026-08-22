@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-18 open tracked changes. Synced from the reader.
+19 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -110,3 +110,9 @@ ORIGINAL:
 
 REVISED:
 > He turned and looked at me then, straight, an old man laying the truth on the table between us where I could not miss it. "So there it is, and you'll have it from me and not from the tavern. That's what you're buying. A hill that put my father on his knees and has thrown off every roof and wall any soul has tried to set on it in the two lifetimes I can account for. My grandmother loved it and heard God-knows-what in it and left it to me and I've kept it forty years for no reason I could ever say aloud, and now here's you, come up the road with a wizard's trade and a dead man's..." He stopped himself on whatever he had seen in my face, and did not finish it, and went on more quietly. "And quiet you're after, right enough. I'll not cheat you, is my whole point. If you buy this hill you may spend years and a great deal of money learning what my father learned in one summer. I'd think less of myself if I let you sign without hearing it said."
+
+ORIGINAL:
+> It was not only the honesty. He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay. I could not get the two facts to lie apart. His father had gone up there wanting a level floor and four square walls, and he had *told* the hill so, the way a fair and stubborn mason tells any ground what it will do. I did not yet have the words for what I suspected and would not have them for months. What I had was the plain unreasonable feeling that every man who ever came at that hill had come at it the same way, and that the way was wrong.
+
+REVISED:
+> It was not only the honesty. He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay.
