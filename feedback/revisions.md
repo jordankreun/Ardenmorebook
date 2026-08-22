@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-19 open tracked changes. Synced from the reader.
+20 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -116,3 +116,9 @@ ORIGINAL:
 
 REVISED:
 > It was not only the honesty. He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay.
+
+ORIGINAL:
+> We parted at the end of the lane with the first windows going yellow along the street below. Cael said he would send word when the papers came. Then he stood a moment. Then he said, "Wear better boots," and went off up his path with the boy at his heel.
+
+REVISED:
+> We parted at the end of the lane with the first windows going yellow along the street below. Cael said he would send word when the papers came. Then he stood a moment. Then he said, "get better boots," and went off up his path with the boy at his heel.
