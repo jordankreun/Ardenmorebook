@@ -17,4 +17,4 @@ Check size here should be substantial but realistic
 
 > grouse
 
-Use a more modern word
+Use a more modern word. Break up paragraph to put more emphasis on pond and water rights. Maybe they see it looking down into the valley
