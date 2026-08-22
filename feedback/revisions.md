@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-15 open tracked changes. Synced from the reader.
+16 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -92,3 +92,9 @@ ORIGINAL:
 
 REVISED:
 > "The mill'll cut you whatever you want cut," Cael said, watching me look. "He'll not cheat you, either. But he's a valley trade. He can't eat wood."
+
+ORIGINAL:
+> It was on the crown, with the bounds walked and the light going long, that Cael told me about his father.
+
+REVISED:
+> It was on the crown, with the light going long, that Cael told me about his father.
