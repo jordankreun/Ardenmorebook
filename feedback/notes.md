@@ -17,4 +17,4 @@ Check size here should be substantial but realistic
 
 > grouse
 
-Use a more modern wors
+Use a more modern word
