@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-17 open tracked changes. Synced from the reader.
+18 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -104,3 +104,9 @@ ORIGINAL:
 
 REVISED:
 > He did not make a story of it. "My father tried to build up here," he said, looking not at me but out over the valley, leaning on his stick. "When I was smaller than that one." A nod at Soren. "A shelter, only. A stone hut for the high pasture, four walls and a roof, the sort of thing he'd thrown up a dozen times on a dozen other slopes and never thought twice about. He was a fair mason, my father." He was quiet a moment. "It would not stand. The first wall went up and came down in the night with no wind to blame. He set it again, deeper, and it came down again. Timbers he'd cut true went in crooked, or came out crooked, or would not sit at all. Mortar that held everywhere else in the valley would not cure up here. Stayed wet, stayed soft, a fortnight, a month. He was not a fanciful man, my father, no more than I am. He was a stubborn one. He gave that hill a whole summer of his life and the hill gave him back a heap of fallen stone, and at the end of it he came down and never went up again, and he told me a thing I have kept word for word, for I was a boy then and it went in deep: *the ground won't take it, son. Some ground won't. Leave it be.*"
+
+ORIGINAL:
+> He turned and looked at me then, straight, an old man laying the truth on the table between us where I could not miss it. "So there it is, and you'll have it from me and not from the tavern. That's what you're buying. A hill that put my father on his knees and has thrown off every roof and wall any soul has tried to set on it in the two lifetimes I can account for. My grandmother loved it and heard God-knows-what in it and left it to me and I've kept it forty years for no reason I could ever say aloud, and now here's you, come up a bad road with a wizard's trade and a dead man's..." He stopped himself on whatever he had seen in my face, and did not finish it, and went on more quietly. "And quiet you're after, right enough. I'll not cheat you, is my whole point. If you buy this hill you may spend years and a great deal of money learning what my father learned in one summer. I'd think less of myself if I let you sign without hearing it said."
+
+REVISED:
+> He turned and looked at me then, straight, an old man laying the truth on the table between us where I could not miss it. "So there it is, and you'll have it from me and not from the tavern. That's what you're buying. A hill that put my father on his knees and has thrown off every roof and wall any soul has tried to set on it in the two lifetimes I can account for. My grandmother loved it and heard God-knows-what in it and left it to me and I've kept it forty years for no reason I could ever say aloud, and now here's you, come up the road with a wizard's trade and a dead man's..." He stopped himself on whatever he had seen in my face, and did not finish it, and went on more quietly. "And quiet you're after, right enough. I'll not cheat you, is my whole point. If you buy this hill you may spend years and a great deal of money learning what my father learned in one summer. I'd think less of myself if I let you sign without hearing it said."
