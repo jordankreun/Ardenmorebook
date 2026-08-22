@@ -25,4 +25,4 @@ Penworth wouldn’t beg. He would be unwavering though.
 
 > Third evening he’d been at the parish clerk and had the strips copied out fair, every corner and every argument anybody ever had about a corner, and he set it in front of me and asked was that right.
 
-Parish is small enough that there would be no dedicated clerk and Carl would also act as the clerk. There would be a meeting in the parish hall where they would look at record so old nobody knew they were there for certain
+Parish is small enough that there would be no dedicated clerk and he would meet with a part time parish member that is anlso merchant and also acts as the clerk. There would be a meeting in the parish hall where they would look at record so old nobody knew they were there for certain
