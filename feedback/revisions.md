@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-14 open tracked changes. Synced from the reader.
+15 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -86,3 +86,9 @@ ORIGINAL:
 
 REVISED:
 > "It could. It has been. That corner grew oats, and grew them well." He swung the stick to the left. "That one was in grass and then it was in nothing. That one past the thorn was two men's, and then it was one man's, and now it's yours." He said it with no particular weight on it. "The drains are all in yet, under, if a man went and found them. The hedges want laying. There's a gate at the far end wants a hinge, and there's another one wired shut."
+
+ORIGINAL:
+> "The mill'll cut you whatever you want cut," Cael said, watching me look. "He'll not cheat you, either. But he's a valley trade. He can't eat a wood."
+
+REVISED:
+> "The mill'll cut you whatever you want cut," Cael said, watching me look. "He'll not cheat you, either. But he's a valley trade. He can't eat wood."
