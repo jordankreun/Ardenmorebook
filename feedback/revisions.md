@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-4 open tracked changes. Synced from the reader.
+5 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -28,3 +28,9 @@ ORIGINAL:
 
 REVISED:
 > He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay.
+
+ORIGINAL:
+> He stopped on the path and turned and looked at me, and there was nothing unkind in it. "Land wants two things, and it's the same two things everywhere I've ever heard of. It wants hands and it wants a road. You've bought yourself a deal of land with neither, and I'd not have you find that out in your own time and think we'd hidden it. That agent of his sat at my table three evenings running with a map and a pencil, and every evening the map got bigger and the pencil got sharper. I've sold land my whole life. I never once sold it to a man who wanted the ground his ground would need before his ground needed it, nor took the trouble to square the bits nobody else had ever thought worth the bother."
+
+REVISED:
+> He stopped on the path and turned and looked at me, and there was nothing unkind in it. "Land wants two things, and it's the same two things everywhere I've ever heard of. It wants hands and it wants a road. You've bought yourself a deal of land with neither, and I'd not have you find that out in your own time and think we'd hidden it. That man of yours sat at my table three evenings running with a map and a pencil, and every evening the map got bigger and the pencil got sharper. I've sold land my whole life. I never once sold it to a man who wanted the ground his ground would need before his ground needed it, nor took the trouble to square the bits nobody else had ever thought worth the bother."
