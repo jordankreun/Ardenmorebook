@@ -78,13 +78,11 @@ He thought about it. He was not a quick man, but he was an honest one, and he st
 
 "So there's no use in it," he said.
 
-"There's use in it. There's no bargain in it, here." I put my hands in my pockets, because they were cold and because it was easier than saying the rest. "Shorten her grade by a foot in the hundred and you'd save more than I could."
-
-"Aye," he said. "Tell the company."
+"There's use in it. There's no bargain in it, here." I put my hands in my pockets, because they were cold and because it was easier than saying the rest.
 
 The rest was that I could have done it, once, given a winter and a free hand and somebody else's money, and that I had spent three years not doing anything of the kind.
 
-The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out, and they never want tending by a man who took twenty years to make. That is the whole of why the country runs on coal and not on us, and there is no failure of anybody's imagination in it. It is a sum, and an honest sum comes out the same every time.
+The answer never changes, because the arithmetic never does. Put one of the few hands that can do the work into an engine and you have bought an engine and lost a bridge, or a mine, or a harbour wall. Iron and fire and water never run out.
 
 The whistle went. He was up the side of the tender like a man going up his own stairs. I walked back down past the horse-box, where Snow had her head over the door and her position unaltered, and got into the cold carriage, and we went on.
 
@@ -190,13 +188,7 @@ That was the whole of our conversation. He gave her a measure of oats and a slab
 
 Inside, the inn was warm and low-beamed and half full of the evening's regulars, and the woman behind the bar took one look at me and had the road, the errand, and the name before I crossed the room. Her name was Lira. She kept the inn the way a good captain keeps a ship, and the keeping never showed. She was a spare, measured woman who gave a stranger nothing he had not paid for, neither warmth nor its opposite, and it was a good while before I understood that this was not coldness but economy. She kept her regard as she kept her good glasses and did not bring it out for just anyone.
 
-She never once appeared to look up from the glass she was drying.
-
-"Wainford road," she said.
-
-"It is."
-
-"Four days on it, by the boots." She put the glass on the shelf and took another off the rack. "You'll have come about the hill."
+She put the glass on the shelf and took another off the rack. "You'll have come about the hill."
 
 I said that I had.
 
@@ -248,8 +240,6 @@ He thought about that longer than the question deserved, or else exactly as long
 
 "It's not hard. It's only long." He drank, and set the cup down. "You'd be surprised how few men can stand the length of it. They can stand being disliked well enough. It's the being remembered that undoes them."
 
-I said I had come a fair way to get somewhere nobody remembered anything about me at all. He laughed at that, one short breath, and said that in that case I had chosen my valley badly.
-
 "How long," I asked, "before a man stops being the stranger here?"
 
 "Longer than you'll care for." He said it without any softening in it whatever, and then, because he was not a cruel man, he gave me the rest. "But it starts the first time you're wanted for something and you turn up. Not the first time you buy something. Anybody can buy something."
@@ -281,8 +271,6 @@ It was a better room than I had any right to expect at the end of that road, and
 I stood looking at the framing rather longer than a guest looks at framing. My father would have read that ceiling in a minute and told you what the man had been thinking while he cut it. I got as far as noticing that the collar ties were pegged and not nailed, and that somebody had cared, and left it there.
 
 The washstand had a china basin and a jug already filled and a cloth folded over the rim of the jug. The bed was made hard and flat and the linen had been out in a wind. There was a chair, a candle, a peg on the back of the door, and a strip of rag rug on the boards for a man's feet in the morning. Nothing in the room was new. Everything in it had been chosen once by somebody sensible and then kept.
-
-I set my bags down under the window. I got my boots off and set them where I would fall over them in the morning, which is where I have always set them. I did not take my coat off. Then I put the candle out.
 
 I did not sleep at once. I sat on the edge of the strange bed in the dark with my coat still on and after a while took a letter out of it, not the three pages from Penworth that had carried me here, but the one I had carried far longer and never needed to open twice, because I knew every word already. It had come three weeks late, in another spring, and told me a thing I had been too far from home to prevent. I did not open it. I held it, and looked out the window to where the hill stood as a darker shape against the dark, keeping whatever it kept. I thought, with no more weight on the thought than that, *I will look at you in the morning, and then I will decide.*
 
