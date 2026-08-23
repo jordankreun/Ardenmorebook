@@ -2,4 +2,4 @@
 
 0 open tracked changes. Synced from the reader.
 
-All records applied to the manuscript 2026-08-12 and marked resolved; full history is in revisions.json.
+Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
