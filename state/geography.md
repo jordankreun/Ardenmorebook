@@ -88,7 +88,8 @@ Legend: ● water feature · ⚙ mill · ♠ the Old Oak · ▔╲╱ the hill.
 - **THE CABIN (built Ch 9)** — Emlyn's small **2-room TIMBER house** (⚠️ WOOD, not stone — retcon
   2026-07-13), his residence from spring Yr2. Built **OFF the crown** (crown reserved for the future
   tower) on a **sheltered south-and-west shoulder below the crown**, near the **never-dry south-face
-  spring** (~30 steps; feeds the bath). **Maret's oak framing + pale boards, warded vs rot; honey-
+  spring** (~30 steps; feeds the bath, by way of the Ch 9 **well** sunk nine paces off the
+  door-corner). **Maret's oak framing + pale boards, warded vs rot; honey-
   coloured, does NOT look kin to the grey stone Study** ("the poor cheerful cousin"). **Rooms:** a **main room** (hearth, kettle,
   table, chair, a shelf of oft-read books — the whole of a life in one warm room) + a **bedchamber**
   (morning window) with a **small walled bath alcove** (cold from the spring, warm from a copper on the
@@ -210,6 +211,7 @@ what's fixed is which places exist and who holds them.
 | **The mill** + timber yard + **mill pond** | **Maret** | On the river at the hill-ward edge (Emlyn passes it heading up to the hill); stacks of drying timber. | [PAGE ch1–2] |
 | **Brenna's cottage** + walled herb garden | **Brenna** | At the lane's end, by the **birches**; low stone house, drying green in the window. | [PAGE ch1] [CANON: "by the birches"] |
 | **Kellard's yard** (dry-goods store) | **Kellard** | The store that is also "the bank and the post and the parliament of the village"; has a **back storeroom** (flour, salt, good candles) where a wrongness-**cold-spot** had settled over a buried grief until Emlyn talked it out (Ch7). Kellard extends Emlyn **credit against the spring**. | [PAGE ch7] |
+| **The parish hall** | shared | Where the parish's papers are kept. Opened up for Penworth on his third evening; he sat two hours in it with **the part-time officer who keeps the parish's business when he is not keeping his own counter** (a merchant; deliberately UNNAMED on the page), turning out deeds nobody living was certain were in the building. | [PAGE ch2] |
 | **The square** | — | Village common; market mornings; the well/pump (village well, distinct from the hill spring). | [OPEN placement] |
 | **Essa's joiner shop** | **Essa** | A furniture-maker's shop **off the square**; fine inlay / true-fitted drawers / small boxes. Essa is past fifty with failing eyes; buys one of the first Series lamps. | [PAGE ch8] |
 | **The wash-house** | shared | Down by the **river**; communal laundry. | [PAGE ch7] |
@@ -232,9 +234,26 @@ peter out into trackless grass (a working village with an inn and mill has a roa
 ## WATER
 
 - **The river** — runs through the village; powers Maret's mill. [PAGE ch1]
-- **The mill pond** — at Maret's mill; Emlyn holds a partial water stake. [PAGE ch2]
+- **The mill pond** — at Maret's mill; Emlyn holds a partial water stake. A **leat** runs off the
+  pond through the grass; **three or four men in the bottoms take water off it and the mill grinds
+  off it, none of them holding a written right** — use only. The stake is written into the holding
+  and attaches to the hill, which is why nobody exercised it: no one on that hill ever cared to.
+  Cael shows it to Emlyn **from the rough, with his stick** ("There is now"), and Emlyn dismisses it;
+  Ch 12 calls that moment back verbatim. [PAGE ch2, ch3, ch12]
 - **The hill spring** — cold, clear, on the south face, never dry in living or grandmother's
-  memory; Emlyn "will build his life around it." The future well taps it. [PAGE ch2] [CANON: well]
+  memory; Emlyn "will build his life around it." [PAGE ch2]
+- **EMLYN'S WELL (built Ch 9 — CANON PROMISE NOW PAID)** — a **stone-lined pit, 6 ft deep**, dry
+  fieldstone off the shoulder with flags on the floor and a cover, sunk **off the cabin's
+  door-corner** (**nine paces** from the door; Soren paced it). Jorin set the place, Ren and Emlyn
+  dug, Jorin laid; three days. **It does NOT tap the spring dry.** Emlyn set a stone across the lip
+  of the spring's bowl at an angle so that **a SHARE of the flow turns aside into a short stone
+  channel** falling the whole way to the pit; **the rest goes on down the spring's own bed as it
+  always has**, and the pit's **overflow returns to that same bed forty feet below**. The spring
+  gives more than one house can drink. **A builder's answer — no magic in it anywhere.** The
+  practical reason on the page: an open spring silts, fouls, and freezes, and he wanted clean water
+  at the door in February. Pays Soren's Ch 9 line "You'll not want to be carrying water far in
+  February" (thirty steps to the spring → nine to the well); feeds the cabin's bath alcove.
+  ⚠️ Distinct from **the village square well** (Ch 14). [PAGE ch9] [was CANON: well]
 - **The village well / pump** — implied (a village has one); location [OPEN].
 
 ---

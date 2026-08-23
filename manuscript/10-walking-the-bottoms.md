@@ -2,7 +2,7 @@
 
 ## Book One
 
-### Chapter Ten: Walking the Bottoms
+### Chapter Ten: The Wrays
 
 I have got ahead of myself with the house. Go back to the front of that spring, before the barn and the drawing and the sledges on the track, and the good flat ground is still lying under thistle and I still have no notion what to do with it.
 

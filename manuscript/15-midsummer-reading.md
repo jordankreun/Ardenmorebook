@@ -112,7 +112,7 @@ I had thought, when his letter said he would come himself with the summer's acco
 
 I took the hired horse down to the barn first and got the saddle off her and a bucket into her, and she was a patient plain brown creature who had been ridden a long way by a man with no particular malice in him, and she bore me no grudge for any of it. Then I came back up and found my man of affairs standing in the middle of my main room with his hat still in his hand, turning slowly on the spot.
 
-Two rooms. A hearth, a kettle, a table, one good chair and one that was not. A shelf of the books I actually read, as against the ones I keep. A door through to the bedchamber with its morning window, and the small walled alcove off it where I wash, in water carried up from the spring cold enough to make a man sing.
+Two rooms. A hearth, a kettle, a table, one good chair and one that was not. A shelf of the books I actually read, as against the ones I keep. A door through to the bedchamber with its morning window, and the small walled alcove off it where I wash, in water out of the well cold enough to make a man sing.
 
 "It is very small," he said.
 
@@ -140,7 +140,7 @@ I have never entirely worked out why. He said it was the horse needing rest. The
 
 So I showed him the hill, and he came round it at his own pace with his hands behind his back like a man valuing a property. He could not help that. Nor could he help the questions, which were not about value at all.
 
-Where did the water come from. I showed him the spring on the south face, thirty steps below the cabin, and he crouched and put his hand in it and took it out again fast, and said nothing, and looked at the cabin, and then at the spring again, and I could see him laying the two of them side by side and finding the arrangement satisfactory. Who brought the bread. A boy from the village, every morning. Every morning, in the winter as well. Every morning the drifts allowed, I said, and he let that go by with the smallest movement of his chin.
+Where did the water come from. I showed him the well nine steps off my door, and the spring on the south face that fed it, and he crouched and put his hand in and took it out again fast, and said nothing, and looked at the cabin, and then at the water again, and I could see him laying the two of them side by side and finding the arrangement satisfactory. Who brought the bread. A boy from the village, every morning. Every morning, in the winter as well. Every morning the drifts allowed, I said, and he let that go by with the smallest movement of his chin.
 
 Where did the mail come to. Kellard's, and up the hill when somebody was coming up anyway.
 

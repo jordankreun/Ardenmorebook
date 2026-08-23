@@ -204,7 +204,7 @@ That answer went round the room and was found wanting in about the way I expecte
 
 After that I was, if not a friend, then at least a known quantity, which in a village is the first step toward the rest.
 
-I went up the hill every day of that fortnight, whether there was anything to do up there or not, which for a good while there was not. I walked the bounds until I knew them in the dark. I sat on the crown and let the valley go about its business below me and did a great deal of the particular nothing that looks, to a busy man passing, exactly like idleness, and is the slow work of coming to know a place well enough to ask it for something.
+I went up the hill every day of that fortnight, whether there was anything to do up there or not, which for a good while there was not. I walked the hill and the slopes under it until I knew them in the dark. I sat on the crown and let the valley go about its business below me and did a great deal of the particular nothing that looks, to a busy man passing, exactly like idleness, and is the slow work of coming to know a place well enough to ask it for something.
 
 I paced the crown out, corner to corner and then across, and got one number on the Monday and a different number on the Tuesday, and could not make the two agree. Nothing up there is square and nothing up there is flat, whatever it looks like from the lane. A crown that reads as a table from below turns out, walked, to be a slow shallow dish with a lip on the west and no lip at all on the east, and that is the difference between where the wind finds you and where it does not.
 

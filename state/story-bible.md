@@ -671,7 +671,7 @@ Load-bearing canon only. The full blocks, with the drafting reasoning, are in
   unopened letter. **Promises made: none standing.** The inn is the only three-storey building in
   Ardenmoor. First-night anomaly at the inn: the floorboards, then the basin water moving once,
   dismissed as timber in the cold (added 2026-07-31; a live blind seed — see thread-ledger).
-- **Ch 2 — Walking the Bounds.** Emlyn climbs the crown alone: **no epiphany**, a view, a great
+- **Ch 2 — Hands and a Road.** Emlyn climbs the crown alone: **no epiphany**, a view, a great
   sweeping quiet, and the real turn — *he does not want to leave* (first wanting in three years,
   which reads to him as alarm). Marks the old oak. The room warns "nothing stands on that hill"
   ("you and Cael's father both"). **Jorin named by Cael**; his son present but **unnamed** (Ren

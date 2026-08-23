@@ -32,6 +32,8 @@ Format: `thread | planted | last watered | state | note`
     Tomas's long solitary hearing        | Ch 12 | Ch 26 | PAID   | vindication in full on the crown
     Tomas's promise, "the same hour"     | Ch 12 | Ch 32b| PAID   | closed in the coda; was ORPHANED until 2026-07-29
     Ren's true corner                    | Ch 5  | Ch 29 | PAID   | witnessed Ch 25, offered Ch 27, articled Ch 29
+    the well on the south face           | Ch 2  | Ch 9  | PAID   | promised in geography.md as [CANON: well] and never written until 2026-08-12; he DIVERTS a share and the spring runs on
+    water on the crown                   | Ch 2  | --    | OPEN   | deliberately never solved: the crown has no water, which is why he does not live on it. Answered three times with less force each time -- Ch 9 he moves himself, Ch 9 he cuts a channel, Ch 20 he asks
     the quarryman's dog                  | Ch 5  | Ch 9  | PAID   | was an ORPHAN until 2026-08-12; his four visits "about the dog" now bring the mother of Emlyn's
     "There's always a dog" (Soren)       | Ch 14 | Ch 14 | PAID   | was an ORPHAN; the hypothetical dog he gives up with regret becomes real four chapters later, and he names her
     FLY — a sheepdog with no flock       | Ch 9  | Ch 32 | PAID   | arrives Ch 9, named by Soren Ch 14, nine days of real work at the Ch 16 harvest, the "nobody" of Ch 20, shut out at the cellar door Ch 32

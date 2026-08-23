@@ -15,6 +15,48 @@
  surveyed per-chapter floors; `32b-coda.md` byte-identical, as instructed. Same method and the same
  four prohibitions. **171 findings were raised by the adversarial verifiers and every one repaired**
  — see the changelog. Zero prose-lint FAILs across all 37 files.
+- **2026-08-12 — AUTHOR FEEDBACK APPLIED, AND CH 2 UN-WALKS THE BOUNDS.** 22 tracked changes and
+  6 notes off the reader, all in Ch 1 and Ch 2; 8 of the 22 were deletions.
+  ⚠️ **THE BOUNDS WALK IS RETIRED (author, 2026-08-12).** The holding is locked at "something above
+  five thousand acres" (geography.md), about 8.6 square miles — Emlyn cannot have walked its
+  boundary in a day, and Cael's own line in the same chapter says so: the fell "runs back off the
+  top of your hill farther than you'll walk in a day."
+  **It was also spending a later reversal.** Ch 10, Ch 16 and Ch 17 all turn on Emlyn NOT knowing his
+  own land ("the asking took me eleven days on foot"; "I had put it on a list… and I had not touched
+  it since"). A Ch 2 that walked the bounds cashed that two years early. Ch 2 is now a full-day tour
+  of the WORKING ground with the fell running away past walking, which the scene always was — only
+  the language claimed otherwise.
+  **RETITLES:** Ch 2 "Walking the Bounds" → **"Hands and a Road"** (from Cael: "Land wants two
+  things… It wants hands and it wants a road"). Ch 10 "Walking the Bottoms" → **"The Wrays"**, since
+  its title existed only to rhyme with the old Ch 2 and the outline never adopted the rhyme anyway.
+  Filenames unchanged: phrase-registry is keyed by filename.
+  **DOWNSTREAM REPAIRED:** Ch 3's "I walked the bounds until I knew them in the dark" and Ch 4's
+  routine midday circuit of "what I had bought" both recast to the hill and its skirts — Ch 4's
+  itinerary was already exactly that, so only the claim changed. Three callbacks in Ch 4 and Ch 6
+  recast, deliberately not all to the same formula. The ONLY surviving "bounds" in the manuscript
+  are two pieces of legal language: Ch 3's deed recital and Ch 10's lease clause.
+  **THE WELL, and the author's correction to it.** geography.md had promised "the future well taps
+  it" and it had never been written. The author ruled it DIVERTS rather than taps: Emlyn sets a
+  stone across the lip of the spring's bowl so a share turns into a cut channel, "and the rest went
+  on down the bed as it had always gone", with the pit's overflow rejoining forty feet below. Six
+  feet, dry fieldstone, flags, a cover, nine paces off the cabin door. Jorin set the place, Ren and
+  Emlyn dug, three days; the channel took Emlyn a week and used no magic at all.
+  It is the Ch 18 rule two years early — "Nobody was to be worse off" — applied to water before he
+  ever applies it to land. **The book never says so**, and must not: the fact that the flow serves
+  both is stated once, in the mechanism, and never remarked on.
+  Water now stages in four moves: Ch 2 he sees the problem and judges it hard; Ch 9 he sites the
+  cabin near the spring; Ch 9 he leads a share into the pit; Ch 20 he asks the water at the elbow
+  with his hands flat. **The crown itself still has no water, on purpose** — which is why he does
+  not live on it.
+  **THE PARISH OFFICER IS KELLARD.** The note asked for a part-time parish man who is also a
+  merchant; Kellard already keeps the supply yard and the store, so no new named entity was
+  invented. He is now planted in Ch 2 in Cael's mouth, four chapters before Emlyn meets him, and the
+  man who keeps the parish's oldest records is the same man with something buried under his floor
+  (Ch 7).
+  Also: Penworth recast from hat-in-hands to unwavering; the mill-pond and the water rights given
+  their own weight; "grouse" modernised; Ch 1's Emlyn now asks what he owes and offers to settle,
+  which repairs Lira's "Did I ask you?"
+
 - **2026-08-12 — THE DOG THREAD ADDED** (developmental mode, author instruction). A sheepdog bitch,
   FLY, woven through 18 chapters: +2,110 words on 223,631 (+0.9%). ADD-ONLY — every pre-existing
   sentence in all 18 files survives verbatim, verified mechanically by the per-Part verifiers and the
@@ -115,13 +157,13 @@ believe slept at all" aside CUT.)
 ⚠️ TRACKED CHANGES APPLIED 2026-08-02: "I drew much of it myself" → "I drew a small part of it myself" (the river house was his father's firm's work, not his design); the closing "I did not answer." cut; and in the railway arithmetic "eaten more in the making and keeping" → "eaten more in the making" — which SETS CANON: the wizard's cost is in the MAKING, and a set working does not thereafter feed on its maker, though it may draw on an external source (the LUMEN drinks the hill).
 ⚠️ REVISED 2026-08-09 (reader pass). THE RIVER HOUSE WAS A COMMISSION: "I commissioned it of my father's firm. That is the polite way of saying I went to the men who had taught me and told them what I wanted instead of asking them what was good. I drew a small part of it myself… and left them the rest of the drawing and the long patient business of putting it up." Canon: he did NOT design it.
 
-[02] Walking the Bounds — Emlyn climbs the crown alone mid-morning (NO epiphany, reframed: not a
+[02] Hands and a Road — Emlyn climbs the crown alone mid-morning (NO epiphany, reframed: not a
 grand moment, "neither let down nor carried away," just a view and a great sweeping quiet, one
 faint deeper-than-height quiet set aside; the alarming discovery that he does not want to leave),
 comes back to Lira's for midday and marks the builder (whom Cael names as Jorin) and his still-
 unnamed son (neither laughs when the room warns "nothing stands on that hill"). Emlyn takes that
 warning as village SUPERSTITION + poor masonry, and as a challenge, not a caution. Cael invites
-him to walk the bounds but says come tomorrow. THE NEXT DAY (past noon) he walks the full bounds
+him to see the ground but says come tomorrow. THE NEXT DAY (past noon) Cael walks him over the WORKING ground
 with Cael and Soren, learning Penworth assembled the holding from many owners (hill + half the
 woodland were Cael's; the rest from dead Harrow, the Tolls, four men's idle bottoms-acres, and
 common/parish ground no one owned), and hearing how Cael's father's shelter would not stand forty
@@ -135,7 +177,7 @@ PLANTED (→ twist); never-dry south-face spring; deeper-green eastern shelf (Em
 something, unnamed, do not preempt Brenna); Soren laid his bare hand flat on a crown-stone
 (unexplained); Jorin & Ren introduced; thesis foreshadowed ("never once been asked").
 (Reader-note pass 2026-07-05: climb ~30-min not "long"; early-spring cold grounded; crown moment
-de-epiphanied; warning = superstition/challenge; bounds walk moved to NEXT DAY; land multi-owner;
+de-epiphanied; warning = superstition/challenge; the walk moved to NEXT DAY; land multi-owner;
 tracked changes "It is a perfectly fine hill... I would build on it" + "woodland" not "strip".)
 (Feedback-engine whole-book pass 2026-07-06: cut the mid-sentence editorializing parenthetical
 "(and I set this down plainly, because it is the heart of the whole matter)" on the crown's
@@ -492,12 +534,12 @@ notes were anchored to superseded/lean text; intent mapped onto current versions
 
 ## RECAP LEDGER
 
-[10] Walking the Bottoms — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
+[10] The Wrays — Spring Yr2 (~12–13 mo). ⚠️ NEW CHAPTER, split out of Breaking Ground 2026-07-15 at
 the author's request; ALL later chapters shift +1 (book now ~32 ch). 2,050w, 62% dialogue. Emlyn cannot
 farm, so he goes to CAEL, who names HAL and BESS WRAY. The tenancy negotiation is now the chapter's
 spine as a two-hander (Hal: "There's a year's work in it before it gives you a bushel"; Bess from the
 doorway: "A fifth." and "Men find reasons," answered with the paper and Cael). They come across on one
-borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"; retitled to rhyme with Ch 2 "Walking the Bounds"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, river end upward, and shows him rather than tells him — Tobin
+borrowed cart. **THE WALK (rebuilt 2026-07-15 at the author's direction: "a walk and the Wrays"):** a fortnight after they come across, HAL WALKS HIM OVER HIS OWN GROUND, river end upward, and shows him rather than tells him — Tobin
 Hask's 6-acre strip through the middle of the best field, a widow's cottage corner, 4 meadow acres held
 by a stranger, and ~60 acres gone back to thistle because the only lane runs through a gate wired shut
 a decade ago over a forgotten quarrel. Hal does not ask him to fix it; he comes so Emlyn cannot later

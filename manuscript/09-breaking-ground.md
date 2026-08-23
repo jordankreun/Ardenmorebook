@@ -214,6 +214,16 @@ Soren had my hazel sticks gathered up in his fist by then and stood at the low c
 
 They had the whole of my house laid out on the ground in about the time it takes a kettle to come on. I stood out of the way of it from first peg to last, and was glad enough to.
 
+The well went in before the frame did. A spring in the open is a good thing in June and a poor one in February. It silts, it takes whatever the weather and the sheep put into it, and in a hard week it goes to grey ice that a man has to break with his boot-heel. I wanted water at my door in the worst month of the year, and I wanted it clean, and that meant a lined pit with a cover on it.
+
+Jorin set the place off the door-corner, low enough that the water would come to it of itself. We went down six feet, Ren and I digging and Jorin laying as we went, dry fieldstone off the shoulder with the joints broken and flags set on the floor. Three days.
+
+The feed I cut myself, and it took me a week. The spring came up into a shallow bowl and went off south down a bed older than anything I owned, and it gave more water than one house could drink. I set a stone across the lip of the bowl at an angle, so that a share of it turned aside into a stone channel laid to fall the whole way to the pit, and the rest went on down the bed as it had always gone. The pit's overflow I took back into the same bed forty feet below.
+
+Soren paced it out from the door while I was bedding the last of the channel stones, and came back, and stood looking down into the water.
+
+"Nine."
+
 The timber I bought myself. I have never been able to leave that part of a building to another man, and on a building site it is very nearly the only part I am fit to be trusted with. Maret's yard sat on the river at the hill-ward edge of the village, and the mill made a noise a man could stand inside of, and Maret was down the far end of it, and did not turn round until I was most of the way to him.
 
 He came out with sawdust in the grey of his hair, and read my list, and said nothing about it. Then he walked, and I walked after him, and under the shed roof he laid his flat hand on the end of a stack and left it there. That was the whole of his recommendation.
