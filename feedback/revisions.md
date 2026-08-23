@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-2 open tracked changes. Synced from the reader.
+3 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -16,3 +16,9 @@ ORIGINAL:
 > Cheap ground was cheap because it was poor. I had brought that out from the city with me, and one good field along a river was not going to shift it. So I was glad of the field, and went on, and Cael let me be glad.
 
 REVISED: (delete this paragraph)
+
+ORIGINAL:
+> "Four men had this," he said, as we went along the headland. "Four men and a parish. Now it's the one holding, and that's the first honest thing anybody's done to it since I was a lad."
+
+REVISED:
+> "Four men had this," he said, as we went along the headland. "Four men and the parish. Now it's the one holding, and that's the first honest thing anybody's done to it since I was a lad."
