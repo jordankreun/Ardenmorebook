@@ -324,7 +324,7 @@ I said I was.
 
 "Then you'll not have had this." She came round with a loaf still too hot to be carried the way she was carrying it, turned it over once in her hands, and put it against my chest so that I had to take it or wear it. It was dark, and dense, and heavier than it had any business being, and it came through my coat like a warm brick.
 
-"I've nothing on me to pay you with."
+"What do I owe you? I've nothing on me this morning, but I'll come back and settle it."
 
 "Did I ask you?" She was already going back for the peel. "It keeps a week. Longer, if you're not particular. Don't cut it warm."
 
