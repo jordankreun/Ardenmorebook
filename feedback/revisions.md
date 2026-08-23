@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-3 open tracked changes. Synced from the reader.
+4 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -22,3 +22,9 @@ ORIGINAL:
 
 REVISED:
 > "Four men had this," he said, as we went along the headland. "Four men and the parish. Now it's the one holding, and that's the first honest thing anybody's done to it since I was a lad."
+
+ORIGINAL:
+> It was not only the honesty. He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay.
+
+REVISED:
+> He had told me the hill threw off everything set upon it, and I had stood on that crown in the morning and wanted, for the first time in three years, to stay.
