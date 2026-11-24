@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-6 open tracked changes. Synced from the reader.
+7 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -43,3 +43,9 @@ ORIGINAL:
 
 REVISED:
 > I did not know him, the man in the story, though he used my name. Emlyn. They had, however, made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He came from nowhere to an abandoned valley with grand plans of a magic tower, saw the whole of it standing behind his eyes on the first morning, raised it in a season, and with no trouble. He was never wrong about a footing, never sat a winter counting silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met.
+
+ORIGINAL:
+> Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was then was wiser or gentler or one whit less a fool than the figure in the story. God knows I had a great deal more to learn than I had the sense to know I was missing, and I learned most of it the slow way, late, and at a cost to better people than myself. But he was a man, at least, and not a monument. If I leave one true thing behind me, I would sooner it were him than the bronze one the tellers have cast up in his place.
+
+REVISED:
+> Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was then was wiser or gentler or one whit less a fool than the figure in the story. God knows I had a great deal more to learn than I had the sense to know I was missing, and I learned most of it the slow way, late, and at a cost. But he was a man, at least, and not a monument. If I leave one true thing behind me, I would sooner it were him than the bronze one the tellers have cast up in his place.

@@ -50,5 +50,13 @@
     "resolved": false,
     "resolvedTs": 0,
     "resolvedVia": ""
+  },
+  {
+    "chap": "Prologue",
+    "snip": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I w",
+    "original": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was then was wiser or gentler or one whit less a fool than the figure in the story. God knows I had a great deal more to learn than I had the sense to know I was missing, and I learned most of it the slow way, late, and at a cost to better people than myself. But he was a man, at least, and not a monument. If I leave one true thing behind me, I would sooner it were him than the bronze one the tellers have cast up in his place.",
+    "revised": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was then was wiser or gentler or one whit less a fool than the figure in the story. God knows I had a great deal more to learn than I had the sense to know I was missing, and I learned most of it the slow way, late, and at a cost. But he was a man, at least, and not a monument. If I leave one true thing behind me, I would sooner it were him than the bronze one the tellers have cast up in his place.",
+    "ts": 1795493420173,
+    "resolved": false
   }
 ]
