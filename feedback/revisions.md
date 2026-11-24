@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-5 open tracked changes. Synced from the reader.
+6 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -34,3 +34,12 @@ ORIGINAL:
 
 REVISED:
 > He stopped on the path and turned and looked at me, and there was nothing unkind in it. "Land wants two things, and it's the same two things everywhere I've ever heard of. It wants hands and it wants a road. You've bought yourself a deal of land with neither, and I'd not have you find that out in your own time and think we'd hidden it. That man of yours sat at my table three evenings running with a map and a pencil, and every evening the map got bigger and the pencil got sharper. I've sold land my whole life. I never once sold it to a man who wanted the ground his ground would need before his ground needed it, nor took the trouble to square the bits nobody else had ever thought worth the bother."
+
+
+## Prologue
+
+ORIGINAL:
+> I did not know him, the man in the story, though he wore my name. Emlyn. They had kept that much, and it is a strange thing to hear your own name walking about a taproom without you. They had made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He came up the valley meaning the tower, saw the whole of it standing behind his eyes on the first morning, raised it in a season, and the hill made no argument. He was never wrong about a footing, never sat a winter counting silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met. I would not cross a room to shake his hand.
+
+REVISED:
+> I did not know him, the man in the story, though he used my name. Emlyn. They had kept that much, and it is a strange thing to hear your own name walking about a taproom without you. They had made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He came up the valley meaning the tower, saw the whole of it standing behind his eyes on the first morning, raised it in a season, and the hill made no argument. He was never wrong about a footing, never sat a winter counting silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met. I would not cross a room to shake his hand.
