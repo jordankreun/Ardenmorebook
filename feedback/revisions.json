@@ -43,16 +43,6 @@
   },
   {
     "chap": "Prologue",
-    "snip": "I did not know him, the man in the story, though he wore my name. Emlyn. They had kept that much, an",
-    "original": "I did not know him, the man in the story, though he wore my name. Emlyn. They had kept that much, and it is a strange thing to hear your own name walking about a taproom without you. They had made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He came up the valley meaning the tower, saw the whole of it standing behind his eyes on the first morning, raised it in a season, and the hill made no argument. He was never wrong about a footing, never sat a winter counting silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met. I would not cross a room to shake his hand.",
-    "revised": "I did not know him, the man in the story, though he used my name. Emlyn. They had, however, made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He came from nowhere to an abandoned valley with grand plans of a magic tower, saw the whole of it standing behind his eyes on the first morning, raised it in a season, and with no trouble. He was never wrong about a footing, never sat a winter counting silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met.",
-    "ts": 1795493256533,
-    "resolved": false,
-    "resolvedTs": 0,
-    "resolvedVia": ""
-  },
-  {
-    "chap": "Prologue",
     "snip": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I w",
     "original": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was then was wiser or gentler or one whit less a fool than the figure in the story. God knows I had a great deal more to learn than I had the sense to know I was missing, and I learned most of it the slow way, late, and at a cost to better people than myself. But he was a man, at least, and not a monument. If I leave one true thing behind me, I would sooner it were him than the bronze one the tellers have cast up in his place.",
     "revised": "Not that the real one was any great prize. I will not sit here in my old age and pretend the man I was then was wiser or gentler or one whit less a fool than the figure in the story. God knows I had a great deal more to learn than I had the sense to know I was missing, and I learned most of it the slow way, late, and at a cost. But he was a man, at least, and not a monument. If I leave one true thing behind me, I would sooner it were him than the bronze one the tellers have cast up in his place.",
@@ -66,5 +56,15 @@
     "revised": "Perhaps I will set the true thing down one day. The wanting to has come over me lately, quiet and from behind. I know at least where I would begin, with the man himself: at the tired end of a bad few years, with far more skill than sense and nowhere in the world he needed to be. Before I let him take a single step, I would ask you to go easy on him. He did not yet know how any of it would turn out.",
     "ts": 1795493781048,
     "resolved": false
+  },
+  {
+    "chap": "Prologue",
+    "snip": "I did not know him, the man in the story, though he wore my name. Emlyn. They had kept that much, an",
+    "original": "I did not know him, the man in the story, though he wore my name. Emlyn. They had kept that much, and it is a strange thing to hear your own name walking about a taproom without you. They had made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He came up the valley meaning the tower, saw the whole of it standing behind his eyes on the first morning, raised it in a season, and the hill made no argument. He was never wrong about a footing, never sat a winter counting silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met. I would not cross a room to shake his hand.",
+    "revised": "I did not know him, the man in the story, though bore my name. Emlyn. They had, however, made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He came from nowhere to an abandoned valley with grand plans of a magic tower, saw the whole of it standing behind his eyes on the first morning, raised it in a season, and with no trouble. He was never wrong about a footing, never sat a winter counting silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met.",
+    "ts": 1795507914963,
+    "resolved": false,
+    "resolvedTs": 0,
+    "resolvedVia": ""
   }
 ]
