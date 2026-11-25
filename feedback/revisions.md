@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-16 open tracked changes. Synced from the reader.
+17 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -106,3 +106,9 @@ ORIGINAL:
 
 REVISED:
 > He did it by letter, once a month, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the gardener’s wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.
+
+ORIGINAL:
+> Penworth had stopped waiting. Somewhere in the thaw he found a buyer willing to begin the slow lawyer's business of purchasing a house of that size, and breathed not a word of it in his letter. He offered me a hill instead and asked only, in that mild and immovable way of his, that I look before he let me finish buying it. I gave him a yes to the looking and half a yes to the rest, and half a yes was all Penworth ever needed. He knew his man: give me something fresh to accept, and somewhere sensible for the money to go, and the house I could not make myself sell might consent to be sold out from under me while I stood in a far green field admiring a hill. The errand was the lever, though he was too tidy a man ever to call it so. I did not much mind being pried loose. I was tired, it was spring, and a man has to be sent somewhere. I would as soon it were a hill.
+
+REVISED:
+> Penworth had stopped waiting. Somewhere in the thaw he found a buyer willing to begin the slow business of purchasing a house of that size, and breathed not a word of it in his letter. He offered me a hill instead and asked only, in that mild and immovable way of his, that I look before he let me finish buying it. I gave him a yes to the looking and half a yes to the rest, and half a yes was all Penworth ever needed. He knew his man: give me something fresh to accept, and somewhere sensible for the money to go, and the house I could not make myself sell might consent to be sold out from under me while I stood in a far green field admiring a hill. The errand was the lever, though he was too tidy a man ever to call it so. I did not much mind being pried loose. I was tired, it was spring, and a man has to be sent somewhere. I would as soon it were a hill.
