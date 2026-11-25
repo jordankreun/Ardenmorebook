@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-9 open tracked changes. Synced from the reader.
+10 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -64,3 +64,9 @@ ORIGINAL:
 
 REVISED:
 > She had a point, though the fault was not entirely mine. I knew where I was going the way you know a thing you have been told rather than a thing you have seen. There was a hill for sale above a village and a fair breadth of ground around it. I had come to look at what I had all but already bought. Penworth had told me to, and I had long since given up trusting my own judgment about what was good for me over his.
+
+ORIGINAL:
+> Penworth was my man of affairs, and the running of my tangled life had been his for something over a decade. He kept the letters, the monies, and the steady mountain of paper a working life throws off whether a man attends to it or not. He was a spare, precise, formal gentleman out of Vethmark, near enough my own age and much tidier about the wearing of it, with a genius for finding me things before I knew I wanted them and securing the ground beneath them while I was still making up my mind. His letter reached me at the turn of the year and went soft at the folds from a season in my coat. It was three close pages to say he had found a piece of country he believed would suit me, *a hill of no agricultural worth and considerable quiet*; that he had provisionally secured it, along with workable land fit for tenants; and that he would count it a personal kindness if I looked at what I had nearly purchased before he made me finish the purchasing.
+
+REVISED:
+> Penworth was my man of affairs, and the running of my tangled life had been his for something over a decade. He kept the letters, the monies, and the steady mountain of paper a working life throws off whether a man attends to it or not. He was a spare, precise, formal gentleman out of Vethmark, near enough my own age and much tidier about the wearing of it, with a genius for finding me opportunities before I knew I wanted them and securing the ground beneath them while I was still making up my mind. His letter reached me at the turn of the year and went soft at the folds from a season in my coat. It was three close pages to say he had found a piece of country he believed would suit me, *a hill of no agricultural worth and considerable quiet*; that he had provisionally secured it, along with workable land fit for tenants; and that he would count it a personal kindness if I looked at what I had nearly purchased before he made me finish the purchasing.
