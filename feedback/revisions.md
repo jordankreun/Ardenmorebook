@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-17 open tracked changes. Synced from the reader.
+18 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -112,3 +112,9 @@ ORIGINAL:
 
 REVISED:
 > Penworth had stopped waiting. Somewhere in the thaw he found a buyer willing to begin the slow business of purchasing a house of that size, and breathed not a word of it in his letter. He offered me a hill instead and asked only, in that mild and immovable way of his, that I look before he let me finish buying it. I gave him a yes to the looking and half a yes to the rest, and half a yes was all Penworth ever needed. He knew his man: give me something fresh to accept, and somewhere sensible for the money to go, and the house I could not make myself sell might consent to be sold out from under me while I stood in a far green field admiring a hill. The errand was the lever, though he was too tidy a man ever to call it so. I did not much mind being pried loose. I was tired, it was spring, and a man has to be sent somewhere. I would as soon it were a hill.
+
+ORIGINAL:
+> I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar. He went on writing all the rest of that winter, once a fortnight, and set the same three things in front of me in different clothes each time, and never once observed aloud that I had done no thinking about them. Then the thaw came, and he stopped setting them in front of me at all.
+
+REVISED:
+> I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar. He went on writing all the rest of that winter, and set the same three things in front of me in different clothes each time, and never once observed aloud that I had done no thinking about them. Then the thaw came, and he stopped setting them in front of me at all.
