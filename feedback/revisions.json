@@ -130,5 +130,13 @@
     "resolved": false,
     "resolvedTs": 0,
     "resolvedVia": ""
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "*I am aware you will read this as the resumption of a conversation we have already had twice. It is.",
+    "original": "*I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to become friendly with one another through the mere passage of time.*",
+    "revised": "*I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to remain friendly with one another given any extended passage of time.*",
+    "ts": 1795586570982,
+    "resolved": false
   }
 ]

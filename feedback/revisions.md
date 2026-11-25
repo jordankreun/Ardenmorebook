@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-15 open tracked changes. Synced from the reader.
+16 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -100,3 +100,9 @@ ORIGINAL:
 
 REVISED:
 > *The quarter's accounting for the property across the water is enclosed.*
+
+ORIGINAL:
+> *I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to become friendly with one another through the mere passage of time.*
+
+REVISED:
+> *I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to remain friendly with one another given any extended passage of time.*
