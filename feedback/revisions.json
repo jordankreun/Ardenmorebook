@@ -153,8 +153,10 @@
     "chap": "Chapter One: Ardenmoor",
     "snip": "I wrote back that I would think about it. We both understood that to be a door shut quietly rather t",
     "original": "I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar. He went on writing all the rest of that winter, once a fortnight, and set the same three things in front of me in different clothes each time, and never once observed aloud that I had done no thinking about them. Then the thaw came, and he stopped setting them in front of me at all.",
-    "revised": "I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar. He went on writing all the rest of that winter, and set the same three things in front of me in different clothes each time, and never once observed aloud that I had done no thinking about them. Then the thaw came, and he stopped setting them in front of me at all.",
-    "ts": 1795586775006,
-    "resolved": false
+    "revised": "I wrote back that I would think about it. We both understood that to be a door shut quietly rather than a door left ajar. He went on writing all the rest of that winter, and set the same three things in front of me in different clothes each time, and never once observed that I had done no thinking about them. Then the thaw came, and he stopped setting them in front of me at all.",
+    "ts": 1795586961745,
+    "resolved": false,
+    "resolvedTs": 0,
+    "resolvedVia": ""
   }
 ]
