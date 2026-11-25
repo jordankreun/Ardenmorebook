@@ -90,12 +90,6 @@ REVISED:
 > I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boots while my own went up across the river; and my own was to be a wonder, or a warning, depending on when you asked. It was more overdone than anything my father would have put his name to: his clean lines swollen to three times the scale and as many times the cost, a grand gesture ahead of a wedding. I commissioned it of my father's firm. That is the polite way of saying I went to the men who had taught me and told them what I wanted instead of asking them what was good. I drew a small part of it myself in the good years, when I still supposed I knew what I was building toward, and left them the rest of the drawing and the long patient business of putting it up. There was no wedding. I never lived in the house. For three years it stood across the water, costing a small fortune to keep empty, and I could no more sell it than cross its threshold. Penworth spent that winter trying, with a delicacy that cost him something, to talk me round to letting it go, for the sake of my purse and, though he was too careful to say it, the rest of me.
 
 ORIGINAL:
-> He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the caretaker's wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.
-
-REVISED:
-> He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the gardener’s wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.
-
-ORIGINAL:
 > *The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat since the house was finished, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
 
 REVISED:
@@ -106,3 +100,9 @@ ORIGINAL:
 
 REVISED:
 > *I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to remain friendly with one another given any extended passage of time.*
+
+ORIGINAL:
+> He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the caretaker's wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.
+
+REVISED:
+> He did it by letter, once a month, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the gardener’s wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.

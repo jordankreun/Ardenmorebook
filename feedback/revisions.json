@@ -115,14 +115,6 @@
   },
   {
     "chap": "Chapter One: Ardenmoor",
-    "snip": "He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same",
-    "original": "He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the caretaker's wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.",
-    "revised": "He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the gardener’s wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.",
-    "ts": 1795586235175,
-    "resolved": false
-  },
-  {
-    "chap": "Chapter One: Ardenmoor",
     "snip": "*The quarter's accounting for the property across the water is enclosed. I have set the caretaker's ",
     "original": "*The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat since the house was finished, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*",
     "revised": "*The quarter's accounting for the property across the water is enclosed.*",
@@ -138,5 +130,15 @@
     "revised": "*I am aware you will read this as the resumption of a conversation we have already had twice. It is. I have nothing new to put into it. I have only the same three things I had in the autumn: that the house is sound, that it is empty, and that those two facts are not going to remain friendly with one another given any extended passage of time.*",
     "ts": 1795586570982,
     "resolved": false
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same",
+    "original": "He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the caretaker's wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.",
+    "revised": "He did it by letter, once a month, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the gardener’s wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.",
+    "ts": 1795586709077,
+    "resolved": false,
+    "resolvedTs": 0,
+    "resolvedVia": ""
   }
 ]
