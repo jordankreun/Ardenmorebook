@@ -99,4 +99,4 @@ ORIGINAL:
 > *The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat since the house was finished, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
 
 REVISED:
-> *The quarter's accounting for the property across the water is enclosed. I have set the caretaker's fee at the head of the second column rather than the foot of the first, where it has sat since the house was finished, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
+> *The quarter's accounting for the property across the water is enclosed.*
