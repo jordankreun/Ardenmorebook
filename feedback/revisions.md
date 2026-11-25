@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-13 open tracked changes. Synced from the reader.
+14 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -88,3 +88,9 @@ ORIGINAL:
 
 REVISED:
 > I had never meant to stay long. My father's house was a stopgap, somewhere to keep myself and my boots while my own went up across the river; and my own was to be a wonder, or a warning, depending on when you asked. It was more overdone than anything my father would have put his name to: his clean lines swollen to three times the scale and as many times the cost, a grand gesture ahead of a wedding. I commissioned it of my father's firm. That is the polite way of saying I went to the men who had taught me and told them what I wanted instead of asking them what was good. I drew a small part of it myself in the good years, when I still supposed I knew what I was building toward, and left them the rest of the drawing and the long patient business of putting it up. There was no wedding. I never lived in the house. For three years it stood across the water, costing a small fortune to keep empty, and I could no more sell it than cross its threshold. Penworth spent that winter trying, with a delicacy that cost him something, to talk me round to letting it go, for the sake of my purse and, though he was too careful to say it, the rest of me.
+
+ORIGINAL:
+> He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the caretaker's wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.
+
+REVISED:
+> He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the gardener’s wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.
