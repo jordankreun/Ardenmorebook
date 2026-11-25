@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-14 open tracked changes. Synced from the reader.
+15 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -94,3 +94,9 @@ ORIGINAL:
 
 REVISED:
 > He did it by letter, once a fortnight, all through the dark of the year, and never twice in the same way. He wrote about the roof. He wrote about the gardener’s wages, and the standing order for coal at a house nobody heated, and the chimney, which wanted sweeping whether or not anyone had lit a fire under it. Before ever the hill was mentioned, he wrote me this.
+
+ORIGINAL:
+> *The quarter's accounting for the property across the water is enclosed. I have set the caretaker's item at the head of the second column rather than the foot of the first, where it has sat since the house was finished, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
+
+REVISED:
+> *The quarter's accounting for the property across the water is enclosed. I have set the caretaker's fee at the head of the second column rather than the foot of the first, where it has sat since the house was finished, on the principle that a figure a man has learned the shape of stops being a figure and becomes part of the furniture.*
