@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-10 open tracked changes. Synced from the reader.
+11 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -70,3 +70,9 @@ ORIGINAL:
 
 REVISED:
 > Penworth was my man of affairs, and the running of my tangled life had been his for something over a decade. He kept the letters, the monies, and the steady mountain of paper a working life throws off whether a man attends to it or not. He was a spare, precise, formal gentleman out of Vethmark, near enough my own age and much tidier about the wearing of it, with a genius for finding me opportunities before I knew I wanted them and securing the ground beneath them while I was still making up my mind. His letter reached me at the turn of the year and went soft at the folds from a season in my coat. It was three close pages to say he had found a piece of country he believed would suit me, *a hill of no agricultural worth and considerable quiet*; that he had provisionally secured it, along with workable land fit for tenants; and that he would count it a personal kindness if I looked at what I had nearly purchased before he made me finish the purchasing.
+
+ORIGINAL:
+> The townhouse I had wintered in was my father's before it was mine, and my father had been an architect, which is to say a man who drew the houses, shops, and buildings that other men lived their whole lives inside of. He built a small respected firm about the doing of it, one that outlived him and stands yet, and I hold his share in it still. I learned drawing at his elbow as a boy and paid my way through school with drafting work at a board of my own, before I ever took up any stranger trade.
+
+REVISED:
+> The townhouse I had wintered in was my father's before it was mine. My father had been an architect, which is to say a man who drew the houses, shops, and buildings that other men lived their whole lives inside of. He built a small respected firm about the doing of it, one that outlived him and stands yet, and I hold his share in it still. I learned drawing at his elbow as a boy and paid my way through school with drafting work at a board of my own, before I ever took up any stranger trade.
