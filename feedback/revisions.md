@@ -1,6 +1,6 @@
 # Tracked changes: The Tower of Ardenmoor
 
-8 open tracked changes. Synced from the reader.
+9 open tracked changes. Synced from the reader.
 
 Apply these edits to the manuscript. "REVISED: (delete this paragraph)" means remove it entirely. (Resolved/applied changes are omitted here; full history is in revisions.json.)
 
@@ -55,3 +55,12 @@ ORIGINAL:
 
 REVISED:
 > I did not know him, the man in the story, though he bore my name. Emlyn. They had, however, made something else of me in those tales: a figure, a wonder, a man who walked through life already knowing its shape. He was never wrong about anything of consequence, never sat a winter counting dwindling silver, never stood in the rain arguing with a wagon. The tellers are fond of such men: sure of themselves, untouched by anything, always the right word ready and never a wrong night lying behind them. The man they made is no one I ever met.
+
+
+## Chapter One: Ardenmoor
+
+ORIGINAL:
+> She had a point, though the fault was not entirely mine. I knew where I was going the way you know a thing you have been told rather than a thing you have seen. There was a hill for sale above a village of that name, and a fair breadth of ground around it, and I had come to look at what I had all but already bought. Penworth had told me to, and I had long since given up trusting my own judgment about what was good for me over his.
+
+REVISED:
+> She had a point, though the fault was not entirely mine. I knew where I was going the way you know a thing you have been told rather than a thing you have seen. There was a hill for sale above a village and a fair breadth of ground around it. I had come to look at what I had all but already bought. Penworth had told me to, and I had long since given up trusting my own judgment about what was good for me over his.

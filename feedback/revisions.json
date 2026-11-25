@@ -66,5 +66,13 @@
     "resolved": false,
     "resolvedTs": 0,
     "resolvedVia": ""
+  },
+  {
+    "chap": "Chapter One: Ardenmoor",
+    "snip": "She had a point, though the fault was not entirely mine. I knew where I was going the way you know a",
+    "original": "She had a point, though the fault was not entirely mine. I knew where I was going the way you know a thing you have been told rather than a thing you have seen. There was a hill for sale above a village of that name, and a fair breadth of ground around it, and I had come to look at what I had all but already bought. Penworth had told me to, and I had long since given up trusting my own judgment about what was good for me over his.",
+    "revised": "She had a point, though the fault was not entirely mine. I knew where I was going the way you know a thing you have been told rather than a thing you have seen. There was a hill for sale above a village and a fair breadth of ground around it. I had come to look at what I had all but already bought. Penworth had told me to, and I had long since given up trusting my own judgment about what was good for me over his.",
+    "ts": 1795580469979,
+    "resolved": false
   }
 ]
